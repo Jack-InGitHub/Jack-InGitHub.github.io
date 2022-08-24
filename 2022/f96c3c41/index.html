@@ -1,0 +1,1171 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=auto>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.ico">
+  <link rel="icon" href="/img/favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="author" content="Oikiou">
+  <meta name="keywords" content="">
+  
+    <meta name="description" content="静态网页静态网页生成器Jekyll（由 Github 构建的用于为其 Github 页面提供支持的 Ruby 生成器）、 Hugo（构建在 Go 编程之上的极快静态生成器）语言）和 Hexo（基于 Node.js 的快速网站生成器）。 参考 How to Choose the Right Static Generator: Jekyll vs. Hugo vs. Hexo StackShare H">
+<meta property="og:type" content="article">
+<meta property="og:title" content="静态网页">
+<meta property="og:url" content="http://blog.staion.cf/2022/f96c3c41/index.html">
+<meta property="og:site_name" content="Oikiou&#39;s Blog">
+<meta property="og:description" content="静态网页静态网页生成器Jekyll（由 Github 构建的用于为其 Github 页面提供支持的 Ruby 生成器）、 Hugo（构建在 Go 编程之上的极快静态生成器）语言）和 Hexo（基于 Node.js 的快速网站生成器）。 参考 How to Choose the Right Static Generator: Jekyll vs. Hugo vs. Hexo StackShare H">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/68747470733a2f2f70706f66666963652e6769746875622e696f2f6865786f2d7468656d652d6963617275732f67616c6c6572792f707265766965772e706e673f31.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f666c7569642d6465762f737461746963406d61737465722f6865786f2d7468656d652d666c7569642f73637265656e73686f74732f696e6465782e706e67.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/687474703a2f2f7374617469632e626c696e6b666f782e636f6d2f6d61746572792d32303138313230322d312e706e67.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/687474703a2f2f7374617469632e626c696e6b666f782e636f6d2f6d61746572792d32303138313230322d332e706e67.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a65727279633132372f43444e406d322f696d672f7468656d652d627574746572666c792d726561646d652e706e67.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30332f31382f663550516c576973766d397a62674b2e6a7067.jpeg">
+<meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30332f31382f585742476639354532743162646e6c2e6a7067.jpeg">
+<meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/image-20220815153651988.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/image-20220815133503275.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/2fc062cb2.svg">
+<meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/licences_3bf0e9af_670x502.jpg">
+<meta property="article:published_time" content="2022-08-21T14:57:15.000Z">
+<meta property="article:modified_time" content="2022-08-24T13:09:32.178Z">
+<meta property="article:author" content="Oikiou">
+<meta property="article:tag" content="HEXO">
+<meta property="article:tag" content="Jekyll">
+<meta property="article:tag" content="Fluid">
+<meta property="article:tag" content="Cusdis">
+<meta property="article:tag" content="Twikoo">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://blog.staion.cf/2022/f96c3c41/68747470733a2f2f70706f66666963652e6769746875622e696f2f6865786f2d7468656d652d6963617275732f67616c6c6572792f707265766965772e706e673f31.png">
+  
+  
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+  
+  <title>静态网页 - Oikiou&#39;s Blog</title>
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
+
+
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/github-markdown-css/4.0.0/github-markdown.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/hint.css/2.7.0/hint.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css" />
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+<!-- Do not modify the link that theme dependent icons -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_hj8rtnfg7um.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_lbnruvf0jn.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+
+  <link id="highlight-css" rel="stylesheet" href="/css/highlight.css" />
+  
+    <link id="highlight-css-dark" rel="stylesheet" href="/css/highlight-dark.css" />
+  
+
+
+
+  
+<link rel="stylesheet" href="/css/custom.css">
+
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    Fluid.ctx = Object.assign({}, Fluid.ctx)
+    var CONFIG = {"hostname":"blog.staion.cf","root":"/","version":"1.9.2","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"bash"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"left","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":false,"baidu":null,"google":"G-TSV6137NWK","gtag":"G-TSV6137NWK","tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/xml/local-search-database.xml"};
+
+    if (CONFIG.web_analytics.follow_dnt) {
+      var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      Fluid.ctx.dnt = dntVal && (dntVal.startsWith('1') || dntVal.startsWith('yes') || dntVal.startsWith('on'));
+    }
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+  
+
+  
+
+  
+    <!-- Google Analytics -->
+    <script async>
+      if (!Fluid.ctx.dnt) {
+        Fluid.utils.createScript('https://www.google-analytics.com/analytics.js', function() {
+          window.ga = window.ga || function() { (ga.q = ga.q || []).push(arguments) };
+          ga.l = +new Date;
+          ga('create', 'G-TSV6137NWK', 'auto');
+          ga('send', 'pageview');
+        });
+      }
+    </script>
+  
+
+  
+    <!-- Google gtag.js -->
+    <script async>
+      if (!Fluid.ctx.dnt) {
+        Fluid.utils.createScript('https://www.googletagmanager.com/gtag/js?id=G-TSV6137NWK', function() {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-TSV6137NWK');
+        });
+      }
+    </script>
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+  
+<meta name="generator" content="Hexo 6.2.0"></head>
+
+
+<body>
+  
+
+  <header>
+    
+
+<div class="header-inner" style="height: 70vh;">
+  <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <strong>Oikiou&#39;s Blog</strong>
+    </a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/categories/">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/tags/">
+                <i class="iconfont icon-tags-fill"></i>
+                标签
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/links/">
+                <i class="iconfont icon-link-fill"></i>
+                友链
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
+              &nbsp;<i class="iconfont icon-search"></i>&nbsp;
+            </a>
+          </li>
+          
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self" href="javascript:;" aria-label="Color Toggle">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+<div id="banner" class="banner" parallax=true
+     style="background: url('/img/Honeyview_fantasy-scifi-background-fiction-wallpaper-n-o-d-nz8w3yf10lbce6hw.jpg') no-repeat center center; background-size: cover;">
+  <div class="full-bg-img">
+    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+      <div class="banner-text text-center fade-in-up">
+        <div class="h2">
+          
+            <span id="subtitle" data-typed-text="静态网页"></span>
+          
+        </div>
+
+        
+          
+  <div class="mt-3">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-author" aria-hidden="true"></i>
+        Oikiou
+      </span>
+    
+    
+      <span class="post-meta">
+        <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+        <time datetime="2022-08-21 22:57" pubdate>
+          2022年8月21日 晚上
+        </time>
+      </span>
+    
+  </div>
+
+  <div class="mt-1">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-chart"></i>
+        
+          4.9k 字
+        
+      </span>
+    
+
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-clock-fill"></i>
+        
+        
+        
+          83 分钟
+        
+      </span>
+    
+
+    
+    
+      
+        <span id="busuanzi_container_page_pv" style="display: none">
+          <i class="iconfont icon-eye" aria-hidden="true"></i>
+          <span id="busuanzi_value_page_pv"></span> 次
+        </span>
+        
+      
+    
+  </div>
+
+
+        
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+</div>
+
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar" style="padding-left: 2rem; margin-right: -1rem">
+    <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+
+
+  </aside>
+
+
+    </div>
+
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none">静态网页</h1>
+            
+              <p class="note note-info">
+                
+                  
+                    本文最后更新于：33 分钟前
+                  
+                
+              </p>
+            
+            
+              <div class="markdown-body">
+                
+                <h1 id="静态网页"><a href="#静态网页" class="headerlink" title="静态网页"></a>静态网页</h1><h1 id="静态网页生成器"><a href="#静态网页生成器" class="headerlink" title="静态网页生成器"></a>静态网页生成器</h1><p><a target="_blank" rel="noopener" href="https://jekyllrb.com/">Jekyll</a>（由 Github 构建的用于为其 Github 页面提供支持的 Ruby 生成器）、</p>
+<p><a target="_blank" rel="noopener" href="https://gohugo.io/">Hugo</a>（构建在 Go 编程之上的极快静态生成器）语言）和</p>
+<p><a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>（基于 Node.js 的快速网站生成器）。</p>
+<p><strong>参考</strong></p>
+<p><a target="_blank" rel="noopener" href="https://www.techiediaries.com/jekyll-hugo-hexo/">How to Choose the Right Static Generator: Jekyll vs. Hugo vs. Hexo</a></p>
+<p><a target="_blank" rel="noopener" href="https://stackshare.io/stackups/hexo-vs-hugo-vs-jekyll">StackShare</a></p>
+<h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><p>TBD</p>
+<h2 id="Jekyll"><a href="#Jekyll" class="headerlink" title="Jekyll"></a>Jekyll</h2><p>TBD</p>
+<h2 id="Hugo"><a href="#Hugo" class="headerlink" title="Hugo"></a>Hugo</h2><p>TBD</p>
+<h1 id="Hexo-1"><a href="#Hexo-1" class="headerlink" title="Hexo"></a>Hexo</h1><h2 id="Hexo-部署"><a href="#Hexo-部署" class="headerlink" title="Hexo 部署"></a>Hexo 部署</h2><p><a target="_blank" rel="noopener" href="https://hexo.io/zh-cn/docs/">HEXO文档_参考链接</a></p>
+<p><strong>要求:</strong></p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">Node.js (Node.js 版本需不低于 10.13，建议使用 Node.js 12.0 及以上版本)<br>Git<br></code></pre></td></tr></table></figure>
+
+<p><strong>部署:</strong></p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install hexo-cli -g<br>hexo init blog<br><span class="hljs-built_in">cd</span> blog<br>npm install<br>hexo server<br></code></pre></td></tr></table></figure>
+
+<h2 id="Hexo-CMD"><a href="#Hexo-CMD" class="headerlink" title="Hexo CMD"></a>Hexo CMD</h2><h3 id="Init-初始化"><a href="#Init-初始化" class="headerlink" title="Init 初始化"></a>Init 初始化</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo init [folder]<br></code></pre></td></tr></table></figure>
+
+<p>新建一个网站。如果没有设置 <code>folder</code> ，Hexo 默认在目前的文件夹建立网站。</p>
+<h3 id="new-新建"><a href="#new-新建" class="headerlink" title="new 新建"></a>new 新建</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo new [layout] &lt;title&gt;<br>hexo new <span class="hljs-string">&quot;post title with whitespace&quot;</span><br>hexo new page --path about/me <span class="hljs-string">&quot;About me&quot;</span><br>hexo new page -p     about/me <span class="hljs-string">&quot;About me&quot;</span><br></code></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th align="left">参数</th>
+<th align="left">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><code>-p</code>, <code>--path</code></td>
+<td align="left">自定义新文章的路径</td>
+</tr>
+<tr>
+<td align="left"><code>-r</code>, <code>--replace</code></td>
+<td align="left">如果存在同名文章，将其替换</td>
+</tr>
+<tr>
+<td align="left"><code>-s</code>, <code>--slug</code></td>
+<td align="left">文章的 Slug，作为新文章的文件名和发布后的 URL</td>
+</tr>
+</tbody></table>
+<h3 id="generate-生成"><a href="#generate-生成" class="headerlink" title="generate 生成"></a>generate 生成</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 生成静态文件。</span><br>hexo generate<br><span class="hljs-comment"># 该命令可以简写为</span><br>hexo g<br></code></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th align="left">选项</th>
+<th></th>
+<th align="left">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">-d</td>
+<td>–deploy</td>
+<td align="left"><strong>文件生成后立即部署网站</strong></td>
+</tr>
+<tr>
+<td align="left">-w</td>
+<td>–watch</td>
+<td align="left"><strong>监视文件变动</strong></td>
+</tr>
+<tr>
+<td align="left">-b</td>
+<td>–bail</td>
+<td align="left">生成过程中如果发生任何未处理的异常则抛出异常</td>
+</tr>
+<tr>
+<td align="left">-f</td>
+<td>–force</td>
+<td align="left">强制重新生成文件 Hexo 引入了差分机制，<br>如果 <code>public</code> 目录存在，那么 <code>hexo g</code> 只会重新生成改动的文件。<br/>使用该参数的效果接近 <code>hexo clean &amp;&amp; hexo generate</code></td>
+</tr>
+<tr>
+<td align="left">-c</td>
+<td>–concurrency</td>
+<td align="left">最大同时生成文件的数量，默认无限制</td>
+</tr>
+</tbody></table>
+<h3 id="publish-草稿"><a href="#publish-草稿" class="headerlink" title="publish 草稿"></a>publish 草稿</h3><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs xml">hexo publish [layout] <span class="hljs-tag">&lt;<span class="hljs-name">filename</span>&gt;</span><br></code></pre></td></tr></table></figure>
+
+<p>发表草稿。</p>
+<h3 id="server-服务器"><a href="#server-服务器" class="headerlink" title="server 服务器"></a>server 服务器</h3><p>在服务器启动期间，Hexo 会监视文件变动并自动更新，您无须重启服务器。</p>
+<figure class="highlight axapta"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs axapta">hexo <span class="hljs-keyword">server</span><br>hexo s<br></code></pre></td></tr></table></figure>
+
+<p>启动服务器。默认情况下，访问网址为： <code>http://localhost:4000/</code>。</p>
+<table>
+<thead>
+<tr>
+<th align="left">选项</th>
+<th align="left">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><code>-p</code>, <code>--port</code></td>
+<td align="left">重设端口</td>
+</tr>
+<tr>
+<td align="left"><code>-s</code>, <code>--static</code></td>
+<td align="left">只使用静态文件(不会更新)</td>
+</tr>
+<tr>
+<td align="left"><code>-l</code>, <code>--log</code></td>
+<td align="left">启动日记记录，使用覆盖记录格式</td>
+</tr>
+<tr>
+<td align="left"><code>-i</code></td>
+<td align="left"><code>hexo server -i 192.168.1.1</code> 指定监听的IP</td>
+</tr>
+</tbody></table>
+<h3 id="deploy-部署"><a href="#deploy-部署" class="headerlink" title="deploy 部署"></a>deploy 部署</h3><figure class="highlight jboss-cli"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs jboss-cli"><span class="hljs-comment"># 部署网站。</span><br>hexo <span class="hljs-keyword">deploy</span><br><span class="hljs-comment"># 该命令可以简写为：</span><br>hexo d<br></code></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th align="left">参数</th>
+<th align="left">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><code>-g</code>, <code>--generate</code></td>
+<td align="left">部署之前预先生成静态文件</td>
+</tr>
+</tbody></table>
+<h3 id="render"><a href="#render" class="headerlink" title="render"></a>render</h3><figure class="highlight prolog"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs prolog">hexo render &lt;file1&gt; [file2] ...<br></code></pre></td></tr></table></figure>
+
+<p>渲染文件。</p>
+<table>
+<thead>
+<tr>
+<th align="left">参数</th>
+<th align="left">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><code>-o</code>, <code>--output</code></td>
+<td align="left">设置输出路径</td>
+</tr>
+</tbody></table>
+<h3 id="migrate"><a href="#migrate" class="headerlink" title="migrate"></a>migrate</h3><figure class="highlight elm"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs elm"><span class="hljs-title">hexo</span> migrate &lt;<span class="hljs-keyword">type</span>&gt;<br></code></pre></td></tr></table></figure>
+
+<p>从其他博客系统 <a target="_blank" rel="noopener" href="https://hexo.io/zh-cn/docs/migration">迁移内容</a>。</p>
+<h3 id="clean-清理"><a href="#clean-清理" class="headerlink" title="clean 清理"></a>clean 清理</h3><figure class="highlight crystal"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs crystal"><span class="hljs-variable">$ </span>hexo clean<br></code></pre></td></tr></table></figure>
+
+<p>清除缓存文件 (<code>db.json</code>) 和已生成的静态文件 (<code>public</code>)。</p>
+<p>在某些情况（尤其是更换主题后），如果发现您对站点的更改无论如何也不生效，您可能需要运行该命令。</p>
+<h3 id="list"><a href="#list" class="headerlink" title="list"></a>list</h3><figure class="highlight crystal"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs crystal"><span class="hljs-variable">$ </span>hexo list &lt;<span class="hljs-keyword">type</span>&gt;<br></code></pre></td></tr></table></figure>
+
+<p>列出网站资料。</p>
+<h1 id="Hexo-Theme"><a href="#Hexo-Theme" class="headerlink" title="Hexo Theme"></a>Hexo Theme</h1><p>我是直接在github搜索 <code>hexo theme</code>看到了几个 star 比较多而且比较活跃的 repository </p>
+<ul>
+<li><p><strong><a target="_blank" rel="noopener" href="https://github.com/ppoffice/hexo-theme-icarus">icarus</a></strong> 5.5K star</p>
+<p><img src="/2022/f96c3c41/68747470733a2f2f70706f66666963652e6769746875622e696f2f6865786f2d7468656d652d6963617275732f67616c6c6572792f707265766965772e706e673f31.png" srcset="/img/loading.gif" lazyload alt="img"></p>
+</li>
+<li><p><strong><a target="_blank" rel="noopener" href="https://github.com/fluid-dev/hexo-theme-fluid">fluid</a></strong> 4.8K star</p>
+<p><img src="/2022/f96c3c41/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f666c7569642d6465762f737461746963406d61737465722f6865786f2d7468656d652d666c7569642f73637265656e73686f74732f696e6465782e706e67.png" srcset="/img/loading.gif" lazyload alt="ScreenShot"></p>
+</li>
+<li><p><a target="_blank" rel="noopener" href="https://github.com/blinkfox/hexo-theme-matery">matery</a>(blinkfox) 4.5K star</p>
+<p><img src="/2022/f96c3c41/687474703a2f2f7374617469632e626c696e6b666f782e636f6d2f6d61746572792d32303138313230322d312e706e67.png" srcset="/img/loading.gif" lazyload alt="首页"></p>
+<p><img src="/2022/f96c3c41/687474703a2f2f7374617469632e626c696e6b666f782e636f6d2f6d61746572792d32303138313230322d332e706e67.png" srcset="/img/loading.gif" lazyload alt="首页文章列表"></p>
+</li>
+<li><p><strong><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">butterfly</a></strong> 4.3K star</p>
+<p><img src="/2022/f96c3c41/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a65727279633132372f43444e406d322f696d672f7468656d652d627574746572666c792d726561646d652e706e67.png" srcset="/img/loading.gif" lazyload alt="img"></p>
+</li>
+<li><p><a target="_blank" rel="noopener" href="https://github.com/volantis-x/hexo-theme-volantis">volantis</a> 1.5k star</p>
+<p><img src="/2022/f96c3c41/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30332f31382f663550516c576973766d397a62674b2e6a7067.jpeg" srcset="/img/loading.gif" lazyload alt="img"></p>
+<p><img src="/2022/f96c3c41/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30332f31382f585742476639354532743162646e6c2e6a7067.jpeg" srcset="/img/loading.gif" lazyload alt="img"></p>
+</li>
+</ul>
+<p>其中 <code>fluid</code> 和 <code>volantis</code> 最对我胃口, 最后选择的 <code>fluid</code>, 后期可能会改成<code>volantis</code>或者<code>icarus</code>试试看, 主要是喜欢简洁些, 又能有一定的观赏性的.</p>
+<h2 id="Fluid"><a href="#Fluid" class="headerlink" title="Fluid"></a>Fluid</h2><p>参考文档</p>
+<p><a target="_blank" rel="noopener" href="https://hexo.fluid-dev.com/docs/guide/">https://hexo.fluid-dev.com/docs/guide/</a></p>
+<p>theme 的 Github</p>
+<p><a target="_blank" rel="noopener" href="https://github.com/fluid-dev/hexo-theme-fluid">https://github.com/fluid-dev/hexo-theme-fluid</a></p>
+<h1 id="Hexo-Note"><a href="#Hexo-Note" class="headerlink" title="Hexo Note"></a>Hexo Note</h1><h2 id="Hexo-Permalink简化"><a href="#Hexo-Permalink简化" class="headerlink" title="Hexo Permalink简化"></a>Hexo Permalink简化</h2><p>参考:</p>
+<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/Galahadzhou/article/details/105355733">Hexo Permalink简化</a></p>
+<p>Note:</p>
+<p>使用<code>hexo-abbrlink</code>插件实现</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># install</span><br>npm install hexo-abbrlink --save<br><span class="hljs-comment"># setting edit _config.yml</span><br>permalink: posts/:abbrlink.html<br>abbrlink:<br>  alg: crc32  <span class="hljs-comment"># 算法：crc16(default) and crc32</span><br>  rep: hex    <span class="hljs-comment"># 进制：dec(default) and hex</span><br><br></code></pre></td></tr></table></figure>
+
+<h2 id="图片链接问题"><a href="#图片链接问题" class="headerlink" title="图片链接问题"></a>图片链接问题</h2><p><strong><code>hexo</code>本地图片显示问题</strong></p>
+<p>使用<code>hexo</code>生成静态资源后,由于<code>url</code>的问题会出现图片加载的问题,现在网上的文章及官方的解决方案大概分为三种:</p>
+<ol>
+<li>将图片放入<code>source/images</code>目录下,每次<code>generate</code>都会生成图片,在使用相对或绝对路径进行引用</li>
+<li>配置<code>hexo</code>的<code>_config.yml</code>文件, 将 <code>post_asset_folder</code> 设置为<code>true</code>, 这样每次new 生成一个文章时都会同步生成一个同名的文件夹,然后设置相对或绝对路径. </li>
+<li>使用<code>hexo</code>官方的解决方案,使用模版变量, <code>&#123;% asset_img slug [title] %&#125; </code> </li>
+<li>!new!. <code>hexo init</code>的时候会自动copy一个插件 <code>hexo-renderer-marked</code> 这个插件可以开启相对路径的支持,但是需要改一些代码</li>
+</ol>
+<p>但是在配置过程中发现这三种方式都多多少少存在一些问题,前两中首页跟内容页会有一个加载失败的问题,而第三种则失去了<code>markdown</code>的意义.</p>
+<p><strong>方法四:</strong></p>
+<p>官方手册上提到过, <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo-renderer-marked">hexo-renderer-marked</a> 3.1.0已经开始支持相对路径了.但是可以看到它支持的路径似乎并不合理, 其他的md阅读器是不能识别这样的路径的.</p>
+<p><img src="/2022/f96c3c41/image-20220815153651988.png" srcset="/img/loading.gif" lazyload alt="image-20220815153651988"></p>
+<p>参考: <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo-renderer-marked/issues/216">https://github.com/hexojs/hexo-renderer-marked/issues/216</a></p>
+<ol>
+<li><p>修改<code>_config.yml</code></p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">post_asset_folder:</span> <span class="hljs-literal">true</span><br><span class="hljs-attr">marked:</span><br>  <span class="hljs-attr">prependRoot:</span> <span class="hljs-literal">true</span><br>  <span class="hljs-attr">postAsset:</span> <span class="hljs-literal">true</span><br></code></pre></td></tr></table></figure>
+</li>
+<li><p>修改文件<code>node_modules\hexo-renderer-marked\lib\renderer.js</code></p>
+</li>
+</ol>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs js"><span class="hljs-keyword">if</span> (!<span class="hljs-regexp">/^(#|\/\/|http(s)?:)/</span>.<span class="hljs-title function_">test</span>(href) &amp;&amp; !relative_link &amp;&amp; prependRoot) &#123;<br>  <span class="hljs-keyword">if</span> (!href.<span class="hljs-title function_">startsWith</span>(<span class="hljs-string">&#x27;/&#x27;</span>) &amp;&amp; !href.<span class="hljs-title function_">startsWith</span>(<span class="hljs-string">&#x27;\\&#x27;</span>) &amp;&amp; postPath) &#123;<br>    <span class="hljs-keyword">const</span> <span class="hljs-title class_">PostAsset</span> = hexo.<span class="hljs-title function_">model</span>(<span class="hljs-string">&#x27;PostAsset&#x27;</span>);<br>    <span class="hljs-comment">// findById requires forward slash</span><br>    <span class="hljs-comment">// ***************** Add the following code *******************</span><br>    <span class="hljs-keyword">const</span> fixPostPath = <span class="hljs-title function_">join</span>(postPath, <span class="hljs-string">&#x27;../&#x27;</span>);<br>    <span class="hljs-keyword">const</span> asset = <span class="hljs-title class_">PostAsset</span>.<span class="hljs-title function_">findById</span>(<span class="hljs-title function_">join</span>(fixPostPath, href.<span class="hljs-title function_">replace</span>(<span class="hljs-regexp">/\\/g</span>, <span class="hljs-string">&#x27;/&#x27;</span>)));<br>    <span class="hljs-comment">// const asset = PostAsset.findById(join(postPath, href.replace(/\\/g, &#x27;/&#x27;)));</span><br>    <span class="hljs-comment">// ************************** End *****************************</span><br>    <span class="hljs-comment">// asset.path is backward slash in Windows</span><br>    <span class="hljs-keyword">if</span> (asset) href = asset.<span class="hljs-property">path</span>.<span class="hljs-title function_">replace</span>(<span class="hljs-regexp">/\\/g</span>, <span class="hljs-string">&#x27;/&#x27;</span>);<br>  &#125;<br>  href = url_for.<span class="hljs-title function_">call</span>(hexo, href);<br>&#125;<br></code></pre></td></tr></table></figure>
+
+<ol start="3">
+<li>enjoy it</li>
+</ol>
+<p><strong>方法二:</strong></p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs js"># 设置<br><span class="hljs-attr">post_asset_folder</span>:<span class="hljs-literal">true</span><br># 安装插件 asset-image<br>npm install <span class="hljs-attr">https</span>:<span class="hljs-comment">//github.com/CodeFalling/hexo-asset-image  --save</span><br># typora中设置图片为相对路径 看下图<br>./$&#123;filename&#125;<br># 运行查看<br>hexo clean &amp;&amp; hexo generate &amp;&amp; hexo s <br></code></pre></td></tr></table></figure>
+
+<p><img src="/2022/f96c3c41/image-20220815133503275.png" srcset="/img/loading.gif" lazyload alt="image-20220815133503275"></p>
+<h3 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h3><blockquote>
+<p>   Env:使用方法四</p>
+<ul>
+<li>文件名不能带有空格, title 可以带空格 (<code>hexo new</code>的时候需要注意这一点)<ul>
+<li>修改 <code>node_modules\hexo-renderer-marked\lib\renderer.js</code>文件可能可以改善这点. -&gt; TBD</li>
+</ul>
+</li>
+<li>md文件名要和图片等等资源文件夹同名 -&gt; 注定了不能使用 <code>./$&#123;filename&#125;.assets</code>这种方案, 一定要改成<code>./$&#123;filename&#125;</code>才行</li>
+</ul>
+</blockquote>
+<h1 id="Comment-评论系统"><a href="#Comment-评论系统" class="headerlink" title="Comment 评论系统"></a>Comment 评论系统</h1><h2 id="cusdis-系统"><a href="#cusdis-系统" class="headerlink" title="cusdis 系统"></a>cusdis 系统</h2><p>功能较少,看起来非常轻量, 也可以私有部署,正打算私有部署的时候看到了<code>twikoo</code>所以就转入<code>twikoo</code>了,因为cusdis现阶段功能确实有些少.</p>
+<h2 id="twikoo-系统"><a href="#twikoo-系统" class="headerlink" title="twikoo 系统"></a>twikoo 系统</h2><p><a target="_blank" rel="noopener" href="https://twikoo.js.org/">https://twikoo.js.org/</a></p>
+<p>私有docker部署部署半天还是不成功, 看起来像是需要HTTPS才行.</p>
+<p>功能挺丰富的,<del>就是半天没部署成功</del></p>
+<figure class="highlight autohotkey"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs autohotkey">部署后没有启用HTTPS<br>fluid 配置里面又启动了强行使用hTTPS, <br><span class="hljs-built_in">F12,</span>看consel发现,ERR_SSL_PROTOCOL_ERROR,被重定向到了HTTPS去了<br></code></pre></td></tr></table></figure>
+
+
+
+<figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs css">头像风格类型<br><span class="hljs-number">404</span>：如果没有任何图像与电子邮件哈希无关，则不加载任何图像，而是返回HTTP <span class="hljs-number">404</span>（找不到文件）响应<br>mp：（神秘人物）一个人的简单卡通风格的轮廓（不随电子邮件哈希值而变化）<br>identicon：基于电子邮件哈希的几何图案<br>monsterid：生成的具有不同颜色，面孔等的“怪物”<br>wavatar：生成的具有不同特征和背景的面孔<br>retro：生成的令人敬畏的<span class="hljs-number">8</span>位街机风格像素化面孔<br>robohash：具有不同颜色，面部等的生成的机器人<br>blank：透明的PNG图像（以下为演示目的添加到<span class="hljs-selector-tag">HTML</span>的边框）<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li><p>Twikoo我是用的docker,nginx和ssl配置可以参考<a target="_blank" rel="noopener" href="https://hub.docker.com/r/imaegoo/twikoo">DockerHub</a>, https的端口是可以更改的, 默认的443占用了换成别的就好.</p>
+</li>
+<li><p>twikoo的即时推送尝试了几个譬如 Qmsq, server酱等等发现又一系列的问题 都不尽如人意  最后选择的是最简单的邮件通知.</p>
+</li>
+</ul>
+<h2 id="remark42"><a href="#remark42" class="headerlink" title="remark42"></a>remark42</h2><h1 id="部署-托管"><a href="#部署-托管" class="headerlink" title="部署(托管)"></a>部署(托管)</h1><p><a target="_blank" rel="noopener" href="https://i.vince.pub/p/hexo-static/">常见静态网站托管平台使用及多节点部署方案</a></p>
+<p><img src="/2022/f96c3c41/2fc062cb2.svg" srcset="/img/loading.gif" lazyload alt="节点"></p>
+<p>现阶段比较好的方案是<code>coding</code>和<code>github+netlify</code>.</p>
+<h1 id="一些资源"><a href="#一些资源" class="headerlink" title="一些资源"></a>一些资源</h1><p><strong>字体族（<code>font-family</code>）</strong></p>
+<blockquote>
+<p>   <a target="_blank" rel="noopener" href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-family">https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-family</a></p>
+</blockquote>
+<p><strong>调色板灵感</strong></p>
+<blockquote>
+<p>   <a target="_blank" rel="noopener" href="https://www.webdesignrankings.com/resources/lolcolors/">https://www.webdesignrankings.com/resources/lolcolors/</a></p>
+</blockquote>
+<p><strong>ISO-8601 日期</strong></p>
+<blockquote>
+<p>  <a target="_blank" rel="noopener" href="http://momentjs.cn/docs/#/parsing/string-format/">http://momentjs.cn/docs/#/parsing/string-format/</a></p>
+</blockquote>
+<p><strong>代码高亮风格</strong></p>
+<blockquote>
+<p>  highlightjs:  <a target="_blank" rel="noopener" href="https://highlightjs.org/static/demo/">https://highlightjs.org/static/demo/</a></p>
+<p>  prismjs:  <a target="_blank" rel="noopener" href="https://prismjs.com/">https://prismjs.com/</a></p>
+</blockquote>
+<h1 id="一些知识"><a href="#一些知识" class="headerlink" title="一些知识"></a>一些知识</h1><p><a target="_blank" rel="noopener" href="https://www.wur.nl/en/article/What-are-Creative-Commons-licenses.htm">What are Creative Commons licenses?</a></p>
+<p><img src="/2022/f96c3c41/licences_3bf0e9af_670x502.jpg" srcset="/img/loading.gif" lazyload alt="知识共享许可.jpg"></p>
+
+                
+              </div>
+            
+            <hr/>
+            <div>
+              <div class="post-metas my-3">
+  
+    <div class="post-meta mr-3 d-flex align-items-center">
+      <i class="iconfont icon-category"></i>
+      
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/tools/" class="category-chain-item">tools</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+    </div>
+  
+  
+    <div class="post-meta">
+      <i class="iconfont icon-tags"></i>
+      
+        <a href="/tags/HEXO/">#HEXO</a>
+      
+        <a href="/tags/Jekyll/">#Jekyll</a>
+      
+        <a href="/tags/Fluid/">#Fluid</a>
+      
+        <a href="/tags/Cusdis/">#Cusdis</a>
+      
+        <a href="/tags/Twikoo/">#Twikoo</a>
+      
+    </div>
+  
+</div>
+
+
+              
+  
+
+  <div class="license-box my-3">
+    <div class="license-title">
+      <div>静态网页</div>
+      <div>http://blog.staion.cf/2022/f96c3c41/</div>
+    </div>
+    <div class="license-meta">
+      
+        <div class="license-meta-item">
+          <div>作者</div>
+          <div>Oikiou</div>
+        </div>
+      
+      
+        <div class="license-meta-item license-meta-date">
+          <div>发布于</div>
+          <div>2022年8月21日</div>
+        </div>
+      
+      
+      <div class="license-meta-item">
+        <div>许可协议</div>
+        <div>
+          
+            
+            
+              <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              <span class="hint--top hint--rounded" aria-label="BY - 署名">
+                <i class="iconfont icon-by"></i>
+              </span>
+              </a>
+            
+              <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              <span class="hint--top hint--rounded" aria-label="NC - 非商业性使用">
+                <i class="iconfont icon-nc"></i>
+              </span>
+              </a>
+            
+              <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              <span class="hint--top hint--rounded" aria-label="SA - 相同方式共享">
+                <i class="iconfont icon-sa"></i>
+              </span>
+              </a>
+            
+          
+        </div>
+      </div>
+    </div>
+    <div class="license-icon iconfont"></div>
+  </div>
+
+
+
+              
+                <div class="post-prevnext my-3">
+                  <article class="post-prev col-6">
+                    
+                    
+                      <a href="/2022/aa858de8/" title="Wordpress">
+                        <i class="iconfont icon-arrowleft"></i>
+                        <span class="hidden-mobile">Wordpress</span>
+                        <span class="visible-mobile">上一篇</span>
+                      </a>
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/2022/5ced0506/" title="DSlogic协议开发笔记">
+                        <span class="hidden-mobile">DSlogic协议开发笔记</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+  <article id="comments" lazyload>
+    
+  <div id="twikoo"></div>
+  <script type="text/javascript">
+    Fluid.utils.loadComments('#comments', function() {
+      Fluid.utils.createScript('https://lib.baomitu.com/twikoo/1.6.5/twikoo.all.min.js', function() {
+        var options = Object.assign(
+          {"envId":"https://pretty.cf:8884/","region":"ap-shanghai","path":"window.location.pathname"},
+          {
+            el: '#twikoo',
+            path: 'window.location.pathname',
+            onCommentLoaded: function() {
+              var imgSelector = '#twikoo .tk-content img:not(.tk-owo-emotion)';
+              Fluid.plugins.imageCaption(imgSelector);
+              Fluid.plugins.fancyBox(imgSelector);
+            }
+          }
+        )
+        twikoo.init(options)
+      });
+    });
+  </script>
+  <noscript>Please enable JavaScript to view the comments</noscript>
+
+
+  </article>
+
+
+          </article>
+        </div>
+      </div>
+    </div>
+
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar category-bar" style="margin-left: -1rem">
+    
+
+
+
+
+
+<div class="category-list">
+  
+  
+    
+    
+    
+    <div class="category row nomargin-x">
+      <a class="category-item 
+          list-group-item category-item-action col-10 col-md-11 col-xm-11" title="tools"
+        id="heading-4a931512ce65bdc9ca6808adf92d8783" role="tab" data-toggle="collapse" href="#collapse-4a931512ce65bdc9ca6808adf92d8783"
+        aria-expanded="true"
+      >
+        tools
+        <span class="list-group-count">(10)</span>
+        <i class="iconfont icon-arrowright"></i>
+      </a>
+      
+      <div class="category-collapse collapse show" id="collapse-4a931512ce65bdc9ca6808adf92d8783"
+           role="tabpanel" aria-labelledby="heading-4a931512ce65bdc9ca6808adf92d8783">
+        
+        
+          
+  <div class="category-post-list">
+    
+    
+      
+      
+        <a href="/2022/69c3279c/" title="Git"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">Git</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/5ced0506/" title="DSlogic协议开发笔记"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">DSlogic协议开发笔记</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/18d811b/" title="J-Link RTT的使用方法"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">J-Link RTT的使用方法</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/4ade0b2f/" title="SourceInsigh中Qicker的使用"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">SourceInsigh中Qicker的使用</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/9be43835/" title="Visual Studio"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">Visual Studio</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/30f8332a/" title="手动添加JLink不支持的芯片"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">手动添加JLink不支持的芯片</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/a8b000ae/" title="RDPWrap"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">RDPWrap</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/471570a6/" title="SpaceDesk手机用作电脑屏幕"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">SpaceDesk手机用作电脑屏幕</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/aa858de8/" title="Wordpress"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">Wordpress</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/f96c3c41/" title="静态网页"
+           class="list-group-item list-group-item-action
+           active">
+          <span class="category-post">静态网页</span>
+        </a>
+      
+    
+  </div>
+
+        
+      </div>
+    </div>
+  
+</div>
+
+
+  </aside>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+    
+
+    
+      <a id="scroll-top-button" aria-label="TOP" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v" for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+  
+  
+    <div class="statistics">
+  
+  
+
+  
+    
+      <span id="busuanzi_container_site_pv" style="display: none">
+        总访问量 
+        <span id="busuanzi_value_site_pv"></span>
+         次
+      </span>
+    
+    
+      <span id="busuanzi_container_site_uv" style="display: none">
+        总访客数 
+        <span id="busuanzi_value_site_uv"></span>
+         人
+      </span>
+    
+    
+  
+</div>
+
+  
+  
+  
+</div>
+
+  </footer>
+
+  <!-- Scripts -->
+  
+  <script  src="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://lib.baomitu.com/jquery/3.6.0/jquery.min.js" ></script>
+<script  src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+
+  <script  src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var subtitle = document.getElementById('subtitle');
+      if (!subtitle || !typing) {
+        return;
+      }
+      var text = subtitle.getAttribute('data-typed-text');
+      
+        typing(text);
+      
+    })(window, document);
+  </script>
+
+
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/tocbot/4.18.2/tocbot.min.js', function() {
+    var toc = jQuery('#toc');
+    if (toc.length === 0 || !window.tocbot) { return; }
+    var boardCtn = jQuery('#board-ctn');
+    var boardTop = boardCtn.offset().top;
+
+    window.tocbot.init({
+      tocSelector     : '#toc-body',
+      contentSelector : '.markdown-body',
+      headingSelector : CONFIG.toc.headingSelector || 'h1,h2,h3,h4,h5,h6',
+      linkClass       : 'tocbot-link',
+      activeLinkClass : 'tocbot-active-link',
+      listClass       : 'tocbot-list',
+      isCollapsedClass: 'tocbot-is-collapsed',
+      collapsibleClass: 'tocbot-is-collapsible',
+      collapseDepth   : CONFIG.toc.collapseDepth || 0,
+      scrollSmooth    : true,
+      headingsOffset  : -boardTop
+    });
+    if (toc.find('.toc-list-item').length > 0) {
+      toc.css('visibility', 'visible');
+    }
+  });
+</script>
+
+
+  <script src=https://lib.baomitu.com/clipboard.js/2.0.10/clipboard.min.js></script>
+
+  <script>Fluid.plugins.codeWidget();</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/anchor-js/4.3.1/anchor.min.js', function() {
+    window.anchors.options = {
+      placement: CONFIG.anchorjs.placement,
+      visible  : CONFIG.anchorjs.visible
+    };
+    if (CONFIG.anchorjs.icon) {
+      window.anchors.options.icon = CONFIG.anchorjs.icon;
+    }
+    var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+    var res = [];
+    for (var item of el) {
+      res.push('.markdown-body > ' + item.trim());
+    }
+    if (CONFIG.anchorjs.placement === 'left') {
+      window.anchors.options.class = 'anchorjs-link-left';
+    }
+    window.anchors.add(res.join(', '));
+  });
+</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js', function() {
+    Fluid.plugins.fancyBox();
+  });
+</script>
+
+
+  <script>Fluid.plugins.imageCaption();</script>
+
+  <script  src="/js/local-search.js" ></script>
+
+  <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" ></script>
+
+
+
+
+  
+<script src="/js/custom.js"></script>
+
+
+
+<!-- 主题的启动项，将它保持在最底部 -->
+<!-- the boot of the theme, keep it at the bottom -->
+<script  src="/js/boot.js" ></script>
+
+
+  
+
+  <noscript>
+    <div class="noscript-warning">博客在允许 JavaScript 运行的环境下浏览效果更佳</div>
+  </noscript>
+</body>
+</html>

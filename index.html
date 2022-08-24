@@ -68,7 +68,7 @@
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
     Fluid.ctx = Object.assign({}, Fluid.ctx)
-    var CONFIG = {"hostname":"blog.staion.cf","root":"/","version":"1.9.2","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"bash"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"left","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":false,"baidu":null,"google":"G-TSV6137NWK","gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/xml/local-search-database.xml"};
+    var CONFIG = {"hostname":"blog.staion.cf","root":"/","version":"1.9.2","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"bash"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"left","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":false,"baidu":null,"google":"G-TSV6137NWK","gtag":"G-TSV6137NWK","tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/xml/local-search-database.xml"};
 
     if (CONFIG.web_analytics.follow_dnt) {
       var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
@@ -95,6 +95,18 @@
     </script>
   
 
+  
+    <!-- Google gtag.js -->
+    <script async>
+      if (!Fluid.ctx.dnt) {
+        Fluid.utils.createScript('https://www.googletagmanager.com/gtag/js?id=G-TSV6137NWK', function() {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-TSV6137NWK');
+        });
+      }
+    </script>
   
 
   
@@ -228,7 +240,7 @@
   
 
 <div id="banner" class="banner" parallax=true
-     style="background: url('/img/nathan-watson-a4Goc6z9eQs-unsplash.jpg') no-repeat center center; background-size: cover;">
+     style="background: url('/img/ebb6edd017c2d2eca2.jpg') no-repeat center center; background-size: cover;">
   <div class="full-bg-img">
     <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
       <div class="banner-text text-center fade-in-up">
@@ -272,15 +284,15 @@
     <article class="col-12 col-md-12 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2022/08/77153098/" target="_blank">
-          code
+        <a href="/2022/3dd7ffa7/" target="_blank">
+          C
         </a>
       </h1>
 
       
-      <a class="index-excerpt index-excerpt__noimg" href="/2022/08/77153098/" target="_blank">
+      <a class="index-excerpt index-excerpt__noimg" href="/2022/3dd7ffa7/" target="_blank">
         <div>
-          HTML, XML12345678910111213&lt;!DOCTYPE html&gt;&lt;title&gt;Title&lt;&#x2F;title&gt;&lt;style&gt;body &amp;#123;width: 500px;&amp;#125;&lt;&#x2F;style&gt;&lt;script type&#x3D;&quot;application&#x2F;javascript&quot;&gt;  function
+          标准库函数fprintf 输出到流中描述C 库函数 int fprintf(FILE *stream, const char *format, …) 发送格式化输出到流 stream 中。 声明下面是 fprintf() 函数的声明。 1int fprintf(FILE *stream, const char *format, ...)  参数 stream – 这是指向 FILE 对象的指针，该
         </div>
       </a>
 
@@ -288,8 +300,8 @@
         
           <div class="post-meta mr-3">
             <i class="iconfont icon-date"></i>
-            <time datetime="2022-08-18 23:22" pubdate>
-              2022-08-18
+            <time datetime="2022-08-21 22:57" pubdate>
+              2022-08-21
             </time>
           </div>
         
@@ -304,7 +316,7 @@
     
       <span class="category-chain">
         
-  <a href="/categories/misc/" class="category-chain-item">misc</a>
+  <a href="/categories/language/" class="category-chain-item">language</a>
   
   
 
@@ -319,7 +331,9 @@
           <div class="post-meta">
             <i class="iconfont icon-tags"></i>
             
-              <a href="/tags/untagged/">#untagged</a>
+              <a href="/tags/C/">#C</a>
+            
+              <a href="/tags/C-C/">#C/C++</a>
             
           </div>
         
@@ -333,15 +347,15 @@
     <article class="col-12 col-md-12 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2022/08/69c3279c/" target="_blank">
-          Git
+        <a href="/2022/bf76c113/" target="_blank">
+          MicroPython
         </a>
       </h1>
 
       
-      <a class="index-excerpt index-excerpt__noimg" href="/2022/08/69c3279c/" target="_blank">
+      <a class="index-excerpt index-excerpt__noimg" href="/2022/bf76c113/" target="_blank">
         <div>
-          Git Bref  工作区：就是你在电脑里能看到的目录。  暂存区：英文叫 stage 或 index。一般存放在 .git 目录下的 index 文件（.git&#x2F;index）中，所以我们把暂存区有时也叫作索引（index）。  版本库：工作区有一个隐藏目录 .git，这个不算工作区，而是 Git 的版本库。     workspace：工作区 staging area：暂存区&amp;#x2F
+          MicroPython简单、方便、快速开发嵌入式实时系统——MicroPytho 12345678910111213141516171819202122232425262728293031323334353637383940414243from pyb import uartfrom pyb import I2C #工程师将从pyb库导入I2C#这里的PYB库提供了接入到微控制器外围功能，如SPI
         </div>
       </a>
 
@@ -349,8 +363,8 @@
         
           <div class="post-meta mr-3">
             <i class="iconfont icon-date"></i>
-            <time datetime="2022-08-15 16:23" pubdate>
-              2022-08-15
+            <time datetime="2022-08-21 22:57" pubdate>
+              2022-08-21
             </time>
           </div>
         
@@ -365,7 +379,7 @@
     
       <span class="category-chain">
         
-  <a href="/categories/Tools/" class="category-chain-item">Tools</a>
+  <a href="/categories/language/" class="category-chain-item">language</a>
   
   
 
@@ -380,7 +394,11 @@
           <div class="post-meta">
             <i class="iconfont icon-tags"></i>
             
-              <a href="/tags/Git/">#Git</a>
+              <a href="/tags/MicroPython/">#MicroPython</a>
+            
+              <a href="/tags/Python/">#Python</a>
+            
+              <a href="/tags/Embedded/">#Embedded</a>
             
           </div>
         
@@ -394,15 +412,15 @@
     <article class="col-12 col-md-12 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2022/08/20e8de60/" target="_blank">
-          test_title
+        <a href="/2022/ddff0c71/" target="_blank">
+          MS-DOS
         </a>
       </h1>
 
       
-      <a class="index-excerpt index-excerpt__noimg" href="/2022/08/20e8de60/" target="_blank">
+      <a class="index-excerpt index-excerpt__noimg" href="/2022/ddff0c71/" target="_blank">
         <div>
-          adfasdfasdfadfasdfasdf a sdf as df asd fa sdfwqer4654asd65f456qwe dsga
+          MS-DOSCMD(windows-commands) Windowscommands 在cmd内&#x2F;?即可获得帮助信息 FOR12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970717273
         </div>
       </a>
 
@@ -410,8 +428,8 @@
         
           <div class="post-meta mr-3">
             <i class="iconfont icon-date"></i>
-            <time datetime="2022-08-14 22:57" pubdate>
-              2022-08-14
+            <time datetime="2022-08-21 22:57" pubdate>
+              2022-08-21
             </time>
           </div>
         
@@ -426,7 +444,7 @@
     
       <span class="category-chain">
         
-  <a href="/categories/misc/" class="category-chain-item">misc</a>
+  <a href="/categories/language/" class="category-chain-item">language</a>
   
   
 
@@ -441,7 +459,9 @@
           <div class="post-meta">
             <i class="iconfont icon-tags"></i>
             
-              <a href="/tags/untagged/">#untagged</a>
+              <a href="/tags/MS-DOS/">#MS-DOS</a>
+            
+              <a href="/tags/Windows/">#Windows</a>
             
           </div>
         
@@ -455,15 +475,15 @@
     <article class="col-12 col-md-12 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2022/08/4a17b156/" target="_blank">
-          Hello World
+        <a href="/2022/7ecf7a99/" target="_blank">
+          PyQT
         </a>
       </h1>
 
       
-      <a class="index-excerpt index-excerpt__noimg" href="/2022/08/4a17b156/" target="_blank">
+      <a class="index-excerpt index-excerpt__noimg" href="/2022/7ecf7a99/" target="_blank">
         <div>
-          Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick
+          PyQt添加图标1234567891011121314class WindowGUI(QMainWindow, Ui_MainWindow):    def __init__(self):        super(WindowGUI, self).__init__()        self.setupUi(self)        #这里添加了一个图标        self.setWindo
         </div>
       </a>
 
@@ -471,41 +491,8 @@
         
           <div class="post-meta mr-3">
             <i class="iconfont icon-date"></i>
-            <time datetime="2022-08-14 22:48" pubdate>
-              2022-08-14
-            </time>
-          </div>
-        
-        
-        
-      </div>
-    </article>
-  </div>
-
-  <div class="row mx-auto index-card">
-    
-    
-    <article class="col-12 col-md-12 mx-auto index-info">
-      <h1 class="index-header">
-        
-        <a href="/2022/08/438d1de3/" target="_blank">
-          字符集和字符编码
-        </a>
-      </h1>
-
-      
-      <a class="index-excerpt index-excerpt__noimg" href="/2022/08/438d1de3/" target="_blank">
-        <div>
-          字符集和字符编码字符集和字符编码 (Charset &amp; Encoding) GB2312简体中文编码表 GB2312简体中文编码表 Unicode码查询 Unicode字符平面映射 概念字符集（Charset）：是一个系统支持的所有抽象字符的集合。字符是各种文字和符号的总称，包括各国家文字、标点符号、图形符号、数字等。 常见字符集：ASCII字符集、GB2312字符集、BIG5字符集、GB
-        </div>
-      </a>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2022-08-14 22:12" pubdate>
-              2022-08-14
+            <time datetime="2022-08-21 22:57" pubdate>
+              2022-08-21
             </time>
           </div>
         
@@ -520,7 +507,7 @@
     
       <span class="category-chain">
         
-  <a href="/categories/computer/" class="category-chain-item">computer</a>
+  <a href="/categories/language/" class="category-chain-item">language</a>
   
   
 
@@ -535,11 +522,385 @@
           <div class="post-meta">
             <i class="iconfont icon-tags"></i>
             
-              <a href="/tags/Character-Encoding/">#Character Encoding</a>
+              <a href="/tags/Python/">#Python</a>
             
-              <a href="/tags/GB2312/">#GB2312</a>
+              <a href="/tags/QT/">#QT</a>
             
-              <a href="/tags/UTF-8/">#UTF-8</a>
+              <a href="/tags/PyQT/">#PyQT</a>
+            
+          </div>
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/297a89d9/" target="_blank">
+          Python学习笔记
+        </a>
+      </h1>
+
+      
+      <a class="index-excerpt index-excerpt__noimg" href="/2022/297a89d9/" target="_blank">
+        <div>
+          ContentPython学习笔记 printf1234print(&amp;#x27;第一行\n第二行&amp;#x27;)print(a + &amp;#x27; &amp;#x27; + b + &amp;#x27; %d %d&amp;#x27;%(c,d))			&#x2F;&#x2F;连字符        格式化基本格式化在Python中，采用的格式化方式和C语言是一致的，用%实现，举例如下  单个  123456&gt;&gt;&gt; &amp;#x27;
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-08-21 22:57" pubdate>
+              2022-08-21
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/language/" class="category-chain-item">language</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/Python/">#Python</a>
+            
+          </div>
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/2f57a694/" target="_blank">
+          正则表达式
+        </a>
+      </h1>
+
+      
+      <a class="index-excerpt index-excerpt__noimg" href="/2022/2f57a694/" target="_blank">
+        <div>
+          正则表达式正则表达式语法 runoo+b，可以匹配 runoob、runooob、runoooooob 等，+ 号代表前面的字符必须至少出现一次（1次或多次）。 runoo*b，可以匹配 runob、runoob、runoooooob 等，* 号代表前面的字符可以不出现，也可以出现一次或者多次（0次、或1次、或多次）。 colou?r 可以匹配 color 或者 colour，? 问号代表前面的字
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-08-21 22:57" pubdate>
+              2022-08-21
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/language/" class="category-chain-item">language</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/">#正则表达式</a>
+            
+          </div>
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/8d6db935/" target="_blank">
+          CC2530
+        </a>
+      </h1>
+
+      
+      <a class="index-excerpt index-excerpt__noimg" href="/2022/8d6db935/" target="_blank">
+        <div>
+          CC2530是针对IEEE 802.15.4，Zigbee和RF4CE应用的真正片上系统（SoC）解决方案。 它能够以非常低的总物料成本构建强大的网络节点。 CC2530将领先的射频收发器的卓越性能与业界标准增强型8051 MCU，系统内可编程闪存，8 KB RAM以及许多其他强大功能相结合。 CC2530有四种不同的闪存版本：分别为CC2530F32 &#x2F; 64&#x2F;128&amp;#x
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-08-21 22:57" pubdate>
+              2022-08-21
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/blog/" class="category-chain-item">blog</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/Embedded/">#Embedded</a>
+            
+              <a href="/tags/CC2530/">#CC2530</a>
+            
+              <a href="/tags/Zigbee/">#Zigbee</a>
+            
+          </div>
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/da7ed36c/" target="_blank">
+          MarkDown学习笔记
+        </a>
+      </h1>
+
+      
+      <a class="index-excerpt index-excerpt__noimg" href="/2022/da7ed36c/" target="_blank">
+        <div>
+          一级标题二级标题三级标题四级标题五级标题六级标题asdasdasdasdassdasdas 这是一段引用 这是一段引用  无序列表 阿斯大声 阿斯大声打 阿斯大声问请问恶  有序列表 阿斯大声打  阿斯大声阿斯大声  dasd阿斯dasdaaa   斜体 和 加粗 (强调)这是斜体      这是加粗   这是_什么呢_  好像也__是一样的__ 这是上下标  H20   H^2^0 这段是横线
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-08-21 22:57" pubdate>
+              2022-08-21
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/blog/" class="category-chain-item">blog</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/MarkDown/">#MarkDown</a>
+            
+              <a href="/tags/note/">#note</a>
+            
+          </div>
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/d3f98b78/" target="_blank">
+          Hex 文件格式解析
+        </a>
+      </h1>
+
+      
+      <a class="index-excerpt index-excerpt__noimg" href="/2022/d3f98b78/" target="_blank">
+        <div>
+          Hex 文件格式解析参考资料Intel HEX File Format Keil Intel HEX Wiki 格式 以行为单位，每行以冒号开头，内容全部为16进制码（以ASCII码形式显示） 在HEX文件里面，每一行代表一个记录。记录的基本格式为如表所示     冒号 本行数据长度 本行数据起始地址 数据类型 数据 校验码     1 byte 2 bytes 1 byte n byte 1 b
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-08-21 22:57" pubdate>
+              2022-08-21
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/blog/" class="category-chain-item">blog</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/Hex/">#Hex</a>
+            
+          </div>
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/82aca4fc/" target="_blank">
+          SSL证书的申请和自动续期
+        </a>
+      </h1>
+
+      
+      <a class="index-excerpt index-excerpt__noimg" href="/2022/82aca4fc/" target="_blank">
+        <div>
+          SSL证书的申请和自动续期Let’s Encrypt 证书续期 参考https:&#x2F;&#x2F;www.jianshu.com&#x2F;p&#x2F;a2d0209fa3f5 快速签发 Let’s Encrypt 证书指南 https:&#x2F;&#x2F;certbot.eff.org&#x2F; acme.sh 申请用 acme.sh申请来自动续期ssl证书 acme说明：https:&#x2F;&#x2F;github.com&#x2F;Neilpang&#x2F;acme.sh&#x2F;wik
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-08-21 22:57" pubdate>
+              2022-08-21
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/blog/" class="category-chain-item">blog</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/SSL/">#SSL</a>
+            
+              <a href="/tags/HTTPS/">#HTTPS</a>
             
           </div>
         
@@ -548,6 +909,12 @@
   </div>
 
 
+
+  <nav aria-label="navigation">
+    <span class="pagination" id="pagination">
+      <span class="page-number current">1</span><a class="page-number" href="/page/2/#board">2</a><a class="page-number" href="/page/3/#board">3</a><span class="space">&hellip;</span><a class="page-number" href="/page/5/#board">5</a><a class="extend next" rel="next" href="/page/2/#board"><i class="iconfont icon-arrowright"></i></a>
+    </span>
+  </nav>
 
 
 
