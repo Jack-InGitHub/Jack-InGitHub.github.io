@@ -68,7 +68,7 @@
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
     Fluid.ctx = Object.assign({}, Fluid.ctx)
-    var CONFIG = {"hostname":"blog.staion.cf","root":"/","version":"1.9.2","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"bash"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"left","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":false,"baidu":null,"google":"G-TSV6137NWK","gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/xml/local-search-database.xml"};
+    var CONFIG = {"hostname":"blog.staion.cf","root":"/","version":"1.9.2","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"bash"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"left","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":false,"baidu":null,"google":"G-TSV6137NWK","gtag":"G-TSV6137NWK","tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/xml/local-search-database.xml"};
 
     if (CONFIG.web_analytics.follow_dnt) {
       var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
@@ -95,6 +95,18 @@
     </script>
   
 
+  
+    <!-- Google gtag.js -->
+    <script async>
+      if (!Fluid.ctx.dnt) {
+        Fluid.utils.createScript('https://www.googletagmanager.com/gtag/js?id=G-TSV6137NWK', function() {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-TSV6137NWK');
+        });
+      }
+    </script>
   
 
   
@@ -228,7 +240,7 @@
   
 
 <div id="banner" class="banner" parallax=true
-     style="background: url('/img/Honeyview_black-coffee-in-teacup-dhl1b1hq6yy0tfk7.jpg') no-repeat center center; background-size: cover;">
+     style="background: url('/img/dhl1b1hq6yy0tfk7.jpg') no-repeat center center; background-size: cover;">
   <div class="full-bg-img">
     <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
       <div class="banner-text text-center fade-in-up">
@@ -262,7 +274,7 @@
                 
 
 <div class="list-group">
-  <p class="h4">共计 5 篇文章</p>
+  <p class="h4">共计 50 篇文章</p>
   <hr>
   
   
@@ -270,37 +282,85 @@
       
       <p class="h5">2022</p>
     
-    <a href="/2022/08/77153098/" class="list-group-item list-group-item-action">
-      <time>08-18</time>
-      <div class="list-group-item-title">code</div>
+    <a href="/2022/3dd7ffa7/" class="list-group-item list-group-item-action">
+      <time>08-21</time>
+      <div class="list-group-item-title">C</div>
     </a>
   
     
-    <a href="/2022/08/69c3279c/" class="list-group-item list-group-item-action">
-      <time>08-15</time>
-      <div class="list-group-item-title">Git</div>
+    <a href="/2022/bf76c113/" class="list-group-item list-group-item-action">
+      <time>08-21</time>
+      <div class="list-group-item-title">MicroPython</div>
     </a>
   
     
-    <a href="/2022/08/20e8de60/" class="list-group-item list-group-item-action">
-      <time>08-14</time>
-      <div class="list-group-item-title">test_title</div>
+    <a href="/2022/ddff0c71/" class="list-group-item list-group-item-action">
+      <time>08-21</time>
+      <div class="list-group-item-title">MS-DOS</div>
     </a>
   
     
-    <a href="/2022/08/4a17b156/" class="list-group-item list-group-item-action">
-      <time>08-14</time>
-      <div class="list-group-item-title">Hello World</div>
+    <a href="/2022/7ecf7a99/" class="list-group-item list-group-item-action">
+      <time>08-21</time>
+      <div class="list-group-item-title">PyQT</div>
     </a>
   
     
-    <a href="/2022/08/438d1de3/" class="list-group-item list-group-item-action">
-      <time>08-14</time>
-      <div class="list-group-item-title">字符集和字符编码</div>
+    <a href="/2022/297a89d9/" class="list-group-item list-group-item-action">
+      <time>08-21</time>
+      <div class="list-group-item-title">Python学习笔记</div>
+    </a>
+  
+    
+    <a href="/2022/2f57a694/" class="list-group-item list-group-item-action">
+      <time>08-21</time>
+      <div class="list-group-item-title">正则表达式</div>
+    </a>
+  
+    
+    <a href="/2022/8d6db935/" class="list-group-item list-group-item-action">
+      <time>08-21</time>
+      <div class="list-group-item-title">CC2530</div>
+    </a>
+  
+    
+    <a href="/2022/da7ed36c/" class="list-group-item list-group-item-action">
+      <time>08-21</time>
+      <div class="list-group-item-title">MarkDown学习笔记</div>
+    </a>
+  
+    
+    <a href="/2022/d3f98b78/" class="list-group-item list-group-item-action">
+      <time>08-21</time>
+      <div class="list-group-item-title">Hex 文件格式解析</div>
+    </a>
+  
+    
+    <a href="/2022/82aca4fc/" class="list-group-item list-group-item-action">
+      <time>08-21</time>
+      <div class="list-group-item-title">SSL证书的申请和自动续期</div>
+    </a>
+  
+    
+    <a href="/2022/1a11e44c/" class="list-group-item list-group-item-action">
+      <time>08-21</time>
+      <div class="list-group-item-title">OSI</div>
+    </a>
+  
+    
+    <a href="/2022/c65e1067/" class="list-group-item list-group-item-action">
+      <time>08-21</time>
+      <div class="list-group-item-title">Tags Label Category</div>
     </a>
   
 </div>
 
+
+  <nav aria-label="navigation">
+    <span class="pagination" id="pagination">
+      <span class="page-number current">1</span><a class="page-number" href="/archives/page/2/#board">2</a><a class="page-number" href="/archives/page/3/#board">3</a><span class="space">&hellip;</span><a class="page-number" href="/archives/page/5/#board">5</a><a class="extend next" rel="next" href="/archives/page/2/#board"><i class="iconfont icon-arrowright"></i></a>
+    </span>
+  </nav>
 
 
 

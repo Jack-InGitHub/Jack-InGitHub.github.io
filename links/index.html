@@ -68,7 +68,7 @@
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
     Fluid.ctx = Object.assign({}, Fluid.ctx)
-    var CONFIG = {"hostname":"blog.staion.cf","root":"/","version":"1.9.2","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"bash"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"left","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":false,"baidu":null,"google":"G-TSV6137NWK","gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/xml/local-search-database.xml"};
+    var CONFIG = {"hostname":"blog.staion.cf","root":"/","version":"1.9.2","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"bash"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"left","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":false,"baidu":null,"google":"G-TSV6137NWK","gtag":"G-TSV6137NWK","tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/xml/local-search-database.xml"};
 
     if (CONFIG.web_analytics.follow_dnt) {
       var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
@@ -95,6 +95,18 @@
     </script>
   
 
+  
+    <!-- Google gtag.js -->
+    <script async>
+      if (!Fluid.ctx.dnt) {
+        Fluid.utils.createScript('https://www.googletagmanager.com/gtag/js?id=G-TSV6137NWK', function() {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-TSV6137NWK');
+        });
+      }
+    </script>
   
 
   
@@ -269,13 +281,67 @@
         <div class="card-content">
           
             <div class="link-avatar my-auto">
-              <img src="/img/csdn_favicon.ico" srcset="/img/loading.gif" lazyload alt="Oikiou&#39;s Blog"
+              <img src="/img/csdn_favicon.ico" srcset="/img/loading.gif" lazyload alt="Oikiou&#39;s CSDN"
                    onerror="this.onerror=null; this.src=this.srcset='/img/loading.gif'"/>
             </div>
           
           <div class="link-text">
-            <div class="link-title">Oikiou's Blog</div>
+            <div class="link-title">Oikiou's CSDN</div>
             <div class="link-intro">CSDN</div>
+          </div>
+        </div>
+      </a>
+    </div>
+  
+    
+    <div class="card col-lg-4 col-md-6 col-sm-12">
+      <a href="https://wangyurui.com/" class="card-body hover-with-bg" target="_blank" rel="noopener">
+        <div class="card-content">
+          
+            <div class="link-avatar my-auto">
+              <img src="https://i.typlog.com/wangyr45/8354037005_710322.png?x-oss-process=style/ss" srcset="/img/loading.gif" lazyload alt="太隐"
+                   onerror="this.onerror=null; this.src=this.srcset='/img/loading.gif'"/>
+            </div>
+          
+          <div class="link-text">
+            <div class="link-title">太隐</div>
+            <div class="link-intro">一个人的思想发育史就是他的阅读史</div>
+          </div>
+        </div>
+      </a>
+    </div>
+  
+    
+    <div class="card col-lg-4 col-md-6 col-sm-12">
+      <a href="https://github.com/fluid-dev/hexo-theme-fluid" class="card-body hover-with-bg" target="_blank" rel="noopener">
+        <div class="card-content">
+          
+            <div class="link-avatar my-auto">
+              <img src="https://avatars2.githubusercontent.com/t/3419353?s=280&amp;v=4" srcset="/img/loading.gif" lazyload alt="Fluid Theme"
+                   onerror="this.onerror=null; this.src=this.srcset='/img/loading.gif'"/>
+            </div>
+          
+          <div class="link-text">
+            <div class="link-title">Fluid Theme</div>
+            <div class="link-intro">一款 Material Design 风格的主题</div>
+          </div>
+        </div>
+      </a>
+    </div>
+  
+    
+    <div class="card col-lg-4 col-md-6 col-sm-12">
+      <a href="https://www.foreverblog.cn/" class="card-body hover-with-bg" target="_blank" rel="noopener">
+        <div class="card-content">
+          
+            <div class="link-avatar my-auto">
+              <img src="https://tools.ly522.com/ico/favicon.php?url=www.foreverblog.cn" srcset="/img/loading.gif" lazyload alt="十年之约"
+                   onerror="this.onerror=null; this.src=this.srcset='/img/loading.gif'"/>
+            </div>
+          
+          <div class="link-text">
+            <div class="link-title">十年之约</div>
+            <div class="link-intro">一个人的寂寞，一群人的狂欢</div>
           </div>
         </div>
       </a>
@@ -293,25 +359,24 @@
 
   <article id="comments" lazyload>
     
-  <div class="cusdis" style="width:100%">
-    <div id="cusdis_thread"
-      data-host="https://cusdis.com"
-      data-app-id="df585676-13b6-4306-b356-d96b8713ad2c"
-      data-page-id="38687fdbcd50268b872dd8c493f739e6"
-      data-page-url="links/index.html"
-      data-page-title="友链"
-      data-theme="auto"
-    >
-    </div>
-  </div>
+  <div id="twikoo"></div>
   <script type="text/javascript">
-    Fluid.utils.loadComments('#cusdis_thread', function() {
-      Fluid.utils.createScript('https://cusdis.com/js/widget/lang/zh-cn.js');
-      Fluid.utils.createScript('https://cusdis.com/js/cusdis.es.js');
-      var schema = document.documentElement.getAttribute('data-user-color-scheme');
-      if (schema) {
-        document.querySelector('#cusdis_thread').dataset.theme = schema
-      }
+    Fluid.utils.loadComments('#comments', function() {
+      Fluid.utils.createScript('https://lib.baomitu.com/twikoo/1.6.5/twikoo.all.min.js', function() {
+        var options = Object.assign(
+          {"envId":"https://pretty.cf:8884/","region":"ap-shanghai","path":"window.location.pathname"},
+          {
+            el: '#twikoo',
+            path: 'window.location.pathname',
+            onCommentLoaded: function() {
+              var imgSelector = '#twikoo .tk-content img:not(.tk-owo-emotion)';
+              Fluid.plugins.imageCaption(imgSelector);
+              Fluid.plugins.fancyBox(imgSelector);
+            }
+          }
+        )
+        twikoo.init(options)
+      });
     });
   </script>
   <noscript>Please enable JavaScript to view the comments</noscript>
