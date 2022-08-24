@@ -1,0 +1,1149 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=auto>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.ico">
+  <link rel="icon" href="/img/favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="author" content="Oikiou">
+  <meta name="keywords" content="">
+  
+    <meta name="description" content="群晖Note安装https:&#x2F;&#x2F;www.openos.org&#x2F;threads&#x2F;dsm-6-2-3-2020-12-27.29&#x2F; SSH访问启动盘1234mkdir &#x2F;mnt&#x2F;bootcd &#x2F;devsudo mount -t vfat synoboot1 &#x2F;mnt&#x2F;bootcd &#x2F;mnt&#x2F;boot  半洗白 SN前言 全黑版本的群晖VideoStation不能离线转码，PhotoStation和Mo">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Synology 群晖">
+<meta property="og:url" content="http://blog.staion.cf/2022/ee60585b/index.html">
+<meta property="og:site_name" content="Oikiou&#39;s Blog">
+<meta property="og:description" content="群晖Note安装https:&#x2F;&#x2F;www.openos.org&#x2F;threads&#x2F;dsm-6-2-3-2020-12-27.29&#x2F; SSH访问启动盘1234mkdir &#x2F;mnt&#x2F;bootcd &#x2F;devsudo mount -t vfat synoboot1 &#x2F;mnt&#x2F;bootcd &#x2F;mnt&#x2F;boot  半洗白 SN前言 全黑版本的群晖VideoStation不能离线转码，PhotoStation和Mo">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://blog.staion.cf/2022/ee60585b/image-20211018141146176.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/ee60585b/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NmYW45Mjc=,size_16,color_FFFFFF,t_70.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/ee60585b/image-20211103161058734.png">
+<meta property="article:published_time" content="2022-08-21T14:57:15.000Z">
+<meta property="article:modified_time" content="2022-08-23T14:04:01.770Z">
+<meta property="article:author" content="Oikiou">
+<meta property="article:tag" content="Linux">
+<meta property="article:tag" content="Synology">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://blog.staion.cf/2022/ee60585b/image-20211018141146176.png">
+  
+  
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+  
+  <title>Synology 群晖 - Oikiou&#39;s Blog</title>
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
+
+
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/github-markdown-css/4.0.0/github-markdown.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/hint.css/2.7.0/hint.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css" />
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+<!-- Do not modify the link that theme dependent icons -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_hj8rtnfg7um.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_lbnruvf0jn.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+
+  <link id="highlight-css" rel="stylesheet" href="/css/highlight.css" />
+  
+    <link id="highlight-css-dark" rel="stylesheet" href="/css/highlight-dark.css" />
+  
+
+
+
+  
+<link rel="stylesheet" href="/css/custom.css">
+
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    Fluid.ctx = Object.assign({}, Fluid.ctx)
+    var CONFIG = {"hostname":"blog.staion.cf","root":"/","version":"1.9.2","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"bash"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"left","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":false,"baidu":null,"google":"G-TSV6137NWK","gtag":"G-TSV6137NWK","tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/xml/local-search-database.xml"};
+
+    if (CONFIG.web_analytics.follow_dnt) {
+      var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      Fluid.ctx.dnt = dntVal && (dntVal.startsWith('1') || dntVal.startsWith('yes') || dntVal.startsWith('on'));
+    }
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+  
+
+  
+
+  
+    <!-- Google Analytics -->
+    <script async>
+      if (!Fluid.ctx.dnt) {
+        Fluid.utils.createScript('https://www.google-analytics.com/analytics.js', function() {
+          window.ga = window.ga || function() { (ga.q = ga.q || []).push(arguments) };
+          ga.l = +new Date;
+          ga('create', 'G-TSV6137NWK', 'auto');
+          ga('send', 'pageview');
+        });
+      }
+    </script>
+  
+
+  
+    <!-- Google gtag.js -->
+    <script async>
+      if (!Fluid.ctx.dnt) {
+        Fluid.utils.createScript('https://www.googletagmanager.com/gtag/js?id=G-TSV6137NWK', function() {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-TSV6137NWK');
+        });
+      }
+    </script>
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+  
+<meta name="generator" content="Hexo 6.2.0"></head>
+
+
+<body>
+  
+
+  <header>
+    
+
+<div class="header-inner" style="height: 70vh;">
+  <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <strong>Oikiou&#39;s Blog</strong>
+    </a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/categories/">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/tags/">
+                <i class="iconfont icon-tags-fill"></i>
+                标签
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/links/">
+                <i class="iconfont icon-link-fill"></i>
+                友链
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
+              &nbsp;<i class="iconfont icon-search"></i>&nbsp;
+            </a>
+          </li>
+          
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self" href="javascript:;" aria-label="Color Toggle">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+<div id="banner" class="banner" parallax=true
+     style="background: url('/img/Honeyview_fantasy-scifi-background-fiction-wallpaper-n-o-d-nz8w3yf10lbce6hw.jpg') no-repeat center center; background-size: cover;">
+  <div class="full-bg-img">
+    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+      <div class="banner-text text-center fade-in-up">
+        <div class="h2">
+          
+            <span id="subtitle" data-typed-text="Synology 群晖"></span>
+          
+        </div>
+
+        
+          
+  <div class="mt-3">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-author" aria-hidden="true"></i>
+        Oikiou
+      </span>
+    
+    
+      <span class="post-meta">
+        <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+        <time datetime="2022-08-21 22:57" pubdate>
+          2022年8月21日 晚上
+        </time>
+      </span>
+    
+  </div>
+
+  <div class="mt-1">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-chart"></i>
+        
+          6.4k 字
+        
+      </span>
+    
+
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-clock-fill"></i>
+        
+        
+        
+          107 分钟
+        
+      </span>
+    
+
+    
+    
+      
+        <span id="busuanzi_container_page_pv" style="display: none">
+          <i class="iconfont icon-eye" aria-hidden="true"></i>
+          <span id="busuanzi_value_page_pv"></span> 次
+        </span>
+        
+      
+    
+  </div>
+
+
+        
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+</div>
+
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar" style="padding-left: 2rem; margin-right: -1rem">
+    <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+
+
+  </aside>
+
+
+    </div>
+
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none">Synology 群晖</h1>
+            
+              <p class="note note-info">
+                
+                  
+                    本文最后更新于：13 小时前
+                  
+                
+              </p>
+            
+            
+              <div class="markdown-body">
+                
+                <h1 id="群晖"><a href="#群晖" class="headerlink" title="群晖"></a>群晖</h1><h1 id="Note"><a href="#Note" class="headerlink" title="Note"></a>Note</h1><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p><a target="_blank" rel="noopener" href="https://www.openos.org/threads/dsm-6-2-3-2020-12-27.29/">https://www.openos.org/threads/dsm-6-2-3-2020-12-27.29/</a></p>
+<h2 id="SSH访问启动盘"><a href="#SSH访问启动盘" class="headerlink" title="SSH访问启动盘"></a>SSH访问启动盘</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs shell">mkdir /mnt/boot<br>cd /dev<br>sudo mount -t vfat synoboot1 /mnt/boot<br>cd /mnt/boot<br></code></pre></td></tr></table></figure>
+
+<h2 id="半洗白-SN"><a href="#半洗白-SN" class="headerlink" title="半洗白 SN"></a>半洗白 SN</h2><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><ul>
+<li>全黑版本的群晖VideoStation不能离线转码，PhotoStation和Moments的略缩图和人像识别也会有问题</li>
+<li>半洗白就是转码和缩略图一类的可用</li>
+<li>全白就是多了QC，这个就没必要了(白嫖个系统就好了,就不要去嫖别人的服务器了)</li>
+<li>主要通过Docker+DDSM来获得SN</li>
+<li>群辉新版的Docker 18.09.0-0506已经关闭了DDSM安装，可下载17.05.0版本的Docker</li>
+</ul>
+<h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><ol>
+<li><p>下载17.05.0的Docker，可以在<a target="_blank" rel="noopener" href="https://archive.synology.com/download/Package/Docker/17.05.0-0401">群晖官网下载</a>。</p>
+</li>
+<li><p>下载DDSM，可在<a target="_blank" rel="noopener" href="https://archive.synology.com/download/Os/DSM/6.2.3-25426">群晖官网下载</a>，注意要对应自己DSM的版本。</p>
+</li>
+<li><p>首先在套件中心点手动安装把第一步下载的17.05.0的Docker放进去。</p>
+</li>
+<li><p>打开Docker-左侧DSM-点击新增-下一步-下一步-下一步-手动上传，把刚刚下载的DDSM放进去，等待他安装完成。</p>
+</li>
+<li><p>安装完成后，进入DDSM群晖的控制面板。</p>
+</li>
+<li><p>在信息栏可看到SN和MAC，复制DDSM的SN和MAC保存下来。</p>
+</li>
+<li><p>SSH接入DSM群晖，挂载启动盘BOOT，修改<code>/grub/grub.cfg</code>文件。</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">挂载启动盘BOOT</span><br>mkdir /mnt/boot<br>cd /dev<br>sudo mount -t vfat synoboot1 /mnt/boot<br>cd /mnt/boot<br></code></pre></td></tr></table></figure></li>
+<li><p>重启。</p>
+</li>
+</ol>
+<p><img src="/2022/ee60585b/image-20211018141146176.png" srcset="/img/loading.gif" lazyload alt="image-20211018141146176"></p>
+<h2 id="半洗白后moments人脸识别不出来"><a href="#半洗白后moments人脸识别不出来" class="headerlink" title="半洗白后moments人脸识别不出来"></a>半洗白后moments人脸识别不出来</h2><h3 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h3><p>当群晖系统升级到6.22-24922以后，Moments也升级到了1.3.X，新的bug也随着版本升级来了”人物或者主题经常识别不出来“，经查日志后发现是Moments1.3插件有bug引导的，有问题的插件为“<strong>libsynophoto-plugin-detection.so</strong>”，经测试该插件在Moments1.2版本中是正常的。</p>
+<h3 id="步骤-1"><a href="#步骤-1" class="headerlink" title="步骤"></a>步骤</h3><ol>
+<li><p>群晖上启用SSH，并将moments停用</p>
+</li>
+<li><p>MobaXterm连接群晖，启用root登录</p>
+<ol>
+<li><code>sudo -i</code></li>
+<li><code>vi /etc/ssh/sshd_config</code></li>
+<li>找到#PermitRootLogin prohibit password，这一行最后，按回车，然后输入 <code>PermitRootLogin yes</code></li>
+<li>修改root密码<code>synouser --setpw root 你的密码</code></li>
+<li>重启</li>
+</ol>
+</li>
+<li><p>用root重新登录，将libsynophoto-plugin-detection.so插件替换掉</p>
+<ol>
+<li>找到目录：&#x2F;var&#x2F;packages&#x2F;SynologyMoments&#x2F;target&#x2F;usr&#x2F;lib&#x2F;libsynophoto-plugin-detection.so</li>
+<li>将原文件先备份一下</li>
+<li>用现有新文件将他替换掉</li>
+<li>新文件权限修改一下</li>
+</ol>
+</li>
+<li><p>将moments启用，问题解决</p>
+</li>
+</ol>
+<h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h3><p><a target="_blank" rel="noopener" href="https://www.zhihu.com/question/428454266/answer/1681110862?ivk_sa=1024320u">https://www.zhihu.com/question/428454266/answer/1681110862?ivk_sa=1024320u</a></p>
+<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/weixin_36059505/article/details/112766321">https://blog.csdn.net/weixin_36059505/article/details/112766321</a></p>
+<h2 id="群晖安装-ipkg-包管理"><a href="#群晖安装-ipkg-包管理" class="headerlink" title="群晖安装 ipkg 包管理"></a>群晖安装 ipkg 包管理</h2><p><strong>仅适用于x86平台，ARM平台需要修改链接</strong></p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">以 root 用户执行</span><br>sudo -i<br>cd /volume1/@tmp<br>wget http://ipkg.nslu2-linux.org/feeds/optware/syno-i686/cross/unstable/syno-i686-bootstrap_1.2-7_i686.xsh<br>chmod +x syno-i686-bootstrap_1.2-7_i686.xsh<br>sh syno-i686-bootstrap_1.2-7_i686.xsh<br>rm syno-i686-bootstrap_1.2-7_i686.xsh<br>ipkg update<br>reboot<br></code></pre></td></tr></table></figure>
+
+
+
+<h2 id="CPU频率调整"><a href="#CPU频率调整" class="headerlink" title="CPU频率调整"></a>CPU频率调整</h2><ol>
+<li><p>Linux的&#x2F;sys&#x2F;devices&#x2F;system&#x2F;cpu&#x2F;cpu*&#x2F;cpufreq目录存储着第*个CPU的一些参数，例如最小最大平均频率，bios限制频率。</p>
+</li>
+<li><p>使用如下命令可以查看支持的工作模式：</p>
+ <figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs awk">cat <span class="hljs-regexp">/sys/</span>devices<span class="hljs-regexp">/system/</span>cpu<span class="hljs-regexp">/cpu0/</span>cpufreq/scaling_available_governors<br></code></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th>模式</th>
+<th>介绍</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>powersave</td>
+<td>只会保持最低频率，节能省电</td>
+</tr>
+<tr>
+<td>userspace</td>
+<td>自定义频率</td>
+</tr>
+<tr>
+<td>ondemand</td>
+<td>一有cpu计算量的任务，就会立即达到最大频率运行，等执行完毕就立即回到最低频率</td>
+</tr>
+<tr>
+<td>conservative</td>
+<td>根据负载状态自动在频率上下限调整</td>
+</tr>
+<tr>
+<td>performance</td>
+<td>保持以最大频率运行</td>
+</tr>
+</tbody></table>
+</li>
+<li><p>通过下面指令可以看第*个CPU核心的工作状态，</p>
+ <figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs awk">cat <span class="hljs-regexp">/sys/</span>devices<span class="hljs-regexp">/system/</span>cpu<span class="hljs-regexp">/cpu*/</span>cpufreq/scaling_governor<br></code></pre></td></tr></table></figure></li>
+</ol>
+<p>安装cpufreq-info：</p>
+<figure class="highlight cmake"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs cmake">ipkg update<br>ipkg <span class="hljs-keyword">install</span> cpufrequtils<br></code></pre></td></tr></table></figure>
+
+<p>查看CPU频率和模式</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">cpufreq-info<br></code></pre></td></tr></table></figure>
+
+<p>修改模式：</p>
+<figure class="highlight dos"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs dos">cpufreq-<span class="hljs-built_in">set</span> -c * -g <span class="hljs-built_in">MODE</span><br></code></pre></td></tr></table></figure>
+
+<p>例如将四个核心全部ondemand：</p>
+<figure class="highlight gams"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs gams">cpufreq-<span class="hljs-keyword">set</span> -c <span class="hljs-comment">0 -g ondemand</span><br>cpufreq-<span class="hljs-keyword">set</span> <span class="hljs-comment">-c 1 -g ondemand</span><br>cpufreq-<span class="hljs-keyword">set</span> <span class="hljs-comment">-c 2 -g ondemand</span><br>cpufreq-<span class="hljs-keyword">set</span> <span class="hljs-comment">-c 3 -g ondemand</span><br></code></pre></td></tr></table></figure>
+
+<p>为了下次开机也自动生效，可以手动添加启动脚本。将其存成.sh，开启启动即可</p>
+<figure class="highlight gradle"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs gradle">#<span class="hljs-regexp">/bin/</span>bash<br><span class="hljs-regexp">/opt/</span>bin/cpufreq-set -c <span class="hljs-number">0</span> -g ondemand<br><span class="hljs-regexp">/opt/</span>bin/cpufreq-set -c <span class="hljs-number">1</span> -g ondemand<br><span class="hljs-regexp">/opt/</span>bin/cpufreq-set -c <span class="hljs-number">2</span> -g ondemand<br><span class="hljs-regexp">/opt/</span>bin/cpufreq-set -c <span class="hljs-number">3</span> -g ondemand<br></code></pre></td></tr></table></figure>
+
+
+
+<h2 id="lm-sensors-风扇控制"><a href="#lm-sensors-风扇控制" class="headerlink" title="lm-sensors 风扇控制"></a>lm-sensors 风扇控制</h2><p>执行安装命令</p>
+<figure class="highlight cmake"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs cmake">ipkg <span class="hljs-keyword">install</span> lm-sensors<br></code></pre></td></tr></table></figure>
+
+<p>查看温度</p>
+<figure class="highlight ebnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs ebnf"><span class="hljs-attribute">sensors</span><br></code></pre></td></tr></table></figure>
+
+<p>配置风扇控制，这块主要的目的只检测风扇在那一路，一般主板会涉及到多个风扇，但不一定都会安装，所以通过pwmconfig来检测与测试风扇的转速控制。</p>
+<figure class="highlight ebnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs ebnf"><span class="hljs-attribute">sudo pwmconfig</span><br></code></pre></td></tr></table></figure>
+
+<p>使用fancontrol自动控制风扇转速，他的原理就是定时执行脚本，监控CPU温度、根据不同的温度区间控制PWM值，从而改变风扇的转速。<br>当转速降低了后，噪音自然就解决了。</p>
+<p>fancontrol会依赖pwmconfig命令生成的配置文件。</p>
+<figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><code class="hljs awk"><span class="hljs-regexp">/etc/</span>fancontrol<br><br>-----------配置内容如下--------------<br><span class="hljs-comment"># Configuration file generated by pwmconfig, changes will be lost</span><br>INTERVAL=<span class="hljs-number">10</span><br>DEVPATH=hwmon0=devices<span class="hljs-regexp">/platform/</span>coretemp.<span class="hljs-number">0</span> hwmon1=devices<span class="hljs-regexp">/platform/i</span>t87.<span class="hljs-number">2624</span><br>DEVNAME=hwmon0=coretemp hwmon1=it8772<br>FCTEMPS=hwmon1<span class="hljs-regexp">/device/</span>pwm2=hwmon0<span class="hljs-regexp">/device/</span>temp3_input<br>FCFANS= hwmon1<span class="hljs-regexp">/device/</span>pwm2=hwmon1<span class="hljs-regexp">/device/</span>fan2_input<br>MINTEMP=hwmon1<span class="hljs-regexp">/device/</span>pwm2=<span class="hljs-number">20</span><br>MAXTEMP=hwmon1<span class="hljs-regexp">/device/</span>pwm2=<span class="hljs-number">60</span><br>MINSTART=hwmon1<span class="hljs-regexp">/device/</span>pwm2=<span class="hljs-number">150</span><br>MINSTOP=hwmon1<span class="hljs-regexp">/device/</span>pwm2=<span class="hljs-number">100</span><br></code></pre></td></tr></table></figure>
+
+<p>默认生成的配置基本能够满足需求，经过测试风扇在2000转左右噪音相对能够接受。</p>
+<h2 id="VideoStation"><a href="#VideoStation" class="headerlink" title="VideoStation"></a>VideoStation</h2><p>参考：</p>
+<p><a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/357332211">关于群晖NAS video station TMDB连接测试失败及搜刮结果下载失败的解决方案</a></p>
+<p><a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/152351243">（群晖）关于Video Station内电影及电视剧封面简介为空白的处理方法</a></p>
+<h3 id="步骤-2"><a href="#步骤-2" class="headerlink" title="步骤"></a>步骤</h3><ul>
+<li><p>TMDB的图片服务器被屏蔽需要修改hosts 加上 api.themoviedb.org 的ip</p>
+</li>
+<li><p>修改hosts后即可测试，已经连通</p>
+</li>
+<li><p>搜刮信息会出现下载失败，主要是下载图片的url需要切换一下</p>
+<p>  编辑 util_themoviedb.php 文件</p>
+  <figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs text">cd /var/packages/VideoStation/target/plugins<br>vi util_themoviedb.php<br></code></pre></td></tr></table></figure>
+  <figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs text"># 找到下面的语句<br>define(&#x27;API_URL&#x27;, &#x27;https://api.themoviedb.org/3/&#x27;);<br>define(&#x27;BANNER_URL&#x27;, &#x27;https://image.tmdb.org/t/p/w500&#x27;);<br>define(&#x27;BACKDROUP_URL&#x27;, &#x27;https://image.tmdb.org/t/p/original&#x27;);<br><br># 我们只需要把改为<br>image.tmdb.org<br># 改为<br>www.themoviedb.org<br></code></pre></td></tr></table></figure></li>
+</ul>
+<h2 id="Gogs"><a href="#Gogs" class="headerlink" title="Gogs"></a>Gogs</h2><h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><p><a target="_blank" rel="noopener" href="https://blog.csdn.net/cfan927/article/details/100862989">【工具】群晖利用docker安装Gogs代码管理平台</a></p>
+<h3 id="步骤-3"><a href="#步骤-3" class="headerlink" title="步骤"></a>步骤</h3><ol>
+<li><p>打开“Docker”-&gt;”注册表”，搜索Gogs并“右键”-&gt;“下载此映像”</p>
+<p><img src="/2022/ee60585b/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NmYW45Mjc=,size_16,color_FFFFFF,t_70.png" srcset="/img/loading.gif" lazyload alt="在这里插入图片描述"></p>
+</li>
+<li><p>在”映像“页面中安装Gogs容器后，切换到”容器“页面，然后双击打开Gogs详情页</p>
+<ol>
+<li>设定容器的本地端口</li>
+<li>设定桌面快捷方式</li>
+</ol>
+</li>
+<li><p>Gogs配置</p>
+<ol>
+<li><p>Windows中用ssh登录群晖服务器，cd到mariaDB目录下：</p>
+<p><code>cd /volume1/@appstore/MariaDB10/usr/local/mariadb10/bin/</code></p>
+</li>
+<li><p>输入命令 <code>./mysql -u root -p</code>，然后输入密码，连接数据库</p>
+</li>
+<li><p>输入命令 <code>use mysql</code>切换到mysql数据库</p>
+</li>
+<li><p>创建数据库gogs<br> <code>CREATE DATABASE IF NOT EXISTS gogs;</code></p>
+</li>
+<li><p>输入下面的命令获取数据库远程访问权限 ：</p>
+<p><code>GRANT ALL PRIVILEGES ON gogs.* TO &#39;user&#39;@&#39;%&#39; IDENTIFIED BY &#39;password&#39; WITH GRANT OPTION;</code><br>其中user为用户名<br>password为用户密码</p>
+</li>
+<li><p>然后用<code>show databases;</code>命令查看一下结果</p>
+</li>
+</ol>
+</li>
+<li><p>gogs:port 设定相关参数即可</p>
+</li>
+<li><p>着重需要说明的是：</p>
+</li>
+<li><p>tips</p>
+<ol>
+<li>删除数据库  <code>DROP DATABASE gogs;</code></li>
+</ol>
+</li>
+</ol>
+<h3 id="Note-1"><a href="#Note-1" class="headerlink" title="Note"></a>Note</h3><ul>
+<li>gogs 的配置保存在<code>/data/gogs/conf/app.ini</code> 参考下图</li>
+</ul>
+<p><img src="/2022/ee60585b/image-20211103161058734.png" srcset="/img/loading.gif" lazyload alt="image-20211103161058734"></p>
+<ul>
+<li><strong>注意</strong> MariaDB的port默认是不开的，需要去套件里面打开。</li>
+</ul>
+<blockquote>
+<ol>
+<li><strong>Domain</strong> 填写Docker宿主机的物理IP地址，或者域名地址,注意这里是不带 http的 如： 192.168.137.140 或 git.mydomain.com</li>
+<li><strong>SSH port</strong> 假如Docker映射的端口是 10022:22 那么这里就填写宿主机开放的端口 10022</li>
+<li><strong>HTTP port</strong> 假如Docker映射的端口是 10080:3000 这里要填容器内的监听端口 3000</li>
+<li><strong>Application URL</strong> 这里要填写的格式为 http(s)?&#x2F; + Domain + HTTP port ，比如：<a target="_blank" rel="noopener" href="http://git.mydomain.com/10080">http://git.mydomain.com/10080</a> 。还需要注意的一点是，如果你用了nginx来映射宿主机的 10080 端口，这里要去掉后面的端口，即 <a target="_blank" rel="noopener" href="http://git.mydomain.com/%EF%BC%8C%E8%AF%B4%E7%99%BD%E4%BA%86%E5%B0%B1%E6%98%AF%E4%BD%A0%E5%9C%A8%E5%A4%96%E9%83%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8A%E8%AE%BF%E9%97%AE%E7%9A%84%E5%9C%B0%E5%9D%80%E3%80%82">http://git.mydomain.com/，说白了就是你在外部浏览器上访问的地址。</a></li>
+</ol>
+</blockquote>
+<ul>
+<li><strong>注意</strong>非标准port的ssh需要注意clone地址是否正确</li>
+</ul>
+<h4 id="备份"><a href="#备份" class="headerlink" title="备份"></a>备份</h4><p><a target="_blank" rel="noopener" href="https://github.com/gogs/gogs/discussions/6876">https://github.com/gogs/gogs/discussions/6876</a></p>
+<ul>
+<li><p><strong>数据备份</strong></p>
+</li>
+<li><p>因为容器内的 <code>/data</code> 目录是直接挂载到宿主机的，我们把容器内备份目录设置为 <code>/data</code> ， 方便宿主机将备份文件同步到远程备份服务器。</p>
+</li>
+</ul>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs shell">docker container exec gogs su - git -s /bin/ash \<br>-c &quot;/app/gogs/gogs backup \<br>--config=/data/gogs/conf/app.ini \<br>--target=/gogs&quot;<br><span class="hljs-meta prompt_"># </span><span class="language-bash">注意挂载目录的权限</span><br></code></pre></td></tr></table></figure>
+
+<ul>
+<li><p><strong>数据恢复</strong></p>
+</li>
+<li><p>用docker完成gogs部署之后，进入容器，执行下面命令</p>
+</li>
+</ul>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs shell">docker container exec -it gogs su - git -s /bin/ash \<br>-c &quot;/app/gogs/gogs restore \<br>--config=/data/gogs/conf/app.ini \<br>--tempdir=/data \<br>--from=/data/gogs-backup-20211230091744.zip&quot;<br><br></code></pre></td></tr></table></figure>
+
+<ul>
+<li><p><strong>注意：</strong></p>
+</li>
+<li><p>备份和恢复时，使用的 gogs 版本必须是一致的</p>
+</li>
+<li><p>备份和恢复时，使用的 mysql 版本必须是一致的</p>
+</li>
+</ul>
+<h4 id="自述文档"><a href="#自述文档" class="headerlink" title="自述文档"></a>自述文档</h4><p>Create a plain text file then move to directory <code>custom/conf/readme/README</code> and <strong>restart Gogs.</strong></p>
+<ul>
+<li><code>&#123;Name&#125;</code>: Repository name</li>
+<li><code>&#123;Description&#125;</code>: Repository description</li>
+<li><code>&#123;CloneURL.SSH&#125;</code>: Repository SSH clone address</li>
+<li><code>&#123;CloneURL.HTTPS&#125;</code>: Repository HTTP&#x2F;HTTPS clone address</li>
+</ul>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">&#123;Name&#125;</span><br>&#123;Name&#125; Repository<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_">#</span><span class="language-bash"><span class="hljs-comment"># Tip</span></span><br>You can get the development version of this repo via<br>**git clone &#123;CloneURL.SSH&#125;**<br>or<br>**git clone &#123;CloneURL.HTTPS&#125;**<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_">#</span><span class="language-bash"><span class="hljs-comment"># Bref</span></span><br>&#123;Description&#125;<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_">#</span><span class="language-bash"><span class="hljs-comment"># Details</span></span><br><br></code></pre></td></tr></table></figure>
+
+
+
+<h2 id="zerotier"><a href="#zerotier" class="headerlink" title="zerotier"></a>zerotier</h2><table>
+<thead>
+<tr>
+<th>img name</th>
+<th>last version</th>
+<th>notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>henrist-zerotier-one1</td>
+<td>1.6.6</td>
+<td>没有自动配置路由</td>
+</tr>
+<tr>
+<td>bltavares zerotier</td>
+<td>1.6.6</td>
+<td>网络不通</td>
+</tr>
+<tr>
+<td>zyclonite&#x2F;zerotier&#x2F;</td>
+<td>1.8.4</td>
+<td>没有自动配置路由 配置路由后正常</td>
+</tr>
+<tr>
+<td>spikhalskiy-zerotier1</td>
+<td>1.8.2</td>
+<td>运行会报错<code>zerotier-cli: /usr/lib/libstdc++.so.6: no version information available (required by zerotier-cli)</code>, 没有自动配置路由 配置路由后正常</td>
+</tr>
+<tr>
+<td>zerotier-zerotier-synology</td>
+<td>1.8.4</td>
+<td>没有自动配置路由 配置路由后正常</td>
+</tr>
+</tbody></table>
+<figure class="highlight livescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs livescript">docker run <span class="hljs-string">\</span><br>  -d <span class="hljs-string">\</span><br>  --restart always <span class="hljs-string">\</span><br>  --name zerotier-one <span class="hljs-string">\</span><br>  --device /dev/net/tun <span class="hljs-string">\</span><br>  --net host <span class="hljs-string">\</span><br>  --cap-add NET_ADMIN <span class="hljs-string">\</span><br>  --cap-add SYS_ADMIN <span class="hljs-string">\</span><br>  -v /<span class="hljs-keyword">var</span>/lib/zerotier-one:/<span class="hljs-keyword">var</span>/lib/zerotier-one <span class="hljs-string">\</span><br>  zerotier/zerotier-synology<br></code></pre></td></tr></table></figure>
+
+
+
+<h2 id="第三方套件"><a href="#第三方套件" class="headerlink" title="第三方套件"></a>第三方套件</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">矿神</span><br>https://spk.imnks.com/<br></code></pre></td></tr></table></figure>
+
+
+
+
+                
+              </div>
+            
+            <hr/>
+            <div>
+              <div class="post-metas my-3">
+  
+    <div class="post-meta mr-3 d-flex align-items-center">
+      <i class="iconfont icon-category"></i>
+      
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/more-interest/" class="category-chain-item">more_interest</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+    </div>
+  
+  
+    <div class="post-meta">
+      <i class="iconfont icon-tags"></i>
+      
+        <a href="/tags/Linux/">#Linux</a>
+      
+        <a href="/tags/Synology/">#Synology</a>
+      
+    </div>
+  
+</div>
+
+
+              
+  
+
+  <div class="license-box my-3">
+    <div class="license-title">
+      <div>Synology 群晖</div>
+      <div>http://blog.staion.cf/2022/ee60585b/</div>
+    </div>
+    <div class="license-meta">
+      
+        <div class="license-meta-item">
+          <div>作者</div>
+          <div>Oikiou</div>
+        </div>
+      
+      
+        <div class="license-meta-item license-meta-date">
+          <div>发布于</div>
+          <div>2022年8月21日</div>
+        </div>
+      
+      
+      <div class="license-meta-item">
+        <div>许可协议</div>
+        <div>
+          
+            
+            
+              <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              <span class="hint--top hint--rounded" aria-label="BY - 署名">
+                <i class="iconfont icon-by"></i>
+              </span>
+              </a>
+            
+              <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              <span class="hint--top hint--rounded" aria-label="NC - 非商业性使用">
+                <i class="iconfont icon-nc"></i>
+              </span>
+              </a>
+            
+              <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              <span class="hint--top hint--rounded" aria-label="SA - 相同方式共享">
+                <i class="iconfont icon-sa"></i>
+              </span>
+              </a>
+            
+          
+        </div>
+      </div>
+    </div>
+    <div class="license-icon iconfont"></div>
+  </div>
+
+
+
+              
+                <div class="post-prevnext my-3">
+                  <article class="post-prev col-6">
+                    
+                    
+                      <a href="/2022/bda63754/" title="摄影">
+                        <i class="iconfont icon-arrowleft"></i>
+                        <span class="hidden-mobile">摄影</span>
+                        <span class="visible-mobile">上一篇</span>
+                      </a>
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/2022/3dd7ffa7/" title="C">
+                        <span class="hidden-mobile">C</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+  <article id="comments" lazyload>
+    
+  <div id="twikoo"></div>
+  <script type="text/javascript">
+    Fluid.utils.loadComments('#comments', function() {
+      Fluid.utils.createScript('https://lib.baomitu.com/twikoo/1.6.5/twikoo.all.min.js', function() {
+        var options = Object.assign(
+          {"envId":"https://pretty.cf:8884/","region":"ap-shanghai","path":"window.location.pathname"},
+          {
+            el: '#twikoo',
+            path: 'window.location.pathname',
+            onCommentLoaded: function() {
+              var imgSelector = '#twikoo .tk-content img:not(.tk-owo-emotion)';
+              Fluid.plugins.imageCaption(imgSelector);
+              Fluid.plugins.fancyBox(imgSelector);
+            }
+          }
+        )
+        twikoo.init(options)
+      });
+    });
+  </script>
+  <noscript>Please enable JavaScript to view the comments</noscript>
+
+
+  </article>
+
+
+          </article>
+        </div>
+      </div>
+    </div>
+
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar category-bar" style="margin-left: -1rem">
+    
+
+
+
+
+
+<div class="category-list">
+  
+  
+    
+    
+    
+    <div class="category row nomargin-x">
+      <a class="category-item 
+          list-group-item category-item-action col-10 col-md-11 col-xm-11" title="more_interest"
+        id="heading-7fccd85dee280c4a0c81e1ce34018eec" role="tab" data-toggle="collapse" href="#collapse-7fccd85dee280c4a0c81e1ce34018eec"
+        aria-expanded="true"
+      >
+        more_interest
+        <span class="list-group-count">(7)</span>
+        <i class="iconfont icon-arrowright"></i>
+      </a>
+      
+      <div class="category-collapse collapse show" id="collapse-7fccd85dee280c4a0c81e1ce34018eec"
+           role="tabpanel" aria-labelledby="heading-7fccd85dee280c4a0c81e1ce34018eec">
+        
+        
+          
+  <div class="category-post-list">
+    
+    
+      
+      
+        <a href="/2022/154e1146/" title="CAD"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">CAD</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/eae787f0/" title="CatDrive猫盘"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">CatDrive猫盘</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/f15ac6f4/" title="Nintendo Switch"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">Nintendo Switch</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/86880617/" title="PC Hardware"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">PC Hardware</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/fc18738/" title="PC Software"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">PC Software</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/bda63754/" title="摄影"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">摄影</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/ee60585b/" title="Synology 群晖"
+           class="list-group-item list-group-item-action
+           active">
+          <span class="category-post">Synology 群晖</span>
+        </a>
+      
+    
+  </div>
+
+        
+      </div>
+    </div>
+  
+</div>
+
+
+  </aside>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+    
+
+    
+      <a id="scroll-top-button" aria-label="TOP" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v" for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+  
+  
+    <div class="statistics">
+  
+  
+
+  
+    
+      <span id="busuanzi_container_site_pv" style="display: none">
+        总访问量 
+        <span id="busuanzi_value_site_pv"></span>
+         次
+      </span>
+    
+    
+      <span id="busuanzi_container_site_uv" style="display: none">
+        总访客数 
+        <span id="busuanzi_value_site_uv"></span>
+         人
+      </span>
+    
+    
+  
+</div>
+
+  
+  
+  
+</div>
+
+  </footer>
+
+  <!-- Scripts -->
+  
+  <script  src="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://lib.baomitu.com/jquery/3.6.0/jquery.min.js" ></script>
+<script  src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+
+  <script  src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var subtitle = document.getElementById('subtitle');
+      if (!subtitle || !typing) {
+        return;
+      }
+      var text = subtitle.getAttribute('data-typed-text');
+      
+        typing(text);
+      
+    })(window, document);
+  </script>
+
+
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/tocbot/4.18.2/tocbot.min.js', function() {
+    var toc = jQuery('#toc');
+    if (toc.length === 0 || !window.tocbot) { return; }
+    var boardCtn = jQuery('#board-ctn');
+    var boardTop = boardCtn.offset().top;
+
+    window.tocbot.init({
+      tocSelector     : '#toc-body',
+      contentSelector : '.markdown-body',
+      headingSelector : CONFIG.toc.headingSelector || 'h1,h2,h3,h4,h5,h6',
+      linkClass       : 'tocbot-link',
+      activeLinkClass : 'tocbot-active-link',
+      listClass       : 'tocbot-list',
+      isCollapsedClass: 'tocbot-is-collapsed',
+      collapsibleClass: 'tocbot-is-collapsible',
+      collapseDepth   : CONFIG.toc.collapseDepth || 0,
+      scrollSmooth    : true,
+      headingsOffset  : -boardTop
+    });
+    if (toc.find('.toc-list-item').length > 0) {
+      toc.css('visibility', 'visible');
+    }
+  });
+</script>
+
+
+  <script src=https://lib.baomitu.com/clipboard.js/2.0.10/clipboard.min.js></script>
+
+  <script>Fluid.plugins.codeWidget();</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/anchor-js/4.3.1/anchor.min.js', function() {
+    window.anchors.options = {
+      placement: CONFIG.anchorjs.placement,
+      visible  : CONFIG.anchorjs.visible
+    };
+    if (CONFIG.anchorjs.icon) {
+      window.anchors.options.icon = CONFIG.anchorjs.icon;
+    }
+    var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+    var res = [];
+    for (var item of el) {
+      res.push('.markdown-body > ' + item.trim());
+    }
+    if (CONFIG.anchorjs.placement === 'left') {
+      window.anchors.options.class = 'anchorjs-link-left';
+    }
+    window.anchors.add(res.join(', '));
+  });
+</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js', function() {
+    Fluid.plugins.fancyBox();
+  });
+</script>
+
+
+  <script>Fluid.plugins.imageCaption();</script>
+
+  <script  src="/js/local-search.js" ></script>
+
+  <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" ></script>
+
+
+
+
+  
+<script src="/js/custom.js"></script>
+
+
+
+<!-- 主题的启动项，将它保持在最底部 -->
+<!-- the boot of the theme, keep it at the bottom -->
+<script  src="/js/boot.js" ></script>
+
+
+  
+
+  <noscript>
+    <div class="noscript-warning">博客在允许 JavaScript 运行的环境下浏览效果更佳</div>
+  </noscript>
+</body>
+</html>
