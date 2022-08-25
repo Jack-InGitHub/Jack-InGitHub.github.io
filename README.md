@@ -2,5 +2,5 @@
 
 https://jack-ingithub.github.io/
 
-blog.static.cf
+https://blog.static.cf/
 
