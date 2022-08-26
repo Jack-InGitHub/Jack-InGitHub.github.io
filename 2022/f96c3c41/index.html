@@ -37,7 +37,7 @@
 <meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/2fc062cb2.svg">
 <meta property="og:image" content="http://blog.staion.cf/2022/f96c3c41/licences_3bf0e9af_670x502.jpg">
 <meta property="article:published_time" content="2022-08-21T14:57:15.000Z">
-<meta property="article:modified_time" content="2022-08-24T13:09:32.178Z">
+<meta property="article:modified_time" content="2022-08-26T15:27:24.198Z">
 <meta property="article:author" content="Oikiou">
 <meta property="article:tag" content="HEXO">
 <meta property="article:tag" content="Jekyll">
@@ -299,7 +299,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          4.9k 字
+          5.6k 字
         
       </span>
     
@@ -310,7 +310,7 @@
         
         
         
-          83 分钟
+          95 分钟
         
       </span>
     
@@ -371,7 +371,7 @@
               <p class="note note-info">
                 
                   
-                    本文最后更新于：1 天前
+                    本文最后更新于：2 分钟前
                   
                 
               </p>
@@ -596,6 +596,17 @@
 <li>md文件名要和图片等等资源文件夹同名 -&gt; 注定了不能使用 <code>./$&#123;filename&#125;.assets</code>这种方案, 一定要改成<code>./$&#123;filename&#125;</code>才行</li>
 </ul>
 </blockquote>
+<h2 id="Hexo跳过一些文件-不渲染某些文件"><a href="#Hexo跳过一些文件-不渲染某些文件" class="headerlink" title="Hexo跳过一些文件,不渲染某些文件"></a>Hexo跳过一些文件,不渲染某些文件</h2><p>搜索引擎确认网站所有权时往往会提供一个html文件来进行验证，要是这个文件被渲染了，验证自然就会失败了。或者，有时候会写一些简单的html示例页面或<code>README.md</code>，这也是不希望Hexo渲染的。因此有必要针对某个文件或者目录进行排除。</p>
+<p>Hexo博客的基本内容是一些Markdown文件，放在<code>source/_post</code>文件夹下，每个文件对应一篇文章。除此之外，放在<code>source</code>文件夹下的所有开头不是下划线的文件，在<code>hexo generate</code>的时候，都会被拷贝到<code>public</code>文件夹下。但是，Hexo默认会渲染所有的HTML和Markdown文件，导致我的README.md直接转成html格式了。。。</p>
+<p>怎么样避开这个坑呢？如果只有一个HTML文件的话，可以简单地在文件开头加上<code>layout: false</code>一行即可：</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">layout:</span> <span class="hljs-literal">false</span><br><span class="hljs-meta">---</span><br><span class="hljs-meta"></span><br><span class="hljs-string">&lt;html&gt;</span><br><span class="hljs-string">...</span><br></code></pre></td></tr></table></figure>
+
+<p>如果有多个要避开渲染的md文件，显然是不可能使用这种方法的。这时候需要使用<code>skip_render</code>配置。根据<a target="_blank" rel="noopener" href="https://hexo.io/zh-cn/docs/configuration.html">Hexo文档</a>中的说明，通过在<code>_config.yml</code>配置文件中使用<code>skip_render</code>参数，可以跳过指定文件的渲染。使用方式如下：</p>
+<figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs awk">skip_render: [games<span class="hljs-regexp">/**, depview/</span>**, knowledge/**]<br></code></pre></td></tr></table></figure>
+
+<p>这里的路径匹配可以使用正则表达式。</p>
+<p><strong>注意：<code>skip_render</code>参数设置的路径是相对于<code>source</code>目录的路径。</strong>例如，需要跳过渲染source&#x2F;README.md，只需要设置 <code>skip_render:README.md</code>。</p>
+<p>在设置了跳过渲染之后，最好使用<code>hexo clean</code>清除以前的编译结果，保证配置生效。</p>
 <h1 id="Comment-评论系统"><a href="#Comment-评论系统" class="headerlink" title="Comment 评论系统"></a>Comment 评论系统</h1><h2 id="cusdis-系统"><a href="#cusdis-系统" class="headerlink" title="cusdis 系统"></a>cusdis 系统</h2><p>功能较少,看起来非常轻量, 也可以私有部署,正打算私有部署的时候看到了<code>twikoo</code>所以就转入<code>twikoo</code>了,因为cusdis现阶段功能确实有些少.</p>
 <h2 id="twikoo-系统"><a href="#twikoo-系统" class="headerlink" title="twikoo 系统"></a>twikoo 系统</h2><p><a target="_blank" rel="noopener" href="https://twikoo.js.org/">https://twikoo.js.org/</a></p>
 <p>私有docker部署部署半天还是不成功, 看起来像是需要HTTPS才行.</p>
@@ -752,8 +763,8 @@
                   <article class="post-next col-6">
                     
                     
-                      <a href="/2022/18d811b/" title="J-Link RTT的使用方法">
-                        <span class="hidden-mobile">J-Link RTT的使用方法</span>
+                      <a href="/2022/3dd7ffa7/" title="C">
+                        <span class="hidden-mobile">C</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
@@ -842,15 +853,6 @@
     
       
       
-        <a href="/2022/18d811b/" title="J-Link RTT的使用方法"
-           class="list-group-item list-group-item-action
-           ">
-          <span class="category-post">J-Link RTT的使用方法</span>
-        </a>
-      
-    
-      
-      
         <a href="/2022/5ced0506/" title="DSlogic协议开发笔记"
            class="list-group-item list-group-item-action
            ">
@@ -860,10 +862,10 @@
     
       
       
-        <a href="/2022/30f8332a/" title="手动添加JLink不支持的芯片"
+        <a href="/2022/18d811b/" title="J-Link RTT的使用方法"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">手动添加JLink不支持的芯片</span>
+          <span class="category-post">J-Link RTT的使用方法</span>
         </a>
       
     
@@ -882,6 +884,15 @@
            class="list-group-item list-group-item-action
            ">
           <span class="category-post">Visual Studio</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/30f8332a/" title="手动添加JLink不支持的芯片"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">手动添加JLink不支持的芯片</span>
         </a>
       
     
