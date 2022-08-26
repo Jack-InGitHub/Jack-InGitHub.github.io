@@ -25,14 +25,14 @@
 <meta property="og:site_name" content="Oikiou&#39;s Blog">
 <meta property="og:description" content="使用Jlink 烧写SPI Flash存储芯片参考: https:&#x2F;&#x2F;www.segger.com&#x2F;products&#x2F;debug-probes&#x2F;j-link&#x2F;tools&#x2F;j-flash-spi&#x2F; 硬件连接SPI &amp; Single  QSPI &amp; Quad    注意:   这里要注意的一点，正版的Jlink仿真器1脚是输入引脚，是外部提供参考电平的，但由于现在大部分的JLink仿真">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="http://blog.staion.cf/2022/undefined/formatpng.png">
-<meta property="og:image" content="http://blog.staion.cf/2022/undefined/pinout-spi-20-pin.gif">
-<meta property="og:image" content="http://blog.staion.cf/2022/undefined/pinout-qspi-20-pin.png">
-<meta property="og:image" content="http://blog.staion.cf/2022/undefined/image-20220826224742256.png">
-<meta property="og:image" content="http://blog.staion.cf/2022/undefined/image-20220826104542006.png">
-<meta property="og:image" content="http://blog.staion.cf/2022/undefined/20210622091839750557.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/fd90dc4c/formatpng.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/fd90dc4c/pinout-spi-20-pin.gif">
+<meta property="og:image" content="http://blog.staion.cf/2022/fd90dc4c/pinout-qspi-20-pin.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/fd90dc4c/image-20220826224742256.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/fd90dc4c/image-20220826104542006.png">
+<meta property="og:image" content="http://blog.staion.cf/2022/fd90dc4c/20210622091839750557.png">
 <meta property="article:published_time" content="2022-08-26T15:23:05.000Z">
-<meta property="article:modified_time" content="2022-08-26T15:27:24.189Z">
+<meta property="article:modified_time" content="2022-08-26T15:28:55.802Z">
 <meta property="article:author" content="Oikiou">
 <meta property="article:tag" content="J-Link">
 <meta property="article:tag" content="SPI">
@@ -40,7 +40,7 @@
 <meta property="article:tag" content="J-Tag">
 <meta property="article:tag" content="Jlink">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="http://blog.staion.cf/2022/undefined/formatpng.png">
+<meta name="twitter:image" content="http://blog.staion.cf/2022/fd90dc4c/formatpng.png">
   
   
     <meta name="referrer" content="no-referrer-when-downgrade">
@@ -366,7 +366,7 @@
               <p class="note note-info">
                 
                   
-                    本文最后更新于：2 分钟前
+                    本文最后更新于：11 分钟前
                   
                 
               </p>
@@ -376,9 +376,9 @@
                 
                 <h1 id="使用Jlink-烧写SPI-Flash存储芯片"><a href="#使用Jlink-烧写SPI-Flash存储芯片" class="headerlink" title="使用Jlink 烧写SPI Flash存储芯片"></a>使用Jlink 烧写SPI Flash存储芯片</h1><p>参考:</p>
 <p><a target="_blank" rel="noopener" href="https://www.segger.com/products/debug-probes/j-link/tools/j-flash-spi/">https://www.segger.com/products/debug-probes/j-link/tools/j-flash-spi/</a></p>
-<h1 id="硬件连接"><a href="#硬件连接" class="headerlink" title="硬件连接"></a>硬件连接</h1><h2 id="SPI-amp-Single"><a href="#SPI-amp-Single" class="headerlink" title="SPI &amp; Single"></a>SPI &amp; Single</h2><p><img src="/2022/undefined/formatpng.png" srcset="/img/loading.gif" lazyload alt="img"></p>
-<p><img src="/2022/undefined/pinout-spi-20-pin.gif" srcset="/img/loading.gif" lazyload alt="引出线 spi 20 针"></p>
-<h2 id="QSPI-amp-Quad"><a href="#QSPI-amp-Quad" class="headerlink" title="QSPI &amp; Quad"></a>QSPI &amp; Quad</h2><p><img src="/2022/undefined/pinout-qspi-20-pin.png" srcset="/img/loading.gif" lazyload alt="img"></p>
+<h1 id="硬件连接"><a href="#硬件连接" class="headerlink" title="硬件连接"></a>硬件连接</h1><h2 id="SPI-amp-Single"><a href="#SPI-amp-Single" class="headerlink" title="SPI &amp; Single"></a>SPI &amp; Single</h2><p><img src="/2022/fd90dc4c/formatpng.png" srcset="/img/loading.gif" lazyload alt="img"></p>
+<p><img src="/2022/fd90dc4c/pinout-spi-20-pin.gif" srcset="/img/loading.gif" lazyload alt="引出线 spi 20 针"></p>
+<h2 id="QSPI-amp-Quad"><a href="#QSPI-amp-Quad" class="headerlink" title="QSPI &amp; Quad"></a>QSPI &amp; Quad</h2><p><img src="/2022/fd90dc4c/pinout-qspi-20-pin.png" srcset="/img/loading.gif" lazyload alt="img"></p>
 <blockquote>
 <p>  注意:</p>
 <p>  这里要注意的一点，正版的Jlink仿真器1脚是输入引脚，是外部提供参考电平的，但由于现在大部分的JLink仿真器都是学习(dao)版的，1脚不是输入，而是3.3v的输出(并不确定也有可能是5V的, 盗版的Jlink真的是什么乱七八糟的都有)，所以正常情况下可以直接用这个管教来给SPI Flash供电。</p>
@@ -389,7 +389,7 @@
 <p>  如果没有找到自带的, 请更新Jlink套件, 旧版确实不带这个东西.</p>
 <p>  Segger Jlink套件下载链接 <a target="_blank" rel="noopener" href="https://www.segger.com/downloads/jlink/">https://www.segger.com/downloads/jlink/</a></p>
 </blockquote>
-<p><img src="/2022/undefined/image-20220826224742256.png" srcset="/img/loading.gif" lazyload alt="image-20220826224742256"></p>
+<p><img src="/2022/fd90dc4c/image-20220826224742256.png" srcset="/img/loading.gif" lazyload alt="image-20220826224742256"></p>
 <p>点击<code>target -&gt; connet</code>连接到Jlink, 它会自动检测大部分SPI闪存, </p>
 <blockquote>
 <p>  有时候识别的具体型号并不准确, 但是这不重要他们参数类似, 可以正常完成编程的工作.</p>
@@ -408,8 +408,8 @@
 </blockquote>
 <p><strong>Other:</strong></p>
 <p>Jlink真的是超级牛的工具, J-Scope, RTT这些都很好用, 还有很多高级功能我还没用上.<br>我前面有写过RTT的笔记, 在调试一个项目的时候没法使用串口, 当时就是用RTT搭建了一个log平台.</p>
-<h1 id="附录"><a href="#附录" class="headerlink" title="附录"></a>附录</h1><h2 id="winbood-W25Q128封装"><a href="#winbood-W25Q128封装" class="headerlink" title="winbood W25Q128封装"></a>winbood W25Q128封装</h2><p><img src="/2022/undefined/image-20220826104542006.png" srcset="/img/loading.gif" lazyload alt="image-20220826104542006"></p>
-<p><img src="/2022/undefined/20210622091839750557.png" srcset="/img/loading.gif" lazyload alt="img"></p>
+<h1 id="附录"><a href="#附录" class="headerlink" title="附录"></a>附录</h1><h2 id="winbood-W25Q128封装"><a href="#winbood-W25Q128封装" class="headerlink" title="winbood W25Q128封装"></a>winbood W25Q128封装</h2><p><img src="/2022/fd90dc4c/image-20220826104542006.png" srcset="/img/loading.gif" lazyload alt="image-20220826104542006"></p>
+<p><img src="/2022/fd90dc4c/20210622091839750557.png" srcset="/img/loading.gif" lazyload alt="img"></p>
 
                 
               </div>
@@ -621,15 +621,6 @@
     
       
       
-        <a href="/2022/d3f98b78/" title="Hex 文件格式解析"
-           class="list-group-item list-group-item-action
-           ">
-          <span class="category-post">Hex 文件格式解析</span>
-        </a>
-      
-    
-      
-      
         <a href="/2022/da7ed36c/" title="MarkDown学习笔记"
            class="list-group-item list-group-item-action
            ">
@@ -639,10 +630,10 @@
     
       
       
-        <a href="/2022/1a11e44c/" title="OSI"
+        <a href="/2022/d3f98b78/" title="Hex 文件格式解析"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">OSI</span>
+          <span class="category-post">Hex 文件格式解析</span>
         </a>
       
     
@@ -652,6 +643,15 @@
            class="list-group-item list-group-item-action
            ">
           <span class="category-post">SSL证书的申请和自动续期</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/1a11e44c/" title="OSI"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">OSI</span>
         </a>
       
     
@@ -670,6 +670,15 @@
            class="list-group-item list-group-item-action
            ">
           <span class="category-post">USART硬件流控制</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/1d3ed0f3/" title="VScode插件CommentTranslate在WSL内无效"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">VScode插件CommentTranslate在WSL内无效</span>
         </a>
       
     
@@ -702,24 +711,6 @@
     
       
       
-        <a href="/2022/1d3ed0f3/" title="VScode插件CommentTranslate在WSL内无效"
-           class="list-group-item list-group-item-action
-           ">
-          <span class="category-post">VScode插件CommentTranslate在WSL内无效</span>
-        </a>
-      
-    
-      
-      
-        <a href="/2022/b9b15cd2/" title="蓝桥杯STM32国赛笔记"
-           class="list-group-item list-group-item-action
-           ">
-          <span class="category-post">蓝桥杯STM32国赛笔记</span>
-        </a>
-      
-    
-      
-      
         <a href="/2022/60aa39b4/" title="机智云通信"
            class="list-group-item list-group-item-action
            ">
@@ -733,6 +724,15 @@
            class="list-group-item list-group-item-action
            ">
           <span class="category-post">解决 Github 无法打开</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/b9b15cd2/" title="蓝桥杯STM32国赛笔记"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">蓝桥杯STM32国赛笔记</span>
         </a>
       
     
