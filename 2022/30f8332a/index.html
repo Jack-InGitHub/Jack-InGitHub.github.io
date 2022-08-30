@@ -21,19 +21,19 @@
     <meta name="description" content="手动添加JLink不支持的芯片背景市场上的新芯片层出不穷，JLink的官方支持不可能完全跟得上，这就尴尬了。但是好在Segger在设计时就想到了这一点，允许用户自己添加新芯片或扩展官方已经支持的芯片。本文只讲如何添加新芯片，参考的资料为UM08001_JLink.pdf中的第12章——Open Flashloader。 最终效果在添加前，JFlash里找不到BARROT的任何型号， 添加后如下图">
 <meta property="og:type" content="article">
 <meta property="og:title" content="手动添加JLink不支持的芯片">
-<meta property="og:url" content="http://blog.staion.cf/2022/30f8332a/index.html">
+<meta property="og:url" content="https://blog.oikiou.top/2022/30f8332a/index.html">
 <meta property="og:site_name" content="Oikiou&#39;s Blog">
 <meta property="og:description" content="手动添加JLink不支持的芯片背景市场上的新芯片层出不穷，JLink的官方支持不可能完全跟得上，这就尴尬了。但是好在Segger在设计时就想到了这一点，允许用户自己添加新芯片或扩展官方已经支持的芯片。本文只讲如何添加新芯片，参考的资料为UM08001_JLink.pdf中的第12章——Open Flashloader。 最终效果在添加前，JFlash里找不到BARROT的任何型号， 添加后如下图">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="http://blog.staion.cf/2022/30f8332a/image-20211019164827957.png">
-<meta property="og:image" content="http://blog.staion.cf/2022/30f8332a/image-20211019164859196.png">
+<meta property="og:image" content="https://blog.oikiou.top/2022/30f8332a/image-20211019164827957.png">
+<meta property="og:image" content="https://blog.oikiou.top/2022/30f8332a/image-20211019164859196.png">
 <meta property="article:published_time" content="2022-08-21T05:23:05.000Z">
 <meta property="article:modified_time" content="2022-08-23T12:41:49.694Z">
 <meta property="article:author" content="Oikiou">
 <meta property="article:tag" content="J-Link">
 <meta property="article:tag" content="Jlink">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="http://blog.staion.cf/2022/30f8332a/image-20211019164827957.png">
+<meta name="twitter:image" content="https://blog.oikiou.top/2022/30f8332a/image-20211019164827957.png">
   
   
     <meta name="referrer" content="no-referrer-when-downgrade">
@@ -81,7 +81,7 @@
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
     Fluid.ctx = Object.assign({}, Fluid.ctx)
-    var CONFIG = {"hostname":"blog.staion.cf","root":"/","version":"1.9.2","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"bash"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"left","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":false,"baidu":null,"google":"G-TSV6137NWK","gtag":"G-TSV6137NWK","tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/xml/local-search-database.xml"};
+    var CONFIG = {"hostname":"blog.oikiou.top","root":"/","version":"1.9.2","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"bash"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"left","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":false,"baidu":null,"google":"G-TSV6137NWK","gtag":"G-TSV6137NWK","tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/xml/local-search-database.xml"};
 
     if (CONFIG.web_analytics.follow_dnt) {
       var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
@@ -359,7 +359,7 @@
               <p class="note note-info">
                 
                   
-                    本文最后更新于：3 天前
+                    本文最后更新于：7 天前
                   
                 
               </p>
@@ -510,7 +510,7 @@
   <div class="license-box my-3">
     <div class="license-title">
       <div>手动添加JLink不支持的芯片</div>
-      <div>http://blog.staion.cf/2022/30f8332a/</div>
+      <div>https://blog.oikiou.top/2022/30f8332a/</div>
     </div>
     <div class="license-meta">
       
