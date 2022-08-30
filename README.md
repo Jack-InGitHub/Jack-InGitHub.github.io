@@ -1,8 +1,11 @@
 # Website
 
-https://jack-ingithub.github.io/
-https://oikiou.netlify.app/
-
-https://blog.oikiou.top/
-https://www.oikiou.top/
-https://github.oikiou.top/
+|         |                                  | CNAME   |
+| ------- | -------------------------------- | ------- |
+| MainWeb | https://blog.oikiou.top/         | Netlify |
+|         | https://www.oikiou.top/          | Netlify |
+|         | https://github.oikiou.top/       | Github  |
+|         |                                  |         |
+| Github  | https://jack-ingithub.github.io/ |         |
+| Netlify | https://oikiou.netlify.app/      |         |
+|         |                                  |         |
