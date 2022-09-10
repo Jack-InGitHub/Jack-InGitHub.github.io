@@ -26,7 +26,7 @@
 <meta property="og:description" content="KMSKMS（Key Management Service），密钥管理服务 能够通过KMS进行激活的一般称为VL版,即VOLUME授权版，一般不会单独在零售市场进行发售，一般是直接向企业提供电子ISO映像进行批量授权安装，基于对KMS原理研究成果，我们可以自行搭建KMS激活服务器，实现每180天一次的自动激活，使得系统一直保持激活状态。 KMS可以激活VOL版本的windows系统和office软">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2022-08-21T14:57:15.000Z">
-<meta property="article:modified_time" content="2022-08-30T03:28:06.391Z">
+<meta property="article:modified_time" content="2022-09-10T05:20:07.387Z">
 <meta property="article:author" content="Oikiou">
 <meta property="article:tag" content="KMS">
 <meta property="article:tag" content="office">
@@ -131,7 +131,8 @@
 
 
   
-<meta name="generator" content="Hexo 6.2.0"></head>
+<meta name="generator" content="Hexo 6.2.0"><link rel="alternate" href="/atom.xml" title="Oikiou's Blog" type="application/atom+xml">
+</head>
 
 
 <body>
@@ -296,7 +297,7 @@
         
         
         
-          38 分钟
+          37 分钟
         
       </span>
     
@@ -357,7 +358,7 @@
               <p class="note note-info">
                 
                   
-                    本文最后更新于：2 小时前
+                    本文最后更新于：29 分钟前
                   
                 
               </p>
@@ -408,17 +409,17 @@
 <li>根据出错代码自己搜索出错原因</li>
 </ol>
 </blockquote>
-<h2 id="windows没有密钥"><a href="#windows没有密钥" class="headerlink" title="windows没有密钥"></a>windows没有密钥</h2><ul>
+<ul>
 <li>windows VOL KEY</li>
 </ul>
 <p><a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys">https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys</a></p>
-<h2 id="检查windows版本"><a href="#检查windows版本" class="headerlink" title="检查windows版本"></a>检查windows版本</h2><ul>
+<ul>
 <li>检查office是否是VOL版本</li>
 </ul>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 命令提示符（管理员）执行：cd “office的安装目录”</span><br><span class="hljs-built_in">cd</span> <span class="hljs-string">&quot;C:\Program Files (x86)\Microsoft Office\Office16&quot;</span><br><span class="hljs-comment"># or</span><br><span class="hljs-built_in">cd</span> <span class="hljs-string">&quot;C:\Program Files\Microsoft Office\Office16&quot;</span><br><br><span class="hljs-comment"># 执行：</span><br>cscript ospp.vbs /dstatus<br></code></pre></td></tr></table></figure>
 
 <p>在显示的信息中，如果有“VOLUME”字样就是VOL版，即支持KMS激活</p>
-<h2 id="office-密钥"><a href="#office-密钥" class="headerlink" title="office 密钥"></a>office 密钥</h2><ul>
+<ul>
 <li>卸载office的密钥</li>
 </ul>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 命令提示符（管理员）执行：cd “office的安装目录”</span><br><span class="hljs-built_in">cd</span> <span class="hljs-string">&quot;C:\Program Files (x86)\Microsoft Office\Office16&quot;</span><br><span class="hljs-comment"># or</span><br><span class="hljs-built_in">cd</span> <span class="hljs-string">&quot;C:\Program Files\Microsoft Office\Office16&quot;</span><br><br><span class="hljs-comment"># 查看当前状态</span><br>cscript ospp.vbs /dstatus<br><br><span class="hljs-comment"># 找到 Last 5 characters of installed product key:XXXXX 语句</span><br><span class="hljs-comment"># 卸载密钥</span><br>cscript ospp.vbs /unpkey:XXXXX<br></code></pre></td></tr></table></figure>
@@ -531,9 +532,9 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/2022/2c1a46d6/" title="XIP 片内执行">
+                      <a href="/2022/60aa39b4/" title="机智云通信">
                         <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">XIP 片内执行</span>
+                        <span class="hidden-mobile">机智云通信</span>
                         <span class="visible-mobile">上一篇</span>
                       </a>
                     
@@ -541,8 +542,8 @@
                   <article class="post-next col-6">
                     
                     
-                      <a href="/2022/60aa39b4/" title="机智云通信">
-                        <span class="hidden-mobile">机智云通信</span>
+                      <a href="/2022/b9b15cd2/" title="蓝桥杯STM32国赛笔记">
+                        <span class="hidden-mobile">蓝桥杯STM32国赛笔记</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
@@ -608,7 +609,7 @@
         aria-expanded="true"
       >
         blog
-        <span class="list-group-count">(16)</span>
+        <span class="list-group-count">(15)</span>
         <i class="iconfont icon-arrowright"></i>
       </a>
       
@@ -626,15 +627,6 @@
            class="list-group-item list-group-item-action
            ">
           <span class="category-post">字符集和字符编码</span>
-        </a>
-      
-    
-      
-      
-        <a href="/2022/d3f98b78/" title="Hex 文件格式解析"
-           class="list-group-item list-group-item-action
-           ">
-          <span class="category-post">Hex 文件格式解析</span>
         </a>
       
     
@@ -658,10 +650,10 @@
     
       
       
-        <a href="/2022/1a11e44c/" title="OSI"
+        <a href="/2022/d3f98b78/" title="Hex 文件格式解析"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">OSI</span>
+          <span class="category-post">Hex 文件格式解析</span>
         </a>
       
     
@@ -671,6 +663,15 @@
            class="list-group-item list-group-item-action
            ">
           <span class="category-post">SSL证书的申请和自动续期</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/1a11e44c/" title="OSI"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">OSI</span>
         </a>
       
     
@@ -694,19 +695,19 @@
     
       
       
-        <a href="/2022/1d3ed0f3/" title="VScode插件CommentTranslate在WSL内无效"
+        <a href="/2022/714f1d49/" title="Windows下使用Makefile"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">VScode插件CommentTranslate在WSL内无效</span>
+          <span class="category-post">Windows下使用Makefile</span>
         </a>
       
     
       
       
-        <a href="/2022/714f1d49/" title="Windows下使用Makefile"
+        <a href="/2022/1d3ed0f3/" title="VScode插件CommentTranslate在WSL内无效"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">Windows下使用Makefile</span>
+          <span class="category-post">VScode插件CommentTranslate在WSL内无效</span>
         </a>
       
     
@@ -721,19 +722,19 @@
     
       
       
-        <a href="/2022/3ef2a47d/" title="搭建KMS"
+        <a href="/2022/60aa39b4/" title="机智云通信"
            class="list-group-item list-group-item-action
-           active">
-          <span class="category-post">搭建KMS</span>
+           ">
+          <span class="category-post">机智云通信</span>
         </a>
       
     
       
       
-        <a href="/2022/60aa39b4/" title="机智云通信"
+        <a href="/2022/3ef2a47d/" title="搭建KMS"
            class="list-group-item list-group-item-action
-           ">
-          <span class="category-post">机智云通信</span>
+           active">
+          <span class="category-post">搭建KMS</span>
         </a>
       
     
@@ -752,15 +753,6 @@
            class="list-group-item list-group-item-action
            ">
           <span class="category-post">解决 Github 无法打开</span>
-        </a>
-      
-    
-      
-      
-        <a href="/2022/fd90dc4c/" title="使用Jlink 烧写SPI Flash存储芯片"
-           class="list-group-item list-group-item-action
-           ">
-          <span class="category-post">使用Jlink 烧写SPI Flash存储芯片</span>
         </a>
       
     
