@@ -26,7 +26,7 @@
 <meta property="og:description" content="KMSKMS（Key Management Service），密钥管理服务 能够通过KMS进行激活的一般称为VL版,即VOLUME授权版，一般不会单独在零售市场进行发售，一般是直接向企业提供电子ISO映像进行批量授权安装，基于对KMS原理研究成果，我们可以自行搭建KMS激活服务器，实现每180天一次的自动激活，使得系统一直保持激活状态。 KMS可以激活VOL版本的windows系统和office软">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2022-08-21T14:57:15.000Z">
-<meta property="article:modified_time" content="2022-09-10T05:20:07.387Z">
+<meta property="article:modified_time" content="2022-09-14T17:36:49.076Z">
 <meta property="article:author" content="Oikiou">
 <meta property="article:tag" content="KMS">
 <meta property="article:tag" content="office">
@@ -297,7 +297,7 @@
         
         
         
-          37 分钟
+          38 分钟
         
       </span>
     
@@ -358,7 +358,7 @@
               <p class="note note-info">
                 
                   
-                    本文最后更新于：29 分钟前
+                    本文最后更新于：几秒前
                   
                 
               </p>
@@ -409,17 +409,17 @@
 <li>根据出错代码自己搜索出错原因</li>
 </ol>
 </blockquote>
-<ul>
+<h2 id="windows没有密钥"><a href="#windows没有密钥" class="headerlink" title="windows没有密钥"></a>windows没有密钥</h2><ul>
 <li>windows VOL KEY</li>
 </ul>
 <p><a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys">https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys</a></p>
-<ul>
+<h2 id="检查windows版本"><a href="#检查windows版本" class="headerlink" title="检查windows版本"></a>检查windows版本</h2><ul>
 <li>检查office是否是VOL版本</li>
 </ul>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 命令提示符（管理员）执行：cd “office的安装目录”</span><br><span class="hljs-built_in">cd</span> <span class="hljs-string">&quot;C:\Program Files (x86)\Microsoft Office\Office16&quot;</span><br><span class="hljs-comment"># or</span><br><span class="hljs-built_in">cd</span> <span class="hljs-string">&quot;C:\Program Files\Microsoft Office\Office16&quot;</span><br><br><span class="hljs-comment"># 执行：</span><br>cscript ospp.vbs /dstatus<br></code></pre></td></tr></table></figure>
 
 <p>在显示的信息中，如果有“VOLUME”字样就是VOL版，即支持KMS激活</p>
-<ul>
+<h2 id="office-密钥"><a href="#office-密钥" class="headerlink" title="office 密钥"></a>office 密钥</h2><ul>
 <li>卸载office的密钥</li>
 </ul>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 命令提示符（管理员）执行：cd “office的安装目录”</span><br><span class="hljs-built_in">cd</span> <span class="hljs-string">&quot;C:\Program Files (x86)\Microsoft Office\Office16&quot;</span><br><span class="hljs-comment"># or</span><br><span class="hljs-built_in">cd</span> <span class="hljs-string">&quot;C:\Program Files\Microsoft Office\Office16&quot;</span><br><br><span class="hljs-comment"># 查看当前状态</span><br>cscript ospp.vbs /dstatus<br><br><span class="hljs-comment"># 找到 Last 5 characters of installed product key:XXXXX 语句</span><br><span class="hljs-comment"># 卸载密钥</span><br>cscript ospp.vbs /unpkey:XXXXX<br></code></pre></td></tr></table></figure>
@@ -609,7 +609,7 @@
         aria-expanded="true"
       >
         blog
-        <span class="list-group-count">(15)</span>
+        <span class="list-group-count">(18)</span>
         <i class="iconfont icon-arrowright"></i>
       </a>
       
@@ -641,19 +641,19 @@
     
       
       
-        <a href="/2022/da7ed36c/" title="MarkDown学习笔记"
+        <a href="/2022/d3f98b78/" title="Hex 文件格式解析"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">MarkDown学习笔记</span>
+          <span class="category-post">Hex 文件格式解析</span>
         </a>
       
     
       
       
-        <a href="/2022/d3f98b78/" title="Hex 文件格式解析"
+        <a href="/2022/da7ed36c/" title="MarkDown学习笔记"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">Hex 文件格式解析</span>
+          <span class="category-post">MarkDown学习笔记</span>
         </a>
       
     
@@ -695,19 +695,19 @@
     
       
       
-        <a href="/2022/714f1d49/" title="Windows下使用Makefile"
+        <a href="/2022/1d3ed0f3/" title="VScode插件CommentTranslate在WSL内无效"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">Windows下使用Makefile</span>
+          <span class="category-post">VScode插件CommentTranslate在WSL内无效</span>
         </a>
       
     
       
       
-        <a href="/2022/1d3ed0f3/" title="VScode插件CommentTranslate在WSL内无效"
+        <a href="/2022/714f1d49/" title="Windows下使用Makefile"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">VScode插件CommentTranslate在WSL内无效</span>
+          <span class="category-post">Windows下使用Makefile</span>
         </a>
       
     
@@ -753,6 +753,33 @@
            class="list-group-item list-group-item-action
            ">
           <span class="category-post">解决 Github 无法打开</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/fd90dc4c/" title="使用Jlink 烧写SPI Flash存储芯片"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">使用Jlink 烧写SPI Flash存储芯片</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/45a589a3/" title="MD5"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">MD5</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/613d8edd/" title="zip gzip bzip2 tar 的区别和差异"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">zip gzip bzip2 tar 的区别和差异</span>
         </a>
       
     

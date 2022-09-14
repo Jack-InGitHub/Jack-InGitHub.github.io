@@ -18,23 +18,32 @@
   <meta name="author" content="Oikiou">
   <meta name="keywords" content="">
   
-    <meta name="description" content="群晖Note安装https:&#x2F;&#x2F;www.openos.org&#x2F;threads&#x2F;dsm-6-2-3-2020-12-27.29&#x2F; SSH访问启动盘1234mkdir &#x2F;mnt&#x2F;bootcd &#x2F;devsudo mount -t vfat synoboot1 &#x2F;mnt&#x2F;bootcd &#x2F;mnt&#x2F;boot  半洗白 SN前言 全黑版本的群晖VideoStation不能离线转码，PhotoStation和Mo">
+    <meta name="description" content="群晖安装资源及参考链接https:&#x2F;&#x2F;www.openos.org&#x2F;threads&#x2F;dsm-6-2-3-2020-12-27.29&#x2F; 准备工作 引导系统装哪里？非常关键的问题，DSM采用系统和数据相分离的结构，也就是说引导系统需要独立安装在一个设备上，通常是U盘&#x2F;SD&#x2F;TF卡、或者SSD硬盘上。数据需要额外安装独立的硬盘上。  引导系统安装盘 (U盘&#x2F;USB flas">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Synology 群晖">
 <meta property="og:url" content="https://www.oikiou.top/2022/ee60585b/index.html">
 <meta property="og:site_name" content="Oikiou&#39;s Blog">
-<meta property="og:description" content="群晖Note安装https:&#x2F;&#x2F;www.openos.org&#x2F;threads&#x2F;dsm-6-2-3-2020-12-27.29&#x2F; SSH访问启动盘1234mkdir &#x2F;mnt&#x2F;bootcd &#x2F;devsudo mount -t vfat synoboot1 &#x2F;mnt&#x2F;bootcd &#x2F;mnt&#x2F;boot  半洗白 SN前言 全黑版本的群晖VideoStation不能离线转码，PhotoStation和Mo">
+<meta property="og:description" content="群晖安装资源及参考链接https:&#x2F;&#x2F;www.openos.org&#x2F;threads&#x2F;dsm-6-2-3-2020-12-27.29&#x2F; 准备工作 引导系统装哪里？非常关键的问题，DSM采用系统和数据相分离的结构，也就是说引导系统需要独立安装在一个设备上，通常是U盘&#x2F;SD&#x2F;TF卡、或者SSD硬盘上。数据需要额外安装独立的硬盘上。  引导系统安装盘 (U盘&#x2F;USB flas">
 <meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/07.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/kc6jjxmd.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/kccTMt.md.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/06.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/w11.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/2017041711.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/201704zoz.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/201704opo.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/201704ada.png">
 <meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/image-20211018141146176.png">
-<meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NmYW45Mjc=,size_16,color_FFFFFF,t_70.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/watermark.png">
 <meta property="og:image" content="https://www.oikiou.top/2022/ee60585b/image-20211103161058734.png">
 <meta property="article:published_time" content="2022-08-21T14:57:15.000Z">
-<meta property="article:modified_time" content="2022-09-10T05:20:07.476Z">
+<meta property="article:modified_time" content="2022-09-14T17:36:49.079Z">
 <meta property="article:author" content="Oikiou">
 <meta property="article:tag" content="Linux">
 <meta property="article:tag" content="Synology">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://www.oikiou.top/2022/ee60585b/image-20211018141146176.png">
+<meta name="twitter:image" content="https://www.oikiou.top/2022/ee60585b/07.png">
   
   
     <meta name="referrer" content="no-referrer-when-downgrade">
@@ -289,7 +298,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          6.4k 字
+          9.4k 字
         
       </span>
     
@@ -300,7 +309,7 @@
         
         
         
-          107 分钟
+          157 分钟
         
       </span>
     
@@ -361,7 +370,7 @@
               <p class="note note-info">
                 
                   
-                    本文最后更新于：29 分钟前
+                    本文最后更新于：几秒前
                   
                 
               </p>
@@ -369,8 +378,98 @@
             
               <div class="markdown-body">
                 
-                <h1 id="群晖"><a href="#群晖" class="headerlink" title="群晖"></a>群晖</h1><h1 id="Note"><a href="#Note" class="headerlink" title="Note"></a>Note</h1><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p><a target="_blank" rel="noopener" href="https://www.openos.org/threads/dsm-6-2-3-2020-12-27.29/">https://www.openos.org/threads/dsm-6-2-3-2020-12-27.29/</a></p>
-<h2 id="SSH访问启动盘"><a href="#SSH访问启动盘" class="headerlink" title="SSH访问启动盘"></a>SSH访问启动盘</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs shell">mkdir /mnt/boot<br>cd /dev<br>sudo mount -t vfat synoboot1 /mnt/boot<br>cd /mnt/boot<br></code></pre></td></tr></table></figure>
+                <h1 id="群晖"><a href="#群晖" class="headerlink" title="群晖"></a>群晖</h1><h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><h2 id="资源及参考链接"><a href="#资源及参考链接" class="headerlink" title="资源及参考链接"></a>资源及参考链接</h2><p><a target="_blank" rel="noopener" href="https://www.openos.org/threads/dsm-6-2-3-2020-12-27.29/">https://www.openos.org/threads/dsm-6-2-3-2020-12-27.29/</a></p>
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li><p><strong>引导系统装哪里？</strong><br>非常关键的问题，DSM采用系统和数据相分离的结构，也就是说引导系统需要独立安装在一个设备上，通常是U盘&#x2F;SD&#x2F;TF卡、或者SSD硬盘上。数据需要额外安装独立的硬盘上。</p>
+</li>
+<li><p><strong>引导系统安装盘 (U盘&#x2F;USB flash drive&#x2F;随身碟)</strong><br>无论是U盘还是TF卡，其实128MB或以上就足够了，USB 2.0&#x2F;3.0都可以。</p>
+</li>
+<li><p><strong>数据存储硬盘 (硬盘)</strong><br>机械硬盘或者固态硬盘都可以，这个没有限制，容量当然越大越好。</p>
+</li>
+<li><p>一般来说安装黑群晖至少需要两个文件, 一个是黑群晖的引导文件, 一个是群晖DSM的系统文件.</p>
+</li>
+</ul>
+<h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><blockquote>
+<p>  黑群晖系统: DSM 6.2.0–6.2.3<br>  引导版本: 1.04b (首选推荐版本)<br>  针对机型: DS918+<br>  引导方式: 传统BIOS和UEFI<br>  引导下载地址<br>  <a target="_blank" rel="noopener" href="https://www.openos.org/downloads/synology-dsm-6-2-1-loader-v1-04b.15/">https://www.openos.org/downloads/synology-dsm-6-2-1-loader-v1-04b.15/</a></p>
+<p>  DS918+ DSM 6.2.3-25426 Update2 系统<br>  <a target="_blank" rel="noopener" href="https://global.download.synology.com/download/DSM/release/6.2.3/25426/DSM_DS918+_25426.pat">https://global.download.synology.com/download/DSM/release/6.2.3/25426/DSM_DS918+_25426.pat</a></p>
+<p>  其他DSM系统版本请看这里<br>  <a target="_blank" rel="noopener" href="https://archive.synology.com/download">https://archive.synology.com/download</a></p>
+</blockquote>
+<ol>
+<li><p>下载群晖的引导文件, 推荐下载<code>v1.04b.for.dms.6.2.1.synoboot-ds918.zip</code></p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash">http://down.nas2x.com/synology/dsm/6.2/synoboot/<br><span class="hljs-comment"># 里面有三个文件</span><br>dsm.6.2.synoboot_ds3615xs.1.03b.zip                02-Aug-2018 10:43     17M<br>dsm.6.2.synoboot_ds3617xs.1.03b.zip                02-Aug-2018 10:42     20M<br>v1.04b.for.dms.6.2.1.synoboot-ds918.zip            25-Jan-2019 18:30     21M<br></code></pre></td></tr></table></figure>
+</li>
+<li><p>下载群晖的系统, 根据上面的引导下载系统, 上面选的是<code>DS918+</code>的话, 这里下载<code>DS918+</code>就好.</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># DS918+</span><br>https://global.download.synology.com/download/DSM/release/6.2.3/25426/DSM_DS918+_25426.pat<br><span class="hljs-comment"># 其他DSM系统</span><br>https://archive.synology.com/download<br></code></pre></td></tr></table></figure>
+
+</li>
+<li><p>修改引导程序配置文件,</p>
+<p>使用<code>ChipEasy</code>或者<code>ChipGenius</code>查找到U盘的VID和PID。</p>
+<p>以下图为例，这个U盘的VID是0930，PID是6544。</p>
+<p><strong>请记录好这两个值。下面修改配置文件需要用到。</strong></p>
+<p><img src="/2022/ee60585b/07.png" srcset="/img/loading.gif" lazyload alt="[IMG]"></p>
+</li>
+<li><p>编辑配置文件grub.cfg.</p>
+<p>打开DiskGenius, 在顶部选择硬盘-打开虚拟硬盘文件, 选择刚刚下载的<code>.img</code>引导文件并打开.</p>
+<p><img src="/2022/ee60585b/kc6jjxmd.png" srcset="/img/loading.gif" lazyload alt="[IMG]"></p>
+<p>在左边找到刚刚打开的img文件, 点击展开<code>ESP-&gt;grub</code>, 在右边找到<code>grub.cfg</code>, 选择复制到桌面.</p>
+<p><img src="/2022/ee60585b/kccTMt.md.png" srcset="/img/loading.gif" lazyload alt="[IMG]"></p>
+<p>使用文本编辑器修改<code>line22-line25</code>的数据,</p>
+<p>需要注意的是<code>VID</code>和<code>PID</code>必须要和U盘的数值匹配好.</p>
+<p><code>SN</code>和<code>MAC1</code>是在洗半白的时候需要修改的数值, 是非必须修改的.</p>
+<blockquote>
+<p>set vid&#x3D;0x058f U盘的VID 实体机必须修改，虚拟机无需修改<br>set pid&#x3D;0x6387 U盘的PID 实体机必须修改，虚拟机无需修改<br>set sn&#x3D;A8ODN02468 序列号 可以不修改<br>set mac1&#x3D;0011322CA603 mac地址 可以不修改</p>
+</blockquote>
+<p>注意:vid和pid的0x是十六进制的意思是不要删除掉的，只需要修改后面的4位.</p>
+<p><img src="/2022/ee60585b/06.png" srcset="/img/loading.gif" lazyload alt="[IMG]"></p>
+<p>回到DiskGenius内将原来的<code>grub.cfg</code>文件替换掉, 我这里是先将<code>img</code>镜像里面的<code>grub.cfg</code>文件删除, 再右键选择新增文件将编辑好的<code>grub.cfg</code>文件放入其中.</p>
+<p>关闭DiskGenius完成<code>img</code>引导的修改.</p>
+</li>
+<li><p><strong>制作引导U盘</strong></p>
+<p>使用<code>Win32 Disk Imager</code>磁盘映像工具将<code>img</code>引导文件写入U盘内.</p>
+<blockquote>
+<p>  下载地址:<a target="_blank" rel="noopener" href="https://sourceforge.net/projects/win32diskimager/">https://sourceforge.net/projects/win32diskimager/</a><br>  中文版:<a target="_blank" rel="noopener" href="https://www.openos.org/downloads/win32-disk-imager.2/">https://www.openos.org/downloads/win32-disk-imager.2/</a></p>
+</blockquote>
+<ul>
+<li><p>先在软件界面右侧设备(Device) 部分选择U盘的盘符。<br>（建议在操作前移除所有其他的USB存储设备，以防选择错误导致其他U盘或移动硬盘数据丢失）。</p>
+</li>
+<li><p>再点击软件界面 映像文件(Image File)右侧蓝色文件夹图标，选择之前下载的synoboot.img文件。</p>
+</li>
+<li><p>最后再点击写入(Write)。</p>
+</li>
+</ul>
+<p><img src="/2022/ee60585b/w11.png" srcset="/img/loading.gif" lazyload alt="[IMG]"></p>
+</li>
+<li><p>安装群晖系统</p>
+<p>插入U盘，并且在主板上设置默认从U盘启动</p>
+<p>默认选择从U盘启动后选择第1个选项<code>DS3617xs 6.1 Baremetal with Jun&#39;s Mod v1.02-alpha</code>按回车。</p>
+<p><img src="/2022/ee60585b/2017041711.png" srcset="/img/loading.gif" lazyload alt="[IMG]"></p>
+</li>
+<li><p>找到设备IP地址</p>
+<p>这里需要稍微等一等提示<code>Please open [http://find.synology.com](http://find.synology.com/) to continue</code>后等个1-2分钟在浏览器里面输入<a target="_blank" rel="noopener" href="http://find.synology.com/">http://find.synology.com/</a> ，搜索DSM，如果没有找到，那么使用SynologyAssistant查找. <a target="_blank" rel="noopener" href="https://cndl.synology.cn/download/Tools/Assistant/6.1-15030/Windows/synology-assistant-6.1-15030.exe">点击下载Windows版本</a> </p>
+<p>能进路由器管理页面的, 较好的方案是看一下群晖获取的IP是多少, 浏览器直接进去这个<code>IP:5000</code>的网页即可, 免去搜寻的麻烦.</p>
+<blockquote>
+<p>  若多次测试还是无法搜索到群晖，那可能是网卡不支持,<br>  详情请查看DSM黑群晖网卡支持列表<br>  <a target="_blank" rel="noopener" href="https://www.openos.org/threads/dsm-6-1-supported-drivers.42/">https://www.openos.org/threads/dsm-6-1-supported-drivers.42/</a></p>
+</blockquote>
+<p><img src="/2022/ee60585b/201704zoz.png" srcset="/img/loading.gif" lazyload alt="[IMG]"></p>
+</li>
+<li><p>上传系统文件.</p>
+<p>根据提示继续，点击<code>手动安装</code>后选择之前下载的pat文件，然后再点击<code>立即安装</code>。</p>
+<p><img src="/2022/ee60585b/201704opo.png" srcset="/img/loading.gif" lazyload alt="[IMG]"></p>
+<p><img src="/2022/ee60585b/201704ada.png" srcset="/img/loading.gif" lazyload alt="[IMG]"></p>
+</li>
+<li><p>安装之后完成一些配置后就可以进入系统界面了.</p>
+</li>
+</ol>
+<h2 id="安装后的注意事项"><a href="#安装后的注意事项" class="headerlink" title="安装后的注意事项"></a>安装后的注意事项</h2><blockquote>
+<p>  <strong>安装完成后的基本设置和注意事项</strong><br>  1,不要升级，不要升级，不要升级。可以去控制面板下面的-更新和还原里面设置。<br>  2,还是不要升级，去计划任何里面关闭DSM自动更新选项。<br>  3,在存储空间管理员里面设置存储空间后才可以进行其他的操作，如共享文件夹或安装其他套件。<br>  4,DSM 6.x配置文件grub.cfg修改: <a target="_blank" rel="noopener" href="https://www.openos.org/threads/dsm-6-x-grub-cfg-mac-sn.36/">https://www.openos.org/threads/dsm-6-x-grub-cfg-mac-sn.36/</a></p>
+<p>  群辉Synology DSM 添加硬盘&#x2F;存储空间的方法<br>  <a target="_blank" rel="noopener" href="https://www.openos.org/threads/synology-dsm-hdd.30/">https://www.openos.org/threads/synology-dsm-hdd.30/</a></p>
+<p>  6.1驱动支持列表<br>  <a target="_blank" rel="noopener" href="https://www.openos.org/threads/dsm-6-1-supported-drivers.42/">https://www.openos.org/threads/dsm-6-1-supported-drivers.42/</a></p>
+<p>  经过测试，引导文件支持DSM 6.1.1-15101<br>  但是不支持从老版本升级升级，仅限全新安装<br>  安装后更新到update 2没有问题<br>  <a target="_blank" rel="noopener" href="https://www.openos.org/downloads/xpenology-dsm-6-1-1.8/history">https://www.openos.org/downloads/xpenology-dsm-6-1-1.8/history</a></p>
+</blockquote>
+<blockquote>
+<p>  安装完成后可以下载一些相关的手机端应用<br>  DS Finder<br>  DS File<br>  DS photo</p>
+</blockquote>
+<h1 id="Note"><a href="#Note" class="headerlink" title="Note"></a>Note</h1><h2 id="SSH访问启动盘"><a href="#SSH访问启动盘" class="headerlink" title="SSH访问启动盘"></a>SSH访问启动盘</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs shell">mkdir /mnt/boot<br>cd /dev<br>sudo mount -t vfat synoboot1 /mnt/boot<br>cd /mnt/boot<br></code></pre></td></tr></table></figure>
 
 <h2 id="半洗白-SN"><a href="#半洗白-SN" class="headerlink" title="半洗白 SN"></a>半洗白 SN</h2><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><ul>
 <li>全黑版本的群晖VideoStation不能离线转码，PhotoStation和Moments的略缩图和人像识别也会有问题</li>
@@ -379,7 +478,7 @@
 <li>主要通过Docker+DDSM来获得SN</li>
 <li>群辉新版的Docker 18.09.0-0506已经关闭了DDSM安装，可下载17.05.0版本的Docker</li>
 </ul>
-<h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><ol>
+<h3 id="步骤-1"><a href="#步骤-1" class="headerlink" title="步骤"></a>步骤</h3><ol>
 <li><p>下载17.05.0的Docker，可以在<a target="_blank" rel="noopener" href="https://archive.synology.com/download/Package/Docker/17.05.0-0401">群晖官网下载</a>。</p>
 </li>
 <li><p>下载DDSM，可在<a target="_blank" rel="noopener" href="https://archive.synology.com/download/Os/DSM/6.2.3-25426">群晖官网下载</a>，注意要对应自己DSM的版本。</p>
@@ -399,7 +498,7 @@
 </ol>
 <p><img src="/2022/ee60585b/image-20211018141146176.png" srcset="/img/loading.gif" lazyload alt="image-20211018141146176"></p>
 <h2 id="半洗白后moments人脸识别不出来"><a href="#半洗白后moments人脸识别不出来" class="headerlink" title="半洗白后moments人脸识别不出来"></a>半洗白后moments人脸识别不出来</h2><h3 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h3><p>当群晖系统升级到6.22-24922以后，Moments也升级到了1.3.X，新的bug也随着版本升级来了”人物或者主题经常识别不出来“，经查日志后发现是Moments1.3插件有bug引导的，有问题的插件为“<strong>libsynophoto-plugin-detection.so</strong>”，经测试该插件在Moments1.2版本中是正常的。</p>
-<h3 id="步骤-1"><a href="#步骤-1" class="headerlink" title="步骤"></a>步骤</h3><ol>
+<h3 id="步骤-2"><a href="#步骤-2" class="headerlink" title="步骤"></a>步骤</h3><ol>
 <li><p>群晖上启用SSH，并将moments停用</p>
 </li>
 <li><p>MobaXterm连接群晖，启用root登录</p>
@@ -501,7 +600,7 @@
 <h2 id="VideoStation"><a href="#VideoStation" class="headerlink" title="VideoStation"></a>VideoStation</h2><p>参考：</p>
 <p><a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/357332211">关于群晖NAS video station TMDB连接测试失败及搜刮结果下载失败的解决方案</a></p>
 <p><a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/152351243">（群晖）关于Video Station内电影及电视剧封面简介为空白的处理方法</a></p>
-<h3 id="步骤-2"><a href="#步骤-2" class="headerlink" title="步骤"></a>步骤</h3><ul>
+<h3 id="步骤-3"><a href="#步骤-3" class="headerlink" title="步骤"></a>步骤</h3><ul>
 <li><p>TMDB的图片服务器被屏蔽需要修改hosts 加上 api.themoviedb.org 的ip</p>
 </li>
 <li><p>修改hosts后即可测试，已经连通</p>
@@ -512,9 +611,9 @@
   <figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs text"># 找到下面的语句<br>define(&#x27;API_URL&#x27;, &#x27;https://api.themoviedb.org/3/&#x27;);<br>define(&#x27;BANNER_URL&#x27;, &#x27;https://image.tmdb.org/t/p/w500&#x27;);<br>define(&#x27;BACKDROUP_URL&#x27;, &#x27;https://image.tmdb.org/t/p/original&#x27;);<br><br># 我们只需要把改为<br>image.tmdb.org<br># 改为<br>www.themoviedb.org<br></code></pre></td></tr></table></figure></li>
 </ul>
 <h2 id="Gogs"><a href="#Gogs" class="headerlink" title="Gogs"></a>Gogs</h2><h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><p><a target="_blank" rel="noopener" href="https://blog.csdn.net/cfan927/article/details/100862989">【工具】群晖利用docker安装Gogs代码管理平台</a></p>
-<h3 id="步骤-3"><a href="#步骤-3" class="headerlink" title="步骤"></a>步骤</h3><ol>
+<h3 id="步骤-4"><a href="#步骤-4" class="headerlink" title="步骤"></a>步骤</h3><ol>
 <li><p>打开“Docker”-&gt;”注册表”，搜索Gogs并“右键”-&gt;“下载此映像”</p>
-<p><img src="/2022/ee60585b/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NmYW45Mjc=,size_16,color_FFFFFF,t_70.png" srcset="/img/loading.gif" lazyload alt="在这里插入图片描述"></p>
+<p><img src="/2022/ee60585b/watermark.png" srcset="/img/loading.gif" lazyload alt="在这里插入图片描述"></p>
 </li>
 <li><p>在”映像“页面中安装Gogs容器后，切换到”容器“页面，然后双击打开Gogs详情页</p>
 <ol>
@@ -758,8 +857,8 @@
                   <article class="post-next col-6">
                     
                     
-                      <a href="/2022/471570a6/" title="SpaceDesk手机用作电脑屏幕">
-                        <span class="hidden-mobile">SpaceDesk手机用作电脑屏幕</span>
+                      <a href="/2022/a8b000ae/" title="RDPWrap">
+                        <span class="hidden-mobile">RDPWrap</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
@@ -848,19 +947,19 @@
     
       
       
-        <a href="/2022/f15ac6f4/" title="Nintendo Switch"
+        <a href="/2022/eae787f0/" title="CatDrive猫盘"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">Nintendo Switch</span>
+          <span class="category-post">CatDrive猫盘</span>
         </a>
       
     
       
       
-        <a href="/2022/eae787f0/" title="CatDrive猫盘"
+        <a href="/2022/f15ac6f4/" title="Nintendo Switch"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">CatDrive猫盘</span>
+          <span class="category-post">Nintendo Switch</span>
         </a>
       
     

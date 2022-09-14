@@ -36,7 +36,7 @@
 <meta property="og:image" content="https://www.oikiou.top/2022/69c3279c/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTgwNDE0MjA1ODE2MTg4.png">
 <meta property="og:image" content="https://www.oikiou.top/2022/69c3279c/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTgwNDE0MjEyMjIxMDMz.png">
 <meta property="article:published_time" content="2022-08-15T08:23:05.000Z">
-<meta property="article:modified_time" content="2022-09-10T05:20:07.480Z">
+<meta property="article:modified_time" content="2022-09-14T17:36:49.100Z">
 <meta property="article:author" content="Oikiou">
 <meta property="article:tag" content="Git">
 <meta name="twitter:card" content="summary_large_image">
@@ -295,7 +295,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          9.8k 字
+          12k 字
         
       </span>
     
@@ -306,7 +306,7 @@
         
         
         
-          164 分钟
+          199 分钟
         
       </span>
     
@@ -367,7 +367,7 @@
               <p class="note note-info">
                 
                   
-                    本文最后更新于：29 分钟前
+                    本文最后更新于：几秒前
                   
                 
               </p>
@@ -537,6 +537,8 @@
 <p>列出系统配置：<code>git config --system --list</code></p>
 <h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><p>配置用户名：<code>git config --global user.name &quot;your name&quot;</code></p>
 <p>配置用户邮箱：<code>git config --global user.email &quot;youremail@github.com&quot;</code></p>
+<p>修改默认branch名: <code>git config --global init.defaultBranch main</code></p>
+<p>git走代理: <code>git config --global http.proxy &#39;socks5://127.0.0.1:1080&#39;</code></p>
 <h3 id="SSH"><a href="#SSH" class="headerlink" title="SSH"></a>SSH</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs \">ssh-keygen -t rsa -C &quot;youremail@github.com&quot;<br></code></pre></td></tr></table></figure>
 
 <p>执行命令后需要进行3次或4次确认：</p>
@@ -550,9 +552,14 @@
 
 
 
-<h2 id="创建仓库命令-1"><a href="#创建仓库命令-1" class="headerlink" title="创建仓库命令"></a>创建仓库命令</h2><h3 id="git-init"><a href="#git-init" class="headerlink" title="git init"></a>git init</h3><p>初始化版本库</p>
-<h3 id="git-clone"><a href="#git-clone" class="headerlink" title="git clone"></a>git clone</h3><p>远程git仓库复制项目：<code>git clone &lt;url&gt;</code></p>
-<h2 id="提交日志-1"><a href="#提交日志-1" class="headerlink" title="提交日志"></a>提交日志</h2><h3 id="git-log"><a href="#git-log" class="headerlink" title="git log"></a>git log</h3><p><code>git log --graph --pretty=oneline --abbrev-commit</code>可以看到分支的合并情况，包括分支合并图(–graph)、一行显示(–pretty&#x3D;oneline)、提交校验码缩略(–abbrev-commit)显示：</p>
+<h2 id="Git命令"><a href="#Git命令" class="headerlink" title="Git命令"></a>Git命令</h2><h3 id="git-init"><a href="#git-init" class="headerlink" title="git init"></a>git init</h3><p>初始化版本库</p>
+<h3 id="git-clone"><a href="#git-clone" class="headerlink" title="git clone"></a>git clone</h3><blockquote>
+  <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs bash">git <span class="hljs-built_in">clone</span> [--template=&lt;template_directory&gt;]<br>          [-l] [-s] [--no-hardlinks] [-q] [-n] [--bare] [--mirror]<br>          [-o &lt;name&gt;] [-b &lt;name&gt;] [-u &lt;upload-pack&gt;] [--reference &lt;repository&gt;]<br>          [--dissociate] [--separate-git-dir &lt;git <span class="hljs-built_in">dir</span>&gt;]<br>          [--depth &lt;depth&gt;] [--[no-]single-branch] [--no-tags]<br>          [--recurse-submodules[=&lt;pathspec&gt;]] [--[no-]shallow-submodules]<br>          [--[no-]remote-submodules] [--<span class="hljs-built_in">jobs</span> &lt;n&gt;] [--sparse] [--[no-]reject-shallow]<br>          [--filter=&lt;filter&gt;] [--] &lt;repository&gt;<br>          [&lt;directory&gt;]<br></code></pre></td></tr></table></figure>
+</blockquote>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># git clone 后面接文件夹名可以修改clone到本地的文件夹名称</span><br>git <span class="hljs-built_in">clone</span> xxxx directory<br></code></pre></td></tr></table></figure>
+
+<p>远程git仓库复制项目：<code>git clone &lt;url&gt;</code></p>
+<h3 id="git-log"><a href="#git-log" class="headerlink" title="git log"></a>git log</h3><p><code>git log --graph --pretty=oneline --abbrev-commit</code>可以看到分支的合并情况，包括分支合并图(–graph)、一行显示(–pretty&#x3D;oneline)、提交校验码缩略(–abbrev-commit)显示：</p>
 <table>
 <thead>
 <tr>
@@ -597,7 +604,7 @@
 
 
 
-<h2 id="远程操作-1"><a href="#远程操作-1" class="headerlink" title="远程操作"></a>远程操作</h2><h3 id="git-pull"><a href="#git-pull" class="headerlink" title="git pull"></a>git pull</h3><p><strong>git pull</strong> 命令用于从远程获取代码并合并本地的版本。</p>
+<h3 id="git-pull"><a href="#git-pull" class="headerlink" title="git pull"></a>git pull</h3><p><strong>git pull</strong> 命令用于从远程获取代码并合并本地的版本。</p>
 <p><strong>git pull</strong> 其实就是 <strong>git fetch</strong> 和 <strong>git merge FETCH_HEAD</strong> 的简写。 命令格式如下：</p>
 <figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs xml">git pull <span class="hljs-tag">&lt;<span class="hljs-name">远程主机名</span>&gt;</span> <span class="hljs-tag">&lt;<span class="hljs-name">远程分支名</span>&gt;</span>:<span class="hljs-tag">&lt;<span class="hljs-name">本地分支名</span>&gt;</span><br></code></pre></td></tr></table></figure>
 
@@ -624,7 +631,8 @@
 
 
 
-<h2 id="Other"><a href="#Other" class="headerlink" title="Other"></a>Other</h2><h3 id="git-add"><a href="#git-add" class="headerlink" title="git add"></a>git add</h3><table>
+
+<h3 id="git-add"><a href="#git-add" class="headerlink" title="git add"></a>git add</h3><table>
 <thead>
 <tr>
 <th>参数</th>
@@ -1036,11 +1044,16 @@
 <li>尝试  运行 <code> git checkout --orphan latest_branch</code></li>
 <li>添加所有文件<code>git add -A</code></li>
 <li>提交更改<code>git commit -am &quot;commit message&quot;</code></li>
-<li>删除分支<code>git branch -D master</code></li>
-<li>将当前分支重命名<code>git branch -m master</code></li>
-<li>最后，强制更新存储库。<code>git push -f origin master</code></li>
+<li>删除分支<code>git branch -D main</code></li>
+<li>将当前分支重命名<code>git branch -m main</code></li>
+<li>最后，强制更新存储库。<code>git push -f origin main</code></li>
 </ol>
 <h2 id="清理仓库"><a href="#清理仓库" class="headerlink" title="!清理仓库!"></a>!清理仓库!</h2><p>!谨慎操作! !谨慎操作! !谨慎操作! !谨慎操作! !谨慎操作!</p>
+<ol start="0">
+<li>可以先查看一下本地仓库的大小</li>
+</ol>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">du</span> -sh .git<br></code></pre></td></tr></table></figure>
+
 <ol>
 <li>移除本地仓库中指向旧提交的剩余refs，<code>git for-each-ref</code> 会打印仓库中匹配<code>refs/original</code>的所有refs，并使用<code>delete</code>作为前缀，此命令通过管道传送到 <code>git update-ref</code> 命令，该命令会移除所有指向旧commit的引用。</li>
 </ol>
@@ -1131,6 +1144,37 @@
 
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 把当前master分支改名为main 其中-M的意思是移动或者重命名当前分支</span><br>git branch -M main<br></code></pre></td></tr></table></figure>
 
+<h2 id="让git流量走代理"><a href="#让git流量走代理" class="headerlink" title="让git流量走代理"></a>让git流量走代理</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># socks代理</span><br>git config --global http.proxy <span class="hljs-string">&#x27;socks5://127.0.0.1:1080&#x27;</span><br>git config --global https.proxy <span class="hljs-string">&#x27;socks5://127.0.0.1:1080&#x27;</span><br><span class="hljs-comment"># http/https代理</span><br>git config --global http.proxy http://127.0.0.1:8080<br>git config --global https.proxy https://127.0.0.1:8080<br></code></pre></td></tr></table></figure>
+
+<p>也可以直接修改~&#x2F;.gitconfig文件。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">vi ~/.gitconfig<br></code></pre></td></tr></table></figure>
+
+<p>新建或修改这两项配置</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash">[http]<br>proxy = socks5://127.0.0.1:1080<br><br>[https]<br>proxy = socks5://127.0.0.1:1080<br></code></pre></td></tr></table></figure>
+
+<p>如果要取消代理：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">git config --global --<span class="hljs-built_in">unset</span> http.proxy<br>git config --global --<span class="hljs-built_in">unset</span> https.proxy<br></code></pre></td></tr></table></figure>
+
+<p>带参数是临时的，修改配置文件是永久变更，修改后最好重启git 设置生效。</p>
+<p>查看配置信息：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">git config -l --global<br></code></pre></td></tr></table></figure>
+
+<p>执行查看代理</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">git config -l<br></code></pre></td></tr></table></figure>
+
+<h3 id="SSH流量"><a href="#SSH流量" class="headerlink" title="SSH流量"></a>SSH流量</h3><p>上面的方法只代理了http和https的流量, 我们用ssh协议的较多这就需要去代理ssh流量了</p>
+<p>配置ssh走代理我们就需要去配置 ssh 程序(而不是git), 我们需要在 <code>~/.ssh/config</code> 文件中设置 <code>ProxyCommand</code> 选项。</p>
+<ul>
+<li><p>Linux 和 macOS 是通过 <code>nc</code> 来执行 <code>ProxyCommand</code> 的，</p>
+</li>
+<li><p>Windows 下则是通过 <code>connect</code>。</p>
+</li>
+</ul>
+<h4 id="Linux-SSH-配置"><a href="#Linux-SSH-配置" class="headerlink" title="Linux SSH 配置"></a>Linux SSH 配置</h4><p>编辑 <code>~/.ssh/config</code> 文件,给文件加上如下对应内容</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># Host 后面 接的 github.com 是指定要走代理的仓库域名。</span><br><span class="hljs-comment"># 在 ProxyCommand 中，Linux 和 macOS 用户用的是 nc。</span><br><span class="hljs-comment"># -X 选项后面接的是 connect. 意思是 HTTPS 代理。</span><br><span class="hljs-comment"># -x 选项后面加上代理地址和端口号。</span><br><span class="hljs-comment"># 在调用 ProxyCommand 时，%h 和 %p 将会被自动替换为目标主机名和 SSH 命令指定的端口（%h 和 %p 不要修改，保留原样即可）。</span><br>Host github.com<br>    User git<br>    ProxyCommand nc -X connect -x 127.0.0.1:7890 %h %p<br><span class="hljs-comment"># -X 选项后面接的是 5. 意思是 socks5 代理。</span><br>Host github.com<br>    User git<br>    ProxyCommand nc -X 5 -x 127.0.0.1:7891 %h %p<br></code></pre></td></tr></table></figure>
+
+<h4 id="Windows-SSH-配置"><a href="#Windows-SSH-配置" class="headerlink" title="Windows SSH 配置"></a>Windows SSH 配置</h4><p>编辑 <code>~/.ssh/config</code> 文件，然后增加如下内容：</p>
+<figure class="highlight perl"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs perl"><span class="hljs-comment"># Host 后面 接的 github.com 是指定要走代理的仓库域名。</span><br><span class="hljs-comment"># 在 ProxyCommand 中，Windows 用户用的是 connect。</span><br><span class="hljs-comment"># -S代表的是socks5 -H 选项的意思是 HTTP 代理 </span><br><span class="hljs-comment"># 在调用 ProxyCommand 时，%h 和 %p 将会被自动替换为目标主机名和 SSH 命令指定的端口（%h 和 %p 不要修改，保留原样即可）。</span><br>Host github.com<br>	ProxyCommand <span class="hljs-keyword">connect</span> -S <span class="hljs-number">127.0</span>.<span class="hljs-number">0</span>.<span class="hljs-number">1</span>:<span class="hljs-number">1080</span> %h %p<br>Host github.com<br>	ProxyCommand <span class="hljs-keyword">connect</span> -H <span class="hljs-number">127.0</span>.<span class="hljs-number">0</span>.<span class="hljs-number">1</span>:<span class="hljs-number">1080</span> %h %p<br></code></pre></td></tr></table></figure>
 
                 
               </div>
@@ -1376,19 +1420,19 @@
     
       
       
-        <a href="/2022/471570a6/" title="SpaceDesk手机用作电脑屏幕"
+        <a href="/2022/a8b000ae/" title="RDPWrap"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">SpaceDesk手机用作电脑屏幕</span>
+          <span class="category-post">RDPWrap</span>
         </a>
       
     
       
       
-        <a href="/2022/a8b000ae/" title="RDPWrap"
+        <a href="/2022/471570a6/" title="SpaceDesk手机用作电脑屏幕"
            class="list-group-item list-group-item-action
            ">
-          <span class="category-post">RDPWrap</span>
+          <span class="category-post">SpaceDesk手机用作电脑屏幕</span>
         </a>
       
     
