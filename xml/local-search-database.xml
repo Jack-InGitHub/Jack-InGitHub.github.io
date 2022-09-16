@@ -4,7 +4,34 @@
   
   
   <entry>
-    <title>zip gzip bzip2 tar 的区别和差异</title>
+    <title>文件后缀与文件</title>
+    <link href="/2022/631793c8/"/>
+    <url>/2022/631793c8/</url>
+    
+    <content type="html"><![CDATA[<h1 id="文件后缀与文件"><a href="#文件后缀与文件" class="headerlink" title="文件后缀与文件"></a>文件后缀与文件</h1><table><thead><tr><th>后缀</th><th>名称描述</th><th>简述</th></tr></thead><tbody><tr><td><code>.DS_Store</code></td><td>Desktop Services Store</td><td>Mac OS X操作系统所创造的隐藏文件，类似<code>desktop.ini</code></td></tr></tbody></table><h2 id="编辑历史"><a href="#编辑历史" class="headerlink" title="编辑历史"></a>编辑历史</h2><table><thead><tr><th>date</th><th>note</th></tr></thead><tbody><tr><td>2022.9.15</td><td>First Version</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table><h2 id="DS-Store"><a href="#DS-Store" class="headerlink" title=".DS_Store"></a>.DS_Store</h2><blockquote><p>  DS_Store，英文全称是 Desktop Services Store（桌面服务存储），开头的 DS 是 Desktop Services（桌面服务） 的缩写。它是一种由macOS系统自动创建的隐藏文件，存在于每一个用「Finder」打开过的文件夹下面。</p><p>  <code>.DS_Store</code> 是一种由苹果公司的Mac OS X操作系统所创造的隐藏文件，目的在于存贮目录的自定义属性，例如文件们的图标位置或者是背景色的选择。该文件由<code>Finder</code>创建并维护，类似于<code>Microsoft Windows</code>中的<code>desktop.ini</code>文件。</p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>blog</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>DS_Store</tag>
+      
+      <tag>后缀</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Zip Gzip Bzip2 Tar 的区别和差异</title>
     <link href="/2022/613d8edd/"/>
     <url>/2022/613d8edd/</url>
     
@@ -39,7 +66,7 @@
     <link href="/2022/45a589a3/"/>
     <url>/2022/45a589a3/</url>
     
-    <content type="html"><![CDATA[<h1 id="MD5"><a href="#MD5" class="headerlink" title="MD5"></a>MD5</h1><p><strong>MD5消息摘要算法</strong>（英语：MD5 Message-Digest Algorithm），一种被广泛使用的<a href="https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A2%BC%E9%9B%9C%E6%B9%8A%E5%87%BD%E6%95%B8">密码散列函数</a>，可以产生出一个128位（16个字符(BYTES)）的散列值（hash value），用于确保信息传输完整一致。将<a href="https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE">数据</a>（如一段文字）运算变为另一固定长度值，是散列算法的基础原理。</p><p><strong>参考</strong></p><p><a href="https://zhuanlan.zhihu.com/p/121492822">MD5破解的几种方法</a></p><p><a href="https://en.wikipedia.org/wiki/MD5">Wiki MD5</a></p><h1 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h1><ul><li><p>不可逆向的</p><blockquote><p>  我们没办法把MD5码还原对应的原文。道理很简单，任意长度的数据经过MD5处理后，所包含的信息量已经大大减少，那是不可能再次还原成为原始信息的。</p></blockquote></li><li><p>原文中作一个小变化其散列也会发生巨大的变化</p><blockquote>  <figure class="highlight excel"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs excel"><span class="hljs-symbol">MD5</span>(<span class="hljs-string">&quot;The quick brown fox jumps over the lazy dog&quot;</span>)<br>= <span class="hljs-number">9</span>e107d9d372bb6826bd81d3542a419d6<br></code></pre></td></tr></table></figure><p>  比如用c取代d, 其MD5值发生了巨大的变化</p>  <figure class="highlight excel"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs excel"><span class="hljs-symbol">MD5</span>(<span class="hljs-string">&quot;The quick brown fox jumps over the lazy cog&quot;</span>)<br>= <span class="hljs-number">1055</span>d3e698d289f2af8663725127bd4b<br></code></pre></td></tr></table></figure></blockquote></li><li><p>已被破解</p><blockquote><p>  通俗点讲就是，可以找到一个A和一个B，使hash（A）&#x3D;hash（B），而真正有用的是给定一个A能得到B，使hash（A）&#x3D;hash（B），而王小云能做到这样</p></blockquote></li></ul><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><p>MD5 摘要已在<a href="https://en.wikipedia.org/wiki/Software">软件</a>世界中广泛使用，以确保传输的文件已完好无损地到达。例如，文件服务器通常会为文件提供预先计算的 MD5（称为<a href="https://en.wikipedia.org/wiki/Md5sum">md5sum</a>）<a href="https://en.wikipedia.org/wiki/Checksum">校验和</a>，以便用户可以将下载文件的校验和与其进行比较。</p><p><img src="/2022/undefined/350px-CPT-Hashing-File-Transmission.svg-16631605314513.png" alt="350px-CPT-Hashing-File-Transmission.svg"></p><p>由于很容易产生 MD5 冲突，因此创建文件的人可能会创建具有相同校验和的第二个文件，因此该技术无法防止某些形式的恶意篡改。</p><p>在某些情况下，校验和是不可信的（例如，如果它是通过与下载文件相同的渠道获得的，他人可能修改了文件后再次修改了MD5，使得MD5并不可信），在这种情况下，MD5 只能提供错误检查功能：“它会识别损坏或不完整的下载，这变成下载较大文件时更有可能。”</p><h1 id="破解"><a href="#破解" class="headerlink" title="破解"></a>破解</h1><h2 id="穷举法-amp-字典法"><a href="#穷举法-amp-字典法" class="headerlink" title="穷举法&amp;字典法"></a>穷举法&amp;字典法</h2><p><strong>穷举法非常简单，就是不停地尝试各种字符的排列组合，看哪一个组合的MD5码能对上。</strong>可惜缺点是太耗费时间了。我们举个栗子，假设我们要破解一个6位大小写字母和数字混合的密码，那么一共有(26+26+10)<sup>6</sup> 种组合。这个数的大小超过500亿。</p><p>既然计算如此费时，能不能考虑<strong>把计算结果以映射表的形式存放起来，一个萝卜一个坑</strong>，一个原文对应着一个MD5码呢？可以呀！这就是传说中的“字典法”。将已知的MD5码查表，直接反查出原文。<strong>字典法体现了算法设计的“以空间换时间”的思想。</strong>缺点是比较耗费空间。不过现在硬盘的价格变得白菜价了，空间开销不算什么。</p><p><a href="https://www.cmd5.com/password.aspx">CMD5 反查网站</a></p><p><a href="https://www.somd5.com/">SMD5 反查网站</a></p><h2 id="哈希链表-amp-彩虹表法"><a href="#哈希链表-amp-彩虹表法" class="headerlink" title="哈希链表&amp;彩虹表法"></a>哈希链表&amp;彩虹表法</h2><blockquote><p>  如果说穷举法太耗费时间，字典法太耗费存储空间的话，我们能不能考虑在时间消耗和空间消耗之间折中呢？我们可以考虑用链表将一系列有意义的原文和MD5码串起来。</p><p>  要构造这样的链表，我们需要两个函数：哈希函数H(x)和衰减函数（reduction function）R(x)。哈希函数可以是MD5，也可以是其他的消息摘要算法。H(x)的值域是R(x)的定义域，R(x)的值域是H(x)的定义域。<strong>R(x)不是H(x)的反函数。</strong></p><p>  将一个原文不停地使用H(x)和R(x)交替进行运算k次，再将原文本身和运算结果以链表的形式串接起来，就可以得到结点个数为2k+1的链表。实际存放的时候只存放首端和末端两个原文即可。<strong>这种链表叫做“哈希链表”，体现了算法设计的“时空权衡”（Space and Time Tradeoffs）。</strong></p><p>  举个栗子，假设原文s&#x3D;abcabc，经过2次交替运算，得到以下的链表：</p><p>  abcabc-&gt;H(x)-&gt;3C8B0D7A-&gt;R(x)-&gt;eopmca-&gt;H(x)-&gt;7E9F216C-&gt;R(x)-&gt;rapper</p><p>  以上数据均为举例编造的，仅为说明原理使用。那我们存放这个链表的时候，只需要记录abcabc和rapper两个原文即可。</p><p>  假设我们要破解的摘要值（哈希链表的H(x)不一定是MD5算法，这里用更准确的说法代替MD5码）是7E9F216C，经过R(x)运算得到rapper，说明我们要寻找的原文就在以rapper为末端的哈希链表中。从首端开始经过多次运算，我们发现eopmca的摘要值就是7E9F216C。于是就反查出7E9F216C对应的原文是eopmca。</p><p>  <strong>如果在生成哈希链表的时候依次使用多个不一样的R(x)，此时的哈希链表就是“彩虹表”。</strong></p><p>  这里有已经计算好的彩虹表：<a href="https://link.zhihu.com/?target=http://project-rainbowcrack.com/table.htm">http://project-rainbowcrack.com</a></p></blockquote><h2 id="差分攻击"><a href="#差分攻击" class="headerlink" title="差分攻击"></a>差分攻击</h2><p>上面介绍的穷举法、字典法和彩虹表法都是暴力破解，适用于任何的消息摘要算法。</p><p>真正意义上MD5算法的破解，是2004年山东大学王小云教授提出的MD5碰撞方法。她所用到的方法正是差分攻击。</p><p><a href="https://www.sohu.com/a/501560600_121106869">她是这样的“中国密码女神”！</a> </p>]]></content>
+    <content type="html"><![CDATA[<h1 id="MD5"><a href="#MD5" class="headerlink" title="MD5"></a>MD5</h1><p><strong>MD5消息摘要算法</strong>（英语：MD5 Message-Digest Algorithm），一种被广泛使用的<a href="https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A2%BC%E9%9B%9C%E6%B9%8A%E5%87%BD%E6%95%B8">密码散列函数</a>，可以产生出一个128位（16个字符(BYTES)）的散列值（hash value），用于确保信息传输完整一致。将<a href="https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE">数据</a>（如一段文字）运算变为另一固定长度值，是散列算法的基础原理。</p><p><strong>参考</strong></p><p><a href="https://zhuanlan.zhihu.com/p/121492822">MD5破解的几种方法</a></p><p><a href="https://en.wikipedia.org/wiki/MD5">Wiki MD5</a></p><h1 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h1><ul><li><p>不可逆向的</p><blockquote><p>  我们没办法把MD5码还原对应的原文。道理很简单，任意长度的数据经过MD5处理后，所包含的信息量已经大大减少，那是不可能再次还原成为原始信息的。</p></blockquote></li><li><p>原文中作一个小变化其散列也会发生巨大的变化</p><blockquote>  <figure class="highlight excel"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs excel"><span class="hljs-symbol">MD5</span>(<span class="hljs-string">&quot;The quick brown fox jumps over the lazy dog&quot;</span>)<br>= <span class="hljs-number">9</span>e107d9d372bb6826bd81d3542a419d6<br></code></pre></td></tr></table></figure><p>  比如用c取代d, 其MD5值发生了巨大的变化</p>  <figure class="highlight excel"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs excel"><span class="hljs-symbol">MD5</span>(<span class="hljs-string">&quot;The quick brown fox jumps over the lazy cog&quot;</span>)<br>= <span class="hljs-number">1055</span>d3e698d289f2af8663725127bd4b<br></code></pre></td></tr></table></figure></blockquote></li><li><p>已被破解</p><blockquote><p>  通俗点讲就是，可以找到一个A和一个B，使hash（A）&#x3D;hash（B），而真正有用的是给定一个A能得到B，使hash（A）&#x3D;hash（B），而王小云能做到这样</p></blockquote></li></ul><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><p>MD5 摘要已在<a href="https://en.wikipedia.org/wiki/Software">软件</a>世界中广泛使用，以确保传输的文件已完好无损地到达。例如，文件服务器通常会为文件提供预先计算的 MD5（称为<a href="https://en.wikipedia.org/wiki/Md5sum">md5sum</a>）<a href="https://en.wikipedia.org/wiki/Checksum">校验和</a>，以便用户可以将下载文件的校验和与其进行比较。</p><p><img src="/2022/45a589a3/350px-CPT-Hashing-File-Transmission.png" alt="350px-CPT-Hashing-File-Transmission.svg"></p><p>由于很容易产生 MD5 冲突，因此创建文件的人可能会创建具有相同校验和的第二个文件，因此该技术无法防止某些形式的恶意篡改。</p><p>在某些情况下，校验和是不可信的（例如，如果它是通过与下载文件相同的渠道获得的，他人可能修改了文件后再次修改了MD5，使得MD5并不可信），在这种情况下，MD5 只能提供错误检查功能：“它会识别损坏或不完整的下载，这变成下载较大文件时更有可能。”</p><h1 id="破解"><a href="#破解" class="headerlink" title="破解"></a>破解</h1><h2 id="穷举法-amp-字典法"><a href="#穷举法-amp-字典法" class="headerlink" title="穷举法&amp;字典法"></a>穷举法&amp;字典法</h2><p><strong>穷举法非常简单，就是不停地尝试各种字符的排列组合，看哪一个组合的MD5码能对上。</strong>可惜缺点是太耗费时间了。我们举个栗子，假设我们要破解一个6位大小写字母和数字混合的密码，那么一共有(26+26+10)<sup>6</sup> 种组合。这个数的大小超过500亿。</p><p>既然计算如此费时，能不能考虑<strong>把计算结果以映射表的形式存放起来，一个萝卜一个坑</strong>，一个原文对应着一个MD5码呢？可以呀！这就是传说中的“字典法”。将已知的MD5码查表，直接反查出原文。<strong>字典法体现了算法设计的“以空间换时间”的思想。</strong>缺点是比较耗费空间。不过现在硬盘的价格变得白菜价了，空间开销不算什么。</p><p><a href="https://www.cmd5.com/password.aspx">CMD5 反查网站</a></p><p><a href="https://www.somd5.com/">SMD5 反查网站</a></p><h2 id="哈希链表-amp-彩虹表法"><a href="#哈希链表-amp-彩虹表法" class="headerlink" title="哈希链表&amp;彩虹表法"></a>哈希链表&amp;彩虹表法</h2><blockquote><p>  如果说穷举法太耗费时间，字典法太耗费存储空间的话，我们能不能考虑在时间消耗和空间消耗之间折中呢？我们可以考虑用链表将一系列有意义的原文和MD5码串起来。</p><p>  要构造这样的链表，我们需要两个函数：哈希函数H(x)和衰减函数（reduction function）R(x)。哈希函数可以是MD5，也可以是其他的消息摘要算法。H(x)的值域是R(x)的定义域，R(x)的值域是H(x)的定义域。<strong>R(x)不是H(x)的反函数。</strong></p><p>  将一个原文不停地使用H(x)和R(x)交替进行运算k次，再将原文本身和运算结果以链表的形式串接起来，就可以得到结点个数为2k+1的链表。实际存放的时候只存放首端和末端两个原文即可。<strong>这种链表叫做“哈希链表”，体现了算法设计的“时空权衡”（Space and Time Tradeoffs）。</strong></p><p>  举个栗子，假设原文s&#x3D;abcabc，经过2次交替运算，得到以下的链表：</p><p>  abcabc-&gt;H(x)-&gt;3C8B0D7A-&gt;R(x)-&gt;eopmca-&gt;H(x)-&gt;7E9F216C-&gt;R(x)-&gt;rapper</p><p>  以上数据均为举例编造的，仅为说明原理使用。那我们存放这个链表的时候，只需要记录abcabc和rapper两个原文即可。</p><p>  假设我们要破解的摘要值（哈希链表的H(x)不一定是MD5算法，这里用更准确的说法代替MD5码）是7E9F216C，经过R(x)运算得到rapper，说明我们要寻找的原文就在以rapper为末端的哈希链表中。从首端开始经过多次运算，我们发现eopmca的摘要值就是7E9F216C。于是就反查出7E9F216C对应的原文是eopmca。</p><p>  <strong>如果在生成哈希链表的时候依次使用多个不一样的R(x)，此时的哈希链表就是“彩虹表”。</strong></p><p>  这里有已经计算好的彩虹表：<a href="https://link.zhihu.com/?target=http://project-rainbowcrack.com/table.htm">http://project-rainbowcrack.com</a></p></blockquote><h2 id="差分攻击"><a href="#差分攻击" class="headerlink" title="差分攻击"></a>差分攻击</h2><p>上面介绍的穷举法、字典法和彩虹表法都是暴力破解，适用于任何的消息摘要算法。</p><p>真正意义上MD5算法的破解，是2004年山东大学王小云教授提出的MD5碰撞方法。她所用到的方法正是差分攻击。</p><p><a href="https://www.sohu.com/a/501560600_121106869">她是这样的“中国密码女神”！</a> </p>]]></content>
     
     
     <categories>
@@ -51,7 +78,7 @@
     
     <tags>
       
-      <tag>MD5</tag>
+      <tag>md5</tag>
       
     </tags>
     
@@ -76,15 +103,15 @@
     
     <tags>
       
-      <tag>J-Link</tag>
+      <tag>j-link</tag>
       
-      <tag>SPI</tag>
+      <tag>spi</tag>
       
-      <tag>Flash</tag>
+      <tag>flash</tag>
       
-      <tag>J-Tag</tag>
+      <tag>j-tag</tag>
       
-      <tag>Jlink</tag>
+      <tag>jlink</tag>
       
     </tags>
     
@@ -109,11 +136,11 @@
     
     <tags>
       
-      <tag>Embedded</tag>
+      <tag>embedded</tag>
       
-      <tag>CC2530</tag>
+      <tag>cc2530</tag>
       
-      <tag>Zigbee</tag>
+      <tag>zigbee</tag>
       
     </tags>
     
@@ -138,7 +165,7 @@
     
     <tags>
       
-      <tag>Hex</tag>
+      <tag>hex</tag>
       
     </tags>
     
@@ -151,7 +178,7 @@
     <link href="/2022/da7ed36c/"/>
     <url>/2022/da7ed36c/</url>
     
-    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>asdasdasdasdassdasdas</p><h2 id="这是一段引用"><a href="#这是一段引用" class="headerlink" title="这是一段引用"></a>这是一段引用</h2><blockquote><p>这是一段引用</p></blockquote><h2 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h2><ul><li>阿斯大声</li><li>阿斯大声打</li><li>阿斯大声问请问恶</li></ul><h2 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h2><ol><li><p>阿斯大声打</p></li><li><p>阿斯大声阿斯大声</p></li><li><p>dasd阿斯dasdaaa</p></li></ol><h2 id="斜体-和-加粗-强调"><a href="#斜体-和-加粗-强调" class="headerlink" title="斜体 和 加粗 (强调)"></a>斜体 和 加粗 (强调)</h2><p>这是<em>斜体</em>      这是<strong>加粗</strong>   这是_什么呢_  好像也__是一样的__</p><h2 id="这段是横线"><a href="#这段是横线" class="headerlink" title="这段是横线"></a>这段是横线</h2><hr><hr><h2 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h2><p><a href="./assets/00.jpg">这是超链接</a></p><p><a href=".%5Cassets%5C00.jpg">www.Baidu.com</a></p><p><a href="https://sigrok.org/wiki/Protocol_decoder_API">这是一个超链接 （注意链接前后不要留空格）</a></p><p>This is <a href="http://example.com/" title="Optional Title Here">an example</a> reference-style link.</p><h2 id="文章内的超链接"><a href="#文章内的超链接" class="headerlink" title="文章内的超链接"></a><a id="文章内的超链接">文章内的超链接</a></h2><p> <a href="##%E8%A1%A8%E6%A0%BC">这是一个文章内部的超链接</a></p><p> Ctrl+左键  </p><p><a href="#HTML跳转">回到-&gt;HTML 跳转</a></p><h2 id="Email-链接"><a href="#Email-链接" class="headerlink" title="Email 链接"></a>Email 链接</h2><p>作者的 Emal <a href="mailto:&#x78;&#x78;&#64;&#120;&#x78;&#x2e;&#99;&#x6f;&#109;">&#x78;&#x78;&#64;&#120;&#x78;&#x2e;&#99;&#x6f;&#109;</a> 链接</p><h2 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h2><ul><li>内联风格</li></ul><p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557132849466&di=61258032fff80f7d4bfff0ad0b325b12&imgtype=0&src=http://s6.sinaimg.cn/middle/6dca756dhad5c3293f515&690" alt="iPhone"></p><ul><li>引用风格</li></ul><p><strong>一直没弄出来</strong></p><p>xxx<img src="/photo_id" alt="photo_id"></p><h2 id="代码块-与-代码行"><a href="#代码块-与-代码行" class="headerlink" title="代码块 与 代码行"></a>代码块 与 代码行</h2><p><code>  delay_init();     //延时函数初始化</code></p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs c"><br><span class="hljs-type">int</span> <span class="hljs-title function_">main</span><span class="hljs-params">(<span class="hljs-type">void</span>)</span><br>&#123;<br>delay_init();     <span class="hljs-comment">//延时函数初始化</span><br>TIM_ALL_Init();<br> LED_Init();     <span class="hljs-comment">//LED端口初始化</span><br>LCD_Init();<br>POINT_COLOR=WHITE;<br>BACK_COLOR = BLACK;<br>LCD_Clear(BLACK);<br>&#125;<br><br></code></pre></td></tr></table></figure><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><table><thead><tr><th>name</th><th>age</th><th>sex</th></tr></thead><tbody><tr><td>Done</td><td>20</td><td>0</td></tr><tr><td>Jack</td><td>21</td><td>0</td></tr><tr><td>Done<br/>这里换行了</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><h2 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h2><p><del>这是一条删除             线线线线线线线线线线线线线线线</del></p><h2 id="这是一个注释"><a href="#这是一个注释" class="headerlink" title="这是一个注释"></a>这是一个注释</h2><p>[注释] <a href="%E8%BF%99%E6%98%AF%E6%B3%A8%E9%87%8A%E7%9A%84%E8%A7%A3%E9%87%8A">^注释</a>:Somebody that I used to know.</p><h2 id="数学表达式"><a href="#数学表达式" class="headerlink" title="数学表达式"></a>数学表达式</h2><p>$ (h&#x2F;2)<em>(a+9)&#x2F;(b</em>9))*L $</p><p>$lim_{x \to \infty} \ exp(-x)&#x3D;0$</p><h2 id="修改文字颜色-HTLML"><a href="#修改文字颜色-HTLML" class="headerlink" title="修改文字颜色 HTLML"></a>修改文字颜色 HTLML</h2><p>You can use HTML to style content what pure Markdown does not support.</p><p><span style="color:red"><strong>TEXT Style</strong></span></p><p><span style="color:#29b6f6"> <strong>TEXT Style</strong> </span></p><p><span style="color:rgb(255, 255, 255)"><strong>TEXT Style</strong></span></p><p><span style="color:LightPink"> <strong>TEXT Style</strong> </span></p><p><span style="color:Thistle"> <strong>TEXT Style</strong> </span></p><p><span style="color:Gold"> <strong>TEXT Style</strong> </span></p><p><span style="color:Tomato"> <strong>TEXT Style</strong> </span></p> <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">span</span> <span class="hljs-attr">style</span>=<span class="hljs-string">&quot;color:red&quot;</span>&gt;</span> <span class="hljs-tag">&lt;/<span class="hljs-name">span</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">span</span> <span class="hljs-attr">style</span>=<span class="hljs-string">&quot;color:#29b6f6&quot;</span>&gt;</span> <span class="hljs-tag">&lt;/<span class="hljs-name">span</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">span</span> <span class="hljs-attr">style</span>=<span class="hljs-string">&quot;color:rgb(255, 255, 255)&quot;</span>&gt;</span> <span class="hljs-tag">&lt;/<span class="hljs-name">span</span>&gt;</span><br><br>https://www.5tu.cn/colors/yansezhongwenming.html<br></code></pre></td></tr></table></figure><p>For example, use <code>&lt;span style=&quot;color:red&quot;&gt;this text is red&lt;/span&gt;</code> to add text with red color.</p><h2 id="表情-Emoji-smile"><a href="#表情-Emoji-smile" class="headerlink" title="表情 Emoji :smile:"></a>表情 Emoji :smile:</h2><p>Input emoji with syntax <code>:smile:</code>.</p><p>User can trigger auto-complete suggestions for emoji by pressing <code>ESC</code> key, or trigger it automatically after enabling it on preference panel. Also, inputting UTF-8 emoji characters directly is also supported by going to <code>Edit</code> -&gt; <code>Emoji &amp; Symbols</code> in the menu bar (macOS).</p><h2 id="Task-List-带勾的计划任务-勾选框"><a href="#Task-List-带勾的计划任务-勾选框" class="headerlink" title="Task List 带勾的计划任务 勾选框"></a>Task List 带勾的计划任务 勾选框</h2><ul><li><input disabled="" type="checkbox"> a task list item</li><li><input disabled="" type="checkbox"> list syntax required </li><li><input checked="" disabled="" type="checkbox"> completed</li></ul><p>注意    [内有一个空格] </p><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2><p>You can use the <code>&lt;video&gt;</code> HTML tag to embed videos. For example:</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs Markdown"><span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">video</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;xxx.mp4&quot;</span> /&gt;</span></span><br></code></pre></td></tr></table></figure><h2 id="脚注"><a href="#脚注" class="headerlink" title="脚注"></a>脚注</h2><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs markdown">文字[^脚注1]文字.<br>[<span class="hljs-symbol">^脚注1</span>]:<span class="hljs-link">这是脚注1的内容</span><br></code></pre></td></tr></table></figure><p>文字<a href="%E8%BF%99%E6%98%AF%E8%84%9A%E6%B3%A81%E7%9A%84%E5%86%85%E5%AE%B9">^脚注1</a>文字.</p><h2 id="上下标"><a href="#上下标" class="headerlink" title="上下标"></a>上下标</h2><p><strong>1.实现下标与上标的三种方法：</strong></p><ul><li><p>方法1（符号）：(这是Markdown的拓展语法)</p><figure class="highlight parser3"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs parser3"><span class="language-xml">下标 ：θ~</span><span class="hljs-number">1</span><span class="language-xml">~ </span><br><span class="language-xml">上标 ：θ</span><span class="hljs-keyword">^2</span><span class="language-xml">^</span><br><span class="language-xml"></span><span class="hljs-number">12</span><br></code></pre></td></tr></table></figure></li><li><p>结果如下：<br>下标 ：θ<del>1</del><br>上标 ：θ^2^</p></li><li><p>方法2（HTML标签）：</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs xml">下标 ：θ<span class="hljs-tag">&lt;<span class="hljs-name">sub</span>&gt;</span>1<span class="hljs-tag">&lt;/<span class="hljs-name">sub</span>&gt;</span><br>上标 ：θ<span class="hljs-tag">&lt;<span class="hljs-name">sup</span>&gt;</span>2<span class="hljs-tag">&lt;/<span class="hljs-name">sup</span>&gt;</span><br>12<br></code></pre></td></tr></table></figure></li><li><p>结果如下：<br>下标 ：θ<sub>1</sub><br>上标 ：θ<sup>2</sup></p></li><li><p>方法3（公式块）：</p><figure class="highlight gams"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs gams"><span class="hljs-symbol">$</span><span class="hljs-symbol">$</span><br>下标 ：θ_1 ，上标 ：θ^<span class="hljs-number">2</span><br><span class="hljs-symbol">$</span><span class="hljs-symbol">$</span><br></code></pre></td></tr></table></figure></li><li><p>结果如下：</p></li><li><p>$$<br>下标 ：θ_1 ，上标 ：θ^2<br>$$</p></li></ul><h1 id="Note"><a href="#Note" class="headerlink" title="Note"></a>Note</h1><h2 id="HTML-跳转"><a href="#HTML-跳转" class="headerlink" title="HTML 跳转"></a><a id="HTML跳转">HTML 跳转</a></h2><p><a href="#文章内的超链接">点击到达-&gt;文章内的超链接</a> </p><figure class="highlight livecodeserver"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs livecodeserver">&lt;<span class="hljs-keyword">a</span> href=<span class="hljs-string">&quot;#demo&quot;</span>&gt;点击到达跳转位置演示&lt;/<span class="hljs-keyword">a</span>&gt; <span class="hljs-comment"># 在需要跳转的地方添加此代码。</span><br>&lt;<span class="hljs-keyword">a</span> id=<span class="hljs-string">&quot;demo&quot;</span>&gt;跳转位置演示（跳转位置设置点）&lt;/<span class="hljs-keyword">a</span>&gt; <span class="hljs-comment"># 在跳转位置添加次代码。</span><br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>asdasdasdasdassdasdas</p><h2 id="这是一段引用"><a href="#这是一段引用" class="headerlink" title="这是一段引用"></a>这是一段引用</h2><blockquote><p>这是一段引用</p></blockquote><h2 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h2><ul><li>阿斯大声</li><li>阿斯大声打</li><li>阿斯大声问请问恶</li></ul><h2 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h2><ol><li><p>阿斯大声打</p></li><li><p>阿斯大声阿斯大声</p></li><li><p>dasd阿斯dasdaaa</p></li></ol><h2 id="斜体-和-加粗-强调"><a href="#斜体-和-加粗-强调" class="headerlink" title="斜体 和 加粗 (强调)"></a>斜体 和 加粗 (强调)</h2><p>这是<em>斜体</em>      这是<strong>加粗</strong>   这是_什么呢_  好像也__是一样的__</p><h2 id="这段是横线"><a href="#这段是横线" class="headerlink" title="这段是横线"></a>这段是横线</h2><hr><hr><h2 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h2><p><a href="./assets/00.jpg">这是超链接</a></p><p><a href=".%5Cassets%5C00.jpg">www.Baidu.com</a></p><p><a href="https://sigrok.org/wiki/Protocol_decoder_API">这是一个超链接 （注意链接前后不要留空格）</a></p><p>This is <a href="http://example.com/" title="Optional Title Here">an example</a> reference-style link.</p><h2 id="文章内的超链接"><a href="#文章内的超链接" class="headerlink" title="文章内的超链接"></a><a id="文章内的超链接">文章内的超链接</a></h2><p> <a href="##%E8%A1%A8%E6%A0%BC">这是一个文章内部的超链接</a></p><p> Ctrl+左键  </p><p><a href="#HTML跳转">回到-&gt;HTML 跳转</a></p><h2 id="Email-链接"><a href="#Email-链接" class="headerlink" title="Email 链接"></a>Email 链接</h2><p>作者的 Emal <a href="mailto:&#120;&#120;&#x40;&#x78;&#120;&#x2e;&#99;&#111;&#109;">&#120;&#120;&#x40;&#x78;&#120;&#x2e;&#99;&#111;&#109;</a> 链接</p><h2 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h2><ul><li>内联风格</li></ul><p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557132849466&di=61258032fff80f7d4bfff0ad0b325b12&imgtype=0&src=http://s6.sinaimg.cn/middle/6dca756dhad5c3293f515&690" alt="iPhone"></p><ul><li>引用风格</li></ul><p><strong>一直没弄出来</strong></p><p>xxx<img src="/photo_id" alt="photo_id"></p><h2 id="代码块-与-代码行"><a href="#代码块-与-代码行" class="headerlink" title="代码块 与 代码行"></a>代码块 与 代码行</h2><p><code>  delay_init();     //延时函数初始化</code></p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs c"><br><span class="hljs-type">int</span> <span class="hljs-title function_">main</span><span class="hljs-params">(<span class="hljs-type">void</span>)</span><br>&#123;<br>delay_init();     <span class="hljs-comment">//延时函数初始化</span><br>TIM_ALL_Init();<br> LED_Init();     <span class="hljs-comment">//LED端口初始化</span><br>LCD_Init();<br>POINT_COLOR=WHITE;<br>BACK_COLOR = BLACK;<br>LCD_Clear(BLACK);<br>&#125;<br><br></code></pre></td></tr></table></figure><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><table><thead><tr><th>name</th><th>age</th><th>sex</th></tr></thead><tbody><tr><td>Done</td><td>20</td><td>0</td></tr><tr><td>Jack</td><td>21</td><td>0</td></tr><tr><td>Done<br/>这里换行了</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><h2 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h2><p><del>这是一条删除             线线线线线线线线线线线线线线线</del></p><h2 id="这是一个注释"><a href="#这是一个注释" class="headerlink" title="这是一个注释"></a>这是一个注释</h2><p>[注释] <a href="%E8%BF%99%E6%98%AF%E6%B3%A8%E9%87%8A%E7%9A%84%E8%A7%A3%E9%87%8A">^注释</a>:Somebody that I used to know.</p><h2 id="数学表达式"><a href="#数学表达式" class="headerlink" title="数学表达式"></a>数学表达式</h2><p>$ (h&#x2F;2)<em>(a+9)&#x2F;(b</em>9))*L $</p><p>$lim_{x \to \infty} \ exp(-x)&#x3D;0$</p><h2 id="修改文字颜色-HTLML"><a href="#修改文字颜色-HTLML" class="headerlink" title="修改文字颜色 HTLML"></a>修改文字颜色 HTLML</h2><p>You can use HTML to style content what pure Markdown does not support.</p><p><span style="color:red"><strong>TEXT Style</strong></span></p><p><span style="color:#29b6f6"> <strong>TEXT Style</strong> </span></p><p><span style="color:rgb(255, 255, 255)"><strong>TEXT Style</strong></span></p><p><span style="color:LightPink"> <strong>TEXT Style</strong> </span></p><p><span style="color:Thistle"> <strong>TEXT Style</strong> </span></p><p><span style="color:Gold"> <strong>TEXT Style</strong> </span></p><p><span style="color:Tomato"> <strong>TEXT Style</strong> </span></p> <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">span</span> <span class="hljs-attr">style</span>=<span class="hljs-string">&quot;color:red&quot;</span>&gt;</span> <span class="hljs-tag">&lt;/<span class="hljs-name">span</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">span</span> <span class="hljs-attr">style</span>=<span class="hljs-string">&quot;color:#29b6f6&quot;</span>&gt;</span> <span class="hljs-tag">&lt;/<span class="hljs-name">span</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">span</span> <span class="hljs-attr">style</span>=<span class="hljs-string">&quot;color:rgb(255, 255, 255)&quot;</span>&gt;</span> <span class="hljs-tag">&lt;/<span class="hljs-name">span</span>&gt;</span><br><br>https://www.5tu.cn/colors/yansezhongwenming.html<br></code></pre></td></tr></table></figure><p>For example, use <code>&lt;span style=&quot;color:red&quot;&gt;this text is red&lt;/span&gt;</code> to add text with red color.</p><h2 id="表情-Emoji-smile"><a href="#表情-Emoji-smile" class="headerlink" title="表情 Emoji :smile:"></a>表情 Emoji :smile:</h2><p>Input emoji with syntax <code>:smile:</code>.</p><p>User can trigger auto-complete suggestions for emoji by pressing <code>ESC</code> key, or trigger it automatically after enabling it on preference panel. Also, inputting UTF-8 emoji characters directly is also supported by going to <code>Edit</code> -&gt; <code>Emoji &amp; Symbols</code> in the menu bar (macOS).</p><h2 id="Task-List-带勾的计划任务-勾选框"><a href="#Task-List-带勾的计划任务-勾选框" class="headerlink" title="Task List 带勾的计划任务 勾选框"></a>Task List 带勾的计划任务 勾选框</h2><ul><li><input disabled="" type="checkbox"> a task list item</li><li><input disabled="" type="checkbox"> list syntax required </li><li><input checked="" disabled="" type="checkbox"> completed</li></ul><p>注意    [内有一个空格] </p><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2><p>You can use the <code>&lt;video&gt;</code> HTML tag to embed videos. For example:</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs Markdown"><span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">video</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;xxx.mp4&quot;</span> /&gt;</span></span><br></code></pre></td></tr></table></figure><h2 id="脚注"><a href="#脚注" class="headerlink" title="脚注"></a>脚注</h2><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs markdown">文字[^脚注1]文字.<br>[<span class="hljs-symbol">^脚注1</span>]:<span class="hljs-link">这是脚注1的内容</span><br></code></pre></td></tr></table></figure><p>文字<a href="%E8%BF%99%E6%98%AF%E8%84%9A%E6%B3%A81%E7%9A%84%E5%86%85%E5%AE%B9">^脚注1</a>文字.</p><h2 id="上下标"><a href="#上下标" class="headerlink" title="上下标"></a>上下标</h2><p><strong>1.实现下标与上标的三种方法：</strong></p><ul><li><p>方法1（符号）：(这是Markdown的拓展语法)</p><figure class="highlight parser3"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs parser3"><span class="language-xml">下标 ：θ~</span><span class="hljs-number">1</span><span class="language-xml">~ </span><br><span class="language-xml">上标 ：θ</span><span class="hljs-keyword">^2</span><span class="language-xml">^</span><br><span class="language-xml"></span><span class="hljs-number">12</span><br></code></pre></td></tr></table></figure></li><li><p>结果如下：<br>下标 ：θ<del>1</del><br>上标 ：θ^2^</p></li><li><p>方法2（HTML标签）：</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs xml">下标 ：θ<span class="hljs-tag">&lt;<span class="hljs-name">sub</span>&gt;</span>1<span class="hljs-tag">&lt;/<span class="hljs-name">sub</span>&gt;</span><br>上标 ：θ<span class="hljs-tag">&lt;<span class="hljs-name">sup</span>&gt;</span>2<span class="hljs-tag">&lt;/<span class="hljs-name">sup</span>&gt;</span><br>12<br></code></pre></td></tr></table></figure></li><li><p>结果如下：<br>下标 ：θ<sub>1</sub><br>上标 ：θ<sup>2</sup></p></li><li><p>方法3（公式块）：</p><figure class="highlight gams"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs gams"><span class="hljs-symbol">$</span><span class="hljs-symbol">$</span><br>下标 ：θ_1 ，上标 ：θ^<span class="hljs-number">2</span><br><span class="hljs-symbol">$</span><span class="hljs-symbol">$</span><br></code></pre></td></tr></table></figure></li><li><p>结果如下：</p></li><li><p>$$<br>下标 ：θ_1 ，上标 ：θ^2<br>$$</p></li></ul><h1 id="Note"><a href="#Note" class="headerlink" title="Note"></a>Note</h1><h2 id="HTML-跳转"><a href="#HTML-跳转" class="headerlink" title="HTML 跳转"></a><a id="HTML跳转">HTML 跳转</a></h2><p><a href="#文章内的超链接">点击到达-&gt;文章内的超链接</a> </p><figure class="highlight livecodeserver"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs livecodeserver">&lt;<span class="hljs-keyword">a</span> href=<span class="hljs-string">&quot;#demo&quot;</span>&gt;点击到达跳转位置演示&lt;/<span class="hljs-keyword">a</span>&gt; <span class="hljs-comment"># 在需要跳转的地方添加此代码。</span><br>&lt;<span class="hljs-keyword">a</span> id=<span class="hljs-string">&quot;demo&quot;</span>&gt;跳转位置演示（跳转位置设置点）&lt;/<span class="hljs-keyword">a</span>&gt; <span class="hljs-comment"># 在跳转位置添加次代码。</span><br></code></pre></td></tr></table></figure>]]></content>
     
     
     <categories>
@@ -163,36 +190,9 @@
     
     <tags>
       
-      <tag>MarkDown</tag>
+      <tag>markdown</tag>
       
       <tag>note</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>SSL证书的申请和自动续期</title>
-    <link href="/2022/82aca4fc/"/>
-    <url>/2022/82aca4fc/</url>
-    
-    <content type="html"><![CDATA[<h1 id="SSL证书的申请和自动续期"><a href="#SSL证书的申请和自动续期" class="headerlink" title="SSL证书的申请和自动续期"></a>SSL证书的申请和自动续期</h1><p>Let’s Encrypt 证书续期</p><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="https://www.jianshu.com/p/a2d0209fa3f5">https://www.jianshu.com/p/a2d0209fa3f5</a></p><p><a href="https://www.cnblogs.com/esofar/p/9291685.html">快速签发 Let’s Encrypt 证书指南</a></p><p><a href="https://certbot.eff.org/">https://certbot.eff.org/</a></p><h1 id="acme-sh-申请"><a href="#acme-sh-申请" class="headerlink" title="acme.sh 申请"></a>acme.sh 申请</h1><p>用 acme.sh申请来自动续期ssl证书<br> acme说明：<a href="https://links.jianshu.com/go?to=https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E">https://github.com/Neilpang/acme.sh/wiki/说明</a></p><ol><li>下载acme<code>curl https://get.acme.sh | sh</code>  安装完成后必须关闭当前终端，重新开启一个以使acme.sh命令生效</li><li>执行生成和自动更新命令：<code>acme.sh --issue -d mydomain.com -d www.mydomain.com --webroot /var/www/mydomain.com/</code></li><li>安装证书 <code>cd /etc/nginx; mkdir ssl</code></li></ol><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs xml">acme.sh  --installcert  -d  <span class="hljs-tag">&lt;<span class="hljs-name">domain</span>&gt;</span>.com   \<br>        --key-file   /etc/nginx/ssl/<span class="hljs-tag">&lt;<span class="hljs-name">domain</span>&gt;</span>.key \<br>        --fullchain-file /etc/nginx/ssl/fullchain.cer \<br>        --reloadcmd  &quot;service nginx force-reload&quot;<br></code></pre></td></tr></table></figure><ol start="4"><li>配置nginx使用ssl</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><code class="hljs bash">server &#123;<br>    listen 80 default_server;<br>    listen 443 http2 ssl;<br>    listen [::]:80 default_server;<br><br>    ssl_certificate /etc/nginx/ssl/fullchain.cer;<br>    ssl_certificate_key /etc/nginx/ssl/domain.key;<br>    <span class="hljs-comment">#http转https</span><br>    <span class="hljs-keyword">if</span> (<span class="hljs-variable">$scheme</span> = http ) &#123;<span class="hljs-built_in">return</span> 301 https://$host<span class="hljs-variable">$request_uri</span>;&#125;<br>    root /var/www/html;<br><br>    index index.html index.htm index.nginx-debian.html;<br>    server_name _;<br><br>    ssl_certificate /etc/nginx/ssl/fullchain.cer;<br>    ssl_certificate_key /etc/nginx/ssl/domain.key;<br><br>    location /test &#123;<br>          proxy_pass       http://127.0.0.1:3000;<br>          proxy_http_version 1.1;<br>          proxy_set_header Upgrade <span class="hljs-variable">$http_upgrade</span>;<br>          proxy_set_header Connection <span class="hljs-string">&quot;upgrade&quot;</span>;<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure><p>前端的Upgrade请求发送给后端服务器，Upgrade和Connection的头信息必须被显式的设置。一旦我们完成以上设置，NGINX就可以处理WebSocket连接了。查看配置在哪里<code>ps -ef|grep nginx</code><br> 多个域名的话，配多个nginx.conf配置。</p><ol start="5"><li>查看是否有每日任务<br> <code>crontab -l #查看你的任务</code><br> 手动更新证书<code>acme.sh --renew -d domain.com</code></li></ol><h1 id="certbot"><a href="#certbot" class="headerlink" title="certbot"></a>certbot</h1><p><a href="https://certbot.eff.org/">文档</a></p><p>Ubuntu + nginx <a href="https://certbot.eff.org/instructions?ws=nginx&amp;os=ubuntufocal">https://certbot.eff.org/instructions?ws=nginx&amp;os=ubuntufocal</a></p><p>用certbot来自动续期ssl证书</p><ul><li>需要注意的是安装证书的时候最好把nginx关掉先</li></ul>]]></content>
-    
-    
-    <categories>
-      
-      <category>blog</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>SSL</tag>
-      
-      <tag>HTTPS</tag>
       
     </tags>
     
@@ -217,7 +217,34 @@
     
     <tags>
       
-      <tag>OSI</tag>
+      <tag>osi</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>SSL证书的申请和自动续期</title>
+    <link href="/2022/82aca4fc/"/>
+    <url>/2022/82aca4fc/</url>
+    
+    <content type="html"><![CDATA[<h1 id="SSL证书的申请和自动续期"><a href="#SSL证书的申请和自动续期" class="headerlink" title="SSL证书的申请和自动续期"></a>SSL证书的申请和自动续期</h1><p>Let’s Encrypt 证书续期</p><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="https://www.jianshu.com/p/a2d0209fa3f5">https://www.jianshu.com/p/a2d0209fa3f5</a></p><p><a href="https://www.cnblogs.com/esofar/p/9291685.html">快速签发 Let’s Encrypt 证书指南</a></p><p><a href="https://certbot.eff.org/">https://certbot.eff.org/</a></p><h1 id="acme-sh-申请"><a href="#acme-sh-申请" class="headerlink" title="acme.sh 申请"></a>acme.sh 申请</h1><p>用 acme.sh申请来自动续期ssl证书<br> acme说明：<a href="https://links.jianshu.com/go?to=https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E">https://github.com/Neilpang/acme.sh/wiki/说明</a></p><ol><li>下载acme<code>curl https://get.acme.sh | sh</code>  安装完成后必须关闭当前终端，重新开启一个以使acme.sh命令生效</li><li>执行生成和自动更新命令：<code>acme.sh --issue -d mydomain.com -d www.mydomain.com --webroot /var/www/mydomain.com/</code></li><li>安装证书 <code>cd /etc/nginx; mkdir ssl</code></li></ol><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs xml">acme.sh  --installcert  -d  <span class="hljs-tag">&lt;<span class="hljs-name">domain</span>&gt;</span>.com   \<br>        --key-file   /etc/nginx/ssl/<span class="hljs-tag">&lt;<span class="hljs-name">domain</span>&gt;</span>.key \<br>        --fullchain-file /etc/nginx/ssl/fullchain.cer \<br>        --reloadcmd  &quot;service nginx force-reload&quot;<br></code></pre></td></tr></table></figure><ol start="4"><li>配置nginx使用ssl</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><code class="hljs bash">server &#123;<br>    listen 80 default_server;<br>    listen 443 http2 ssl;<br>    listen [::]:80 default_server;<br><br>    ssl_certificate /etc/nginx/ssl/fullchain.cer;<br>    ssl_certificate_key /etc/nginx/ssl/domain.key;<br>    <span class="hljs-comment">#http转https</span><br>    <span class="hljs-keyword">if</span> (<span class="hljs-variable">$scheme</span> = http ) &#123;<span class="hljs-built_in">return</span> 301 https://$host<span class="hljs-variable">$request_uri</span>;&#125;<br>    root /var/www/html;<br><br>    index index.html index.htm index.nginx-debian.html;<br>    server_name _;<br><br>    ssl_certificate /etc/nginx/ssl/fullchain.cer;<br>    ssl_certificate_key /etc/nginx/ssl/domain.key;<br><br>    location /test &#123;<br>          proxy_pass       http://127.0.0.1:3000;<br>          proxy_http_version 1.1;<br>          proxy_set_header Upgrade <span class="hljs-variable">$http_upgrade</span>;<br>          proxy_set_header Connection <span class="hljs-string">&quot;upgrade&quot;</span>;<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure><p>前端的Upgrade请求发送给后端服务器，Upgrade和Connection的头信息必须被显式的设置。一旦我们完成以上设置，NGINX就可以处理WebSocket连接了。查看配置在哪里<code>ps -ef|grep nginx</code><br> 多个域名的话，配多个nginx.conf配置。</p><ol start="5"><li>查看是否有每日任务<br> <code>crontab -l #查看你的任务</code><br> 手动更新证书<code>acme.sh --renew -d domain.com</code></li></ol><h1 id="certbot"><a href="#certbot" class="headerlink" title="certbot"></a>certbot</h1><p><a href="https://certbot.eff.org/">文档</a></p><p>Ubuntu + nginx <a href="https://certbot.eff.org/instructions?ws=nginx&amp;os=ubuntufocal">https://certbot.eff.org/instructions?ws=nginx&amp;os=ubuntufocal</a></p><p>用certbot来自动续期ssl证书</p><ul><li>需要注意的是安装证书的时候最好把nginx关掉先</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>blog</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>ssl</tag>
+      
+      <tag>https</tag>
       
     </tags>
     
@@ -242,44 +269,11 @@
     
     <tags>
       
-      <tag>Tags</tag>
+      <tag>tags</tag>
       
-      <tag>Label</tag>
+      <tag>label</tag>
       
-      <tag>Category</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>USART硬件流控制</title>
-    <link href="/2022/3b631eba/"/>
-    <url>/2022/3b631eba/</url>
-    
-    <content type="html"><![CDATA[<h1 id="USART硬件流控制"><a href="#USART硬件流控制" class="headerlink" title="USART硬件流控制"></a>USART硬件流控制</h1><p><img src="/2022/3b631eba/SouthEast.jpeg"></p><p>RS232 DB9定义</p><p>1 CD ← Carrier Detect 载波检测</p><p>2 RXD ← Receive Data 接收数据</p><p>3 TXD → Transmit Data 发送数据</p><p>4 <strong>DTR → Data Terminal Ready数据终端就绪</strong></p><p>5 GND — System Ground 系统接地</p><p>6 DSR ← Data Set Ready 数据设备就绪</p><p>7 <strong>RTS → Request To Send 请求发送</strong></p><p>8 CTS ← Clear To Send 清除发送(允许发送)</p><p>9 RI → 振铃指示</p><h2 id="RTS-CTS"><a href="#RTS-CTS" class="headerlink" title="RTS CTS"></a>RTS CTS</h2><ul><li>RTS （Require ToSend，发送请求）为输出信号，用于指示本设备准备好可接收数据，低电平有效，低电平说明本设备可以接收数据。</li><li>CTS （Clear ToSend，发送允许）为输入信号，用于判断是否可以向对方发送数据，低电平有效，低电平说明本设备可以向对方发送数据。</li></ul><h2 id="DTR-DSR"><a href="#DTR-DSR" class="headerlink" title="DTR DSR"></a>DTR DSR</h2>]]></content>
-    
-    
-    <categories>
-      
-      <category>blog</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>USART</tag>
-      
-      <tag>RTS</tag>
-      
-      <tag>CTS</tag>
-      
-      <tag>DTR</tag>
-      
-      <tag>DSR</tag>
+      <tag>category</tag>
       
     </tags>
     
@@ -304,11 +298,11 @@
     
     <tags>
       
-      <tag>VSCode</tag>
+      <tag>vscode</tag>
       
-      <tag>CommentTranslate</tag>
+      <tag>commenttranslate</tag>
       
-      <tag>WSL</tag>
+      <tag>wsl</tag>
       
     </tags>
     
@@ -333,9 +327,9 @@
     
     <tags>
       
-      <tag>Windows</tag>
+      <tag>windows</tag>
       
-      <tag>Makefile</tag>
+      <tag>makefile</tag>
       
     </tags>
     
@@ -360,11 +354,11 @@
     
     <tags>
       
-      <tag>XIP</tag>
+      <tag>xip</tag>
       
-      <tag>NOR</tag>
+      <tag>nor</tag>
       
-      <tag>NAND</tag>
+      <tag>nand</tag>
       
     </tags>
     
@@ -373,11 +367,11 @@
   
   
   <entry>
-    <title>机智云通信</title>
-    <link href="/2022/60aa39b4/"/>
-    <url>/2022/60aa39b4/</url>
+    <title>USART硬件流控制</title>
+    <link href="/2022/3b631eba/"/>
+    <url>/2022/3b631eba/</url>
     
-    <content type="html"><![CDATA[<table><thead><tr><th>包头(2B)</th><th>包长度(2B)</th><th>命令(1B)</th><th>包序号(1B)</th></tr></thead><tbody><tr><td>0xFFFF</td><td>(包长度)后面的数据长度</td><td></td><td></td></tr></tbody></table><table><thead><tr><th>Flag(2B)</th><th>xxx</th><th>校验和(1B)</th></tr></thead><tbody><tr><td></td><td></td><td>和校验</td></tr></tbody></table><p>因为包头为固定 0xFFFF，对于发送方，如检测到有出现 0xFF 的数据内容，需要在 0xFF 后添加 0x55。对于接收方，如检测到非包头部分出现 0xFF，需要把紧跟其后的 0x55 移除。</p><table><thead><tr><th>命令</th><th>内容</th></tr></thead><tbody><tr><td>0x01</td><td>设备向MCU请求信息</td></tr><tr><td>0x02</td><td>MCU回复设备</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<h1 id="USART硬件流控制"><a href="#USART硬件流控制" class="headerlink" title="USART硬件流控制"></a>USART硬件流控制</h1><p><img src="/2022/3b631eba/SouthEast.jpeg"></p><p>RS232 DB9定义</p><p>1 CD ← Carrier Detect 载波检测</p><p>2 RXD ← Receive Data 接收数据</p><p>3 TXD → Transmit Data 发送数据</p><p>4 <strong>DTR → Data Terminal Ready数据终端就绪</strong></p><p>5 GND — System Ground 系统接地</p><p>6 DSR ← Data Set Ready 数据设备就绪</p><p>7 <strong>RTS → Request To Send 请求发送</strong></p><p>8 CTS ← Clear To Send 清除发送(允许发送)</p><p>9 RI → 振铃指示</p><h2 id="RTS-CTS"><a href="#RTS-CTS" class="headerlink" title="RTS CTS"></a>RTS CTS</h2><ul><li>RTS （Require ToSend，发送请求）为输出信号，用于指示本设备准备好可接收数据，低电平有效，低电平说明本设备可以接收数据。</li><li>CTS （Clear ToSend，发送允许）为输入信号，用于判断是否可以向对方发送数据，低电平有效，低电平说明本设备可以向对方发送数据。</li></ul><h2 id="DTR-DSR"><a href="#DTR-DSR" class="headerlink" title="DTR DSR"></a>DTR DSR</h2>]]></content>
     
     
     <categories>
@@ -389,9 +383,15 @@
     
     <tags>
       
-      <tag>Embedded</tag>
+      <tag>usart</tag>
       
-      <tag>机智云</tag>
+      <tag>rts</tag>
+      
+      <tag>cts</tag>
+      
+      <tag>dtr</tag>
+      
+      <tag>dsr</tag>
       
     </tags>
     
@@ -416,11 +416,38 @@
     
     <tags>
       
-      <tag>KMS</tag>
+      <tag>kms</tag>
       
       <tag>office</tag>
       
       <tag>volume</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>机智云通信</title>
+    <link href="/2022/60aa39b4/"/>
+    <url>/2022/60aa39b4/</url>
+    
+    <content type="html"><![CDATA[<table><thead><tr><th>包头(2B)</th><th>包长度(2B)</th><th>命令(1B)</th><th>包序号(1B)</th></tr></thead><tbody><tr><td>0xFFFF</td><td>(包长度)后面的数据长度</td><td></td><td></td></tr></tbody></table><table><thead><tr><th>Flag(2B)</th><th>xxx</th><th>校验和(1B)</th></tr></thead><tbody><tr><td></td><td></td><td>和校验</td></tr></tbody></table><p>因为包头为固定 0xFFFF，对于发送方，如检测到有出现 0xFF 的数据内容，需要在 0xFF 后添加 0x55。对于接收方，如检测到非包头部分出现 0xFF，需要把紧跟其后的 0x55 移除。</p><table><thead><tr><th>命令</th><th>内容</th></tr></thead><tbody><tr><td>0x01</td><td>设备向MCU请求信息</td></tr><tr><td>0x02</td><td>MCU回复设备</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>]]></content>
+    
+    
+    <categories>
+      
+      <category>blog</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>embedded</tag>
+      
+      <tag>机智云</tag>
       
     </tags>
     
@@ -445,13 +472,13 @@
     
     <tags>
       
-      <tag>STM32</tag>
+      <tag>stm32</tag>
       
       <tag>蓝桥杯</tag>
       
       <tag>国赛</tag>
       
-      <tag>CT117E</tag>
+      <tag>ct117e</tag>
       
     </tags>
     
@@ -503,9 +530,9 @@
     
     <tags>
       
-      <tag>C/C++</tag>
+      <tag>c</tag>
       
-      <tag>C</tag>
+      <tag>c/c++</tag>
       
     </tags>
     
@@ -530,9 +557,9 @@
     
     <tags>
       
-      <tag>Windows</tag>
+      <tag>windows</tag>
       
-      <tag>MS-DOS</tag>
+      <tag>ms-dos</tag>
       
     </tags>
     
@@ -557,11 +584,11 @@
     
     <tags>
       
-      <tag>Embedded</tag>
+      <tag>embedded</tag>
       
-      <tag>MicroPython</tag>
+      <tag>micropython</tag>
       
-      <tag>Python</tag>
+      <tag>python</tag>
       
     </tags>
     
@@ -586,11 +613,11 @@
     
     <tags>
       
-      <tag>Python</tag>
+      <tag>python</tag>
       
-      <tag>QT</tag>
+      <tag>qt</tag>
       
-      <tag>PyQT</tag>
+      <tag>pyqt</tag>
       
     </tags>
     
@@ -615,7 +642,7 @@
     
     <tags>
       
-      <tag>Python</tag>
+      <tag>python</tag>
       
     </tags>
     
@@ -665,7 +692,7 @@
     
     <tags>
       
-      <tag>CAD</tag>
+      <tag>cad</tag>
       
     </tags>
     
@@ -692,7 +719,7 @@
       
       <tag>CatDrive</tag>
       
-      <tag>Linux</tag>
+      <tag>linux</tag>
       
     </tags>
     
@@ -705,7 +732,7 @@
     <link href="/2022/f15ac6f4/"/>
     <url>/2022/f15ac6f4/</url>
     
-    <content type="html"><![CDATA[<h1 id="NS-Usbloader"><a href="#NS-Usbloader" class="headerlink" title="NS-Usbloader"></a>NS-Usbloader</h1><p><a href="https://github.com/developersu/ns-usbloader/">https://github.com/developersu/ns-usbloader/</a></p><h1 id="TX-转-大气层"><a href="#TX-转-大气层" class="headerlink" title="TX 转 大气层"></a>TX 转 大气层</h1><p><a href="https://www.bilibili.com/video/BV1DZ4y1B777/?spm_id_from=333.788">https://www.bilibili.com/video/BV1DZ4y1B777/?spm_id_from=333.788</a></p><h1 id="安装游戏"><a href="#安装游戏" class="headerlink" title="安装游戏"></a>安装游戏</h1><h2 id="资源"><a href="#资源" class="headerlink" title="资源"></a>资源</h2><p><a href="https://switch520.com/27637.html">https://switch520.com/27637.html</a></p><p><a href="https://switch520.net/3892.html">https://switch520.net/3892.html</a></p><h2 id="NS-Usbloader-1"><a href="#NS-Usbloader-1" class="headerlink" title="NS-Usbloader"></a>NS-Usbloader</h2><p><a href="https://github.com/developersu/ns-usbloader/">https://github.com/developersu/ns-usbloader/</a></p><h2 id="Awoo"><a href="#Awoo" class="headerlink" title="Awoo"></a>Awoo</h2><p><a href="https://github.com/Huntereb/Awoo-Installer">https://github.com/Huntereb/Awoo-Installer</a></p><h1 id="金手指"><a href="#金手指" class="headerlink" title="金手指"></a>金手指</h1><h2 id="特斯拉插件"><a href="#特斯拉插件" class="headerlink" title="特斯拉插件"></a>特斯拉插件</h2><p>调出菜单: L + ↓</p><p>FPS界面调出: 按下左右摇杆</p><h2 id="64位游戏ID-对应-游戏名查询"><a href="#64位游戏ID-对应-游戏名查询" class="headerlink" title="64位游戏ID 对应 游戏名查询"></a>64位游戏ID 对应 游戏名查询</h2><p>调出特斯拉界面选择金手指, 即可查到游戏ID</p><p><a href="https://github.com/ibnux/switch-cheat/blob/master/GAMES.md">https://github.com/ibnux/switch-cheat/blob/master/GAMES.md</a></p><p><a href="https://switchbrew.org/w/index.php?title=Title_list/Games">https://switchbrew.org/w/index.php?title=Title_list/Games</a></p><h2 id="cheat"><a href="#cheat" class="headerlink" title="cheat"></a>cheat</h2><p><a href="https://github.com/ibnux/switch-cheat">https://github.com/ibnux/switch-cheat</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="NS-Usbloader"><a href="#NS-Usbloader" class="headerlink" title="NS-Usbloader"></a>NS-Usbloader</h1><p><a href="https://github.com/developersu/ns-usbloader/">https://github.com/developersu/ns-usbloader/</a></p><h1 id="TX-转-大气层"><a href="#TX-转-大气层" class="headerlink" title="TX 转 大气层"></a>TX 转 大气层</h1><p><a href="https://www.bilibili.com/video/BV1DZ4y1B777/?spm_id_from=333.788">https://www.bilibili.com/video/BV1DZ4y1B777/?spm_id_from=333.788</a></p><h1 id="安装游戏"><a href="#安装游戏" class="headerlink" title="安装游戏"></a>安装游戏</h1><h2 id="资源"><a href="#资源" class="headerlink" title="资源"></a>资源</h2><p><a href="https://switch520.com/27637.html">https://switch520.com/27637.html</a></p><p><a href="https://switch520.net/3892.html">https://switch520.net/3892.html</a></p><h2 id="NS-Usbloader-1"><a href="#NS-Usbloader-1" class="headerlink" title="NS-Usbloader"></a>NS-Usbloader</h2><p><a href="https://github.com/developersu/ns-usbloader/">https://github.com/developersu/ns-usbloader/</a></p><h2 id="Awoo"><a href="#Awoo" class="headerlink" title="Awoo"></a>Awoo</h2><p><a href="https://github.com/Huntereb/Awoo-Installer">https://github.com/Huntereb/Awoo-Installer</a></p><h1 id="金手指"><a href="#金手指" class="headerlink" title="金手指"></a>金手指</h1><h2 id="特斯拉插件-Tesla-Menu"><a href="#特斯拉插件-Tesla-Menu" class="headerlink" title="特斯拉插件(Tesla-Menu)"></a>特斯拉插件(Tesla-Menu)</h2><blockquote><p>  <strong>Switch特斯拉插件</strong>(Tesla-Menu)是一个很实用的功能插件的集合。可以直接在switch系统的任何界面通过组合按键调取左屏幕弹窗打开各种功能的快捷开关！目前已经实现的，开关switch硬件信息显示，开关FPS显示，<strong>开关超频</strong>，切换TV模式，这个平台就好比是简洁版相册，相册里面的各种软件就是完整版，这个Tesla-Menu平台提供的功能就相当于缩减版！不用复杂的操作，只是简单的开关，好处就是精简不占用太多资源！不用来返相册去开关软件！</p></blockquote><p>调出菜单: L + ↓</p><p>FPS界面调出: 同时按下 左右摇杆</p><h2 id="64位游戏ID-对应-游戏名查询"><a href="#64位游戏ID-对应-游戏名查询" class="headerlink" title="64位游戏ID 对应 游戏名查询"></a>64位游戏ID 对应 游戏名查询</h2><p>调出特斯拉界面选择金手指, 即可查到游戏ID</p><p><a href="https://github.com/ibnux/switch-cheat/blob/master/GAMES.md">https://github.com/ibnux/switch-cheat/blob/master/GAMES.md</a></p><p><a href="https://switchbrew.org/w/index.php?title=Title_list/Games">https://switchbrew.org/w/index.php?title=Title_list/Games</a></p><h2 id="cheat"><a href="#cheat" class="headerlink" title="cheat"></a>cheat</h2><p><a href="https://github.com/ibnux/switch-cheat">https://github.com/ibnux/switch-cheat</a></p>]]></content>
     
     
     <categories>
@@ -717,40 +744,11 @@
     
     <tags>
       
-      <tag>Switch</tag>
+      <tag>switch</tag>
       
-      <tag>Nintendo</tag>
+      <tag>nintendo</tag>
       
-      <tag>Game</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>PC Software</title>
-    <link href="/2022/fc18738/"/>
-    <url>/2022/fc18738/</url>
-    
-    <content type="html"><![CDATA[<h1 id="PC-Windows"><a href="#PC-Windows" class="headerlink" title="PC Windows"></a>PC Windows</h1><h1 id="扫描修复系统"><a href="#扫描修复系统" class="headerlink" title="扫描修复系统"></a>扫描修复系统</h1><figure class="highlight jboss-cli"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs jboss-cli">sfc <span class="hljs-string">/SCANNOW</span><br></code></pre></td></tr></table></figure><h1 id="DNS"><a href="#DNS" class="headerlink" title="DNS"></a>DNS</h1><h3 id="刷新DNS"><a href="#刷新DNS" class="headerlink" title="刷新DNS"></a>刷新DNS</h3><p><code>ipconfig /flushdns</code></p><h3 id="nslookup"><a href="#nslookup" class="headerlink" title="nslookup"></a>nslookup</h3><p><img src="/2022/fc18738/image-20220402175405670.png" alt="image-20220402175405670"></p><p><img src="/2022/fc18738/image-20220402175432533.png" alt="image-20220402175432533"></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br></pre></td><td class="code"><pre><code class="hljs bash">nslookup<br><br><span class="hljs-comment"># 设置查询类型 name server</span><br><span class="hljs-built_in">set</span> <span class="hljs-built_in">type</span>=ns<br><br><span class="hljs-comment"># 查询根服务器</span><br>.<br><br><span class="hljs-comment"># Non-authoritative 代表非权威应答 一般是缓存来的</span><br><span class="hljs-comment"># authoritative 表权威应答 根服务器直接返回的</span><br><br><span class="hljs-comment"># 设置查询类型 a ipv4地址</span><br><span class="hljs-built_in">set</span> <span class="hljs-built_in">type</span>=a<br><br><span class="hljs-comment"># 查询根服务器的ipv4地址</span><br>.<br><br><span class="hljs-comment"># 设置dns服务器地址</span><br>server 198.41.0.4<br><br><span class="hljs-comment"># 设置查询类型 name server</span><br><span class="hljs-built_in">set</span> <span class="hljs-built_in">type</span>=ns<br><br><span class="hljs-comment"># 查询cf域名服务器</span><br>cf.<br><br><span class="hljs-comment"># 设置查询类型 a ipv4地址</span><br><span class="hljs-built_in">set</span> <span class="hljs-built_in">type</span>=a<br><br><span class="hljs-comment"># 查询cf域名服务器的ipv4地址</span><br>cf.<br><br>..........<br><br><br>lager.cf.<br></code></pre></td></tr></table></figure><h1 id="硬链接-amp-符号链接"><a href="#硬链接-amp-符号链接" class="headerlink" title="硬链接&amp;符号链接"></a>硬链接&amp;符号链接</h1><blockquote><p>  mklink<br>  创建符号链接。</p><p>  MKLINK [[&#x2F;D] | [&#x2F;H] | [&#x2F;J]] Link Target</p><pre><code class="hljs">      /D      创建目录符号链接。默认为文件              符号链接。      /H      创建硬链接而非符号链接。      /J      创建目录联接。      Link    指定新的符号链接名称。      Target  指定新链接引用的路径              (相对或绝对)。</code></pre></blockquote><table><thead><tr><th></th><th>硬链接（Hard Link）</th><th>目录联接（Junction Point）</th><th>符号链接（Symbolic Link）</th></tr></thead><tbody><tr><td>命令</td><td><code>mklink /H Link Target</code></td><td><code>mklink /J Link Target</code></td><td><code>mklink /D Link Target</code></td></tr><tr><td>作用</td><td>为某文件创建别名，可让不同的路径对应同一个文件的数据。</td><td></td><td></td></tr><tr><td>链接到文件</td><td>✔️</td><td>❌</td><td>❌</td></tr><tr><td>链接到文件夹</td><td>❌</td><td>✔️</td><td>✔️</td></tr><tr><td>需要提升为管理员权限</td><td>需要</td><td>不需要</td><td>通常需要 <code>[坑1]</code></td></tr><tr><td>跨驱动器卷（盘符）</td><td>❌</td><td>✔️（仅本地计算机）</td><td>✔️（包括 SMB 文件或路径）</td></tr><tr><td>操作系统支持</td><td>Windows NT 3.1 开始支持 Windows 2000 开始有 API <code>CreateHardLink()</code> Windows NT 6.0 开始能使用 <code>mklink /H</code></td><td>Windows 2000+</td><td>Windows Vista+</td></tr><tr><td>可链接到不存在的目标</td><td>❌</td><td>✔️</td><td>✔️</td></tr><tr><td>可链接到相对目录</td><td>❌</td><td>❌（可以使用相对路径创建，但创建完即变绝对路径）</td><td>✔️</td></tr><tr><td>删除方法</td><td>del</td><td>rd</td><td>rd &#x2F; del</td></tr><tr><td>当链接被单独删除后</td><td>只有所有指向原始文件的硬链接和原始文件全部删除后文件数据才会被删除。</td><td>Windows Vista 之后原始文件夹不受影响；Windows 2000&#x2F;XP&#x2F;2003 会导致原始子文件夹被删除。</td><td>原始文件夹不受影响。</td></tr><tr><td>当原始文件被单独删除后</td><td>硬链接依然能正常访问到文件的数据。</td><td>目录联接失效，指向不存在的目录。</td><td>符号链接失效，指向不存在的目录</td></tr></tbody></table><p>比较 Windows 上四种不同的文件（夹）链接方式（NTFS 的硬链接、目录联接、符号链接，和大家熟知的快捷方式）</p><p><a href="https://blog.walterlv.com/post/ntfs-link-comparisons.html">https://blog.walterlv.com/post/ntfs-link-comparisons.html</a></p><p>Windows中的硬链接和软链接（hard link 和 Symbolic link）</p><p><a href="https://www.cnblogs.com/Naylor/p/7597869.html">https://www.cnblogs.com/Naylor/p/7597869.html</a></p><p>Windows下mklink使用, 硬链接, 软链接和快捷方式的区别</p><p><a href="https://blog.csdn.net/guyue35/article/details/49761347">https://blog.csdn.net/guyue35/article/details/49761347</a></p><figure class="highlight dos"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs dos">创建链接:<br>mklink /j D:\System\Desktop\Project  D:\Project<br><br><br><br>删除的命令：<br><span class="hljs-built_in">rmdir</span> 链接名称<br>例如：<span class="hljs-built_in">rmdir</span> d:\recivefiles <span class="hljs-built_in">rmdir</span> d:\develop<br>删除虚拟链接目录，并不会删除真实文件，注意，不能使用<span class="hljs-built_in">del</span>命令，<span class="hljs-built_in">del</span>命令会删除真实文件<br></code></pre></td></tr></table></figure><p>拓展 :  linux下的软链接和硬链接</p><blockquote><p>  同样，在Windows下，链接的功能也是被实现了的（虽然我们不会经常发现）。在Linux下，我们都知道链接有两种形式：硬链接和软链接。所谓硬链接，我们可以理解为硬链接持有的是文件本身（而不是路径）的引用。也就是说，当我们给一个名为a.txt的文件建立硬链接（b.txt）后，那么b.txt指向的位置就是a.txt这个文件本身，而此时，a.txt和b.txt是同级平行的，这个文本文件此时同时拥有两个文件名。当我们删除a.txt时，只是删除了a.txt这个文件名，这个文件仍然被b.txt所引用，所以我们还能够通过b.txt访问。而软链接，持有的则是原链接路径。比如a.txt位于 <del>&#x2F;Document&#x2F;a.txt ，那么为其建立软链接b.txt的内容就是”</del>&#x2F;Document&#x2F;a.txt”，此时，我们访问b.txt，其实是在按照a.txt的路径去访问a.txt。如果我们这时删除a.txt这个文件，那么b.txt也会无效，因为路径已经断掉。</p></blockquote><h1 id="NOTE"><a href="#NOTE" class="headerlink" title="NOTE"></a>NOTE</h1><h2 id="窗口主题色-活动和非活动窗口"><a href="#窗口主题色-活动和非活动窗口" class="headerlink" title="窗口主题色 活动和非活动窗口"></a>窗口主题色 活动和非活动窗口</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs bash">regedit 编辑<br>计算机\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM<br><br><span class="hljs-comment"># 活动窗口颜色 </span><br><span class="hljs-comment"># 32位值就是 颜色的RGB 注意的是这里不知道是大小端的问题还是其他什么问题需要RGB数值转换成BGR样式</span><br>AccentColor <br><br><span class="hljs-comment"># 非活动窗口颜色 </span><br>AccentColorInactive <br></code></pre></td></tr></table></figure><h2 id="添加永久路由"><a href="#添加永久路由" class="headerlink" title="添加永久路由"></a>添加永久路由</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash">route -p add <br><br>route ADD 157.0.0.0 MASK 255.0.0.0  157.55.80.1 METRIC 3 IF 2<br>       destination^      ^mask      ^gateway     metric^    ^<br>                                                   Interface^<br></code></pre></td></tr></table></figure><h2 id="各类特定文件夹"><a href="#各类特定文件夹" class="headerlink" title="各类特定文件夹"></a>各类特定文件夹</h2><p><code>win+r</code>输入对应内容</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">启动文件夹</span><br>shell:startup<br><span class="hljs-meta prompt_"># </span><span class="language-bash">发送到右键菜单</span><br>shell:sendto<br></code></pre></td></tr></table></figure><h2 id="修改WIFI位置"><a href="#修改WIFI位置" class="headerlink" title="修改WIFI位置"></a>修改WIFI位置</h2><figure class="highlight moonscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs moonscript">HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles<br></code></pre></td></tr></table></figure><ul><li>展开“Profiles”项，其下面的子项是都是一个网络连接，可以通过查看“ProfilesName”来分辨，双击打开“<code>Category</code>”，</li><li>打开编辑窗口后，修改“数值数据”，这里数值0代表公用网络，1代表专用网络，2代表域网络，设置完后点击确定即可。</li></ul><h2 id="填加开机启动"><a href="#填加开机启动" class="headerlink" title="填加开机启动"></a>填加开机启动</h2><ol><li>添加<code>Windows</code>开机自动执行<code>init-wsl.bat</code>脚本</li></ol><p><code>Windows</code>键+<code>R</code>，输入<code>regedit</code>打开注册列表，在地址栏输入<code>计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run</code>定位到对应注册表位置，右键新建一个字符串值，键入<code>init-wsl.bat</code>脚本绝对路径即可，如下图！</p><p><img src="/2022/fc18738/regedit-add-init-wsl.png" alt="set regedit service"></p><p>重启计算机即可发现，<code>WSL</code>中的<code>Docker</code>服务已经被启动，通过<code>192.168.33.10</code>可以直接访问到<code>WSL</code>内部的网络！</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>more_interest</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Windows</tag>
-      
-      <tag>PC</tag>
-      
-      <tag>Software</tag>
+      <tag>game</tag>
       
     </tags>
     
@@ -775,13 +773,42 @@
     
     <tags>
       
-      <tag>PC</tag>
+      <tag>hardware</tag>
       
-      <tag>Hardware</tag>
+      <tag>pc</tag>
       
-      <tag>Lenovo</tag>
+      <tag>lenovo</tag>
       
-      <tag>Disk</tag>
+      <tag>disk</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>PC Software</title>
+    <link href="/2022/fc18738/"/>
+    <url>/2022/fc18738/</url>
+    
+    <content type="html"><![CDATA[<h1 id="PC-Windows"><a href="#PC-Windows" class="headerlink" title="PC Windows"></a>PC Windows</h1><h1 id="扫描修复系统"><a href="#扫描修复系统" class="headerlink" title="扫描修复系统"></a>扫描修复系统</h1><figure class="highlight jboss-cli"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs jboss-cli">sfc <span class="hljs-string">/SCANNOW</span><br></code></pre></td></tr></table></figure><h1 id="DNS"><a href="#DNS" class="headerlink" title="DNS"></a>DNS</h1><h3 id="刷新DNS"><a href="#刷新DNS" class="headerlink" title="刷新DNS"></a>刷新DNS</h3><p><code>ipconfig /flushdns</code></p><h3 id="nslookup"><a href="#nslookup" class="headerlink" title="nslookup"></a>nslookup</h3><p><img src="/2022/fc18738/image-20220402175405670.png" alt="image-20220402175405670"></p><p><img src="/2022/fc18738/image-20220402175432533.png" alt="image-20220402175432533"></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br></pre></td><td class="code"><pre><code class="hljs bash">nslookup<br><br><span class="hljs-comment"># 设置查询类型 name server</span><br><span class="hljs-built_in">set</span> <span class="hljs-built_in">type</span>=ns<br><br><span class="hljs-comment"># 查询根服务器</span><br>.<br><br><span class="hljs-comment"># Non-authoritative 代表非权威应答 一般是缓存来的</span><br><span class="hljs-comment"># authoritative 表权威应答 根服务器直接返回的</span><br><br><span class="hljs-comment"># 设置查询类型 a ipv4地址</span><br><span class="hljs-built_in">set</span> <span class="hljs-built_in">type</span>=a<br><br><span class="hljs-comment"># 查询根服务器的ipv4地址</span><br>.<br><br><span class="hljs-comment"># 设置dns服务器地址</span><br>server 198.41.0.4<br><br><span class="hljs-comment"># 设置查询类型 name server</span><br><span class="hljs-built_in">set</span> <span class="hljs-built_in">type</span>=ns<br><br><span class="hljs-comment"># 查询cf域名服务器</span><br>cf.<br><br><span class="hljs-comment"># 设置查询类型 a ipv4地址</span><br><span class="hljs-built_in">set</span> <span class="hljs-built_in">type</span>=a<br><br><span class="hljs-comment"># 查询cf域名服务器的ipv4地址</span><br>cf.<br><br>..........<br><br><br>lager.cf.<br></code></pre></td></tr></table></figure><h1 id="硬链接-amp-符号链接"><a href="#硬链接-amp-符号链接" class="headerlink" title="硬链接&amp;符号链接"></a>硬链接&amp;符号链接</h1><blockquote><p>  mklink<br>  创建符号链接。</p><p>  MKLINK [[&#x2F;D] | [&#x2F;H] | [&#x2F;J]] Link Target</p><pre><code class="hljs">      /D      创建目录符号链接。默认为文件              符号链接。      /H      创建硬链接而非符号链接。      /J      创建目录联接。      Link    指定新的符号链接名称。      Target  指定新链接引用的路径              (相对或绝对)。</code></pre></blockquote><table><thead><tr><th></th><th>硬链接（Hard Link）</th><th>目录联接（Junction Point）</th><th>符号链接（Symbolic Link）</th></tr></thead><tbody><tr><td>命令</td><td><code>mklink /H Link Target</code></td><td><code>mklink /J Link Target</code></td><td><code>mklink /D Link Target</code></td></tr><tr><td>作用</td><td>为某文件创建别名，可让不同的路径对应同一个文件的数据。</td><td></td><td></td></tr><tr><td>链接到文件</td><td>✔️</td><td>❌</td><td>❌</td></tr><tr><td>链接到文件夹</td><td>❌</td><td>✔️</td><td>✔️</td></tr><tr><td>需要提升为管理员权限</td><td>需要</td><td>不需要</td><td>通常需要 <code>[坑1]</code></td></tr><tr><td>跨驱动器卷（盘符）</td><td>❌</td><td>✔️（仅本地计算机）</td><td>✔️（包括 SMB 文件或路径）</td></tr><tr><td>操作系统支持</td><td>Windows NT 3.1 开始支持 Windows 2000 开始有 API <code>CreateHardLink()</code> Windows NT 6.0 开始能使用 <code>mklink /H</code></td><td>Windows 2000+</td><td>Windows Vista+</td></tr><tr><td>可链接到不存在的目标</td><td>❌</td><td>✔️</td><td>✔️</td></tr><tr><td>可链接到相对目录</td><td>❌</td><td>❌（可以使用相对路径创建，但创建完即变绝对路径）</td><td>✔️</td></tr><tr><td>删除方法</td><td>del</td><td>rd</td><td>rd &#x2F; del</td></tr><tr><td>当链接被单独删除后</td><td>只有所有指向原始文件的硬链接和原始文件全部删除后文件数据才会被删除。</td><td>Windows Vista 之后原始文件夹不受影响；Windows 2000&#x2F;XP&#x2F;2003 会导致原始子文件夹被删除。</td><td>原始文件夹不受影响。</td></tr><tr><td>当原始文件被单独删除后</td><td>硬链接依然能正常访问到文件的数据。</td><td>目录联接失效，指向不存在的目录。</td><td>符号链接失效，指向不存在的目录</td></tr></tbody></table><p>比较 Windows 上四种不同的文件（夹）链接方式（NTFS 的硬链接、目录联接、符号链接，和大家熟知的快捷方式）</p><p><a href="https://blog.walterlv.com/post/ntfs-link-comparisons.html">https://blog.walterlv.com/post/ntfs-link-comparisons.html</a></p><p>Windows中的硬链接和软链接（hard link 和 Symbolic link）</p><p><a href="https://www.cnblogs.com/Naylor/p/7597869.html">https://www.cnblogs.com/Naylor/p/7597869.html</a></p><p>Windows下mklink使用, 硬链接, 软链接和快捷方式的区别</p><p><a href="https://blog.csdn.net/guyue35/article/details/49761347">https://blog.csdn.net/guyue35/article/details/49761347</a></p><figure class="highlight dos"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs dos">创建链接:<br>mklink /j D:\System\Desktop\Project  D:\Project<br><br><br><br>删除的命令：<br><span class="hljs-built_in">rmdir</span> 链接名称<br>例如：<span class="hljs-built_in">rmdir</span> d:\recivefiles <span class="hljs-built_in">rmdir</span> d:\develop<br>删除虚拟链接目录，并不会删除真实文件，注意，不能使用<span class="hljs-built_in">del</span>命令，<span class="hljs-built_in">del</span>命令会删除真实文件<br></code></pre></td></tr></table></figure><p>拓展 :  linux下的软链接和硬链接</p><blockquote><p>  同样，在Windows下，链接的功能也是被实现了的（虽然我们不会经常发现）。在Linux下，我们都知道链接有两种形式：硬链接和软链接。所谓硬链接，我们可以理解为硬链接持有的是文件本身（而不是路径）的引用。也就是说，当我们给一个名为a.txt的文件建立硬链接（b.txt）后，那么b.txt指向的位置就是a.txt这个文件本身，而此时，a.txt和b.txt是同级平行的，这个文本文件此时同时拥有两个文件名。当我们删除a.txt时，只是删除了a.txt这个文件名，这个文件仍然被b.txt所引用，所以我们还能够通过b.txt访问。而软链接，持有的则是原链接路径。比如a.txt位于 <del>&#x2F;Document&#x2F;a.txt ，那么为其建立软链接b.txt的内容就是”</del>&#x2F;Document&#x2F;a.txt”，此时，我们访问b.txt，其实是在按照a.txt的路径去访问a.txt。如果我们这时删除a.txt这个文件，那么b.txt也会无效，因为路径已经断掉。</p></blockquote><h1 id="NOTE"><a href="#NOTE" class="headerlink" title="NOTE"></a>NOTE</h1><h2 id="窗口主题色-活动和非活动窗口"><a href="#窗口主题色-活动和非活动窗口" class="headerlink" title="窗口主题色 活动和非活动窗口"></a>窗口主题色 活动和非活动窗口</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs bash">regedit 编辑<br>计算机\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM<br><br><span class="hljs-comment"># 活动窗口颜色 </span><br><span class="hljs-comment"># 32位值就是 颜色的RGB 注意的是这里不知道是大小端的问题还是其他什么问题需要RGB数值转换成BGR样式</span><br>AccentColor <br><br><span class="hljs-comment"># 非活动窗口颜色 </span><br>AccentColorInactive <br></code></pre></td></tr></table></figure><h2 id="添加永久路由"><a href="#添加永久路由" class="headerlink" title="添加永久路由"></a>添加永久路由</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash">route -p add <br><br>route ADD 157.0.0.0 MASK 255.0.0.0  157.55.80.1 METRIC 3 IF 2<br>       destination^      ^mask      ^gateway     metric^    ^<br>                                                   Interface^<br></code></pre></td></tr></table></figure><h2 id="各类特定文件夹"><a href="#各类特定文件夹" class="headerlink" title="各类特定文件夹"></a>各类特定文件夹</h2><p><code>win+r</code>输入对应内容</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">启动文件夹</span><br>shell:startup<br><span class="hljs-meta prompt_"># </span><span class="language-bash">发送到右键菜单</span><br>shell:sendto<br></code></pre></td></tr></table></figure><h2 id="修改WIFI位置"><a href="#修改WIFI位置" class="headerlink" title="修改WIFI位置"></a>修改WIFI位置</h2><figure class="highlight moonscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs moonscript">HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles<br></code></pre></td></tr></table></figure><ul><li>展开“Profiles”项，其下面的子项是都是一个网络连接，可以通过查看“ProfilesName”来分辨，双击打开“<code>Category</code>”，</li><li>打开编辑窗口后，修改“数值数据”，这里数值0代表公用网络，1代表专用网络，2代表域网络，设置完后点击确定即可。</li></ul><h2 id="填加开机启动"><a href="#填加开机启动" class="headerlink" title="填加开机启动"></a>填加开机启动</h2><ol><li>添加<code>Windows</code>开机自动执行<code>init-wsl.bat</code>脚本</li></ol><p><code>Windows</code>键+<code>R</code>，输入<code>regedit</code>打开注册列表，在地址栏输入<code>计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run</code>定位到对应注册表位置，右键新建一个字符串值，键入<code>init-wsl.bat</code>脚本绝对路径即可，如下图！</p><p><img src="/2022/fc18738/regedit-add-init-wsl.png" alt="set regedit service"></p><p>重启计算机即可发现，<code>WSL</code>中的<code>Docker</code>服务已经被启动，通过<code>192.168.33.10</code>可以直接访问到<code>WSL</code>内部的网络！</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>more_interest</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>windows</tag>
+      
+      <tag>pc</tag>
+      
+      <tag>software</tag>
       
     </tags>
     
@@ -831,9 +858,9 @@
     
     <tags>
       
-      <tag>Linux</tag>
+      <tag>linux</tag>
       
-      <tag>Synology</tag>
+      <tag>synology</tag>
       
     </tags>
     
@@ -858,11 +885,11 @@
     
     <tags>
       
-      <tag>Windows</tag>
+      <tag>windows</tag>
       
-      <tag>RDPWrap</tag>
+      <tag>rdpwrap</tag>
       
-      <tag>RDP</tag>
+      <tag>rdp</tag>
       
     </tags>
     
@@ -887,9 +914,9 @@
     
     <tags>
       
-      <tag>Windows</tag>
+      <tag>windows</tag>
       
-      <tag>SpaceDesk</tag>
+      <tag>spacedesk</tag>
       
       <tag>投屏</tag>
       
@@ -916,17 +943,17 @@
     
     <tags>
       
-      <tag>SSL</tag>
+      <tag>ssl</tag>
       
-      <tag>HTTPS</tag>
+      <tag>https</tag>
       
-      <tag>Wordpress</tag>
+      <tag>wordpress</tag>
       
-      <tag>Web</tag>
+      <tag>web</tag>
       
-      <tag>MySQL</tag>
+      <tag>mysql</tag>
       
-      <tag>Nginx</tag>
+      <tag>nginx</tag>
       
     </tags>
     
@@ -935,11 +962,11 @@
   
   
   <entry>
-    <title>静态网页</title>
+    <title>静态网页 静态博客</title>
     <link href="/2022/f96c3c41/"/>
     <url>/2022/f96c3c41/</url>
     
-    <content type="html"><![CDATA[<h1 id="静态网页"><a href="#静态网页" class="headerlink" title="静态网页"></a>静态网页</h1><h1 id="静态网页生成器"><a href="#静态网页生成器" class="headerlink" title="静态网页生成器"></a>静态网页生成器</h1><p><a href="https://jekyllrb.com/">Jekyll</a>（由 Github 构建的用于为其 Github 页面提供支持的 Ruby 生成器）、</p><p><a href="https://gohugo.io/">Hugo</a>（构建在 Go 编程之上的极快静态生成器）语言）和</p><p><a href="https://hexo.io/">Hexo</a>（基于 Node.js 的快速网站生成器）。</p><p><strong>参考</strong></p><p><a href="https://www.techiediaries.com/jekyll-hugo-hexo/">How to Choose the Right Static Generator: Jekyll vs. Hugo vs. Hexo</a></p><p><a href="https://stackshare.io/stackups/hexo-vs-hugo-vs-jekyll">StackShare</a></p><h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><p>TBD</p><h2 id="Jekyll"><a href="#Jekyll" class="headerlink" title="Jekyll"></a>Jekyll</h2><p>TBD</p><h2 id="Hugo"><a href="#Hugo" class="headerlink" title="Hugo"></a>Hugo</h2><p>TBD</p><h1 id="Hexo-1"><a href="#Hexo-1" class="headerlink" title="Hexo"></a>Hexo</h1><h2 id="Hexo-部署"><a href="#Hexo-部署" class="headerlink" title="Hexo 部署"></a>Hexo 部署</h2><p><a href="https://hexo.io/zh-cn/docs/">HEXO文档_参考链接</a></p><p><strong>要求:</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">Node.js (Node.js 版本需不低于 10.13，建议使用 Node.js 12.0 及以上版本)<br>Git<br></code></pre></td></tr></table></figure><p><strong>部署:</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install hexo-cli -g<br>hexo init blog<br><span class="hljs-built_in">cd</span> blog<br>npm install<br>hexo server<br></code></pre></td></tr></table></figure><h2 id="Hexo-CMD"><a href="#Hexo-CMD" class="headerlink" title="Hexo CMD"></a>Hexo CMD</h2><h3 id="Init-初始化"><a href="#Init-初始化" class="headerlink" title="Init 初始化"></a>Init 初始化</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo init [folder]<br></code></pre></td></tr></table></figure><p>新建一个网站。如果没有设置 <code>folder</code> ，Hexo 默认在目前的文件夹建立网站。</p><h3 id="new-新建"><a href="#new-新建" class="headerlink" title="new 新建"></a>new 新建</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo new [layout] &lt;title&gt;<br>hexo new <span class="hljs-string">&quot;post title with whitespace&quot;</span><br>hexo new page --path about/me <span class="hljs-string">&quot;About me&quot;</span><br>hexo new page -p     about/me <span class="hljs-string">&quot;About me&quot;</span><br></code></pre></td></tr></table></figure><table><thead><tr><th align="left">参数</th><th align="left">描述</th></tr></thead><tbody><tr><td align="left"><code>-p</code>, <code>--path</code></td><td align="left">自定义新文章的路径</td></tr><tr><td align="left"><code>-r</code>, <code>--replace</code></td><td align="left">如果存在同名文章，将其替换</td></tr><tr><td align="left"><code>-s</code>, <code>--slug</code></td><td align="left">文章的 Slug，作为新文章的文件名和发布后的 URL</td></tr></tbody></table><h3 id="generate-生成"><a href="#generate-生成" class="headerlink" title="generate 生成"></a>generate 生成</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 生成静态文件。</span><br>hexo generate<br><span class="hljs-comment"># 该命令可以简写为</span><br>hexo g<br></code></pre></td></tr></table></figure><table><thead><tr><th align="left">选项</th><th></th><th align="left">描述</th></tr></thead><tbody><tr><td align="left">-d</td><td>–deploy</td><td align="left"><strong>文件生成后立即部署网站</strong></td></tr><tr><td align="left">-w</td><td>–watch</td><td align="left"><strong>监视文件变动</strong></td></tr><tr><td align="left">-b</td><td>–bail</td><td align="left">生成过程中如果发生任何未处理的异常则抛出异常</td></tr><tr><td align="left">-f</td><td>–force</td><td align="left">强制重新生成文件 Hexo 引入了差分机制，<br>如果 <code>public</code> 目录存在，那么 <code>hexo g</code> 只会重新生成改动的文件。<br/>使用该参数的效果接近 <code>hexo clean &amp;&amp; hexo generate</code></td></tr><tr><td align="left">-c</td><td>–concurrency</td><td align="left">最大同时生成文件的数量，默认无限制</td></tr></tbody></table><h3 id="publish-草稿"><a href="#publish-草稿" class="headerlink" title="publish 草稿"></a>publish 草稿</h3><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs xml">hexo publish [layout] <span class="hljs-tag">&lt;<span class="hljs-name">filename</span>&gt;</span><br></code></pre></td></tr></table></figure><p>发表草稿。</p><h3 id="server-服务器"><a href="#server-服务器" class="headerlink" title="server 服务器"></a>server 服务器</h3><p>在服务器启动期间，Hexo 会监视文件变动并自动更新，您无须重启服务器。</p><figure class="highlight axapta"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs axapta">hexo <span class="hljs-keyword">server</span><br>hexo s<br></code></pre></td></tr></table></figure><p>启动服务器。默认情况下，访问网址为： <code>http://localhost:4000/</code>。</p><table><thead><tr><th align="left">选项</th><th align="left">描述</th></tr></thead><tbody><tr><td align="left"><code>-p</code>, <code>--port</code></td><td align="left">重设端口</td></tr><tr><td align="left"><code>-s</code>, <code>--static</code></td><td align="left">只使用静态文件(不会更新)</td></tr><tr><td align="left"><code>-l</code>, <code>--log</code></td><td align="left">启动日记记录，使用覆盖记录格式</td></tr><tr><td align="left"><code>-i</code></td><td align="left"><code>hexo server -i 192.168.1.1</code> 指定监听的IP</td></tr></tbody></table><h3 id="deploy-部署"><a href="#deploy-部署" class="headerlink" title="deploy 部署"></a>deploy 部署</h3><figure class="highlight jboss-cli"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs jboss-cli"><span class="hljs-comment"># 部署网站。</span><br>hexo <span class="hljs-keyword">deploy</span><br><span class="hljs-comment"># 该命令可以简写为：</span><br>hexo d<br></code></pre></td></tr></table></figure><table><thead><tr><th align="left">参数</th><th align="left">描述</th></tr></thead><tbody><tr><td align="left"><code>-g</code>, <code>--generate</code></td><td align="left">部署之前预先生成静态文件</td></tr></tbody></table><h3 id="render"><a href="#render" class="headerlink" title="render"></a>render</h3><figure class="highlight prolog"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs prolog">hexo render &lt;file1&gt; [file2] ...<br></code></pre></td></tr></table></figure><p>渲染文件。</p><table><thead><tr><th align="left">参数</th><th align="left">描述</th></tr></thead><tbody><tr><td align="left"><code>-o</code>, <code>--output</code></td><td align="left">设置输出路径</td></tr></tbody></table><h3 id="migrate"><a href="#migrate" class="headerlink" title="migrate"></a>migrate</h3><figure class="highlight elm"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs elm"><span class="hljs-title">hexo</span> migrate &lt;<span class="hljs-keyword">type</span>&gt;<br></code></pre></td></tr></table></figure><p>从其他博客系统 <a href="https://hexo.io/zh-cn/docs/migration">迁移内容</a>。</p><h3 id="clean-清理"><a href="#clean-清理" class="headerlink" title="clean 清理"></a>clean 清理</h3><figure class="highlight crystal"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs crystal"><span class="hljs-variable">$ </span>hexo clean<br></code></pre></td></tr></table></figure><p>清除缓存文件 (<code>db.json</code>) 和已生成的静态文件 (<code>public</code>)。</p><p>在某些情况（尤其是更换主题后），如果发现您对站点的更改无论如何也不生效，您可能需要运行该命令。</p><h3 id="list"><a href="#list" class="headerlink" title="list"></a>list</h3><figure class="highlight crystal"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs crystal"><span class="hljs-variable">$ </span>hexo list &lt;<span class="hljs-keyword">type</span>&gt;<br></code></pre></td></tr></table></figure><p>列出网站资料。</p><h1 id="Hexo-Theme"><a href="#Hexo-Theme" class="headerlink" title="Hexo Theme"></a>Hexo Theme</h1><p>我是直接在github搜索 <code>hexo theme</code>看到了几个 star 比较多而且比较活跃的 repository </p><ul><li><p><strong><a href="https://github.com/ppoffice/hexo-theme-icarus">icarus</a></strong> 5.5K star</p><p><img src="/2022/f96c3c41/68747470733a2f2f70706f66666963652e6769746875622e696f2f6865786f2d7468656d652d6963617275732f67616c6c6572792f707265766965772e706e673f31.png" alt="img"></p></li><li><p><strong><a href="https://github.com/fluid-dev/hexo-theme-fluid">fluid</a></strong> 4.8K star</p><p><img src="/2022/f96c3c41/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f666c7569642d6465762f737461746963406d61737465722f6865786f2d7468656d652d666c7569642f73637265656e73686f74732f696e6465782e706e67.png" alt="ScreenShot"></p></li><li><p><a href="https://github.com/blinkfox/hexo-theme-matery">matery</a>(blinkfox) 4.5K star</p><p><img src="/2022/f96c3c41/687474703a2f2f7374617469632e626c696e6b666f782e636f6d2f6d61746572792d32303138313230322d312e706e67.png" alt="首页"></p><p><img src="/2022/f96c3c41/687474703a2f2f7374617469632e626c696e6b666f782e636f6d2f6d61746572792d32303138313230322d332e706e67.png" alt="首页文章列表"></p></li><li><p><strong><a href="https://github.com/jerryc127/hexo-theme-butterfly">butterfly</a></strong> 4.3K star</p><p><img src="/2022/f96c3c41/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a65727279633132372f43444e406d322f696d672f7468656d652d627574746572666c792d726561646d652e706e67.png" alt="img"></p></li><li><p><a href="https://github.com/volantis-x/hexo-theme-volantis">volantis</a> 1.5k star</p><p><img src="/2022/f96c3c41/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30332f31382f663550516c576973766d397a62674b2e6a7067.jpeg" alt="img"></p><p><img src="/2022/f96c3c41/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30332f31382f585742476639354532743162646e6c2e6a7067.jpeg" alt="img"></p></li></ul><p>其中 <code>fluid</code> 和 <code>volantis</code> 最对我胃口, 最后选择的 <code>fluid</code>, 后期可能会改成<code>volantis</code>或者<code>icarus</code>试试看, 主要是喜欢简洁些, 又能有一定的观赏性的.</p><h2 id="Fluid"><a href="#Fluid" class="headerlink" title="Fluid"></a>Fluid</h2><p>参考文档</p><p><a href="https://hexo.fluid-dev.com/docs/guide/">https://hexo.fluid-dev.com/docs/guide/</a></p><p>theme 的 Github</p><p><a href="https://github.com/fluid-dev/hexo-theme-fluid">https://github.com/fluid-dev/hexo-theme-fluid</a></p><h3 id="自带的内置图标库"><a href="#自带的内置图标库" class="headerlink" title="自带的内置图标库"></a>自带的内置图标库</h3><p><a href="https://hexo.fluid-dev.com/docs/icon/#%E5%86%85%E7%BD%AE%E7%A4%BE%E4%BA%A4%E5%9B%BE%E6%A0%87">内置社交图标</a> </p><p><img src="/2022/f96c3c41/iconfont.f8319467.png" alt="内置图标"></p><h1 id="Hexo-Note"><a href="#Hexo-Note" class="headerlink" title="Hexo Note"></a>Hexo Note</h1><h2 id="Hexo-Permalink简化"><a href="#Hexo-Permalink简化" class="headerlink" title="Hexo Permalink简化"></a>Hexo Permalink简化</h2><p>参考:</p><p><a href="https://blog.csdn.net/Galahadzhou/article/details/105355733">Hexo Permalink简化</a></p><p>Note:</p><p>使用<code>hexo-abbrlink</code>插件实现</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># install</span><br>npm install hexo-abbrlink --save<br><span class="hljs-comment"># setting edit _config.yml</span><br>permalink: posts/:abbrlink.html<br>abbrlink:<br>  alg: crc32  <span class="hljs-comment"># 算法：crc16(default) and crc32</span><br>  rep: hex    <span class="hljs-comment"># 进制：dec(default) and hex</span><br><br></code></pre></td></tr></table></figure><h2 id="图片链接问题"><a href="#图片链接问题" class="headerlink" title="图片链接问题"></a>图片链接问题</h2><p><strong><code>hexo</code>本地图片显示问题</strong></p><p>使用<code>hexo</code>生成静态资源后,由于<code>url</code>的问题会出现图片加载的问题,现在网上的文章及官方的解决方案大概分为三种:</p><ol><li>将图片放入<code>source/images</code>目录下,每次<code>generate</code>都会生成图片,在使用相对或绝对路径进行引用</li><li>配置<code>hexo</code>的<code>_config.yml</code>文件, 将 <code>post_asset_folder</code> 设置为<code>true</code>, 这样每次new 生成一个文章时都会同步生成一个同名的文件夹,然后设置相对或绝对路径. </li><li>使用<code>hexo</code>官方的解决方案,使用模版变量, <code>&#123;% asset_img slug [title] %&#125; </code> </li><li>!new!. <code>hexo init</code>的时候会自动copy一个插件 <code>hexo-renderer-marked</code> 这个插件可以开启相对路径的支持,但是需要改一些代码</li></ol><p>但是在配置过程中发现这三种方式都多多少少存在一些问题,前两中首页跟内容页会有一个加载失败的问题,而第三种则失去了<code>markdown</code>的意义.</p><p><strong>方法四:</strong></p><p>官方手册上提到过, <a href="https://github.com/hexojs/hexo-renderer-marked">hexo-renderer-marked</a> 3.1.0已经开始支持相对路径了.但是可以看到它支持的路径似乎并不合理, 其他的md阅读器是不能识别这样的路径的.</p><p><img src="/2022/f96c3c41/image-20220815153651988.png" alt="image-20220815153651988"></p><p>参考: <a href="https://github.com/hexojs/hexo-renderer-marked/issues/216">https://github.com/hexojs/hexo-renderer-marked/issues/216</a></p><ol><li><p>修改<code>_config.yml</code></p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">post_asset_folder:</span> <span class="hljs-literal">true</span><br><span class="hljs-attr">marked:</span><br>  <span class="hljs-attr">prependRoot:</span> <span class="hljs-literal">true</span><br>  <span class="hljs-attr">postAsset:</span> <span class="hljs-literal">true</span><br></code></pre></td></tr></table></figure></li><li><p>修改文件<code>node_modules\hexo-renderer-marked\lib\renderer.js</code></p></li></ol><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs js"><span class="hljs-keyword">if</span> (!<span class="hljs-regexp">/^(#|\/\/|http(s)?:)/</span>.<span class="hljs-title function_">test</span>(href) &amp;&amp; !relative_link &amp;&amp; prependRoot) &#123;<br>  <span class="hljs-keyword">if</span> (!href.<span class="hljs-title function_">startsWith</span>(<span class="hljs-string">&#x27;/&#x27;</span>) &amp;&amp; !href.<span class="hljs-title function_">startsWith</span>(<span class="hljs-string">&#x27;\\&#x27;</span>) &amp;&amp; postPath) &#123;<br>    <span class="hljs-keyword">const</span> <span class="hljs-title class_">PostAsset</span> = hexo.<span class="hljs-title function_">model</span>(<span class="hljs-string">&#x27;PostAsset&#x27;</span>);<br>    <span class="hljs-comment">// findById requires forward slash</span><br>    <span class="hljs-comment">// ***************** Add the following code *******************</span><br>    <span class="hljs-keyword">const</span> fixPostPath = <span class="hljs-title function_">join</span>(postPath, <span class="hljs-string">&#x27;../&#x27;</span>);<br>    <span class="hljs-keyword">const</span> asset = <span class="hljs-title class_">PostAsset</span>.<span class="hljs-title function_">findById</span>(<span class="hljs-title function_">join</span>(fixPostPath, href.<span class="hljs-title function_">replace</span>(<span class="hljs-regexp">/\\/g</span>, <span class="hljs-string">&#x27;/&#x27;</span>)));<br>    <span class="hljs-comment">// const asset = PostAsset.findById(join(postPath, href.replace(/\\/g, &#x27;/&#x27;)));</span><br>    <span class="hljs-comment">// ************************** End *****************************</span><br>    <span class="hljs-comment">// asset.path is backward slash in Windows</span><br>    <span class="hljs-keyword">if</span> (asset) href = asset.<span class="hljs-property">path</span>.<span class="hljs-title function_">replace</span>(<span class="hljs-regexp">/\\/g</span>, <span class="hljs-string">&#x27;/&#x27;</span>);<br>  &#125;<br>  href = url_for.<span class="hljs-title function_">call</span>(hexo, href);<br>&#125;<br></code></pre></td></tr></table></figure><ol start="3"><li>enjoy it</li></ol><p><strong>方法二:</strong></p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs js"># 设置<br><span class="hljs-attr">post_asset_folder</span>:<span class="hljs-literal">true</span><br># 安装插件 asset-image<br>npm install <span class="hljs-attr">https</span>:<span class="hljs-comment">//github.com/CodeFalling/hexo-asset-image  --save</span><br># typora中设置图片为相对路径 看下图<br>./$&#123;filename&#125;<br># 运行查看<br>hexo clean &amp;&amp; hexo generate &amp;&amp; hexo s <br></code></pre></td></tr></table></figure><p><img src="/2022/f96c3c41/image-20220815133503275.png" alt="image-20220815133503275"></p><h3 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h3><blockquote><p>   Env:使用方法四</p><ul><li>文件名不能带有空格, title 可以带空格 (<code>hexo new</code>的时候需要注意这一点)<ul><li>修改 <code>node_modules\hexo-renderer-marked\lib\renderer.js</code>文件可能可以改善这点. -&gt; TBD</li></ul></li><li>md文件名要和图片等等资源文件夹同名 -&gt; 注定了不能使用 <code>./$&#123;filename&#125;.assets</code>这种方案, 一定要改成<code>./$&#123;filename&#125;</code>才行</li></ul></blockquote><h2 id="Hexo跳过一些文件-不渲染某些文件"><a href="#Hexo跳过一些文件-不渲染某些文件" class="headerlink" title="Hexo跳过一些文件,不渲染某些文件"></a>Hexo跳过一些文件,不渲染某些文件</h2><p>搜索引擎确认网站所有权时往往会提供一个html文件来进行验证，要是这个文件被渲染了，验证自然就会失败了。或者，有时候会写一些简单的html示例页面或<code>README.md</code>，这也是不希望Hexo渲染的。因此有必要针对某个文件或者目录进行排除。</p><p>Hexo博客的基本内容是一些Markdown文件，放在<code>source/_post</code>文件夹下，每个文件对应一篇文章。除此之外，放在<code>source</code>文件夹下的所有开头不是下划线的文件，在<code>hexo generate</code>的时候，都会被拷贝到<code>public</code>文件夹下。但是，Hexo默认会渲染所有的HTML和Markdown文件，导致我的README.md直接转成html格式了。。。</p><p>怎么样避开这个坑呢？如果只有一个HTML文件的话，可以简单地在文件开头加上<code>layout: false</code>一行即可：</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">layout:</span> <span class="hljs-literal">false</span><br><span class="hljs-meta">---</span><br><span class="hljs-meta"></span><br><span class="hljs-string">&lt;html&gt;</span><br><span class="hljs-string">...</span><br></code></pre></td></tr></table></figure><p>如果有多个要避开渲染的md文件，显然是不可能使用这种方法的。这时候需要使用<code>skip_render</code>配置。根据<a href="https://hexo.io/zh-cn/docs/configuration.html">Hexo文档</a>中的说明，通过在<code>_config.yml</code>配置文件中使用<code>skip_render</code>参数，可以跳过指定文件的渲染。使用方式如下：</p><figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs awk">skip_render: [games<span class="hljs-regexp">/**, depview/</span>**, knowledge/**]<br></code></pre></td></tr></table></figure><p>这里的路径匹配可以使用正则表达式。</p><p><strong>注意：<code>skip_render</code>参数设置的路径是相对于<code>source</code>目录的路径。</strong>例如，需要跳过渲染source&#x2F;README.md，只需要设置 <code>skip_render:README.md</code>。</p><p>在设置了跳过渲染之后，最好使用<code>hexo clean</code>清除以前的编译结果，保证配置生效。</p><h2 id="开启RSS订阅"><a href="#开启RSS订阅" class="headerlink" title="开启RSS订阅"></a>开启RSS订阅</h2><p>基于<code>hexo-generator-feed</code></p><p>先安装这个包:</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install hexo-generator-feed<br></code></pre></td></tr></table></figure><p>然后在在<code>_config.yml</code>文件中配置该插件</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">feed:</span><br>    <span class="hljs-attr">type:</span> <span class="hljs-string">atom</span><br>    <span class="hljs-attr">path:</span> <span class="hljs-string">atom.xml</span><br>    <span class="hljs-attr">limit:</span> <span class="hljs-number">20</span><br>    <span class="hljs-attr">hub:</span><br>    <span class="hljs-attr">content:</span><br>    <span class="hljs-attr">content_limit:</span><br>    <span class="hljs-attr">content_limit_delim:</span> <span class="hljs-string">&#x27; &#x27;</span><br>    <span class="hljs-attr">order_by:</span> <span class="hljs-string">-date</span><br>    <span class="hljs-attr">icon:</span> <span class="hljs-string">/images/favicon.png</span><br></code></pre></td></tr></table></figure><blockquote><p>  参数的含义：</p><ul><li><code>type</code>: <code>RSS</code>的类型(<code>atom/rss2</code>)</li><li><code>path</code>: 文件路径,默认是<code>atom.xml/rss2.xml</code></li><li><code>limit</code>: 展示文章的数量,使用<strong>0</strong>或则<strong>false</strong>代表展示全部</li><li><code>hub</code>:</li><li><code>content</code>: 在<code>RSS</code>文件中是否包含内容 ,有3个值 <code>true/false</code>默认不填为<code>false</code></li><li><code>content_limit</code>: 指定内容的长度作为摘要,仅仅在上面<code>content</code>设置为<code>false</code>和<code>没有自定义的描述出现</code></li><li><code>content_limit_delim</code>: 上面截取描述的分隔符,截取内容是以指定的这个分隔符作为截取结束的标志.在达到规定的内容长度之前最后出现的这个分隔符之前的内容,，防止从中间截断.</li><li><code>order_by</code>: 顺序排列方式</li><li><code>icon</code>: 图标路径</li></ul></blockquote><p>配置好之后运行<code>hexo clean &amp; hexo g</code>就可以找到你博客的<code>pubilc</code> 文件夹下发现<code>atom.xml</code>文件了</p><p>我们可以在<code>关于(about)</code>页面添加RSS源, 有些主题可以在头像下面自动开启, 这些都是后话了.</p><p>配置RSS的时候发现还有一些其他的推送方式, 比如邮件推送, 浏览器通知推送等等.</p><h3 id="RSS阅读器"><a href="#RSS阅读器" class="headerlink" title="RSS阅读器"></a>RSS阅读器</h3><p><a href="https://feedly.com/">Feedly.com</a> 这个比较满意, 文章显示和界面都不错</p><p><a href="https://www.inoreader.com/">inoreader</a>: 订阅的文章展示效果也还不错(卡片形式).</p><p><a href="https://theoldreader.com/">the old reader</a>: 这个是比较老牌的RSS阅读器了</p><p>参考链接:</p><p><a href="https://segmentfault.com/a/1190000012647294">为hexo博客添加RSS订阅功能</a></p><p><a href="https://sean10.github.io/2020/06/27/hexo%E5%BC%80%E5%90%AFatom%E8%AE%A2%E9%98%85/">hexo开启atom订阅</a></p><h1 id="Comment-评论系统"><a href="#Comment-评论系统" class="headerlink" title="Comment 评论系统"></a>Comment 评论系统</h1><h2 id="cusdis-系统"><a href="#cusdis-系统" class="headerlink" title="cusdis 系统"></a>cusdis 系统</h2><p>功能较少,看起来非常轻量, 也可以私有部署,正打算私有部署的时候看到了<code>twikoo</code>所以就转入<code>twikoo</code>了,因为cusdis现阶段功能确实有些少.</p><h2 id="twikoo-系统"><a href="#twikoo-系统" class="headerlink" title="twikoo 系统"></a>twikoo 系统</h2><p><a href="https://twikoo.js.org/">https://twikoo.js.org/</a></p><p>私有docker部署部署半天还是不成功, 看起来像是需要HTTPS才行.</p><p>功能挺丰富的,<del>就是半天没部署成功</del></p><figure class="highlight autohotkey"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs autohotkey">部署后没有启用HTTPS<br>fluid 配置里面又启动了强行使用hTTPS, <br><span class="hljs-built_in">F12,</span>看consel发现,ERR_SSL_PROTOCOL_ERROR,被重定向到了HTTPS去了<br></code></pre></td></tr></table></figure><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs css">头像风格类型<br><span class="hljs-number">404</span>：如果没有任何图像与电子邮件哈希无关，则不加载任何图像，而是返回HTTP <span class="hljs-number">404</span>（找不到文件）响应<br>mp：（神秘人物）一个人的简单卡通风格的轮廓（不随电子邮件哈希值而变化）<br>identicon：基于电子邮件哈希的几何图案<br>monsterid：生成的具有不同颜色，面孔等的“怪物”<br>wavatar：生成的具有不同特征和背景的面孔<br>retro：生成的令人敬畏的<span class="hljs-number">8</span>位街机风格像素化面孔<br>robohash：具有不同颜色，面部等的生成的机器人<br>blank：透明的PNG图像（以下为演示目的添加到<span class="hljs-selector-tag">HTML</span>的边框）<br></code></pre></td></tr></table></figure><ul><li><p>Twikoo我是用的docker,nginx和ssl配置可以参考<a href="https://hub.docker.com/r/imaegoo/twikoo">DockerHub</a>, https的端口是可以更改的, 默认的443占用了换成别的就好.</p></li><li><p>twikoo的即时推送尝试了几个譬如 Qmsq, server酱等等发现又一系列的问题 都不尽如人意  最后选择的是最简单的邮件通知.</p></li></ul><h2 id="remark42"><a href="#remark42" class="headerlink" title="remark42"></a>remark42</h2><h1 id="部署平台-托管平台"><a href="#部署平台-托管平台" class="headerlink" title="部署平台(托管平台)"></a>部署平台(托管平台)</h1><p><a href="https://i.vince.pub/p/hexo-static/">常见静态网站托管平台使用及多节点部署方案</a></p><p><img src="/2022/f96c3c41/2fc062cb2.svg" alt="节点"></p><p>现阶段比较好的方案是<code>coding</code>和<code>github+netlify</code>.</p><h1 id="一些资源"><a href="#一些资源" class="headerlink" title="一些资源"></a>一些资源</h1><p><strong>字体族（<code>font-family</code>）</strong></p><blockquote><p>   <a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-family">https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-family</a></p></blockquote><p><strong>调色板灵感</strong></p><blockquote><p>   <a href="https://www.webdesignrankings.com/resources/lolcolors/">https://www.webdesignrankings.com/resources/lolcolors/</a></p></blockquote><p><strong>ISO-8601 日期</strong></p><blockquote><p>  <a href="http://momentjs.cn/docs/#/parsing/string-format/">http://momentjs.cn/docs/#/parsing/string-format/</a></p></blockquote><p><strong>代码高亮风格</strong></p><blockquote><p>  highlightjs:  <a href="https://highlightjs.org/static/demo/">https://highlightjs.org/static/demo/</a></p><p>  prismjs:  <a href="https://prismjs.com/">https://prismjs.com/</a></p></blockquote><h1 id="一些知识"><a href="#一些知识" class="headerlink" title="一些知识"></a>一些知识</h1><p><a href="https://www.wur.nl/en/article/What-are-Creative-Commons-licenses.htm">What are Creative Commons licenses?</a></p><p><img src="/2022/f96c3c41/licences_3bf0e9af_670x502.jpg" alt="知识共享许可.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="静态网页"><a href="#静态网页" class="headerlink" title="静态网页"></a>静态网页</h1><h1 id="静态网页生成器"><a href="#静态网页生成器" class="headerlink" title="静态网页生成器"></a>静态网页生成器</h1><p><a href="https://jekyllrb.com/">Jekyll</a>（由 Github 构建的用于为其 Github 页面提供支持的 Ruby 生成器）、</p><p><a href="https://gohugo.io/">Hugo</a>（构建在 Go 编程之上的极快静态生成器）语言）和</p><p><a href="https://hexo.io/">Hexo</a>（基于 Node.js 的快速网站生成器）。</p><p><strong>参考</strong></p><p><a href="https://www.techiediaries.com/jekyll-hugo-hexo/">How to Choose the Right Static Generator: Jekyll vs. Hugo vs. Hexo</a></p><p><a href="https://stackshare.io/stackups/hexo-vs-hugo-vs-jekyll">StackShare</a></p><h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><p>TBD</p><h2 id="Jekyll"><a href="#Jekyll" class="headerlink" title="Jekyll"></a>Jekyll</h2><p>TBD</p><h2 id="Hugo"><a href="#Hugo" class="headerlink" title="Hugo"></a>Hugo</h2><p>TBD</p><h1 id="Hexo-1"><a href="#Hexo-1" class="headerlink" title="Hexo"></a>Hexo</h1><h2 id="Hexo-部署"><a href="#Hexo-部署" class="headerlink" title="Hexo 部署"></a>Hexo 部署</h2><p><a href="https://hexo.io/zh-cn/docs/">HEXO文档_参考链接</a></p><p><strong>要求:</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">Node.js (Node.js 版本需不低于 10.13，建议使用 Node.js 12.0 及以上版本)<br>Git<br></code></pre></td></tr></table></figure><p><strong>部署:</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install hexo-cli -g<br>hexo init blog<br><span class="hljs-built_in">cd</span> blog<br>npm install<br>hexo server<br></code></pre></td></tr></table></figure><h2 id="Hexo-CMD"><a href="#Hexo-CMD" class="headerlink" title="Hexo CMD"></a>Hexo CMD</h2><h3 id="Init-初始化"><a href="#Init-初始化" class="headerlink" title="Init 初始化"></a>Init 初始化</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo init [folder]<br></code></pre></td></tr></table></figure><p>新建一个网站。如果没有设置 <code>folder</code> ，Hexo 默认在目前的文件夹建立网站。</p><h3 id="new-新建"><a href="#new-新建" class="headerlink" title="new 新建"></a>new 新建</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo new [layout] &lt;title&gt;<br>hexo new <span class="hljs-string">&quot;post title with whitespace&quot;</span><br>hexo new page --path about/me <span class="hljs-string">&quot;About me&quot;</span><br>hexo new page -p     about/me <span class="hljs-string">&quot;About me&quot;</span><br></code></pre></td></tr></table></figure><table><thead><tr><th align="left">参数</th><th align="left">描述</th></tr></thead><tbody><tr><td align="left"><code>-p</code>, <code>--path</code></td><td align="left">自定义新文章的路径</td></tr><tr><td align="left"><code>-r</code>, <code>--replace</code></td><td align="left">如果存在同名文章，将其替换</td></tr><tr><td align="left"><code>-s</code>, <code>--slug</code></td><td align="left">文章的 Slug，作为新文章的文件名和发布后的 URL</td></tr></tbody></table><h3 id="generate-生成"><a href="#generate-生成" class="headerlink" title="generate 生成"></a>generate 生成</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 生成静态文件。</span><br>hexo generate<br><span class="hljs-comment"># 该命令可以简写为</span><br>hexo g<br></code></pre></td></tr></table></figure><table><thead><tr><th align="left">选项</th><th></th><th align="left">描述</th></tr></thead><tbody><tr><td align="left">-d</td><td>–deploy</td><td align="left"><strong>文件生成后立即部署网站</strong></td></tr><tr><td align="left">-w</td><td>–watch</td><td align="left"><strong>监视文件变动</strong></td></tr><tr><td align="left">-b</td><td>–bail</td><td align="left">生成过程中如果发生任何未处理的异常则抛出异常</td></tr><tr><td align="left">-f</td><td>–force</td><td align="left">强制重新生成文件 Hexo 引入了差分机制，<br>如果 <code>public</code> 目录存在，那么 <code>hexo g</code> 只会重新生成改动的文件。<br/>使用该参数的效果接近 <code>hexo clean &amp;&amp; hexo generate</code></td></tr><tr><td align="left">-c</td><td>–concurrency</td><td align="left">最大同时生成文件的数量，默认无限制</td></tr></tbody></table><h3 id="publish-草稿"><a href="#publish-草稿" class="headerlink" title="publish 草稿"></a>publish 草稿</h3><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs xml">hexo publish [layout] <span class="hljs-tag">&lt;<span class="hljs-name">filename</span>&gt;</span><br></code></pre></td></tr></table></figure><p>发表草稿。</p><h3 id="server-服务器"><a href="#server-服务器" class="headerlink" title="server 服务器"></a>server 服务器</h3><p>在服务器启动期间，Hexo 会监视文件变动并自动更新，您无须重启服务器。</p><figure class="highlight axapta"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs axapta">hexo <span class="hljs-keyword">server</span><br>hexo s<br></code></pre></td></tr></table></figure><p>启动服务器。默认情况下，访问网址为： <code>http://localhost:4000/</code>。</p><table><thead><tr><th align="left">选项</th><th align="left">描述</th></tr></thead><tbody><tr><td align="left"><code>-p</code>, <code>--port</code></td><td align="left">重设端口</td></tr><tr><td align="left"><code>-s</code>, <code>--static</code></td><td align="left">只使用静态文件(不会更新)</td></tr><tr><td align="left"><code>-l</code>, <code>--log</code></td><td align="left">启动日记记录，使用覆盖记录格式</td></tr><tr><td align="left"><code>-i</code></td><td align="left"><code>hexo server -i 192.168.1.1</code> 指定监听的IP</td></tr></tbody></table><h3 id="deploy-部署"><a href="#deploy-部署" class="headerlink" title="deploy 部署"></a>deploy 部署</h3><figure class="highlight jboss-cli"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs jboss-cli"><span class="hljs-comment"># 部署网站。</span><br>hexo <span class="hljs-keyword">deploy</span><br><span class="hljs-comment"># 该命令可以简写为：</span><br>hexo d<br></code></pre></td></tr></table></figure><table><thead><tr><th align="left">参数</th><th align="left">描述</th></tr></thead><tbody><tr><td align="left"><code>-g</code>, <code>--generate</code></td><td align="left">部署之前预先生成静态文件</td></tr></tbody></table><h3 id="render"><a href="#render" class="headerlink" title="render"></a>render</h3><figure class="highlight prolog"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs prolog">hexo render &lt;file1&gt; [file2] ...<br></code></pre></td></tr></table></figure><p>渲染文件。</p><table><thead><tr><th align="left">参数</th><th align="left">描述</th></tr></thead><tbody><tr><td align="left"><code>-o</code>, <code>--output</code></td><td align="left">设置输出路径</td></tr></tbody></table><h3 id="migrate"><a href="#migrate" class="headerlink" title="migrate"></a>migrate</h3><figure class="highlight elm"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs elm"><span class="hljs-title">hexo</span> migrate &lt;<span class="hljs-keyword">type</span>&gt;<br></code></pre></td></tr></table></figure><p>从其他博客系统 <a href="https://hexo.io/zh-cn/docs/migration">迁移内容</a>。</p><h3 id="clean-清理"><a href="#clean-清理" class="headerlink" title="clean 清理"></a>clean 清理</h3><figure class="highlight crystal"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs crystal"><span class="hljs-variable">$ </span>hexo clean<br></code></pre></td></tr></table></figure><p>清除缓存文件 (<code>db.json</code>) 和已生成的静态文件 (<code>public</code>)。</p><p>在某些情况（尤其是更换主题后），如果发现您对站点的更改无论如何也不生效，您可能需要运行该命令。</p><h3 id="list"><a href="#list" class="headerlink" title="list"></a>list</h3><figure class="highlight crystal"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs crystal"><span class="hljs-variable">$ </span>hexo list &lt;<span class="hljs-keyword">type</span>&gt;<br></code></pre></td></tr></table></figure><p>列出网站资料。</p><h1 id="Hexo-Theme"><a href="#Hexo-Theme" class="headerlink" title="Hexo Theme"></a>Hexo Theme</h1><p>我是直接在github搜索 <code>hexo theme</code>看到了几个 star 比较多而且比较活跃的 repository </p><ul><li><p><strong><a href="https://github.com/ppoffice/hexo-theme-icarus">icarus</a></strong> 5.5K star</p><p><img src="/2022/f96c3c41/68747470733a2f2f70706f66666963652e6769746875622e696f2f6865786f2d7468656d652d6963617275732f67616c6c6572792f707265766965772e706e673f31.png" alt="img"></p></li><li><p><strong><a href="https://github.com/fluid-dev/hexo-theme-fluid">fluid</a></strong> 4.8K star</p><p><img src="/2022/f96c3c41/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f666c7569642d6465762f737461746963406d61737465722f6865786f2d7468656d652d666c7569642f73637265656e73686f74732f696e6465782e706e67.png" alt="ScreenShot"></p></li><li><p><a href="https://github.com/blinkfox/hexo-theme-matery">matery</a>(blinkfox) 4.5K star</p><p><img src="/2022/f96c3c41/687474703a2f2f7374617469632e626c696e6b666f782e636f6d2f6d61746572792d32303138313230322d312e706e67.png" alt="首页"></p><p><img src="/2022/f96c3c41/687474703a2f2f7374617469632e626c696e6b666f782e636f6d2f6d61746572792d32303138313230322d332e706e67.png" alt="首页文章列表"></p></li><li><p><strong><a href="https://github.com/jerryc127/hexo-theme-butterfly">butterfly</a></strong> 4.3K star</p><p><img src="/2022/f96c3c41/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a65727279633132372f43444e406d322f696d672f7468656d652d627574746572666c792d726561646d652e706e67.png" alt="img"></p></li><li><p><a href="https://github.com/volantis-x/hexo-theme-volantis">volantis</a> 1.5k star</p><p><img src="/2022/f96c3c41/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30332f31382f663550516c576973766d397a62674b2e6a7067.jpeg" alt="img"></p><p><img src="/2022/f96c3c41/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30332f31382f585742476639354532743162646e6c2e6a7067.jpeg" alt="img"></p></li></ul><p>其中 <code>fluid</code> 和 <code>volantis</code> 最对我胃口, 最后选择的 <code>fluid</code>, 后期可能会改成<code>volantis</code>或者<code>icarus</code>试试看, 主要是喜欢简洁些, 又能有一定的观赏性的.</p><h2 id="Fluid"><a href="#Fluid" class="headerlink" title="Fluid"></a>Fluid</h2><p>参考文档</p><p><a href="https://hexo.fluid-dev.com/docs/guide/">https://hexo.fluid-dev.com/docs/guide/</a></p><p>theme 的 Github</p><p><a href="https://github.com/fluid-dev/hexo-theme-fluid">https://github.com/fluid-dev/hexo-theme-fluid</a></p><h3 id="自带的内置图标库"><a href="#自带的内置图标库" class="headerlink" title="自带的内置图标库"></a>自带的内置图标库</h3><p><a href="https://hexo.fluid-dev.com/docs/icon/#%E5%86%85%E7%BD%AE%E7%A4%BE%E4%BA%A4%E5%9B%BE%E6%A0%87">内置社交图标</a> </p><p><img src="/2022/f96c3c41/iconfont.f8319467.png" alt="内置图标"></p><h1 id="Hexo-Note"><a href="#Hexo-Note" class="headerlink" title="Hexo Note"></a>Hexo Note</h1><h2 id="Hexo-Permalink简化"><a href="#Hexo-Permalink简化" class="headerlink" title="Hexo Permalink简化"></a>Hexo Permalink简化</h2><p>参考:</p><p><a href="https://blog.csdn.net/Galahadzhou/article/details/105355733">Hexo Permalink简化</a></p><p>Note:</p><p>使用<code>hexo-abbrlink</code>插件实现</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># install</span><br>npm install hexo-abbrlink --save<br><span class="hljs-comment"># setting edit _config.yml</span><br>permalink: posts/:abbrlink.html<br>abbrlink:<br>  alg: crc32  <span class="hljs-comment"># 算法：crc16(default) and crc32</span><br>  rep: hex    <span class="hljs-comment"># 进制：dec(default) and hex</span><br><br></code></pre></td></tr></table></figure><h2 id="图片链接问题"><a href="#图片链接问题" class="headerlink" title="图片链接问题"></a>图片链接问题</h2><p><strong><code>hexo</code>本地图片显示问题</strong></p><p>使用<code>hexo</code>生成静态资源后,由于<code>url</code>的问题会出现图片加载的问题,现在网上的文章及官方的解决方案大概分为三种:</p><ol><li>将图片放入<code>source/images</code>目录下,每次<code>generate</code>都会生成图片,在使用相对或绝对路径进行引用</li><li>配置<code>hexo</code>的<code>_config.yml</code>文件, 将 <code>post_asset_folder</code> 设置为<code>true</code>, 这样每次new 生成一个文章时都会同步生成一个同名的文件夹,然后设置相对或绝对路径. </li><li>使用<code>hexo</code>官方的解决方案,使用模版变量, <code>&#123;% asset_img slug [title] %&#125; </code> </li><li>!new!. <code>hexo init</code>的时候会自动copy一个插件 <code>hexo-renderer-marked</code> 这个插件可以开启相对路径的支持,但是需要改一些代码</li></ol><p>但是在配置过程中发现这三种方式都多多少少存在一些问题,前两中首页跟内容页会有一个加载失败的问题,而第三种则失去了<code>markdown</code>的意义.</p><p><strong>方法四:</strong></p><p>官方手册上提到过, <a href="https://github.com/hexojs/hexo-renderer-marked">hexo-renderer-marked</a> 3.1.0已经开始支持相对路径了.但是可以看到它支持的路径似乎并不合理, 其他的md阅读器是不能识别这样的路径的.</p><p><img src="/2022/f96c3c41/image-20220815153651988.png" alt="image-20220815153651988"></p><p>参考: <a href="https://github.com/hexojs/hexo-renderer-marked/issues/216">https://github.com/hexojs/hexo-renderer-marked/issues/216</a></p><ol><li><p>修改<code>_config.yml</code></p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">post_asset_folder:</span> <span class="hljs-literal">true</span><br><span class="hljs-attr">marked:</span><br>  <span class="hljs-attr">prependRoot:</span> <span class="hljs-literal">true</span><br>  <span class="hljs-attr">postAsset:</span> <span class="hljs-literal">true</span><br></code></pre></td></tr></table></figure></li><li><p>修改文件<code>node_modules\hexo-renderer-marked\lib\renderer.js</code></p></li></ol><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs js"><span class="hljs-keyword">if</span> (!<span class="hljs-regexp">/^(#|\/\/|http(s)?:)/</span>.<span class="hljs-title function_">test</span>(href) &amp;&amp; !relative_link &amp;&amp; prependRoot) &#123;<br>  <span class="hljs-keyword">if</span> (!href.<span class="hljs-title function_">startsWith</span>(<span class="hljs-string">&#x27;/&#x27;</span>) &amp;&amp; !href.<span class="hljs-title function_">startsWith</span>(<span class="hljs-string">&#x27;\\&#x27;</span>) &amp;&amp; postPath) &#123;<br>    <span class="hljs-keyword">const</span> <span class="hljs-title class_">PostAsset</span> = hexo.<span class="hljs-title function_">model</span>(<span class="hljs-string">&#x27;PostAsset&#x27;</span>);<br>    <span class="hljs-comment">// findById requires forward slash</span><br>    <span class="hljs-comment">// ***************** Add the following code *******************</span><br>    <span class="hljs-keyword">const</span> fixPostPath = <span class="hljs-title function_">join</span>(postPath, <span class="hljs-string">&#x27;../&#x27;</span>);<br>    <span class="hljs-keyword">const</span> asset = <span class="hljs-title class_">PostAsset</span>.<span class="hljs-title function_">findById</span>(<span class="hljs-title function_">join</span>(fixPostPath, href.<span class="hljs-title function_">replace</span>(<span class="hljs-regexp">/\\/g</span>, <span class="hljs-string">&#x27;/&#x27;</span>)));<br>    <span class="hljs-comment">// const asset = PostAsset.findById(join(postPath, href.replace(/\\/g, &#x27;/&#x27;)));</span><br>    <span class="hljs-comment">// ************************** End *****************************</span><br>    <span class="hljs-comment">// asset.path is backward slash in Windows</span><br>    <span class="hljs-keyword">if</span> (asset) href = asset.<span class="hljs-property">path</span>.<span class="hljs-title function_">replace</span>(<span class="hljs-regexp">/\\/g</span>, <span class="hljs-string">&#x27;/&#x27;</span>);<br>  &#125;<br>  href = url_for.<span class="hljs-title function_">call</span>(hexo, href);<br>&#125;<br></code></pre></td></tr></table></figure><ol start="3"><li>enjoy it</li></ol><p><strong>方法二:</strong></p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs js"># 设置<br><span class="hljs-attr">post_asset_folder</span>:<span class="hljs-literal">true</span><br># 安装插件 asset-image<br>npm install <span class="hljs-attr">https</span>:<span class="hljs-comment">//github.com/CodeFalling/hexo-asset-image  --save</span><br># typora中设置图片为相对路径 看下图<br>./$&#123;filename&#125;<br># 运行查看<br>hexo clean &amp;&amp; hexo generate &amp;&amp; hexo s <br></code></pre></td></tr></table></figure><p><img src="/2022/f96c3c41/image-20220815133503275.png" alt="image-20220815133503275"></p><h3 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h3><blockquote><p>   Env:使用方法四</p><ul><li>文件名不能带有空格, title 可以带空格 (<code>hexo new</code>的时候需要注意这一点)<ul><li>修改 <code>node_modules\hexo-renderer-marked\lib\renderer.js</code>文件可能可以改善这点. -&gt; TBD</li></ul></li><li>md文件名要和图片等等资源文件夹同名 -&gt; 注定了不能使用 <code>./$&#123;filename&#125;.assets</code>这种方案, 一定要改成<code>./$&#123;filename&#125;</code>才行</li></ul></blockquote><h2 id="Hexo跳过一些文件-不渲染某些文件"><a href="#Hexo跳过一些文件-不渲染某些文件" class="headerlink" title="Hexo跳过一些文件,不渲染某些文件"></a>Hexo跳过一些文件,不渲染某些文件</h2><p>搜索引擎确认网站所有权时往往会提供一个html文件来进行验证，要是这个文件被渲染了，验证自然就会失败了。或者，有时候会写一些简单的html示例页面或<code>README.md</code>，这也是不希望Hexo渲染的。因此有必要针对某个文件或者目录进行排除。</p><p>Hexo博客的基本内容是一些Markdown文件，放在<code>source/_post</code>文件夹下，每个文件对应一篇文章。除此之外，放在<code>source</code>文件夹下的所有开头不是下划线的文件，在<code>hexo generate</code>的时候，都会被拷贝到<code>public</code>文件夹下。但是，Hexo默认会渲染所有的HTML和Markdown文件，导致我的README.md直接转成html格式了。。。</p><p>怎么样避开这个坑呢？如果只有一个HTML文件的话，可以简单地在文件开头加上<code>layout: false</code>一行即可：</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">layout:</span> <span class="hljs-literal">false</span><br><span class="hljs-meta">---</span><br><span class="hljs-meta"></span><br><span class="hljs-string">&lt;html&gt;</span><br><span class="hljs-string">...</span><br></code></pre></td></tr></table></figure><p>如果有多个要避开渲染的md文件，显然是不可能使用这种方法的。这时候需要使用<code>skip_render</code>配置。根据<a href="https://hexo.io/zh-cn/docs/configuration.html">Hexo文档</a>中的说明，通过在<code>_config.yml</code>配置文件中使用<code>skip_render</code>参数，可以跳过指定文件的渲染。使用方式如下：</p><figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs awk">skip_render: [games<span class="hljs-regexp">/**, depview/</span>**, knowledge/**]<br></code></pre></td></tr></table></figure><p>这里的路径匹配可以使用正则表达式。</p><p><strong>注意：<code>skip_render</code>参数设置的路径是相对于<code>source</code>目录的路径。</strong>例如，需要跳过渲染source&#x2F;README.md，只需要设置 <code>skip_render:README.md</code>。</p><p>在设置了跳过渲染之后，最好使用<code>hexo clean</code>清除以前的编译结果，保证配置生效。</p><h2 id="开启RSS订阅"><a href="#开启RSS订阅" class="headerlink" title="开启RSS订阅"></a>开启RSS订阅</h2><p>基于<code>hexo-generator-feed</code></p><p>先安装这个包:</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install hexo-generator-feed<br></code></pre></td></tr></table></figure><p>然后在在<code>_config.yml</code>文件中配置该插件</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">feed:</span><br>    <span class="hljs-attr">type:</span> <span class="hljs-string">atom</span><br>    <span class="hljs-attr">path:</span> <span class="hljs-string">atom.xml</span><br>    <span class="hljs-attr">limit:</span> <span class="hljs-number">20</span><br>    <span class="hljs-attr">hub:</span><br>    <span class="hljs-attr">content:</span><br>    <span class="hljs-attr">content_limit:</span><br>    <span class="hljs-attr">content_limit_delim:</span> <span class="hljs-string">&#x27; &#x27;</span><br>    <span class="hljs-attr">order_by:</span> <span class="hljs-string">-date</span><br>    <span class="hljs-attr">icon:</span> <span class="hljs-string">/images/favicon.png</span><br></code></pre></td></tr></table></figure><blockquote><p>  参数的含义：</p><ul><li><code>type</code>: <code>RSS</code>的类型(<code>atom/rss2</code>)</li><li><code>path</code>: 文件路径,默认是<code>atom.xml/rss2.xml</code></li><li><code>limit</code>: 展示文章的数量,使用<strong>0</strong>或则<strong>false</strong>代表展示全部</li><li><code>hub</code>:</li><li><code>content</code>: 在<code>RSS</code>文件中是否包含内容 ,有3个值 <code>true/false</code>默认不填为<code>false</code></li><li><code>content_limit</code>: 指定内容的长度作为摘要,仅仅在上面<code>content</code>设置为<code>false</code>和<code>没有自定义的描述出现</code></li><li><code>content_limit_delim</code>: 上面截取描述的分隔符,截取内容是以指定的这个分隔符作为截取结束的标志.在达到规定的内容长度之前最后出现的这个分隔符之前的内容,，防止从中间截断.</li><li><code>order_by</code>: 顺序排列方式</li><li><code>icon</code>: 图标路径</li></ul></blockquote><p>配置好之后运行<code>hexo clean &amp; hexo g</code>就可以找到你博客的<code>pubilc</code> 文件夹下发现<code>atom.xml</code>文件了</p><p>我们可以在<code>关于(about)</code>页面添加RSS源, 有些主题可以在头像下面自动开启, 这些都是后话了.</p><p>配置RSS的时候发现还有一些其他的推送方式, 比如邮件推送, 浏览器通知推送等等.</p><h3 id="RSS阅读器"><a href="#RSS阅读器" class="headerlink" title="RSS阅读器"></a>RSS阅读器</h3><p><a href="https://feedly.com/">Feedly.com</a> 这个比较满意, 文章显示和界面都不错</p><p><a href="https://www.inoreader.com/">inoreader</a>: 订阅的文章展示效果也还不错(卡片形式).</p><p><a href="https://theoldreader.com/">the old reader</a>: 这个是比较老牌的RSS阅读器了</p><p>参考链接:</p><p><a href="https://segmentfault.com/a/1190000012647294">为hexo博客添加RSS订阅功能</a></p><p><a href="https://sean10.github.io/2020/06/27/hexo%E5%BC%80%E5%90%AFatom%E8%AE%A2%E9%98%85/">hexo开启atom订阅</a></p><h1 id="Comment-评论系统"><a href="#Comment-评论系统" class="headerlink" title="Comment 评论系统"></a>Comment 评论系统</h1><h2 id="cusdis-系统"><a href="#cusdis-系统" class="headerlink" title="cusdis 系统"></a>cusdis 系统</h2><p>功能较少,看起来非常轻量, 也可以私有部署,正打算私有部署的时候看到了<code>twikoo</code>所以就转入<code>twikoo</code>了,因为cusdis现阶段功能确实有些少.</p><h2 id="twikoo-系统"><a href="#twikoo-系统" class="headerlink" title="twikoo 系统"></a>twikoo 系统</h2><p><a href="https://twikoo.js.org/">https://twikoo.js.org/</a></p><p>私有docker部署部署半天还是不成功, 看起来像是需要HTTPS才行.</p><p>功能挺丰富的,<del>就是半天没部署成功</del></p><figure class="highlight autohotkey"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs autohotkey">部署后没有启用HTTPS<br>fluid 配置里面又启动了强行使用hTTPS, <br><span class="hljs-built_in">F12,</span>看consel发现,ERR_SSL_PROTOCOL_ERROR,被重定向到了HTTPS去了<br></code></pre></td></tr></table></figure><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs css">头像风格类型<br><span class="hljs-number">404</span>：如果没有任何图像与电子邮件哈希无关，则不加载任何图像，而是返回HTTP <span class="hljs-number">404</span>（找不到文件）响应<br>mp：（神秘人物）一个人的简单卡通风格的轮廓（不随电子邮件哈希值而变化）<br>identicon：基于电子邮件哈希的几何图案<br>monsterid：生成的具有不同颜色，面孔等的“怪物”<br>wavatar：生成的具有不同特征和背景的面孔<br>retro：生成的令人敬畏的<span class="hljs-number">8</span>位街机风格像素化面孔<br>robohash：具有不同颜色，面部等的生成的机器人<br>blank：透明的PNG图像（以下为演示目的添加到<span class="hljs-selector-tag">HTML</span>的边框）<br></code></pre></td></tr></table></figure><ul><li><p>Twikoo我是用的docker,nginx和ssl配置可以参考<a href="https://hub.docker.com/r/imaegoo/twikoo">DockerHub</a>, https的端口是可以更改的, 默认的443占用了换成别的就好.</p></li><li><p>twikoo的即时推送尝试了几个譬如 Qmsq, server酱等等发现又一系列的问题 都不尽如人意  最后选择的是最简单的邮件通知.</p></li></ul><h2 id="remark42"><a href="#remark42" class="headerlink" title="remark42"></a>remark42</h2><h1 id="部署平台-托管平台"><a href="#部署平台-托管平台" class="headerlink" title="部署平台(托管平台)"></a>部署平台(托管平台)</h1><p><a href="https://i.vince.pub/p/hexo-static/">常见静态网站托管平台使用及多节点部署方案</a></p><p><img src="/2022/f96c3c41/2fc062cb2.svg" alt="节点"></p><p>现阶段比较好的方案是<code>coding</code>和<code>github+netlify</code>.</p><h1 id="一些资源"><a href="#一些资源" class="headerlink" title="一些资源"></a>一些资源</h1><p><strong>字体族（<code>font-family</code>）</strong></p><blockquote><p>   <a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-family">https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-family</a></p></blockquote><p><strong>调色板灵感</strong></p><blockquote><p>   <a href="https://www.webdesignrankings.com/resources/lolcolors/">https://www.webdesignrankings.com/resources/lolcolors/</a></p></blockquote><p><strong>ISO-8601 日期</strong></p><blockquote><p>  <a href="http://momentjs.cn/docs/#/parsing/string-format/">http://momentjs.cn/docs/#/parsing/string-format/</a></p></blockquote><p><strong>代码高亮风格</strong></p><blockquote><p>  highlightjs:  <a href="https://highlightjs.org/static/demo/">https://highlightjs.org/static/demo/</a></p><p>  prismjs:  <a href="https://prismjs.com/">https://prismjs.com/</a></p></blockquote><h1 id="一些知识"><a href="#一些知识" class="headerlink" title="一些知识"></a>一些知识</h1><h2 id="Creative-Commons-licenses"><a href="#Creative-Commons-licenses" class="headerlink" title="Creative Commons licenses"></a>Creative Commons licenses</h2><p><a href="https://www.wur.nl/en/article/What-are-Creative-Commons-licenses.htm">What are Creative Commons licenses?</a></p><p><img src="/2022/f96c3c41/licences_3bf0e9af_670x502.jpg" alt="知识共享许可.jpg"></p><h2 id="Gravatar-amp-Cravatar"><a href="#Gravatar-amp-Cravatar" class="headerlink" title="Gravatar &amp; Cravatar"></a>Gravatar &amp; Cravatar</h2><p><a href="https://en.gravatar.com/">Gravatar</a> &amp; <a href="https://cravatar.cn/">Cravatar</a>的差异</p><h3 id="Gravatar"><a href="#Gravatar" class="headerlink" title="Gravatar"></a>Gravatar</h3><p>Gravatar是一项用于提供在全球范围内使用的头像服务。只要你在Gravatar的服务器上上传了你自己的头像，你便可以在其他任何支持Gravatar的博客、论坛等地方使用它。</p><h3 id="Cravatar-cn"><a href="#Cravatar-cn" class="headerlink" title="Cravatar  (cn)"></a>Cravatar  (cn)</h3><p>Cravatar 是 Gravatar 在中国的完美替代方案,从此你可以自由的上传和分享头像。</p><p><strong>与 Gravatar API 兼容</strong></p><p>为了降低你的使用成本，我们的 API 规范始终保持与 Gravatar 100% 兼容</p><p><strong>独有的三级头像匹配机制</strong></p><p>当访客请求自己的头像时，我们会按此顺序分三级匹配头像：<strong>Cravatar-&gt;Gravatar-&gt;QQ 头像</strong>，对于博客站，这平均可以为 70% 的访客提供准确的头像</p>]]></content>
     
     
     <categories>
@@ -951,15 +978,21 @@
     
     <tags>
       
-      <tag>HEXO</tag>
+      <tag>hexo</tag>
       
-      <tag>Jekyll</tag>
+      <tag>jekyll</tag>
       
-      <tag>Fluid</tag>
+      <tag>fluid</tag>
       
-      <tag>Cusdis</tag>
+      <tag>cusdis</tag>
       
-      <tag>Twikoo</tag>
+      <tag>twikoo</tag>
+      
+      <tag>blog</tag>
+      
+      <tag>gravatar</tag>
+      
+      <tag>cravatar</tag>
       
     </tags>
     
@@ -984,11 +1017,11 @@
     
     <tags>
       
-      <tag>DSlogic</tag>
+      <tag>dslogic</tag>
       
       <tag>逻辑分析仪</tag>
       
-      <tag>Pyhton</tag>
+      <tag>pyhton</tag>
       
       <tag>decoder</tag>
       
@@ -1015,15 +1048,15 @@
     
     <tags>
       
-      <tag>J-Link</tag>
+      <tag>j-link</tag>
       
-      <tag>Jlink</tag>
+      <tag>jlink</tag>
       
-      <tag>RTT</tag>
+      <tag>rtt</tag>
       
-      <tag>Serial</tag>
+      <tag>serial</tag>
       
-      <tag>Debug</tag>
+      <tag>debug</tag>
       
     </tags>
     
@@ -1048,11 +1081,11 @@
     
     <tags>
       
-      <tag>SourceInsigh</tag>
+      <tag>sourceinsigh</tag>
       
-      <tag>SI</tag>
+      <tag>si</tag>
       
-      <tag>IDE</tag>
+      <tag>ide</tag>
       
     </tags>
     
@@ -1077,9 +1110,9 @@
     
     <tags>
       
-      <tag>VSCode</tag>
+      <tag>vscode</tag>
       
-      <tag>IDE</tag>
+      <tag>ide</tag>
       
     </tags>
     
@@ -1104,9 +1137,9 @@
     
     <tags>
       
-      <tag>J-Link</tag>
+      <tag>j-link</tag>
       
-      <tag>Jlink</tag>
+      <tag>jlink</tag>
       
     </tags>
     
@@ -1131,7 +1164,7 @@
     
     <tags>
       
-      <tag>Git</tag>
+      <tag>git</tag>
       
     </tags>
     
@@ -1156,11 +1189,11 @@
     
     <tags>
       
-      <tag>Character Encoding</tag>
+      <tag>character encoding</tag>
       
-      <tag>GB2312</tag>
+      <tag>gb2312</tag>
       
-      <tag>UTF-8</tag>
+      <tag>utf-8</tag>
       
     </tags>
     
@@ -1185,9 +1218,9 @@
     
     <tags>
       
-      <tag>C++</tag>
+      <tag>c/c++</tag>
       
-      <tag>C/C++</tag>
+      <tag>c++</tag>
       
     </tags>
     
@@ -1212,11 +1245,11 @@
     
     <tags>
       
-      <tag>WSL</tag>
+      <tag>wsl</tag>
       
-      <tag>Windows</tag>
+      <tag>windows</tag>
       
-      <tag>Linux</tag>
+      <tag>linux</tag>
       
     </tags>
     
@@ -1241,9 +1274,9 @@
     
     <tags>
       
-      <tag>Embedded</tag>
+      <tag>embedded</tag>
       
-      <tag>Bluetooth</tag>
+      <tag>bluetooth</tag>
       
       <tag>蓝牙</tag>
       
@@ -1270,9 +1303,9 @@
     
     <tags>
       
-      <tag>RTOS</tag>
+      <tag>rtos</tag>
       
-      <tag>RT-Thread</tag>
+      <tag>rt-thread</tag>
       
     </tags>
     
@@ -1297,9 +1330,9 @@
     
     <tags>
       
-      <tag>Linux</tag>
+      <tag>linux</tag>
       
-      <tag>AlphaMini</tag>
+      <tag>alpha_mini</tag>
       
       <tag>正点原子</tag>
       
@@ -1326,7 +1359,7 @@
     
     <tags>
       
-      <tag>Cortex-A7</tag>
+      <tag>cortex-a7</tag>
       
     </tags>
     
@@ -1351,7 +1384,7 @@
     
     <tags>
       
-      <tag>Cortex-M3</tag>
+      <tag>cortex-m3</tag>
       
     </tags>
     
@@ -1376,11 +1409,11 @@
     
     <tags>
       
-      <tag>RTX</tag>
+      <tag>rtos</tag>
       
-      <tag>RTOS</tag>
+      <tag>rtx</tag>
       
-      <tag>Keil</tag>
+      <tag>keil</tag>
       
     </tags>
     
@@ -1405,9 +1438,9 @@
     
     <tags>
       
-      <tag>RTOS</tag>
+      <tag>rtos</tag>
       
-      <tag>UCOS</tag>
+      <tag>ucos</tag>
       
     </tags>
     
@@ -1432,9 +1465,9 @@
     
     <tags>
       
-      <tag>Embedded</tag>
+      <tag>embedded</tag>
       
-      <tag>Modbus</tag>
+      <tag>modbus</tag>
       
     </tags>
     
@@ -1459,7 +1492,7 @@
     
     <tags>
       
-      <tag>PID</tag>
+      <tag>pid</tag>
       
     </tags>
     
