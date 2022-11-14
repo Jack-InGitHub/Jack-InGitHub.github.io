@@ -1,4 +1,1194 @@
-<!DOCTYPE html><html lang="zh-CN" data-default-color-scheme="auto"><head><meta charset="UTF-8"><link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.webp"><link rel="icon" href="/img/favicon.webp"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5,shrink-to-fit=no"><meta http-equiv="x-ua-compatible" content="ie=edge"><meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"><meta name="theme-color" content="#2f4154"><meta name="author" content="Oikiou"><meta name="keywords" content=""><meta name="description" content="参考资料:smiley:Protocol decoder HOWTO(新手指导) Protocol decoder API Protocol decoder API&#x2F;Queries 名词解析 Protocol Decoders (PDs)  协议解码器  libsigrokdecode  是一个采用C语言编写的共享库,提供了数据流协议解码功能。该协议解码器采用Python(&#x3D;"><meta property="og:type" content="article"><meta property="og:title" content="DSlogic协议开发笔记"><meta property="og:url" content="https://www.oikiou.top/2020/5ced0506/index.html"><meta property="og:site_name" content="Oikiou&#39;s Blog"><meta property="og:description" content="参考资料:smiley:Protocol decoder HOWTO(新手指导) Protocol decoder API Protocol decoder API&#x2F;Queries 名词解析 Protocol Decoders (PDs)  协议解码器  libsigrokdecode  是一个采用C语言编写的共享库,提供了数据流协议解码功能。该协议解码器采用Python(&#x3D;"><meta property="og:locale" content="zh_CN"><meta property="article:published_time" content="2020-05-21T05:23:05.000Z"><meta property="article:modified_time" content="2022-09-18T14:38:51.298Z"><meta property="article:author" content="Oikiou"><meta property="article:tag" content="dslogic"><meta property="article:tag" content="逻辑分析仪"><meta property="article:tag" content="pyhton"><meta property="article:tag" content="decoder"><meta name="twitter:card" content="summary_large_image"><meta name="referrer" content="no-referrer-when-downgrade"><title>DSlogic协议开发笔记 - Oikiou&#39;s Blog</title><link rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css"><link rel="stylesheet" href="https://lib.baomitu.com/github-markdown-css/4.0.0/github-markdown.min.css"><link rel="stylesheet" href="https://lib.baomitu.com/hint.css/2.7.0/hint.min.css"><link rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css"><link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_hj8rtnfg7um.css"><link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_lbnruvf0jn.css"><link rel="stylesheet" href="/css/main.css"><link id="highlight-css" rel="stylesheet" href="/css/highlight.css"><link id="highlight-css-dark" rel="stylesheet" href="/css/highlight-dark.css"><link rel="stylesheet" href="/css/custom.css"><script id="fluid-configs">var Fluid=window.Fluid||{};Fluid.ctx=Object.assign({},Fluid.ctx);var CONFIG={hostname:"www.oikiou.top",root:"/",version:"1.9.2",typing:{enable:!0,typeSpeed:70,cursorChar:"_",loop:!1,scope:[]},anchorjs:{enable:!0,element:"h1,h2,h3,h4,h5,h6",placement:"left",visible:"hover",icon:""},progressbar:{enable:!0,height_px:3,color:"#29d",options:{showSpinner:!1,trickleSpeed:100}},code_language:{enable:!0,default:"bash"},copy_btn:!0,image_caption:{enable:!0},image_zoom:{enable:!0,img_url_replace:["",""]},toc:{enable:!0,placement:"left",headingSelector:"h1,h2,h3,h4,h5,h6",collapseDepth:0},lazyload:{enable:!0,loading_img:"/img/loading.gif",onlypost:!1,offset_factor:2},web_analytics:{enable:!0,follow_dnt:!1,baidu:null,google:"G-TSV6137NWK",gtag:"G-TSV6137NWK",tencent:{sid:null,cid:null},woyaola:null,cnzz:null,leancloud:{app_id:null,app_key:null,server_url:null,path:"window.location.pathname",ignore_local:!1}},search_path:"/xml/local-search-database.xml"};if(CONFIG.web_analytics.follow_dnt){var dntVal=navigator.doNotTrack||window.doNotTrack||navigator.msDoNotTrack;Fluid.ctx.dnt=dntVal&&(dntVal.startsWith("1")||dntVal.startsWith("yes")||dntVal.startsWith("on"))}</script><script src="/js/utils.js"></script><script src="/js/color-schema.js"></script><script async>Fluid.ctx.dnt||Fluid.utils.createScript("https://www.google-analytics.com/analytics.js",function(){window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","G-TSV6137NWK","auto"),ga("send","pageview")})</script><script async>Fluid.ctx.dnt||Fluid.utils.createScript("https://www.googletagmanager.com/gtag/js?id=G-TSV6137NWK",function(){function a(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],a("js",new Date),a("config","G-TSV6137NWK")})</script><meta name="generator" content="Hexo 6.2.0"><link rel="alternate" href="/atom.xml" title="Oikiou's Blog" type="application/atom+xml"></head><body><header><div class="header-inner" style="height:70vh"><nav id="navbar" class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar"><div class="container"> <a class="navbar-brand" href="/"><strong>Oikiou&#39;s Blog</strong></a> <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><div class="animated-icon"><span></span><span></span><span></span></div></button><div class="collapse navbar-collapse" id="navbarSupportedContent"><ul class="navbar-nav ml-auto text-center"><li class="nav-item"><a class="nav-link" href="/"><i class="iconfont icon-home-fill"></i> 首页</a></li><li class="nav-item"><a class="nav-link" href="/archives/"><i class="iconfont icon-archive-fill"></i> 归档</a></li><li class="nav-item"><a class="nav-link" href="/categories/"><i class="iconfont icon-category-fill"></i> 分类</a></li><li class="nav-item"><a class="nav-link" href="/tags/"><i class="iconfont icon-tags-fill"></i> 标签</a></li><li class="nav-item"><a class="nav-link" href="/about/"><i class="iconfont icon-user-fill"></i> 关于</a></li><li class="nav-item"><a class="nav-link" href="/links/"><i class="iconfont icon-link-fill"></i> 友链</a></li><li class="nav-item" id="search-btn"> <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">&nbsp;<i class="iconfont icon-search"></i>&nbsp;</a></li><li class="nav-item" id="color-toggle-btn"> <a class="nav-link" target="_self" href="javascript:;" aria-label="Color Toggle">&nbsp;<i class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a></li></ul></div></div></nav><div id="banner" class="banner" parallax="true" style="background:url(/img/bg/wallpaper_07_low.webp) no-repeat center center;background-size:cover"><div class="full-bg-img"><div class="mask flex-center" style="background-color:rgba(0,0,0,.3)"><div class="banner-text text-center fade-in-up"><div class="h2"><span id="subtitle" data-typed-text="DSlogic协议开发笔记"></span></div><div class="mt-3"><span class="post-meta mr-2"><i class="iconfont icon-author" aria-hidden="true"></i> Oikiou</span><span class="post-meta"><i class="iconfont icon-date-fill" aria-hidden="true"></i> <time datetime="2020-05-21 13:23" pubdate>2020年5月21日 下午</time></span></div><div class="mt-1"><span class="post-meta mr-2"><i class="iconfont icon-chart"></i> 8.7k 字</span><span class="post-meta mr-2"><i class="iconfont icon-clock-fill"></i> 146 分钟</span><span id="busuanzi_container_page_pv" style="display:none"><i class="iconfont icon-eye" aria-hidden="true"></i><span id="busuanzi_value_page_pv"></span> 次</span></div></div></div></div></div></div></header><main><div class="container-fluid nopadding-x"><div class="row nomargin-x"><div class="side-col d-none d-lg-block col-lg-2"><aside class="sidebar" style="padding-left:2rem;margin-right:-1rem"><div id="toc"><p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p><div class="toc-body" id="toc-body"></div></div></aside></div><div class="col-lg-8 nopadding-x-md"><div class="container nopadding-x-md" id="board-ctn"><div id="board"><article class="post-content mx-auto"><h1 style="display:none">DSlogic协议开发笔记</h1><p class="note note-info"> 本文最后更新于：11 天前</p><div class="markdown-body"><h1 id="参考资料-smiley"><a href="#参考资料-smiley" class="headerlink" title="参考资料:smiley:"></a>参考资料:smiley:</h1><p><a target="_blank" rel="noopener" href="https://sigrok.org/wiki/Protocol_decoder_HOWTO">Protocol decoder HOWTO(新手指导)</a></p><p><a target="_blank" rel="noopener" href="https://sigrok.org/wiki/Protocol_decoder_API#register-function">Protocol decoder API</a></p><p><a target="_blank" rel="noopener" href="https://sigrok.org/wiki/Protocol_decoder_API/Queries">Protocol decoder API&#x2F;Queries</a></p><h1 id="名词解析"><a href="#名词解析" class="headerlink" title="名词解析"></a>名词解析</h1><ul><li><strong>Protocol Decoders (PDs)</strong></li></ul><p>协议解码器</p><ul><li><strong>libsigrokdecode</strong></li></ul><p>是一个采用C语言编写的共享库,提供了数据流协议解码功能。该协议解码器采用Python(&#x3D; 3.0)编写。</p><h1 id="Decoder-class-functions"><a href="#Decoder-class-functions" class="headerlink" title="Decoder class functions"></a>Decoder class functions</h1><h2 id="必须的函数"><a href="#必须的函数" class="headerlink" title="必须的函数"></a>必须的函数</h2><ul><li>start(self)</li></ul><p> 这个函数在解码开始之前被调用。这里可以 [register()](#Decoder registration) 输出类型，检查用户提供的PD选项的有效性，等等。</p><ul><li>decode(self) （解码）</li></ul><p>在 <strong>non-stacked</strong> 解码器中，这个函数由libsigrokdecode后端调用以开始解码。它不接受任何参数，而是进入一个无限循环，并通过调用更通用的wait()方法获取样本。这使得特定的协议解码器从繁琐但常见的任务中解放出来，比如检测边缘，或者在相对于当前位置的特定时间点采样信号。</p><p> 注意:这个decode(self)方法的签名已经在协议解码器API的第三版中引入，在以前的版本中只有decode(self、startsample、endsample、data)是可用的。</p><ul><li>decode(self, startsample, endsample, data)</li></ul><p>…</p><h2 id="可选的函数"><a href="#可选的函数" class="headerlink" title="可选的函数"></a>可选的函数</h2><ul><li>metadata(self, key, value)（ 元数据 ）</li></ul><p> 用于传递关于数据流的解码器元数据。目前 <strong><code>key</code></strong> 的唯一值是sigrokdecode.SRD_CONF_SAMPLERATE， <strong><code>value</code></strong> 则为数据流的采样率（samplerate），单位为Hz。</p><h1 id="Decoder-registration"><a href="#Decoder-registration" class="headerlink" title="Decoder registration"></a>Decoder registration</h1><p> 解码器类必须包含几个指定PD元数据的属性。可以使用以下关键字：</p><p><a target="_blank" rel="noopener" href="https://sigrok.org/wiki/Protocol_decoder_API">原文查考 Decoder registration 章节</a></p><table><thead><tr><th>Key</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>api_version</code></strong></td><td>这个模块使用的libsigrokdecode API版本。现在不是2就是3。</td></tr><tr><td><strong><code>id</code></strong></td><td>此协议解码器的简短唯一标识符。它应该是全小写的，只包含a-z, 0-9和下划线。这必须匹配PD的Python模块名(decoders目录中的子目录名)。siglock -cli工具使用它在命令行上指定PDs。例如:’jtag’， ‘sdcard_spi’， ‘uart’。</td></tr><tr><td><strong><code>name</code></strong></td><td>解码器的名称。当列出可用的PDs时使用。例如:“JTAG”，“SD卡(SPI模式)”，“UART”。</td></tr><tr><td><strong><code>longname</code></strong></td><td>译码器的(长)名。当列出可用的PDs时使用。Example: ‘Joint Test Action Group (IEEE 1149.1)’, ‘Secure Digital card (SPI mode)’, ‘Universal Asynchronous Receiver&#x2F;Transmitter（UART）’</td></tr><tr><td><strong><code>desc</code></strong></td><td>解码器的自由的一行描述。当列出可用的PDs时使用。应该以句号结束。Example: ‘Protocol for testing, debugging, and flashing ICs.’, ‘Secure Digital card (SPI mode) low-level protocol.’, ‘Asynchronous, serial bus.’.</td></tr><tr><td><strong><code>license</code></strong></td><td>提供模块的许可证。这必须是gplv2+(即GNU通用公共许可证2或更高版本)，或者gplv3+ (GNU通用公共许可证3或更高版本)。libsigrokdecode中不允许为模块提供其他许可证。</td></tr><tr><td><strong><code>inputs</code></strong></td><td>此解码器需要的输入类型列表。如果解码器从逻辑分析器驱动程序获取输入，则应将其设置为logic，该逻辑将映射到数据籽类型SR_DF_LOGIC。如果它从另一个PD获取输入，则应该将其设置为该PD的输出键的值。它应该符合与id键相同的规则(小写，没有空格，等等)。</td></tr><tr><td><strong><code>outputs</code></strong></td><td>此解码器产生的输出类型列表。如果这个解码器能够将解码后的数据反馈到数据流中，那么它的输出将被标识为该密钥的值。它应该与id键遵循相同的规则。</td></tr><tr><td><strong><code>channels</code></strong></td><td>该密钥包含有关<strong>必须</strong>提供给该PD的通道(pin)的信息;没有他们，PD将无法工作。例如，SPI解码器必须知道哪个信道有时钟信号。该键包含一个通道条目的元组，其中每个条目都是一个Python dict，其键为id、name和desc。Example: <strong><code>&#123;&#39;id&#39;: &#39;rx&#39;, &#39;name&#39;: &#39;RX&#39;, &#39;desc&#39;: &#39;UART receive line&#39;&#125;</code></strong>.</td></tr><tr><td><strong><code>optional_channels</code></strong></td><td>PD可选的通道，但不是必须的。该键的格式与上面的通道键相同(dicts的元组)。如果相应的协议解码器没有可选通道，则允许该元组为空。</td></tr><tr><td><strong><code>options</code></strong></td><td>描述此解码器的选项的元组。每个元组条目都是一个Python dict，其键id、desc、缺省值和值。如果PD没有可选的通道，则此元组可以为空。Example: <strong><code>&#123;&#39;id&#39;: &#39;bitorder&#39;, &#39;desc&#39;: &#39;Bit order&#39;, &#39;default&#39;: &#39;msb-first&#39;, &#39;values&#39;: (&#39;msb-first&#39;, &#39;lsb-first&#39;)&#125;</code></strong>.</td></tr><tr><td><strong><code>annotations</code></strong></td><td>此协议解码器可以输出的注释类的列表。此列表的元素是由标识符字符串和可读的描述字符串组成的元组。标识符字符串可以在siglock -cli选项中用于选择特定的注释类型，因此不应该包含空白或特殊字符。</td></tr><tr><td><strong><code>annotation_rows</code></strong></td><td>注释行用于将多个注释类型分组在一起。这个列表的元素是三个元素元组，包括: 1.注释行ID(与其他ID的命名规则相同)。2.注释行的人类可读的名称&#x2F;描述字符串。3. 包含注释元组中注释类的索引的元组。<a target="_blank" rel="noopener" href="https://sigrok.org/wiki/Protocol_decoder_HOWTO#annotations_.26_annotation_rows">示例参考</a></td></tr><tr><td><strong><code>binary</code></strong></td><td>此协议解码器可以输出的二进制输出类型列表，格式与**<code>annotations</code>**列表相同。</td></tr></tbody></table><h1 id="self-put"><a href="#self-put" class="headerlink" title="self.put( )"></a>self.put( )</h1><h2 id="原型"><a href="#原型" class="headerlink" title="原型"></a>原型</h2><p><strong>put(startsample, endsample, output_id, data)</strong></p><h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><p>startsample：开始的序号</p><p>endsample：结束的序号</p><p>output_id：取值看下表</p><p>data：根据output_id的不同数据也不同</p><table><thead><tr><th>output_id</th><th>funcation</th></tr></thead><tbody><tr><td><strong>OUTPUT_ANN</strong></td><td>注释信息</td></tr><tr><td><strong>OUTPUT_PYTHON</strong></td><td></td></tr><tr><td><strong>OUTPUT_BINARY</strong></td><td></td></tr><tr><td><strong>OUTPUT_META</strong></td><td></td></tr></tbody></table><ol><li><strong>OUTPUT_ANN</strong>：</li></ol><ul><li><p>这个东西在显示bit数据时会在信号上有小点点指示。</p></li><li><p>不同缩放级别显示不同内容<br>Example: <code>self.put(10, 20, self.out_ann, [4, [&#39;Start&#39;, &#39;St&#39;, &#39;S&#39;]])</code></p></li><li><p>data参数是一个包含两个项的Python列表。第一项是注释索引(由解码器中项的顺序决定)。第二个是注释字符串列表。字符串应该是相同注释文本的长版本和短版本(按长度排序，最长优先)，可以由前端根据缩放级别显示不同的注释文本。</p></li></ul><ol start="2"><li><strong>OUTPUT_PYTHON</strong> ：</li></ol><ul><li><p>输出特定格式的数据么？（ 数据内容本身完全依赖于各自的解码器，应该在其pd.py文件中记录。 ）</p><p>Example: <em><code>self.put(10, 20, self.out_python, [&#39;PACKET&#39;, [&#39;Foo&#39;, 19.7, [1, 2, 3], (&#39;bar&#39;, &#39;baz&#39;)]])</code></em></p></li><li><p>数据参数是将传递给堆叠解码器的任意Python对象。格式和内容完全依赖于解码器。通常，包含各种内容的Python列表被传递给堆叠的PDs。</p></li></ul><ol start="3"><li><p><strong>OUTPUT_BINARY</strong>：</p><ul><li><p>输出数据0x55 0xaa等等（ 二进制格式的索引为4，发出的字节分别为0xfe、0x55、0xaa）</p><p> Example: <em><code>self.put(10, 20, self.out_binary, [4, b&#39;\xfe\x55\xaa&#39;])</code></em></p></li><li><p>data参数是一个包含两个项的Python列表。第一项是二进制格式的索引(由解码器中项的顺序决定)。第二个是Python bytes对象。</p></li></ul></li><li><p><strong>OUTPUT_META</strong> ：</p></li></ol><ul><li><p>输出解码出来的数字（ 在本例中数据本身是一个浮点数）</p><p> Example: <em><code>self.put(10, 20, self.out_meta, 15.7)</code></em></p></li><li><p>数据参数是特定类型的Python对象，在各自的register()函数中定义</p></li></ul><h1 id="self-wait"><a href="#self-wait" class="headerlink" title="self.wait()"></a>self.wait()</h1><p>这是协议解码器用来将查询发送到libsigrokdecode后端的API调用。<br>从PD的角度来看，这是一个阻塞呼叫。它将阻塞，直到在样本数据中找到指定的条件，然后才将控制权返回给PD。</p><h2 id="原型-1"><a href="#原型-1" class="headerlink" title="原型"></a>原型</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">def</span> <span class="hljs-title function_">wait</span>(<span class="hljs-params">self, conds</span>):<br>    <span class="hljs-comment"># 1. 等待，直到conds中的一个或多个条件匹配.</span><br>    <span class="hljs-comment"># 2. 设置 self.samplenum ，匹配样本的绝对样本数.</span><br>    <span class="hljs-comment"># 3. 根据 self.matched 条件匹配.</span><br>    <span class="hljs-comment"># 4. 返回一个包含匹配样本的pin值的元组.</span><br></code></pre></td></tr></table></figure><h2 id="参数-1"><a href="#参数-1" class="headerlink" title="参数"></a>参数</h2><h3 id="空参"><a href="#空参" class="headerlink" title="空参"></a>空参</h3><p>如果完全不提供conds，或者它是一个空列表[]，或者它只是一个“空”条件{}，那么后端将直接跳到下一个示例。 （相当于直接进入下一个样本）</p><p><strong>Examples:</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># Don&#x27;t wait for any condition, just skip to the next sample.</span><br>pins = self.wait()<br>pins = self.wait([])<br>pins = self.wait(&#123;&#125;)<br>pins = self.wait(&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">1</span>&#125;) <span class="hljs-comment"># Skip one sample, see below.</span><br></code></pre></td></tr></table></figure><h3 id="conds-引脚状态条件-上下沿"><a href="#conds-引脚状态条件-上下沿" class="headerlink" title="conds 引脚状态条件(上下沿)"></a><strong>conds</strong> 引脚状态条件(上下沿)</h3><table><thead><tr><th>Value</th><th>Describe</th></tr></thead><tbody><tr><td>‘<strong>l’</strong></td><td>Low pin value (logical 0)</td></tr><tr><td>‘h’</td><td>High pin value (logical 1)</td></tr><tr><td>‘r’</td><td>Rising edge</td></tr><tr><td>‘f’</td><td>Falling edge</td></tr><tr><td>‘e’</td><td>Either edge (rising or falling)</td></tr><tr><td>‘s’</td><td>稳定状态 Stable state, the opposite of ‘e’. That is, there was no edge and the current and previous pin value were both low (or both high).</td></tr><tr><td>other</td><td>任何其他值都会产生错误。</td></tr></tbody></table><p><strong>Examples:</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># Wait until pin 7 has a falling edge.</span><br>pins = self.wait(&#123;<span class="hljs-number">7</span>: <span class="hljs-string">&#x27;f&#x27;</span>&#125;)<br><br><span class="hljs-comment"># Wait until pin 3 has a rising edge “and” pin 4 is high at the same time.</span><br>pins = self.wait(&#123;<span class="hljs-number">3</span>: <span class="hljs-string">&#x27;r&#x27;</span>, <span class="hljs-number">4</span>: <span class="hljs-string">&#x27;h&#x27;</span>&#125;)<br><br><span class="hljs-comment"># Wait until pins 2-4 are low and pin 16 has any edge.</span><br>pins = self.wait(&#123;<span class="hljs-number">2</span>: <span class="hljs-string">&#x27;l&#x27;</span>, <span class="hljs-number">3</span>: <span class="hljs-string">&#x27;l&#x27;</span>, <span class="hljs-number">4</span>: <span class="hljs-string">&#x27;l&#x27;</span>, <span class="hljs-number">16</span>: <span class="hljs-string">&#x27;e&#x27;</span>&#125;)<br></code></pre></td></tr></table></figure><h3 id="conds-样品跳过条-样本数量"><a href="#conds-样品跳过条-样本数量" class="headerlink" title="conds 样品跳过条(样本数量)"></a><strong>conds</strong> 样品跳过条(样本数量)</h3><p>后端另一个常见的查询是，当解码器想要跳过一定数量的样本时，而不管样本值是什么(因为它们与当前的协议无关)。<br>这可以通过条件dict中的一个特殊键来实现— ‘<strong>skip’</strong> 。 ‘<strong>skip’</strong> 键的值是要跳过的样本的整数。</p><p>解码器也可以跳过一定的时间，通过使用采样来计算 ‘<strong>skip’</strong> 键的正确值。</p><p><strong>Examples:</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># Skip over the next 100 samples.</span><br>pins = self.wait(&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">100</span>&#125;)<br><br><span class="hljs-comment"># Skip over the next 20ms of samples.</span><br>pins = self.wait(&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">20</span> * (<span class="hljs-number">1000</span> / self.samplerate)&#125;)<br><br><span class="hljs-comment"># Skip half a bitwidth of samples (e.g. for UART).</span><br>self.halfbitwidth = <span class="hljs-built_in">int</span>((self.samplerate / self.options[<span class="hljs-string">&#x27;baudrate&#x27;</span>]) / <span class="hljs-number">2.0</span>)<br>pins = self.wait(&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: self.halfbitwidth&#125;)<br></code></pre></td></tr></table></figure><h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs python">pins = self.wait(&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">100</span>&#125;)  	<span class="hljs-comment">#这里的pins是元组，</span><br>(pins,) = self.wait(&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">100</span>&#125;)	<span class="hljs-comment">#可以写成这样</span><br></code></pre></td></tr></table></figure><h1 id="self-skip"><a href="#self-skip" class="headerlink" title="self.skip()"></a>self.skip()</h1><p><strong>这个函数不知道怎么回事，用了会报错</strong></p><p>注意这下面的skip不是wait</p><p>在相同的条件下混合通道索引键和“跳过”键通常没有多大意义，然而，在不同的情况下，混合索引键和“跳过”键是非常合理的:</p><p>（下面的语句应该是 <code>((pin7 e)和(pin12 l))或(skip 10000)</code> ）</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># Wait until there&#x27;s</span><br><span class="hljs-comment"># a) an edge on pin 7 and a low state on pin 12, and/or</span><br><span class="hljs-comment"># b) 1000 samples passed by,</span><br><span class="hljs-comment"># whichever occurs first (both conditions could occur at the same time too).</span><br><span class="hljs-comment"># This is basically &quot;wait for an edge on pin 7 and a low state on pin 12,</span><br><span class="hljs-comment"># with a timeout of 1000 samples&quot;.</span><br>pins = self.skip((&#123;<span class="hljs-number">7</span>: <span class="hljs-string">&#x27;e&#x27;</span>, <span class="hljs-number">12</span>: <span class="hljs-string">&#x27;l&#x27;</span>&#125;, &#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">1000</span>&#125;))<br></code></pre></td></tr></table></figure><h1 id="self-matched"><a href="#self-matched" class="headerlink" title="self.matched"></a>self.matched</h1><p>当解码器通过<strong>self.wait（）</strong>请求前端等待多个条件时，当该调用返回时，PD仅知道<strong>至少一个</strong>条件已匹配。但是，在大多数情况下，它还需要知道<strong>哪些</strong>条件匹配（或不匹配）。</p><p>这是<strong>self.matched</strong>提供的信息。它是布尔值（<strong>True</strong>或<strong>False</strong>）的元组，始终包含与上次<strong>self.wait（）</strong>调用中存在的条件一样多的条目。对于每个条件，各自的布尔值表示此特定条件是否匹配。</p><p><strong>Example:</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><code class="hljs Python"><span class="hljs-comment"># 等待，直到引脚9的上升边 或 引脚27的高状态(逻辑1)， 或 经过一定的“时间”(这里:跳过1000个样本)。这意味着有一个1000个样本的“超时”之后self.wait()将返回(不管其他条件如何)。</span><br>pins = self.wait([&#123;<span class="hljs-number">9</span>: <span class="hljs-string">&#x27;r&#x27;</span>&#125;, &#123;<span class="hljs-number">27</span>: <span class="hljs-string">&#x27;h&#x27;</span>&#125;, &#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">1000</span>&#125;])<br><br><span class="hljs-keyword">if</span> self.matched == (<span class="hljs-literal">True</span>, <span class="hljs-literal">True</span>, <span class="hljs-literal">False</span>):<br>    <span class="hljs-comment"># 前两个条件是同时匹配的。</span><br>    <span class="hljs-comment"># Pin 9 contains a rising edge and pin 27 is high.</span><br><span class="hljs-keyword">elif</span> self.matched == (<span class="hljs-literal">True</span>, <span class="hljs-literal">False</span>, <span class="hljs-literal">False</span>):<br>    <span class="hljs-comment"># Rising edge on pin 9, pin 27 is guaranteed to not be high.</span><br><span class="hljs-keyword">elif</span> self.matched == (<span class="hljs-literal">False</span>, <span class="hljs-literal">True</span>, <span class="hljs-literal">False</span>):<br>    <span class="hljs-comment"># Pin 27 is high, pin 9 is guaranteed to not be a rising edge.</span><br><span class="hljs-keyword">elif</span> self.matched == (<span class="hljs-literal">False</span>, <span class="hljs-literal">False</span>, <span class="hljs-literal">True</span>):<br>    <span class="hljs-comment"># Pin 9 is not a rising edge, pin 27 is not high, but 1000 samples were skipped.</span><br><span class="hljs-keyword">elif</span> self.matched == (<span class="hljs-literal">False</span>, <span class="hljs-literal">True</span>, <span class="hljs-literal">True</span>):<br>    <span class="hljs-comment"># Pin 9 is not a rising edge, pin 27 is high, and it just so happens that</span><br>    <span class="hljs-comment"># exactly 1000 samples were skipped.</span><br><span class="hljs-keyword">elif</span> self.matched == (<span class="hljs-literal">False</span>, <span class="hljs-literal">False</span>, <span class="hljs-literal">False</span>):<br>    <span class="hljs-comment"># Bug, this cannot happen. self.wait() only returns upon &gt;= 1 matches.</span><br></code></pre></td></tr></table></figure><p>对于’skip’键&#x2F;值对self。如果达到指定数目的样本，则匹配的tuple将包含一个真值。</p><p><strong>Example:</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># Wait for a falling edge on channel 18, or until 25000 samples passed by.</span><br>pins = self.wait([&#123;<span class="hljs-number">18</span>: <span class="hljs-string">&#x27;f&#x27;</span>&#125;, &#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">25000</span>&#125;])<br><br><span class="hljs-keyword">if</span> self.matched[<span class="hljs-number">0</span>]:<br>    <span class="hljs-comment"># Pin 18 has a falling edge.</span><br><span class="hljs-keyword">if</span> self.matched[<span class="hljs-number">1</span>]:<br>    <span class="hljs-comment"># 25000 samples were skipped.</span><br></code></pre></td></tr></table></figure><h1 id="self-samplenum"><a href="#self-samplenum" class="headerlink" title="self.samplenum"></a>self.samplenum</h1><p><em>self.samplenum 相当于一个指针，指示当前解码器解码的样本的位置</em></p><p> <strong>self.samplenum</strong>是一个特殊属性，对于协议解码器来说是只读的，并且只能由libsigrokdecode后端设置。</p><p> <strong>self.samplenum</strong> 总是在最后一次self.wait()调用返回后的当前绝对样本号(从0开始)。</p><h1 id="self-samplerate"><a href="#self-samplerate" class="headerlink" title="self.samplerate"></a>self.samplerate</h1><p>采样率</p><h1 id="self-has-channel"><a href="#self-has-channel" class="headerlink" title="self.has_channel"></a>self.has_channel</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment">#code1 </span><br>...<br>self.have_cs = self.has_channel(<span class="hljs-number">3</span>)<br>...<br><br><span class="hljs-comment">#code2</span><br>...<br><span class="hljs-keyword">if</span> self.have_cs <span class="hljs-keyword">and</span> (first <span class="hljs-keyword">or</span> (self.matched &amp; (<span class="hljs-number">0b1</span> &lt;&lt; self.have_cs))):<br>    ....<br>...<br></code></pre></td></tr></table></figure><p>self.has_channel返回的值似乎是对应通道的值，比如这里返回的应该是3.</p><h1 id="一些奇怪的问题"><a href="#一些奇怪的问题" class="headerlink" title="一些奇怪的问题"></a>一些奇怪的问题</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">def</span> <span class="hljs-title function_">xxxxx</span>(<span class="hljs-params">self</span>):<br>    logging.info(<span class="hljs-string">&#x27;----- xxx start -----&#x27;</span>)<br>    data = <span class="hljs-number">0</span><br>    bit_count = <span class="hljs-number">5</span><br><br>    <span class="hljs-keyword">while</span> <span class="hljs-literal">True</span>:<br>        pin_state = self.wait( [&#123;<span class="hljs-number">0</span>: <span class="hljs-string">&#x27;r&#x27;</span>&#125;, &#123;<span class="hljs-string">&#x27;skip&#x27;</span>: self.freq_half_samp &#125;] )<br>        <span class="hljs-keyword">if</span>( self.matched &amp; (<span class="hljs-number">0b1</span> &lt;&lt; <span class="hljs-number">0</span>) ):        <span class="hljs-comment">#r</span><br>            self.LS_2 |= <span class="hljs-number">0b0</span> &lt;&lt; bit_count<br>            self.wait( [&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: (self.bit_samp-self.freq_quarter_samp) &#125;] )<br>        <span class="hljs-keyword">else</span>:<br>            self.LS_2 |= <span class="hljs-number">0b1</span> &lt;&lt; bit_count<br>            self.wait( [&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: (self.bit_samp-self.freq_half_samp) &#125;] )<br>        <span class="hljs-keyword">if</span>( bit_count == <span class="hljs-number">0</span> ):<br>            <span class="hljs-keyword">break</span><br>        bit_count -= <span class="hljs-number">1</span><br>    logging.info(<span class="hljs-string">&#x27;----- xxx end -----&#x27;</span>)<br>    <span class="hljs-keyword">return</span> data<br><br><br></code></pre></td></tr></table></figure><p>注意到<code>pin_state = self.wait( [&#123;0: &#39;r&#39;&#125;, &#123;&#39;skip&#39;: self.freq_half_samp &#125;] )</code>语句，把pin_state删掉就可以正常运行，若没删if后面的self.wait就会一直出问题。</p><ul><li>原因应该是pin_state没打括号，pin_state变成了元组，所以出现这种情况</li></ul><h1 id="附录"><a href="#附录" class="headerlink" title="附录"></a>附录</h1><h2 id="一些快速处理数据的方法"><a href="#一些快速处理数据的方法" class="headerlink" title="一些快速处理数据的方法"></a>一些快速处理数据的方法</h2><ul><li>快速计算奇偶校验</li></ul><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python">ones = <span class="hljs-built_in">bin</span>(<span class="hljs-number">0x55</span>).count(<span class="hljs-string">&#x27;1&#x27;</span>)<br></code></pre></td></tr></table></figure><ul><li>BCD转成整数</li></ul><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">def</span> <span class="hljs-title function_">bcd2int</span>(<span class="hljs-params">b</span>):<br>    <span class="hljs-keyword">return</span> (b &amp; <span class="hljs-number">0x0f</span>) + ((b &gt;&gt; <span class="hljs-number">4</span>) * <span class="hljs-number">10</span>)<br></code></pre></td></tr></table></figure><ul><li>一种将总线引脚序列转换为数字值的好方法：</li></ul><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">from</span> functools <span class="hljs-keyword">import</span> reduce<br><br><span class="hljs-keyword">def</span> <span class="hljs-title function_">reduce_bus</span>(<span class="hljs-params">bus</span>):<br>    <span class="hljs-keyword">if</span> <span class="hljs-number">0xFF</span> <span class="hljs-keyword">in</span> bus:<br>        <span class="hljs-keyword">return</span> <span class="hljs-literal">None</span> <span class="hljs-comment"># unassigned bus channels</span><br>    <span class="hljs-keyword">else</span>:<br>        <span class="hljs-keyword">return</span> reduce(<span class="hljs-keyword">lambda</span> a, b: (a &lt;&lt; <span class="hljs-number">1</span>) | b, <span class="hljs-built_in">reversed</span>(bus))<br></code></pre></td></tr></table></figure><ul><li>根据协议命令构造方法名的一个好方法是(假设cmd是8，这将调用self.handle_cmd_0x08函数):</li></ul><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs python">fn = <span class="hljs-built_in">getattr</span>(self, <span class="hljs-string">&#x27;handle_cmd_0x%02x&#x27;</span> % cmd);<br>fn(arg1, arg2, ...)<br></code></pre></td></tr></table></figure><ul><li>一种处理Python缺少枚举类型(对状态、pin索引、注释索引等有用)的方法</li></ul><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Cycle</span>:<br>    NONE, MEMRD, MEMWR, IORD, IOWR, FETCH, INTACK = <span class="hljs-built_in">range</span>(<span class="hljs-number">7</span>)<br></code></pre></td></tr></table></figure></div><hr><div><div class="post-metas my-3"><div class="post-meta mr-3 d-flex align-items-center"><i class="iconfont icon-category"></i> <span class="category-chains"><span class="category-chain"><a href="/categories/tools/" class="category-chain-item">tools</a></span></span></div><div class="post-meta"><i class="iconfont icon-tags"></i> <a href="/tags/dslogic/">#dslogic</a> <a href="/tags/%E9%80%BB%E8%BE%91%E5%88%86%E6%9E%90%E4%BB%AA/">#逻辑分析仪</a> <a href="/tags/pyhton/">#pyhton</a> <a href="/tags/decoder/">#decoder</a></div></div><div class="license-box my-3"><div class="license-title"><div>DSlogic协议开发笔记</div><div>https://www.oikiou.top/2020/5ced0506/</div></div><div class="license-meta"><div class="license-meta-item"><div>作者</div><div>Oikiou</div></div><div class="license-meta-item license-meta-date"><div>发布于</div><div>2020年5月21日</div></div><div class="license-meta-item"><div>许可协议</div><div><a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><span class="hint--top hint--rounded" aria-label="BY - 署名"><i class="iconfont icon-by"></i></span></a><a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><span class="hint--top hint--rounded" aria-label="NC - 非商业性使用"><i class="iconfont icon-nc"></i></span></a><a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><span class="hint--top hint--rounded" aria-label="SA - 相同方式共享"><i class="iconfont icon-sa"></i></span></a></div></div></div><div class="license-icon iconfont"></div></div><div class="post-prevnext my-3"><article class="post-prev col-6"><a href="/2020/4ade0b2f/" title="SourceInsigh中Qicker的使用"><i class="iconfont icon-arrowleft"></i> <span class="hidden-mobile">SourceInsigh中Qicker的使用</span> <span class="visible-mobile">上一篇</span></a></article><article class="post-next col-6"> <a href="/2020/a2d461a8/" title="给正在准备蓝桥杯的你"><span class="hidden-mobile">给正在准备蓝桥杯的你</span> <span class="visible-mobile">下一篇</span><i class="iconfont icon-arrowright"></i></a></article></div></div><article id="comments" lazyload><div id="twikoo"></div><script type="text/javascript">Fluid.utils.loadComments("#comments",function(){Fluid.utils.createScript("https://lib.baomitu.com/twikoo/1.6.5/twikoo.all.min.js",function(){var t=Object.assign({envId:"https://pretty.cf:8884/",region:"ap-shanghai",path:"window.location.pathname"},{el:"#twikoo",path:"window.location.pathname",onCommentLoaded:function(){var t="#twikoo .tk-content img:not(.tk-owo-emotion)";Fluid.plugins.imageCaption(t),Fluid.plugins.fancyBox(t)}});twikoo.init(t)})})</script><noscript>Please enable JavaScript to view the comments</noscript></article></article></div></div></div><div class="side-col d-none d-lg-block col-lg-2"><aside class="sidebar category-bar" style="margin-left:-1rem"><div class="category-list"><div class="category row nomargin-x"> <a class="category-item list-group-item category-item-action col-10 col-md-11 col-xm-11" title="tools" id="heading-4a931512ce65bdc9ca6808adf92d8783" role="tab" data-toggle="collapse" href="#collapse-4a931512ce65bdc9ca6808adf92d8783" aria-expanded="true">tools <span class="list-group-count">(14)</span><i class="iconfont icon-arrowright"></i></a><div class="category-collapse collapse show" id="collapse-4a931512ce65bdc9ca6808adf92d8783" role="tabpanel" aria-labelledby="heading-4a931512ce65bdc9ca6808adf92d8783"><div class="category-post-list"> <a href="/2020/5ced0506/" title="DSlogic协议开发笔记" class="list-group-item list-group-item-action active"><span class="category-post">DSlogic协议开发笔记</span></a> <a href="/2020/4ade0b2f/" title="SourceInsigh中Qicker的使用" class="list-group-item list-group-item-action"><span class="category-post">SourceInsigh中Qicker的使用</span></a> <a href="/2021/69c3279c/" title="Git" class="list-group-item list-group-item-action"><span class="category-post">Git</span></a> <a href="/2021/9be43835/" title="VSCode" class="list-group-item list-group-item-action"><span class="category-post">VSCode</span></a> <a href="/2021/18d811b/" title="J-Link RTT的使用方法" class="list-group-item list-group-item-action"><span class="category-post">J-Link RTT的使用方法</span></a> <a href="/2021/30f8332a/" title="手动添加JLink不支持的芯片" class="list-group-item list-group-item-action"><span class="category-post">手动添加JLink不支持的芯片</span></a> <a href="/2021/9f39ed86/" title="VSCode多行编辑被占用" class="list-group-item list-group-item-action"><span class="category-post">VSCode多行编辑被占用</span></a> <a href="/2022/aa858de8/" title="Wordpress" class="list-group-item list-group-item-action"><span class="category-post">Wordpress</span></a> <a href="/2022/a8b000ae/" title="RDPWrap" class="list-group-item list-group-item-action"><span class="category-post">RDPWrap</span></a> <a href="/2022/1d3ed0f3/" title="VScode插件CommentTranslate在WSL内无效" class="list-group-item list-group-item-action"><span class="category-post">VScode插件CommentTranslate在WSL内无效</span></a> <a href="/2022/f96c3c41/" title="静态网页 静态博客" class="list-group-item list-group-item-action"><span class="category-post">静态网页 静态博客</span></a> <a href="/2022/fd90dc4c/" title="使用Jlink 烧写SPI Flash存储芯片" class="list-group-item list-group-item-action"><span class="category-post">使用Jlink 烧写SPI Flash存储芯片</span></a> <a href="/2022/471570a6/" title="SpaceDesk手机用作电脑屏幕" class="list-group-item list-group-item-action"><span class="category-post">SpaceDesk手机用作电脑屏幕</span></a> <a href="/2022/9d389561/" title="Tmux 终端复用器(Terminal Multiplexer)" class="list-group-item list-group-item-action"><span class="category-post">Tmux 终端复用器(Terminal Multiplexer)</span></a></div></div></div></div></aside></div></div></div><a id="scroll-top-button" aria-label="TOP" href="#" role="button"><i class="iconfont icon-arrowup" aria-hidden="true"></i></a><div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable modal-lg" role="document"><div class="modal-content"><div class="modal-header text-center"><h4 class="modal-title w-100 font-weight-bold">搜索</h4> <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span></button></div><div class="modal-body mx-3"><div class="md-form mb-5"> <input type="text" id="local-search-input" class="form-control validate"> <label data-error="x" data-success="v" for="local-search-input">关键词</label></div><div class="list-group" id="local-search-result"></div></div></div></div></div></main><footer><div class="footer-inner"><div class="statistics"> <span id="busuanzi_container_site_pv" style="display:none">总访问量<span id="busuanzi_value_site_pv"></span> 次</span> <span id="busuanzi_container_site_uv" style="display:none">总访客数<span id="busuanzi_value_site_uv"></span> 人</span></div></div></footer><script src="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.js"></script><link rel="stylesheet" href="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.css"><script>NProgress.configure({showSpinner:!1,trickleSpeed:100}),NProgress.start(),window.addEventListener("load",function(){NProgress.done()})</script><script src="https://lib.baomitu.com/jquery/3.6.0/jquery.min.js"></script><script src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js"></script><script src="/js/events.js"></script><script src="/js/plugins.js"></script><script src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js"></script><script>!function(t,e){var i=Fluid.plugins.typing,n=e.getElementById("subtitle");n&&i&&i(n.getAttribute("data-typed-text"))}(window,document)</script><script src="/js/img-lazyload.js"></script><script>Fluid.utils.createScript("https://lib.baomitu.com/tocbot/4.18.2/tocbot.min.js",function(){var t=jQuery("#toc");if(0!==t.length&&window.tocbot){var o=jQuery("#board-ctn").offset().top;window.tocbot.init({tocSelector:"#toc-body",contentSelector:".markdown-body",headingSelector:CONFIG.toc.headingSelector||"h1,h2,h3,h4,h5,h6",linkClass:"tocbot-link",activeLinkClass:"tocbot-active-link",listClass:"tocbot-list",isCollapsedClass:"tocbot-is-collapsed",collapsibleClass:"tocbot-is-collapsible",collapseDepth:CONFIG.toc.collapseDepth||0,scrollSmooth:!0,headingsOffset:-o}),0<t.find(".toc-list-item").length&&t.css("visibility","visible")}})</script><script src="https://lib.baomitu.com/clipboard.js/2.0.10/clipboard.min.js"></script><script>Fluid.plugins.codeWidget()</script><script>
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=auto>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.webp">
+  <link rel="icon" href="/img/favicon.webp">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="author" content="Oikiou">
+  <meta name="keywords" content="">
+  
+    <meta name="description" content="参考资料:smiley:Protocol decoder HOWTO(新手指导) Protocol decoder API Protocol decoder API&#x2F;Queries 名词解析 Protocol Decoders (PDs)  协议解码器  libsigrokdecode  是一个采用C语言编写的共享库,提供了数据流协议解码功能。该协议解码器采用Python(&#x3D;">
+<meta property="og:type" content="article">
+<meta property="og:title" content="DSlogic协议开发笔记">
+<meta property="og:url" content="https://www.oikiou.top/2020/5ced0506/index.html">
+<meta property="og:site_name" content="Oikiou&#39;s Blog">
+<meta property="og:description" content="参考资料:smiley:Protocol decoder HOWTO(新手指导) Protocol decoder API Protocol decoder API&#x2F;Queries 名词解析 Protocol Decoders (PDs)  协议解码器  libsigrokdecode  是一个采用C语言编写的共享库,提供了数据流协议解码功能。该协议解码器采用Python(&#x3D;">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2020-05-21T05:23:05.000Z">
+<meta property="article:modified_time" content="2022-09-18T14:38:51.298Z">
+<meta property="article:author" content="Oikiou">
+<meta property="article:tag" content="dslogic">
+<meta property="article:tag" content="逻辑分析仪">
+<meta property="article:tag" content="pyhton">
+<meta property="article:tag" content="decoder">
+<meta name="twitter:card" content="summary_large_image">
+  
+  
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+  
+  <title>DSlogic协议开发笔记 - Oikiou&#39;s Blog</title>
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
+
+
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/github-markdown-css/4.0.0/github-markdown.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/hint.css/2.7.0/hint.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css" />
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+<!-- Do not modify the link that theme dependent icons -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_hj8rtnfg7um.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_lbnruvf0jn.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+
+  <link id="highlight-css" rel="stylesheet" href="/css/highlight.css" />
+  
+    <link id="highlight-css-dark" rel="stylesheet" href="/css/highlight-dark.css" />
+  
+
+
+
+  
+<link rel="stylesheet" href="/css/custom.css">
+
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    Fluid.ctx = Object.assign({}, Fluid.ctx)
+    var CONFIG = {"hostname":"www.oikiou.top","root":"/","version":"1.9.2","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"bash"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"left","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":false,"baidu":null,"google":"G-TSV6137NWK","gtag":"G-TSV6137NWK","tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/xml/local-search-database.xml"};
+
+    if (CONFIG.web_analytics.follow_dnt) {
+      var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      Fluid.ctx.dnt = dntVal && (dntVal.startsWith('1') || dntVal.startsWith('yes') || dntVal.startsWith('on'));
+    }
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+  
+
+  
+
+  
+    <!-- Google Analytics -->
+    <script async>
+      if (!Fluid.ctx.dnt) {
+        Fluid.utils.createScript('https://www.google-analytics.com/analytics.js', function() {
+          window.ga = window.ga || function() { (ga.q = ga.q || []).push(arguments) };
+          ga.l = +new Date;
+          ga('create', 'G-TSV6137NWK', 'auto');
+          ga('send', 'pageview');
+        });
+      }
+    </script>
+  
+
+  
+    <!-- Google gtag.js -->
+    <script async>
+      if (!Fluid.ctx.dnt) {
+        Fluid.utils.createScript('https://www.googletagmanager.com/gtag/js?id=G-TSV6137NWK', function() {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-TSV6137NWK');
+        });
+      }
+    </script>
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+  
+<meta name="generator" content="Hexo 6.2.0"><link rel="alternate" href="/atom.xml" title="Oikiou's Blog" type="application/atom+xml">
+</head>
+
+
+<body>
+  
+
+  <header>
+    
+
+<div class="header-inner" style="height: 70vh;">
+  <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <strong>Oikiou&#39;s Blog</strong>
+    </a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/categories/">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/tags/">
+                <i class="iconfont icon-tags-fill"></i>
+                标签
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/links/">
+                <i class="iconfont icon-link-fill"></i>
+                友链
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
+              &nbsp;<i class="iconfont icon-search"></i>&nbsp;
+            </a>
+          </li>
+          
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self" href="javascript:;" aria-label="Color Toggle">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+<div id="banner" class="banner" parallax=true
+     style="background: url('/img/bg/wallpaper_07_low.webp') no-repeat center center; background-size: cover;">
+  <div class="full-bg-img">
+    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+      <div class="banner-text text-center fade-in-up">
+        <div class="h2">
+          
+            <span id="subtitle" data-typed-text="DSlogic协议开发笔记"></span>
+          
+        </div>
+
+        
+          
+  <div class="mt-3">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-author" aria-hidden="true"></i>
+        Oikiou
+      </span>
+    
+    
+      <span class="post-meta">
+        <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+        <time datetime="2020-05-21 13:23" pubdate>
+          2020年5月21日 下午
+        </time>
+      </span>
+    
+  </div>
+
+  <div class="mt-1">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-chart"></i>
+        
+          8.7k 字
+        
+      </span>
+    
+
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-clock-fill"></i>
+        
+        
+        
+          146 分钟
+        
+      </span>
+    
+
+    
+    
+      
+        <span id="busuanzi_container_page_pv" style="display: none">
+          <i class="iconfont icon-eye" aria-hidden="true"></i>
+          <span id="busuanzi_value_page_pv"></span> 次
+        </span>
+        
+      
+    
+  </div>
+
+
+        
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+</div>
+
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar" style="padding-left: 2rem; margin-right: -1rem">
+    <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+
+
+  </aside>
+
+
+    </div>
+
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none">DSlogic协议开发笔记</h1>
+            
+              <p class="note note-info">
+                
+                  
+                    本文最后更新于：2 个月前
+                  
+                
+              </p>
+            
+            
+              <div class="markdown-body">
+                
+                <h1 id="参考资料-smiley"><a href="#参考资料-smiley" class="headerlink" title="参考资料:smiley:"></a>参考资料:smiley:</h1><p><a target="_blank" rel="noopener" href="https://sigrok.org/wiki/Protocol_decoder_HOWTO">Protocol decoder HOWTO(新手指导)</a></p>
+<p><a target="_blank" rel="noopener" href="https://sigrok.org/wiki/Protocol_decoder_API#register-function">Protocol decoder API</a></p>
+<p><a target="_blank" rel="noopener" href="https://sigrok.org/wiki/Protocol_decoder_API/Queries">Protocol decoder API&#x2F;Queries</a></p>
+<h1 id="名词解析"><a href="#名词解析" class="headerlink" title="名词解析"></a>名词解析</h1><ul>
+<li><strong>Protocol Decoders (PDs)</strong></li>
+</ul>
+<p>协议解码器</p>
+<ul>
+<li><strong>libsigrokdecode</strong></li>
+</ul>
+<p>是一个采用C语言编写的共享库,提供了数据流协议解码功能。该协议解码器采用Python(&#x3D; 3.0)编写。 </p>
+<h1 id="Decoder-class-functions"><a href="#Decoder-class-functions" class="headerlink" title="Decoder class functions"></a>Decoder class functions</h1><h2 id="必须的函数"><a href="#必须的函数" class="headerlink" title="必须的函数"></a>必须的函数</h2><ul>
+<li>start(self)</li>
+</ul>
+<p> 这个函数在解码开始之前被调用。这里可以  [register()](#Decoder registration) 输出类型，检查用户提供的PD选项的有效性，等等。 </p>
+<ul>
+<li>decode(self) （解码）</li>
+</ul>
+<p>在 <strong>non-stacked</strong> 解码器中，这个函数由libsigrokdecode后端调用以开始解码。它不接受任何参数，而是进入一个无限循环，并通过调用更通用的wait()方法获取样本。这使得特定的协议解码器从繁琐但常见的任务中解放出来，比如检测边缘，或者在相对于当前位置的特定时间点采样信号。</p>
+<p>  注意:这个decode(self)方法的签名已经在协议解码器API的第三版中引入，在以前的版本中只有decode(self、startsample、endsample、data)是可用的。</p>
+<ul>
+<li>decode(self, startsample, endsample, data)</li>
+</ul>
+<p>…</p>
+<h2 id="可选的函数"><a href="#可选的函数" class="headerlink" title="可选的函数"></a>可选的函数</h2><ul>
+<li>metadata(self, key, value)（  元数据 ）</li>
+</ul>
+<p> 用于传递关于数据流的解码器元数据。目前 <strong><code>key</code></strong>  的唯一值是sigrokdecode.SRD_CONF_SAMPLERATE， <strong><code>value</code></strong>  则为数据流的采样率（samplerate），单位为Hz。 </p>
+<h1 id="Decoder-registration"><a href="#Decoder-registration" class="headerlink" title="Decoder registration"></a>Decoder registration</h1><p> 解码器类必须包含几个指定PD元数据的属性。可以使用以下关键字：</p>
+<p><a target="_blank" rel="noopener" href="https://sigrok.org/wiki/Protocol_decoder_API">原文查考 Decoder registration 章节</a></p>
+<table>
+<thead>
+<tr>
+<th>Key</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong><code>api_version</code></strong></td>
+<td>这个模块使用的libsigrokdecode API版本。现在不是2就是3。</td>
+</tr>
+<tr>
+<td><strong><code>id</code></strong></td>
+<td>此协议解码器的简短唯一标识符。它应该是全小写的，只包含a-z, 0-9和下划线。这必须匹配PD的Python模块名(decoders目录中的子目录名)。siglock -cli工具使用它在命令行上指定PDs。例如:’jtag’， ‘sdcard_spi’， ‘uart’。</td>
+</tr>
+<tr>
+<td><strong><code>name</code></strong></td>
+<td>解码器的名称。当列出可用的PDs时使用。例如:“JTAG”，“SD卡(SPI模式)”，“UART”。</td>
+</tr>
+<tr>
+<td><strong><code>longname</code></strong></td>
+<td>译码器的(长)名。当列出可用的PDs时使用。Example: ‘Joint Test Action Group (IEEE 1149.1)’, ‘Secure Digital card (SPI mode)’, ‘Universal Asynchronous Receiver&#x2F;Transmitter（UART）’</td>
+</tr>
+<tr>
+<td><strong><code>desc</code></strong></td>
+<td>解码器的自由的一行描述。当列出可用的PDs时使用。应该以句号结束。Example: ‘Protocol for testing, debugging, and flashing ICs.’, ‘Secure Digital card (SPI mode) low-level protocol.’, ‘Asynchronous, serial bus.’.</td>
+</tr>
+<tr>
+<td><strong><code>license</code></strong></td>
+<td>提供模块的许可证。这必须是gplv2+(即GNU通用公共许可证2或更高版本)，或者gplv3+ (GNU通用公共许可证3或更高版本)。libsigrokdecode中不允许为模块提供其他许可证。</td>
+</tr>
+<tr>
+<td><strong><code>inputs</code></strong></td>
+<td>此解码器需要的输入类型列表。如果解码器从逻辑分析器驱动程序获取输入，则应将其设置为logic，该逻辑将映射到数据籽类型SR_DF_LOGIC。如果它从另一个PD获取输入，则应该将其设置为该PD的输出键的值。它应该符合与id键相同的规则(小写，没有空格，等等)。</td>
+</tr>
+<tr>
+<td><strong><code>outputs</code></strong></td>
+<td>此解码器产生的输出类型列表。如果这个解码器能够将解码后的数据反馈到数据流中，那么它的输出将被标识为该密钥的值。它应该与id键遵循相同的规则。</td>
+</tr>
+<tr>
+<td><strong><code>channels</code></strong></td>
+<td>该密钥包含有关<strong>必须</strong>提供给该PD的通道(pin)的信息;没有他们，PD将无法工作。例如，SPI解码器必须知道哪个信道有时钟信号。该键包含一个通道条目的元组，其中每个条目都是一个Python dict，其键为id、name和desc。Example: <strong><code>&#123;&#39;id&#39;: &#39;rx&#39;, &#39;name&#39;: &#39;RX&#39;, &#39;desc&#39;: &#39;UART receive line&#39;&#125;</code></strong>.</td>
+</tr>
+<tr>
+<td><strong><code>optional_channels</code></strong></td>
+<td>PD可选的通道，但不是必须的。该键的格式与上面的通道键相同(dicts的元组)。如果相应的协议解码器没有可选通道，则允许该元组为空。</td>
+</tr>
+<tr>
+<td><strong><code>options</code></strong></td>
+<td>描述此解码器的选项的元组。每个元组条目都是一个Python dict，其键id、desc、缺省值和值。如果PD没有可选的通道，则此元组可以为空。Example: <strong><code>&#123;&#39;id&#39;: &#39;bitorder&#39;, &#39;desc&#39;: &#39;Bit order&#39;, &#39;default&#39;: &#39;msb-first&#39;, &#39;values&#39;: (&#39;msb-first&#39;, &#39;lsb-first&#39;)&#125;</code></strong>.</td>
+</tr>
+<tr>
+<td><strong><code>annotations</code></strong></td>
+<td>此协议解码器可以输出的注释类的列表。此列表的元素是由标识符字符串和可读的描述字符串组成的元组。标识符字符串可以在siglock -cli选项中用于选择特定的注释类型，因此不应该包含空白或特殊字符。</td>
+</tr>
+<tr>
+<td><strong><code>annotation_rows</code></strong></td>
+<td>注释行用于将多个注释类型分组在一起。这个列表的元素是三个元素元组，包括: 1.注释行ID(与其他ID的命名规则相同)。2.注释行的人类可读的名称&#x2F;描述字符串。3. 包含注释元组中注释类的索引的元组。<a target="_blank" rel="noopener" href="https://sigrok.org/wiki/Protocol_decoder_HOWTO#annotations_.26_annotation_rows">示例参考</a></td>
+</tr>
+<tr>
+<td><strong><code>binary</code></strong></td>
+<td>此协议解码器可以输出的二进制输出类型列表，格式与**<code>annotations</code>**列表相同。</td>
+</tr>
+</tbody></table>
+<h1 id="self-put"><a href="#self-put" class="headerlink" title="self.put( )"></a>self.put( )</h1><h2 id="原型"><a href="#原型" class="headerlink" title="原型"></a>原型</h2><p><strong>put(startsample, endsample, output_id, data)</strong></p>
+<h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><p>startsample：开始的序号</p>
+<p>endsample：结束的序号</p>
+<p>output_id：取值看下表</p>
+<p>data：根据output_id的不同数据也不同</p>
+<table>
+<thead>
+<tr>
+<th>output_id</th>
+<th>funcation</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>OUTPUT_ANN</strong></td>
+<td>注释信息</td>
+</tr>
+<tr>
+<td><strong>OUTPUT_PYTHON</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>OUTPUT_BINARY</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>OUTPUT_META</strong></td>
+<td></td>
+</tr>
+</tbody></table>
+<ol>
+<li><strong>OUTPUT_ANN</strong>：</li>
+</ol>
+<ul>
+<li><p>这个东西在显示bit数据时会在信号上有小点点指示。</p>
+</li>
+<li><p>不同缩放级别显示不同内容<br>Example: <code>self.put(10, 20, self.out_ann, [4, [&#39;Start&#39;, &#39;St&#39;, &#39;S&#39;]])</code></p>
+</li>
+<li><p>data参数是一个包含两个项的Python列表。第一项是注释索引(由解码器中项的顺序决定)。第二个是注释字符串列表。字符串应该是相同注释文本的长版本和短版本(按长度排序，最长优先)，可以由前端根据缩放级别显示不同的注释文本。</p>
+</li>
+</ul>
+<ol start="2">
+<li><strong>OUTPUT_PYTHON</strong> ：</li>
+</ol>
+<ul>
+<li><p>输出特定格式的数据么？（ 数据内容本身完全依赖于各自的解码器，应该在其pd.py文件中记录。 ）</p>
+<p>Example: <em><code>self.put(10, 20, self.out_python, [&#39;PACKET&#39;, [&#39;Foo&#39;, 19.7, [1, 2, 3], (&#39;bar&#39;, &#39;baz&#39;)]])</code></em> </p>
+</li>
+<li><p>数据参数是将传递给堆叠解码器的任意Python对象。格式和内容完全依赖于解码器。通常，包含各种内容的Python列表被传递给堆叠的PDs。</p>
+</li>
+</ul>
+<ol start="3">
+<li><p><strong>OUTPUT_BINARY</strong>：</p>
+<ul>
+<li><p>输出数据0x55 0xaa等等（ 二进制格式的索引为4，发出的字节分别为0xfe、0x55、0xaa）</p>
+<p> Example: <em><code>self.put(10, 20, self.out_binary, [4, b&#39;\xfe\x55\xaa&#39;])</code></em> </p>
+</li>
+<li><p>data参数是一个包含两个项的Python列表。第一项是二进制格式的索引(由解码器中项的顺序决定)。第二个是Python bytes对象。</p>
+</li>
+</ul>
+</li>
+<li><p><strong>OUTPUT_META</strong> ：</p>
+</li>
+</ol>
+<ul>
+<li><p>输出解码出来的数字（ 在本例中数据本身是一个浮点数）</p>
+<p> Example: <em><code>self.put(10, 20, self.out_meta, 15.7)</code></em> </p>
+</li>
+<li><p>数据参数是特定类型的Python对象，在各自的register()函数中定义</p>
+</li>
+</ul>
+<h1 id="self-wait"><a href="#self-wait" class="headerlink" title="self.wait()"></a>self.wait()</h1><p>这是协议解码器用来将查询发送到libsigrokdecode后端的API调用。<br>从PD的角度来看，这是一个阻塞呼叫。它将阻塞，直到在样本数据中找到指定的条件，然后才将控制权返回给PD。</p>
+<h2 id="原型-1"><a href="#原型-1" class="headerlink" title="原型"></a>原型</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">def</span> <span class="hljs-title function_">wait</span>(<span class="hljs-params">self, conds</span>):<br>    <span class="hljs-comment"># 1. 等待，直到conds中的一个或多个条件匹配.</span><br>    <span class="hljs-comment"># 2. 设置 self.samplenum ，匹配样本的绝对样本数.</span><br>    <span class="hljs-comment"># 3. 根据 self.matched 条件匹配.</span><br>    <span class="hljs-comment"># 4. 返回一个包含匹配样本的pin值的元组.</span><br></code></pre></td></tr></table></figure>
+
+<h2 id="参数-1"><a href="#参数-1" class="headerlink" title="参数"></a>参数</h2><h3 id="空参"><a href="#空参" class="headerlink" title="空参"></a>空参</h3><p>如果完全不提供conds，或者它是一个空列表[]，或者它只是一个“空”条件{}，那么后端将直接跳到下一个示例。 （相当于直接进入下一个样本）</p>
+<p><strong>Examples:</strong></p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># Don&#x27;t wait for any condition, just skip to the next sample.</span><br>pins = self.wait()<br>pins = self.wait([])<br>pins = self.wait(&#123;&#125;)<br>pins = self.wait(&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">1</span>&#125;) <span class="hljs-comment"># Skip one sample, see below.</span><br></code></pre></td></tr></table></figure>
+
+
+
+<h3 id="conds-引脚状态条件-上下沿"><a href="#conds-引脚状态条件-上下沿" class="headerlink" title="conds 引脚状态条件(上下沿)"></a><strong>conds</strong> 引脚状态条件(上下沿)</h3><table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Describe</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>‘<strong>l’</strong></td>
+<td>Low pin value (logical 0)</td>
+</tr>
+<tr>
+<td>‘h’</td>
+<td>High pin value (logical 1)</td>
+</tr>
+<tr>
+<td>‘r’</td>
+<td>Rising edge</td>
+</tr>
+<tr>
+<td>‘f’</td>
+<td>Falling edge</td>
+</tr>
+<tr>
+<td>‘e’</td>
+<td>Either edge (rising or falling)</td>
+</tr>
+<tr>
+<td>‘s’</td>
+<td>稳定状态 Stable state, the opposite of ‘e’. That is, there was no edge and the current and previous pin value were both low (or both high).</td>
+</tr>
+<tr>
+<td>other</td>
+<td>任何其他值都会产生错误。</td>
+</tr>
+</tbody></table>
+<p><strong>Examples:</strong></p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># Wait until pin 7 has a falling edge.</span><br>pins = self.wait(&#123;<span class="hljs-number">7</span>: <span class="hljs-string">&#x27;f&#x27;</span>&#125;)<br><br><span class="hljs-comment"># Wait until pin 3 has a rising edge “and” pin 4 is high at the same time.</span><br>pins = self.wait(&#123;<span class="hljs-number">3</span>: <span class="hljs-string">&#x27;r&#x27;</span>, <span class="hljs-number">4</span>: <span class="hljs-string">&#x27;h&#x27;</span>&#125;)<br><br><span class="hljs-comment"># Wait until pins 2-4 are low and pin 16 has any edge.</span><br>pins = self.wait(&#123;<span class="hljs-number">2</span>: <span class="hljs-string">&#x27;l&#x27;</span>, <span class="hljs-number">3</span>: <span class="hljs-string">&#x27;l&#x27;</span>, <span class="hljs-number">4</span>: <span class="hljs-string">&#x27;l&#x27;</span>, <span class="hljs-number">16</span>: <span class="hljs-string">&#x27;e&#x27;</span>&#125;)<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<h3 id="conds-样品跳过条-样本数量"><a href="#conds-样品跳过条-样本数量" class="headerlink" title="conds 样品跳过条(样本数量)"></a><strong>conds</strong> 样品跳过条(样本数量)</h3><p>后端另一个常见的查询是，当解码器想要跳过一定数量的样本时，而不管样本值是什么(因为它们与当前的协议无关)。<br>这可以通过条件dict中的一个特殊键来实现— ‘<strong>skip’</strong> 。 ‘<strong>skip’</strong> 键的值是要跳过的样本的整数。</p>
+<p>解码器也可以跳过一定的时间，通过使用采样来计算 ‘<strong>skip’</strong> 键的正确值。</p>
+<p><strong>Examples:</strong></p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># Skip over the next 100 samples.</span><br>pins = self.wait(&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">100</span>&#125;)<br><br><span class="hljs-comment"># Skip over the next 20ms of samples.</span><br>pins = self.wait(&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">20</span> * (<span class="hljs-number">1000</span> / self.samplerate)&#125;)<br><br><span class="hljs-comment"># Skip half a bitwidth of samples (e.g. for UART).</span><br>self.halfbitwidth = <span class="hljs-built_in">int</span>((self.samplerate / self.options[<span class="hljs-string">&#x27;baudrate&#x27;</span>]) / <span class="hljs-number">2.0</span>)<br>pins = self.wait(&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: self.halfbitwidth&#125;)<br></code></pre></td></tr></table></figure>
+
+
+
+<h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs python">pins = self.wait(&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">100</span>&#125;)  	<span class="hljs-comment">#这里的pins是元组，</span><br>(pins,) = self.wait(&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">100</span>&#125;)	<span class="hljs-comment">#可以写成这样</span><br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+<h1 id="self-skip"><a href="#self-skip" class="headerlink" title="self.skip()"></a>self.skip()</h1><p><strong>这个函数不知道怎么回事，用了会报错</strong></p>
+<p>注意这下面的skip不是wait</p>
+<p>在相同的条件下混合通道索引键和“跳过”键通常没有多大意义，然而，在不同的情况下，混合索引键和“跳过”键是非常合理的: </p>
+<p>（下面的语句应该是  <code>((pin7 e)和(pin12 l))或(skip 10000)</code> ）</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># Wait until there&#x27;s</span><br><span class="hljs-comment"># a) an edge on pin 7 and a low state on pin 12, and/or</span><br><span class="hljs-comment"># b) 1000 samples passed by,</span><br><span class="hljs-comment"># whichever occurs first (both conditions could occur at the same time too).</span><br><span class="hljs-comment"># This is basically &quot;wait for an edge on pin 7 and a low state on pin 12,</span><br><span class="hljs-comment"># with a timeout of 1000 samples&quot;.</span><br>pins = self.skip((&#123;<span class="hljs-number">7</span>: <span class="hljs-string">&#x27;e&#x27;</span>, <span class="hljs-number">12</span>: <span class="hljs-string">&#x27;l&#x27;</span>&#125;, &#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">1000</span>&#125;))<br></code></pre></td></tr></table></figure>
+
+
+
+<h1 id="self-matched"><a href="#self-matched" class="headerlink" title="self.matched"></a>self.matched</h1><p>当解码器通过<strong>self.wait（）</strong>请求前端等待多个条件时，当该调用返回时，PD仅知道<strong>至少一个</strong>条件已匹配。但是，在大多数情况下，它还需要知道<strong>哪些</strong>条件匹配（或不匹配）。</p>
+<p>这是<strong>self.matched</strong>提供的信息。它是布尔值（<strong>True</strong>或<strong>False</strong>）的元组，始终包含与上次<strong>self.wait（）</strong>调用中存在的条件一样多的条目。对于每个条件，各自的布尔值表示此特定条件是否匹配。</p>
+<p><strong>Example:</strong></p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><code class="hljs Python"><span class="hljs-comment"># 等待，直到引脚9的上升边 或 引脚27的高状态(逻辑1)， 或 经过一定的“时间”(这里:跳过1000个样本)。这意味着有一个1000个样本的“超时”之后self.wait()将返回(不管其他条件如何)。</span><br>pins = self.wait([&#123;<span class="hljs-number">9</span>: <span class="hljs-string">&#x27;r&#x27;</span>&#125;, &#123;<span class="hljs-number">27</span>: <span class="hljs-string">&#x27;h&#x27;</span>&#125;, &#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">1000</span>&#125;])<br><br><span class="hljs-keyword">if</span> self.matched == (<span class="hljs-literal">True</span>, <span class="hljs-literal">True</span>, <span class="hljs-literal">False</span>):<br>    <span class="hljs-comment"># 前两个条件是同时匹配的。</span><br>    <span class="hljs-comment"># Pin 9 contains a rising edge and pin 27 is high.</span><br><span class="hljs-keyword">elif</span> self.matched == (<span class="hljs-literal">True</span>, <span class="hljs-literal">False</span>, <span class="hljs-literal">False</span>):<br>    <span class="hljs-comment"># Rising edge on pin 9, pin 27 is guaranteed to not be high.</span><br><span class="hljs-keyword">elif</span> self.matched == (<span class="hljs-literal">False</span>, <span class="hljs-literal">True</span>, <span class="hljs-literal">False</span>):<br>    <span class="hljs-comment"># Pin 27 is high, pin 9 is guaranteed to not be a rising edge.</span><br><span class="hljs-keyword">elif</span> self.matched == (<span class="hljs-literal">False</span>, <span class="hljs-literal">False</span>, <span class="hljs-literal">True</span>):<br>    <span class="hljs-comment"># Pin 9 is not a rising edge, pin 27 is not high, but 1000 samples were skipped.</span><br><span class="hljs-keyword">elif</span> self.matched == (<span class="hljs-literal">False</span>, <span class="hljs-literal">True</span>, <span class="hljs-literal">True</span>):<br>    <span class="hljs-comment"># Pin 9 is not a rising edge, pin 27 is high, and it just so happens that</span><br>    <span class="hljs-comment"># exactly 1000 samples were skipped.</span><br><span class="hljs-keyword">elif</span> self.matched == (<span class="hljs-literal">False</span>, <span class="hljs-literal">False</span>, <span class="hljs-literal">False</span>):<br>    <span class="hljs-comment"># Bug, this cannot happen. self.wait() only returns upon &gt;= 1 matches.</span><br></code></pre></td></tr></table></figure>
+
+<p>对于’skip’键&#x2F;值对self。如果达到指定数目的样本，则匹配的tuple将包含一个真值。 </p>
+<p><strong>Example:</strong></p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># Wait for a falling edge on channel 18, or until 25000 samples passed by.</span><br>pins = self.wait([&#123;<span class="hljs-number">18</span>: <span class="hljs-string">&#x27;f&#x27;</span>&#125;, &#123;<span class="hljs-string">&#x27;skip&#x27;</span>: <span class="hljs-number">25000</span>&#125;])<br><br><span class="hljs-keyword">if</span> self.matched[<span class="hljs-number">0</span>]:<br>    <span class="hljs-comment"># Pin 18 has a falling edge.</span><br><span class="hljs-keyword">if</span> self.matched[<span class="hljs-number">1</span>]:<br>    <span class="hljs-comment"># 25000 samples were skipped.</span><br></code></pre></td></tr></table></figure>
+
+
+
+<h1 id="self-samplenum"><a href="#self-samplenum" class="headerlink" title="self.samplenum"></a>self.samplenum</h1><p><em>self.samplenum 相当于一个指针，指示当前解码器解码的样本的位置</em></p>
+<p> <strong>self.samplenum</strong>是一个特殊属性，对于协议解码器来说是只读的，并且只能由libsigrokdecode后端设置。 </p>
+<p> <strong>self.samplenum</strong> 总是在最后一次self.wait()调用返回后的当前绝对样本号(从0开始)。 </p>
+<h1 id="self-samplerate"><a href="#self-samplerate" class="headerlink" title="self.samplerate"></a>self.samplerate</h1><p>采样率</p>
+<h1 id="self-has-channel"><a href="#self-has-channel" class="headerlink" title="self.has_channel"></a>self.has_channel</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment">#code1 </span><br>...<br>self.have_cs = self.has_channel(<span class="hljs-number">3</span>)<br>...<br><br><span class="hljs-comment">#code2</span><br>...<br><span class="hljs-keyword">if</span> self.have_cs <span class="hljs-keyword">and</span> (first <span class="hljs-keyword">or</span> (self.matched &amp; (<span class="hljs-number">0b1</span> &lt;&lt; self.have_cs))):<br>    ....<br>...<br></code></pre></td></tr></table></figure>
+
+<p>self.has_channel返回的值似乎是对应通道的值，比如这里返回的应该是3.</p>
+<h1 id="一些奇怪的问题"><a href="#一些奇怪的问题" class="headerlink" title="一些奇怪的问题"></a>一些奇怪的问题</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">def</span> <span class="hljs-title function_">xxxxx</span>(<span class="hljs-params">self</span>):<br>    logging.info(<span class="hljs-string">&#x27;----- xxx start -----&#x27;</span>)<br>    data = <span class="hljs-number">0</span><br>    bit_count = <span class="hljs-number">5</span><br><br>    <span class="hljs-keyword">while</span> <span class="hljs-literal">True</span>:<br>        pin_state = self.wait( [&#123;<span class="hljs-number">0</span>: <span class="hljs-string">&#x27;r&#x27;</span>&#125;, &#123;<span class="hljs-string">&#x27;skip&#x27;</span>: self.freq_half_samp &#125;] )<br>        <span class="hljs-keyword">if</span>( self.matched &amp; (<span class="hljs-number">0b1</span> &lt;&lt; <span class="hljs-number">0</span>) ):        <span class="hljs-comment">#r</span><br>            self.LS_2 |= <span class="hljs-number">0b0</span> &lt;&lt; bit_count<br>            self.wait( [&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: (self.bit_samp-self.freq_quarter_samp) &#125;] )<br>        <span class="hljs-keyword">else</span>:<br>            self.LS_2 |= <span class="hljs-number">0b1</span> &lt;&lt; bit_count<br>            self.wait( [&#123;<span class="hljs-string">&#x27;skip&#x27;</span>: (self.bit_samp-self.freq_half_samp) &#125;] )<br>        <span class="hljs-keyword">if</span>( bit_count == <span class="hljs-number">0</span> ):<br>            <span class="hljs-keyword">break</span><br>        bit_count -= <span class="hljs-number">1</span><br>    logging.info(<span class="hljs-string">&#x27;----- xxx end -----&#x27;</span>)<br>    <span class="hljs-keyword">return</span> data<br><br><br></code></pre></td></tr></table></figure>
+
+
+
+<p>注意到<code>pin_state = self.wait( [&#123;0: &#39;r&#39;&#125;, &#123;&#39;skip&#39;: self.freq_half_samp &#125;] )</code>语句，把pin_state删掉就可以正常运行，若没删if后面的self.wait就会一直出问题。</p>
+<ul>
+<li>原因应该是pin_state没打括号，pin_state变成了元组，所以出现这种情况</li>
+</ul>
+<h1 id="附录"><a href="#附录" class="headerlink" title="附录"></a>附录</h1><h2 id="一些快速处理数据的方法"><a href="#一些快速处理数据的方法" class="headerlink" title="一些快速处理数据的方法"></a>一些快速处理数据的方法</h2><ul>
+<li>快速计算奇偶校验</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python">ones = <span class="hljs-built_in">bin</span>(<span class="hljs-number">0x55</span>).count(<span class="hljs-string">&#x27;1&#x27;</span>)<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>BCD转成整数</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">def</span> <span class="hljs-title function_">bcd2int</span>(<span class="hljs-params">b</span>):<br>    <span class="hljs-keyword">return</span> (b &amp; <span class="hljs-number">0x0f</span>) + ((b &gt;&gt; <span class="hljs-number">4</span>) * <span class="hljs-number">10</span>)<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>一种将总线引脚序列转换为数字值的好方法：</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">from</span> functools <span class="hljs-keyword">import</span> reduce<br><br><span class="hljs-keyword">def</span> <span class="hljs-title function_">reduce_bus</span>(<span class="hljs-params">bus</span>):<br>    <span class="hljs-keyword">if</span> <span class="hljs-number">0xFF</span> <span class="hljs-keyword">in</span> bus:<br>        <span class="hljs-keyword">return</span> <span class="hljs-literal">None</span> <span class="hljs-comment"># unassigned bus channels</span><br>    <span class="hljs-keyword">else</span>:<br>        <span class="hljs-keyword">return</span> reduce(<span class="hljs-keyword">lambda</span> a, b: (a &lt;&lt; <span class="hljs-number">1</span>) | b, <span class="hljs-built_in">reversed</span>(bus))<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>根据协议命令构造方法名的一个好方法是(假设cmd是8，这将调用self.handle_cmd_0x08函数):</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs python">fn = <span class="hljs-built_in">getattr</span>(self, <span class="hljs-string">&#x27;handle_cmd_0x%02x&#x27;</span> % cmd);<br>fn(arg1, arg2, ...)<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>一种处理Python缺少枚举类型(对状态、pin索引、注释索引等有用)的方法</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Cycle</span>:<br>    NONE, MEMRD, MEMWR, IORD, IOWR, FETCH, INTACK = <span class="hljs-built_in">range</span>(<span class="hljs-number">7</span>)<br></code></pre></td></tr></table></figure>
+
+
+                
+              </div>
+            
+            <hr/>
+            <div>
+              <div class="post-metas my-3">
+  
+    <div class="post-meta mr-3 d-flex align-items-center">
+      <i class="iconfont icon-category"></i>
+      
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/tools/" class="category-chain-item">tools</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+    </div>
+  
+  
+    <div class="post-meta">
+      <i class="iconfont icon-tags"></i>
+      
+        <a href="/tags/dslogic/">#dslogic</a>
+      
+        <a href="/tags/%E9%80%BB%E8%BE%91%E5%88%86%E6%9E%90%E4%BB%AA/">#逻辑分析仪</a>
+      
+        <a href="/tags/pyhton/">#pyhton</a>
+      
+        <a href="/tags/decoder/">#decoder</a>
+      
+    </div>
+  
+</div>
+
+
+              
+  
+
+  <div class="license-box my-3">
+    <div class="license-title">
+      <div>DSlogic协议开发笔记</div>
+      <div>https://www.oikiou.top/2020/5ced0506/</div>
+    </div>
+    <div class="license-meta">
+      
+        <div class="license-meta-item">
+          <div>作者</div>
+          <div>Oikiou</div>
+        </div>
+      
+      
+        <div class="license-meta-item license-meta-date">
+          <div>发布于</div>
+          <div>2020年5月21日</div>
+        </div>
+      
+      
+      <div class="license-meta-item">
+        <div>许可协议</div>
+        <div>
+          
+            
+            
+              <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              <span class="hint--top hint--rounded" aria-label="BY - 署名">
+                <i class="iconfont icon-by"></i>
+              </span>
+              </a>
+            
+              <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              <span class="hint--top hint--rounded" aria-label="NC - 非商业性使用">
+                <i class="iconfont icon-nc"></i>
+              </span>
+              </a>
+            
+              <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              <span class="hint--top hint--rounded" aria-label="SA - 相同方式共享">
+                <i class="iconfont icon-sa"></i>
+              </span>
+              </a>
+            
+          
+        </div>
+      </div>
+    </div>
+    <div class="license-icon iconfont"></div>
+  </div>
+
+
+
+              
+                <div class="post-prevnext my-3">
+                  <article class="post-prev col-6">
+                    
+                    
+                      <a href="/2020/4ade0b2f/" title="SourceInsigh中Qicker的使用">
+                        <i class="iconfont icon-arrowleft"></i>
+                        <span class="hidden-mobile">SourceInsigh中Qicker的使用</span>
+                        <span class="visible-mobile">上一篇</span>
+                      </a>
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/2020/a2d461a8/" title="给正在准备蓝桥杯的你">
+                        <span class="hidden-mobile">给正在准备蓝桥杯的你</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+  <article id="comments" lazyload>
+    
+  <div id="twikoo"></div>
+  <script type="text/javascript">
+    Fluid.utils.loadComments('#comments', function() {
+      Fluid.utils.createScript('https://lib.baomitu.com/twikoo/1.6.5/twikoo.all.min.js', function() {
+        var options = Object.assign(
+          {"envId":"https://pretty.cf:8884/","region":"ap-shanghai","path":"window.location.pathname"},
+          {
+            el: '#twikoo',
+            path: 'window.location.pathname',
+            onCommentLoaded: function() {
+              var imgSelector = '#twikoo .tk-content img:not(.tk-owo-emotion)';
+              Fluid.plugins.imageCaption(imgSelector);
+              Fluid.plugins.fancyBox(imgSelector);
+            }
+          }
+        )
+        twikoo.init(options)
+      });
+    });
+  </script>
+  <noscript>Please enable JavaScript to view the comments</noscript>
+
+
+  </article>
+
+
+          </article>
+        </div>
+      </div>
+    </div>
+
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar category-bar" style="margin-left: -1rem">
+    
+
+
+
+
+
+<div class="category-list">
+  
+  
+    
+    
+    
+    <div class="category row nomargin-x">
+      <a class="category-item 
+          list-group-item category-item-action col-10 col-md-11 col-xm-11" title="tools"
+        id="heading-4a931512ce65bdc9ca6808adf92d8783" role="tab" data-toggle="collapse" href="#collapse-4a931512ce65bdc9ca6808adf92d8783"
+        aria-expanded="true"
+      >
+        tools
+        <span class="list-group-count">(16)</span>
+        <i class="iconfont icon-arrowright"></i>
+      </a>
+      
+      <div class="category-collapse collapse show" id="collapse-4a931512ce65bdc9ca6808adf92d8783"
+           role="tabpanel" aria-labelledby="heading-4a931512ce65bdc9ca6808adf92d8783">
+        
+        
+          
+  <div class="category-post-list">
+    
+    
+      
+      
+        <a href="/2020/5ced0506/" title="DSlogic协议开发笔记"
+           class="list-group-item list-group-item-action
+           active">
+          <span class="category-post">DSlogic协议开发笔记</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2020/4ade0b2f/" title="SourceInsigh中Qicker的使用"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">SourceInsigh中Qicker的使用</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2021/69c3279c/" title="Git"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">Git</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2021/9be43835/" title="VSCode"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">VSCode</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2021/18d811b/" title="J-Link RTT的使用方法"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">J-Link RTT的使用方法</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2021/30f8332a/" title="手动添加JLink不支持的芯片"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">手动添加JLink不支持的芯片</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2021/9f39ed86/" title="VSCode多行编辑被占用"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">VSCode多行编辑被占用</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/aa858de8/" title="Wordpress"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">Wordpress</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/a8b000ae/" title="RDPWrap"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">RDPWrap</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/f5f9fa9b/" title="Docker"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">Docker</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/1d3ed0f3/" title="VScode插件CommentTranslate在WSL内无效"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">VScode插件CommentTranslate在WSL内无效</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/f96c3c41/" title="静态网页 静态博客"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">静态网页 静态博客</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/fd90dc4c/" title="使用Jlink 烧写SPI Flash存储芯片"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">使用Jlink 烧写SPI Flash存储芯片</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/471570a6/" title="SpaceDesk手机用作电脑屏幕"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">SpaceDesk手机用作电脑屏幕</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/9d389561/" title="Tmux 终端复用器(Terminal Multiplexer)"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">Tmux 终端复用器(Terminal Multiplexer)</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2022/6fb71d96/" title="单位换算"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">单位换算</span>
+        </a>
+      
+    
+  </div>
+
+        
+      </div>
+    </div>
+  
+</div>
+
+
+  </aside>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+    
+
+    
+      <a id="scroll-top-button" aria-label="TOP" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v" for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+  
+  
+    <div class="statistics">
+  
+  
+
+  
+    
+      <span id="busuanzi_container_site_pv" style="display: none">
+        总访问量 
+        <span id="busuanzi_value_site_pv"></span>
+         次
+      </span>
+    
+    
+      <span id="busuanzi_container_site_uv" style="display: none">
+        总访客数 
+        <span id="busuanzi_value_site_uv"></span>
+         人
+      </span>
+    
+    
+  
+</div>
+
+  
+  
+  
+</div>
+
+  </footer>
+
+  <!-- Scripts -->
+  
+  <script  src="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://lib.baomitu.com/jquery/3.6.0/jquery.min.js" ></script>
+<script  src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+
+  <script  src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var subtitle = document.getElementById('subtitle');
+      if (!subtitle || !typing) {
+        return;
+      }
+      var text = subtitle.getAttribute('data-typed-text');
+      
+        typing(text);
+      
+    })(window, document);
+  </script>
+
+
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/tocbot/4.18.2/tocbot.min.js', function() {
+    var toc = jQuery('#toc');
+    if (toc.length === 0 || !window.tocbot) { return; }
+    var boardCtn = jQuery('#board-ctn');
+    var boardTop = boardCtn.offset().top;
+
+    window.tocbot.init({
+      tocSelector     : '#toc-body',
+      contentSelector : '.markdown-body',
+      headingSelector : CONFIG.toc.headingSelector || 'h1,h2,h3,h4,h5,h6',
+      linkClass       : 'tocbot-link',
+      activeLinkClass : 'tocbot-active-link',
+      listClass       : 'tocbot-list',
+      isCollapsedClass: 'tocbot-is-collapsed',
+      collapsibleClass: 'tocbot-is-collapsible',
+      collapseDepth   : CONFIG.toc.collapseDepth || 0,
+      scrollSmooth    : true,
+      headingsOffset  : -boardTop
+    });
+    if (toc.find('.toc-list-item').length > 0) {
+      toc.css('visibility', 'visible');
+    }
+  });
+</script>
+
+
+  <script src=https://lib.baomitu.com/clipboard.js/2.0.10/clipboard.min.js></script>
+
+  <script>Fluid.plugins.codeWidget();</script>
+
+
+  
+<script>
   Fluid.utils.createScript('https://lib.baomitu.com/anchor-js/4.3.1/anchor.min.js', function() {
     window.anchors.options = {
       placement: CONFIG.anchorjs.placement,
@@ -17,4 +1207,40 @@
     }
     window.anchors.add(res.join(', '));
   });
-</script><script>Fluid.utils.createScript("https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js",function(){Fluid.plugins.fancyBox()})</script><script>Fluid.plugins.imageCaption()</script><script src="/js/local-search.js"></script><script defer="defer" src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><script src="/js/custom.js"></script><script src="/js/boot.js"></script><noscript><div class="noscript-warning">博客在允许 JavaScript 运行的环境下浏览效果更佳</div></noscript></body></html>
+</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js', function() {
+    Fluid.plugins.fancyBox();
+  });
+</script>
+
+
+  <script>Fluid.plugins.imageCaption();</script>
+
+  <script  src="/js/local-search.js" ></script>
+
+  <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" ></script>
+
+
+
+
+  
+<script src="/js/custom.js"></script>
+
+
+
+<!-- 主题的启动项，将它保持在最底部 -->
+<!-- the boot of the theme, keep it at the bottom -->
+<script  src="/js/boot.js" ></script>
+
+
+  
+
+  <noscript>
+    <div class="noscript-warning">博客在允许 JavaScript 运行的环境下浏览效果更佳</div>
+  </noscript>
+</body>
+</html>
