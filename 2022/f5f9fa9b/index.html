@@ -25,14 +25,14 @@
 <meta property="og:site_name" content="Oikiou&#39;s Blog">
 <meta property="og:description" content="DockerDocker是什么&amp;如何理解DockerDocker的底层原理 cgroup namespace 容器(container)有不同的状态, 停止状态 镜像(image)是docker生命周期中的构建或打包阶段, 而容器(container)则是启动或执行阶段. docker hub !!ADD ME!!      Docker 和 VM 的区别二者的不同：  VM(VMware">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://www.oikiou.top/2022/undefined/architecture.svg">
-<meta property="og:image" content="https://www.oikiou.top/2022/undefined/mark4536000.image">
-<meta property="og:image" content="https://www.oikiou.top/2022/undefined/watermark16682557597978.png">
-<meta property="og:image" content="https://www.oikiou.top/2022/undefined/watermark.png">
-<meta property="og:image" content="https://www.oikiou.top/2022/undefined/202111041612065293278565.png">
-<meta property="og:image" content="https://www.oikiou.top/2022/undefined/9114e4a753de14a7531e867b908e6660.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/f5f9fa9b/architecture.svg">
+<meta property="og:image" content="https://www.oikiou.top/2022/f5f9fa9b/mark4536000.image">
+<meta property="og:image" content="https://www.oikiou.top/2022/f5f9fa9b/watermark16682557597978.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/f5f9fa9b/watermark.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/f5f9fa9b/202111041612065293278565.png">
+<meta property="og:image" content="https://www.oikiou.top/2022/f5f9fa9b/9114e4a753de14a7531e867b908e6660.png">
 <meta property="article:published_time" content="2022-07-21T13:38:15.000Z">
-<meta property="article:modified_time" content="2022-11-14T14:01:13.134Z">
+<meta property="article:modified_time" content="2022-11-14T14:09:46.140Z">
 <meta property="article:author" content="Oikiou">
 <meta property="article:tag" content="docker">
 <meta property="article:tag" content="dockerfile">
@@ -40,7 +40,7 @@
 <meta property="article:tag" content="cgroup">
 <meta property="article:tag" content="dockerhub">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://www.oikiou.top/2022/undefined/architecture.svg">
+<meta name="twitter:image" content="https://www.oikiou.top/2022/f5f9fa9b/architecture.svg">
   
   
     <meta name="referrer" content="no-referrer-when-downgrade">
@@ -367,7 +367,7 @@
               <p class="note note-info">
                 
                   
-                    本文最后更新于：9 分钟前
+                    本文最后更新于：12 小时前
                   
                 
               </p>
@@ -382,17 +382,17 @@
 <p>镜像(image)是docker生命周期中的构建或打包阶段, 而容器(container)则是启动或执行阶段.</p>
 <p>docker hub</p>
 <p>!!ADD ME!!</p>
-<p><img src="/2022/undefined/architecture.svg" srcset="/img/loading.gif" lazyload alt="Docker Architecture Diagram"></p>
-<p><img src="/2022/undefined/mark4536000.image" srcset="/img/loading.gif" lazyload alt="img"></p>
-<p><img src="/2022/undefined/watermark16682557597978.png" srcset="/img/loading.gif" lazyload alt="x"></p>
-<p><img src="/2022/undefined/watermark.png" srcset="/img/loading.gif" lazyload alt="xx"></p>
-<p><img src="/2022/undefined/202111041612065293278565.png" srcset="/img/loading.gif" lazyload alt="何種應用適合PaaS平台容器/微服務架構釋疑| 網管人"></p>
+<p><img src="/2022/f5f9fa9b/architecture.svg" srcset="/img/loading.gif" lazyload alt="Docker Architecture Diagram"></p>
+<p><img src="/2022/f5f9fa9b/mark4536000.image" srcset="/img/loading.gif" lazyload alt="img"></p>
+<p><img src="/2022/f5f9fa9b/watermark16682557597978.png" srcset="/img/loading.gif" lazyload alt="x"></p>
+<p><img src="/2022/f5f9fa9b/watermark.png" srcset="/img/loading.gif" lazyload alt="xx"></p>
+<p><img src="/2022/f5f9fa9b/202111041612065293278565.png" srcset="/img/loading.gif" lazyload alt="何種應用適合PaaS平台容器/微服務架構釋疑| 網管人"></p>
 <h2 id="Docker-和-VM-的区别"><a href="#Docker-和-VM-的区别" class="headerlink" title="Docker 和 VM 的区别"></a>Docker 和 VM 的区别</h2><p>二者的不同：</p>
 <ul>
 <li>VM(VMware)在宿主机器、宿主机器操作系统的基础上创建虚拟层、虚拟化的操作系统、虚拟化的仓库，然后再安装应用；</li>
 <li>Container(Docker容器)，在宿主机器、宿主机器操作系统上创建Docker引擎，在引擎的基础上再安装应用。</li>
 </ul>
-<p><img src="/2022/undefined/9114e4a753de14a7531e867b908e6660.png" srcset="/img/loading.gif" lazyload alt="img"></p>
+<p><img src="/2022/f5f9fa9b/9114e4a753de14a7531e867b908e6660.png" srcset="/img/loading.gif" lazyload alt="img"></p>
 <p><strong>与传统VM特性对比：</strong><br>作为一种轻量级的虚拟化方式，Docker在运行应用上跟传统的虚拟机方式相比具有显著优势：</p>
 <ul>
 <li>Docker 容器很快，启动和停止可以在秒级实现，这相比传统的虚拟机方式要快得多。</li>
