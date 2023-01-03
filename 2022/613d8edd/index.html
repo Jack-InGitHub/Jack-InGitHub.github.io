@@ -18,15 +18,15 @@
   <meta name="author" content="Oikiou">
   <meta name="keywords" content="">
   
-    <meta name="description" content="zip gzip bzip2 tar 的区别和差异 gzip 和 bzip2用于压缩单个文件。bzip2 比 gzip 具有更高的压缩率，同样的也会需要更多时间来进行压缩。 zip 和 tar用于压缩和归档文件夹。             zip .zip 可以压缩目录 源文件会保留 专门的压缩命令   gzip .gz 只能压缩文件 压缩后源文件会被删除    bzip2 .bz2 只能压缩文件">
+    <meta name="description" content="zip gzip bzip2 tar 命令的区别和差异 gzip 和 bzip2用于压缩单个文件。bzip2 比 gzip 具有更高的压缩率，同样的也会需要更多更多更多时间来进行压缩。 tar格式的包只是将文件归档在一起, 并不会有任何压缩。 zip 和 tar 命令用于压缩和归档文件夹。             zip .zip 可以压缩目录 源文件会保留 专门的压缩命令   gzip .gz">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Zip Gzip Bzip2 Tar 的区别和差异">
 <meta property="og:url" content="https://www.oikiou.top/2022/613d8edd/index.html">
 <meta property="og:site_name" content="Oikiou&#39;s Blog">
-<meta property="og:description" content="zip gzip bzip2 tar 的区别和差异 gzip 和 bzip2用于压缩单个文件。bzip2 比 gzip 具有更高的压缩率，同样的也会需要更多时间来进行压缩。 zip 和 tar用于压缩和归档文件夹。             zip .zip 可以压缩目录 源文件会保留 专门的压缩命令   gzip .gz 只能压缩文件 压缩后源文件会被删除    bzip2 .bz2 只能压缩文件">
+<meta property="og:description" content="zip gzip bzip2 tar 命令的区别和差异 gzip 和 bzip2用于压缩单个文件。bzip2 比 gzip 具有更高的压缩率，同样的也会需要更多更多更多时间来进行压缩。 tar格式的包只是将文件归档在一起, 并不会有任何压缩。 zip 和 tar 命令用于压缩和归档文件夹。             zip .zip 可以压缩目录 源文件会保留 专门的压缩命令   gzip .gz">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2022-09-14T16:20:15.000Z">
-<meta property="article:modified_time" content="2022-09-16T05:10:53.788Z">
+<meta property="article:modified_time" content="2023-01-03T12:52:52.470Z">
 <meta property="article:author" content="Oikiou">
 <meta property="article:tag" content="zip">
 <meta property="article:tag" content="gzip">
@@ -287,7 +287,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          3.1k 字
+          3.2k 字
         
       </span>
     
@@ -359,7 +359,7 @@
               <p class="note note-info">
                 
                   
-                    本文最后更新于：2 个月前
+                    本文最后更新于：36 分钟前
                   
                 
               </p>
@@ -367,9 +367,10 @@
             
               <div class="markdown-body">
                 
-                <h1 id="zip-gzip-bzip2-tar-的区别和差异"><a href="#zip-gzip-bzip2-tar-的区别和差异" class="headerlink" title="zip gzip bzip2 tar 的区别和差异"></a>zip gzip bzip2 tar 的区别和差异</h1><ul>
-<li><strong>gzip 和 bzip2</strong>用于压缩单个文件。bzip2 比 gzip 具有更高的压缩率，同样的也会需要更多时间来进行压缩。</li>
-<li><strong>zip 和 tar</strong>用于压缩和归档文件夹。</li>
+                <h1 id="zip-gzip-bzip2-tar-命令的区别和差异"><a href="#zip-gzip-bzip2-tar-命令的区别和差异" class="headerlink" title="zip gzip bzip2 tar 命令的区别和差异"></a>zip gzip bzip2 tar 命令的区别和差异</h1><ul>
+<li><code>gzip</code> 和 <code>bzip2</code>用于压缩单个文件。bzip2 比 gzip 具有更高的压缩率，同样的也会需要<strong>更多更多更多</strong>时间来进行压缩。</li>
+<li><code>tar</code>格式的包只是将文件归档在一起, 并不会有任何压缩。</li>
+<li><code>zip</code> 和 <code>tar</code> 命令用于压缩和归档文件夹。</li>
 </ul>
 <table>
 <thead>
@@ -494,7 +495,7 @@
 <p><strong>示例</strong></p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <span class="hljs-built_in">ls</span><br>a.txt.bz2  music.tar.bz2<br><br><span class="hljs-comment"># 解压缩文件</span><br>$ bunzip2 -k a.txt.bz2<br>$ <span class="hljs-built_in">ls</span><br>a.txt  a.txt.bz2  music.tar.bz2<br><br><span class="hljs-comment"># 使用tar完成解压解包</span><br>$ tar -jxvf music.tar.bz2<br>$ <span class="hljs-built_in">ls</span><br>a.txt  a.txt.bz2  music  music.tar.bz2<br></code></pre></td></tr></table></figure>
 
-<h1 id="tar-和-tar"><a href="#tar-和-tar" class="headerlink" title="tar 和 tar"></a>tar 和 tar</h1><h2 id="tar-1"><a href="#tar-1" class="headerlink" title="tar"></a>tar</h2><p><strong>命令格式</strong></p>
+<h1 id="tar-1"><a href="#tar-1" class="headerlink" title="tar"></a>tar</h1><h2 id="tar-2"><a href="#tar-2" class="headerlink" title="tar"></a>tar</h2><p><strong>命令格式</strong></p>
 <figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs text">tar [选项] [压缩后文件名] [目录]<br></code></pre></td></tr></table></figure>
 
 <p><strong>命令描述</strong></p>
@@ -708,7 +709,7 @@
         aria-expanded="true"
       >
         blog
-        <span class="list-group-count">(26)</span>
+        <span class="list-group-count">(27)</span>
         <i class="iconfont icon-arrowright"></i>
       </a>
       
