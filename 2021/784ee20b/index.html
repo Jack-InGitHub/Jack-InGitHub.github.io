@@ -27,11 +27,11 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://www.oikiou.top/2021/784ee20b/image-20211129131237501.png">
 <meta property="article:published_time" content="2021-11-29T05:12:15.000Z">
-<meta property="article:modified_time" content="2022-09-16T05:10:53.753Z">
+<meta property="article:modified_time" content="2023-01-03T12:52:52.470Z">
 <meta property="article:author" content="Oikiou">
 <meta property="article:tag" content="windows">
-<meta property="article:tag" content="wsl">
 <meta property="article:tag" content="linux">
+<meta property="article:tag" content="wsl">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://www.oikiou.top/2021/784ee20b/image-20211129131237501.png">
   
@@ -288,7 +288,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          8.1k 字
+          9.2k 字
         
       </span>
     
@@ -299,7 +299,7 @@
         
         
         
-          136 分钟
+          154 分钟
         
       </span>
     
@@ -360,7 +360,7 @@
               <p class="note note-info">
                 
                   
-                    本文最后更新于：2 个月前
+                    本文最后更新于：36 分钟前
                   
                 
               </p>
@@ -373,7 +373,10 @@
 <p><a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows/wsl/install">一键自动安装 WSL</a></p>
 <p><em><strong>ELSE</strong></em></p>
 <p><a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows/wsl/install-manual">旧版 WSL 的手动安装步骤(可以更改WSL系统的存放位置)</a></p>
-<h2 id="手动安装"><a href="#手动安装" class="headerlink" title="手动安装"></a>手动安装</h2><p>以下指令需要在<strong>管理员</strong>下的 powershell 运行</p>
+<h2 id="手动安装"><a href="#手动安装" class="headerlink" title="手动安装"></a>手动安装</h2><blockquote>
+<p>   手动安装的优点是避免Linux的镜像文件(<code>ext4.vhdx</code>)存放在C盘, 存放<code>ext4.vhdx</code>的位置可以自定义.</p>
+</blockquote>
+<p>以下指令需要在<strong>管理员</strong>下的 powershell 运行</p>
 <figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><code class="hljs awk"><span class="hljs-comment"># 1 开启Microsoft-Windows-Subsystem-Linux</span><br>dism.exe <span class="hljs-regexp">/online /</span>enable-feature <span class="hljs-regexp">/featurename:Microsoft-Windows-Subsystem-Linux /</span>all /norestart<br><br><span class="hljs-comment"># 2 开启VirtualMachinePlatform</span><br>dism.exe <span class="hljs-regexp">/online /</span>enable-feature <span class="hljs-regexp">/featurename:VirtualMachinePlatform /</span>all /norestart<br><br><span class="hljs-comment"># 3 重启</span><br><span class="hljs-comment"># reboot</span><br><br><span class="hljs-comment"># 4 安装WLS2内核更新包</span><br>https:<span class="hljs-regexp">//</span>wslstorestorage.blob.core.windows.net<span class="hljs-regexp">/wslblob/</span>wsl_update_x64.msi<br><br><span class="hljs-comment"># 5 将WSL2设为默认</span><br>wsl --set-default-version <span class="hljs-number">2</span><br><br><span class="hljs-comment"># 6 下载离线包(可以避免将WSL的系统装在C盘)</span><br>https:<span class="hljs-regexp">//</span>docs.microsoft.com<span class="hljs-regexp">/zh-cn/</span>windows<span class="hljs-regexp">/wsl/i</span>nstall-manual<br><span class="hljs-comment"># example</span><br>https:<span class="hljs-regexp">//</span>aka.ms/wslubuntu2004<br>https:<span class="hljs-regexp">//</span>aka.ms/wsl-ubuntu-<span class="hljs-number">1804</span><br>https:<span class="hljs-regexp">//</span>aka.ms/wsl-debian-gnulinux<br><span class="hljs-comment"># 离线包下载完成后解压缩 运行目录内的ubuntu.exe</span><br><span class="hljs-comment"># 会提示输入用户名和密码</span><br><br><span class="hljs-comment"># 7 (可选)安装 windows终端</span><br>https:<span class="hljs-regexp">//</span>docs.microsoft.com<span class="hljs-regexp">/en-us/</span>windows<span class="hljs-regexp">/terminal/g</span>et-started 可选 <br></code></pre></td></tr></table></figure>
 
 
@@ -640,6 +643,39 @@
 <p>具有 <code>path</code> 值的条目必须是带有转义反斜杠的 Windows 路径，例如：<code>C:\\Temp\\myCustomKernel</code></p>
 <p>具有 <code>size</code> 值的条目必须是后跟单位的大小，例如 <code>8GB</code> 或 <code>512MB</code>。</p>
 <p>值类型后具有 * 的条目仅在Windows 11可用。</p>
+<h2 id="WSL导出与迁移"><a href="#WSL导出与迁移" class="headerlink" title="WSL导出与迁移"></a>WSL导出与迁移</h2><blockquote>
+<p>   我们可以选择手动安装wsl, 这样我们可以避免将wsl安装在c盘, 手动安装的时候, 将下载下来的<code>&lt;distro&gt;.appx</code>文件直接解压, 例如将<code>Ubuntu_1604.2019.523.0_x64.appx</code>解压, 解压出来的文件夹内就包含了<code>ubuntu1604.exe</code>, 运行他就可以启动wsl, 这样可以避免wsl的迁移.</p>
+</blockquote>
+<p><strong>查看WSL分发版本</strong></p>
+<p>在<code>Windows PowerShell</code>中输入如下命令, 查看当前子系统的状态和版本信息.</p>
+<figure class="highlight ada"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs ada">wsl -l <span class="hljs-comment">--all  -v</span><br></code></pre></td></tr></table></figure>
+
+<p>结果如下:</p>
+<figure class="highlight crmsh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs crmsh">  NAME      STATE           <span class="hljs-keyword">VERSION</span><br>* Ubuntu    Running         <span class="hljs-number">2</span><br>  Debian    <span class="hljs-literal">Stopped</span>         <span class="hljs-number">2</span><br></code></pre></td></tr></table></figure>
+
+<p><strong>导出分发版为tar文件</strong></p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">递归创建文件夹</span><br>mkdir -p d:\system\wsl\ubuntu20.04\<br><span class="hljs-meta prompt_"># </span><span class="language-bash">进入文件夹</span><br>cd d:\system\wsl\ubuntu20.04\<br><span class="hljs-meta prompt_"># </span><span class="language-bash">导出tar包 到当前目录</span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">(如果显示的子系统的`NAME`是带有版本号的话需要注意的是这里第二个参数就要带上参数, 例如`Ubuntu-20.04`)</span><br>wsl --export Ubuntu .\ubuntu20.04.tar<br></code></pre></td></tr></table></figure>
+
+<blockquote>
+  <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs shell">--export &lt;发行版&gt; &lt;FileName&gt; [选项]<br>        将发行版导出为 tar 文件。<br>        对于标准输出，文件名可以为 -。<br><br>        选项:<br>            --vhd<br>                指定该发行版应导出为 .vhdx 文件。<br></code></pre></td></tr></table></figure>
+</blockquote>
+<p><strong>注销当前分发版</strong></p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">wsl --unregister Ubuntu<br></code></pre></td></tr></table></figure>
+
+<p><strong>重新导入并安装WSL</strong></p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">wsl --import Ubuntu .\ .\ubuntu20.04.tar --version 2<br></code></pre></td></tr></table></figure>
+
+<blockquote>
+  <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs shell">--import &lt;发行版&gt; &lt;InstallLocation&gt; &lt;FileName&gt; [选项]<br>        将指定的 tar 文件作为新发行版导入。<br>        对于标准输入，文件名可以为 -。<br><br>        选项:<br>            --version &lt;版本&gt;<br>                指定新发行版要使用的版本。<br><br>            --vhd<br>                指定提供的文件是 .vhdx 文件，而不是 tar 文件。<br>                此操作会在指定的安装位置复制 .vhdx 文件。<br></code></pre></td></tr></table></figure>
+</blockquote>
+<p><strong>设置默认登陆用户为安装时用户名</strong></p>
+<blockquote>
+<p>  (如果显示的子系统的<code>NAME</code>是带有版本号的话需要注意的是这里第二个参数就要带上参数, 例如<code>Ubuntu-20.04</code>)</p>
+</blockquote>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">ubuntu config --default-user Username<br></code></pre></td></tr></table></figure>
+
+<p><strong>删除tar文件(可选)</strong></p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">rm .\ubuntu20.04.tar<br></code></pre></td></tr></table></figure>
 
                 
               </div>
@@ -675,9 +711,9 @@
       
         <a href="/tags/windows/">#windows</a>
       
-        <a href="/tags/wsl/">#wsl</a>
-      
         <a href="/tags/linux/">#linux</a>
+      
+        <a href="/tags/wsl/">#wsl</a>
       
     </div>
   
