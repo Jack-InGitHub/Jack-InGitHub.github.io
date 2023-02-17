@@ -7,32 +7,45 @@
         <language>zh-CN</language>
         <pubDate>Mon, 19 Sep 2022 20:54:03 +0800</pubDate>
         <lastBuildDate>Mon, 19 Sep 2022 20:54:03 +0800</lastBuildDate>
-        <category>123</category>
         <category>embedded</category>
-        <category>cc2530</category>
-        <category>zigbee</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>hp</category>
         <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
         <category>sscanf</category>
-        <category>c/c++</category>
         <category>hex</category>
-        <category>md5</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
         <category>osi</category>
-        <category>ssl</category>
-        <category>https</category>
         <category>markdown</category>
-        <category>note</category>
+        <category>md5</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
+        <category>typora</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
@@ -41,113 +54,99 @@
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
+        <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
         <category>nand</category>
-        <category>windows</category>
-        <category>makefile</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
         <category>android</category>
         <category>mtp</category>
         <category>pc</category>
         <category>driver</category>
-        <category>ip</category>
-        <category>location</category>
-        <category>api</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
-        <category>zip</category>
-        <category>gzip</category>
-        <category>bzip</category>
-        <category>tar</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
         <category>character encoding</category>
         <category>gb2312</category>
         <category>utf-8</category>
-        <category>机智云</category>
-        <category>kms</category>
-        <category>office</category>
-        <category>volume</category>
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
         <category>超声波</category>
-        <category>github</category>
-        <category>hosts</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>ct117e-ex</category>
-        <category>c</category>
-        <category>c++</category>
-        <category>ms-dos</category>
-        <category>pid</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>正则表达式</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
         <category>life</category>
         <category>workflow</category>
         <category>人生</category>
-        <category>cat_drive</category>
+        <category>github</category>
+        <category>hosts</category>
         <category>cad</category>
         <category>心理学</category>
-        <category>switch</category>
-        <category>nintendo</category>
-        <category>game</category>
-        <category>synology</category>
+        <category>cat_drive</category>
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
         <category>software</category>
+        <category>synology</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
-        <category>摄影</category>
-        <category>git</category>
         <category>docker</category>
         <category>dockerfile</category>
         <category>namespace</category>
         <category>cgroup</category>
         <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>flash</category>
-        <category>j-tag</category>
-        <category>spacedesk</category>
-        <category>投屏</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>vscode</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
         <category>sourceinsigh</category>
         <category>si</category>
         <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
+        <category>tmux</category>
         <category>unit</category>
         <category>m</category>
         <category>cm</category>
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>tmux</category>
-        <category>cortex-m3</category>
+        <category>cortex-a7</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -156,22 +155,22 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>cortex-a7</category>
+        <category>cortex-m3</category>
         <category>alpha_mini</category>
         <category>正点原子</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
-        <category>ucos</category>
-        <category>rt-thread</category>
-        <category>raspberry</category>
-        <category>ap</category>
-        <category>wifi</category>
-        <category>wiringpi</category>
-        <category>pwm</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
         <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/a1ed3941/</guid>
             <title>我的工作法</title>
@@ -389,7 +388,7 @@
             <description><![CDATA[ &lt;h1 id=&#34;前言：&#34;&gt;&lt;a href=&#34;#前言：&#34; class=&#34;headerlink&#34; title=&#34;前言：&#34;&gt;&lt;/a&gt;前言：&lt;/h1&gt;&lt;p&gt;以前参加过单片机和嵌入式的蓝桥，比赛虽然水但是还是可以锻炼个人能力的。&lt;br&gt;个人是在大二接触到这个比赛的，当时因为种种原因没能进入我们学校的电子协会，所以全程比赛都是一个人在准备，四处碰壁无比艰辛。学校报名结束了我才知道这个比赛(已经快寒假了我才了解到有这个比赛)，最后是以个人名义(比赛分为学校统一报名和个人报名，都一样的，只是谁给你交报名费的区别)自己交钱报名参赛的。也挺感谢这个比赛的，能力的提升我自己感觉还是有的，xxx不是经常说以赛促学么不是，哈哈哈哈。&lt;br&gt;在CSDN里面写了些准备比赛的笔记，还有一些自己做赛题的时候码的代码，贴出来给大家一个参考，也算为后来者提供一丝的帮助吧。&lt;br&gt;对了我是参加的第&lt;strong&gt;九届单片机组&lt;/strong&gt;，第十届嵌入式的，这些往后届的赛题我也没做，哈哈哈。&lt;/p&gt;
 &lt;h1 id=&#34;关于代码：&#34;&gt;&lt;a href=&#34;#关于代码：&#34; class=&#34;headerlink&#34; title=&#34;关于代码：&#34;&gt;&lt;/a&gt;关于代码：&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;代码都是准备比赛的时候写的，代码风格不一定很好但是代码都把该实现的功能都实现了，也还请见谅吧。&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id=&#34;关于准备比赛：&#34;&gt;&lt;a href=&#34;#关于准备比赛：&#34; class=&#34;headerlink&#34; title=&#34;关于准备比赛：&#34;&gt;&lt;/a&gt;关于准备比赛：&lt;/h1&gt;&lt;p&gt;准备比赛的话，其实没什么诀窍的。我本人的话“上去就是码”，代码要多写！一定要多码，一定要多码，一定要多码。多码代码，多想其他实现方法，做多了速度就上去了，套路也摸清了，&lt;br&gt;自然也能取得自己满意的成绩。&lt;/p&gt;
-&lt;h1 id=&#34;联系：&#34;&gt;&lt;a href=&#34;#联系：&#34; class=&#34;headerlink&#34; title=&#34;联系：&#34;&gt;&lt;/a&gt;联系：&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;mailto:&amp;#111;&amp;#x69;&amp;#107;&amp;#x69;&amp;#x6f;&amp;#x75;&amp;#64;&amp;#111;&amp;#x75;&amp;#116;&amp;#108;&amp;#111;&amp;#x6f;&amp;#107;&amp;#x2e;&amp;#99;&amp;#111;&amp;#109;&#34;&gt;&amp;#111;&amp;#x69;&amp;#107;&amp;#x69;&amp;#x6f;&amp;#x75;&amp;#64;&amp;#111;&amp;#x75;&amp;#116;&amp;#108;&amp;#111;&amp;#x6f;&amp;#107;&amp;#x2e;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;br&gt;虽然我已经工作了。如果你有问题的话，也欢迎来找我，虽然我可能也不太会了。希望能对看本文的你有所帮助，最后祝大家都能从比赛中提高自己的能力！&lt;/p&gt;
+&lt;h1 id=&#34;联系：&#34;&gt;&lt;a href=&#34;#联系：&#34; class=&#34;headerlink&#34; title=&#34;联系：&#34;&gt;&lt;/a&gt;联系：&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;mailto:&amp;#x6f;&amp;#x69;&amp;#107;&amp;#105;&amp;#x6f;&amp;#117;&amp;#64;&amp;#x6f;&amp;#117;&amp;#116;&amp;#x6c;&amp;#111;&amp;#111;&amp;#x6b;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&#34;&gt;&amp;#x6f;&amp;#x69;&amp;#107;&amp;#105;&amp;#x6f;&amp;#117;&amp;#64;&amp;#x6f;&amp;#117;&amp;#116;&amp;#x6c;&amp;#111;&amp;#111;&amp;#x6b;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt;&lt;br&gt;虽然我已经工作了。如果你有问题的话，也欢迎来找我，虽然我可能也不太会了。希望能对看本文的你有所帮助，最后祝大家都能从比赛中提高自己的能力！&lt;/p&gt;
 &lt;h1 id=&#34;笔记：&#34;&gt;&lt;a href=&#34;#笔记：&#34; class=&#34;headerlink&#34; title=&#34;笔记：&#34;&gt;&lt;/a&gt;笔记：&lt;/h1&gt;&lt;p&gt;蓝桥杯嵌入式入门学习笔记    &lt;a href=&#34;https://blog.csdn.net/weixin_42078116/article/details/87890491&#34;&gt;https://blog.csdn.net/weixin_42078116/article/details/87890491&lt;/a&gt;&lt;br&gt;蓝桥杯单片机组 比赛笔记    &lt;a href=&#34;https://blog.csdn.net/weixin_42078116/article/details/80165089&#34;&gt;https://blog.csdn.net/weixin_42078116/article/details/80165089&lt;/a&gt;&lt;br&gt;蓝桥杯嵌入式国赛扩展板 CT117E-EX 学习笔记    &lt;a href=&#34;https://blog.csdn.net/weixin_42078116/article/details/90905706&#34;&gt;https://blog.csdn.net/weixin_42078116/article/details/90905706&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;代码：&#34;&gt;&lt;a href=&#34;#代码：&#34; class=&#34;headerlink&#34; title=&#34;代码：&#34;&gt;&lt;/a&gt;代码：&lt;/h1&gt;&lt;p&gt;单片机的好像忘记了传，我待会传一下，可以去我的下载里面找。&lt;br&gt;蓝桥杯嵌入式省赛所有赛题代码.7z    &lt;a href=&#34;https://download.csdn.net/download/weixin_42078116/11227537&#34;&gt;https://download.csdn.net/download/weixin_42078116/11227537&lt;/a&gt;&lt;br&gt;蓝桥杯嵌入式省赛及国赛所有赛题代码.7z    &lt;a href=&#34;https://download.csdn.net/download/weixin_42078116/11227496&#34;&gt;https://download.csdn.net/download/weixin_42078116/11227496&lt;/a&gt;    &lt;/p&gt;
  ]]></description>

@@ -7,32 +7,45 @@
         <language>zh-CN</language>
         <pubDate>Mon, 12 Dec 2022 22:57:15 +0800</pubDate>
         <lastBuildDate>Mon, 12 Dec 2022 22:57:15 +0800</lastBuildDate>
-        <category>123</category>
         <category>embedded</category>
-        <category>cc2530</category>
-        <category>zigbee</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>hp</category>
         <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
         <category>sscanf</category>
-        <category>c/c++</category>
         <category>hex</category>
-        <category>md5</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
         <category>osi</category>
-        <category>ssl</category>
-        <category>https</category>
         <category>markdown</category>
-        <category>note</category>
+        <category>md5</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
+        <category>typora</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
@@ -41,113 +54,99 @@
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
+        <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
         <category>nand</category>
-        <category>windows</category>
-        <category>makefile</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
         <category>android</category>
         <category>mtp</category>
         <category>pc</category>
         <category>driver</category>
-        <category>ip</category>
-        <category>location</category>
-        <category>api</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
-        <category>zip</category>
-        <category>gzip</category>
-        <category>bzip</category>
-        <category>tar</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
         <category>character encoding</category>
         <category>gb2312</category>
         <category>utf-8</category>
-        <category>机智云</category>
-        <category>kms</category>
-        <category>office</category>
-        <category>volume</category>
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
         <category>超声波</category>
-        <category>github</category>
-        <category>hosts</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>ct117e-ex</category>
-        <category>c</category>
-        <category>c++</category>
-        <category>ms-dos</category>
-        <category>pid</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>正则表达式</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
         <category>life</category>
         <category>workflow</category>
         <category>人生</category>
-        <category>cat_drive</category>
+        <category>github</category>
+        <category>hosts</category>
         <category>cad</category>
         <category>心理学</category>
-        <category>switch</category>
-        <category>nintendo</category>
-        <category>game</category>
-        <category>synology</category>
+        <category>cat_drive</category>
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
         <category>software</category>
+        <category>synology</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
-        <category>摄影</category>
-        <category>git</category>
         <category>docker</category>
         <category>dockerfile</category>
         <category>namespace</category>
         <category>cgroup</category>
         <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>flash</category>
-        <category>j-tag</category>
-        <category>spacedesk</category>
-        <category>投屏</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>vscode</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
         <category>sourceinsigh</category>
         <category>si</category>
         <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
+        <category>tmux</category>
         <category>unit</category>
         <category>m</category>
         <category>cm</category>
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>tmux</category>
-        <category>cortex-m3</category>
+        <category>cortex-a7</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -156,22 +155,22 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>cortex-a7</category>
+        <category>cortex-m3</category>
         <category>alpha_mini</category>
         <category>正点原子</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
-        <category>ucos</category>
-        <category>rt-thread</category>
-        <category>raspberry</category>
-        <category>ap</category>
-        <category>wifi</category>
-        <category>wiringpi</category>
-        <category>pwm</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
         <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/d911b12b/</guid>
             <title>Zsh</title>
@@ -3258,7 +3257,7 @@
 &lt;p&gt;在 12 月内, 每天的早上 6 点到 12 点，每隔 3 个小时 0 分钟执行一次 &amp;#x2F;usr&amp;#x2F;bin&amp;#x2F;backup：&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;0 6-12/3 * 12 * /usr/bin/backup&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;周一到周五每天下午 5:00 寄一封信给 &lt;a href=&#34;mailto:&amp;#97;&amp;#x6c;&amp;#101;&amp;#120;&amp;#x40;&amp;#100;&amp;#x6f;&amp;#109;&amp;#97;&amp;#105;&amp;#x6e;&amp;#x2e;&amp;#x6e;&amp;#x61;&amp;#109;&amp;#101;&#34;&gt;&amp;#97;&amp;#x6c;&amp;#101;&amp;#120;&amp;#x40;&amp;#100;&amp;#x6f;&amp;#109;&amp;#97;&amp;#105;&amp;#x6e;&amp;#x2e;&amp;#x6e;&amp;#x61;&amp;#109;&amp;#101;&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;周一到周五每天下午 5:00 寄一封信给 &lt;a href=&#34;mailto:&amp;#x61;&amp;#108;&amp;#101;&amp;#120;&amp;#64;&amp;#100;&amp;#111;&amp;#x6d;&amp;#97;&amp;#105;&amp;#x6e;&amp;#x2e;&amp;#x6e;&amp;#97;&amp;#x6d;&amp;#101;&#34;&gt;&amp;#x61;&amp;#108;&amp;#101;&amp;#120;&amp;#64;&amp;#100;&amp;#111;&amp;#x6d;&amp;#97;&amp;#105;&amp;#x6e;&amp;#x2e;&amp;#x6e;&amp;#97;&amp;#x6d;&amp;#101;&lt;/a&gt;：&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;0 17 * * 1-5 mail -s &amp;quot;hi&amp;quot; alex@domain.name &amp;lt; /tmp/maildata&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;每月每天的午夜 0 点 20 分, 2 点 20 分, 4 点 20 分….执行 echo “haha”：&lt;/p&gt;
@@ -3683,7 +3682,7 @@
 &lt;tbody&gt;&lt;tr&gt;
 &lt;td align=&#34;left&#34;&gt;http_proxy&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;为http变量设置代理；默认不填开头以http协议传输&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;10.0.0.51:8080 user:&lt;a href=&#34;mailto:&amp;#112;&amp;#97;&amp;#115;&amp;#x73;&amp;#64;&amp;#49;&amp;#48;&amp;#46;&amp;#48;&amp;#x2e;&amp;#48;&amp;#x2e;&amp;#49;&amp;#x30;&#34;&gt;&amp;#112;&amp;#97;&amp;#115;&amp;#x73;&amp;#64;&amp;#49;&amp;#48;&amp;#46;&amp;#48;&amp;#x2e;&amp;#48;&amp;#x2e;&amp;#49;&amp;#x30;&lt;/a&gt;:8080 socks4:&amp;#x2F;&amp;#x2F;10.0.0.51:1080 socks5:&amp;#x2F;&amp;#x2F;192.168.1.1:1080&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;10.0.0.51:8080 user:&lt;a href=&#34;mailto:&amp;#x70;&amp;#x61;&amp;#x73;&amp;#x73;&amp;#64;&amp;#49;&amp;#x30;&amp;#x2e;&amp;#x30;&amp;#x2e;&amp;#48;&amp;#x2e;&amp;#x31;&amp;#48;&#34;&gt;&amp;#x70;&amp;#x61;&amp;#x73;&amp;#x73;&amp;#64;&amp;#49;&amp;#x30;&amp;#x2e;&amp;#x30;&amp;#x2e;&amp;#48;&amp;#x2e;&amp;#x31;&amp;#48;&lt;/a&gt;:8080 socks4:&amp;#x2F;&amp;#x2F;10.0.0.51:1080 socks5:&amp;#x2F;&amp;#x2F;192.168.1.1:1080&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;left&#34;&gt;https_proxy&lt;/td&gt;

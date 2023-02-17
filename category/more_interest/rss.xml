@@ -7,32 +7,45 @@
         <language>zh-CN</language>
         <pubDate>Thu, 21 Jul 2022 22:57:15 +0800</pubDate>
         <lastBuildDate>Thu, 21 Jul 2022 22:57:15 +0800</lastBuildDate>
-        <category>123</category>
         <category>embedded</category>
-        <category>cc2530</category>
-        <category>zigbee</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>hp</category>
         <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
         <category>sscanf</category>
-        <category>c/c++</category>
         <category>hex</category>
-        <category>md5</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
         <category>osi</category>
-        <category>ssl</category>
-        <category>https</category>
         <category>markdown</category>
-        <category>note</category>
+        <category>md5</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
+        <category>typora</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
@@ -41,113 +54,99 @@
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
+        <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
         <category>nand</category>
-        <category>windows</category>
-        <category>makefile</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
         <category>android</category>
         <category>mtp</category>
         <category>pc</category>
         <category>driver</category>
-        <category>ip</category>
-        <category>location</category>
-        <category>api</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
-        <category>zip</category>
-        <category>gzip</category>
-        <category>bzip</category>
-        <category>tar</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
         <category>character encoding</category>
         <category>gb2312</category>
         <category>utf-8</category>
-        <category>机智云</category>
-        <category>kms</category>
-        <category>office</category>
-        <category>volume</category>
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
         <category>超声波</category>
-        <category>github</category>
-        <category>hosts</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>ct117e-ex</category>
-        <category>c</category>
-        <category>c++</category>
-        <category>ms-dos</category>
-        <category>pid</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>正则表达式</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
         <category>life</category>
         <category>workflow</category>
         <category>人生</category>
-        <category>cat_drive</category>
+        <category>github</category>
+        <category>hosts</category>
         <category>cad</category>
         <category>心理学</category>
-        <category>switch</category>
-        <category>nintendo</category>
-        <category>game</category>
-        <category>synology</category>
+        <category>cat_drive</category>
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
         <category>software</category>
+        <category>synology</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
-        <category>摄影</category>
-        <category>git</category>
         <category>docker</category>
         <category>dockerfile</category>
         <category>namespace</category>
         <category>cgroup</category>
         <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>flash</category>
-        <category>j-tag</category>
-        <category>spacedesk</category>
-        <category>投屏</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>vscode</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
         <category>sourceinsigh</category>
         <category>si</category>
         <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
+        <category>tmux</category>
         <category>unit</category>
         <category>m</category>
         <category>cm</category>
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>tmux</category>
-        <category>cortex-m3</category>
+        <category>cortex-a7</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -156,22 +155,22 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>cortex-a7</category>
+        <category>cortex-m3</category>
         <category>alpha_mini</category>
         <category>正点原子</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
-        <category>ucos</category>
-        <category>rt-thread</category>
-        <category>raspberry</category>
-        <category>ap</category>
-        <category>wifi</category>
-        <category>wiringpi</category>
-        <category>pwm</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
         <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/f15ac6f4/</guid>
             <title>Nintendo Switch</title>
@@ -541,6 +540,38 @@
 &lt;li&gt;mt 创建文字&lt;/li&gt;
 &lt;li&gt;txtexp 将文字分解成文字轮廓&lt;/li&gt;
 &lt;/ol&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/86880617/</guid>
+            <title>PC Hardware</title>
+            <link>https://www.oikiou.top/2021/86880617/</link>
+            <category>pc</category>
+            <category>hardware</category>
+            <category>lenovo</category>
+            <category>disk</category>
+            <pubDate>Mon, 18 Oct 2021 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;主板&#34;&gt;&lt;a href=&#34;#主板&#34; class=&#34;headerlink&#34; title=&#34;主板&#34;&gt;&lt;/a&gt;主板&lt;/h1&gt;&lt;h2 id=&#34;ITX-主板的孔位图&#34;&gt;&lt;a href=&#34;#ITX-主板的孔位图&#34; class=&#34;headerlink&#34; title=&#34;ITX 主板的孔位图&#34;&gt;&lt;/a&gt;ITX 主板的孔位图&lt;/h2&gt;&lt;p&gt;括号中的数值单位是mm，下面的数值单位是inch。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/v2-adfa6cb86a379f8ea31c62416c3a9b93_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ATX-孔位图&#34;&gt;&lt;a href=&#34;#ATX-孔位图&#34; class=&#34;headerlink&#34; title=&#34;ATX 孔位图&#34;&gt;&lt;/a&gt;ATX 孔位图&lt;/h2&gt;&lt;p&gt;数值单位是inch&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/v2-19cb957be912ef88b779a7ed04de4eaf_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;DISK&#34;&gt;&lt;a href=&#34;#DISK&#34; class=&#34;headerlink&#34; title=&#34;DISK&#34;&gt;&lt;/a&gt;DISK&lt;/h1&gt;&lt;h2 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.snia.org/technology-communities/sff/specifications&#34;&gt;SNIA协会定义&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SFF-8301 (3.5” Form Factor Drive Dimensions)&lt;/li&gt;
+&lt;li&gt;SFF-8201 (2.5” Form Factor Drive Dimensions)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-5”&#34;&gt;&lt;a href=&#34;#2-5”&#34; class=&#34;headerlink&#34; title=&#34;2.5”&#34;&gt;&lt;/a&gt;2.5”&lt;/h2&gt;&lt;p&gt;定义于SFF-8201, 长度为101.85mm (max), 宽度为69.85，厚度有不同规格，从5mm到19.05mm不等。常用的笔记本硬盘是7mm厚度，企业级硬盘是15mm，螺丝孔为公制M3标准。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026113925717.png&#34; alt=&#34;image-20211026113925717&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026113951361.png&#34; alt=&#34;image-20211026113951361&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026114009000.png&#34; alt=&#34;image-20211026114009000&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026114023653.png&#34; alt=&#34;image-20211026114023653&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;3-5”&#34;&gt;&lt;a href=&#34;#3-5”&#34; class=&#34;headerlink&#34; title=&#34;3.5”&#34;&gt;&lt;/a&gt;3.5”&lt;/h2&gt;&lt;p&gt;定义于SFF-8301,长度为147.00mm, 宽度为101.60mm，厚度有不同规格：17.80-42.00mm。通常硬盘的厚度都是小于26.10mm，螺丝孔为6-32 UNC-2B英制标准，公制M3.5也能凑合用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026114433027.png&#34; alt=&#34;image-20211026114433027&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026114447507.png&#34; alt=&#34;image-20211026114447507&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;Lenovo-私有定义&#34;&gt;&lt;a href=&#34;#Lenovo-私有定义&#34; class=&#34;headerlink&#34; title=&#34;Lenovo 私有定义&#34;&gt;&lt;/a&gt;Lenovo 私有定义&lt;/h1&gt;&lt;h2 id=&#34;主板-1&#34;&gt;&lt;a href=&#34;#主板-1&#34; class=&#34;headerlink&#34; title=&#34;主板&#34;&gt;&lt;/a&gt;主板&lt;/h2&gt;&lt;h3 id=&#34;USB2-0-接口&#34;&gt;&lt;a href=&#34;#USB2-0-接口&#34; class=&#34;headerlink&#34; title=&#34;USB2.0 接口&#34;&gt;&lt;/a&gt;USB2.0 接口&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026120339401.png&#34; alt=&#34;image-20211026120339401&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026120205476.png&#34; alt=&#34;image-20211026120205476&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;F-PANEL&#34;&gt;&lt;a href=&#34;#F-PANEL&#34; class=&#34;headerlink&#34; title=&#34;F_PANEL&#34;&gt;&lt;/a&gt;F_PANEL&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026120411691.png&#34; alt=&#34;image-20211026120411691&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026120130016.png&#34; alt=&#34;image-20211026120130016&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -1006,38 +1037,6 @@
 &lt;p&gt;&lt;strong&gt;参考&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/liuzhanchun/article/details/106819839&#34;&gt;Linux 内部路由实现及网口转发之理论篇&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/luozhen07/article/details/48051005&#34;&gt;Linux 系统双网卡实现内网端口转发&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://www.oikiou.top/2021/86880617/</guid>
-            <title>PC Hardware</title>
-            <link>https://www.oikiou.top/2021/86880617/</link>
-            <category>pc</category>
-            <category>hardware</category>
-            <category>lenovo</category>
-            <category>disk</category>
-            <pubDate>Mon, 18 Oct 2021 22:57:15 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;主板&#34;&gt;&lt;a href=&#34;#主板&#34; class=&#34;headerlink&#34; title=&#34;主板&#34;&gt;&lt;/a&gt;主板&lt;/h1&gt;&lt;h2 id=&#34;ITX-主板的孔位图&#34;&gt;&lt;a href=&#34;#ITX-主板的孔位图&#34; class=&#34;headerlink&#34; title=&#34;ITX 主板的孔位图&#34;&gt;&lt;/a&gt;ITX 主板的孔位图&lt;/h2&gt;&lt;p&gt;括号中的数值单位是mm，下面的数值单位是inch。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/86880617/v2-adfa6cb86a379f8ea31c62416c3a9b93_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ATX-孔位图&#34;&gt;&lt;a href=&#34;#ATX-孔位图&#34; class=&#34;headerlink&#34; title=&#34;ATX 孔位图&#34;&gt;&lt;/a&gt;ATX 孔位图&lt;/h2&gt;&lt;p&gt;数值单位是inch&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/86880617/v2-19cb957be912ef88b779a7ed04de4eaf_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
-&lt;h1 id=&#34;DISK&#34;&gt;&lt;a href=&#34;#DISK&#34; class=&#34;headerlink&#34; title=&#34;DISK&#34;&gt;&lt;/a&gt;DISK&lt;/h1&gt;&lt;h2 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.snia.org/technology-communities/sff/specifications&#34;&gt;SNIA协会定义&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;SFF-8301 (3.5” Form Factor Drive Dimensions)&lt;/li&gt;
-&lt;li&gt;SFF-8201 (2.5” Form Factor Drive Dimensions)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;2-5”&#34;&gt;&lt;a href=&#34;#2-5”&#34; class=&#34;headerlink&#34; title=&#34;2.5”&#34;&gt;&lt;/a&gt;2.5”&lt;/h2&gt;&lt;p&gt;定义于SFF-8201, 长度为101.85mm (max), 宽度为69.85，厚度有不同规格，从5mm到19.05mm不等。常用的笔记本硬盘是7mm厚度，企业级硬盘是15mm，螺丝孔为公制M3标准。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026113925717.png&#34; alt=&#34;image-20211026113925717&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026113951361.png&#34; alt=&#34;image-20211026113951361&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026114009000.png&#34; alt=&#34;image-20211026114009000&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026114023653.png&#34; alt=&#34;image-20211026114023653&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;3-5”&#34;&gt;&lt;a href=&#34;#3-5”&#34; class=&#34;headerlink&#34; title=&#34;3.5”&#34;&gt;&lt;/a&gt;3.5”&lt;/h2&gt;&lt;p&gt;定义于SFF-8301,长度为147.00mm, 宽度为101.60mm，厚度有不同规格：17.80-42.00mm。通常硬盘的厚度都是小于26.10mm，螺丝孔为6-32 UNC-2B英制标准，公制M3.5也能凑合用。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026114433027.png&#34; alt=&#34;image-20211026114433027&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026114447507.png&#34; alt=&#34;image-20211026114447507&#34;&gt;&lt;/p&gt;
-&lt;h1 id=&#34;Lenovo-私有定义&#34;&gt;&lt;a href=&#34;#Lenovo-私有定义&#34; class=&#34;headerlink&#34; title=&#34;Lenovo 私有定义&#34;&gt;&lt;/a&gt;Lenovo 私有定义&lt;/h1&gt;&lt;h2 id=&#34;主板-1&#34;&gt;&lt;a href=&#34;#主板-1&#34; class=&#34;headerlink&#34; title=&#34;主板&#34;&gt;&lt;/a&gt;主板&lt;/h2&gt;&lt;h3 id=&#34;USB2-0-接口&#34;&gt;&lt;a href=&#34;#USB2-0-接口&#34; class=&#34;headerlink&#34; title=&#34;USB2.0 接口&#34;&gt;&lt;/a&gt;USB2.0 接口&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026120339401.png&#34; alt=&#34;image-20211026120339401&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026120205476.png&#34; alt=&#34;image-20211026120205476&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;F-PANEL&#34;&gt;&lt;a href=&#34;#F-PANEL&#34; class=&#34;headerlink&#34; title=&#34;F_PANEL&#34;&gt;&lt;/a&gt;F_PANEL&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026120411691.png&#34; alt=&#34;image-20211026120411691&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026120130016.png&#34; alt=&#34;image-20211026120130016&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
