@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;md5&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2022-09-14T14:57:15.000Z</updated>
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="embedded" />
+    <category term="note" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="hex" />
+    <category term="markdown" />
+    <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="osi" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="md5" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="windows" />
+    <category term="makefile" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="机智云" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="ct117e-ex" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="c" />
+    <category term="c++" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="ms-dos" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="life" />
+    <category term="正则表达式" />
+    <category term="人生" />
+    <category term="心理学" />
+    <category term="cad" />
+    <category term="cat_drive" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="workflow" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="synology" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="j-link" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="jlink" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="tmux" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="rtos" />
+    <category term="rt-thread" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="ucos" />
+    <category term="cortex-a7" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="ap" />
+    <category term="wifi" />
+    <category term="pwm" />
+    <category term="cortex-m3" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="rtx" />
+    <category term="keil" />
+    <category term="modbus" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2022/45a589a3/</id>
+        <title>MD5</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/45a589a3/"/>
+        <content type="html">&lt;h1 id=&#34;MD5&#34;&gt;&lt;a href=&#34;#MD5&#34; class=&#34;headerlink&#34; title=&#34;MD5&#34;&gt;&lt;/a&gt;MD5&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;MD5消息摘要算法&lt;/strong&gt;（英语：MD5 Message-Digest Algorithm），一种被广泛使用的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A2%BC%E9%9B%9C%E6%B9%8A%E5%87%BD%E6%95%B8&#34;&gt;密码散列函数&lt;/a&gt;，可以产生出一个128位（16个字符(BYTES)）的散列值（hash value），用于确保信息传输完整一致。将&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE&#34;&gt;数据&lt;/a&gt;（如一段文字）运算变为另一固定长度值，是散列算法的基础原理。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;参考&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/121492822&#34;&gt;MD5破解的几种方法&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MD5&#34;&gt;Wiki MD5&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;特性&#34;&gt;&lt;a href=&#34;#特性&#34; class=&#34;headerlink&#34; title=&#34;特性&#34;&gt;&lt;/a&gt;特性&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;不可逆向的&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  我们没办法把MD5码还原对应的原文。道理很简单，任意长度的数据经过MD5处理后，所包含的信息量已经大大减少，那是不可能再次还原成为原始信息的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;原文中作一个小变化其散列也会发生巨大的变化&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight excel&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs excel&#34;&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;MD5&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;The quick brown fox jumps over the lazy dog&amp;quot;&lt;/span&gt;)&lt;br&gt;= &lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;e107d9d372bb6826bd81d3542a419d6&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  比如用c取代d, 其MD5值发生了巨大的变化&lt;/p&gt;
+  &lt;figure class=&#34;highlight excel&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs excel&#34;&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;MD5&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;The quick brown fox jumps over the lazy cog&amp;quot;&lt;/span&gt;)&lt;br&gt;= &lt;span class=&#34;hljs-number&#34;&gt;1055&lt;/span&gt;d3e698d289f2af8663725127bd4b&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;已被破解&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  通俗点讲就是，可以找到一个A和一个B，使hash（A）&amp;#x3D;hash（B），而真正有用的是给定一个A能得到B，使hash（A）&amp;#x3D;hash（B），而王小云能做到这样&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;应用&#34;&gt;&lt;a href=&#34;#应用&#34; class=&#34;headerlink&#34; title=&#34;应用&#34;&gt;&lt;/a&gt;应用&lt;/h1&gt;&lt;p&gt;MD5 摘要已在&lt;a href=&#34;https://en.wikipedia.org/wiki/Software&#34;&gt;软件&lt;/a&gt;世界中广泛使用，以确保传输的文件已完好无损地到达。例如，文件服务器通常会为文件提供预先计算的 MD5（称为&lt;a href=&#34;https://en.wikipedia.org/wiki/Md5sum&#34;&gt;md5sum&lt;/a&gt;）&lt;a href=&#34;https://en.wikipedia.org/wiki/Checksum&#34;&gt;校验和&lt;/a&gt;，以便用户可以将下载文件的校验和与其进行比较。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/45a589a3/350px-CPT-Hashing-File-Transmission.png&#34; alt=&#34;350px-CPT-Hashing-File-Transmission.svg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;由于很容易产生 MD5 冲突，因此创建文件的人可能会创建具有相同校验和的第二个文件，因此该技术无法防止某些形式的恶意篡改。&lt;/p&gt;
+&lt;p&gt;在某些情况下，校验和是不可信的（例如，如果它是通过与下载文件相同的渠道获得的，他人可能修改了文件后再次修改了MD5，使得MD5并不可信），在这种情况下，MD5 只能提供错误检查功能：“它会识别损坏或不完整的下载，这变成下载较大文件时更有可能。”&lt;/p&gt;
+&lt;h1 id=&#34;破解&#34;&gt;&lt;a href=&#34;#破解&#34; class=&#34;headerlink&#34; title=&#34;破解&#34;&gt;&lt;/a&gt;破解&lt;/h1&gt;&lt;h2 id=&#34;穷举法-amp-字典法&#34;&gt;&lt;a href=&#34;#穷举法-amp-字典法&#34; class=&#34;headerlink&#34; title=&#34;穷举法&amp;amp;字典法&#34;&gt;&lt;/a&gt;穷举法&amp;amp;字典法&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;穷举法非常简单，就是不停地尝试各种字符的排列组合，看哪一个组合的MD5码能对上。&lt;/strong&gt;可惜缺点是太耗费时间了。我们举个栗子，假设我们要破解一个6位大小写字母和数字混合的密码，那么一共有(26+26+10)&lt;sup&gt;6&lt;/sup&gt; 种组合。这个数的大小超过500亿。&lt;/p&gt;
+&lt;p&gt;既然计算如此费时，能不能考虑&lt;strong&gt;把计算结果以映射表的形式存放起来，一个萝卜一个坑&lt;/strong&gt;，一个原文对应着一个MD5码呢？可以呀！这就是传说中的“字典法”。将已知的MD5码查表，直接反查出原文。&lt;strong&gt;字典法体现了算法设计的“以空间换时间”的思想。&lt;/strong&gt;缺点是比较耗费空间。不过现在硬盘的价格变得白菜价了，空间开销不算什么。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cmd5.com/password.aspx&#34;&gt;CMD5 反查网站&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.somd5.com/&#34;&gt;SMD5 反查网站&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;哈希链表-amp-彩虹表法&#34;&gt;&lt;a href=&#34;#哈希链表-amp-彩虹表法&#34; class=&#34;headerlink&#34; title=&#34;哈希链表&amp;amp;彩虹表法&#34;&gt;&lt;/a&gt;哈希链表&amp;amp;彩虹表法&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  如果说穷举法太耗费时间，字典法太耗费存储空间的话，我们能不能考虑在时间消耗和空间消耗之间折中呢？我们可以考虑用链表将一系列有意义的原文和MD5码串起来。&lt;/p&gt;
+&lt;p&gt;  要构造这样的链表，我们需要两个函数：哈希函数H(x)和衰减函数（reduction function）R(x)。哈希函数可以是MD5，也可以是其他的消息摘要算法。H(x)的值域是R(x)的定义域，R(x)的值域是H(x)的定义域。&lt;strong&gt;R(x)不是H(x)的反函数。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  将一个原文不停地使用H(x)和R(x)交替进行运算k次，再将原文本身和运算结果以链表的形式串接起来，就可以得到结点个数为2k+1的链表。实际存放的时候只存放首端和末端两个原文即可。&lt;strong&gt;这种链表叫做“哈希链表”，体现了算法设计的“时空权衡”（Space and Time Tradeoffs）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  举个栗子，假设原文s&amp;#x3D;abcabc，经过2次交替运算，得到以下的链表：&lt;/p&gt;
+&lt;p&gt;  abcabc-&amp;gt;H(x)-&amp;gt;3C8B0D7A-&amp;gt;R(x)-&amp;gt;eopmca-&amp;gt;H(x)-&amp;gt;7E9F216C-&amp;gt;R(x)-&amp;gt;rapper&lt;/p&gt;
+&lt;p&gt;  以上数据均为举例编造的，仅为说明原理使用。那我们存放这个链表的时候，只需要记录abcabc和rapper两个原文即可。&lt;/p&gt;
+&lt;p&gt;  假设我们要破解的摘要值（哈希链表的H(x)不一定是MD5算法，这里用更准确的说法代替MD5码）是7E9F216C，经过R(x)运算得到rapper，说明我们要寻找的原文就在以rapper为末端的哈希链表中。从首端开始经过多次运算，我们发现eopmca的摘要值就是7E9F216C。于是就反查出7E9F216C对应的原文是eopmca。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;如果在生成哈希链表的时候依次使用多个不一样的R(x)，此时的哈希链表就是“彩虹表”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  这里有已经计算好的彩虹表：&lt;a href=&#34;https://link.zhihu.com/?target=http://project-rainbowcrack.com/table.htm&#34;&gt;http://project-rainbowcrack.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;差分攻击&#34;&gt;&lt;a href=&#34;#差分攻击&#34; class=&#34;headerlink&#34; title=&#34;差分攻击&#34;&gt;&lt;/a&gt;差分攻击&lt;/h2&gt;&lt;p&gt;上面介绍的穷举法、字典法和彩虹表法都是暴力破解，适用于任何的消息摘要算法。&lt;/p&gt;
+&lt;p&gt;真正意义上MD5算法的破解，是2004年山东大学王小云教授提出的MD5碰撞方法。她所用到的方法正是差分攻击。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sohu.com/a/501560600_121106869&#34;&gt;她是这样的“中国密码女神”！&lt;/a&gt; &lt;/p&gt;
+</content>
+        <category term="md5" />
+        <updated>2022-09-14T14:57:15.000Z</updated>
+    </entry>
+</feed>

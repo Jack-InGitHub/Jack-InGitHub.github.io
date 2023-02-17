@@ -1,0 +1,22 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"rts\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2020/3b631eba/",
+            "url": "https://www.oikiou.top/2020/3b631eba/",
+            "title": "USART硬件流控制",
+            "date_published": "2020-08-08T00:08:08.000Z",
+            "content_html": "<h1 id=\"USART硬件流控制\"><a href=\"#USART硬件流控制\" class=\"headerlink\" title=\"USART硬件流控制\"></a>USART硬件流控制</h1><p><img src=\"/2020/3b631eba/SouthEast.jpeg\"></p>\n<p>RS232 \tDB9定义</p>\n<p>1 CD ← Carrier Detect 载波检测</p>\n<p>2 RXD ← Receive Data 接收数据</p>\n<p>3 TXD → Transmit Data 发送数据</p>\n<p>4 <strong>DTR → Data Terminal Ready数据终端就绪</strong></p>\n<p>5 GND — System Ground 系统接地</p>\n<p>6 DSR ← Data Set Ready 数据设备就绪</p>\n<p>7 <strong>RTS → Request To Send 请求发送</strong></p>\n<p>8 CTS ← Clear To Send 清除发送(允许发送)</p>\n<p>9 RI → 振铃指示</p>\n<h2 id=\"RTS-CTS\"><a href=\"#RTS-CTS\" class=\"headerlink\" title=\"RTS CTS\"></a>RTS CTS</h2><ul>\n<li>RTS （Require ToSend，发送请求）为输出信号，用于指示本设备准备好可接收数据，低电平有效，低电平说明本设备可以接收数据。</li>\n<li>CTS （Clear ToSend，发送允许）为输入信号，用于判断是否可以向对方发送数据，低电平有效，低电平说明本设备可以向对方发送数据。</li>\n</ul>\n<h2 id=\"DTR-DSR\"><a href=\"#DTR-DSR\" class=\"headerlink\" title=\"DTR DSR\"></a>DTR DSR</h2>",
+            "tags": [
+                "usart",
+                "rts",
+                "cts",
+                "dtr",
+                "dsr"
+            ]
+        }
+    ]
+}

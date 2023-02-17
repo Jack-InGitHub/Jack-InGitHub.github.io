@@ -1,0 +1,314 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;wordpress&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 21 Feb 2022 22:57:15 +0800</pubDate>
+        <lastBuildDate>Mon, 21 Feb 2022 22:57:15 +0800</lastBuildDate>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>embedded</category>
+        <category>note</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hex</category>
+        <category>markdown</category>
+        <category>sscanf</category>
+        <category>c/c++</category>
+        <category>osi</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>md5</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>windows</category>
+        <category>makefile</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>机智云</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>ct117e-ex</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>c</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>ms-dos</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>life</category>
+        <category>正则表达式</category>
+        <category>人生</category>
+        <category>心理学</category>
+        <category>cad</category>
+        <category>cat_drive</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>workflow</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>synology</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>j-link</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>jlink</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>tmux</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>rtos</category>
+        <category>rt-thread</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>ucos</category>
+        <category>cortex-a7</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>pwm</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>rtx</category>
+        <category>keil</category>
+        <category>modbus</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/aa858de8/</guid>
+            <title>Wordpress</title>
+            <link>https://www.oikiou.top/2022/aa858de8/</link>
+            <category>ssl</category>
+            <category>https</category>
+            <category>wordpress</category>
+            <category>web</category>
+            <category>mysql</category>
+            <category>nginx</category>
+            <pubDate>Mon, 21 Feb 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;Wordpress&#34;&gt;&lt;a href=&#34;#Wordpress&#34; class=&#34;headerlink&#34; title=&#34;Wordpress&#34;&gt;&lt;/a&gt;Wordpress&lt;/h1&gt;&lt;h2 id=&#34;LNMP安装&#34;&gt;&lt;a href=&#34;#LNMP安装&#34; class=&#34;headerlink&#34; title=&#34;LNMP安装&#34;&gt;&lt;/a&gt;LNMP安装&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://lnmp.org/&#34;&gt;https://lnmp.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LNMP一键安装包是什么?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LNMP一键安装包是一个用Linux Shell编写的可以为CentOS&amp;#x2F;RHEL&amp;#x2F;Fedora&amp;#x2F;Aliyun&amp;#x2F;Amazon、Debian&amp;#x2F;Ubuntu&amp;#x2F;Raspbian&amp;#x2F;Deepin&amp;#x2F;Mint Linux VPS或独立主机安装LNMP(Nginx&amp;#x2F;MySQL&amp;#x2F;PHP)、LNMPA(Nginx&amp;#x2F;MySQL&amp;#x2F;PHP&amp;#x2F;Apache)、LAMP(Apache&amp;#x2F;MySQL&amp;#x2F;PHP)生产环境的Shell程序。&lt;/p&gt;
+&lt;h3 id=&#34;MySQL&#34;&gt;&lt;a href=&#34;#MySQL&#34; class=&#34;headerlink&#34; title=&#34;MySQL&#34;&gt;&lt;/a&gt;MySQL&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 登录&lt;/span&gt;&lt;br&gt;mysql -u root -p&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 如果报找不到命令 cd到对应目录去登录&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;cd&lt;/span&gt; /usr/local/mariadb10/bin/&lt;br&gt;./mysql -u root -p&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 切换到mysql数据库&lt;/span&gt;&lt;br&gt;use mysql&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 执行以下命令，创建 MariaDB 数据库。例如 “wordpress”。&lt;/span&gt;&lt;br&gt;CREATE DATABASE IF NOT EXISTS wordpress;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 执行以下命令，创建一个新用户。例如 “user”，登录密码为 123456。&lt;/span&gt;&lt;br&gt;CREATE USER &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;user&amp;#x27;&lt;/span&gt;@&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;localhost&amp;#x27;&lt;/span&gt; IDENTIFIED BY &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;123456&amp;#x27;&lt;/span&gt;;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 执行以下命令，赋予用户对 “wordpress” 数据库的全部权限。&lt;/span&gt;&lt;br&gt;GRANT ALL PRIVILEGES ON wordpress.* TO &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;user&amp;#x27;&lt;/span&gt;@&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;localhost&amp;#x27;&lt;/span&gt; IDENTIFIED BY &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;123456&amp;#x27;&lt;/span&gt;;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 执行以下命令，设置 root 帐户密码&lt;/span&gt;&lt;br&gt;ALTER USER root@localhost IDENTIFIED VIA mysql_native_password USING PASSWORD(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;输入您的密码&amp;#x27;&lt;/span&gt;);&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 执行以下命令，使所有配置生效。&lt;/span&gt;&lt;br&gt;FLUSH PRIVILEGES;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 退出&lt;/span&gt;&lt;br&gt;\q&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;Wordpress-1&#34;&gt;&lt;a href=&#34;#Wordpress-1&#34; class=&#34;headerlink&#34; title=&#34;Wordpress&#34;&gt;&lt;/a&gt;Wordpress&lt;/h2&gt;&lt;h4 id=&#34;修改-WordPress-配置文件&#34;&gt;&lt;a href=&#34;#修改-WordPress-配置文件&#34; class=&#34;headerlink&#34; title=&#34;修改 WordPress 配置文件&#34;&gt;&lt;/a&gt;修改 WordPress 配置文件&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;依次执行以下命令，进入 WordPress 安装目录，将&lt;code&gt;wp-config-sample.php&lt;/code&gt;文件复制到&lt;code&gt;wp-config.php&lt;/code&gt;文件中，并将原先的示例配置文件保留作为备份。&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;cd &lt;span class=&#34;hljs-regexp&#34;&gt;/home/&lt;/span&gt;wwwroot/wordpress&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&#34;highlight vim&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs vim&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;cp&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;wp&lt;/span&gt;-config-sample.php &lt;span class=&#34;hljs-keyword&#34;&gt;wp&lt;/span&gt;-config.php&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;执行以下命令，打开并编辑新创建的配置文件。&lt;/p&gt;
+&lt;figure class=&#34;highlight vim&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs vim&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;vim&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;wp&lt;/span&gt;-config.php&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;按 &lt;strong&gt;i&lt;/strong&gt; 切换至编辑模式，找到文件中 MySQL 的部分，并将相关配置信息修改为 &lt;a href=&#34;https://cloud.tencent.com/document/product/213/8044#database&#34;&gt;配置 WordPress 数据库&lt;/a&gt; 中的内容。&lt;/p&gt;
+&lt;figure class=&#34;highlight lasso&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs lasso&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// ** MySQL settings - You can get this info from your web host ** //&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/** The name of the database for WordPress */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt;&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;DB_NAME&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;wordpress&amp;#x27;&lt;/span&gt;);&lt;br&gt;    &lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/** MySQL database username */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt;&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;DB_USER&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;user&amp;#x27;&lt;/span&gt;);&lt;br&gt;    &lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/** MySQL database password */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt;&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;DB_PASSWORD&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;123456&amp;#x27;&lt;/span&gt;);&lt;br&gt;    &lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/** MySQL hostname */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt;&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;DB_HOST&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;localhost&amp;#x27;&lt;/span&gt;);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;修改完成后，按 &lt;strong&gt;Esc&lt;/strong&gt;，输入 &lt;strong&gt;:wq&lt;/strong&gt;，保存文件返回。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;开启HTTPS支持&#34;&gt;&lt;a href=&#34;#开启HTTPS支持&#34; class=&#34;headerlink&#34; title=&#34;开启HTTPS支持&#34;&gt;&lt;/a&gt;开启HTTPS支持&lt;/h3&gt;&lt;h1 id=&#34;DNS&#34;&gt;&lt;a href=&#34;#DNS&#34; class=&#34;headerlink&#34; title=&#34;DNS&#34;&gt;&lt;/a&gt;DNS&lt;/h1&gt;&lt;h2 id=&#34;获取域名&#34;&gt;&lt;a href=&#34;#获取域名&#34; class=&#34;headerlink&#34; title=&#34;获取域名&#34;&gt;&lt;/a&gt;获取域名&lt;/h2&gt;&lt;p&gt;这里有一个免费的域名, 先凑合用着吧&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.freenom.com/&#34;&gt;https://www.freenom.com/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  freenom 注册方法&lt;/p&gt;
+&lt;p&gt;  &lt;a href=&#34;https://zhuanlan.zhihu.com/p/115535965&#34;&gt;https://zhuanlan.zhihu.com/p/115535965&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  Freenom常见问题解决方法&lt;/p&gt;
+&lt;p&gt;  &lt;a href=&#34;http://www.360doc.com/content/21/0124/00/30583588_958609144.shtml&#34;&gt;http://www.360doc.com/content/21/0124/00/30583588_958609144.shtml&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;注册的时候搜索要加上后缀不然会显示  不可用&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;checkout 到购物车改成 12月 free&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;谷歌邮箱直接登录 登录后要更改自己的个人信息里面的地址(改成ip所在地) 不然无法成功注册&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;菜单栏 servers -&amp;gt; my domains 就可以看到地址了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;最后再修改一下NS服务器&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Manage Domain -&amp;gt; Management Tools -&amp;gt; nameserver -&amp;gt; Use custom nameservers (enter below)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;这里填写cloudflare 或者 dnspod 给出来的 Nameservers 就好了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;类似于&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Type&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;NS&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;katja.ns.cloudflare.com&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;NS&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;kirk.ns.cloudflare.com&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;域名解析&#34;&gt;&lt;a href=&#34;#域名解析&#34; class=&#34;headerlink&#34; title=&#34;域名解析&#34;&gt;&lt;/a&gt;域名解析&lt;/h2&gt;&lt;p&gt;域名的&lt;a href=&#34;https://www.vpsgo.com/tag/ns%E8%AE%B0%E5%BD%95&#34;&gt;NS记录&lt;/a&gt;（&lt;a href=&#34;https://www.vpsgo.com/tag/name-server&#34;&gt;Name Server&lt;/a&gt;）是指处理域名解析的服务器，说白点就是你的域名由谁家来解析。一般购买了域名后，默认的NS记录就是指向域名提供商的（例如NameSilo的默认就由它自己解析）。你可以修改域名的NS记录，让它由不同的解析服务商来解析，例如可以指向&lt;a href=&#34;https://www.vpsgo.com/tag/cloudflare&#34;&gt;Cloudflare&lt;/a&gt;或者&lt;a href=&#34;https://www.vpsgo.com/tag/dnspod&#34;&gt;DNSPod&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;之后DNS（Domain Name System），常用的&lt;a href=&#34;https://www.vpsgo.com/tag/dns%E8%AE%B0%E5%BD%95&#34;&gt;DNS记录&lt;/a&gt;包括域名解析中A记录、CNAME、MX记录。&lt;a href=&#34;https://www.vpsgo.com/tag/%E5%9F%9F%E5%90%8Da%E8%AE%B0%E5%BD%95&#34;&gt;域名A记录&lt;/a&gt;又称为IP指向，就是说你这个域名代表什么IP；域名CNAME是指别名指向，就是说指向另一个域名，例如可以设置test.vpsgo.com指向&lt;a href=&#34;http://www.vpsgo.com;域名的mx记录就是邮件交换记录,是做邮件服务器需要设置的.本文主要介绍域名a记录解析./&#34;&gt;www.vpsgo.com；域名的MX记录就是邮件交换记录，是做邮件服务器需要设置的。本文主要介绍域名A记录解析。&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  cloudflare 解析&lt;/p&gt;
+&lt;p&gt;  &lt;a href=&#34;https://zhuanlan.zhihu.com/p/56423186&#34;&gt;https://zhuanlan.zhihu.com/p/56423186&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  &lt;a href=&#34;https://www.vpsgo.com/domain-ns-cloudflare-dnspod.html#NS&#34;&gt;https://www.vpsgo.com/domain-ns-cloudflare-dnspod.html#NS&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;HTTPS-SSL-x2F-TLS&#34;&gt;&lt;a href=&#34;#HTTPS-SSL-x2F-TLS&#34; class=&#34;headerlink&#34; title=&#34;HTTPS SSL&amp;#x2F;TLS&#34;&gt;&lt;/a&gt;HTTPS SSL&amp;#x2F;TLS&lt;/h1&gt;&lt;h2 id=&#34;参考文章&#34;&gt;&lt;a href=&#34;#参考文章&#34; class=&#34;headerlink&#34; title=&#34;参考文章&#34;&gt;&lt;/a&gt;参考文章&lt;/h2&gt;&lt;h3 id=&#34;acme-sh&#34;&gt;&lt;a href=&#34;#acme-sh&#34; class=&#34;headerlink&#34; title=&#34;acme.sh&#34;&gt;&lt;/a&gt;acme.sh&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://ruby-china.org/topics/31983&#34;&gt;https://ruby-china.org/topics/31983&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ruby-china.org/topics/28471&#34;&gt;https://ruby-china.org/topics/28471&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ruby-china.org/topics/25543&#34;&gt;https://ruby-china.org/topics/25543&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ruby-china.org/topics/31942&#34;&gt;https://ruby-china.org/topics/31942&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;caddy&#34;&gt;&lt;a href=&#34;#caddy&#34; class=&#34;headerlink&#34; title=&#34;caddy&#34;&gt;&lt;/a&gt;caddy&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://caddyserver.com/docs/quick-starts/https&#34;&gt;https://caddyserver.com/docs/quick-starts/https&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;步骤&#34;&gt;&lt;a href=&#34;#步骤&#34; class=&#34;headerlink&#34; title=&#34;步骤&#34;&gt;&lt;/a&gt;步骤&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 安装 acme.sh&lt;/span&gt;&lt;br&gt;curl https://get.acme.sh | sh&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 然后重新载入一下 .bashrc&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;source&lt;/span&gt; ~/.bashrc &lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 至此acme安装完成&lt;/span&gt;&lt;br&gt;acme.sh&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 注册账号&lt;/span&gt;&lt;br&gt;sudo ~/.acme.sh/acme.sh --register-account -m jackliuworkemail@gmail.com  --server zerossl&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 为lager.cf创建密钥&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# -k 表示密钥长度，后面的值可以是 ec-256 、ec-384、2048、3072、4096、8192，带有 ec 表示生成的是 ECC 证书，没有则是 RSA 证书。在安全性上 256 位的 ECC 证书等同于 3072 位的 RSA 证书。&lt;/span&gt;&lt;br&gt;sudo ~/.acme.sh/acme.sh --issue -d lager.cf --standalone -k ec-256&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 由于 Let&amp;#x27;s Encrypt 的证书有效期只有 3 个月，因此需要 90 天至少要更新一次证书，acme.sh 脚本会每 60 天自动更新证书。也可以手动更新。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看计划任务&lt;/span&gt;&lt;br&gt; crontab -l&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 手动更新 ECC 证书，执行：&lt;/span&gt;&lt;br&gt;sudo ~/.acme.sh/acme.sh --renew -d lager.cf --force --ecc&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 请注意：reloadcmd非常重要。证书可以自动续订，但是，如果没有正确的“reloadcmd”，证书可能无法刷新到您的服务器（如nginx或apache），那么您的网站将无法在60天内显示续订证书。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 注意：无论什么情况，密钥(即上面的lager.cf.key)都不能泄漏，如果你不幸泄漏了密钥，可以使用 acme.sh 将原证书吊销，再生成新的证书，吊销方法请自行参考 acme.sh 的手册&lt;/span&gt;&lt;br&gt;acme.sh --installcert -d lager.cf \&lt;br&gt;--keypath       /usr/local/nginx/ssl/lager.cf.key \&lt;br&gt;--fullchainpath /usr/local/nginx/ssl/lager.cf.cer \&lt;br&gt;--reloadcmd     &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;sudo service nginx force-reload&amp;quot;&lt;/span&gt;  --force --ecc&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 生成 dhparam.pem 文件&lt;/span&gt;&lt;br&gt;openssl dhparam -out /usr/local/nginx/ssl/lager.cf.pem 2048&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 配置nginx 启用 https&lt;/span&gt;&lt;br&gt;vim /usr/local/nginx/conf/nginx.conf&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 检查配置&lt;/span&gt;&lt;br&gt;sudo service nginx configtest&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 重启服务&lt;/span&gt;&lt;br&gt;sudo service nginx restart&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#验证 SSL&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#访问 ssllabs.com 输入你的域名，检查 SSL 的配置是否都正常：&lt;/span&gt;&lt;br&gt;https://ssllabs.com/ssltest/analyze.html?d=ruby-china.org&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;一些注意事项&#34;&gt;&lt;a href=&#34;#一些注意事项&#34; class=&#34;headerlink&#34; title=&#34;一些注意事项&#34;&gt;&lt;/a&gt;一些注意事项&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ssl_dhparam&lt;/code&gt; 未配置，将导致 ssllabs.com 的评分降到 B，并给 &lt;code&gt;This server supports weak Diffie-Hellman (DH) key exchange parameters. Grade capped to B.&lt;/code&gt; 的警告。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ssl_prefer_server_ciphers on&lt;/code&gt; 也是一个必要的配置，否则会 A+ 变成 A-;&lt;/li&gt;
+&lt;li&gt;如果你需要兼容老系统或老浏览器的话，你需要配置 &lt;code&gt;ssl_ciphers&lt;/code&gt;，详见 &lt;a href=&#34;https://wiki.mozilla.org/Security/Server_Side_TLS&#34;&gt;Mozilla Server_Side_TLS 的介绍&lt;/a&gt;，Nginx 里面 &lt;code&gt;ssl_ciphers&lt;/code&gt; 默认值是 &lt;code&gt;HIGH:!aNULL:!MD5;&lt;/code&gt; &lt;a href=&#34;https://nginx.org/en/docs/http/ngx_http_ssl_module.html#ssl_ciphers&#34;&gt;ref&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acme-sh-1&#34;&gt;&lt;a href=&#34;#acme-sh-1&#34; class=&#34;headerlink&#34; title=&#34;acme.sh&#34;&gt;&lt;/a&gt;acme.sh&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看证书列表&lt;/span&gt;&lt;br&gt;acme.sh --list&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 删除证书&lt;/span&gt;&lt;br&gt;acme.sh remove Main_Domain (证书的主域名，上述证书列表中可看见)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 升级 acme.sh 到最新版 :&lt;/span&gt;&lt;br&gt;acme.sh --upgrade&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 如果你不想手动升级, 可以开启自动升级:&lt;/span&gt;&lt;br&gt;acme.sh --upgrade --auto-upgrade&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#你也可以随时关闭自动更新:&lt;/span&gt;&lt;br&gt;acme.sh --upgrade --auto-upgrade 0 &lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 如果出错, 请添加 debug log：&lt;/span&gt;&lt;br&gt;acme.sh --issue ..... --debug &lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 或者：&lt;/span&gt;&lt;br&gt;acme.sh --issue ..... --debug 2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;h2 id=&#34;ngix&#34;&gt;&lt;a href=&#34;#ngix&#34; class=&#34;headerlink&#34; title=&#34;ngix&#34;&gt;&lt;/a&gt;ngix&lt;/h2&gt;&lt;h3 id=&#34;nginx-config-1&#34;&gt;&lt;a href=&#34;#nginx-config-1&#34; class=&#34;headerlink&#34; title=&#34;nginx config 1&#34;&gt;&lt;/a&gt;nginx config 1&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;server &amp;#123;&lt;br&gt;    listen 80; &lt;span class=&#34;hljs-comment&#34;&gt;#如果硬性要求全部走https协议，这一行去除&lt;/span&gt;&lt;br&gt;    listen 443 ssl http2; &lt;span class=&#34;hljs-comment&#34;&gt;#如果硬性要求全部走https协议，这里去除ssl&lt;/span&gt;&lt;br&gt;    server_name chandao.test.com;&lt;br&gt;&lt;br&gt;    ssl_certificate /usr/local/nginx/ssl_cert/test.com/chandao.test.com.cer;&lt;br&gt;    ssl_certificate_key /usr/local/nginx/ssl_cert/test.com/chandao.test.com.key;&lt;br&gt;    ssl_dhparam /usr/local/nginx/ssl/lager.cf.pem;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;#ssl性能调优&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;#nginx 1.13.0支持了TLSv1.3,TLSv1.3相比之前的TLSv1.2、TLSv1.1等性能大幅提升&lt;/span&gt;&lt;br&gt;    ssl_protocols TLSv1 TLSv1.1 TLSv1.2;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# ssl_ciphers EECDH+CHACHA20:EECDH+AES128:RSA+AES128:EECDH+AES256:RSA+AES256:EECDH+3DES:RSA+3DES:!MD5;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# ssl_prefer_server_ciphers on|off 作用：是否由服务器决定采用哪种加密算法&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 如果ssl协议支持tlsv1 tls1.1这种老协议，设置为 on ，并配合ssl_ciphers使用&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 如果ssl协议只支持tlsv1.2 tlsv1.3新协议，设置为 off （nginx默认为off），因为新协议不再采纳此参数&lt;/span&gt;&lt;br&gt;    ssl_prefer_server_ciphers on;&lt;br&gt;    ssl_session_timeout 10m;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;#使用ssl_session_cache优化https下Nginx的性能&lt;/span&gt;&lt;br&gt;    ssl_session_cache &lt;span class=&#34;hljs-built_in&#34;&gt;builtin&lt;/span&gt;:1000 shared:SSL:10m;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;#OCSP Stapling 开启。OCSP是用于在线查询证书吊销情况的服务，使用OCSP Stapling能将证书有效状态的信息缓存到服务器，提高 TLS 握手速度&lt;/span&gt;&lt;br&gt;    ssl_stapling on;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;#OCSP Stapling 验证开启&lt;/span&gt;&lt;br&gt;    ssl_stapling_verify on;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;nginx-config-2&#34;&gt;&lt;a href=&#34;#nginx-config-2&#34; class=&#34;headerlink&#34; title=&#34;nginx config 2&#34;&gt;&lt;/a&gt;nginx config 2&lt;/h3&gt;&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;http &amp;#123;&lt;br&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 新增&lt;/span&gt;&lt;br&gt;  ssl_protocols TLSv1 TLSv1.&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; TLSv1.&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;;&lt;br&gt;  ssl_prefer_server_ciphers on;&lt;br&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 兼容其他老浏览器的 ssl_ciphers 设置请访问 https://wiki.mozilla.org/Security/Server_Side_TLS&lt;/span&gt;&lt;br&gt;&lt;br&gt;  server &amp;#123;&lt;br&gt;    listen &lt;span class=&#34;hljs-number&#34;&gt;80&lt;/span&gt; default_server;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 新增&lt;/span&gt;&lt;br&gt;    listen &lt;span class=&#34;hljs-number&#34;&gt;443&lt;/span&gt; ssl;&lt;br&gt;    ssl_certificate         &lt;span class=&#34;hljs-regexp&#34;&gt;/home/u&lt;/span&gt;buntu&lt;span class=&#34;hljs-regexp&#34;&gt;/www/&lt;/span&gt;ssl/www.your-app.com.key.pem;&lt;br&gt;    ssl_certificate_key     &lt;span class=&#34;hljs-regexp&#34;&gt;/home/u&lt;/span&gt;buntu&lt;span class=&#34;hljs-regexp&#34;&gt;/www/&lt;/span&gt;ssl/www.your-app.com.key;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# ssl_dhparam &lt;/span&gt;&lt;br&gt;    ssl_dhparam             &lt;span class=&#34;hljs-regexp&#34;&gt;/home/u&lt;/span&gt;buntu&lt;span class=&#34;hljs-regexp&#34;&gt;/www/&lt;/span&gt;ssl/dhparam.pem;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 其他省略&lt;/span&gt;&lt;br&gt;  &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;80 重定向到 443&lt;/p&gt;
+&lt;p&gt;这些办法试了好多次都不太行&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;server &amp;#123;&lt;br&gt;  listen       80 default_server;&lt;br&gt;  server_name  www.lager.cf;&lt;br&gt;  &lt;span class=&#34;hljs-built_in&#34;&gt;return&lt;/span&gt; 301 https://$server_name&lt;span class=&#34;hljs-variable&#34;&gt;$request_uri&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;br&gt;server &amp;#123;&lt;br&gt;    listen      80;&lt;br&gt;    server_name    www.awesomes.cn,awesomes.cn;&lt;br&gt;    rewrite ^(.*)$  https://$host&lt;span class=&#34;hljs-variable&#34;&gt;$1&lt;/span&gt; permanent;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;v2ray-tls-websocket-流量伪装&#34;&gt;&lt;a href=&#34;#v2ray-tls-websocket-流量伪装&#34; class=&#34;headerlink&#34; title=&#34;v2ray + tls + websocket 流量伪装&#34;&gt;&lt;/a&gt;v2ray + tls + websocket 流量伪装&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.bwgss.org/616.html&#34;&gt;https://www.bwgss.org/616.html&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;附录&#34;&gt;&lt;a href=&#34;#附录&#34; class=&#34;headerlink&#34; title=&#34;附录&#34;&gt;&lt;/a&gt;附录&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;证书(Certificate) – *.cer *.crt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;私钥(Private Key) – *.key&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;证书签名请求(Certificate signing request) – *.csr&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;编码方式: 1. pem - base64编码 2. der - 二进制编码(少见), cer,key,csr 均可用这两种编码方式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;证书吊销列表(Certificate Revocation List) – *.crl&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;jks（javakeystone）— 是JAVA的keytools证书工具支持的证书私钥格式，javakeystone 里面存放着key和信任的CA，key和CA可以有多个。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/aa858de8/1606053801673.png&#34; alt=&#34;Wordpress&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

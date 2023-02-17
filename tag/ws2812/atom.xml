@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;ws2812&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2021-01-31T06:23:05.000Z</updated>
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="embedded" />
+    <category term="note" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="hex" />
+    <category term="markdown" />
+    <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="osi" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="md5" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="windows" />
+    <category term="makefile" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="机智云" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="ct117e-ex" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="c" />
+    <category term="c++" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="ms-dos" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="life" />
+    <category term="正则表达式" />
+    <category term="人生" />
+    <category term="心理学" />
+    <category term="cad" />
+    <category term="cat_drive" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="workflow" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="synology" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="j-link" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="jlink" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="tmux" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="rtos" />
+    <category term="rt-thread" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="ucos" />
+    <category term="cortex-a7" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="ap" />
+    <category term="wifi" />
+    <category term="pwm" />
+    <category term="cortex-m3" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="rtx" />
+    <category term="keil" />
+    <category term="modbus" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2021/aaef73f3/</id>
+        <title>WS2812驱动 SPI+DMA 无需降频 一个灯占用9Byte的RAM</title>
+        <link rel="alternate" href="https://www.oikiou.top/2021/aaef73f3/"/>
+        <content type="html">&lt;h1 id=&#34;WS2812驱动-STM32F103-SPI-DMA-无需降频-一个灯占用9Byte的RAM&#34;&gt;&lt;a href=&#34;#WS2812驱动-STM32F103-SPI-DMA-无需降频-一个灯占用9Byte的RAM&#34; class=&#34;headerlink&#34; title=&#34;WS2812驱动 STM32F103 SPI+DMA 无需降频 一个灯占用9Byte的RAM&#34;&gt;&lt;/a&gt;WS2812驱动 STM32F103 SPI+DMA 无需降频 一个灯占用9Byte的RAM&lt;/h1&gt;&lt;p&gt;对于WS2812不了解的朋友可以先看一下这些&lt;br&gt;​&lt;a href=&#34;https://www.cnblogs.com/PureHeart/p/11349495.html&#34;&gt;【STM32】WS2812介绍、使用SPI+DMA发送数据&lt;/a&gt;&lt;br&gt;&lt;img src=&#34;/2021/aaef73f3/pic_center.png&#34; alt=&#34;ws812&#34;&gt;&lt;/p&gt;
+&lt;p&gt;WS2812的驱动我想到的主要有三种&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;延时&lt;/li&gt;
+&lt;li&gt;SPI&lt;/li&gt;
+&lt;li&gt;UART&lt;br&gt;&lt;strong&gt;三者区分：&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;延时，占用资源，需要用到ASM nop不然容易被优化，需要用示波器抓时间。&lt;/li&gt;
+&lt;li&gt;UART 起始位低，结束位高，如果要强行实现也是可以但是实现起来过于复杂，不够优美。&lt;/li&gt;
+&lt;li&gt;没有片选的功能，会占用一整个硬件SPI，觉得较为优美。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在网上看了很多SPI例子都是使用 SPI的8bit数据来模拟WS2812的一个bit颜色的数据，但是由于STM32F103主频72M，要凑出来这个SPI的频率我看某些做法是进行降频，吾不喜，要么还有就是和协议时序差异挺大但是有些WS2812能运行，但是考虑到可能有些ws2812会不能兼容，吾不喜。&lt;/p&gt;
+&lt;p&gt;STM32F103 设主频72M，SPI分频数设置为32，则SPI的通信频率为2.25M，传输一位数据的时间约为444纳秒（ns）444ns 888ns 符合WS281X芯片的通信时序。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//  __&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// |  |_|   0b110  high level&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//  _   &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// | |__|   0b100  low level&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;这个方式和协议时序更加接近，占用RAM应该是笔者认为最小的了&lt;/strong&gt;&lt;br&gt;一个灯24bit颜色，只需要24*3&amp;#x2F;8 &amp;#x3D; 9Byte的Buff。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;写代码的时候需要注意一下大小端的问题，尽量保持大小端的兼容性&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/**&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @brief 设置某一个WS2812&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @param num &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @param RGB &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;WS2812_OneSet&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;uint8_t&lt;/span&gt; num, &lt;span class=&#34;hljs-type&#34;&gt;uint32_t&lt;/span&gt; RGB )&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;uint8_t&lt;/span&gt; i;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;uint32_t&lt;/span&gt; TempR = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, TempG = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, TempB = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;//MSB First&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt;( i = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;; i &amp;lt; &lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;; ++i,RGB&amp;gt;&amp;gt;=&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; )&lt;br&gt;    &amp;#123;&lt;br&gt;        (RGB &amp;amp; &lt;span class=&#34;hljs-number&#34;&gt;0x00010000&lt;/span&gt;) != &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; ? (TempR |= (WS2812_HIG&amp;lt;&amp;lt;(i*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;))) : (TempR |= (WS2812_LOW&amp;lt;&amp;lt;(i*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;)));&lt;br&gt;        (RGB &amp;amp; &lt;span class=&#34;hljs-number&#34;&gt;0x00000100&lt;/span&gt;) != &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; ? (TempG |= (WS2812_HIG&amp;lt;&amp;lt;(i*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;))) : (TempG |= (WS2812_LOW&amp;lt;&amp;lt;(i*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;)));&lt;br&gt;        (RGB &amp;amp; &lt;span class=&#34;hljs-number&#34;&gt;0x00000001&lt;/span&gt;) != &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; ? (TempB |= (WS2812_HIG&amp;lt;&amp;lt;(i*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;))) : (TempB |= (WS2812_LOW&amp;lt;&amp;lt;(i*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;)));&lt;br&gt;    &amp;#125;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt;( i = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;; i &amp;lt; &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;; ++i )&lt;br&gt;    &amp;#123;&lt;br&gt;        g_ws2812.Col[num].RGB.R[i] = TempR &amp;gt;&amp;gt; (&lt;span class=&#34;hljs-number&#34;&gt;16&lt;/span&gt;&lt;span class=&#34;hljs-number&#34;&gt;-8&lt;/span&gt;*i);&lt;br&gt;        g_ws2812.Col[num].RGB.G[i] = TempG &amp;gt;&amp;gt; (&lt;span class=&#34;hljs-number&#34;&gt;16&lt;/span&gt;&lt;span class=&#34;hljs-number&#34;&gt;-8&lt;/span&gt;*i);&lt;br&gt;        g_ws2812.Col[num].RGB.B[i] = TempB &amp;gt;&amp;gt; (&lt;span class=&#34;hljs-number&#34;&gt;16&lt;/span&gt;&lt;span class=&#34;hljs-number&#34;&gt;-8&lt;/span&gt;*i);&lt;br&gt;    &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;这里有参考的代码，有积分的给点积分用吧，没积分的可以去Github下。&lt;br&gt;&lt;a href=&#34;https://github.com/Jack-InGitHub/WS2812&#34;&gt;Github&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://download.csdn.net/download/weixin_42078116/14975868&#34;&gt;CSDN下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;参考资料&lt;br&gt;&lt;a href=&#34;https://www.amobbs.com/thread-5697122-1-1.html?_dsign=01c8809d&#34;&gt;stm32和ws2812B相对较好的方案。SPI和UART &lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="ws2812" />
+        <category term="spi" />
+        <category term="dma" />
+        <updated>2021-01-31T06:23:05.000Z</updated>
+    </entry>
+</feed>

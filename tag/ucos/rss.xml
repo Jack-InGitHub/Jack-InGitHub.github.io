@@ -1,0 +1,666 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;ucos&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 21 Aug 2020 22:57:15 +0800</pubDate>
+        <lastBuildDate>Fri, 21 Aug 2020 22:57:15 +0800</lastBuildDate>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>embedded</category>
+        <category>note</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hex</category>
+        <category>markdown</category>
+        <category>sscanf</category>
+        <category>c/c++</category>
+        <category>osi</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>md5</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>windows</category>
+        <category>makefile</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>机智云</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>ct117e-ex</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>c</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>ms-dos</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>life</category>
+        <category>正则表达式</category>
+        <category>人生</category>
+        <category>心理学</category>
+        <category>cad</category>
+        <category>cat_drive</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>workflow</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>synology</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>j-link</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>jlink</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>tmux</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>rtos</category>
+        <category>rt-thread</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>ucos</category>
+        <category>cortex-a7</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>pwm</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>rtx</category>
+        <category>keil</category>
+        <category>modbus</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2020/2ac84091/</guid>
+            <title>UCOS</title>
+            <link>https://www.oikiou.top/2020/2ac84091/</link>
+            <category>rtos</category>
+            <category>ucos</category>
+            <pubDate>Fri, 21 Aug 2020 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;序章&#34;&gt;&lt;a href=&#34;#序章&#34; class=&#34;headerlink&#34; title=&#34;序章&#34;&gt;&lt;/a&gt;序章&lt;/h2&gt;&lt;h3 id=&#34;延时函数&#34;&gt;&lt;a href=&#34;#延时函数&#34; class=&#34;headerlink&#34; title=&#34;延时函数&#34;&gt;&lt;/a&gt;延时函数&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;  &lt;span class=&#34;hljs-title function_&#34;&gt;OSTimeDlyHMSM&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(CPU_INT16U   hours,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                     CPU_INT16U   minutes,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                     CPU_INT16U   seconds,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                     CPU_INT32U   milli,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                     OS_OPT       opt,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                     OS_ERR      *p_err)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-title function_&#34;&gt;OSTimeDlyHMSM&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,OS_OPT_TIME_HMSM_STRICT,&amp;amp;err)&lt;/span&gt;; &lt;span class=&#34;hljs-comment&#34;&gt;//延时1s&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//strick   adj. 严格的；绝对的；精确的；详细的&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h2 id=&#34;任务管理&#34;&gt;&lt;a href=&#34;#任务管理&#34; class=&#34;headerlink&#34; title=&#34;任务管理&#34;&gt;&lt;/a&gt;任务管理&lt;/h2&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//创建开始任务&lt;/span&gt;&lt;br&gt;	OSTaskCreate((OS_TCB 	* )&amp;amp;StartTaskTCB,		&lt;span class=&#34;hljs-comment&#34;&gt;//任务控制块&lt;/span&gt;&lt;br&gt;				 (CPU_CHAR	* )&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;start task&amp;quot;&lt;/span&gt;, 		&lt;span class=&#34;hljs-comment&#34;&gt;//任务名字&lt;/span&gt;&lt;br&gt;                 (OS_TASK_PTR )start_task, 			&lt;span class=&#34;hljs-comment&#34;&gt;//任务函数&lt;/span&gt;&lt;br&gt;                 (&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;		* )&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,					&lt;span class=&#34;hljs-comment&#34;&gt;//传递给任务函数的参数&lt;/span&gt;&lt;br&gt;                 (OS_PRIO	  )START_TASK_PRIO,     &lt;span class=&#34;hljs-comment&#34;&gt;//任务优先级&lt;/span&gt;&lt;br&gt;                 (CPU_STK   * )&amp;amp;START_TASK_STK[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;],	&lt;span class=&#34;hljs-comment&#34;&gt;//任务堆栈基地址&lt;/span&gt;&lt;br&gt;                 (CPU_STK_SIZE)START_STK_SIZE/&lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;,	&lt;span class=&#34;hljs-comment&#34;&gt;//任务堆栈深度限位&lt;/span&gt;&lt;br&gt;                 (CPU_STK_SIZE)START_STK_SIZE,		&lt;span class=&#34;hljs-comment&#34;&gt;//任务堆栈大小&lt;/span&gt;&lt;br&gt;                 (OS_MSG_QTY  )&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,					&lt;span class=&#34;hljs-comment&#34;&gt;//任务内部消息队列能够接收的最大消息数目,为0时禁止接收消息&lt;/span&gt;&lt;br&gt;                 (OS_TICK	  )&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,					&lt;span class=&#34;hljs-comment&#34;&gt;//当使能时间片轮转时的时间片长度，为0时为默认长度，&lt;/span&gt;&lt;br&gt;                 (&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;   	* )&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,					&lt;span class=&#34;hljs-comment&#34;&gt;//用户补充的存储区&lt;/span&gt;&lt;br&gt;                 (OS_OPT      )OS_OPT_TASK_STK_CHK|OS_OPT_TASK_STK_CLR, &lt;span class=&#34;hljs-comment&#34;&gt;//任务选项&lt;/span&gt;&lt;br&gt;                 (OS_ERR 	* )&amp;amp;err);				&lt;span class=&#34;hljs-comment&#34;&gt;//存放该函数错误时的返回值&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;(CPU_STK_SIZE)START_STK_SIZE/10,	//任务堆栈深度限位&lt;/code&gt;    一般设定小于10%即可&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;(OS_TCB 	* )&amp;amp;StartTaskTCB,		//任务控制块&lt;/code&gt;   &lt;strong&gt;不要访问和更改其中的成员变量&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;优先级&#34;&gt;&lt;a href=&#34;#优先级&#34; class=&#34;headerlink&#34; title=&#34;优先级&#34;&gt;&lt;/a&gt;优先级&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;数值越小优先级越高&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;os_cfg.h line48   &lt;strong&gt;OS_CFG_PRIO_MAX&lt;/strong&gt;  最大优先级数&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;就绪表&#34;&gt;&lt;a href=&#34;#就绪表&#34; class=&#34;headerlink&#34; title=&#34;就绪表&#34;&gt;&lt;/a&gt;就绪表&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;优先级位映射表**OSPrioTbl[]**：用来记录哪个优先级下有任务就绪&lt;/li&gt;
+&lt;li&gt;就绪任务列表**OSRdyList[]**：用来记录每一个优先级下所有就绪的任务&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;前导零&#34;&gt;&lt;a href=&#34;#前导零&#34; class=&#34;headerlink&#34; title=&#34;前导零&#34;&gt;&lt;/a&gt;前导零&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;硬件计算  能计算一个值前面有多少零&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;任务调度&#34;&gt;&lt;a href=&#34;#任务调度&#34; class=&#34;headerlink&#34; title=&#34;任务调度&#34;&gt;&lt;/a&gt;任务调度&lt;/h2&gt;&lt;h4 id=&#34;任务调度-1&#34;&gt;&lt;a href=&#34;#任务调度-1&#34; class=&#34;headerlink&#34; title=&#34;任务调度&#34;&gt;&lt;/a&gt;任务调度&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;任务调度器 进入中断   OSIntEnter();  &lt;/li&gt;
+&lt;li&gt;任务调度器 退出中断   OSIntExit();&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;发生任务调度的调度点&#34;&gt;&lt;a href=&#34;#发生任务调度的调度点&#34; class=&#34;headerlink&#34; title=&#34;发生任务调度的调度点&#34;&gt;&lt;/a&gt;发生任务调度的调度点&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;延时函数OSTimeDly()（按时间延时）或者OSTimeDlyHMSM()（按节拍延时）&lt;/li&gt;
+&lt;li&gt;创建、删除任务&lt;/li&gt;
+&lt;li&gt;改变优先级&lt;/li&gt;
+&lt;li&gt;通过调用OSTaskSuspend()将自身挂起、或解除某个挂起的任务&lt;/li&gt;
+&lt;li&gt;OSSched() 用户自行请求调度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;调度器上锁解锁&#34;&gt;&lt;a href=&#34;#调度器上锁解锁&#34; class=&#34;headerlink&#34; title=&#34;调度器上锁解锁&#34;&gt;&lt;/a&gt;调度器上锁解锁&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;OSSchedLock()加锁&lt;/li&gt;
+&lt;li&gt;OSSchedUnlock()解锁&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;时间片轮转调度&#34;&gt;&lt;a href=&#34;#时间片轮转调度&#34; class=&#34;headerlink&#34; title=&#34;时间片轮转调度&#34;&gt;&lt;/a&gt;时间片轮转调度&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;待补充&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;UCOS系统初始化&#34;&gt;&lt;a href=&#34;#UCOS系统初始化&#34; class=&#34;headerlink&#34; title=&#34;UCOS系统初始化&#34;&gt;&lt;/a&gt;UCOS系统初始化&lt;/h2&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;   OS_ERR err;&lt;br&gt;   ……&lt;br&gt;   &lt;span class=&#34;hljs-comment&#34;&gt;//其他函数，一般为外设初始化函数&lt;/span&gt;&lt;br&gt;   ……&lt;br&gt;   OSInit(&amp;amp;err);&lt;br&gt;   ……&lt;br&gt;   &lt;span class=&#34;hljs-comment&#34;&gt;//其他函数，一般为创建任务函数&lt;/span&gt;&lt;br&gt;   ……&lt;br&gt;   OSStart(&amp;amp;err);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OSInit()必须先于其他的UCOS函数调用包括OSStart()&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;任务创建与管理&#34;&gt;&lt;a href=&#34;#任务创建与管理&#34; class=&#34;headerlink&#34; title=&#34;任务创建与管理&#34;&gt;&lt;/a&gt;任务创建与管理&lt;/h2&gt;&lt;h4 id=&#34;任务的创建&#34;&gt;&lt;a href=&#34;#任务的创建&#34; class=&#34;headerlink&#34; title=&#34;任务的创建&#34;&gt;&lt;/a&gt;任务的创建&lt;/h4&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;OSTaskCreate((OS_TCB 	* )&amp;amp;StartTaskTCB,		&lt;span class=&#34;hljs-comment&#34;&gt;//任务控制块&lt;/span&gt;&lt;br&gt;             (CPU_CHAR	* )&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;start task&amp;quot;&lt;/span&gt;, 		&lt;span class=&#34;hljs-comment&#34;&gt;//任务名字&lt;/span&gt;&lt;br&gt;             (OS_TASK_PTR )start_task, 			&lt;span class=&#34;hljs-comment&#34;&gt;//任务函数&lt;/span&gt;&lt;br&gt;             (&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;		* )&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,					&lt;span class=&#34;hljs-comment&#34;&gt;//传递给任务函数的参数&lt;/span&gt;&lt;br&gt;             (OS_PRIO	  )START_TASK_PRIO,     &lt;span class=&#34;hljs-comment&#34;&gt;//任务优先级&lt;/span&gt;&lt;br&gt;             (CPU_STK   * )&amp;amp;START_TASK_STK[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;],	&lt;span class=&#34;hljs-comment&#34;&gt;//任务堆栈基地址&lt;/span&gt;&lt;br&gt;             (CPU_STK_SIZE)START_STK_SIZE/&lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;,	&lt;span class=&#34;hljs-comment&#34;&gt;//任务堆栈深度限位&lt;/span&gt;&lt;br&gt;             (CPU_STK_SIZE)START_STK_SIZE,		&lt;span class=&#34;hljs-comment&#34;&gt;//任务堆栈大小&lt;/span&gt;&lt;br&gt;             (OS_MSG_QTY  )&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,					&lt;span class=&#34;hljs-comment&#34;&gt;//任务内部消息队列能够接收的最大消息数目,为0时禁止接收消息&lt;/span&gt;&lt;br&gt;             (OS_TICK	  )&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,					&lt;span class=&#34;hljs-comment&#34;&gt;//当使能时间片轮转时的时间片长度，为0时为默认长度，&lt;/span&gt;&lt;br&gt;             (&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;   	* )&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,					&lt;span class=&#34;hljs-comment&#34;&gt;//用户补充的存储区&lt;/span&gt;&lt;br&gt;             (OS_OPT      )OS_OPT_TASK_STK_CHK|OS_OPT_TASK_STK_CLR, &lt;span class=&#34;hljs-comment&#34;&gt;//任务选项&lt;/span&gt;&lt;br&gt;             (OS_ERR 	* )&amp;amp;err);				&lt;span class=&#34;hljs-comment&#34;&gt;//存放该函数错误时的返回值&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OS_ERR 错误代码&lt;/p&gt;
+&lt;h4 id=&#34;任务的删除&#34;&gt;&lt;a href=&#34;#任务的删除&#34; class=&#34;headerlink&#34; title=&#34;任务的删除&#34;&gt;&lt;/a&gt;任务的删除&lt;/h4&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;  &lt;span class=&#34;hljs-title function_&#34;&gt;OSTaskDel&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(OS_TCB  *p_tcb,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                 OS_ERR  *p_err)&lt;/span&gt;;&lt;br&gt;    &lt;br&gt;OSTaskDel((OS_TCB*)&amp;amp;Task2_TaskTCB,&amp;amp;err);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;不建议在系统运行时删除任务&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;尽管UCOSIII允许在系统运行中删除任务，但是应该尽量避免这种操作，如果这个任务可能占有与其他任务共享的资源，在删除此任务之前这个被占有的资源没有被释放就有可能导致奇怪的结果。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;任务的挂起与恢复&#34;&gt;&lt;a href=&#34;#任务的挂起与恢复&#34; class=&#34;headerlink&#34; title=&#34;任务的挂起与恢复&#34;&gt;&lt;/a&gt;任务的挂起与恢复&lt;/h2&gt;&lt;h3 id=&#34;挂起&#34;&gt;&lt;a href=&#34;#挂起&#34; class=&#34;headerlink&#34; title=&#34;挂起&#34;&gt;&lt;/a&gt;挂起&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;   &lt;span class=&#34;hljs-title function_&#34;&gt;OSTaskSuspend&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(OS_TCB  *p_tcb,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                      OS_ERR  *p_err)&lt;/span&gt;;&lt;br&gt;&lt;br&gt;OSTaskSuspend((OS_TCB*)&amp;amp;Task2_TaskTCB,&amp;amp;err);&lt;span class=&#34;hljs-comment&#34;&gt;//挂起任务2&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;挂起错误&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;任务被加锁&lt;/li&gt;
+&lt;li&gt;任务空闲&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;恢复&#34;&gt;&lt;a href=&#34;#恢复&#34; class=&#34;headerlink&#34; title=&#34;恢复&#34;&gt;&lt;/a&gt;恢复&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;  &lt;span class=&#34;hljs-title function_&#34;&gt;OSTaskResume&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(OS_TCB  *p_tcb,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                    OS_ERR  *p_err)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-title function_&#34;&gt;OSTaskResume&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;((OS_TCB*)&amp;amp;Task2_TaskTCB,&amp;amp;err)&lt;/span&gt;;	&lt;span class=&#34;hljs-comment&#34;&gt;//恢复任务2&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;恢复错误&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;任务状态无效（错误的状态）、任务不是已经挂起的&lt;/li&gt;
+&lt;li&gt;不能恢复自己&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;时间片轮转调度-1&#34;&gt;&lt;a href=&#34;#时间片轮转调度-1&#34; class=&#34;headerlink&#34; title=&#34;时间片轮转调度&#34;&gt;&lt;/a&gt;时间片轮转调度&lt;/h2&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;  &lt;span class=&#34;hljs-title function_&#34;&gt;OSSchedRoundRobinCfg&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(CPU_BOOLEAN   en,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                            OS_TICK       dflt_time_quanta,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                            OS_ERR       *p_err)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;	OS_CFG_SCHED_ROUND_ROBIN_EN  &lt;span class=&#34;hljs-comment&#34;&gt;//当使用时间片轮转的时候&lt;/span&gt;&lt;/span&gt;&lt;br&gt;	 &lt;span class=&#34;hljs-comment&#34;&gt;//使能时间片轮转调度功能,时间片长度为1个系统时钟节拍，既1*5=5ms&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-title function_&#34;&gt;OSSchedRoundRobinCfg&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(DEF_ENABLED,&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;,&amp;amp;err)&lt;/span&gt;;  &lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;endif&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;初始化&#34;&gt;&lt;a href=&#34;#初始化&#34; class=&#34;headerlink&#34; title=&#34;初始化&#34;&gt;&lt;/a&gt;初始化&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;设置宏  &lt;strong&gt;OS_CFG_SCHED_ROUND_ROBIN_EN&lt;/strong&gt;  为1&lt;/li&gt;
+&lt;li&gt;调用函数  &lt;strong&gt;OSSchedRoundRobinCfg()&lt;/strong&gt;  开启时间片轮转调度功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;时间片的放弃&#34;&gt;&lt;a href=&#34;#时间片的放弃&#34; class=&#34;headerlink&#34; title=&#34;时间片的放弃&#34;&gt;&lt;/a&gt;时间片的放弃&lt;/h3&gt;&lt;p&gt;&lt;code&gt;OSSchedRoundRobinYield(&amp;amp;err);&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;注：&#34;&gt;&lt;a href=&#34;#注：&#34; class=&#34;headerlink&#34; title=&#34;注：&#34;&gt;&lt;/a&gt;注：&lt;/h3&gt;&lt;p&gt;时间片如果不够执行可能会产生奇怪的效果请注意&lt;/p&gt;
+&lt;h2 id=&#34;系统内部任务&#34;&gt;&lt;a href=&#34;#系统内部任务&#34; class=&#34;headerlink&#34; title=&#34;系统内部任务&#34;&gt;&lt;/a&gt;系统内部任务&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;中断服务管理任务&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;时钟节拍任务&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;定时任务（可选）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;统计任务（可选）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;空闲任务&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;中断服务管理任务&#34;&gt;&lt;a href=&#34;#中断服务管理任务&#34; class=&#34;headerlink&#34; title=&#34;中断服务管理任务&#34;&gt;&lt;/a&gt;中断服务管理任务&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;默认优先级最高，第一，不可更改。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;时钟节拍任务&#34;&gt;&lt;a href=&#34;#时钟节拍任务&#34; class=&#34;headerlink&#34; title=&#34;时钟节拍任务&#34;&gt;&lt;/a&gt;时钟节拍任务&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;优先级较高，第二。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;定时任务（可选）&#34;&gt;&lt;a href=&#34;#定时任务（可选）&#34; class=&#34;headerlink&#34; title=&#34;定时任务（可选）&#34;&gt;&lt;/a&gt;定时任务（可选）&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;默认优先级，第三。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;提供软件定时功能&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;将宏OS_CFG_TMR_EN设置为1就会使能定时任务，在OSInit()中将会调用函数OS_TmrInit()来创建定时任务。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;统计任务（可选）&#34;&gt;&lt;a href=&#34;#统计任务（可选）&#34; class=&#34;headerlink&#34; title=&#34;统计任务（可选）&#34;&gt;&lt;/a&gt;统计任务（可选）&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;一般优先级，倒数第二。&lt;/li&gt;
+&lt;li&gt;统计CPU使用率，堆栈使用率&lt;/li&gt;
+&lt;li&gt;可选创建（将宏&lt;strong&gt;OS_CFG_STAT_TASK_EN&lt;/strong&gt;置1）&lt;/li&gt;
+&lt;li&gt;必须在main函数创建的以一个任务也是唯一的一个应用任务里面调用函数**OSStatTaskCPUUsageInit()**查询使用情况&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;空闲任务&#34;&gt;&lt;a href=&#34;#空闲任务&#34; class=&#34;headerlink&#34; title=&#34;空闲任务&#34;&gt;&lt;/a&gt;空闲任务&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;优先级最低，倒数第一。&lt;/li&gt;
+&lt;li&gt;不能调用会使空闲任务进入等待态的函数。&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;可统计CPU使用率&lt;/span&gt;（用处）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;钩子函数&#34;&gt;&lt;a href=&#34;#钩子函数&#34; class=&#34;headerlink&#34; title=&#34;钩子函数&#34;&gt;&lt;/a&gt;钩子函数&lt;/h2&gt;&lt;p&gt;共有8个&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;OSIdleTaskHook()，		&lt;strong&gt;空闲任务&lt;/strong&gt;		调用这个函数，可以用来让CPU进入低功耗模式&lt;/li&gt;
+&lt;li&gt;OSInitHook()，			&lt;strong&gt;系统初始化&lt;/strong&gt;		函数OSInit()调用此函数&lt;/li&gt;
+&lt;li&gt;OSStatTaskHook(),		 &lt;strong&gt;统计任务每秒&lt;/strong&gt;		中都会调用这个函数，此函数允许你向统计任务中添加自己的应用函数。&lt;/li&gt;
+&lt;li&gt;OSTaskCreateHook(),		&lt;strong&gt;任务创建&lt;/strong&gt;		的钩子函数。&lt;/li&gt;
+&lt;li&gt;OSTaskDelHook(),		&lt;strong&gt;任务删除&lt;/strong&gt;		的钩子函数。&lt;/li&gt;
+&lt;li&gt;OSTaskReturnHook(),		&lt;strong&gt;任务意外返回&lt;/strong&gt;		时调用的钩子函数，比如删除某个任务&lt;/li&gt;
+&lt;li&gt;OSTaskSwHook(),		&lt;strong&gt;任务切换&lt;/strong&gt;		时候调用的钩子函数。&lt;/li&gt;
+&lt;li&gt;OSTimeTickHook()，		&lt;strong&gt;滴答定时器&lt;/strong&gt;		调用的钩子函数。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;中断时间管理&#34;&gt;&lt;a href=&#34;#中断时间管理&#34; class=&#34;headerlink&#34; title=&#34;中断时间管理&#34;&gt;&lt;/a&gt;中断时间管理&lt;/h2&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;USART1_IRQHandler&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;       OSIntEnter();&lt;br&gt;      &lt;span class=&#34;hljs-comment&#34;&gt;//中断服务程序&lt;/span&gt;&lt;br&gt;      OSIntExit();&lt;br&gt;&amp;#125;  &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;最大250级中断嵌套&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;临界区代码保护&#34;&gt;&lt;a href=&#34;#临界区代码保护&#34; class=&#34;headerlink&#34; title=&#34;临界区代码保护&#34;&gt;&lt;/a&gt;临界区代码保护&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;临界区：不可被打断的代码段&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;OS_CFG_ISR_POST_DEFERRED_EN   的值与临界段代码保护方式&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;0&lt;/th&gt;
+&lt;th&gt;关中断&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;调度器上锁（可能会被其它中断打断）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;进入临界段&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一个进入函数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;退出临界段&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;退出后产生调度——-OS_CRITICAL_EXIT()&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;退出后不产生调度—-OS_CRITICAL_EXIT_NO_SCHED()&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;CPU-SR-ALLOC&#34;&gt;&lt;a href=&#34;#CPU-SR-ALLOC&#34; class=&#34;headerlink&#34; title=&#34;CPU_SR_ALLOC()&#34;&gt;&lt;/a&gt;CPU_SR_ALLOC()&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;函数CPU_SR_ALLOC()是为CPU_CRITICAL_ENTER()和CPU_CRITICAL_EXIT()申请一个变量：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;#define  CPU_SR_ALLOC()           CPU_SR  cpu_sr = (CPU_SR)0&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;这个是临界代码段，在下面一个小节有详细讲解。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;这样做是为了防止编译器警告。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;任务延时&#34;&gt;&lt;a href=&#34;#任务延时&#34; class=&#34;headerlink&#34; title=&#34;任务延时&#34;&gt;&lt;/a&gt;任务延时&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;开始延时&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;OSTimeDly()&lt;/th&gt;
+&lt;th&gt;相对延时&lt;/th&gt;
+&lt;th&gt;基于时钟节拍&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;绝对延时&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;周期延时&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSTimeDlyHMSM()&lt;/td&gt;
+&lt;td&gt;相对延时&lt;/td&gt;
+&lt;td&gt;基于时间&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;取消延时&lt;/p&gt;
+&lt;p&gt;延时任务任务可通过在其他任务中调用函数OSTimeDlyResume()取消延时而进入就绪状态，此函数最后会引发一次任务调度。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;获取系统时间&#34;&gt;&lt;a href=&#34;#获取系统时间&#34; class=&#34;headerlink&#34; title=&#34;获取系统时间&#34;&gt;&lt;/a&gt;获取系统时间&lt;/h2&gt;&lt;p&gt;​	UCOSIII定义了一个 CPU_INT32U 类型的全局变量 OSTickCtr 来记录系统时钟节拍数，在调用 &lt;strong&gt;OSInit()&lt;/strong&gt; 时被初始化为 0，以后每发生1个时钟节拍，OSTickCtr加1。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OSTimeSet()允许用户改变当前时钟节拍计数器的值&lt;/li&gt;
+&lt;li&gt;OSTimeGet()用来获取动迁时钟节拍计数器的值&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;软件定时器&#34;&gt;&lt;a href=&#34;#软件定时器&#34; class=&#34;headerlink&#34; title=&#34;软件定时器&#34;&gt;&lt;/a&gt;软件定时器&lt;/h2&gt;&lt;p&gt;​	定时器本质是递减计数器，当计数器减到零时可以执行回调函数。应用程序可以有任意数量的定时器，UCOSIII中定时器的时间分辨率由一个宏 &lt;strong&gt;OS_CFG_TMR_TASK_RATE_HZ&lt;/strong&gt; 确定，单位为HZ，默认为100Hz。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;避免在回调函数使用   &lt;strong&gt;阻塞&lt;/strong&gt;，&lt;strong&gt;删除&lt;/strong&gt;   定时器任务的函数。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件定时器的API&#34;&gt;&lt;a href=&#34;#软件定时器的API&#34; class=&#34;headerlink&#34; title=&#34;软件定时器的API&#34;&gt;&lt;/a&gt;软件定时器的API&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;OSTmrCreate()&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;创建定时器并制定运行模式&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;OSTmrDel()&lt;/td&gt;
+&lt;td&gt;删除定时器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSTmrRemainGet()&lt;/td&gt;
+&lt;td&gt;获取定时器的剩余时间&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSTmrStart()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;启动定时器计数&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSTmrStateGet()&lt;/td&gt;
+&lt;td&gt;获取当前定时器状态&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSTmrStop()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;停止计数器倒计时&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;OSTmrCreate()有三种模式&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;单次模式（通过OSTmrStart()触发）&lt;/li&gt;
+&lt;li&gt;周期无延迟模式&lt;/li&gt;
+&lt;li&gt;周期有延迟模式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;信号量、互斥信号量、内嵌信号量&#34;&gt;&lt;a href=&#34;#信号量、互斥信号量、内嵌信号量&#34; class=&#34;headerlink&#34; title=&#34;信号量、互斥信号量、内嵌信号量&#34;&gt;&lt;/a&gt;信号量、互斥信号量、内嵌信号量&lt;/h2&gt;&lt;h3 id=&#34;信号量&#34;&gt;&lt;a href=&#34;#信号量&#34; class=&#34;headerlink&#34; title=&#34;信号量&#34;&gt;&lt;/a&gt;信号量&lt;/h3&gt;&lt;p&gt;信号量像是一种上锁机制，代码必须获得对应的钥匙才能继续执行，一旦获得了钥匙，也就意味着该任务具有进入被锁部分代码的权限。一旦执行至被锁代码段，则任务一直等待，直到对应被锁部分代码的钥匙被再次释放才能继续执行。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;信号量用于控制对共享资源的保护，但是现在基本用来做任务同步用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;信号量API&#34;&gt;&lt;a href=&#34;#信号量API&#34; class=&#34;headerlink&#34; title=&#34;信号量API&#34;&gt;&lt;/a&gt;信号量API&lt;/h4&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;OSSemCreate()&lt;/th&gt;
+&lt;th&gt;建立一个信号量&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;OSSemDel()&lt;/td&gt;
+&lt;td&gt;删除一个信号量&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSSemPend()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;等待一个信号量&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSSemPendAbrot()&lt;/td&gt;
+&lt;td&gt;取消等待&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSSemPost()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;释放或者发出一个信号量&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSSemSet()&lt;/td&gt;
+&lt;td&gt;强制设置一个信号量的值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;  &lt;span class=&#34;hljs-title function_&#34;&gt;OSSemCreate&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(OS_SEM      *p_sem,		&lt;span class=&#34;hljs-comment&#34;&gt;//OS_SEM	MY_SEM;	定义一个信号量，用于访问共享资源&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                   CPU_CHAR    *p_name,		&lt;span class=&#34;hljs-comment&#34;&gt;//&amp;quot;MY_SEM&amp;quot;	名称&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                   OS_SEM_CTR   cnt,		&lt;span class=&#34;hljs-comment&#34;&gt;//如果设置成计数型信号量 此处设置成对应数字即可   如果设置成二进制信号量   此处设置成0即可&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                   OS_ERR      *p_err)&lt;/span&gt;		&lt;span class=&#34;hljs-comment&#34;&gt;//&lt;/span&gt;&lt;br&gt;    &lt;br&gt;&lt;span class=&#34;hljs-title function_&#34;&gt;OSSemCreate&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;((OS_SEM*	)&amp;amp;MY_SEM,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;             (CPU_CHAR*	)&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;MY_SEM&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;             (OS_SEM_CTR)&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;,		&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;             (OS_ERR*	)&amp;amp;err)&lt;/span&gt;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OS_SEM_CTR   cnt,		&lt;ul&gt;
+&lt;li&gt;如果设置成计数型信号量   此处设置成对应数字即可   &lt;/li&gt;
+&lt;li&gt;如果设置成二进制信号量   此处设置成0，指示事件的发生（同步）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;OS_SEM_CTR  &lt;span class=&#34;hljs-title function_&#34;&gt;OSSemPend&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(OS_SEM   *p_sem,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                       OS_TICK   timeout,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                       OS_OPT    opt,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                       CPU_TS   *p_ts,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                       OS_ERR   *p_err)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-title function_&#34;&gt;OSSemPend&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&amp;amp;MY_SEM,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,OS_OPT_PEND_BLOCKING,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&amp;amp;err)&lt;/span&gt;; 	&lt;span class=&#34;hljs-comment&#34;&gt;//请求信号量&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OS_OPT    opt,&lt;ul&gt;
+&lt;li&gt;OS_OPT_PEND_BLOCKING —————-&amp;gt;  阻塞式&lt;/li&gt;
+&lt;li&gt;OS_OPT_PEND_NON_BLOCKING ——-&amp;gt; 非阻塞式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;OS_SEM_CTR  &lt;span class=&#34;hljs-title function_&#34;&gt;OSSemPost&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(OS_SEM  *p_sem,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                       OS_OPT   opt,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                       OS_ERR  *p_err)&lt;/span&gt;&lt;br&gt;    &lt;br&gt;&lt;span class=&#34;hljs-title function_&#34;&gt;OSSemPost&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(&amp;amp;MY_SEM,OS_OPT_POST_1,&amp;amp;err)&lt;/span&gt;;				&lt;span class=&#34;hljs-comment&#34;&gt;//发送 释放 信号量&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OS_OPT    opt，&lt;ul&gt;
+&lt;li&gt;OS_OPT_POST_1 —–&amp;gt;只使能等待信号量的最高优先级任务   (如果任务正在等待)。&lt;/li&gt;
+&lt;li&gt;OS_OPT_POST_ALL  ——&amp;gt;发送到所有等待信号量的任务&lt;/li&gt;
+&lt;li&gt;OS_OPT_POST_NO_SCHED  ———&amp;gt;不调用调度程序  可以与其他选项之一一起添加。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;互斥信号量&#34;&gt;&lt;a href=&#34;#互斥信号量&#34; class=&#34;headerlink&#34; title=&#34;互斥信号量&#34;&gt;&lt;/a&gt;互斥信号量&lt;/h3&gt;&lt;h4 id=&#34;互斥信号量API&#34;&gt;&lt;a href=&#34;#互斥信号量API&#34; class=&#34;headerlink&#34; title=&#34;互斥信号量API&#34;&gt;&lt;/a&gt;互斥信号量API&lt;/h4&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;OSMutexCreate()&lt;/th&gt;
+&lt;th&gt;建立一个互斥信号量&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;OSMutexDel()&lt;/td&gt;
+&lt;td&gt;删除一个互斥信号量&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSMutexPend()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;等待一个互斥信号量&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSMutexPendAbrot()&lt;/td&gt;
+&lt;td&gt;取消等待&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSMutexPost()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;释放或者发布一个互斥信号量&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;内嵌信号量&#34;&gt;&lt;a href=&#34;#内嵌信号量&#34; class=&#34;headerlink&#34; title=&#34;内嵌信号量&#34;&gt;&lt;/a&gt;内嵌信号量&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;OSTaskSemPend()&lt;/th&gt;
+&lt;th&gt;等待一个任务信号量&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;OSTaskSemPendAbort()&lt;/td&gt;
+&lt;td&gt;取消等待任务信号量&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSTaskSemPost()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;发布任务信号量&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSTaskSemSet()&lt;/td&gt;
+&lt;td&gt;强行设置任务信号量计数&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;消息队列&#34;&gt;&lt;a href=&#34;#消息队列&#34; class=&#34;headerlink&#34; title=&#34;消息队列&#34;&gt;&lt;/a&gt;消息队列&lt;/h2&gt;&lt;h3 id=&#34;消息队列-1&#34;&gt;&lt;a href=&#34;#消息队列-1&#34; class=&#34;headerlink&#34; title=&#34;消息队列&#34;&gt;&lt;/a&gt;消息队列&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;函数名&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;作用&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSQCreate()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;创建一个消息   队列&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSQDel()&lt;/td&gt;
+&lt;td&gt;删除一个消息队列&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSQFlush()&lt;/td&gt;
+&lt;td&gt;清空消息队列&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSQPend()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;等待消息&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSQPendAbort()&lt;/td&gt;
+&lt;td&gt;取消等待消息&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSQPost()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;向消息队列发布一则消息&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;  &lt;span class=&#34;hljs-title function_&#34;&gt;OSQCreate&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(OS_Q        *p_q,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                 CPU_CHAR    *p_name,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                 OS_MSG_QTY   max_qty,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                 OS_ERR      *p_err)&lt;/span&gt;&lt;br&gt;    &lt;br&gt;&lt;span class=&#34;hljs-title function_&#34;&gt;OSQCreate&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;((OS_Q*		)&amp;amp;KEY_Msg,	&lt;span class=&#34;hljs-comment&#34;&gt;//消息队列&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;           (CPU_CHAR*	)&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;KEY Msg&amp;quot;&lt;/span&gt;,	&lt;span class=&#34;hljs-comment&#34;&gt;//消息队列名称&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;           (OS_MSG_QTY	)KEYMSG_Q_NUM,	&lt;span class=&#34;hljs-comment&#34;&gt;//消息队列长度，这里设置为1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;           (OS_ERR*	)&amp;amp;err)&lt;/span&gt;;		&lt;span class=&#34;hljs-comment&#34;&gt;//错误码&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//发送消息&lt;/span&gt;&lt;br&gt;OSQPost((OS_Q*		)&amp;amp;DATA_Msg,		&lt;br&gt;        (&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;*		)pbuf,&lt;br&gt;        (OS_MSG_SIZE)&lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;,&lt;br&gt;        (OS_OPT		)OS_OPT_POST_FIFO,&lt;br&gt;        (OS_ERR*	)&amp;amp;err);&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//请求消息&lt;/span&gt;&lt;br&gt;p=OSQPend((OS_Q*		)&amp;amp;DATA_Msg,   &lt;br&gt;          (OS_TICK		)&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;br&gt;          (OS_OPT		)OS_OPT_PEND_BLOCKING,&lt;br&gt;          (OS_MSG_SIZE*	)&amp;amp;size,	&lt;br&gt;          (CPU_TS*		)&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;br&gt;          (OS_ERR*		)&amp;amp;err);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;h3 id=&#34;任务内建消息队列&#34;&gt;&lt;a href=&#34;#任务内建消息队列&#34; class=&#34;headerlink&#34; title=&#34;任务内建消息队列&#34;&gt;&lt;/a&gt;任务内建消息队列&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;函数名&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;作用&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSTaskQPend()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;等待消息&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSTaskQPendAbort()&lt;/td&gt;
+&lt;td&gt;取消等待消息&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSTaskQPost()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;向任务发布一则消息&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSTaskQFlush()&lt;/td&gt;
+&lt;td&gt;清空任务的消息队列&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//创建MSGDIS任务&lt;/span&gt;&lt;br&gt;OSTaskCreate((OS_TCB 	* )&amp;amp;Msgdis_TaskTCB,		&lt;br&gt;             (CPU_CHAR	* )&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Msgdis task&amp;quot;&lt;/span&gt;, 		&lt;br&gt;             (OS_TASK_PTR )msgdis_task, 			&lt;br&gt;             (&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;		* )&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,					&lt;br&gt;             (OS_PRIO	  )MSGDIS_TASK_PRIO,     &lt;br&gt;             (CPU_STK   * )&amp;amp;MSGDIS_TASK_STK[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;],	&lt;br&gt;             (CPU_STK_SIZE)MSGDIS_STK_SIZE/&lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;,	&lt;br&gt;             (CPU_STK_SIZE)MSGDIS_STK_SIZE,		&lt;br&gt;             (OS_MSG_QTY  )TASK_Q_NUM,		&lt;span class=&#34;hljs-comment&#34;&gt;//任务Msgdis_task需要使用内建消息队列，消息队列长度为4					&lt;/span&gt;&lt;br&gt;             (OS_TICK	  )&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,  					&lt;br&gt;             (&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;   	* )&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,					&lt;br&gt;             (OS_OPT      )OS_OPT_TASK_STK_CHK|OS_OPT_TASK_STK_CLR,&lt;br&gt;             (OS_ERR 	* )&amp;amp;err);&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;注意看 OS_MSG_QTY 正常时其设置为0  使用内建消息队列将之设置成对应的数量即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;事件标志组&#34;&gt;&lt;a href=&#34;#事件标志组&#34; class=&#34;headerlink&#34; title=&#34;事件标志组&#34;&gt;&lt;/a&gt;事件标志组&lt;/h2&gt;&lt;p&gt;​       在UCOSIII中事件标志组为OS_FLAG_GRP，如果需要使用事件标志组的时候需要将宏OS_CFG_FLAG_EN置1，&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;函数名&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;作用&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSFlagCreate()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;创建事件标志组&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSFlagDel()&lt;/td&gt;
+&lt;td&gt;删除事件标志组&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSFlagPend()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;等待事件标志组&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSFlagPendAbort()&lt;/td&gt;
+&lt;td&gt;取消等待事件标志&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OSFlagPendGetFlagsRdy()&lt;/td&gt;
+&lt;td&gt;获取使任务就绪的事件标志&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OSFlagPost()&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;向事件标志组发布标志&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;同时等待多个内核对象&#34;&gt;&lt;a href=&#34;#同时等待多个内核对象&#34; class=&#34;headerlink&#34; title=&#34;同时等待多个内核对象&#34;&gt;&lt;/a&gt;同时等待多个内核对象&lt;/h2&gt;&lt;p&gt;​	在UCOSIII中允许任务同时等待多个&lt;strong&gt;信号量&lt;/strong&gt;和多个&lt;strong&gt;消息队列&lt;/strong&gt;，也就是说，UCOSIII不支持同时等待多个事件标志组或互斥信号量。&lt;/p&gt;
+&lt;p&gt;​    一个任务可以等待任意数量的信号量和消息队列，第一个信号量或消息队列的发布会导致该任务进入就绪态。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;OS_OBJ_QTY  &lt;span class=&#34;hljs-title function_&#34;&gt;OSPendMulti&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(OS_PEND_DATA  *p_pend_data_tbl,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                         OS_OBJ_QTY     tbl_size,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                         OS_TICK        timeout,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                         OS_OPT         opt,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                         OS_ERR        *p_err)&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;OS_SEM	Test_Sem1;			&lt;span class=&#34;hljs-comment&#34;&gt;//信号量1		&lt;/span&gt;&lt;br&gt;OS_SEM	Test_Sem2;			&lt;span class=&#34;hljs-comment&#34;&gt;//信号量2&lt;/span&gt;&lt;br&gt;OS_Q	Test_Q;				&lt;span class=&#34;hljs-comment&#34;&gt;//消息队列&lt;/span&gt;&lt;br&gt;&lt;br&gt;OS_PEND_DATA pend_multi_tbl[CORE_OBJ_NUM];	&lt;br&gt;&lt;br&gt;pend_multi_tbl[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;].PendObjPtr=(OS_PEND_OBJ*)&amp;amp;Test_Sem1;&lt;br&gt;pend_multi_tbl[&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;].PendObjPtr=(OS_PEND_OBJ*)&amp;amp;Test_Sem2;&lt;br&gt;pend_multi_tbl[&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;].PendObjPtr=(OS_PEND_OBJ*)&amp;amp;Test_Q;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;h2 id=&#34;内存管理&#34;&gt;&lt;a href=&#34;#内存管理&#34; class=&#34;headerlink&#34; title=&#34;内存管理&#34;&gt;&lt;/a&gt;内存管理&lt;/h2&gt; ]]></description>
+        </item>
+    </channel>
+</rss>

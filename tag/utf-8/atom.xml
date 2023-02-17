@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;utf-8&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2022-08-14T14:12:34.000Z</updated>
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="embedded" />
+    <category term="note" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="hex" />
+    <category term="markdown" />
+    <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="osi" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="md5" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="windows" />
+    <category term="makefile" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="机智云" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="ct117e-ex" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="c" />
+    <category term="c++" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="ms-dos" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="life" />
+    <category term="正则表达式" />
+    <category term="人生" />
+    <category term="心理学" />
+    <category term="cad" />
+    <category term="cat_drive" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="workflow" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="synology" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="j-link" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="jlink" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="tmux" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="rtos" />
+    <category term="rt-thread" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="ucos" />
+    <category term="cortex-a7" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="ap" />
+    <category term="wifi" />
+    <category term="pwm" />
+    <category term="cortex-m3" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="rtx" />
+    <category term="keil" />
+    <category term="modbus" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2022/438d1de3/</id>
+        <title>字符集和字符编码</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/438d1de3/"/>
+        <content type="html">&lt;h1 id=&#34;字符集和字符编码&#34;&gt;&lt;a href=&#34;#字符集和字符编码&#34; class=&#34;headerlink&#34; title=&#34;字符集和字符编码&#34;&gt;&lt;/a&gt;字符集和字符编码&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/skynet/archive/2011/05/03/2035105.html&#34;&gt;字符集和字符编码 (Charset &amp;amp; Encoding)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.knowsky.com/resource/gb2312tbl.htm&#34;&gt;GB2312简体中文编码表&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://tools.jb51.net/table/gb2312&#34;&gt;GB2312简体中文编码表&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.unicode.org/charts/&#34;&gt;Unicode码查询&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/Unicode%E5%AD%97%E7%AC%A6%E5%B9%B3%E9%9D%A2%E6%98%A0%E5%B0%84&#34;&gt;Unicode字符平面映射&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;概念&#34;&gt;&lt;a href=&#34;#概念&#34; class=&#34;headerlink&#34; title=&#34;概念&#34;&gt;&lt;/a&gt;概念&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;字符集（Charset）&lt;/strong&gt;：是一个系统支持的所有抽象字符的集合。字符是各种文字和符号的总称，包括各国家文字、标点符号、图形符号、数字等。&lt;/p&gt;
+&lt;p&gt;常见字符集：ASCII字符集、GB2312字符集、BIG5字符集、GB18030字符集、Unicode字符集等。计算机要准确的处理各种字符集文字，需要进行字符编码，以便计算机能够识别和存储各种文字。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;字符编码（Character Encoding）&lt;/strong&gt;：是一套法则，使用该法则能够对自然语言的字符的一个集合（如字母表或音节表），与其他东西的一个集合（如号码、数字或电脉冲）进行配对。即在符号集合与数字系统之间建立对应关系，它是信息处理的一项基本技术。通常人们用符号集合（一般情况下就是文字）来表达信息。而以计算机为基础的信息处理系统则是利用元件（硬件）不同状态的组合来存储和处理信息的。元件不同状态的组合能代表数字系统的数字，因此字符编码就是将符号转换为计算机可以接受的数字系统的数，称为数字代码。&lt;/p&gt;
+&lt;h2 id=&#34;ASCII&#34;&gt;&lt;a href=&#34;#ASCII&#34; class=&#34;headerlink&#34; title=&#34;ASCII&#34;&gt;&lt;/a&gt;ASCII&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;ASCII字符集&lt;/strong&gt;：主要包括控制字符（回车键、退格、换行键等）；可显示字符（英文大小写字符、阿拉伯数字和西文符号）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ASCII编码&lt;/strong&gt;：将ASCII字符集转换为计算机可以接受的数字系统的数的规则。使用7位（bits）表示一个字符，共128字符；但是7位编码的字符集只能支持128个字符，为了表示更多的常用字符欧洲对ASCII进行了扩展，ASCII扩展字符集使用8位（bits）表示一个字符，共256字符。ASCII字符集映射到数字编码规则如下图所示：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/438d1de3/2011050311372042.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/438d1de3/201105031137219627.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;GBxxx&#34;&gt;&lt;a href=&#34;#GBxxx&#34; class=&#34;headerlink&#34; title=&#34;GBxxx&#34;&gt;&lt;/a&gt;GBxxx&lt;/h2&gt;&lt;p&gt;中国把那些127号之后的奇异符号们（即EASCII、扩充ASCII）取消掉，规定：一个小于127的字符的意义与原来相同，但两个大于127的字符连在一起时，就表示一个汉字。前面的一个字节（他称之为高字节）从0xA1用到 0xF7，后面一个字节（低字节）从0xA1到0xFE，这样我们就可以组合出大约7000多个简体汉字了。在这些编码里，还把数学符号、罗马希腊的 字母、日文的假名们都编进去了，连在ASCII里本来就有的数字、标点、字母都统统重新编了两个字节长的编码，这就是常说的”全角”字符，而原来在127号以下的那些就叫”半角”字符了。&lt;/p&gt;
+&lt;p&gt;上述编码规则就是&lt;strong&gt;GB2312&lt;/strong&gt;。&lt;strong&gt;GB2312&lt;/strong&gt;或&lt;strong&gt;GB2312-80&lt;/strong&gt;是&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86&#34;&gt;中国国家标准&lt;/a&gt;&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87&#34;&gt;简体中文&lt;/a&gt;&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%AD%97%E7%AC%A6%E9%9B%86&#34;&gt;字符集&lt;/a&gt;，全称《&lt;strong&gt;信息交换用汉字编码字符集·基本集&lt;/strong&gt;》，又称&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E4%BB%A3%E7%A0%81&#34;&gt;&lt;strong&gt;GB0&lt;/strong&gt;&lt;/a&gt;，由&lt;a href=&#34;http://zh.wikipedia.org/w/index.php?title=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E6%80%BB%E5%B1%80&amp;action=edit&amp;redlink=1&#34;&gt;中国国家标准总局&lt;/a&gt;发布，&lt;a href=&#34;http://zh.wikipedia.org/wiki/1981%E5%B9%B4&#34;&gt;1981年&lt;/a&gt;&lt;a href=&#34;http://zh.wikipedia.org/wiki/5%E6%9C%881%E6%97%A5&#34;&gt;5月1日&lt;/a&gt;实施。GB2312编码通行于中国大陆；&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1&#34;&gt;新加坡&lt;/a&gt;等地也采用此编码。GB2312的出现，基本满足了汉字的计算机处理需要，它所收录的汉字已经覆盖中国大陆99.75%的使用频率。对于&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E4%BA%BA%E5%90%8D&#34;&gt;人名&lt;/a&gt;、&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%8F%A4%E6%B1%89%E8%AF%AD&#34;&gt;古汉语&lt;/a&gt;等方面出现的&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E7%BD%95%E7%94%A8%E5%AD%97&#34;&gt;罕用字&lt;/a&gt;，GB2312不能处理，这导致了后来&lt;a href=&#34;http://zh.wikipedia.org/wiki/GBK&#34;&gt;GBK&lt;/a&gt;及&lt;a href=&#34;http://zh.wikipedia.org/wiki/GB_18030&#34;&gt;GB 18030&lt;/a&gt;汉字字符集的出现。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.knowsky.com/resource/gb2312tbl.htm&#34;&gt;GB2312简体中文编码表&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://tools.jb51.net/table/gb2312&#34;&gt;GB2312简体中文编码表&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Unicode&#34;&gt;&lt;a href=&#34;#Unicode&#34; class=&#34;headerlink&#34; title=&#34;Unicode&#34;&gt;&lt;/a&gt;Unicode&lt;/h2&gt;&lt;p&gt;Unicode编码系统为表达任意语言的任意字符而设计。它使用4字节的数字来表达每个字母、符号，或者表意文字(ideograph)。每个字符对应一个数字，每个数字对应一个字符，即不存在二义性，不再需要记录”模式”了。U+0041总是代表’A’，即使这种语言没有’A’这个字符。&lt;/p&gt;
+&lt;p&gt;在计算机科学领域中，&lt;strong&gt;Unicode&lt;/strong&gt;（&lt;strong&gt;统一码&lt;/strong&gt;、&lt;strong&gt;万国码&lt;/strong&gt;、&lt;strong&gt;单一码&lt;/strong&gt;、&lt;strong&gt;标准万国码&lt;/strong&gt;）是业界的一种标准，它可以使电脑得以体现世界上数十种文字的系统。&lt;/p&gt;
+&lt;p&gt;（&lt;strong&gt;可以这样理解：Unicode是字符集，UTF-32&amp;#x2F; UTF-16&amp;#x2F; UTF-8是三种字符编码方案。&lt;/strong&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.unicode.org/charts/&#34;&gt;Unicode码查询&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/Unicode%E5%AD%97%E7%AC%A6%E5%B9%B3%E9%9D%A2%E6%98%A0%E5%B0%84&#34;&gt;Unicode字符平面映射&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;BOM&#34;&gt;&lt;a href=&#34;#BOM&#34; class=&#34;headerlink&#34; title=&#34;BOM&#34;&gt;&lt;/a&gt;BOM&lt;/h3&gt;&lt;p&gt;EF BB BF　　　 UTF-8&lt;br&gt;FE FF　　　　　UTF-16&amp;#x2F;UCS-2, little endian&lt;br&gt;FF FE　　　　　UTF-16&amp;#x2F;UCS-2, big endian&lt;br&gt;FF FE 00 00　　UTF-32&amp;#x2F;UCS-4, little endian.&lt;br&gt;00 00 FE FF　　UTF-32&amp;#x2F;UCS-4, big-endian.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;字符集和字符编码&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/438d1de3/v2-aee5ae604328ab912b285d03b6c62273_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;UTF-32&#34;&gt;&lt;a href=&#34;#UTF-32&#34; class=&#34;headerlink&#34; title=&#34;UTF-32&#34;&gt;&lt;/a&gt;UTF-32&lt;/h3&gt;&lt;p&gt;上述使用4字节的数字来表达每个字母、符号，或者表意文字(ideograph)，每个数字代表唯一的至少在某种语言中使用的符号的编码方案，称为UTF-32。UTF-32又称&lt;strong&gt;UCS-4&lt;/strong&gt;是一种将&lt;a href=&#34;http://zh.wikipedia.org/wiki/Unicode&#34;&gt;Unicode&lt;/a&gt;字符编码的协定，对每个字符都使用4字节。就空间而言，是非常没有效率的。&lt;/p&gt;
+&lt;p&gt;这种方法有其优点，最重要的一点就是可以在常数时间内定位字符串里的第N个字符，因为第N个字符从第4×Nth个字节开始。虽然每一个码位使用固定长定的字节看似方便，它并不如其它Unicode编码使用得广泛。&lt;/p&gt;
+&lt;h3 id=&#34;UTF-16&#34;&gt;&lt;a href=&#34;#UTF-16&#34; class=&#34;headerlink&#34; title=&#34;UTF-16&#34;&gt;&lt;/a&gt;UTF-16&lt;/h3&gt;&lt;p&gt;对于UTF-32和UTF-16编码方式还有一些其他不明显的缺点。不同的计算机系统会以不同的顺序保存字节。这意味着字符U+4E2D在UTF-16编码方式下可能被保存为4E 2D或者2D 4E，这取决于该系统使用的是大尾端(big-endian)还是小尾端(little-endian)。为了解决这个问题，多字节的Unicode编码方式定义了一个”字节顺序标记(Byte Order Mark)”，它是一个特殊的非打印字符，你可以把它包含在文档的开头来指示你所使用的字节顺序。对于UTF-16，字节顺序标记是U+FEFF。如果收到一个以字节FFFE开头的UTF-16编码的文档，你就能确定它的字节顺序是单向的(one way)的了；如果它以FEFF开头，则可以确定字节顺序反向了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;具体编码方式&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unicode范围&lt;code&gt;U+10000&lt;/code&gt;&lt;del&gt;&lt;code&gt;U+10FFFF&lt;/code&gt;：将Unicode值减去（0x10000），得到20bit长的值。再将Unicode分为高10位和低10位。&lt;a href=&#34;https://www.zhihu.com/search?q=UTF-16%E7%BC%96%E7%A0%81&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22:%22article%22,%22sourceId%22:106379925%7D&#34;&gt;UTF-16编码&lt;/a&gt;的高位是2 Byte，高10位Unicode范围为&lt;code&gt;0&lt;/code&gt;-&lt;code&gt;0x3FF&lt;/code&gt;，将Unicode值加上&lt;code&gt;0XD800&lt;/code&gt;，得到高位代理（或称为前导代理，存储高位）；低位也是2 Byte，低十位Unicode范围一样为&lt;code&gt;0&lt;/code&gt;&lt;/del&gt;&lt;code&gt;0x3FF&lt;/code&gt;，将Unicode值加上&lt;code&gt;0xDC00&lt;/code&gt;,得到低位代理（或称为后尾代理，存储低位）&lt;/p&gt;
+&lt;p&gt;根据上面的转换方式，我们就能够将Unicode码根据UTF-16的编码方式进行转换。下面我们仍然通过两个例子来看下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;U+0020&lt;/code&gt;，这个值的范围在第一部分，即经过UTF-16编码后，结果仍然为&lt;code&gt;U+0020&lt;/code&gt;，在内存中的顺序为&lt;code&gt;00 20&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;U+12345&lt;/code&gt;, 这个值的范围在第二部分，因此需要先减去&lt;code&gt;0x10000&lt;/code&gt;，得到&lt;code&gt;0x02345&lt;/code&gt;，拆分成高10位&lt;code&gt;00 0000 1000&lt;/code&gt;和低10位&lt;code&gt;11 0100 0101&lt;/code&gt;。根据上面规则加上特定值后，高位代理值为&lt;code&gt;D808&lt;/code&gt;，低位代理值为&lt;code&gt;DF45&lt;/code&gt;，最终内存中的顺序为&lt;code&gt;D8 08 DF 45&lt;/code&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;UTF-8&#34;&gt;&lt;a href=&#34;#UTF-8&#34; class=&#34;headerlink&#34; title=&#34;UTF-8&#34;&gt;&lt;/a&gt;UTF-8&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;UTF-8&lt;/strong&gt;（8-bit Unicode Transformation Format）是一种针对&lt;a href=&#34;http://zh.wikipedia.org/wiki/Unicode&#34;&gt;Unicode&lt;/a&gt;的可变长度&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81&#34;&gt;字符编码&lt;/a&gt;（&lt;a href=&#34;http://zh.wikipedia.org/w/index.php?title=%E5%AE%9A%E9%95%BF%E7%A0%81&amp;action=edit&amp;redlink=1&#34;&gt;定长码&lt;/a&gt;），也是一种&lt;a href=&#34;http://zh.wikipedia.org/w/index.php?title=%E5%89%8D%E7%BC%80%E7%A0%81&amp;action=edit&amp;redlink=1&#34;&gt;前缀码&lt;/a&gt;。它可以用来表示Unicode标准中的任何字符，且其编码中的第一个&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%AD%97%E8%8A%82&#34;&gt;字节&lt;/a&gt;仍与&lt;a href=&#34;http://zh.wikipedia.org/wiki/ASCII&#34;&gt;ASCII&lt;/a&gt;兼容，这使得原来处理ASCII字符的&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E8%BB%9F%E9%AB%94&#34;&gt;软件&lt;/a&gt;无须或只须做少部份修改，即可继续使用。因此，它逐渐成为&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BB%B6&#34;&gt;电子邮件&lt;/a&gt;、&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E7%B6%B2%E9%A0%81&#34;&gt;网页&lt;/a&gt;及其他&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%84%B2%E5%AD%98%E8%A3%9D%E7%BD%AE&#34;&gt;存储&lt;/a&gt;或传送文字的应用中，优先采用的编码。&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E5%B7%A5%E7%A8%8B%E5%B7%A5%E4%BD%9C%E5%B0%8F%E7%B5%84&#34;&gt;互联网工程工作小组&lt;/a&gt;（IETF）要求所有&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF&#34;&gt;互联网&lt;/a&gt;&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE&#34;&gt;协议&lt;/a&gt;都必须支持UTF-8编码。&lt;/p&gt;
+&lt;p&gt;UTF-8使用一至四个&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%AD%97%E8%8A%82&#34;&gt;字节&lt;/a&gt;为每个字符编码&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;具体编码方式&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/438d1de3/v2-121a14291638f0b28e1dde7c95d2d379_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;根据上表，解读 UTF-8 编码非常简单。如果一个字节的第一位是&lt;code&gt;0&lt;/code&gt;，则这个字节单独就是一个字符；如果第一位是&lt;code&gt;1&lt;/code&gt;，则连续有多少个&lt;code&gt;1&lt;/code&gt;，就表示当前字符占用多少个字节。&lt;br&gt;下面，还是以汉字&lt;code&gt;严&lt;/code&gt;为例，演示如何实现 &lt;a href=&#34;https://www.zhihu.com/search?q=UTF-8+%E7%BC%96%E7%A0%81&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:790551384%7D&#34;&gt;UTF-8 编码&lt;/a&gt;。&lt;br&gt;&lt;code&gt;严&lt;/code&gt;的 Unicode 是&lt;code&gt;4E25&lt;/code&gt;（&lt;code&gt;100111000100101&lt;/code&gt;），根据上表，可以发现&lt;code&gt;4E25&lt;/code&gt;处在第三行的范围内（&lt;code&gt;0000 0800 - 0000 FFFF&lt;/code&gt;），因此&lt;code&gt;严&lt;/code&gt;的 UTF-8 编码需要三个字节，即格式是&lt;code&gt;1110xxxx 10xxxxxx 10xxxxxx&lt;/code&gt;。然后，从&lt;code&gt;严&lt;/code&gt;的最右边&lt;a href=&#34;https://www.zhihu.com/search?q=%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:790551384%7D&#34;&gt;二进制位&lt;/a&gt;开始，依次从右往左填入上边格式中的&lt;code&gt;x&lt;/code&gt;，多出的位补&lt;code&gt;0&lt;/code&gt;。这样就得到了，&lt;code&gt;严&lt;/code&gt;的 UTF-8 编码是&lt;code&gt;11100100 10111000 10100101&lt;/code&gt;，转换成&lt;a href=&#34;https://www.zhihu.com/search?q=%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:790551384%7D&#34;&gt;十六进制&lt;/a&gt;就是&lt;code&gt;E4 B8 A5&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优点&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UTF-8是ASCII的一个&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E8%B6%85%E9%9B%86&#34;&gt;超集&lt;/a&gt;。因为一个纯ASCII字符串也是一个合法的UTF-8字符串，所以现存的ASCII文本不需要转换。为传统的扩展ASCII字符集设计的软件通常可以不经修改或很少修改就能与UTF-8一起使用。&lt;/li&gt;
+&lt;li&gt;使用标准的面向字节的排序例程对UTF-8排序将产生与*于Unicode代码点排序相同的结果。（尽管这只有有限的有用性，因为在任何特定语言或文化下都不太可能有仍可接受的文字排列顺序。）&lt;/li&gt;
+&lt;li&gt;UTF-8和UTF-16都是&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%8F%AF%E6%89%A9%E5%B1%95%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80&#34;&gt;可扩展标记语言&lt;/a&gt;文档的标准编码。所有其它编码都必须通过显式或文本声明来指定。&lt;/li&gt;
+&lt;li&gt;任何&lt;a href=&#34;http://zh.wikipedia.org/w/index.php?title=%E9%9D%A2%E5%90%91%E5%AD%97%E8%8A%82&amp;action=edit&amp;redlink=1&#34;&gt;面向字节&lt;/a&gt;的&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95&#34;&gt;字符串搜索算法&lt;/a&gt;都可以用于UTF-8的数据（只要输入仅由完整的UTF-8字符组成）。但是，对于包含字符记数的正则表达式或其它结构必须小心。&lt;/li&gt;
+&lt;li&gt;UTF-8字符串可以由一个简单的算法可靠地识别出来。就是，一个字符串在任何其它编码中表现为合法的UTF-8的可能性很低，并随字符串长度增长而减小。举例说，字符值C0,C1,F5至FF从来没有出现。为了更好的可靠性，可以使用正则表达式来统计非法过长和替代值（可以查看&lt;a href=&#34;http://www.w3.org/International/questions/qa-forms-utf-8&#34;&gt;W3 FAQ: Multilingual Forms&lt;/a&gt;上的验证UTF-8字符串的正则表达式）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;缺点&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因为每个字符使用不同数量的字节编码，所以寻找串中第N个字符是一个O(N)复杂度的操作 — 即，串越长，则需要更多的时间来定位特定的字符。同时，还需要位变换来把字符编码成字节，把字节解码成字符。&lt;/p&gt;
+</content>
+        <category term="character encoding" />
+        <category term="gb2312" />
+        <category term="utf-8" />
+        <updated>2022-08-14T14:12:34.000Z</updated>
+    </entry>
+</feed>

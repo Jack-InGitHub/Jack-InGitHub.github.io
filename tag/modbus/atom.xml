@@ -1,0 +1,564 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;modbus&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2020-08-21T14:57:15.000Z</updated>
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="embedded" />
+    <category term="note" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="hex" />
+    <category term="markdown" />
+    <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="osi" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="md5" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="windows" />
+    <category term="makefile" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="机智云" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="ct117e-ex" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="c" />
+    <category term="c++" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="ms-dos" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="life" />
+    <category term="正则表达式" />
+    <category term="人生" />
+    <category term="心理学" />
+    <category term="cad" />
+    <category term="cat_drive" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="workflow" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="synology" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="j-link" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="jlink" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="tmux" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="rtos" />
+    <category term="rt-thread" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="ucos" />
+    <category term="cortex-a7" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="ap" />
+    <category term="wifi" />
+    <category term="pwm" />
+    <category term="cortex-m3" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="rtx" />
+    <category term="keil" />
+    <category term="modbus" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2020/7d358aa2/</id>
+        <title>Modbus</title>
+        <link rel="alternate" href="https://www.oikiou.top/2020/7d358aa2/"/>
+        <content type="html">&lt;h1 id=&#34;Modbus&#34;&gt;&lt;a href=&#34;#Modbus&#34; class=&#34;headerlink&#34; title=&#34;Modbus&#34;&gt;&lt;/a&gt;Modbus&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://wenku.baidu.com/view/ef2f8bfe81eb6294dd88d0d233d4b14e85243e3a.html&#34;&gt;百度文库 MODBUS协议最简单又是最直白的解释&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;分为RTU（发Hex）模式和ASCII（发字符）模式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;从机地址 0-247 （其中0为广播地址）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;通信格式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ASCII&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;起始符+&lt;strong&gt;设备地址(1Byte)+功能码(1Byte)+数据(nByte n&amp;lt;253)+校验(2Byte LRC)&lt;/strong&gt;+结束符&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;起始符——ASCII的起始符为‘:’一个冒号&lt;/li&gt;
+&lt;li&gt;设备地址——0-247&lt;/li&gt;
+&lt;li&gt;功能码——见下文&lt;/li&gt;
+&lt;li&gt;数据——略&lt;/li&gt;
+&lt;li&gt;校验——&lt;strong&gt;起始符 和 校验符&lt;/strong&gt;  之间的所有数据        一般用LRC校验&lt;/li&gt;
+&lt;li&gt;结束符——Chr$（13）+Chr（10）&lt;/li&gt;
+&lt;li&gt;例—— : (起)    02(地址) 03(功能) 0a00(数据) 0004(校验)    Chr$(13)Chr(10)(终)&lt;/li&gt;
+&lt;li&gt;设备地址、功能码、数据、校验 都是用的十六进制的字符形式 例如发送0x16就发送“16”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;RTU&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;起始符+&lt;strong&gt;设备地址(1Byte)+功能码(1Byte)+数据(nByte n&amp;lt;253)+校验(2Byte CRC16)&lt;/strong&gt;+结束符&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;起始符——3.5个字符的时间间隔&lt;/li&gt;
+&lt;li&gt;设备地址——0-247&lt;/li&gt;
+&lt;li&gt;功能码——见下文&lt;/li&gt;
+&lt;li&gt;数据——略&lt;/li&gt;
+&lt;li&gt;校验——&lt;strong&gt;起始符 和 校验符&lt;/strong&gt;  之间的所有数据        一般用CRC16校验&lt;/li&gt;
+&lt;li&gt;结束符——3.5个字符的时间间隔&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;功能表&#34;&gt;&lt;a href=&#34;#功能表&#34; class=&#34;headerlink&#34; title=&#34;功能表&#34;&gt;&lt;/a&gt;功能表&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;功能码&lt;/th&gt;
+&lt;th&gt;名称&lt;/th&gt;
+&lt;th&gt;作用&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td&gt;读取线圈状态&lt;/td&gt;
+&lt;td&gt;取得一组逻辑线圈的当前状态（ON&amp;#x2F;OFF)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
+&lt;td&gt;读取输入状态&lt;/td&gt;
+&lt;td&gt;取得一组开关输入的当前状态（ON&amp;#x2F;OFF)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
+&lt;td&gt;读取保持寄存器&lt;/td&gt;
+&lt;td&gt;在一个或多个保持寄存器中取得当前的二进制值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
+&lt;td&gt;读取输入寄存器&lt;/td&gt;
+&lt;td&gt;在一个或多个输入寄存器中取得当前的二进制值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;5&lt;/td&gt;
+&lt;td&gt;强置单线圈&lt;/td&gt;
+&lt;td&gt;强置一个逻辑线圈的通断状态&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;6&lt;/td&gt;
+&lt;td&gt;预置单寄存器&lt;/td&gt;
+&lt;td&gt;把具体二进值装入一个保持寄存器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;7&lt;/td&gt;
+&lt;td&gt;读取异常状态&lt;/td&gt;
+&lt;td&gt;取得8个内部线圈的通断状态，这8个线圈的地址由控制器决定&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;8&lt;/td&gt;
+&lt;td&gt;回送诊断校验&lt;/td&gt;
+&lt;td&gt;把诊断校验报文送从机，以对通信处理进行评鉴&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;9&lt;/td&gt;
+&lt;td&gt;编程（只用于484）&lt;/td&gt;
+&lt;td&gt;使主机模拟编程器作用，修改PC从机逻辑&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;10&lt;/td&gt;
+&lt;td&gt;控询（只用于484）&lt;/td&gt;
+&lt;td&gt;可使主机与一台正在执行长程序任务从机通信，探询该从机是否已完成其操作任务，仅在含有功能码9的报文发送后，本功能码才发送&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;11&lt;/td&gt;
+&lt;td&gt;读取事件计数&lt;/td&gt;
+&lt;td&gt;可使主机发出单询问，并随即判定操作是否成功，尤其是该命令或其他应答产生通信错误时&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;12&lt;/td&gt;
+&lt;td&gt;读取通信事件记录&lt;/td&gt;
+&lt;td&gt;可是主机检索每台从机的ModBus事务处理通信事件记录。如果某项事务处理完成，记录会给出有关错误&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13&lt;/td&gt;
+&lt;td&gt;编程（184&amp;#x2F;384 484 584）&lt;/td&gt;
+&lt;td&gt;可使主机模拟编程器功能修改PC从机逻辑&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;14&lt;/td&gt;
+&lt;td&gt;探询（184&amp;#x2F;384 484 584）&lt;/td&gt;
+&lt;td&gt;可使主机与正在执行任务的从机通信，定期控询该从机是否已完成其程序操作，仅在含有功能13的报文发送后，本功能码才得发送&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;15&lt;/td&gt;
+&lt;td&gt;强置多线圈&lt;/td&gt;
+&lt;td&gt;强置一串连续逻辑线圈的通断&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;16&lt;/td&gt;
+&lt;td&gt;预置多寄存器&lt;/td&gt;
+&lt;td&gt;把具体的二进制值装入一串连续的保持寄存器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;17&lt;/td&gt;
+&lt;td&gt;报告从机标识&lt;/td&gt;
+&lt;td&gt;可使主机判断编址从机的类型及该从机运行指示灯的状态&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18&lt;/td&gt;
+&lt;td&gt;（884和MICRO 84）&lt;/td&gt;
+&lt;td&gt;可使主机模拟编程功能，修改PC状态逻辑&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19&lt;/td&gt;
+&lt;td&gt;重置通信链路&lt;/td&gt;
+&lt;td&gt;发生非可修改错误后，是从机复位于已知状态，可重置顺序字节&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;20&lt;/td&gt;
+&lt;td&gt;读取通用参数（584L）&lt;/td&gt;
+&lt;td&gt;显示扩展存储器文件中的数据信息&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;21&lt;/td&gt;
+&lt;td&gt;写入通用参数（584L）&lt;/td&gt;
+&lt;td&gt;把通用参数写入扩展存储文件，或修改之&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;22～64&lt;/td&gt;
+&lt;td&gt;保留作扩展功能备用&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;65～72&lt;/td&gt;
+&lt;td&gt;保留以备用户功能所用&lt;/td&gt;
+&lt;td&gt;留作用户功能的扩展编码&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;73～119&lt;/td&gt;
+&lt;td&gt;非法功能&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;120～127&lt;/td&gt;
+&lt;td&gt;保留&lt;/td&gt;
+&lt;td&gt;留作内部作用&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;128～255&lt;/td&gt;
+&lt;td&gt;保留&lt;/td&gt;
+&lt;td&gt;用于异常应答&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;0x01-读取线圈状态（数字量）&#34;&gt;&lt;a href=&#34;#0x01-读取线圈状态（数字量）&#34; class=&#34;headerlink&#34; title=&#34;0x01 读取线圈状态（数字量）&#34;&gt;&lt;/a&gt;0x01 读取线圈状态（数字量）&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;0x01号命令，读取一个或多个    可读写数字量寄存器    （读取线圈状态）：&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;设备地址+功能码&lt;/th&gt;
+&lt;th&gt;起始地址高八位+低八位&lt;/th&gt;
+&lt;th&gt;读取寄存器数量高八位+低八位&lt;/th&gt;
+&lt;th&gt;CRC16&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0x11+0x01&lt;/td&gt;
+&lt;td&gt;0x00+0x13&lt;/td&gt;
+&lt;td&gt;0x00+0x25&lt;/td&gt;
+&lt;td&gt;高8+低8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;意义如下：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;设备地址与功能码：在一个485总线上可以挂接多个设备，此处的设备地址表示想和哪一个设备通讯。例子中为想和0x11通讯。读取数字量的命令号固定为0x01。&lt;/li&gt;
+&lt;li&gt;起始地址高8位、低8位：表示想读取的开关量的起始地址(起始地址为0)。比如例子中的起始地址为0x0013。&lt;/li&gt;
+&lt;li&gt;寄存器数高8位、低8位：表示从起始地址开始读多少个开关量。例子中为37(0x0025)个开关量。&lt;/li&gt;
+&lt;li&gt;CRC校验：是从开头一直校验到此之前。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;设备响应&lt;/strong&gt;：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;设备地址+功能码&lt;/th&gt;
+&lt;th&gt;返回的字节个数&lt;/th&gt;
+&lt;th&gt;返回的数据1+数据2+….+数据n&lt;/th&gt;
+&lt;th&gt;CRC16&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0x11+0x01&lt;/td&gt;
+&lt;td&gt;0x05&lt;/td&gt;
+&lt;td&gt;0xcd+0x6b+0xb2+0x0e+0x1b&lt;/td&gt;
+&lt;td&gt;高8+低8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;意义如下：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;设备地址与功能码：上同，0x01。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;返回的字节个数：表示数据的字节个数，也就是数据的n的值。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;数据1…n：由于每一个数据是一个8位的数，所以每一个数据表示8个开关量的值，每一位为0表示对应的开关断开，为1表示闭合。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如果询问的开关量不是8的整倍数，那么最后一个字节的高位部分无意义，置为0。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;CRC校验同上。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;0x05强制单线圈（写一个开关数字量）&#34;&gt;&lt;a href=&#34;#0x05强制单线圈（写一个开关数字量）&#34; class=&#34;headerlink&#34; title=&#34;0x05强制单线圈（写一个开关数字量）&#34;&gt;&lt;/a&gt;0x05强制单线圈（写一个开关数字量）&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;0x05号命令，写一个数字量（强制单线圈） 可广播：&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;设备地址+功能码&lt;/th&gt;
+&lt;th&gt;需操作的寄存器地址高8位+低8位&lt;/th&gt;
+&lt;th&gt;需操作的寄存器数据高8位+低8位&lt;/th&gt;
+&lt;th&gt;CRC16&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0x11+0x05&lt;/td&gt;
+&lt;td&gt;0x00+0xac&lt;/td&gt;
+&lt;td&gt;0xff+0x00&lt;/td&gt;
+&lt;td&gt;高8+低8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;意义如下：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;设备地址与功能码：上同，0x05。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;需下置的寄存器地址高8位，低8位：表明了需要置位（操作）的开关的地址。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;置位（操作）的数据高8位，低8位：表明需要置位的开关量的状态。例子中为把该开关闭合。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意，此处只可以是[FF][00]表示ON状态 闭合      [00][00]表示OFF状态 断开，其他数值非法。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;注意此命令一条只能下置一个开关量的状态。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;设备响应：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;如果成功把计算机发送的命令原样返回，否则不响应。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;0x03读取保持寄存器（模拟量）&#34;&gt;&lt;a href=&#34;#0x03读取保持寄存器（模拟量）&#34; class=&#34;headerlink&#34; title=&#34;0x03读取保持寄存器（模拟量）&#34;&gt;&lt;/a&gt;0x03读取保持寄存器（模拟量）&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;0x03号命令，读可读写模拟量寄存器（保持寄存器）：&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;设备地址+功能码&lt;/th&gt;
+&lt;th&gt;起始寄存器地址高8位+低8位&lt;/th&gt;
+&lt;th&gt;读取的寄存器数量高8位+低8位&lt;/th&gt;
+&lt;th&gt;CRC16&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0x11+0x03&lt;/td&gt;
+&lt;td&gt;0x00+0x6b&lt;/td&gt;
+&lt;td&gt;0x00+0x03&lt;/td&gt;
+&lt;td&gt;高8+低8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;意义如下：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;设备地址与功能码：上同，0x03。&lt;/li&gt;
+&lt;li&gt;起始地址高8位、低8位：表示想读取的模拟量的起始地址(起始地址为0)。比如例子中的起始地址为0x006b。&lt;/li&gt;
+&lt;li&gt;寄存器数高8位、低8位：表示从起始地址开始读多少个模拟量。例子中为3个模拟量。注意，在返回的信息中一个模拟量需要返回两个字节。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;设备响应：&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;设备地址+功能码&lt;/th&gt;
+&lt;th&gt;返回的字节个数&lt;/th&gt;
+&lt;th&gt;返回的数据1+数据2+….+数据n&lt;/th&gt;
+&lt;th&gt;CRC16&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0x11+0x03&lt;/td&gt;
+&lt;td&gt;0x06&lt;/td&gt;
+&lt;td&gt;0x02+0x2b+0x00+0x00+0x00+0x64&lt;/td&gt;
+&lt;td&gt;高8+低8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;意义如下：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;设备地址与功能码：上同，0x03。&lt;/li&gt;
+&lt;li&gt;返回的字节个数：表示数据的字节个数，也就是数据1，2…n中的n的值。例子中返回了3个模拟量的数据，因为一个模拟量需要2个字节所以共6个字节。&lt;/li&gt;
+&lt;li&gt;数据1…n：[数据1][数据2]分别是第1个模拟量的高8位和低8位，[数据3][数据4]是第2个模拟量的高8位和低8位，以此类推。例子中返回的值分别是555，0，100。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;0x06预置单寄存器（写一个模拟量）&#34;&gt;&lt;a href=&#34;#0x06预置单寄存器（写一个模拟量）&#34; class=&#34;headerlink&#34; title=&#34;0x06预置单寄存器（写一个模拟量）&#34;&gt;&lt;/a&gt;0x06预置单寄存器（写一个模拟量）&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;0x06号命令，写单个模拟量寄存器（保持寄存器）：&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;设备地址+功能码&lt;/th&gt;
+&lt;th&gt;需操作的寄存器地址高8位+低8位&lt;/th&gt;
+&lt;th&gt;需操作的寄存器数据高8位+低8位&lt;/th&gt;
+&lt;th&gt;CRC16&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0x11+0x06&lt;/td&gt;
+&lt;td&gt;0x00+0x01&lt;/td&gt;
+&lt;td&gt;0x00+0x03&lt;/td&gt;
+&lt;td&gt;高8+低8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;意义如下：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;设备地址与功能码：上同，0x06。&lt;/li&gt;
+&lt;li&gt;需下置的寄存器地址高8位，低8位：表明了需要下置的模拟量寄存器的地址。&lt;/li&gt;
+&lt;li&gt;下置的数据高8位，低8位：表明需要下置的模拟量数据。比如例子中就把1号寄存器的值设为3。&lt;/li&gt;
+&lt;li&gt;注意此命令一条只能下置一个模拟量的状态。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;设备响应：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果成功把计算机发送的命令原样返回，否则不响应。&lt;/p&gt;
+&lt;h2 id=&#34;0x16-预置多寄存器（写多个模拟量）&#34;&gt;&lt;a href=&#34;#0x16-预置多寄存器（写多个模拟量）&#34; class=&#34;headerlink&#34; title=&#34;0x16 预置多寄存器（写多个模拟量）&#34;&gt;&lt;/a&gt;0x16 预置多寄存器（写多个模拟量）&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;0x16号命令，写多个模拟量寄存器（保持寄存器）：&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;设备地址+功能码&lt;/th&gt;
+&lt;th&gt;需操作的地址高8位+低8位&lt;/th&gt;
+&lt;th&gt;需操作数据的数量高8位+低8位&lt;/th&gt;
+&lt;th&gt;操作的数据1 高8位+低8位&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0x11+0x16&lt;/td&gt;
+&lt;td&gt;0x00+0x01&lt;/td&gt;
+&lt;td&gt;0x00+0x01&lt;/td&gt;
+&lt;td&gt;0x00+0x05&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;操作的数据2 高8位+低8位&lt;/td&gt;
+&lt;td&gt;………&lt;/td&gt;
+&lt;td&gt;操作的数据n 高8位+低8位&lt;/td&gt;
+&lt;td&gt;CRC16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;高8+低8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;意义如下：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;设备地址与功能码：上同，0x16。&lt;/li&gt;
+&lt;li&gt;需下置的寄存器地址高8位，低8位：表明了需要下置的模拟量寄存器的地址。&lt;/li&gt;
+&lt;li&gt;需下置的数据数量高8位，低8位：表明了需要下置的数据数量，这里为1。&lt;/li&gt;
+&lt;li&gt;下置的数据高8位，低8位：表明需要下置的模拟量数据。比如例子中就把1号寄存器的值设为5。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;设备响应：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果成功把计算机返回的如下命令，否则不响应。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;设备地址+功能码&lt;/th&gt;
+&lt;th&gt;需操作的寄存器地址高8位+低8位&lt;/th&gt;
+&lt;th&gt;需操作的寄存器数量高8位+低8位&lt;/th&gt;
+&lt;th&gt;CRC16&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0x11+0x16&lt;/td&gt;
+&lt;td&gt;0x00+0x01&lt;/td&gt;
+&lt;td&gt;0x00+0x01&lt;/td&gt;
+&lt;td&gt;高8+低8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+</content>
+        <category term="embedded" />
+        <category term="modbus" />
+        <updated>2020-08-21T14:57:15.000Z</updated>
+    </entry>
+</feed>

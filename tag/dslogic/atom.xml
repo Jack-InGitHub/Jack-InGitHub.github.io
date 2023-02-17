@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;dslogic&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2020-05-21T05:23:05.000Z</updated>
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="embedded" />
+    <category term="note" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="hex" />
+    <category term="markdown" />
+    <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="osi" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="md5" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="windows" />
+    <category term="makefile" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="机智云" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="ct117e-ex" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="c" />
+    <category term="c++" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="ms-dos" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="life" />
+    <category term="正则表达式" />
+    <category term="人生" />
+    <category term="心理学" />
+    <category term="cad" />
+    <category term="cat_drive" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="workflow" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="synology" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="j-link" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="jlink" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="tmux" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="rtos" />
+    <category term="rt-thread" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="ucos" />
+    <category term="cortex-a7" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="ap" />
+    <category term="wifi" />
+    <category term="pwm" />
+    <category term="cortex-m3" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="rtx" />
+    <category term="keil" />
+    <category term="modbus" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2020/5ced0506/</id>
+        <title>DSlogic协议开发笔记</title>
+        <link rel="alternate" href="https://www.oikiou.top/2020/5ced0506/"/>
+        <content type="html">&lt;h1 id=&#34;参考资料-smiley&#34;&gt;&lt;a href=&#34;#参考资料-smiley&#34; class=&#34;headerlink&#34; title=&#34;参考资料:smiley:&#34;&gt;&lt;/a&gt;参考资料:smiley:&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://sigrok.org/wiki/Protocol_decoder_HOWTO&#34;&gt;Protocol decoder HOWTO(新手指导)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sigrok.org/wiki/Protocol_decoder_API#register-function&#34;&gt;Protocol decoder API&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sigrok.org/wiki/Protocol_decoder_API/Queries&#34;&gt;Protocol decoder API&amp;#x2F;Queries&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;名词解析&#34;&gt;&lt;a href=&#34;#名词解析&#34; class=&#34;headerlink&#34; title=&#34;名词解析&#34;&gt;&lt;/a&gt;名词解析&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Protocol Decoders (PDs)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;协议解码器&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;libsigrokdecode&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;是一个采用C语言编写的共享库,提供了数据流协议解码功能。该协议解码器采用Python(&amp;#x3D; 3.0)编写。 &lt;/p&gt;
+&lt;h1 id=&#34;Decoder-class-functions&#34;&gt;&lt;a href=&#34;#Decoder-class-functions&#34; class=&#34;headerlink&#34; title=&#34;Decoder class functions&#34;&gt;&lt;/a&gt;Decoder class functions&lt;/h1&gt;&lt;h2 id=&#34;必须的函数&#34;&gt;&lt;a href=&#34;#必须的函数&#34; class=&#34;headerlink&#34; title=&#34;必须的函数&#34;&gt;&lt;/a&gt;必须的函数&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;start(self)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; 这个函数在解码开始之前被调用。这里可以  [register()](#Decoder registration) 输出类型，检查用户提供的PD选项的有效性，等等。 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;decode(self) （解码）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在 &lt;strong&gt;non-stacked&lt;/strong&gt; 解码器中，这个函数由libsigrokdecode后端调用以开始解码。它不接受任何参数，而是进入一个无限循环，并通过调用更通用的wait()方法获取样本。这使得特定的协议解码器从繁琐但常见的任务中解放出来，比如检测边缘，或者在相对于当前位置的特定时间点采样信号。&lt;/p&gt;
+&lt;p&gt;  注意:这个decode(self)方法的签名已经在协议解码器API的第三版中引入，在以前的版本中只有decode(self、startsample、endsample、data)是可用的。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;decode(self, startsample, endsample, data)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;h2 id=&#34;可选的函数&#34;&gt;&lt;a href=&#34;#可选的函数&#34; class=&#34;headerlink&#34; title=&#34;可选的函数&#34;&gt;&lt;/a&gt;可选的函数&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;metadata(self, key, value)（  元数据 ）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; 用于传递关于数据流的解码器元数据。目前 &lt;strong&gt;&lt;code&gt;key&lt;/code&gt;&lt;/strong&gt;  的唯一值是sigrokdecode.SRD_CONF_SAMPLERATE， &lt;strong&gt;&lt;code&gt;value&lt;/code&gt;&lt;/strong&gt;  则为数据流的采样率（samplerate），单位为Hz。 &lt;/p&gt;
+&lt;h1 id=&#34;Decoder-registration&#34;&gt;&lt;a href=&#34;#Decoder-registration&#34; class=&#34;headerlink&#34; title=&#34;Decoder registration&#34;&gt;&lt;/a&gt;Decoder registration&lt;/h1&gt;&lt;p&gt; 解码器类必须包含几个指定PD元数据的属性。可以使用以下关键字：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sigrok.org/wiki/Protocol_decoder_API&#34;&gt;原文查考 Decoder registration 章节&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Key&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;api_version&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;这个模块使用的libsigrokdecode API版本。现在不是2就是3。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;id&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;此协议解码器的简短唯一标识符。它应该是全小写的，只包含a-z, 0-9和下划线。这必须匹配PD的Python模块名(decoders目录中的子目录名)。siglock -cli工具使用它在命令行上指定PDs。例如:’jtag’， ‘sdcard_spi’， ‘uart’。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;name&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;解码器的名称。当列出可用的PDs时使用。例如:“JTAG”，“SD卡(SPI模式)”，“UART”。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;longname&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;译码器的(长)名。当列出可用的PDs时使用。Example: ‘Joint Test Action Group (IEEE 1149.1)’, ‘Secure Digital card (SPI mode)’, ‘Universal Asynchronous Receiver&amp;#x2F;Transmitter（UART）’&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;desc&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;解码器的自由的一行描述。当列出可用的PDs时使用。应该以句号结束。Example: ‘Protocol for testing, debugging, and flashing ICs.’, ‘Secure Digital card (SPI mode) low-level protocol.’, ‘Asynchronous, serial bus.’.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;license&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;提供模块的许可证。这必须是gplv2+(即GNU通用公共许可证2或更高版本)，或者gplv3+ (GNU通用公共许可证3或更高版本)。libsigrokdecode中不允许为模块提供其他许可证。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;inputs&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;此解码器需要的输入类型列表。如果解码器从逻辑分析器驱动程序获取输入，则应将其设置为logic，该逻辑将映射到数据籽类型SR_DF_LOGIC。如果它从另一个PD获取输入，则应该将其设置为该PD的输出键的值。它应该符合与id键相同的规则(小写，没有空格，等等)。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;outputs&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;此解码器产生的输出类型列表。如果这个解码器能够将解码后的数据反馈到数据流中，那么它的输出将被标识为该密钥的值。它应该与id键遵循相同的规则。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;channels&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;该密钥包含有关&lt;strong&gt;必须&lt;/strong&gt;提供给该PD的通道(pin)的信息;没有他们，PD将无法工作。例如，SPI解码器必须知道哪个信道有时钟信号。该键包含一个通道条目的元组，其中每个条目都是一个Python dict，其键为id、name和desc。Example: &lt;strong&gt;&lt;code&gt;&amp;#123;&amp;#39;id&amp;#39;: &amp;#39;rx&amp;#39;, &amp;#39;name&amp;#39;: &amp;#39;RX&amp;#39;, &amp;#39;desc&amp;#39;: &amp;#39;UART receive line&amp;#39;&amp;#125;&lt;/code&gt;&lt;/strong&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;optional_channels&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;PD可选的通道，但不是必须的。该键的格式与上面的通道键相同(dicts的元组)。如果相应的协议解码器没有可选通道，则允许该元组为空。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;options&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;描述此解码器的选项的元组。每个元组条目都是一个Python dict，其键id、desc、缺省值和值。如果PD没有可选的通道，则此元组可以为空。Example: &lt;strong&gt;&lt;code&gt;&amp;#123;&amp;#39;id&amp;#39;: &amp;#39;bitorder&amp;#39;, &amp;#39;desc&amp;#39;: &amp;#39;Bit order&amp;#39;, &amp;#39;default&amp;#39;: &amp;#39;msb-first&amp;#39;, &amp;#39;values&amp;#39;: (&amp;#39;msb-first&amp;#39;, &amp;#39;lsb-first&amp;#39;)&amp;#125;&lt;/code&gt;&lt;/strong&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;annotations&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;此协议解码器可以输出的注释类的列表。此列表的元素是由标识符字符串和可读的描述字符串组成的元组。标识符字符串可以在siglock -cli选项中用于选择特定的注释类型，因此不应该包含空白或特殊字符。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;annotation_rows&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;注释行用于将多个注释类型分组在一起。这个列表的元素是三个元素元组，包括: 1.注释行ID(与其他ID的命名规则相同)。2.注释行的人类可读的名称&amp;#x2F;描述字符串。3. 包含注释元组中注释类的索引的元组。&lt;a href=&#34;https://sigrok.org/wiki/Protocol_decoder_HOWTO#annotations_.26_annotation_rows&#34;&gt;示例参考&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;code&gt;binary&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;此协议解码器可以输出的二进制输出类型列表，格式与**&lt;code&gt;annotations&lt;/code&gt;**列表相同。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;self-put&#34;&gt;&lt;a href=&#34;#self-put&#34; class=&#34;headerlink&#34; title=&#34;self.put( )&#34;&gt;&lt;/a&gt;self.put( )&lt;/h1&gt;&lt;h2 id=&#34;原型&#34;&gt;&lt;a href=&#34;#原型&#34; class=&#34;headerlink&#34; title=&#34;原型&#34;&gt;&lt;/a&gt;原型&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;put(startsample, endsample, output_id, data)&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;参数&#34;&gt;&lt;a href=&#34;#参数&#34; class=&#34;headerlink&#34; title=&#34;参数&#34;&gt;&lt;/a&gt;参数&lt;/h2&gt;&lt;p&gt;startsample：开始的序号&lt;/p&gt;
+&lt;p&gt;endsample：结束的序号&lt;/p&gt;
+&lt;p&gt;output_id：取值看下表&lt;/p&gt;
+&lt;p&gt;data：根据output_id的不同数据也不同&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;output_id&lt;/th&gt;
+&lt;th&gt;funcation&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OUTPUT_ANN&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;注释信息&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OUTPUT_PYTHON&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OUTPUT_BINARY&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OUTPUT_META&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;OUTPUT_ANN&lt;/strong&gt;：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;这个东西在显示bit数据时会在信号上有小点点指示。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;不同缩放级别显示不同内容&lt;br&gt;Example: &lt;code&gt;self.put(10, 20, self.out_ann, [4, [&amp;#39;Start&amp;#39;, &amp;#39;St&amp;#39;, &amp;#39;S&amp;#39;]])&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;data参数是一个包含两个项的Python列表。第一项是注释索引(由解码器中项的顺序决定)。第二个是注释字符串列表。字符串应该是相同注释文本的长版本和短版本(按长度排序，最长优先)，可以由前端根据缩放级别显示不同的注释文本。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;OUTPUT_PYTHON&lt;/strong&gt; ：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;输出特定格式的数据么？（ 数据内容本身完全依赖于各自的解码器，应该在其pd.py文件中记录。 ）&lt;/p&gt;
+&lt;p&gt;Example: &lt;em&gt;&lt;code&gt;self.put(10, 20, self.out_python, [&amp;#39;PACKET&amp;#39;, [&amp;#39;Foo&amp;#39;, 19.7, [1, 2, 3], (&amp;#39;bar&amp;#39;, &amp;#39;baz&amp;#39;)]])&lt;/code&gt;&lt;/em&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;数据参数是将传递给堆叠解码器的任意Python对象。格式和内容完全依赖于解码器。通常，包含各种内容的Python列表被传递给堆叠的PDs。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;OUTPUT_BINARY&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;输出数据0x55 0xaa等等（ 二进制格式的索引为4，发出的字节分别为0xfe、0x55、0xaa）&lt;/p&gt;
+&lt;p&gt; Example: &lt;em&gt;&lt;code&gt;self.put(10, 20, self.out_binary, [4, b&amp;#39;\xfe\x55\xaa&amp;#39;])&lt;/code&gt;&lt;/em&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;data参数是一个包含两个项的Python列表。第一项是二进制格式的索引(由解码器中项的顺序决定)。第二个是Python bytes对象。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;OUTPUT_META&lt;/strong&gt; ：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;输出解码出来的数字（ 在本例中数据本身是一个浮点数）&lt;/p&gt;
+&lt;p&gt; Example: &lt;em&gt;&lt;code&gt;self.put(10, 20, self.out_meta, 15.7)&lt;/code&gt;&lt;/em&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;数据参数是特定类型的Python对象，在各自的register()函数中定义&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;self-wait&#34;&gt;&lt;a href=&#34;#self-wait&#34; class=&#34;headerlink&#34; title=&#34;self.wait()&#34;&gt;&lt;/a&gt;self.wait()&lt;/h1&gt;&lt;p&gt;这是协议解码器用来将查询发送到libsigrokdecode后端的API调用。&lt;br&gt;从PD的角度来看，这是一个阻塞呼叫。它将阻塞，直到在样本数据中找到指定的条件，然后才将控制权返回给PD。&lt;/p&gt;
+&lt;h2 id=&#34;原型-1&#34;&gt;&lt;a href=&#34;#原型-1&#34; class=&#34;headerlink&#34; title=&#34;原型&#34;&gt;&lt;/a&gt;原型&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;wait&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self, conds&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 1. 等待，直到conds中的一个或多个条件匹配.&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 2. 设置 self.samplenum ，匹配样本的绝对样本数.&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 3. 根据 self.matched 条件匹配.&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 4. 返回一个包含匹配样本的pin值的元组.&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;参数-1&#34;&gt;&lt;a href=&#34;#参数-1&#34; class=&#34;headerlink&#34; title=&#34;参数&#34;&gt;&lt;/a&gt;参数&lt;/h2&gt;&lt;h3 id=&#34;空参&#34;&gt;&lt;a href=&#34;#空参&#34; class=&#34;headerlink&#34; title=&#34;空参&#34;&gt;&lt;/a&gt;空参&lt;/h3&gt;&lt;p&gt;如果完全不提供conds，或者它是一个空列表[]，或者它只是一个“空”条件{}，那么后端将直接跳到下一个示例。 （相当于直接进入下一个样本）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Don&amp;#x27;t wait for any condition, just skip to the next sample.&lt;/span&gt;&lt;br&gt;pins = self.wait()&lt;br&gt;pins = self.wait([])&lt;br&gt;pins = self.wait(&amp;#123;&amp;#125;)&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&amp;#125;) &lt;span class=&#34;hljs-comment&#34;&gt;# Skip one sample, see below.&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;conds-引脚状态条件-上下沿&#34;&gt;&lt;a href=&#34;#conds-引脚状态条件-上下沿&#34; class=&#34;headerlink&#34; title=&#34;conds 引脚状态条件(上下沿)&#34;&gt;&lt;/a&gt;&lt;strong&gt;conds&lt;/strong&gt; 引脚状态条件(上下沿)&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;th&gt;Describe&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;‘&lt;strong&gt;l’&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Low pin value (logical 0)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;‘h’&lt;/td&gt;
+&lt;td&gt;High pin value (logical 1)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;‘r’&lt;/td&gt;
+&lt;td&gt;Rising edge&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;‘f’&lt;/td&gt;
+&lt;td&gt;Falling edge&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;‘e’&lt;/td&gt;
+&lt;td&gt;Either edge (rising or falling)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;‘s’&lt;/td&gt;
+&lt;td&gt;稳定状态 Stable state, the opposite of ‘e’. That is, there was no edge and the current and previous pin value were both low (or both high).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;other&lt;/td&gt;
+&lt;td&gt;任何其他值都会产生错误。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait until pin 7 has a falling edge.&lt;/span&gt;&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;7&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;f&amp;#x27;&lt;/span&gt;&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait until pin 3 has a rising edge “and” pin 4 is high at the same time.&lt;/span&gt;&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;r&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;h&amp;#x27;&lt;/span&gt;&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait until pins 2-4 are low and pin 16 has any edge.&lt;/span&gt;&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;l&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;l&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;l&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;16&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;e&amp;#x27;&lt;/span&gt;&amp;#125;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h3 id=&#34;conds-样品跳过条-样本数量&#34;&gt;&lt;a href=&#34;#conds-样品跳过条-样本数量&#34; class=&#34;headerlink&#34; title=&#34;conds 样品跳过条(样本数量)&#34;&gt;&lt;/a&gt;&lt;strong&gt;conds&lt;/strong&gt; 样品跳过条(样本数量)&lt;/h3&gt;&lt;p&gt;后端另一个常见的查询是，当解码器想要跳过一定数量的样本时，而不管样本值是什么(因为它们与当前的协议无关)。&lt;br&gt;这可以通过条件dict中的一个特殊键来实现— ‘&lt;strong&gt;skip’&lt;/strong&gt; 。 ‘&lt;strong&gt;skip’&lt;/strong&gt; 键的值是要跳过的样本的整数。&lt;/p&gt;
+&lt;p&gt;解码器也可以跳过一定的时间，通过使用采样来计算 ‘&lt;strong&gt;skip’&lt;/strong&gt; 键的正确值。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Skip over the next 100 samples.&lt;/span&gt;&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Skip over the next 20ms of samples.&lt;/span&gt;&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt; * (&lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt; / self.samplerate)&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Skip half a bitwidth of samples (e.g. for UART).&lt;/span&gt;&lt;br&gt;self.halfbitwidth = &lt;span class=&#34;hljs-built_in&#34;&gt;int&lt;/span&gt;((self.samplerate / self.options[&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;baudrate&amp;#x27;&lt;/span&gt;]) / &lt;span class=&#34;hljs-number&#34;&gt;2.0&lt;/span&gt;)&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: self.halfbitwidth&amp;#125;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;注意&#34;&gt;&lt;a href=&#34;#注意&#34; class=&#34;headerlink&#34; title=&#34;注意&#34;&gt;&lt;/a&gt;注意&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;&amp;#125;)  	&lt;span class=&#34;hljs-comment&#34;&gt;#这里的pins是元组，&lt;/span&gt;&lt;br&gt;(pins,) = self.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;&amp;#125;)	&lt;span class=&#34;hljs-comment&#34;&gt;#可以写成这样&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;h1 id=&#34;self-skip&#34;&gt;&lt;a href=&#34;#self-skip&#34; class=&#34;headerlink&#34; title=&#34;self.skip()&#34;&gt;&lt;/a&gt;self.skip()&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;这个函数不知道怎么回事，用了会报错&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;注意这下面的skip不是wait&lt;/p&gt;
+&lt;p&gt;在相同的条件下混合通道索引键和“跳过”键通常没有多大意义，然而，在不同的情况下，混合索引键和“跳过”键是非常合理的: &lt;/p&gt;
+&lt;p&gt;（下面的语句应该是  &lt;code&gt;((pin7 e)和(pin12 l))或(skip 10000)&lt;/code&gt; ）&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait until there&amp;#x27;s&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# a) an edge on pin 7 and a low state on pin 12, and/or&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# b) 1000 samples passed by,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# whichever occurs first (both conditions could occur at the same time too).&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# This is basically &amp;quot;wait for an edge on pin 7 and a low state on pin 12,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# with a timeout of 1000 samples&amp;quot;.&lt;/span&gt;&lt;br&gt;pins = self.skip((&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;7&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;e&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;12&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;l&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt;&amp;#125;))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;self-matched&#34;&gt;&lt;a href=&#34;#self-matched&#34; class=&#34;headerlink&#34; title=&#34;self.matched&#34;&gt;&lt;/a&gt;self.matched&lt;/h1&gt;&lt;p&gt;当解码器通过&lt;strong&gt;self.wait（）&lt;/strong&gt;请求前端等待多个条件时，当该调用返回时，PD仅知道&lt;strong&gt;至少一个&lt;/strong&gt;条件已匹配。但是，在大多数情况下，它还需要知道&lt;strong&gt;哪些&lt;/strong&gt;条件匹配（或不匹配）。&lt;/p&gt;
+&lt;p&gt;这是&lt;strong&gt;self.matched&lt;/strong&gt;提供的信息。它是布尔值（&lt;strong&gt;True&lt;/strong&gt;或&lt;strong&gt;False&lt;/strong&gt;）的元组，始终包含与上次&lt;strong&gt;self.wait（）&lt;/strong&gt;调用中存在的条件一样多的条目。对于每个条件，各自的布尔值表示此特定条件是否匹配。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs Python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 等待，直到引脚9的上升边 或 引脚27的高状态(逻辑1)， 或 经过一定的“时间”(这里:跳过1000个样本)。这意味着有一个1000个样本的“超时”之后self.wait()将返回(不管其他条件如何)。&lt;/span&gt;&lt;br&gt;pins = self.wait([&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;r&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;27&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;h&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt;&amp;#125;])&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; self.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 前两个条件是同时匹配的。&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 9 contains a rising edge and pin 27 is high.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; self.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Rising edge on pin 9, pin 27 is guaranteed to not be high.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; self.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 27 is high, pin 9 is guaranteed to not be a rising edge.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; self.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 9 is not a rising edge, pin 27 is not high, but 1000 samples were skipped.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; self.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 9 is not a rising edge, pin 27 is high, and it just so happens that&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# exactly 1000 samples were skipped.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; self.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Bug, this cannot happen. self.wait() only returns upon &amp;gt;= 1 matches.&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;对于’skip’键&amp;#x2F;值对self。如果达到指定数目的样本，则匹配的tuple将包含一个真值。 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait for a falling edge on channel 18, or until 25000 samples passed by.&lt;/span&gt;&lt;br&gt;pins = self.wait([&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;18&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;f&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;25000&lt;/span&gt;&amp;#125;])&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; self.matched[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;]:&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 18 has a falling edge.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; self.matched[&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;]:&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 25000 samples were skipped.&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;self-samplenum&#34;&gt;&lt;a href=&#34;#self-samplenum&#34; class=&#34;headerlink&#34; title=&#34;self.samplenum&#34;&gt;&lt;/a&gt;self.samplenum&lt;/h1&gt;&lt;p&gt;&lt;em&gt;self.samplenum 相当于一个指针，指示当前解码器解码的样本的位置&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;self.samplenum&lt;/strong&gt;是一个特殊属性，对于协议解码器来说是只读的，并且只能由libsigrokdecode后端设置。 &lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;self.samplenum&lt;/strong&gt; 总是在最后一次self.wait()调用返回后的当前绝对样本号(从0开始)。 &lt;/p&gt;
+&lt;h1 id=&#34;self-samplerate&#34;&gt;&lt;a href=&#34;#self-samplerate&#34; class=&#34;headerlink&#34; title=&#34;self.samplerate&#34;&gt;&lt;/a&gt;self.samplerate&lt;/h1&gt;&lt;p&gt;采样率&lt;/p&gt;
+&lt;h1 id=&#34;self-has-channel&#34;&gt;&lt;a href=&#34;#self-has-channel&#34; class=&#34;headerlink&#34; title=&#34;self.has_channel&#34;&gt;&lt;/a&gt;self.has_channel&lt;/h1&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#code1 &lt;/span&gt;&lt;br&gt;...&lt;br&gt;self.have_cs = self.has_channel(&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;)&lt;br&gt;...&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#code2&lt;/span&gt;&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; self.have_cs &lt;span class=&#34;hljs-keyword&#34;&gt;and&lt;/span&gt; (first &lt;span class=&#34;hljs-keyword&#34;&gt;or&lt;/span&gt; (self.matched &amp;amp; (&lt;span class=&#34;hljs-number&#34;&gt;0b1&lt;/span&gt; &amp;lt;&amp;lt; self.have_cs))):&lt;br&gt;    ....&lt;br&gt;...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;self.has_channel返回的值似乎是对应通道的值，比如这里返回的应该是3.&lt;/p&gt;
+&lt;h1 id=&#34;一些奇怪的问题&#34;&gt;&lt;a href=&#34;#一些奇怪的问题&#34; class=&#34;headerlink&#34; title=&#34;一些奇怪的问题&#34;&gt;&lt;/a&gt;一些奇怪的问题&lt;/h1&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;xxxxx&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;    logging.info(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;----- xxx start -----&amp;#x27;&lt;/span&gt;)&lt;br&gt;    data = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;&lt;br&gt;    bit_count = &lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;:&lt;br&gt;        pin_state = self.wait( [&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;r&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: self.freq_half_samp &amp;#125;] )&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;( self.matched &amp;amp; (&lt;span class=&#34;hljs-number&#34;&gt;0b1&lt;/span&gt; &amp;lt;&amp;lt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;) ):        &lt;span class=&#34;hljs-comment&#34;&gt;#r&lt;/span&gt;&lt;br&gt;            self.LS_2 |= &lt;span class=&#34;hljs-number&#34;&gt;0b0&lt;/span&gt; &amp;lt;&amp;lt; bit_count&lt;br&gt;            self.wait( [&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: (self.bit_samp-self.freq_quarter_samp) &amp;#125;] )&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt;:&lt;br&gt;            self.LS_2 |= &lt;span class=&#34;hljs-number&#34;&gt;0b1&lt;/span&gt; &amp;lt;&amp;lt; bit_count&lt;br&gt;            self.wait( [&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: (self.bit_samp-self.freq_half_samp) &amp;#125;] )&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;( bit_count == &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; ):&lt;br&gt;            &lt;span class=&#34;hljs-keyword&#34;&gt;break&lt;/span&gt;&lt;br&gt;        bit_count -= &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&lt;br&gt;    logging.info(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;----- xxx end -----&amp;#x27;&lt;/span&gt;)&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; data&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;注意到&lt;code&gt;pin_state = self.wait( [&amp;#123;0: &amp;#39;r&amp;#39;&amp;#125;, &amp;#123;&amp;#39;skip&amp;#39;: self.freq_half_samp &amp;#125;] )&lt;/code&gt;语句，把pin_state删掉就可以正常运行，若没删if后面的self.wait就会一直出问题。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;原因应该是pin_state没打括号，pin_state变成了元组，所以出现这种情况&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;附录&#34;&gt;&lt;a href=&#34;#附录&#34; class=&#34;headerlink&#34; title=&#34;附录&#34;&gt;&lt;/a&gt;附录&lt;/h1&gt;&lt;h2 id=&#34;一些快速处理数据的方法&#34;&gt;&lt;a href=&#34;#一些快速处理数据的方法&#34; class=&#34;headerlink&#34; title=&#34;一些快速处理数据的方法&#34;&gt;&lt;/a&gt;一些快速处理数据的方法&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;快速计算奇偶校验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;ones = &lt;span class=&#34;hljs-built_in&#34;&gt;bin&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;0x55&lt;/span&gt;).count(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;1&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BCD转成整数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;bcd2int&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;b&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; (b &amp;amp; &lt;span class=&#34;hljs-number&#34;&gt;0x0f&lt;/span&gt;) + ((b &amp;gt;&amp;gt; &lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;) * &lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;一种将总线引脚序列转换为数字值的好方法：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; functools &lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; reduce&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;reduce_bus&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;bus&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0xFF&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt; bus:&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;None&lt;/span&gt; &lt;span class=&#34;hljs-comment&#34;&gt;# unassigned bus channels&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt;:&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; reduce(&lt;span class=&#34;hljs-keyword&#34;&gt;lambda&lt;/span&gt; a, b: (a &amp;lt;&amp;lt; &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;) | b, &lt;span class=&#34;hljs-built_in&#34;&gt;reversed&lt;/span&gt;(bus))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;根据协议命令构造方法名的一个好方法是(假设cmd是8，这将调用self.handle_cmd_0x08函数):&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;fn = &lt;span class=&#34;hljs-built_in&#34;&gt;getattr&lt;/span&gt;(self, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;handle_cmd_0x%02x&amp;#x27;&lt;/span&gt; % cmd);&lt;br&gt;fn(arg1, arg2, ...)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;一种处理Python缺少枚举类型(对状态、pin索引、注释索引等有用)的方法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Cycle&lt;/span&gt;:&lt;br&gt;    NONE, MEMRD, MEMWR, IORD, IOWR, FETCH, INTACK = &lt;span class=&#34;hljs-built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;7&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+</content>
+        <category term="dslogic" />
+        <category term="逻辑分析仪" />
+        <category term="pyhton" />
+        <category term="decoder" />
+        <updated>2020-05-21T05:23:05.000Z</updated>
+    </entry>
+</feed>

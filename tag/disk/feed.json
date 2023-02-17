@@ -1,0 +1,21 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"disk\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2021/86880617/",
+            "url": "https://www.oikiou.top/2021/86880617/",
+            "title": "PC Hardware",
+            "date_published": "2021-10-18T14:57:15.000Z",
+            "content_html": "<h1 id=\"主板\"><a href=\"#主板\" class=\"headerlink\" title=\"主板\"></a>主板</h1><h2 id=\"ITX-主板的孔位图\"><a href=\"#ITX-主板的孔位图\" class=\"headerlink\" title=\"ITX 主板的孔位图\"></a>ITX 主板的孔位图</h2><p>括号中的数值单位是mm，下面的数值单位是inch。</p>\n<p><img src=\"/2021/86880617/v2-adfa6cb86a379f8ea31c62416c3a9b93_720w.jpg\" alt=\"img\"></p>\n<h2 id=\"ATX-孔位图\"><a href=\"#ATX-孔位图\" class=\"headerlink\" title=\"ATX 孔位图\"></a>ATX 孔位图</h2><p>数值单位是inch</p>\n<p><img src=\"/2021/86880617/v2-19cb957be912ef88b779a7ed04de4eaf_720w.jpg\" alt=\"img\"></p>\n<h1 id=\"DISK\"><a href=\"#DISK\" class=\"headerlink\" title=\"DISK\"></a>DISK</h1><h2 id=\"参考\"><a href=\"#参考\" class=\"headerlink\" title=\"参考\"></a>参考</h2><ul>\n<li><a href=\"https://www.snia.org/technology-communities/sff/specifications\">SNIA协会定义</a></li>\n<li>SFF-8301 (3.5” Form Factor Drive Dimensions)</li>\n<li>SFF-8201 (2.5” Form Factor Drive Dimensions)</li>\n</ul>\n<h2 id=\"2-5”\"><a href=\"#2-5”\" class=\"headerlink\" title=\"2.5”\"></a>2.5”</h2><p>定义于SFF-8201, 长度为101.85mm (max), 宽度为69.85，厚度有不同规格，从5mm到19.05mm不等。常用的笔记本硬盘是7mm厚度，企业级硬盘是15mm，螺丝孔为公制M3标准。</p>\n<p><img src=\"/2021/86880617/image-20211026113925717.png\" alt=\"image-20211026113925717\"></p>\n<p><img src=\"/2021/86880617/image-20211026113951361.png\" alt=\"image-20211026113951361\"></p>\n<p><img src=\"/2021/86880617/image-20211026114009000.png\" alt=\"image-20211026114009000\"></p>\n<p><img src=\"/2021/86880617/image-20211026114023653.png\" alt=\"image-20211026114023653\"></p>\n<h2 id=\"3-5”\"><a href=\"#3-5”\" class=\"headerlink\" title=\"3.5”\"></a>3.5”</h2><p>定义于SFF-8301,长度为147.00mm, 宽度为101.60mm，厚度有不同规格：17.80-42.00mm。通常硬盘的厚度都是小于26.10mm，螺丝孔为6-32 UNC-2B英制标准，公制M3.5也能凑合用。</p>\n<p><img src=\"/2021/86880617/image-20211026114433027.png\" alt=\"image-20211026114433027\"></p>\n<p><img src=\"/2021/86880617/image-20211026114447507.png\" alt=\"image-20211026114447507\"></p>\n<h1 id=\"Lenovo-私有定义\"><a href=\"#Lenovo-私有定义\" class=\"headerlink\" title=\"Lenovo 私有定义\"></a>Lenovo 私有定义</h1><h2 id=\"主板-1\"><a href=\"#主板-1\" class=\"headerlink\" title=\"主板\"></a>主板</h2><h3 id=\"USB2-0-接口\"><a href=\"#USB2-0-接口\" class=\"headerlink\" title=\"USB2.0 接口\"></a>USB2.0 接口</h3><p><img src=\"/2021/86880617/image-20211026120339401.png\" alt=\"image-20211026120339401\"></p>\n<p><img src=\"/2021/86880617/image-20211026120205476.png\" alt=\"image-20211026120205476\"></p>\n<h3 id=\"F-PANEL\"><a href=\"#F-PANEL\" class=\"headerlink\" title=\"F_PANEL\"></a>F_PANEL</h3><p><img src=\"/2021/86880617/image-20211026120411691.png\" alt=\"image-20211026120411691\"></p>\n<p><img src=\"/2021/86880617/image-20211026120130016.png\" alt=\"image-20211026120130016\"></p>\n",
+            "tags": [
+                "pc",
+                "hardware",
+                "lenovo",
+                "disk"
+            ]
+        }
+    ]
+}

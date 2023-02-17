@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"label\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2022/c65e1067/",
+            "url": "https://www.oikiou.top/2022/c65e1067/",
+            "title": "Tags Label Category",
+            "date_published": "2022-08-25T14:57:15.000Z",
+            "content_html": "<p>知乎  <a href=\"https://www.zhihu.com/people/songvision\">千鸟</a></p>\n<blockquote>\n<p>  这问题要分两个层面来解读：</p>\n<p>  <strong>首先是Tag与Category的区别。</strong>Category往往限制在一个维度里，当树状结构复杂到不可调和时，出现瓶颈是迟早的事。Category的问题在于，既不能完全满足用户需求，也不能完全表达创建者对内容属性的认知。而Tag反之都成立，完全互补。</p>\n<p>  <strong>其次是Label与Tag的区别。</strong>于对内容的概括出现偏差，但显然这种问题不是tag，在内容组织范畴那应该是什么？答案就是label，除产品描述，其应用范畴还涉及功能名称、模块名称、导航名称、引导文字等等场景。我认为tag与label之间有三个显著差异：</p>\n<ol>\n<li>label是本身的，tag是附加的；</li>\n<li>label强调是一种标志，tag强调是一种记号；</li>\n<li>label标明信息之间的归属，tag区别信息之间的差异。</li>\n</ol>\n</blockquote>\n<p>知乎 郑讯</p>\n<blockquote>\n<p>  Tag，标签，一般包含一段内容的属性，可以是分类，可以是话题，也可以是作者，地理信息等。</p>\n<p>  Label，标记，是网页框架中一个区域的功能概括。比如知乎首页上的“浏览”、“问题”、“通知”就是label。选择不同的标记，相应区域的功能就会发生变化。</p>\n<p>  category，分类，可以理解为种属概念。一段内容有且只有一个种属的分类。和Tag不同的是一段内容可以有多个tag，并且tag是未预先设定的，一段内容可以有多个Tag，也可以没有Tag。但caterory在一个分类标准下只有一个。</p>\n</blockquote>\n<p>知乎 李楠</p>\n<blockquote>\n<p>  <strong>Category</strong></p>\n<p>  Category 是非常理想化和一根筋的分类方式。图书馆这种死板到头的地方用的多。但是他们也遇到了问题：“苏菲的世界”到底是“哲学”，还是“文学”？</p>\n<p>  物理世界无力从根本上解决这种问题（但似乎不少讨论）。问过我们学校的图书馆，似乎他们方式还比较靠谱：<strong>买两本，两处放。</strong></p>\n<p>  分类对象数字化之后， Category 的影响还在（早期的门户找点跨界的东西就很悲剧）。直到 Web2.0 ， Tag 竟然才开始流行。</p>\n<p>  <strong>Tag</strong></p>\n<p>  Tag 是更好的分类方式的原因是：</p>\n<p>  1</p>\n<p>  “类别”本来就不应该事先定义：人不是上帝。</p>\n<p>  从一个个具体对象的“属性”中，总结出“类别”是最自然的模式。也是“人”可以做到的事情。</p>\n<p>  2</p>\n<p>  “属性”本来就应该可以自然的表现为多个。</p>\n<p>  苏菲的世界终于可以自然的打上“哲学”和“文学”的 Tag 了，或者再加个“少儿读物”。这种思考方式比 Category 优雅太多。</p>\n<p>  Tag 最终普及，背后恐怕有<a href=\"https://www.zhihu.com/search?q=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:12226710%7D\">软件工程</a>上 OO 普及（面向对象）的因素。<strong>“面向对象”不仅仅是的程序构建方式，更是认识世界的方法论的进步。</strong></p>\n<p>  “属性”跟随“对象”，比“对象”属于“类别”更自然，不机械。 。</p>\n<p>  <strong>Tag 的改进</strong></p>\n<p>  Tag 本身也可以看作“对象”。</p>\n<p>  那么就有针对 Tag 的操作，比如“搜索”，“排序”，“关联对象”。也有 Tag 本身的属性，比如“使用次数”，“关注人数”等等。</p>\n<p>  如何能在使用 Tag 的系统中，根据这些数据，计算出最适合的对象，就要靠算法的优化和运营的调整了。</p>\n</blockquote>\n<p>知乎 <a href=\"https://www.zhihu.com/people/zheng-wei-42-9\">榆木脑袋</a></p>\n<blockquote>\n<p>  Catagory是逻辑清晰的。Tag是随意自由的。在看到一个信息的时候我们需要自由捕获自己头脑中的闪光。在重新审视或再利用我们收集的信息时，就需要清晰的逻辑条理。</p>\n<p>  以文件管理为例：</p>\n<p>  在标记Tag时需求有二：一是能够方便增加新的Tag，二是能够很方便的看到已有的Tag，并能同时把已有标签赋予当前信息。</p>\n<p>  在查找文件时个人觉得需要有的功能是：一是有固定的几个入口，也就是根目录；二是可以增加根节点；三是根目录可以指定某几个Tag，也可以不是；三如果根目录不是Tag，需要定义关联到此根目录（分类）下的Tag；四（重点功能）根目录下不直接列出信息或文件（时间长了，某一Tag下文件会相当多），而是列出关联Tag的所有文件的其它Tag，显示为子目录，并标识出此子目录中的文件数量。五（作为管理功能）此时可以定义哪些Tag不在此根目录下出现。六设置某个Tag或某类Tag(文件数量大过一个数量)下仍不列出文件而是继续列出Tag；七子目录（Tag）下，上级目录Tag不再出现。</p>\n<p>  我个人非常偏好使用树形目录结构，但苦恼于文件的多重分类和文件进行多重分类时的繁琐。经过多方搜索只找到三个比较符合的软件，一个是PinKM，一个是蓝码动力图片管理软件，一个是国外的Tabbles。但都因标签管理和整理的繁琐而放弃。</p>\n</blockquote>\n<p><strong>个人理解</strong></p>\n<ul>\n<li>Catagory 是属于严格的分类方法, 一个东西应当只属于一个Catagory内, 而且它是有层级关系的</li>\n<li>Tags 是可有可无的, 一个东西可以有很多的Tags, 它是无层级关系的,</li>\n</ul>\n",
+            "tags": [
+                "tags",
+                "label",
+                "category"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"摄影\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2020/bda63754/",
+            "url": "https://www.oikiou.top/2020/bda63754/",
+            "title": "摄影",
+            "date_published": "2020-08-08T00:08:08.000Z",
+            "content_html": "<p><img src=\"/2020/bda63754/1e3bb3da2c76d5c2ed546428edc1cd4e_720w.jpg\" alt=\"1e3bb3da2c76d5c2ed546428edc1cd4e_720w\"></p>\n<p><img src=\"/2020/bda63754/%E8%89%B2%E7%8E%AF3.png\" alt=\"色环3\"></p>\n<h1 id=\"调色\"><a href=\"#调色\" class=\"headerlink\" title=\"调色\"></a>调色</h1><h2 id=\"马卡龙糖果色\"><a href=\"#马卡龙糖果色\" class=\"headerlink\" title=\"马卡龙糖果色\"></a>马卡龙糖果色</h2><h3 id=\"形式\"><a href=\"#形式\" class=\"headerlink\" title=\"形式\"></a>形式</h3><p>高明度、低对比、高饱和、高明度</p>\n<ul>\n<li><p>暖色—橙色、黄色、粉色</p>\n</li>\n<li><p>冷色—绿色、蓝色、青色、建议青蓝色为主色调</p>\n</li>\n</ul>\n<h3 id=\"适合场景\"><a href=\"#适合场景\" class=\"headerlink\" title=\"适合场景\"></a>适合场景</h3><ul>\n<li>建议晴天的白天、避免大光比、复杂的色彩组成、</li>\n<li>建议有蓝色元素(天空)、橙色黄色粉色等暖色系元素、</li>\n</ul>\n<h2 id=\"青橙色调色\"><a href=\"#青橙色调色\" class=\"headerlink\" title=\"青橙色调色\"></a>青橙色调色</h2><h3 id=\"形式-1\"><a href=\"#形式-1\" class=\"headerlink\" title=\"形式\"></a>形式</h3><p>青色橙色作为主色调</p>\n<p>拉高白色、降低黑色增强对比</p>\n<ul>\n<li>降低高光、提升阴影恢复细节</li>\n<li>拉高白色、降低黑色增强对比</li>\n</ul>\n<h3 id=\"适合场景-1\"><a href=\"#适合场景-1\" class=\"headerlink\" title=\"适合场景\"></a>适合场景</h3><p>天空、大海等蓝色元素 和 肤色、灯光等的橙色元素。</p>\n<p><img src=\"/2020/bda63754/%E9%9D%92%E6%A9%99%E6%A1%88%E4%BE%8B-1.jpg\" alt=\"青橙案例-1\"></p>\n<h2 id=\"日系蓝黄色调\"><a href=\"#日系蓝黄色调\" class=\"headerlink\" title=\"日系蓝黄色调\"></a>日系蓝黄色调</h2><p>画面本身有蓝、黄橙绿元素、</p>\n<p>白天的街景、建筑最佳</p>\n<ul>\n<li>降低对比度（降低高光和白色、提升阴影），操作后照片会偏灰，降低黑色压实影调</li>\n<li>曲线压缩最亮部分（右顶点向下偏），使得白色更加柔和</li>\n<li>主色调为蓝黄色及相邻色（），基本不含其他色</li>\n</ul>\n<p><img src=\"/2020/bda63754/%E6%97%A5%E7%B3%BB%E8%93%9D%E9%BB%84%E8%89%B2%E8%B0%83-Frank.jpg\" alt=\"日系蓝黄色调-Frank\"></p>\n<h2 id=\"黑金色调\"><a href=\"#黑金色调\" class=\"headerlink\" title=\"黑金色调\"></a>黑金色调</h2>",
+            "tags": [
+                "摄影"
+            ]
+        }
+    ]
+}

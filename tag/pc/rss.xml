@@ -1,0 +1,396 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;pc&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 10 Oct 2022 22:57:15 +0800</pubDate>
+        <lastBuildDate>Mon, 10 Oct 2022 22:57:15 +0800</lastBuildDate>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>embedded</category>
+        <category>note</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hex</category>
+        <category>markdown</category>
+        <category>sscanf</category>
+        <category>c/c++</category>
+        <category>osi</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>md5</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>windows</category>
+        <category>makefile</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>机智云</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>ct117e-ex</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>c</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>ms-dos</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>life</category>
+        <category>正则表达式</category>
+        <category>人生</category>
+        <category>心理学</category>
+        <category>cad</category>
+        <category>cat_drive</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>workflow</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>synology</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>j-link</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>jlink</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>tmux</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>rtos</category>
+        <category>rt-thread</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>ucos</category>
+        <category>cortex-a7</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>pwm</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>rtx</category>
+        <category>keil</category>
+        <category>modbus</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/3db44d04/</guid>
+            <title>Android 文件传输模式 电脑无法识别</title>
+            <link>https://www.oikiou.top/2022/3db44d04/</link>
+            <category>windows</category>
+            <category>android</category>
+            <category>mtp</category>
+            <category>pc</category>
+            <category>driver</category>
+            <pubDate>Mon, 10 Oct 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;android-文件传输模式-电脑无法识别&#34;&gt;&lt;a href=&#34;#android-文件传输模式-电脑无法识别&#34; class=&#34;headerlink&#34; title=&#34;android 文件传输模式 电脑无法识别&#34;&gt;&lt;/a&gt;android 文件传输模式 电脑无法识别&lt;/h1&gt;&lt;p&gt;最近android手机连接电脑选择传输文件模式，电脑不再识别手机。选择照片模式就没有问题。&lt;/p&gt;
+&lt;p&gt;手机选择文件传输模式后 选择自动搜索驱动程序 安装后会 提示“这个inf中的服务安装段落无效”。&lt;/p&gt;
+&lt;h2 id=&#34;步骤&#34;&gt;&lt;a href=&#34;#步骤&#34; class=&#34;headerlink&#34; title=&#34;步骤&#34;&gt;&lt;/a&gt;步骤&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;按“Win+X” 点击 “设备管理器”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在设备管理器中找到你的手机，名字可能是你的手机型号，可能是未知设备 ，&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;右键选择更新驱动程序.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;选择 “浏览计算机以查找驱动程序软件”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;选择 “让我从计算机上的可用驱动程序列表中选取”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在列表里面找到“便携设备” (可能没有这一步操作)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;选择 “MTP USB 设备”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/3db44d04/1636599848857.png&#34; alt=&#34;win10系统识别不了USB设备解决方法介绍-Win10系统识别不了USB设备怎么办-53系统之家&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;点击 “下一步”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;回到设备管理器看到设备已经可用正确运作了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://developer.android.com/studio/run/oem-usb&#34;&gt;安装原始设备制造商 (OEM) USB 驱动程序&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://developer.android.com/studio/run/win-usb&#34;&gt;获取 Google USB 驱动程序&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/fc18738/</guid>
+            <title>PC Software</title>
+            <link>https://www.oikiou.top/2022/fc18738/</link>
+            <category>windows</category>
+            <category>pc</category>
+            <category>software</category>
+            <pubDate>Fri, 21 Jan 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;PC-Windows&#34;&gt;&lt;a href=&#34;#PC-Windows&#34; class=&#34;headerlink&#34; title=&#34;PC Windows&#34;&gt;&lt;/a&gt;PC Windows&lt;/h1&gt;&lt;h1 id=&#34;扫描修复系统&#34;&gt;&lt;a href=&#34;#扫描修复系统&#34; class=&#34;headerlink&#34; title=&#34;扫描修复系统&#34;&gt;&lt;/a&gt;扫描修复系统&lt;/h1&gt;&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs jboss-cli&#34;&gt;sfc &lt;span class=&#34;hljs-string&#34;&gt;/SCANNOW&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;DNS&#34;&gt;&lt;a href=&#34;#DNS&#34; class=&#34;headerlink&#34; title=&#34;DNS&#34;&gt;&lt;/a&gt;DNS&lt;/h1&gt;&lt;h3 id=&#34;刷新DNS&#34;&gt;&lt;a href=&#34;#刷新DNS&#34; class=&#34;headerlink&#34; title=&#34;刷新DNS&#34;&gt;&lt;/a&gt;刷新DNS&lt;/h3&gt;&lt;p&gt;&lt;code&gt;ipconfig /flushdns&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;nslookup&#34;&gt;&lt;a href=&#34;#nslookup&#34; class=&#34;headerlink&#34; title=&#34;nslookup&#34;&gt;&lt;/a&gt;nslookup&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2022/fc18738/image-20220402175405670.png&#34; alt=&#34;image-20220402175405670&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/fc18738/image-20220402175432533.png&#34; alt=&#34;image-20220402175432533&#34;&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;nslookup&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置查询类型 name server&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;=ns&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查询根服务器&lt;/span&gt;&lt;br&gt;.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Non-authoritative 代表非权威应答 一般是缓存来的&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# authoritative 表权威应答 根服务器直接返回的&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置查询类型 a ipv4地址&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;=a&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查询根服务器的ipv4地址&lt;/span&gt;&lt;br&gt;.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置dns服务器地址&lt;/span&gt;&lt;br&gt;server 198.41.0.4&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置查询类型 name server&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;=ns&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查询cf域名服务器&lt;/span&gt;&lt;br&gt;cf.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置查询类型 a ipv4地址&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;=a&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查询cf域名服务器的ipv4地址&lt;/span&gt;&lt;br&gt;cf.&lt;br&gt;&lt;br&gt;..........&lt;br&gt;&lt;br&gt;&lt;br&gt;lager.cf.&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;硬链接-amp-符号链接&#34;&gt;&lt;a href=&#34;#硬链接-amp-符号链接&#34; class=&#34;headerlink&#34; title=&#34;硬链接&amp;amp;符号链接&#34;&gt;&lt;/a&gt;硬链接&amp;amp;符号链接&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;  mklink&lt;br&gt;  创建符号链接。&lt;/p&gt;
+&lt;p&gt;  MKLINK [[&amp;#x2F;D] | [&amp;#x2F;H] | [&amp;#x2F;J]] Link Target&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;hljs&#34;&gt;      /D      创建目录符号链接。默认为文件
+              符号链接。
+      /H      创建硬链接而非符号链接。
+      /J      创建目录联接。
+      Link    指定新的符号链接名称。
+      Target  指定新链接引用的路径
+              (相对或绝对)。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;硬链接（Hard Link）&lt;/th&gt;
+&lt;th&gt;目录联接（Junction Point）&lt;/th&gt;
+&lt;th&gt;符号链接（Symbolic Link）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;命令&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;mklink /H Link Target&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;mklink /J Link Target&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;mklink /D Link Target&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;作用&lt;/td&gt;
+&lt;td&gt;为某文件创建别名，可让不同的路径对应同一个文件的数据。&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;链接到文件&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;链接到文件夹&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;需要提升为管理员权限&lt;/td&gt;
+&lt;td&gt;需要&lt;/td&gt;
+&lt;td&gt;不需要&lt;/td&gt;
+&lt;td&gt;通常需要 &lt;code&gt;[坑1]&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;跨驱动器卷（盘符）&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;✔️（仅本地计算机）&lt;/td&gt;
+&lt;td&gt;✔️（包括 SMB 文件或路径）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;操作系统支持&lt;/td&gt;
+&lt;td&gt;Windows NT 3.1 开始支持 Windows 2000 开始有 API &lt;code&gt;CreateHardLink()&lt;/code&gt; Windows NT 6.0 开始能使用 &lt;code&gt;mklink /H&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Windows 2000+&lt;/td&gt;
+&lt;td&gt;Windows Vista+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;可链接到不存在的目标&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;可链接到相对目录&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌（可以使用相对路径创建，但创建完即变绝对路径）&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;删除方法&lt;/td&gt;
+&lt;td&gt;del&lt;/td&gt;
+&lt;td&gt;rd&lt;/td&gt;
+&lt;td&gt;rd &amp;#x2F; del&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;当链接被单独删除后&lt;/td&gt;
+&lt;td&gt;只有所有指向原始文件的硬链接和原始文件全部删除后文件数据才会被删除。&lt;/td&gt;
+&lt;td&gt;Windows Vista 之后原始文件夹不受影响；Windows 2000&amp;#x2F;XP&amp;#x2F;2003 会导致原始子文件夹被删除。&lt;/td&gt;
+&lt;td&gt;原始文件夹不受影响。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;当原始文件被单独删除后&lt;/td&gt;
+&lt;td&gt;硬链接依然能正常访问到文件的数据。&lt;/td&gt;
+&lt;td&gt;目录联接失效，指向不存在的目录。&lt;/td&gt;
+&lt;td&gt;符号链接失效，指向不存在的目录&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;比较 Windows 上四种不同的文件（夹）链接方式（NTFS 的硬链接、目录联接、符号链接，和大家熟知的快捷方式）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.walterlv.com/post/ntfs-link-comparisons.html&#34;&gt;https://blog.walterlv.com/post/ntfs-link-comparisons.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Windows中的硬链接和软链接（hard link 和 Symbolic link）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/Naylor/p/7597869.html&#34;&gt;https://www.cnblogs.com/Naylor/p/7597869.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Windows下mklink使用, 硬链接, 软链接和快捷方式的区别&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/guyue35/article/details/49761347&#34;&gt;https://blog.csdn.net/guyue35/article/details/49761347&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight dos&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dos&#34;&gt;创建链接:&lt;br&gt;mklink /j D:\System\Desktop\Project  D:\Project&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;删除的命令：&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;rmdir&lt;/span&gt; 链接名称&lt;br&gt;例如：&lt;span class=&#34;hljs-built_in&#34;&gt;rmdir&lt;/span&gt; d:\recivefiles &lt;span class=&#34;hljs-built_in&#34;&gt;rmdir&lt;/span&gt; d:\develop&lt;br&gt;删除虚拟链接目录，并不会删除真实文件，注意，不能使用&lt;span class=&#34;hljs-built_in&#34;&gt;del&lt;/span&gt;命令，&lt;span class=&#34;hljs-built_in&#34;&gt;del&lt;/span&gt;命令会删除真实文件&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;p&gt;拓展 :  linux下的软链接和硬链接&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  同样，在Windows下，链接的功能也是被实现了的（虽然我们不会经常发现）。在Linux下，我们都知道链接有两种形式：硬链接和软链接。所谓硬链接，我们可以理解为硬链接持有的是文件本身（而不是路径）的引用。也就是说，当我们给一个名为a.txt的文件建立硬链接（b.txt）后，那么b.txt指向的位置就是a.txt这个文件本身，而此时，a.txt和b.txt是同级平行的，这个文本文件此时同时拥有两个文件名。当我们删除a.txt时，只是删除了a.txt这个文件名，这个文件仍然被b.txt所引用，所以我们还能够通过b.txt访问。而软链接，持有的则是原链接路径。比如a.txt位于 &lt;del&gt;&amp;#x2F;Document&amp;#x2F;a.txt ，那么为其建立软链接b.txt的内容就是”&lt;/del&gt;&amp;#x2F;Document&amp;#x2F;a.txt”，此时，我们访问b.txt，其实是在按照a.txt的路径去访问a.txt。如果我们这时删除a.txt这个文件，那么b.txt也会无效，因为路径已经断掉。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;NOTE&#34;&gt;&lt;a href=&#34;#NOTE&#34; class=&#34;headerlink&#34; title=&#34;NOTE&#34;&gt;&lt;/a&gt;NOTE&lt;/h1&gt;&lt;h2 id=&#34;窗口主题色-活动和非活动窗口&#34;&gt;&lt;a href=&#34;#窗口主题色-活动和非活动窗口&#34; class=&#34;headerlink&#34; title=&#34;窗口主题色 活动和非活动窗口&#34;&gt;&lt;/a&gt;窗口主题色 活动和非活动窗口&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;regedit 编辑&lt;br&gt;计算机\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 活动窗口颜色 &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 32位值就是 颜色的RGB 注意的是这里不知道是大小端的问题还是其他什么问题需要RGB数值转换成BGR样式&lt;/span&gt;&lt;br&gt;AccentColor &lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 非活动窗口颜色 &lt;/span&gt;&lt;br&gt;AccentColorInactive &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;添加永久路由&#34;&gt;&lt;a href=&#34;#添加永久路由&#34; class=&#34;headerlink&#34; title=&#34;添加永久路由&#34;&gt;&lt;/a&gt;添加永久路由&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;route -p add &lt;br&gt;&lt;br&gt;route ADD 157.0.0.0 MASK 255.0.0.0  157.55.80.1 METRIC 3 IF 2&lt;br&gt;       destination^      ^mask      ^gateway     metric^    ^&lt;br&gt;                                                   Interface^&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;各类特定文件夹&#34;&gt;&lt;a href=&#34;#各类特定文件夹&#34; class=&#34;headerlink&#34; title=&#34;各类特定文件夹&#34;&gt;&lt;/a&gt;各类特定文件夹&lt;/h2&gt;&lt;p&gt;&lt;code&gt;win+r&lt;/code&gt;输入对应内容&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;启动文件夹&lt;/span&gt;&lt;br&gt;shell:startup&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;发送到右键菜单&lt;/span&gt;&lt;br&gt;shell:sendto&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;修改WIFI位置&#34;&gt;&lt;a href=&#34;#修改WIFI位置&#34; class=&#34;headerlink&#34; title=&#34;修改WIFI位置&#34;&gt;&lt;/a&gt;修改WIFI位置&lt;/h2&gt;&lt;figure class=&#34;highlight moonscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs moonscript&#34;&gt;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;展开“Profiles”项，其下面的子项是都是一个网络连接，可以通过查看“ProfilesName”来分辨，双击打开“&lt;code&gt;Category&lt;/code&gt;”，&lt;/li&gt;
+&lt;li&gt;打开编辑窗口后，修改“数值数据”，这里数值0代表公用网络，1代表专用网络，2代表域网络，设置完后点击确定即可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;填加开机启动&#34;&gt;&lt;a href=&#34;#填加开机启动&#34; class=&#34;headerlink&#34; title=&#34;填加开机启动&#34;&gt;&lt;/a&gt;填加开机启动&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;添加&lt;code&gt;Windows&lt;/code&gt;开机自动执行&lt;code&gt;init-wsl.bat&lt;/code&gt;脚本&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;Windows&lt;/code&gt;键+&lt;code&gt;R&lt;/code&gt;，输入&lt;code&gt;regedit&lt;/code&gt;打开注册列表，在地址栏输入&lt;code&gt;计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run&lt;/code&gt;定位到对应注册表位置，右键新建一个字符串值，键入&lt;code&gt;init-wsl.bat&lt;/code&gt;脚本绝对路径即可，如下图！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/fc18738/regedit-add-init-wsl.png&#34; alt=&#34;set regedit service&#34;&gt;&lt;/p&gt;
+&lt;p&gt;重启计算机即可发现，&lt;code&gt;WSL&lt;/code&gt;中的&lt;code&gt;Docker&lt;/code&gt;服务已经被启动，通过&lt;code&gt;192.168.33.10&lt;/code&gt;可以直接访问到&lt;code&gt;WSL&lt;/code&gt;内部的网络！&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/86880617/</guid>
+            <title>PC Hardware</title>
+            <link>https://www.oikiou.top/2021/86880617/</link>
+            <category>pc</category>
+            <category>hardware</category>
+            <category>lenovo</category>
+            <category>disk</category>
+            <pubDate>Mon, 18 Oct 2021 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;主板&#34;&gt;&lt;a href=&#34;#主板&#34; class=&#34;headerlink&#34; title=&#34;主板&#34;&gt;&lt;/a&gt;主板&lt;/h1&gt;&lt;h2 id=&#34;ITX-主板的孔位图&#34;&gt;&lt;a href=&#34;#ITX-主板的孔位图&#34; class=&#34;headerlink&#34; title=&#34;ITX 主板的孔位图&#34;&gt;&lt;/a&gt;ITX 主板的孔位图&lt;/h2&gt;&lt;p&gt;括号中的数值单位是mm，下面的数值单位是inch。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/v2-adfa6cb86a379f8ea31c62416c3a9b93_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ATX-孔位图&#34;&gt;&lt;a href=&#34;#ATX-孔位图&#34; class=&#34;headerlink&#34; title=&#34;ATX 孔位图&#34;&gt;&lt;/a&gt;ATX 孔位图&lt;/h2&gt;&lt;p&gt;数值单位是inch&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/v2-19cb957be912ef88b779a7ed04de4eaf_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;DISK&#34;&gt;&lt;a href=&#34;#DISK&#34; class=&#34;headerlink&#34; title=&#34;DISK&#34;&gt;&lt;/a&gt;DISK&lt;/h1&gt;&lt;h2 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.snia.org/technology-communities/sff/specifications&#34;&gt;SNIA协会定义&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SFF-8301 (3.5” Form Factor Drive Dimensions)&lt;/li&gt;
+&lt;li&gt;SFF-8201 (2.5” Form Factor Drive Dimensions)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-5”&#34;&gt;&lt;a href=&#34;#2-5”&#34; class=&#34;headerlink&#34; title=&#34;2.5”&#34;&gt;&lt;/a&gt;2.5”&lt;/h2&gt;&lt;p&gt;定义于SFF-8201, 长度为101.85mm (max), 宽度为69.85，厚度有不同规格，从5mm到19.05mm不等。常用的笔记本硬盘是7mm厚度，企业级硬盘是15mm，螺丝孔为公制M3标准。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026113925717.png&#34; alt=&#34;image-20211026113925717&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026113951361.png&#34; alt=&#34;image-20211026113951361&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026114009000.png&#34; alt=&#34;image-20211026114009000&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026114023653.png&#34; alt=&#34;image-20211026114023653&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;3-5”&#34;&gt;&lt;a href=&#34;#3-5”&#34; class=&#34;headerlink&#34; title=&#34;3.5”&#34;&gt;&lt;/a&gt;3.5”&lt;/h2&gt;&lt;p&gt;定义于SFF-8301,长度为147.00mm, 宽度为101.60mm，厚度有不同规格：17.80-42.00mm。通常硬盘的厚度都是小于26.10mm，螺丝孔为6-32 UNC-2B英制标准，公制M3.5也能凑合用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026114433027.png&#34; alt=&#34;image-20211026114433027&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026114447507.png&#34; alt=&#34;image-20211026114447507&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;Lenovo-私有定义&#34;&gt;&lt;a href=&#34;#Lenovo-私有定义&#34; class=&#34;headerlink&#34; title=&#34;Lenovo 私有定义&#34;&gt;&lt;/a&gt;Lenovo 私有定义&lt;/h1&gt;&lt;h2 id=&#34;主板-1&#34;&gt;&lt;a href=&#34;#主板-1&#34; class=&#34;headerlink&#34; title=&#34;主板&#34;&gt;&lt;/a&gt;主板&lt;/h2&gt;&lt;h3 id=&#34;USB2-0-接口&#34;&gt;&lt;a href=&#34;#USB2-0-接口&#34; class=&#34;headerlink&#34; title=&#34;USB2.0 接口&#34;&gt;&lt;/a&gt;USB2.0 接口&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026120339401.png&#34; alt=&#34;image-20211026120339401&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026120205476.png&#34; alt=&#34;image-20211026120205476&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;F-PANEL&#34;&gt;&lt;a href=&#34;#F-PANEL&#34; class=&#34;headerlink&#34; title=&#34;F_PANEL&#34;&gt;&lt;/a&gt;F_PANEL&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026120411691.png&#34; alt=&#34;image-20211026120411691&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/86880617/image-20211026120130016.png&#34; alt=&#34;image-20211026120130016&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

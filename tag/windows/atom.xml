@@ -1,0 +1,833 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;windows&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2022-10-10T14:57:15.000Z</updated>
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="embedded" />
+    <category term="note" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="hex" />
+    <category term="markdown" />
+    <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="osi" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="md5" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="windows" />
+    <category term="makefile" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="机智云" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="ct117e-ex" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="c" />
+    <category term="c++" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="ms-dos" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="life" />
+    <category term="正则表达式" />
+    <category term="人生" />
+    <category term="心理学" />
+    <category term="cad" />
+    <category term="cat_drive" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="workflow" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="synology" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="j-link" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="jlink" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="tmux" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="rtos" />
+    <category term="rt-thread" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="ucos" />
+    <category term="cortex-a7" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="ap" />
+    <category term="wifi" />
+    <category term="pwm" />
+    <category term="cortex-m3" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="rtx" />
+    <category term="keil" />
+    <category term="modbus" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2022/3db44d04/</id>
+        <title>Android 文件传输模式 电脑无法识别</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/3db44d04/"/>
+        <content type="html">&lt;h1 id=&#34;android-文件传输模式-电脑无法识别&#34;&gt;&lt;a href=&#34;#android-文件传输模式-电脑无法识别&#34; class=&#34;headerlink&#34; title=&#34;android 文件传输模式 电脑无法识别&#34;&gt;&lt;/a&gt;android 文件传输模式 电脑无法识别&lt;/h1&gt;&lt;p&gt;最近android手机连接电脑选择传输文件模式，电脑不再识别手机。选择照片模式就没有问题。&lt;/p&gt;
+&lt;p&gt;手机选择文件传输模式后 选择自动搜索驱动程序 安装后会 提示“这个inf中的服务安装段落无效”。&lt;/p&gt;
+&lt;h2 id=&#34;步骤&#34;&gt;&lt;a href=&#34;#步骤&#34; class=&#34;headerlink&#34; title=&#34;步骤&#34;&gt;&lt;/a&gt;步骤&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;按“Win+X” 点击 “设备管理器”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在设备管理器中找到你的手机，名字可能是你的手机型号，可能是未知设备 ，&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;右键选择更新驱动程序.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;选择 “浏览计算机以查找驱动程序软件”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;选择 “让我从计算机上的可用驱动程序列表中选取”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在列表里面找到“便携设备” (可能没有这一步操作)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;选择 “MTP USB 设备”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/3db44d04/1636599848857.png&#34; alt=&#34;win10系统识别不了USB设备解决方法介绍-Win10系统识别不了USB设备怎么办-53系统之家&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;点击 “下一步”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;回到设备管理器看到设备已经可用正确运作了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://developer.android.com/studio/run/oem-usb&#34;&gt;安装原始设备制造商 (OEM) USB 驱动程序&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://developer.android.com/studio/run/win-usb&#34;&gt;获取 Google USB 驱动程序&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="windows" />
+        <category term="android" />
+        <category term="mtp" />
+        <category term="pc" />
+        <category term="driver" />
+        <updated>2022-10-10T14:57:15.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.oikiou.top/2022/471570a6/</id>
+        <title>SpaceDesk手机用作电脑屏幕</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/471570a6/"/>
+        <content type="html">&lt;h1 id=&#34;SpaceDesk&#34;&gt;&lt;a href=&#34;#SpaceDesk&#34; class=&#34;headerlink&#34; title=&#34;SpaceDesk&#34;&gt;&lt;/a&gt;SpaceDesk&lt;/h1&gt;&lt;p&gt;在windows主机上虚拟出一块屏幕, 通过网络传输到其他带屏设备上.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;投屏到手机支持触摸&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;下载&#34;&gt;&lt;a href=&#34;#下载&#34; class=&#34;headerlink&#34; title=&#34;下载&#34;&gt;&lt;/a&gt;下载&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.spacedesk.net/&#34;&gt;https://www.spacedesk.net/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;软件没有验证功能-不安全&#34;&gt;&lt;a href=&#34;#软件没有验证功能-不安全&#34; class=&#34;headerlink&#34; title=&#34;软件没有验证功能(不安全)&#34;&gt;&lt;/a&gt;软件没有验证功能(不安全)&lt;/h2&gt;&lt;p&gt;有一次在公司用手机客户端, 直接连接上了公司其他同事的电脑屏幕.&lt;/p&gt;
+&lt;p&gt;公司的网络ip是dhcp的无法固定, 而且网络质量并不好, 所以我选择电脑开热点 手机连电脑热点.&lt;/p&gt;
+&lt;p&gt;防火墙加规则,只允许热点网段的IP入站.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/471570a6/image-20220811195054454.png&#34; alt=&#34;image-20220811195054454&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/471570a6/image-20220811194925793.png&#34; alt=&#34;image-20220811194925793&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="windows" />
+        <category term="spacedesk" />
+        <category term="投屏" />
+        <updated>2022-08-29T14:57:15.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.oikiou.top/2022/a8b000ae/</id>
+        <title>RDPWrap</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/a8b000ae/"/>
+        <content type="html">&lt;h1 id=&#34;RDPWrap&#34;&gt;&lt;a href=&#34;#RDPWrap&#34; class=&#34;headerlink&#34; title=&#34;RDPWrap&#34;&gt;&lt;/a&gt;RDPWrap&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;RDP程序源Github&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/stascorp/rdpwrap&#34;&gt;https://github.com/stascorp/rdpwrap&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新版RDP配置文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/saurav-biswas/rdpwrap-1/master/res/rdpwrap.ini&#34;&gt;https://raw.githubusercontent.com/saurav-biswas/rdpwrap-1/master/res/rdpwrap.ini&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/affinityv/INI-RDPWRAP&#34;&gt;https://github.com/affinityv/INI-RDPWRAP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;win11可用 &lt;a href=&#34;https://raw.githubusercontent.com/sebaxakerhtc/rdpwrap.ini/master/rdpwrap.ini&#34;&gt;https://raw.githubusercontent.com/sebaxakerhtc/rdpwrap.ini/master/rdpwrap.ini&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;步骤&#34;&gt;&lt;a href=&#34;#步骤&#34; class=&#34;headerlink&#34; title=&#34;步骤&#34;&gt;&lt;/a&gt;步骤&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;install.bat&lt;/code&gt;安装&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;RDPConf.exe&lt;/code&gt;检查是否成功开启&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/a8b000ae/image-20211209105711309.png&#34; alt=&#34;image-20211209105711309&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;新的操作系统一般来说第三项是红色的,如果是绿色的就表示正常可以使用了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如果异常按以下进行操作&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;管理员打开&lt;code&gt;PowerShell&lt;/code&gt;运行&lt;code&gt;get-service termservice|stop-service -force&lt;/code&gt;停掉RDP进程&lt;/li&gt;
+&lt;li&gt;从&lt;a href=&#34;https://raw.githubusercontent.com/saurav-biswas/rdpwrap-1/master/res/rdpwrap.ini&#34;&gt;RDP配置文件&lt;/a&gt;下载新的配置文件&lt;/li&gt;
+&lt;li&gt;将下载的配置文件复制到&lt;code&gt;C:\Program Files\RDP Wrapper\rdpwrap.ini&lt;/code&gt;替换原文件&lt;/li&gt;
+&lt;li&gt;管理员打开&lt;code&gt;PowerShell&lt;/code&gt;运行&lt;code&gt;get-service termservice|start-service&lt;/code&gt;重新运行RDP&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RDPConf.exe&lt;/code&gt;检查已经成功开启&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="windows" />
+        <category term="rdpwrap" />
+        <category term="rdp" />
+        <updated>2022-07-20T14:57:15.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.oikiou.top/2022/714f1d49/</id>
+        <title>Windows下使用Makefile</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/714f1d49/"/>
+        <content type="html">&lt;h1 id=&#34;1-安装MinGW&#34;&gt;&lt;a href=&#34;#1-安装MinGW&#34; class=&#34;headerlink&#34; title=&#34;1.安装MinGW&#34;&gt;&lt;/a&gt;1.安装MinGW&lt;/h1&gt;&lt;p&gt;在MinGW的bin目录下有一个文件叫&lt;code&gt;mingw32-make.exe&lt;/code&gt; 运行它就跟&lt;code&gt;make&lt;/code&gt;指令类似&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/714f1d49/watermarkpic_center.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;2-CMD-终端运行Makefile-mingw32-make&#34;&gt;&lt;a href=&#34;#2-CMD-终端运行Makefile-mingw32-make&#34; class=&#34;headerlink&#34; title=&#34;2. CMD 终端运行Makefile (mingw32-make)&#34;&gt;&lt;/a&gt;2. CMD 终端运行Makefile (mingw32-make)&lt;/h1&gt;&lt;p&gt;在cmd终端下直接输入&lt;code&gt;mingw32-make&lt;/code&gt;然后回车就可以进行编译了：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;Microsoft Windows [版本 10.0.16299.967]&lt;br&gt;(c) 2017 Microsoft Corporation。保留所有权利。&lt;br&gt;&lt;br&gt;D:\Project\Code\C++\hello&amp;gt; mingw32-make.exe&lt;br&gt;g++    -c -o main.o main.cpp&lt;br&gt;g++ -std=c++17 -o main main.o&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+</content>
+        <category term="windows" />
+        <category term="makefile" />
+        <updated>2022-06-21T14:57:15.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.oikiou.top/2022/ddff0c71/</id>
+        <title>MS-DOS</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/ddff0c71/"/>
+        <content type="html">&lt;h1 id=&#34;MS-DOS&#34;&gt;&lt;a href=&#34;#MS-DOS&#34; class=&#34;headerlink&#34; title=&#34;MS-DOS&#34;&gt;&lt;/a&gt;MS-DOS&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;CMD(windows-commands)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands&#34;&gt;Windowscommands&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在cmd内&lt;code&gt;/?&lt;/code&gt;即可获得帮助信息&lt;/p&gt;
+&lt;h2 id=&#34;FOR&#34;&gt;&lt;a href=&#34;#FOR&#34; class=&#34;headerlink&#34; title=&#34;FOR&#34;&gt;&lt;/a&gt;FOR&lt;/h2&gt;&lt;figure class=&#34;highlight tex&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;73&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;74&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;75&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;76&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;77&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;78&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;79&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;80&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;81&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;82&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;83&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;84&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;85&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;86&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;87&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;88&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;89&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;90&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;91&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;92&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;93&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;94&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;95&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;96&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;97&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;98&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;99&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;100&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;101&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;102&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;103&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;104&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;105&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;106&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;107&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;108&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;109&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;110&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;111&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;112&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;113&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;114&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;115&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;116&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;117&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;118&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;119&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;120&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;121&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;122&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;123&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;124&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs tex&#34;&gt;对一组文件中的每一个文件执行某个特定命令。&lt;br&gt;&lt;br&gt;FOR &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;%variable  指定一个单一字母可替换的参数。&lt;/span&gt;&lt;br&gt;  (set)      指定一个或一组文件。可以使用通配符。&lt;br&gt;  command    指定对每个文件执行的命令。&lt;br&gt;  command-parameters &lt;br&gt;             为特定命令指定参数或命令行开关。&lt;br&gt;&lt;br&gt;在批处理程序中使用 FOR 命令时，指定变量请使用 &lt;span class=&#34;hljs-comment&#34;&gt;%%variable&lt;/span&gt;&lt;br&gt;而不要用 &lt;span class=&#34;hljs-comment&#34;&gt;%variable。变量名称是区分大小写的，所以 %i 不同于 %I.&lt;/span&gt;&lt;br&gt;&lt;br&gt;如果启用命令扩展，则会支持下列 FOR 命令的其他格式:&lt;br&gt;&lt;br&gt;FOR /D &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    如果集中包含通配符，则指定与目录名匹配，而不与文件名匹配。&lt;br&gt;&lt;br&gt;FOR /R [[drive:]path] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    检查以 [drive:]path 为根的目录树，指向每个目录中的 FOR 语句。&lt;br&gt;    如果在 /R 后没有指定目录规范，则使用当前目录。如果集仅为一个单点(.)字符，&lt;br&gt;    则枚举该目录树。&lt;br&gt;&lt;br&gt;FOR /L &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (start,step,end) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    该集表示以增量形式从开始到结束的一个数字序列。因此，(1,1,5)将产生序列&lt;br&gt;    1 2 3 4 5，(5,-1,1)将产生序列(5 4 3 2 1)&lt;br&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (file-set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (&amp;quot;string&amp;quot;) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (&amp;#x27;command&amp;#x27;) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    或者，如果有 usebackq 选项:&lt;br&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (file-set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (&amp;quot;string&amp;quot;) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (&amp;#x27;command&amp;#x27;) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    fileset 为一个或多个文件名。继续到 fileset 中的下一个文件之前，&lt;br&gt;    每份文件都被打开、读取并经过处理。处理包括读取文件，将其分成一行行的文字，&lt;br&gt;    然后将每行解析成零或更多的符号。然后用已找到的符号字符串变量值调用 For 循环。&lt;br&gt;    以默认方式，/F 通过每个文件的每一行中分开的第一个空白符号。跳过空白行。&lt;br&gt;    你可通过指定可选 &amp;quot;options&amp;quot; 参数替代默认解析操作。这个带引号的字符串包括一个&lt;br&gt;    或多个指定不同解析选项的关键字。这些关键字为:&lt;br&gt;&lt;br&gt;        eol=c           - 指一个行注释字符的结尾(就一个)&lt;br&gt;        skip=n          - 指在文件开始时忽略的行数。&lt;br&gt;        delims=xxx      - 指分隔符集。这个替换了空格和制表符的&lt;br&gt;                          默认分隔符集。&lt;br&gt;        tokens=x,y,m-n  - 指每行的哪一个符号被传递到每个迭代&lt;br&gt;                          的 for 本身。这会导致额外变量名称的分配。m-n&lt;br&gt;                          格式为一个范围。通过 nth 符号指定 mth。如果&lt;br&gt;                          符号字符串中的最后一个字符星号，&lt;br&gt;                          那么额外的变量将在最后一个符号解析之后&lt;br&gt;                          分配并接受行的保留文本。&lt;br&gt;        usebackq        - 指定新语法已在下类情况中使用:&lt;br&gt;                          在作为命令执行一个后引号的字符串并且一个单&lt;br&gt;                          引号字符为文字字符串命令并允许在 file-set&lt;br&gt;                          中使用双引号扩起文件名称。&lt;br&gt;&lt;br&gt;    某些范例可能有助:&lt;br&gt;&lt;br&gt;FOR /F &amp;quot;eol=; tokens=2,3* delims=, &amp;quot; &lt;span class=&#34;hljs-comment&#34;&gt;%i in (myfile.txt) do @echo %i %j %k&lt;/span&gt;&lt;br&gt;&lt;br&gt;    会分析 myfile.txt 中的每一行，忽略以分号打头的那些行，将&lt;br&gt;    每行中的第二个和第三个符号传递给 for 函数体，用逗号和/或&lt;br&gt;    空格分隔符号。请注意，此 for 函数体的语句引用 &lt;span class=&#34;hljs-comment&#34;&gt;%i 来&lt;/span&gt;&lt;br&gt;    获得第二个符号，引用 &lt;span class=&#34;hljs-comment&#34;&gt;%j 来获得第三个符号，引用 %k&lt;/span&gt;&lt;br&gt;    来获得第三个符号后的所有剩余符号。对于带有空格的文件&lt;br&gt;    名，你需要用双引号将文件名括起来。为了用这种方式来使&lt;br&gt;    用双引号，还需要使用 usebackq 选项，否则，双引号会&lt;br&gt;    被理解成是用作定义某个要分析的字符串的。&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;%i 在 for 语句中显式声明，%j 和 %k 是通过&lt;/span&gt;&lt;br&gt;    tokens= 选项隐式声明的。可以通过 tokens= 一行&lt;br&gt;    指定最多 26 个符号，只要不试图声明一个高于字母 &amp;quot;z&amp;quot; 或&lt;br&gt;    &amp;quot;Z&amp;quot; 的变量。请记住，FOR 变量是单一字母、分大小写和全局的变量；&lt;br&gt;    而且，不能同时使用超过 52 个。&lt;br&gt;&lt;br&gt;    还可以在相邻字符串上使用 FOR /F 分析逻辑，方法是，&lt;br&gt;    用单引号将括号之间的 file-set 括起来。这样，该字符&lt;br&gt;    串会被当作一个文件中的一个单一输入行进行解析。&lt;br&gt;&lt;br&gt;    最后，可以用 FOR /F 命令来分析命令的输出。方法是，将&lt;br&gt;    括号之间的 file-set 变成一个反括字符串。该字符串会&lt;br&gt;    被当作命令行，传递到一个子 CMD.EXE，其输出会被捕获到&lt;br&gt;    内存中，并被当作文件分析。如以下例子所示:&lt;br&gt;&lt;br&gt;      FOR /F &amp;quot;usebackq delims==&amp;quot; &lt;span class=&#34;hljs-comment&#34;&gt;%i IN (`set`) DO @echo %i&lt;/span&gt;&lt;br&gt;&lt;br&gt;    会枚举当前环境中的环境变量名称。&lt;br&gt;&lt;br&gt;另外，FOR 变量参照的替换已被增强。你现在可以使用下列&lt;br&gt;选项语法:&lt;br&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~I          - 删除任何引号(&amp;quot;)，扩展 %I&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~fI        - 将 %I 扩展到一个完全合格的路径名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~dI        - 仅将 %I 扩展到一个驱动器号&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~pI        - 仅将 %I 扩展到一个路径&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~nI        - 仅将 %I 扩展到一个文件名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~xI        - 仅将 %I 扩展到一个文件扩展名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~sI        - 扩展的路径只含有短名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~aI        - 将 %I 扩展到文件的文件属性&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~tI        - 将 %I 扩展到文件的日期/时间&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~zI        - 将 %I 扩展到文件的大小&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~$PATH:I   - 查找列在路径环境变量的目录，并将 %I 扩展&lt;/span&gt;&lt;br&gt;                   到找到的第一个完全合格的名称。如果环境变量名&lt;br&gt;                   未被定义，或者没有找到文件，此组合键会扩展到&lt;br&gt;                   空字符串&lt;br&gt;&lt;br&gt;可以组合修饰符来得到多重结果:&lt;br&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~dpI       - 仅将 %I 扩展到一个驱动器号和路径&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~nxI       - 仅将 %I 扩展到一个文件名和扩展名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~fsI       - 仅将 %I 扩展到一个带有短名的完整路径名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~dp$PATH:I - 搜索列在路径环境变量的目录，并将 %I 扩展&lt;/span&gt;&lt;br&gt;                   到找到的第一个驱动器号和路径。&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~ftzaI     - 将 %I 扩展到类似输出线路的 DIR&lt;/span&gt;&lt;br&gt;&lt;br&gt;在以上例子中，&lt;span class=&#34;hljs-comment&#34;&gt;%I 和 PATH 可用其他有效数值代替。%~ 语法&lt;/span&gt;&lt;br&gt;用一个有效的 FOR 变量名终止。选取类似 &lt;span class=&#34;hljs-comment&#34;&gt;%I 的大写变量名&lt;/span&gt;&lt;br&gt;比较易读，而且避免与不分大小写的组合键混淆。&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;dir&#34;&gt;&lt;a href=&#34;#dir&#34; class=&#34;headerlink&#34; title=&#34;dir&#34;&gt;&lt;/a&gt;dir&lt;/h2&gt;&lt;p&gt;列出文件&lt;/p&gt;
+&lt;h2 id=&#34;cls&#34;&gt;&lt;a href=&#34;#cls&#34; class=&#34;headerlink&#34; title=&#34;cls&#34;&gt;&lt;/a&gt;cls&lt;/h2&gt;&lt;p&gt;清屏&lt;/p&gt;
+&lt;h1 id=&#34;NOTE&#34;&gt;&lt;a href=&#34;#NOTE&#34; class=&#34;headerlink&#34; title=&#34;NOTE&#34;&gt;&lt;/a&gt;NOTE&lt;/h1&gt;&lt;h2 id=&#34;mklinkC盘程序搬家&#34;&gt;&lt;a href=&#34;#mklinkC盘程序搬家&#34; class=&#34;headerlink&#34; title=&#34;mklinkC盘程序搬家&#34;&gt;&lt;/a&gt;mklinkC盘程序搬家&lt;/h2&gt;&lt;p&gt;命令参数&lt;/p&gt;
+&lt;figure class=&#34;highlight lua&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs lua&#34;&gt;mklink&lt;span class=&#34;hljs-string&#34;&gt;[[/d]|[/h]|[/j]]&lt;/span&gt;&amp;lt;Link&amp;gt;&amp;lt;Target&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h5 id=&#34;参数&#34;&gt;&lt;a href=&#34;#参数&#34; class=&#34;headerlink&#34; title=&#34;参数&#34;&gt;&lt;/a&gt;参数&lt;/h5&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;参数&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&amp;#x2F;d&lt;/td&gt;
+&lt;td&gt;创建目录符号链接。默认情况下，mklink会创建文件符号链接。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;#x2F;H&lt;/td&gt;
+&lt;td&gt;创建硬链接而不是符号链接。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;#x2F;J&lt;/td&gt;
+&lt;td&gt;创建目录连接。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;lt;链接&amp;gt;&lt;/td&gt;
+&lt;td&gt;指定正在创建的符号链接的名称。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;lt;目标&amp;gt;&lt;/td&gt;
+&lt;td&gt;指定新符号链接引用的路径（相对或绝对）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;#x2F;？&lt;/td&gt;
+&lt;td&gt;在命令提示符下显示帮助。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+</content>
+        <category term="windows" />
+        <category term="ms-dos" />
+        <updated>2022-06-21T14:57:15.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.oikiou.top/2022/fc18738/</id>
+        <title>PC Software</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/fc18738/"/>
+        <content type="html">&lt;h1 id=&#34;PC-Windows&#34;&gt;&lt;a href=&#34;#PC-Windows&#34; class=&#34;headerlink&#34; title=&#34;PC Windows&#34;&gt;&lt;/a&gt;PC Windows&lt;/h1&gt;&lt;h1 id=&#34;扫描修复系统&#34;&gt;&lt;a href=&#34;#扫描修复系统&#34; class=&#34;headerlink&#34; title=&#34;扫描修复系统&#34;&gt;&lt;/a&gt;扫描修复系统&lt;/h1&gt;&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs jboss-cli&#34;&gt;sfc &lt;span class=&#34;hljs-string&#34;&gt;/SCANNOW&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;DNS&#34;&gt;&lt;a href=&#34;#DNS&#34; class=&#34;headerlink&#34; title=&#34;DNS&#34;&gt;&lt;/a&gt;DNS&lt;/h1&gt;&lt;h3 id=&#34;刷新DNS&#34;&gt;&lt;a href=&#34;#刷新DNS&#34; class=&#34;headerlink&#34; title=&#34;刷新DNS&#34;&gt;&lt;/a&gt;刷新DNS&lt;/h3&gt;&lt;p&gt;&lt;code&gt;ipconfig /flushdns&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;nslookup&#34;&gt;&lt;a href=&#34;#nslookup&#34; class=&#34;headerlink&#34; title=&#34;nslookup&#34;&gt;&lt;/a&gt;nslookup&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2022/fc18738/image-20220402175405670.png&#34; alt=&#34;image-20220402175405670&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/fc18738/image-20220402175432533.png&#34; alt=&#34;image-20220402175432533&#34;&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;nslookup&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置查询类型 name server&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;=ns&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查询根服务器&lt;/span&gt;&lt;br&gt;.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Non-authoritative 代表非权威应答 一般是缓存来的&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# authoritative 表权威应答 根服务器直接返回的&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置查询类型 a ipv4地址&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;=a&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查询根服务器的ipv4地址&lt;/span&gt;&lt;br&gt;.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置dns服务器地址&lt;/span&gt;&lt;br&gt;server 198.41.0.4&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置查询类型 name server&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;=ns&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查询cf域名服务器&lt;/span&gt;&lt;br&gt;cf.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置查询类型 a ipv4地址&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;=a&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查询cf域名服务器的ipv4地址&lt;/span&gt;&lt;br&gt;cf.&lt;br&gt;&lt;br&gt;..........&lt;br&gt;&lt;br&gt;&lt;br&gt;lager.cf.&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;硬链接-amp-符号链接&#34;&gt;&lt;a href=&#34;#硬链接-amp-符号链接&#34; class=&#34;headerlink&#34; title=&#34;硬链接&amp;amp;符号链接&#34;&gt;&lt;/a&gt;硬链接&amp;amp;符号链接&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;  mklink&lt;br&gt;  创建符号链接。&lt;/p&gt;
+&lt;p&gt;  MKLINK [[&amp;#x2F;D] | [&amp;#x2F;H] | [&amp;#x2F;J]] Link Target&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;hljs&#34;&gt;      /D      创建目录符号链接。默认为文件
+              符号链接。
+      /H      创建硬链接而非符号链接。
+      /J      创建目录联接。
+      Link    指定新的符号链接名称。
+      Target  指定新链接引用的路径
+              (相对或绝对)。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;硬链接（Hard Link）&lt;/th&gt;
+&lt;th&gt;目录联接（Junction Point）&lt;/th&gt;
+&lt;th&gt;符号链接（Symbolic Link）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;命令&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;mklink /H Link Target&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;mklink /J Link Target&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;mklink /D Link Target&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;作用&lt;/td&gt;
+&lt;td&gt;为某文件创建别名，可让不同的路径对应同一个文件的数据。&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;链接到文件&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;链接到文件夹&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;需要提升为管理员权限&lt;/td&gt;
+&lt;td&gt;需要&lt;/td&gt;
+&lt;td&gt;不需要&lt;/td&gt;
+&lt;td&gt;通常需要 &lt;code&gt;[坑1]&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;跨驱动器卷（盘符）&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;✔️（仅本地计算机）&lt;/td&gt;
+&lt;td&gt;✔️（包括 SMB 文件或路径）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;操作系统支持&lt;/td&gt;
+&lt;td&gt;Windows NT 3.1 开始支持 Windows 2000 开始有 API &lt;code&gt;CreateHardLink()&lt;/code&gt; Windows NT 6.0 开始能使用 &lt;code&gt;mklink /H&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Windows 2000+&lt;/td&gt;
+&lt;td&gt;Windows Vista+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;可链接到不存在的目标&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;可链接到相对目录&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌（可以使用相对路径创建，但创建完即变绝对路径）&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;删除方法&lt;/td&gt;
+&lt;td&gt;del&lt;/td&gt;
+&lt;td&gt;rd&lt;/td&gt;
+&lt;td&gt;rd &amp;#x2F; del&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;当链接被单独删除后&lt;/td&gt;
+&lt;td&gt;只有所有指向原始文件的硬链接和原始文件全部删除后文件数据才会被删除。&lt;/td&gt;
+&lt;td&gt;Windows Vista 之后原始文件夹不受影响；Windows 2000&amp;#x2F;XP&amp;#x2F;2003 会导致原始子文件夹被删除。&lt;/td&gt;
+&lt;td&gt;原始文件夹不受影响。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;当原始文件被单独删除后&lt;/td&gt;
+&lt;td&gt;硬链接依然能正常访问到文件的数据。&lt;/td&gt;
+&lt;td&gt;目录联接失效，指向不存在的目录。&lt;/td&gt;
+&lt;td&gt;符号链接失效，指向不存在的目录&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;比较 Windows 上四种不同的文件（夹）链接方式（NTFS 的硬链接、目录联接、符号链接，和大家熟知的快捷方式）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.walterlv.com/post/ntfs-link-comparisons.html&#34;&gt;https://blog.walterlv.com/post/ntfs-link-comparisons.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Windows中的硬链接和软链接（hard link 和 Symbolic link）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/Naylor/p/7597869.html&#34;&gt;https://www.cnblogs.com/Naylor/p/7597869.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Windows下mklink使用, 硬链接, 软链接和快捷方式的区别&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/guyue35/article/details/49761347&#34;&gt;https://blog.csdn.net/guyue35/article/details/49761347&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight dos&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dos&#34;&gt;创建链接:&lt;br&gt;mklink /j D:\System\Desktop\Project  D:\Project&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;删除的命令：&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;rmdir&lt;/span&gt; 链接名称&lt;br&gt;例如：&lt;span class=&#34;hljs-built_in&#34;&gt;rmdir&lt;/span&gt; d:\recivefiles &lt;span class=&#34;hljs-built_in&#34;&gt;rmdir&lt;/span&gt; d:\develop&lt;br&gt;删除虚拟链接目录，并不会删除真实文件，注意，不能使用&lt;span class=&#34;hljs-built_in&#34;&gt;del&lt;/span&gt;命令，&lt;span class=&#34;hljs-built_in&#34;&gt;del&lt;/span&gt;命令会删除真实文件&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;p&gt;拓展 :  linux下的软链接和硬链接&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  同样，在Windows下，链接的功能也是被实现了的（虽然我们不会经常发现）。在Linux下，我们都知道链接有两种形式：硬链接和软链接。所谓硬链接，我们可以理解为硬链接持有的是文件本身（而不是路径）的引用。也就是说，当我们给一个名为a.txt的文件建立硬链接（b.txt）后，那么b.txt指向的位置就是a.txt这个文件本身，而此时，a.txt和b.txt是同级平行的，这个文本文件此时同时拥有两个文件名。当我们删除a.txt时，只是删除了a.txt这个文件名，这个文件仍然被b.txt所引用，所以我们还能够通过b.txt访问。而软链接，持有的则是原链接路径。比如a.txt位于 &lt;del&gt;&amp;#x2F;Document&amp;#x2F;a.txt ，那么为其建立软链接b.txt的内容就是”&lt;/del&gt;&amp;#x2F;Document&amp;#x2F;a.txt”，此时，我们访问b.txt，其实是在按照a.txt的路径去访问a.txt。如果我们这时删除a.txt这个文件，那么b.txt也会无效，因为路径已经断掉。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;NOTE&#34;&gt;&lt;a href=&#34;#NOTE&#34; class=&#34;headerlink&#34; title=&#34;NOTE&#34;&gt;&lt;/a&gt;NOTE&lt;/h1&gt;&lt;h2 id=&#34;窗口主题色-活动和非活动窗口&#34;&gt;&lt;a href=&#34;#窗口主题色-活动和非活动窗口&#34; class=&#34;headerlink&#34; title=&#34;窗口主题色 活动和非活动窗口&#34;&gt;&lt;/a&gt;窗口主题色 活动和非活动窗口&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;regedit 编辑&lt;br&gt;计算机\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 活动窗口颜色 &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 32位值就是 颜色的RGB 注意的是这里不知道是大小端的问题还是其他什么问题需要RGB数值转换成BGR样式&lt;/span&gt;&lt;br&gt;AccentColor &lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 非活动窗口颜色 &lt;/span&gt;&lt;br&gt;AccentColorInactive &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;添加永久路由&#34;&gt;&lt;a href=&#34;#添加永久路由&#34; class=&#34;headerlink&#34; title=&#34;添加永久路由&#34;&gt;&lt;/a&gt;添加永久路由&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;route -p add &lt;br&gt;&lt;br&gt;route ADD 157.0.0.0 MASK 255.0.0.0  157.55.80.1 METRIC 3 IF 2&lt;br&gt;       destination^      ^mask      ^gateway     metric^    ^&lt;br&gt;                                                   Interface^&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;各类特定文件夹&#34;&gt;&lt;a href=&#34;#各类特定文件夹&#34; class=&#34;headerlink&#34; title=&#34;各类特定文件夹&#34;&gt;&lt;/a&gt;各类特定文件夹&lt;/h2&gt;&lt;p&gt;&lt;code&gt;win+r&lt;/code&gt;输入对应内容&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;启动文件夹&lt;/span&gt;&lt;br&gt;shell:startup&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;发送到右键菜单&lt;/span&gt;&lt;br&gt;shell:sendto&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;修改WIFI位置&#34;&gt;&lt;a href=&#34;#修改WIFI位置&#34; class=&#34;headerlink&#34; title=&#34;修改WIFI位置&#34;&gt;&lt;/a&gt;修改WIFI位置&lt;/h2&gt;&lt;figure class=&#34;highlight moonscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs moonscript&#34;&gt;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;展开“Profiles”项，其下面的子项是都是一个网络连接，可以通过查看“ProfilesName”来分辨，双击打开“&lt;code&gt;Category&lt;/code&gt;”，&lt;/li&gt;
+&lt;li&gt;打开编辑窗口后，修改“数值数据”，这里数值0代表公用网络，1代表专用网络，2代表域网络，设置完后点击确定即可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;填加开机启动&#34;&gt;&lt;a href=&#34;#填加开机启动&#34; class=&#34;headerlink&#34; title=&#34;填加开机启动&#34;&gt;&lt;/a&gt;填加开机启动&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;添加&lt;code&gt;Windows&lt;/code&gt;开机自动执行&lt;code&gt;init-wsl.bat&lt;/code&gt;脚本&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;Windows&lt;/code&gt;键+&lt;code&gt;R&lt;/code&gt;，输入&lt;code&gt;regedit&lt;/code&gt;打开注册列表，在地址栏输入&lt;code&gt;计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run&lt;/code&gt;定位到对应注册表位置，右键新建一个字符串值，键入&lt;code&gt;init-wsl.bat&lt;/code&gt;脚本绝对路径即可，如下图！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/fc18738/regedit-add-init-wsl.png&#34; alt=&#34;set regedit service&#34;&gt;&lt;/p&gt;
+&lt;p&gt;重启计算机即可发现，&lt;code&gt;WSL&lt;/code&gt;中的&lt;code&gt;Docker&lt;/code&gt;服务已经被启动，通过&lt;code&gt;192.168.33.10&lt;/code&gt;可以直接访问到&lt;code&gt;WSL&lt;/code&gt;内部的网络！&lt;/p&gt;
+</content>
+        <category term="windows" />
+        <category term="pc" />
+        <category term="software" />
+        <updated>2022-01-21T14:57:15.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.oikiou.top/2021/9f39ed86/</id>
+        <title>VSCode多行编辑被占用</title>
+        <link rel="alternate" href="https://www.oikiou.top/2021/9f39ed86/"/>
+        <content type="html">&lt;p&gt;关键词:&lt;/p&gt;
+&lt;p&gt;查看 Windows 10 快捷键 占用 VSCode 多行编辑 ctrl alt uparrow&lt;/p&gt;
+&lt;h1 id=&#34;背景&#34;&gt;&lt;a href=&#34;#背景&#34; class=&#34;headerlink&#34; title=&#34;背景&#34;&gt;&lt;/a&gt;背景&lt;/h1&gt;&lt;p&gt;VSCode 的多行编辑 ctrl + alt +uparrow 失效.&lt;br&gt;电脑环境:win10 19042.1387&lt;/p&gt;
+&lt;h1 id=&#34;思路&#34;&gt;&lt;a href=&#34;#思路&#34; class=&#34;headerlink&#34; title=&#34;思路&#34;&gt;&lt;/a&gt;思路&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;检查VSCode的快捷键设置,&lt;img src=&#34;https://img-blog.csdnimg.cn/c85c8402840543d4a4b7afcf26e04bc0.png&#34; alt=&#34;VSCode1&#34;&gt;&lt;br&gt;看起来是没有问题的,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;以前也遇到过这个情况当时是把VSCode重装后就好了看,这次试了试似乎并不行.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;检查是不是其他软件占用了全局快捷键,搜索发现很多相关软件都失效不能用.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PChunter &lt;strong&gt;很久没更新了不支持我的电脑的当前版本&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;FindGlobalHotkey  &lt;strong&gt;无效&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;spy++ &lt;strong&gt;太复杂,可能我不太会用也是没找到是不是什么按键占用了&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zhihu.com/question/288316686/answer/1656650885&#34;&gt;win10怎么查看快捷键是被什么占用了？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/BlackINT3/OpenArk&#34;&gt;OpenArk &lt;/a&gt; &lt;strong&gt;(最终解决方案)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;github下载OpenArk后打开就能看到快捷键占用, 输入对应快捷键就可以筛选,&lt;br&gt;&lt;strong&gt;最终找到万恶之源, 电脑插着耳机没有发现在播歌, 网易云关掉全局快捷键, 问题消失&lt;/strong&gt;&lt;br&gt;&lt;img src=&#34;/2021/9f39ed86/9b96c314b5994739a4db98c7d00c834b.png&#34; alt=&#34;VSCode2&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/BlackINT3/OpenArk&#34;&gt;https://github.com/BlackINT3/OpenArk&lt;/a&gt;&lt;br&gt;&lt;img src=&#34;/2021/9f39ed86/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Li05rW355qE5Z-O,size_20,color_FFFFFF,t_70,g_se,x_16.png&#34; alt=&#34;VSCode3&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;其他冲突的快捷键&#34;&gt;&lt;a href=&#34;#其他冲突的快捷键&#34; class=&#34;headerlink&#34; title=&#34;其他冲突的快捷键&#34;&gt;&lt;/a&gt;其他冲突的快捷键&lt;/h1&gt;&lt;p&gt;ctrl + shift + f 和微软的拼音输入法有冲突&lt;/p&gt;
+</content>
+        <category term="windows" />
+        <category term="vscode" />
+        <updated>2021-12-15T15:23:05.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.oikiou.top/2021/784ee20b/</id>
+        <title>WSL</title>
+        <link rel="alternate" href="https://www.oikiou.top/2021/784ee20b/"/>
+        <content type="html">&lt;h1 id=&#34;安装&#34;&gt;&lt;a href=&#34;#安装&#34; class=&#34;headerlink&#34; title=&#34;安装&#34;&gt;&lt;/a&gt;安装&lt;/h1&gt;&lt;p&gt;若要检查 Windows 版本及内部版本号，选择 Windows 徽标键 + R，然后键入“winver”，选择“确定”。更新到“设置”菜单中的&lt;a href=&#34;ms-settings:windowsupdate&#34;&gt;最新 Windows 版本&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;IF&lt;/strong&gt;&lt;/em&gt; (Windows 10 版本 2004 及更高版本（内部版本 19041 及更高版本）或 Windows 11)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/zh-cn/windows/wsl/install&#34;&gt;一键自动安装 WSL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;ELSE&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/zh-cn/windows/wsl/install-manual&#34;&gt;旧版 WSL 的手动安装步骤(可以更改WSL系统的存放位置)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;手动安装&#34;&gt;&lt;a href=&#34;#手动安装&#34; class=&#34;headerlink&#34; title=&#34;手动安装&#34;&gt;&lt;/a&gt;手动安装&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;   手动安装的优点是避免Linux的镜像文件(&lt;code&gt;ext4.vhdx&lt;/code&gt;)存放在C盘, 存放&lt;code&gt;ext4.vhdx&lt;/code&gt;的位置可以自定义.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;以下指令需要在&lt;strong&gt;管理员&lt;/strong&gt;下的 powershell 运行&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 1 开启Microsoft-Windows-Subsystem-Linux&lt;/span&gt;&lt;br&gt;dism.exe &lt;span class=&#34;hljs-regexp&#34;&gt;/online /&lt;/span&gt;enable-feature &lt;span class=&#34;hljs-regexp&#34;&gt;/featurename:Microsoft-Windows-Subsystem-Linux /&lt;/span&gt;all /norestart&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 2 开启VirtualMachinePlatform&lt;/span&gt;&lt;br&gt;dism.exe &lt;span class=&#34;hljs-regexp&#34;&gt;/online /&lt;/span&gt;enable-feature &lt;span class=&#34;hljs-regexp&#34;&gt;/featurename:VirtualMachinePlatform /&lt;/span&gt;all /norestart&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 3 重启&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# reboot&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 4 安装WLS2内核更新包&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;wslstorestorage.blob.core.windows.net&lt;span class=&#34;hljs-regexp&#34;&gt;/wslblob/&lt;/span&gt;wsl_update_x64.msi&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 5 将WSL2设为默认&lt;/span&gt;&lt;br&gt;wsl --set-default-version &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 6 下载离线包(可以避免将WSL的系统装在C盘)&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;docs.microsoft.com&lt;span class=&#34;hljs-regexp&#34;&gt;/zh-cn/&lt;/span&gt;windows&lt;span class=&#34;hljs-regexp&#34;&gt;/wsl/i&lt;/span&gt;nstall-manual&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# example&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;aka.ms/wslubuntu2004&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;aka.ms/wsl-ubuntu-&lt;span class=&#34;hljs-number&#34;&gt;1804&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;aka.ms/wsl-debian-gnulinux&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 离线包下载完成后解压缩 运行目录内的ubuntu.exe&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 会提示输入用户名和密码&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 7 (可选)安装 windows终端&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;docs.microsoft.com&lt;span class=&#34;hljs-regexp&#34;&gt;/en-us/&lt;/span&gt;windows&lt;span class=&#34;hljs-regexp&#34;&gt;/terminal/g&lt;/span&gt;et-started 可选 &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;U盘挂载&#34;&gt;&lt;a href=&#34;#U盘挂载&#34; class=&#34;headerlink&#34; title=&#34;U盘挂载&#34;&gt;&lt;/a&gt;U盘挂载&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;1 新建文件夹g&lt;/span&gt;&lt;br&gt;sudo mkdir /mnt/g&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;2 挂载盘符g&lt;/span&gt;&lt;br&gt;sudo mount -t drvfs g: /mnt/g&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;大功告成。进入/mnt/g即可操作&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;弹出移动硬盘，这样才能在windows下正常弹出，否则是会一直占用的。&lt;/span&gt;&lt;br&gt;sudo umount /mnt/g&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;映射wsl文件系统&#34;&gt;&lt;a href=&#34;#映射wsl文件系统&#34; class=&#34;headerlink&#34; title=&#34;映射wsl文件系统&#34;&gt;&lt;/a&gt;映射wsl文件系统&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2021/784ee20b/image-20211129131237501.png&#34; alt=&#34;image-20211129131237501&#34;&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight gams&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs gams&#34;&gt;\\wsl&lt;span class=&#34;hljs-symbol&#34;&gt;$&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;通过 &lt;code&gt;\\wsl$&lt;/code&gt; 访问 Linux 文件时将使用 WSL 分发版的默认用户。 因此，任何访问 Linux 文件的 Windows 应用都具有与默认用户相同的权限。&lt;/p&gt;
+&lt;h2 id=&#34;wsl关机&#34;&gt;&lt;a href=&#34;#wsl关机&#34; class=&#34;headerlink&#34; title=&#34;wsl关机&#34;&gt;&lt;/a&gt;wsl关机&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;wsl --shutdown&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;wsl-配置文件&#34;&gt;&lt;a href=&#34;#wsl-配置文件&#34; class=&#34;headerlink&#34; title=&#34;wsl 配置文件&#34;&gt;&lt;/a&gt;wsl 配置文件&lt;/h2&gt;&lt;figure class=&#34;highlight ini&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs ini&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Settings apply across all Linux distros running on WSL 2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;[wsl2]&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Limits VM memory to use no more than 4 GB, this can be set as whole numbers using GB or MB&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;memory&lt;/span&gt;=&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;GB &lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Sets the VM to use two virtual processors&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;processors&lt;/span&gt;=&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Specify a custom Linux kernel to use with your installed distros. The default kernel used can be found at https://github.com/microsoft/WSL2-Linux-Kernel&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;kernel&lt;/span&gt;=C:\\temp\\myCustomKernel&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Sets additional kernel parameters, in this case enabling older Linux base images such as Centos 6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;kernelCommandLine&lt;/span&gt; = vsyscall=emulate&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Sets amount of swap storage space to 8GB, default is 25% of available RAM&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 虚拟内存&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;swap&lt;/span&gt;=&lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;GB&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Sets swapfile path location, default is %USERPROFILE%\AppData\Local\Temp\swap.vhdx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;swapfile&lt;/span&gt;=C:\\temp\\wsl-swap.vhdx&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Disable page reporting so WSL retains all allocated memory claimed from Windows and releases none back when free&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;pageReporting&lt;/span&gt;=&lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Turn off default connection to bind WSL 2 localhost to Windows localhost&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;localhostforwarding&lt;/span&gt;=&lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Disables nested virtualization&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;nestedVirtualization&lt;/span&gt;=&lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Turns on output console showing contents of dmesg when opening a WSL 2 distro for debugging&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;debugConsole&lt;/span&gt;=&lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;打开powershell输入&lt;code&gt;~&lt;/code&gt;切换目录&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;code .wslconfig&lt;/code&gt;编辑配置&lt;/p&gt;
+&lt;figure class=&#34;highlight ini&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs ini&#34;&gt;&lt;span class=&#34;hljs-section&#34;&gt;[wsl2]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;memory&lt;/span&gt;=&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;GB&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;swap&lt;/span&gt;=&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;GB&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;localhostForwarding&lt;/span&gt;=&lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;WSL-配置代理&#34;&gt;&lt;a href=&#34;#WSL-配置代理&#34; class=&#34;headerlink&#34; title=&#34;WSL 配置代理&#34;&gt;&lt;/a&gt;WSL 配置代理&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;获取主机 IP      主机 IP 保存在 &amp;#x2F;etc&amp;#x2F;resolv.conf 中&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;export&lt;/span&gt; hostip=$(&lt;span class=&#34;hljs-built_in&#34;&gt;cat&lt;/span&gt; /etc/resolv.conf |grep -oP &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;(?&amp;lt;=nameserver\ ).*&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;export&lt;/span&gt; https_proxy=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;http://&lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;hostip&amp;#125;&lt;/span&gt;:10881&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;export&lt;/span&gt; http_proxy=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;http://&lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;hostip&amp;#125;&lt;/span&gt;:10881&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;export&lt;/span&gt; http_proxy=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;socks5://&lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;hostip&amp;#125;&lt;/span&gt;:7890&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;export&lt;/span&gt; https_proxy=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;socks5://&lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;hostip&amp;#125;&lt;/span&gt;:7890&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;export&lt;/span&gt; all_proxy=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;socks5://&lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;hostip&amp;#125;&lt;/span&gt;:10880&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;export&lt;/span&gt; all_proxy=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;http://&lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;hostip&amp;#125;&lt;/span&gt;:10881&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;在wsl尝试用&lt;code&gt;export all_proxy&lt;/code&gt;socks5做代理感觉总是调不通, 换成http就好了  不知道是为啥&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wsl-conf-wslconfig配置文件&#34;&gt;&lt;a href=&#34;#wsl-conf-wslconfig配置文件&#34; class=&#34;headerlink&#34; title=&#34;wsl.conf .wslconfig配置文件&#34;&gt;&lt;/a&gt;wsl.conf .wslconfig配置文件&lt;/h2&gt;&lt;p&gt;参考文档:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/zh-cn/windows/wsl/wsl-config&#34;&gt;WSL 中的高级设置配置&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&#34;wsl-conf&#34;&gt;&lt;a href=&#34;#wsl-conf&#34; class=&#34;headerlink&#34; title=&#34;wsl.conf&#34;&gt;&lt;/a&gt;wsl.conf&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;以 &lt;code&gt;/etc&lt;/code&gt; unix 文件的形式存储在分发目录中。&lt;/li&gt;
+&lt;li&gt;用于按分布配置设置。 此文件中配置的设置将仅应用于包含存储此文件的目录的特定 Linux 分发版。&lt;/li&gt;
+&lt;li&gt;可用于版本、WSL 1 或 WSL 2 运行的分发版。&lt;/li&gt;
+&lt;li&gt;若要访问已安装的发行版的 &lt;code&gt;/etc&lt;/code&gt; 目录，请使用发行版的命令行和 &lt;code&gt;cd /&lt;/code&gt; 访问根目录，然后使用 &lt;code&gt;ls&lt;/code&gt; 列出文件或使用 &lt;code&gt;explorer.exe .&lt;/code&gt; 在 Windows 文件资源管理器中查看。 目录路径应如下所示： &lt;code&gt;/etc/wsl.conf&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wslconfig&#34;&gt;&lt;a href=&#34;#wslconfig&#34; class=&#34;headerlink&#34; title=&#34;.wslconfig&#34;&gt;&lt;/a&gt;.wslconfig&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;存储在目录中 &lt;code&gt;%UserProfile%&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;用于跨作为 WSL 2 版本运行的所有已安装 Linux 分发版全局配置设置。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;只能用于 WSL 2 运行的分发&lt;/strong&gt;版。 作为 WSL 1 运行的分发版不会受到此配置的影响，因为它们未作为虚拟机运行。&lt;/li&gt;
+&lt;li&gt;要访问 &lt;code&gt;%UserProfile%&lt;/code&gt; 目录，请在 PowerShell 中使用 &lt;code&gt;cd ~&lt;/code&gt; 访问主目录（通常是用户配置文件 &lt;code&gt;C:\Users\&amp;lt;UserName&amp;gt;&lt;/code&gt;），或者可以打开 Windows 文件资源管理器并在地址栏中输入 &lt;code&gt;%UserProfile%&lt;/code&gt;。 目录路径应如下所示： &lt;code&gt;C:\Users\&amp;lt;UserName&amp;gt;\.wslconfig&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;wsl-conf-的配置-unix&#34;&gt;&lt;a href=&#34;#wsl-conf-的配置-unix&#34; class=&#34;headerlink&#34; title=&#34;wsl.conf 的配置 (unix )&#34;&gt;&lt;/a&gt;wsl.conf 的配置 (unix )&lt;/h3&gt;&lt;p&gt;wsl.conf 文件支持四个部分：&lt;code&gt;automount&lt;/code&gt;、&lt;code&gt;network&lt;/code&gt;、&lt;code&gt;interop&lt;/code&gt;、&lt;code&gt;user&lt;/code&gt; 、&lt;code&gt;[boot]&lt;/code&gt;。 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;配置文件示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Automatically mount Windows drive when the distribution is launched&lt;/span&gt;&lt;br&gt;[automount]&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Set to true will automount fixed drives (C:/ or D:/) with DrvFs under the root directory set above. Set to false means drives won&amp;#x27;t be mounted automatically, but need to be mounted manually or with fstab.&lt;/span&gt;&lt;br&gt;enabled = &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Sets the directory where fixed drives will be automatically mounted. This example changes the mount location, so your C-drive would be /c, rather than the default /mnt/c. &lt;/span&gt;&lt;br&gt;root = /&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# DrvFs-specific options can be specified.  &lt;/span&gt;&lt;br&gt;options = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;metadata,uid=1003,gid=1003,umask=077,fmask=11,case=off&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Sets the `/etc/fstab` file to be processed when a WSL distribution is launched.&lt;/span&gt;&lt;br&gt;mountFsTab = &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Network host settings that enable the DNS server used by WSL 2. This example changes the hostname, sets generateHosts to false, preventing WSL from the default behavior of auto-generating /etc/hosts, and sets generateResolvConf to false, preventing WSL from auto-generating /etc/resolv.conf, so that you can create your own (ie. nameserver 1.1.1.1).&lt;/span&gt;&lt;br&gt;[network]&lt;br&gt;hostname = DemoHost&lt;br&gt;generateHosts = &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;&lt;br&gt;generateResolvConf = &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Set whether WSL supports interop process like launching Windows apps and adding path variables. Setting these to false will block the launch of Windows processes and block adding $PATH environment variables.&lt;/span&gt;&lt;br&gt;[interop]&lt;br&gt;enabled = &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;&lt;br&gt;appendWindowsPath = &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Set the user when launching a distribution with WSL.&lt;/span&gt;&lt;br&gt;[user]&lt;br&gt;default = DemoUser&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Set a command to run when a new WSL instance launches. This example starts the Docker container service.&lt;/span&gt;&lt;br&gt;[boot]&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;command&lt;/span&gt; = service docker start&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h4 id=&#34;自动装载设置-automount&#34;&gt;&lt;a href=&#34;#自动装载设置-automount&#34; class=&#34;headerlink&#34; title=&#34;自动装载设置 automount&#34;&gt;&lt;/a&gt;自动装载设置 automount&lt;/h4&gt;&lt;p&gt;节标签：&lt;code&gt;[automount]&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;key&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;值&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;default&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;enabled&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;boolean&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;是&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;true&lt;/code&gt; 导致固定驱动器（即 &lt;code&gt;C:/&lt;/code&gt; 或 &lt;code&gt;D:/&lt;/code&gt;）自动装载到 DrvFs 中的 &lt;code&gt;/mnt&lt;/code&gt; 下。 &lt;code&gt;false&lt;/code&gt; 表示驱动器不会自动装载，但你仍可以手动或通过 &lt;code&gt;fstab&lt;/code&gt; 装载驱动器。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;mountFsTab&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;boolean&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;是&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;true&lt;/code&gt; 设置启动 WSL 时要处理的 &lt;code&gt;/etc/fstab&lt;/code&gt;。 &amp;#x2F;etc&amp;#x2F;fstab 是可在其中声明其他文件系统的文件，类似于 SMB 共享。 因此，在启动时，可以在 WSL 中自动装载这些文件系统。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;root&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;string&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;/mnt/&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;设置固定驱动器要自动装载到的目录。 默认情况下，此设置设置为 &lt;code&gt;/mnt/&lt;/code&gt;，因此 Windows 文件系统 C 驱动器已装载到 &lt;code&gt;/mnt/c/&lt;/code&gt;。 如果更改为&lt;code&gt;/mnt/``/windir/&lt;/code&gt;，应会看到已装载到&lt;code&gt;/windir/c&lt;/code&gt;的固定 C 驱动器。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;选项&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;逗号分隔的值列表，例如 uid、gid 等，请参阅下面的自动装载选项&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;空字符串&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;下面列出了自动装载选项值，并追加到默认 DrvFs 装载选项字符串。 &lt;strong&gt;只能指定特定于 DrvFs 的选项。&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h4 id=&#34;网络设置-network&#34;&gt;&lt;a href=&#34;#网络设置-network&#34; class=&#34;headerlink&#34; title=&#34;网络设置 network&#34;&gt;&lt;/a&gt;网络设置 network&lt;/h4&gt;&lt;p&gt;节标签：&lt;code&gt;[network]&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;key&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;值&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;default&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;generateHosts&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;boolean&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;true&lt;/code&gt; 将 WSL 设置为生成 &lt;code&gt;/etc/hosts&lt;/code&gt;。 &lt;code&gt;hosts&lt;/code&gt; 文件包含主机名对应的 IP 地址的静态映射。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;generateResolvConf&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;boolean&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;true&lt;/code&gt; 将 WSL 设置为生成 &lt;code&gt;/etc/resolv.conf&lt;/code&gt;。 &lt;code&gt;resolv.conf&lt;/code&gt; 包含能够将给定主机名解析为其 IP 地址的 DNS 列表。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;hostname&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;string&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Windows 主机名&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;设置要用于 WSL 分发的主机名。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h4 id=&#34;互操作设置-interop&#34;&gt;&lt;a href=&#34;#互操作设置-interop&#34; class=&#34;headerlink&#34; title=&#34;互操作设置 interop&#34;&gt;&lt;/a&gt;互操作设置 interop&lt;/h4&gt;&lt;p&gt;节标签：&lt;code&gt;[interop]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;这些选项在预览体验成员内部版本 17713 和更高版本中可用。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;key&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;值&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;default&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;enabled&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;boolean&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;设置此键可确定 WSL 是否支持启动 Windows 进程。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;appendWindowsPath&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;boolean&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;设置此键可确定 WSL 是否会将 Windows 路径元素添加到 $PATH 环境变量。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h4 id=&#34;用户设置-user&#34;&gt;&lt;a href=&#34;#用户设置-user&#34; class=&#34;headerlink&#34; title=&#34;用户设置 user&#34;&gt;&lt;/a&gt;用户设置 user&lt;/h4&gt;&lt;p&gt;节标签：&lt;code&gt;[user]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;这些选项在版本 18980 及更高版本中可用。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;key&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;值&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;default&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;default&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;字符串&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;首次运行时创建的初始用户名&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;设置此键指定在首次启动 WSL 会话时以哪个用户身份运行。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h4 id=&#34;启动设置-boot&#34;&gt;&lt;a href=&#34;#启动设置-boot&#34; class=&#34;headerlink&#34; title=&#34;启动设置 boot&#34;&gt;&lt;/a&gt;启动设置 boot&lt;/h4&gt;&lt;p&gt;启动设置仅适用于 Windows 11 和 Server 2022。&lt;/p&gt;
+&lt;p&gt;节标签：&lt;code&gt;[boot]&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;key&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;值&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;default&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;命令&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;string&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;“”&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;你希望在 WSL 实例启动时运行的命令字符串。 此命令以根用户身份运行。 例如： &lt;code&gt;service docker start&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;wslconfig-的配置-windows&#34;&gt;&lt;a href=&#34;#wslconfig-的配置-windows&#34; class=&#34;headerlink&#34; title=&#34;.wslconfig 的配置 (windows)&#34;&gt;&lt;/a&gt;.wslconfig 的配置 (windows)&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;  全局 &lt;code&gt;.wslconfig&lt;/code&gt; 配置选项仅适用于在 Windows 内部版本 19041 及更高版本中作为 WSL 2 运行的分发版。 请记住，可能需要运行 &lt;code&gt;wsl --shutdown&lt;/code&gt; 来关闭 WSL 2 VM，然后重启 WSL 实例以使这些更改生效。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;配置文件示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Settings apply across all Linux distros running on WSL 2&lt;/span&gt;&lt;br&gt;[wsl2]&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Limits VM memory to use no more than 4 GB, this can be set as whole numbers using GB or MB&lt;/span&gt;&lt;br&gt;memory=4GB &lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Sets the VM to use two virtual processors&lt;/span&gt;&lt;br&gt;processors=2&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Specify a custom Linux kernel to use with your installed distros. The default kernel used can be found at https://github.com/microsoft/WSL2-Linux-Kernel&lt;/span&gt;&lt;br&gt;kernel=C:\\temp\\myCustomKernel&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Sets additional kernel parameters, in this case enabling older Linux base images such as Centos 6&lt;/span&gt;&lt;br&gt;kernelCommandLine = vsyscall=&lt;span class=&#34;hljs-built_in&#34;&gt;emulate&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Sets amount of swap storage space to 8GB, default is 25% of available RAM&lt;/span&gt;&lt;br&gt;swap=8GB&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Sets swapfile path location, default is %USERPROFILE%\AppData\Local\Temp\swap.vhdx&lt;/span&gt;&lt;br&gt;swapfile=C:\\temp\\wsl-swap.vhdx&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Disable page reporting so WSL retains all allocated memory claimed from Windows and releases none back when free&lt;/span&gt;&lt;br&gt;pageReporting=&lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Turn off default connection to bind WSL 2 localhost to Windows localhost&lt;/span&gt;&lt;br&gt;localhostforwarding=&lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Disables nested virtualization&lt;/span&gt;&lt;br&gt;nestedVirtualization=&lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Turns on output console showing contents of dmesg when opening a WSL 2 distro for debugging&lt;/span&gt;&lt;br&gt;debugConsole=&lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;节标签：&lt;code&gt;[wsl2]&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;key&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;值&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;default&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;内核 (kernel)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;字符串&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Microsoft 内置内核提供的收件箱&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;自定义 Linux 内核的绝对 Windows 路径。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;内存&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;大小&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Windows 上总内存的 50% 或 8GB，以较小者为准；在 20175 之前的版本上：Windows 上总内存的 80%&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;要分配给 WSL 2 VM 的内存量。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;处理器&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;数字&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Windows 上相同数量的处理器&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;要分配给 WSL 2 VM 的处理器数量。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;localhostForwarding&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;boolean&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;一个布尔值，用于指定绑定到 WSL 2 VM 中的通配符或 localhost 的端口是否应可通过 &lt;code&gt;localhost:port&lt;/code&gt; 从主机连接。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;kernelCommandLine&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;字符串&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;空白&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;其他内核命令行参数。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;swap&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;大小&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Windows 上 25% 的内存大小四舍五入到最接近的 GB&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;要向 WSL 2 VM 添加的交换空间量，0 表示无交换文件。 交换存储是基于磁盘的 RAM，当内存需求超过硬件设备的限制时使用。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;swapFile&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;字符串&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;%USERPROFILE%\AppData\Local\Temp\swap.vhdx&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;交换虚拟硬盘的绝对 Windows 路径。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;pageReporting&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;boolean&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;默认设置 &lt;code&gt;true&lt;/code&gt; 使 Windows 能够回收分配给 WSL 2 虚拟机的未使用的内存。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;guiApplications&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;boolean*&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;一个布尔值，用于在 WSL 中打开或关闭对 GUI 应用程序 (&lt;a href=&#34;https://github.com/microsoft/wslg&#34;&gt;WSLg&lt;/a&gt;) 的支持。 仅适用于Windows 11。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;debugConsole&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;boolean*&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;一个布尔值，用于在 WSL 2 发行版实例启动时打开显示 &lt;code&gt;dmesg&lt;/code&gt; 内容的输出控制台窗口。 仅适用于Windows 11。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;nestedVirtualization&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;boolean*&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;用于打开或关闭嵌套虚拟化的布尔值，使其他嵌套 VM 能够在 WSL 2 中运行。 仅适用于Windows 11。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;vmIdleTimeout&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;number*&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;60000&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;VM 在关闭之前处于空闲状态的毫秒数。 仅适用于Windows 11。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;具有 &lt;code&gt;path&lt;/code&gt; 值的条目必须是带有转义反斜杠的 Windows 路径，例如：&lt;code&gt;C:\\Temp\\myCustomKernel&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;具有 &lt;code&gt;size&lt;/code&gt; 值的条目必须是后跟单位的大小，例如 &lt;code&gt;8GB&lt;/code&gt; 或 &lt;code&gt;512MB&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;值类型后具有 * 的条目仅在Windows 11可用。&lt;/p&gt;
+&lt;h2 id=&#34;WSL导出与迁移&#34;&gt;&lt;a href=&#34;#WSL导出与迁移&#34; class=&#34;headerlink&#34; title=&#34;WSL导出与迁移&#34;&gt;&lt;/a&gt;WSL导出与迁移&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;   我们可以选择手动安装wsl, 这样我们可以避免将wsl安装在c盘, 手动安装的时候, 将下载下来的&lt;code&gt;&amp;lt;distro&amp;gt;.appx&lt;/code&gt;文件直接解压, 例如将&lt;code&gt;Ubuntu_1604.2019.523.0_x64.appx&lt;/code&gt;解压, 解压出来的文件夹内就包含了&lt;code&gt;ubuntu1604.exe&lt;/code&gt;, 运行他就可以启动wsl, 这样可以避免wsl的迁移.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;查看WSL分发版本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在&lt;code&gt;Windows PowerShell&lt;/code&gt;中输入如下命令, 查看当前子系统的状态和版本信息.&lt;/p&gt;
+&lt;figure class=&#34;highlight ada&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs ada&#34;&gt;wsl -l &lt;span class=&#34;hljs-comment&#34;&gt;--all  -v&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;结果如下:&lt;/p&gt;
+&lt;figure class=&#34;highlight crmsh&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs crmsh&#34;&gt;  NAME      STATE           &lt;span class=&#34;hljs-keyword&#34;&gt;VERSION&lt;/span&gt;&lt;br&gt;* Ubuntu    Running         &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;  Debian    &lt;span class=&#34;hljs-literal&#34;&gt;Stopped&lt;/span&gt;         &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;导出分发版为tar文件&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;递归创建文件夹&lt;/span&gt;&lt;br&gt;mkdir -p d:\system\wsl\ubuntu20.04\&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;进入文件夹&lt;/span&gt;&lt;br&gt;cd d:\system\wsl\ubuntu20.04\&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;导出tar包 到当前目录&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;(如果显示的子系统的`NAME`是带有版本号的话需要注意的是这里第二个参数就要带上参数, 例如`Ubuntu-20.04`)&lt;/span&gt;&lt;br&gt;wsl --export Ubuntu .\ubuntu20.04.tar&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;--export &amp;lt;发行版&amp;gt; &amp;lt;FileName&amp;gt; [选项]&lt;br&gt;        将发行版导出为 tar 文件。&lt;br&gt;        对于标准输出，文件名可以为 -。&lt;br&gt;&lt;br&gt;        选项:&lt;br&gt;            --vhd&lt;br&gt;                指定该发行版应导出为 .vhdx 文件。&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;注销当前分发版&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;wsl --unregister Ubuntu&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;重新导入并安装WSL&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;wsl --import Ubuntu .\ .\ubuntu20.04.tar --version 2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;--import &amp;lt;发行版&amp;gt; &amp;lt;InstallLocation&amp;gt; &amp;lt;FileName&amp;gt; [选项]&lt;br&gt;        将指定的 tar 文件作为新发行版导入。&lt;br&gt;        对于标准输入，文件名可以为 -。&lt;br&gt;&lt;br&gt;        选项:&lt;br&gt;            --version &amp;lt;版本&amp;gt;&lt;br&gt;                指定新发行版要使用的版本。&lt;br&gt;&lt;br&gt;            --vhd&lt;br&gt;                指定提供的文件是 .vhdx 文件，而不是 tar 文件。&lt;br&gt;                此操作会在指定的安装位置复制 .vhdx 文件。&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;设置默认登陆用户为安装时用户名&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  (如果显示的子系统的&lt;code&gt;NAME&lt;/code&gt;是带有版本号的话需要注意的是这里第二个参数就要带上参数, 例如&lt;code&gt;Ubuntu-20.04&lt;/code&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;ubuntu config --default-user Username&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;删除tar文件(可选)&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;rm .\ubuntu20.04.tar&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+</content>
+        <category term="linux" />
+        <category term="windows" />
+        <category term="wsl" />
+        <updated>2021-11-29T05:12:15.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;typora&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 15 Jul 2022 17:23:05 +0800</pubDate>
+        <lastBuildDate>Fri, 15 Jul 2022 17:23:05 +0800</lastBuildDate>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>embedded</category>
+        <category>note</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hex</category>
+        <category>markdown</category>
+        <category>sscanf</category>
+        <category>c/c++</category>
+        <category>osi</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>md5</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>windows</category>
+        <category>makefile</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>机智云</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>ct117e-ex</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>c</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>ms-dos</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>life</category>
+        <category>正则表达式</category>
+        <category>人生</category>
+        <category>心理学</category>
+        <category>cad</category>
+        <category>cat_drive</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>workflow</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>synology</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>j-link</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>jlink</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>tmux</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>rtos</category>
+        <category>rt-thread</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>ucos</category>
+        <category>cortex-a7</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>pwm</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>rtx</category>
+        <category>keil</category>
+        <category>modbus</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/77d62815/</guid>
+            <title>Typora强制升级解决办法</title>
+            <link>https://www.oikiou.top/2022/77d62815/</link>
+            <category>typora</category>
+            <pubDate>Fri, 15 Jul 2022 17:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;问题描述&#34;&gt;&lt;a href=&#34;#问题描述&#34; class=&#34;headerlink&#34; title=&#34;问题描述&#34;&gt;&lt;/a&gt;问题描述&lt;/h1&gt;&lt;p&gt;This beta version of Typora is expired, please download and install a newer version.&lt;/p&gt;
+&lt;p&gt;解决typora强制升级问题&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This beta version of Typora is expired, please download and install a newer version.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;网上一堆的什么改时间改文件只读的办法都不太行, &lt;/p&gt;
+&lt;p&gt;最后找到了改&lt;code&gt;buildtime&lt;/code&gt;的办法成功解决了这个问题, &lt;/p&gt;
+&lt;p&gt;有能力的请支持正版.&lt;/p&gt;
+&lt;p&gt;测试环境是 &lt;code&gt;typora:0.11.18&lt;/code&gt; 成功&lt;/p&gt;
+&lt;h1 id=&#34;详细&#34;&gt;&lt;a href=&#34;#详细&#34; class=&#34;headerlink&#34; title=&#34;详细&#34;&gt;&lt;/a&gt;详细&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.52pojie.cn/thread-1646214-1-1.html&#34;&gt;https://www.52pojie.cn/thread-1646214-1-1.html&lt;/a&gt; (这里可以找到需要换掉的&lt;code&gt;app.asar&lt;/code&gt;文件)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.51cto.com/liangdongchang/5357264&#34;&gt;https://blog.51cto.com/liangdongchang/5357264&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;最简单的操作就是用破解&lt;code&gt;app.asar&lt;/code&gt;文件替换掉原来的文件&lt;/p&gt;
+&lt;p&gt;注意备份, 替换 &lt;code&gt;C:\Program Files\Typora\resources\app.asar&lt;/code&gt;即可&lt;/p&gt;
+&lt;h1 id=&#34;鸣谢&#34;&gt;&lt;a href=&#34;#鸣谢&#34; class=&#34;headerlink&#34; title=&#34;鸣谢&#34;&gt;&lt;/a&gt;鸣谢&lt;/h1&gt;&lt;p&gt;感谢先驱&lt;br&gt;&lt;a href=&#34;https://github.com/fossabot/typoraCracker&#34;&gt;https://github.com/fossabot/typoraCracker&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

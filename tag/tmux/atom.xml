@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;tmux&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2022-09-29T15:57:15.000Z</updated>
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="embedded" />
+    <category term="note" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="hex" />
+    <category term="markdown" />
+    <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="osi" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="md5" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="windows" />
+    <category term="makefile" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="机智云" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="ct117e-ex" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="c" />
+    <category term="c++" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="ms-dos" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="life" />
+    <category term="正则表达式" />
+    <category term="人生" />
+    <category term="心理学" />
+    <category term="cad" />
+    <category term="cat_drive" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="workflow" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="synology" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="j-link" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="jlink" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="tmux" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="rtos" />
+    <category term="rt-thread" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="ucos" />
+    <category term="cortex-a7" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="ap" />
+    <category term="wifi" />
+    <category term="pwm" />
+    <category term="cortex-m3" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="rtx" />
+    <category term="keil" />
+    <category term="modbus" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2022/9d389561/</id>
+        <title>Tmux 终端复用器(Terminal Multiplexer)</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/9d389561/"/>
+        <content type="html">&lt;h1 id=&#34;tmux-终端复用器-terminal-multiplexer&#34;&gt;&lt;a href=&#34;#tmux-终端复用器-terminal-multiplexer&#34; class=&#34;headerlink&#34; title=&#34;tmux 终端复用器(terminal multiplexer)&#34;&gt;&lt;/a&gt;tmux 终端复用器(terminal multiplexer)&lt;/h1&gt;&lt;p&gt;☆为重要内容&lt;/p&gt;
+&lt;h1 id=&#34;Tmux-简介&#34;&gt;&lt;a href=&#34;#Tmux-简介&#34; class=&#34;headerlink&#34; title=&#34;Tmux 简介&#34;&gt;&lt;/a&gt;Tmux 简介&lt;/h1&gt;&lt;p&gt;tmux 终端复用器(terminal multiplexer)&lt;/p&gt;
+&lt;h2 id=&#34;tmux-能干什么&#34;&gt;&lt;a href=&#34;#tmux-能干什么&#34; class=&#34;headerlink&#34; title=&#34;tmux 能干什么&#34;&gt;&lt;/a&gt;tmux 能干什么&lt;/h2&gt;&lt;p&gt;命令行的典型使用方式是，打开一个终端窗口（terminal window，以下简称”窗口”），在里面输入命令。&lt;strong&gt;用户与计算机的这种临时的交互，称为一次”会话”（session）&lt;/strong&gt; 。&lt;/p&gt;
+&lt;p&gt;会话的一个重要特点是，窗口与其中启动的进程是&lt;a href=&#34;https://www.ruanyifeng.com/blog/2016/02/linux-daemon.html&#34;&gt;连在一起&lt;/a&gt;的。打开窗口，会话开始；关闭窗口，会话结束，会话内部的进程也会随之终止，不管有没有运行完。&lt;/p&gt;
+&lt;p&gt;一个典型的例子就是，&lt;a href=&#34;https://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html&#34;&gt;SSH 登录&lt;/a&gt;远程计算机，打开一个远程窗口执行一个命令例如&lt;code&gt;iperf3 -s&lt;/code&gt;。这时，关掉SSH，会发现&lt;code&gt;iperf3&lt;/code&gt;进程也被关掉了。这是因为&lt;code&gt;iperf3&lt;/code&gt;属于SSH的子进程，SSH作为父进程，如果父进程关掉了，子进程也就关掉了。&lt;/p&gt;
+&lt;p&gt;为了解决这个问题，会话与窗口可以”解绑”：窗口关闭时，会话并不终止，而是继续运行，等到以后需要的时候，再让会话”绑定”其他窗口。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tmux 就是会话与窗口的”解绑”工具，将它们彻底分离。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;它允许在单个窗口中，同时访问多个会话。这对于同时运行多个命令行程序很有用。&lt;/li&gt;
+&lt;li&gt;它可以让新窗口”接入”已经存在的会话。&lt;/li&gt;
+&lt;li&gt;它允许每个会话有多个连接窗口，因此可以多人实时共享会话。&lt;/li&gt;
+&lt;li&gt;它还支持窗口任意的垂直和水平拆分。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;类似的终端复用器还有 GNU Screen。Tmux 与它功能相似，但是更易用，也更强大。&lt;/p&gt;
+&lt;h1 id=&#34;基本使用&#34;&gt;&lt;a href=&#34;#基本使用&#34; class=&#34;headerlink&#34; title=&#34;基本使用&#34;&gt;&lt;/a&gt;基本使用&lt;/h1&gt;&lt;p&gt;Tmux 一般需要自己安装。&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Ubuntu 或 Debian&lt;/span&gt;&lt;br&gt;$ sudo apt-get install tmux&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 启动&lt;/span&gt;&lt;br&gt;$ tmux&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 退出&lt;/span&gt;&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;exit&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;启动后底部&lt;u&gt;左边&lt;/u&gt;是&lt;strong&gt;窗口&lt;/strong&gt;信息（编号和名称），&lt;u&gt;右侧&lt;/u&gt;是系统信息。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/9d389561/image-20220929235001871.png&#34; alt=&#34;image-20220929235001871&#34;&gt;&lt;/p&gt;
+&lt;p&gt;按下&lt;code&gt;Ctrl+d&lt;/code&gt;或者显式输入&lt;code&gt;exit&lt;/code&gt;命令，就可以退出 Tmux 窗口。&lt;/p&gt;
+&lt;h2 id=&#34;前缀键☆&#34;&gt;&lt;a href=&#34;#前缀键☆&#34; class=&#34;headerlink&#34; title=&#34;前缀键☆&#34;&gt;&lt;/a&gt;&lt;strong&gt;前缀键&lt;/strong&gt;☆&lt;/h2&gt;&lt;p&gt;Tmux 窗口有大量的快捷键。所有快捷键都要通过前缀键唤起。默认的前缀键是&lt;code&gt;Ctrl+b&lt;/code&gt;，即先按下&lt;code&gt;Ctrl+b&lt;/code&gt;，快捷键才会生效。&lt;/p&gt;
+&lt;p&gt;举例来说，帮助命令的快捷键是&lt;code&gt;Ctrl+b ?&lt;/code&gt;。它的用法是，在 Tmux 窗口中，先按下&lt;code&gt;Ctrl+b&lt;/code&gt;，再按下&lt;code&gt;?&lt;/code&gt;，就会显示帮助信息。&lt;/p&gt;
+&lt;p&gt;然后，按下 ESC 键或&lt;code&gt;q&lt;/code&gt;键，就可以退出帮助。&lt;/p&gt;
+&lt;h2 id=&#34;会话-窗格-窗口-的概念☆&#34;&gt;&lt;a href=&#34;#会话-窗格-窗口-的概念☆&#34; class=&#34;headerlink&#34; title=&#34;会话  窗格  窗口  的概念☆&#34;&gt;&lt;/a&gt;&lt;strong&gt;会话  窗格  窗口  的概念&lt;/strong&gt;☆&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  会话 session&lt;br&gt;  窗口 windows&lt;br&gt;  窗格 pane&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;tmux new&lt;/code&gt;的是会话, 会话可以包括多个窗口, 窗口内可以有多个窗格&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;tmux ls&lt;/code&gt; 列出的是会话&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/9d389561/image-20220930003505311.png&#34; alt=&#34;image-20220930003505311&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;会话的管理&#34;&gt;&lt;a href=&#34;#会话的管理&#34; class=&#34;headerlink&#34; title=&#34;会话的管理&#34;&gt;&lt;/a&gt;会话的管理&lt;/h1&gt;&lt;h2 id=&#34;快捷键☆&#34;&gt;&lt;a href=&#34;#快捷键☆&#34; class=&#34;headerlink&#34; title=&#34;快捷键☆&#34;&gt;&lt;/a&gt;快捷键☆&lt;/h2&gt;&lt;p&gt;下面是一些会话相关的快捷键。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b d&lt;/code&gt;：分离当前会话。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b s&lt;/code&gt;：列出所有会话。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b $&lt;/code&gt;：重命名当前会话。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;3-1-new新建会话☆&#34;&gt;&lt;a href=&#34;#3-1-new新建会话☆&#34; class=&#34;headerlink&#34; title=&#34;3.1 new新建会话☆&#34;&gt;&lt;/a&gt;3.1 new新建会话☆&lt;/h2&gt;&lt;p&gt;第一个启动的 Tmux 窗口，编号是&lt;code&gt;0&lt;/code&gt;，第二个窗口的编号是&lt;code&gt;1&lt;/code&gt;，以此类推。这些窗口对应的会话，就是 0 号会话、1 号会话。&lt;/p&gt;
+&lt;p&gt;使用编号区分会话，不太直观，更好的方法是为会话起名。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 直接新建一个&lt;/span&gt;&lt;br&gt;$ tmux&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 新建并设置一个名字&lt;/span&gt;&lt;br&gt;$ tmux new -s &amp;lt;session-name&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;上面命令新建一个指定名称的会话。&lt;/p&gt;
+&lt;p&gt;在&lt;code&gt;tmux&lt;/code&gt;内应该是无法执行这个指令的, 需要分屏参考下面的窗格操作章节.&lt;/p&gt;
+&lt;h2 id=&#34;3-2-detach分离会话☆&#34;&gt;&lt;a href=&#34;#3-2-detach分离会话☆&#34; class=&#34;headerlink&#34; title=&#34;3.2 detach分离会话☆&#34;&gt;&lt;/a&gt;3.2 detach分离会话☆&lt;/h2&gt;&lt;p&gt;在 Tmux 窗口中，按下&lt;code&gt;Ctrl+b d&lt;/code&gt;或者输入&lt;code&gt;tmux detach&lt;/code&gt;命令，就会将当前会话与窗口分离。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ tmux detach&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;上面命令执行后，就会退出当前 Tmux 窗口，但是会话和里面的进程仍然在后台运行。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;tmux ls&lt;/code&gt;命令可以查看当前所有的 Tmux 会话。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ tmux &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# or&lt;/span&gt;&lt;br&gt;$ tmux list-session&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;3-3-attach接入会话☆&#34;&gt;&lt;a href=&#34;#3-3-attach接入会话☆&#34; class=&#34;headerlink&#34; title=&#34;3.3 attach接入会话☆&#34;&gt;&lt;/a&gt;3.3 attach接入会话☆&lt;/h2&gt;&lt;p&gt;&lt;code&gt;tmux attach&lt;/code&gt;命令用于重新接入某个已存在的会话。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 使用会话编号&lt;/span&gt;&lt;br&gt;$ tmux attach -t 0&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 使用会话名称&lt;/span&gt;&lt;br&gt;$ tmux attach -t &amp;lt;session-name&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;3-4-kill-session杀死会话☆&#34;&gt;&lt;a href=&#34;#3-4-kill-session杀死会话☆&#34; class=&#34;headerlink&#34; title=&#34;3.4 kill-session杀死会话☆&#34;&gt;&lt;/a&gt;3.4 kill-session杀死会话☆&lt;/h2&gt;&lt;p&gt;&lt;code&gt;tmux kill-session&lt;/code&gt;命令用于杀死某个会话。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 使用会话编号&lt;/span&gt;&lt;br&gt;$ tmux kill-session -t 0&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 使用会话名称&lt;/span&gt;&lt;br&gt;$ tmux kill-session -t &amp;lt;session-name&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;3-5-切换会话&#34;&gt;&lt;a href=&#34;#3-5-切换会话&#34; class=&#34;headerlink&#34; title=&#34;3.5 切换会话&#34;&gt;&lt;/a&gt;3.5 切换会话&lt;/h2&gt;&lt;p&gt;&lt;code&gt;tmux switch&lt;/code&gt;命令用于切换会话。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 使用会话编号&lt;/span&gt;&lt;br&gt;$ tmux switch -t 0&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 使用会话名称&lt;/span&gt;&lt;br&gt;$ tmux switch -t &amp;lt;session-name&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;3-6-重命名会话&#34;&gt;&lt;a href=&#34;#3-6-重命名会话&#34; class=&#34;headerlink&#34; title=&#34;3.6 重命名会话&#34;&gt;&lt;/a&gt;3.6 重命名会话&lt;/h2&gt;&lt;p&gt;&lt;code&gt;tmux rename-session&lt;/code&gt;命令用于重命名会话。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ tmux rename-session -t 0 &amp;lt;new-name&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;上面命令将0号会话重命名。&lt;/p&gt;
+&lt;h1 id=&#34;窗格操作&#34;&gt;&lt;a href=&#34;#窗格操作&#34; class=&#34;headerlink&#34; title=&#34;窗格操作&#34;&gt;&lt;/a&gt;窗格操作&lt;/h1&gt;&lt;h2 id=&#34;快捷键☆-1&#34;&gt;&lt;a href=&#34;#快捷键☆-1&#34; class=&#34;headerlink&#34; title=&#34;快捷键☆&#34;&gt;&lt;/a&gt;快捷键☆&lt;/h2&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b %&lt;/code&gt;：划分左右两个窗格。☆&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b &amp;quot;&lt;/code&gt;：划分上下两个窗格。☆&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b &amp;lt;arrow key&amp;gt;&lt;/code&gt;：光标切换到其他窗格。&lt;code&gt;&amp;lt;arrow key&amp;gt;&lt;/code&gt;是指向要切换到的窗格的方向键，比如切换到下方窗格，就按方向键&lt;code&gt;↓&lt;/code&gt;。☆&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b ;&lt;/code&gt;：光标切换到上一个窗格。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b o&lt;/code&gt;：光标切换到下一个窗格。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b &amp;#123;&lt;/code&gt;：当前窗格与上一个窗格交换位置。☆&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b &amp;#125;&lt;/code&gt;：当前窗格与下一个窗格交换位置。☆&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b Ctrl+o&lt;/code&gt;：所有窗格向前移动一个位置，第一个窗格变成最后一个窗格。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b Alt+o&lt;/code&gt;：所有窗格向后移动一个位置，最后一个窗格变成第一个窗格。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b x&lt;/code&gt;：关闭当前窗格。☆&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b !&lt;/code&gt;：将当前窗格拆分为一个独立窗口。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b z&lt;/code&gt;：当前窗格全屏显示，再使用一次会变回原来大小。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b Ctrl+&amp;lt;arrow key&amp;gt;&lt;/code&gt;：按箭头方向调整窗格大小。☆&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b q&lt;/code&gt;：显示窗格编号。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;5-1-划分窗格&#34;&gt;&lt;a href=&#34;#5-1-划分窗格&#34; class=&#34;headerlink&#34; title=&#34;5.1 划分窗格&#34;&gt;&lt;/a&gt;5.1 划分窗格&lt;/h2&gt;&lt;p&gt;&lt;code&gt;tmux split-window&lt;/code&gt;命令用来划分窗格。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 划分上下两个窗格&lt;/span&gt;&lt;br&gt;$ tmux split-window&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 划分左右两个窗格&lt;/span&gt;&lt;br&gt;$ tmux split-window -h&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;5-2-移动光标&#34;&gt;&lt;a href=&#34;#5-2-移动光标&#34; class=&#34;headerlink&#34; title=&#34;5.2 移动光标&#34;&gt;&lt;/a&gt;5.2 移动光标&lt;/h2&gt;&lt;p&gt;&lt;code&gt;tmux select-pane&lt;/code&gt;命令用来移动光标位置。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 光标切换到上方窗格&lt;/span&gt;&lt;br&gt;$ tmux select-pane -U&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 光标切换到下方窗格&lt;/span&gt;&lt;br&gt;$ tmux select-pane -D&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 光标切换到左边窗格&lt;/span&gt;&lt;br&gt;$ tmux select-pane -L&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 光标切换到右边窗格&lt;/span&gt;&lt;br&gt;$ tmux select-pane -R&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;5-3-交换窗格位置&#34;&gt;&lt;a href=&#34;#5-3-交换窗格位置&#34; class=&#34;headerlink&#34; title=&#34;5.3 交换窗格位置&#34;&gt;&lt;/a&gt;5.3 交换窗格位置&lt;/h2&gt;&lt;p&gt;&lt;code&gt;tmux swap-pane&lt;/code&gt;命令用来交换窗格位置。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 当前窗格上移&lt;/span&gt;&lt;br&gt;$ tmux swap-pane -U&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 当前窗格下移&lt;/span&gt;&lt;br&gt;$ tmux swap-pane -D&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;窗口管理&#34;&gt;&lt;a href=&#34;#窗口管理&#34; class=&#34;headerlink&#34; title=&#34;窗口管理&#34;&gt;&lt;/a&gt;窗口管理&lt;/h1&gt;&lt;h2 id=&#34;快捷键☆-2&#34;&gt;&lt;a href=&#34;#快捷键☆-2&#34; class=&#34;headerlink&#34; title=&#34;快捷键☆&#34;&gt;&lt;/a&gt;快捷键☆&lt;/h2&gt;&lt;p&gt;下面是一些窗口操作的快捷键。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b c&lt;/code&gt;：创建一个新窗口，状态栏会显示多个窗口的信息。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b p&lt;/code&gt;：切换到上一个窗口（按照状态栏上的顺序）。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b n&lt;/code&gt;：切换到下一个窗口。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b &amp;lt;number&amp;gt;&lt;/code&gt;：切换到指定编号的窗口，其中的&lt;code&gt;&amp;lt;number&amp;gt;&lt;/code&gt;是状态栏上的窗口编号。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b w&lt;/code&gt;：从列表中选择窗口。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+b ,&lt;/code&gt;：窗口重命名。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;6-1-新建窗口&#34;&gt;&lt;a href=&#34;#6-1-新建窗口&#34; class=&#34;headerlink&#34; title=&#34;6.1 新建窗口&#34;&gt;&lt;/a&gt;6.1 新建窗口&lt;/h2&gt;&lt;p&gt;&lt;code&gt;tmux new-window&lt;/code&gt;命令用来创建新窗口。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ tmux new-window&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 新建一个指定名称的窗口&lt;/span&gt;&lt;br&gt;$ tmux new-window -n &amp;lt;window-name&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;6-2-切换窗口&#34;&gt;&lt;a href=&#34;#6-2-切换窗口&#34; class=&#34;headerlink&#34; title=&#34;6.2 切换窗口&#34;&gt;&lt;/a&gt;6.2 切换窗口&lt;/h2&gt;&lt;p&gt;&lt;code&gt;tmux select-window&lt;/code&gt;命令用来切换窗口。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 切换到指定编号的窗口&lt;/span&gt;&lt;br&gt;$ tmux select-window -t &amp;lt;window-number&amp;gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 切换到指定名称的窗口&lt;/span&gt;&lt;br&gt;$ tmux select-window -t &amp;lt;window-name&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;6-3-重命名窗口&#34;&gt;&lt;a href=&#34;#6-3-重命名窗口&#34; class=&#34;headerlink&#34; title=&#34;6.3 重命名窗口&#34;&gt;&lt;/a&gt;6.3 重命名窗口&lt;/h2&gt;&lt;p&gt;&lt;code&gt;tmux rename-window&lt;/code&gt;命令用于为当前窗口起名（或重命名）。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ tmux rename-window &amp;lt;new-name&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;一些其他的快捷键&#34;&gt;&lt;a href=&#34;#一些其他的快捷键&#34; class=&#34;headerlink&#34; title=&#34;一些其他的快捷键&#34;&gt;&lt;/a&gt;一些其他的快捷键&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 列出所有快捷键，及其对应的 Tmux 命令&lt;/span&gt;&lt;br&gt;$ tmux list-keys&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 列出所有 Tmux 命令及其参数&lt;/span&gt;&lt;br&gt;$ tmux list-commands&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 列出当前所有 Tmux 会话的信息&lt;/span&gt;&lt;br&gt;$ tmux info&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 重新加载当前的 Tmux 配置&lt;/span&gt;&lt;br&gt;$ tmux source-file ~/.tmux.conf&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;开启鼠标支持&#34;&gt;&lt;a href=&#34;#开启鼠标支持&#34; class=&#34;headerlink&#34; title=&#34;开启鼠标支持&#34;&gt;&lt;/a&gt;开启鼠标支持&lt;/h2&gt;&lt;p&gt;tmux2 以上版本和 tmux2 以上版本有所不同&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  查看版本&lt;code&gt;tmux -V&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;  注意大写&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;tmux2-以上&#34;&gt;&lt;a href=&#34;#tmux2-以上&#34; class=&#34;headerlink&#34; title=&#34;tmux2 以上&#34;&gt;&lt;/a&gt;tmux2 以上&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;写入配置文件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在&lt;code&gt;~/.tmux.conf&lt;/code&gt;中加入：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Enable mouse mode (tmux 2.1 and above)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; -g mouse on&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Mouse based copy&lt;/span&gt;&lt;br&gt;bind-key -T copy-mode-vi MouseDragEnd1Pane send -X copy-pipe-and-cancel &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;reattach-to-user-namespace pbcopy&amp;quot;&lt;/span&gt;&lt;br&gt;bind-key -T copy-mode MouseDragEnd1Pane send -X copy-pipe-and-cancel &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;reattach-to-user-namespace pbcopy&amp;quot;&lt;/span&gt; &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;临时使用&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;按完前缀ctrl+B后，再按冒号：进入&lt;code&gt;命令行&lt;/code&gt;模式，输入&lt;code&gt;set -g mouse on&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;tmux2-以下&#34;&gt;&lt;a href=&#34;#tmux2-以下&#34; class=&#34;headerlink&#34; title=&#34;tmux2 以下&#34;&gt;&lt;/a&gt;tmux2 以下&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;写入配置文件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在&lt;code&gt;~/.tmux.conf&lt;/code&gt;中加入：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;setw -g mouse-resize-pane on&lt;br&gt;setw -g mouse-select-pane on&lt;br&gt;setw -g mouse-select-window on&lt;br&gt;setw -g mode-mouse on&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  这几行的作用分别是:&lt;br&gt;  开启用鼠标拖动调节pane的大小（拖动位置是pane之间的分隔线）&lt;br&gt;  开启用鼠标点击pane来激活该pane&lt;br&gt;  开启用鼠标点击来切换活动window（点击位置是状态栏的窗口名称）&lt;br&gt;  开启window&amp;#x2F;pane里面的鼠标支持（也即可以用鼠标滚轮回滚显示窗口内容，此时还可以用鼠标选取文本）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/&#34;&gt;A Quick and Easy Guide to tmux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmiessler.com/study/tmux/&#34;&gt;Tactical tmux: The 10 Most Important Commands&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxize.com/post/getting-started-with-tmux/&#34;&gt;Getting started with Tmux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ruanyifeng.com/blog/2019/10/tmux.html&#34;&gt;阮一峰&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="linux" />
+        <category term="tmux" />
+        <updated>2022-09-29T15:57:15.000Z</updated>
+    </entry>
+</feed>

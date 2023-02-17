@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"typora\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2022/77d62815/",
+            "url": "https://www.oikiou.top/2022/77d62815/",
+            "title": "Typora强制升级解决办法",
+            "date_published": "2022-07-15T09:23:05.000Z",
+            "content_html": "<h1 id=\"问题描述\"><a href=\"#问题描述\" class=\"headerlink\" title=\"问题描述\"></a>问题描述</h1><p>This beta version of Typora is expired, please download and install a newer version.</p>\n<p>解决typora强制升级问题</p>\n<blockquote>\n<p>This beta version of Typora is expired, please download and install a newer version.</p>\n</blockquote>\n<p>网上一堆的什么改时间改文件只读的办法都不太行, </p>\n<p>最后找到了改<code>buildtime</code>的办法成功解决了这个问题, </p>\n<p>有能力的请支持正版.</p>\n<p>测试环境是 <code>typora:0.11.18</code> 成功</p>\n<h1 id=\"详细\"><a href=\"#详细\" class=\"headerlink\" title=\"详细\"></a>详细</h1><blockquote>\n<p><a href=\"https://www.52pojie.cn/thread-1646214-1-1.html\">https://www.52pojie.cn/thread-1646214-1-1.html</a> (这里可以找到需要换掉的<code>app.asar</code>文件)</p>\n<p><a href=\"https://blog.51cto.com/liangdongchang/5357264\">https://blog.51cto.com/liangdongchang/5357264</a></p>\n</blockquote>\n<p>最简单的操作就是用破解<code>app.asar</code>文件替换掉原来的文件</p>\n<p>注意备份, 替换 <code>C:\\Program Files\\Typora\\resources\\app.asar</code>即可</p>\n<h1 id=\"鸣谢\"><a href=\"#鸣谢\" class=\"headerlink\" title=\"鸣谢\"></a>鸣谢</h1><p>感谢先驱<br><a href=\"https://github.com/fossabot/typoraCracker\">https://github.com/fossabot/typoraCracker</a></p>\n",
+            "tags": [
+                "typora"
+            ]
+        }
+    ]
+}

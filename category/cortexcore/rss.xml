@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;cortexcore&#34; category</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 02 Jul 2021 16:33:15 +0800</pubDate>
+        <lastBuildDate>Fri, 02 Jul 2021 16:33:15 +0800</lastBuildDate>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>embedded</category>
+        <category>note</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hex</category>
+        <category>markdown</category>
+        <category>sscanf</category>
+        <category>c/c++</category>
+        <category>osi</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>md5</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>windows</category>
+        <category>makefile</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>机智云</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>ct117e-ex</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>c</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>ms-dos</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>life</category>
+        <category>正则表达式</category>
+        <category>人生</category>
+        <category>心理学</category>
+        <category>cad</category>
+        <category>cat_drive</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>workflow</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>synology</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>j-link</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>jlink</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>tmux</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>rtos</category>
+        <category>rt-thread</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>ucos</category>
+        <category>cortex-a7</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>pwm</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>rtx</category>
+        <category>keil</category>
+        <category>modbus</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/da01e608/</guid>
+            <title>Cortex-A7 基础</title>
+            <link>https://www.oikiou.top/2021/da01e608/</link>
+            <category>cortex-a7</category>
+            <pubDate>Fri, 02 Jul 2021 16:33:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;简介&#34;&gt;&lt;a href=&#34;#简介&#34; class=&#34;headerlink&#34; title=&#34;简介&#34;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;p&gt;Cortex-A7 MPCore &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1-4core&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cortex-A15(big)+Cortex-A7(LITTLE)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;L1 Cache 8,16,32,64KB&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;L2 Choice&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cortex-A7 MPCore 基于 ARMv7-A&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SIMDv2 扩展整形和浮点向量&lt;/li&gt;
+&lt;li&gt;VFPv4 高性能单双精度浮点指令&lt;/li&gt;
+&lt;li&gt;LPAE 40bit寻址 最大1TB内存&lt;/li&gt;
+&lt;li&gt;硬件虚拟化&lt;/li&gt;
+&lt;li&gt;NEON 多媒体、信号处理加速&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;运行模式&#34;&gt;&lt;a href=&#34;#运行模式&#34; class=&#34;headerlink&#34; title=&#34;运行模式&#34;&gt;&lt;/a&gt;运行模式&lt;/h1&gt;&lt;p&gt;Cortex-A7处理器有 9种处理模式，除了 User(USR)用户模式以外，其它 8 种运行模式都是特权模式。  &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;模式&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;User(USR)&lt;/td&gt;
+&lt;td&gt;用户模式，非特权大部分程序运行的时候就处于此。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FIQ&lt;/td&gt;
+&lt;td&gt;快速中断模式，进入 FIQ 中断异常&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;IRQ&lt;/td&gt;
+&lt;td&gt;一般中断模式。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Supervisor(SVC)&lt;/td&gt;
+&lt;td&gt;超级管理员模式，特权模式，供操作系统使用。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Monitor(MON)&lt;/td&gt;
+&lt;td&gt;这个模式用于安全扩展模式。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Abort(ABT)&lt;/td&gt;
+&lt;td&gt;数据访问终止模式，用于虚拟存储以及存储保护。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hyp(HYP)&lt;/td&gt;
+&lt;td&gt;用于虚拟化扩展。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Undef(UND)&lt;/td&gt;
+&lt;td&gt;未定义指令终止模式。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;System(SYS)&lt;/td&gt;
+&lt;td&gt;系统模式，用于运行特权级的操作系统任务&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;寄存器&#34;&gt;&lt;a href=&#34;#寄存器&#34; class=&#34;headerlink&#34; title=&#34;寄存器&#34;&gt;&lt;/a&gt;寄存器&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/2021/da01e608/image-20210702163336723.png&#34; alt=&#34;image-20210702163336723&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;暗色代表没有物理寄存器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/da01e608/image-20210702163355713.png&#34; alt=&#34;image-20210702163355713&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;CPSR&#34;&gt;&lt;a href=&#34;#CPSR&#34; class=&#34;headerlink&#34; title=&#34;CPSR&#34;&gt;&lt;/a&gt;CPSR&lt;/h2&gt;&lt;p&gt;CPSR 是当前程序状态寄存器，该寄存器包含了条件标志位、中断禁止位、当前处理器模式标志&lt;br&gt;等一些状态位以及一些控制位。  &lt;/p&gt;
+&lt;p&gt;SPSR(备份程序状态寄存器)  备份CPSR的&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/da01e608/image-20210702164501790.png&#34; alt=&#34;image-20210702164501790&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;N(bit31)：当两个补码表示的 有符号整数运算的时候， N&amp;#x3D;1 表示运算对的结果为负数， N&amp;#x3D;0表示结果为正数。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Z(bit30)： Z&amp;#x3D;1 表示运算结果为零， Z&amp;#x3D;0 表示运算结果不为零，对于 CMP 指令， Z&amp;#x3D;1 表示进行比较的两个数大小相等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;C(bit29)：在加法指令中，当结果产生了进位，则 C&amp;#x3D;1，表示无符号数运算发生上溢，其它情况下 C&amp;#x3D;0。在减法指令中，当运算中发生借位，则 C&amp;#x3D;0，表示无符号数运算发生下溢，其它情况下 C&amp;#x3D;1。对于包含移位操作的非加&amp;#x2F;减法运算指令， C 中包含最后一次溢出的位的数值，对于其它非加&amp;#x2F;减运算指令， C 位的值通常不受影响。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;V(bit28)： 对于加&amp;#x2F;减法运算指令，当操作数和运算结果表示为二进制的补码表示的带符号数时， V&amp;#x3D;1 表示符号位溢出，通常其他位不影响 V 位。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Q(bit27)： 仅 ARM v5TE_J 架构支持，表示饱和状态， Q&amp;#x3D;1 表示累积饱和， Q&amp;#x3D;0 表示累积不饱和。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;IT[1:0].(bit26:25)： 和 IT[7:2].(bit15:bit10)一起组成 IT[7:0]，作为 IF-THEN 指令执行状态。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;J(bit24)： 仅 ARM_v5TE-J 架构支持， J&amp;#x3D;1 表示处于 Jazelle 状态，此位通常和 T(bit5)位一起表示当前所使用的指令集：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;J&lt;/th&gt;
+&lt;th&gt;T&lt;/th&gt;
+&lt;th&gt;bref&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;ARM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Thumb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;ThumbEE&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;Jazelle&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;GE[3:0].(bit19:16)： SIMD 指令有效，大于或等于。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;IT[7:2].(bit15:10)： 参考 IT[1:0]。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;E(bit9)： 大小端控制位， E&amp;#x3D;1 表示大端模式， E&amp;#x3D;0 表示小端模式。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A(bit8)： 禁止异步中断位， A&amp;#x3D;1 表示禁止异步中断。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I(bit7)： I&amp;#x3D;1 禁止 IRQ， I&amp;#x3D;0 使能 IRQ。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;F(bit6)： F&amp;#x3D;1 禁止 FIQ， F&amp;#x3D;0 使能 FIQ。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;T(bit5)： 控制指令执行状态，表明本指令是 ARM 指令还是 Thumb 指令，通常和 J(bit24)一起表明指令类型，参考 J(bit24)位。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;M[4:0]： 处理器模式控制位：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;M[4:0]&lt;/th&gt;
+&lt;th&gt;CPU Mode&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;10000&lt;/td&gt;
+&lt;td&gt;User 模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10001&lt;/td&gt;
+&lt;td&gt;FIQ 模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10010&lt;/td&gt;
+&lt;td&gt;IRQ 模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10011&lt;/td&gt;
+&lt;td&gt;Supervisor(SVC)模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10110&lt;/td&gt;
+&lt;td&gt;Monitor(MON)模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10111&lt;/td&gt;
+&lt;td&gt;Abort(ABT)模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11010&lt;/td&gt;
+&lt;td&gt;Hyp(HYP)模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11011&lt;/td&gt;
+&lt;td&gt;Undef(UND)模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11111&lt;/td&gt;
+&lt;td&gt;System(SYS)模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;​    &lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2020/2651f4ca/</guid>
+            <title>Cortex-M3基础</title>
+            <link>https://www.oikiou.top/2020/2651f4ca/</link>
+            <category>cortex-m3</category>
+            <pubDate>Fri, 30 Oct 2020 19:08:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;Cortex-M3基础&#34;&gt;&lt;a href=&#34;#Cortex-M3基础&#34; class=&#34;headerlink&#34; title=&#34;Cortex-M3基础&#34;&gt;&lt;/a&gt;Cortex-M3基础&lt;/h1&gt;&lt;h2 id=&#34;寄存器组&#34;&gt;&lt;a href=&#34;#寄存器组&#34; class=&#34;headerlink&#34; title=&#34;寄存器组&#34;&gt;&lt;/a&gt;寄存器组&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2020/2651f4ca/image-20201030190843098.png&#34; alt=&#34;image-20201030190843098&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;堆栈指针&#34;&gt;&lt;a href=&#34;#堆栈指针&#34; class=&#34;headerlink&#34; title=&#34;堆栈指针&#34;&gt;&lt;/a&gt;堆栈指针&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;R13在同一时间只有一个可见，这就是所谓的“banked”寄存器。R13 作为堆栈指针寄存器 (Stack Pointer，SP)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;主堆栈指针（MSP）：复位后缺省使用的堆栈指针，用于操作系统内核以及异常处理例程（包&lt;br&gt;括中断服务例程）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;进程堆栈指针（PSP）：由用户的应用程序代码使用。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;连接寄存器&#34;&gt;&lt;a href=&#34;#连接寄存器&#34; class=&#34;headerlink&#34; title=&#34;连接寄存器&#34;&gt;&lt;/a&gt;连接寄存器&lt;/h3&gt;&lt;p&gt;R14 作为连接寄存器 (Link Register，LR)，当呼叫(调用)一个子程序时，由R14 存储返回地址。&lt;/p&gt;
+&lt;h3 id=&#34;程序计数寄存器&#34;&gt;&lt;a href=&#34;#程序计数寄存器&#34; class=&#34;headerlink&#34; title=&#34;程序计数寄存器&#34;&gt;&lt;/a&gt;程序计数寄存器&lt;/h3&gt;&lt;p&gt;R15 作为程序计数器 (Program Counter，PC)，指向当前的程序地址。如果修改它的值，就能改变程序的执行流。&lt;/p&gt;
+&lt;h2 id=&#34;特殊功能寄存器&#34;&gt;&lt;a href=&#34;#特殊功能寄存器&#34; class=&#34;headerlink&#34; title=&#34;特殊功能寄存器&#34;&gt;&lt;/a&gt;特殊功能寄存器&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2020/2651f4ca/image-20201030192111032.png&#34; alt=&#34;image-20201030192111032&#34;&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;寄存器&lt;/th&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;xPSR&lt;/td&gt;
+&lt;td&gt;记录ALU 标志（0 标志，进位标志，负数标志，溢出标志），执行状态，&lt;strong&gt;以及当前正服务的中断号&lt;/strong&gt;。(保存算术与逻辑标志，例如负数标志，零结果标志，溢出标志等等)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PRIMASK&lt;/td&gt;
+&lt;td&gt;除能所有的中断，不可屏蔽中断（NMI）不受影响。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FAULTMASK&lt;/td&gt;
+&lt;td&gt;除能所有的fault——NMI 依然不受影响，而且被除能的faults 会“上访”，见后续章节的叙述。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;BASEPRI&lt;/td&gt;
+&lt;td&gt;除能所有优先级不高于某个具体数值的中断。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CONTROL&lt;/td&gt;
+&lt;td&gt;定义特权状态（见后续章节对特权的叙述），并且决定使用哪一个堆栈指针。(如果是具有浮点单元的 Cortex-M4 或者 Cortex-M7，控制寄存器也用来指示浮点单元当前是否在使用)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;xPSR&#34;&gt;&lt;a href=&#34;#xPSR&#34; class=&#34;headerlink&#34; title=&#34;xPSR&#34;&gt;&lt;/a&gt;xPSR&lt;/h3&gt;&lt;p&gt;程序状态寄存器在其内部又被分为三个子状态寄存器：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;应用程序 PSR（APSR）&lt;/li&gt;
+&lt;li&gt;中断号 PSR（IPSR）&lt;/li&gt;
+&lt;li&gt;执行 PSR（EPSR）&lt;br&gt;&lt;img src=&#34;/2020/2651f4ca/image-20201217154557648.png&#34; alt=&#34;image-20201217154557648&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;PRIMASK，FAULTMASK-，BASEPRI&#34;&gt;&lt;a href=&#34;#PRIMASK，FAULTMASK-，BASEPRI&#34; class=&#34;headerlink&#34; title=&#34;PRIMASK，FAULTMASK ，BASEPRI&#34;&gt;&lt;/a&gt;PRIMASK，FAULTMASK ，BASEPRI&lt;/h3&gt;&lt;p&gt;CM3 page.41&lt;/p&gt;
+&lt;h3 id=&#34;CONTROL-控制寄存器&#34;&gt;&lt;a href=&#34;#CONTROL-控制寄存器&#34; class=&#34;headerlink&#34; title=&#34;CONTROL 控制寄存器&#34;&gt;&lt;/a&gt;CONTROL 控制寄存器&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;位&lt;/th&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;CONTROL[1]&lt;/td&gt;
+&lt;td&gt;堆栈指针选择&lt;br/&gt;0&amp;#x3D;选择主堆栈指针MSP（复位后缺省值）&lt;br/&gt;1&amp;#x3D;选择进程堆栈指针PSP&lt;br/&gt;在线程或基础级（没有在响应异常——译注），可以使用PSP。在handler 模式下，&lt;br/&gt;只允许使用MSP，所以此时不得往该位写1。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CONTROL[0]&lt;/td&gt;
+&lt;td&gt;0&amp;#x3D;特权级的线程模式&lt;br/&gt;1&amp;#x3D;用户级的线程模式&lt;br/&gt;Handler 模式永远都是特权级的。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;操作模式和特权模式&#34;&gt;&lt;a href=&#34;#操作模式和特权模式&#34; class=&#34;headerlink&#34; title=&#34;操作模式和特权模式&#34;&gt;&lt;/a&gt;操作模式和特权模式&lt;/h2&gt;&lt;p&gt;Cortex-M 引入了操作模式(handler mode、thread mode)和特权级别(特权级和用户级)的概念，如果进入异常或中断处理则进入handler mode，其他情况则为thread mode。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/2651f4ca/image-20201030193232853.png&#34; alt=&#34;image-20201030193232853&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;handler mode总是使用 MSP 作为堆栈&lt;/strong&gt;，&lt;strong&gt;thread mode可以选择使用 MSP 或 PSP 作为堆栈&lt;/strong&gt;，同样通过CONTROL 特殊寄存器控制。复位后，Cortex-M 默认进入线程模式、特权级、使用 MSP 堆栈。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/2651f4ca/image-20201030193654568.png&#34; alt=&#34;image-20201030193654568&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这可以提供一种存储器访问的保护机制，使得普通的用户程序代码不能意外地，甚至是恶意地执行涉及到要害的操作。处理器支持两种特权级，这也是一个基本的安全模型。&lt;/p&gt;
+&lt;p&gt;举例来说，操作系统的内核通常都在特权级下执行，所有没有被MPU 禁掉的存储器都可以访问。在操作系统开启了一个用户程序后，通常都会让它在用户级下执行，从而使系统不会因某个程序的崩溃或恶意破坏而受损。&lt;/p&gt;
+&lt;h2 id=&#34;内建的嵌套向量中断控制器-NVIC&#34;&gt;&lt;a href=&#34;#内建的嵌套向量中断控制器-NVIC&#34; class=&#34;headerlink&#34; title=&#34;内建的嵌套向量中断控制器(NVIC)&#34;&gt;&lt;/a&gt;内建的嵌套向量中断控制器(NVIC)&lt;/h2&gt;&lt;h2 id=&#34;SVC和PendSV&#34;&gt;&lt;a href=&#34;#SVC和PendSV&#34; class=&#34;headerlink&#34; title=&#34;SVC和PendSV&#34;&gt;&lt;/a&gt;SVC和PendSV&lt;/h2&gt;&lt;h3 id=&#34;SVC（系统服务调用，系统调用）&#34;&gt;&lt;a href=&#34;#SVC（系统服务调用，系统调用）&#34; class=&#34;headerlink&#34; title=&#34;SVC（系统服务调用，系统调用）&#34;&gt;&lt;/a&gt;SVC（系统服务调用，系统调用）&lt;/h3&gt;&lt;p&gt;例如，操作系统不让用户程序直接访问硬件，而是通过提供一些系统服务函数，用户程序使用SVC 发出对系统服务函数的呼叫请求，以这种方法调用它们来间接访问硬件。因此，当用户程序想要控制特定的硬件时，它就会产生一个SVC 异常，然后操作系统提供的SVC 异常服务例程得到执行，它再调用相关的操作系统函数，后者完成用户程序请求的服务。&lt;/p&gt;
+&lt;p&gt;优势：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第一，它使用户程序从控制硬件的繁文缛节中解脱出来，而是由OS 负责控制具体的硬件。&lt;/li&gt;
+&lt;li&gt;第二，OS 的代码可以经过充分的测试，从而能使系统更加健壮和可靠。&lt;/li&gt;
+&lt;li&gt;第三，它使用户程序无需在特权级下执行，用户程序无需承担因误操作而瘫痪整个系统的风险。&lt;/li&gt;
+&lt;li&gt;第四，通过SVC 的机制，还让用户程序变得与硬件无关，因此在开发应用程序时无需了解硬件的操作细节，从而简化了开发的难度和繁琐度，并且使应用程序跨硬件平台移植成为可能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;PendSV（可悬起系统调用）&#34;&gt;&lt;a href=&#34;#PendSV（可悬起系统调用）&#34; class=&#34;headerlink&#34; title=&#34;PendSV（可悬起系统调用）&#34;&gt;&lt;/a&gt;PendSV（可悬起系统调用）&lt;/h3&gt;&lt;p&gt;PendSV ，它是可以像普通的中断一样被悬起的（不像SVC 那样会上访）。OS 可以利用它“缓期执行”一个异常——直到其它重要的任务完成后才执行动作。悬起PendSV 的方法是：手工往NVIC 的PendSV 悬起寄存器中写1。悬起后，如果优先级不够高，则将缓期等待执行。&lt;/p&gt;
+&lt;p&gt;PendSV 的典型使用场合是在上下文切换时（在不同任务之间切换）。例如发生中断时产生线程唤醒，中断会引发一个PendSV，在中断运行结束后，会进入PendSV在里面进行线程唤醒（线程切换）。&lt;/p&gt;
+&lt;h1 id=&#34;一些总结和个人笔记&#34;&gt;&lt;a href=&#34;#一些总结和个人笔记&#34; class=&#34;headerlink&#34; title=&#34;一些总结和个人笔记&#34;&gt;&lt;/a&gt;一些总结和个人笔记&lt;/h1&gt;&lt;h2 id=&#34;中断的入栈出栈&#34;&gt;&lt;a href=&#34;#中断的入栈出栈&#34; class=&#34;headerlink&#34; title=&#34;中断的入栈出栈&#34;&gt;&lt;/a&gt;中断的入栈出栈&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;进入异常服务例程时，自动压栈R0‐R3, R12, LR, PSR 和PC。&lt;/li&gt;
+&lt;li&gt;进入异常服务程序后，LR的值被自动更新为特殊的EXC_RETURN。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;数值&lt;/th&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0xFFFF_FFF1&lt;/td&gt;
+&lt;td&gt;返回handler模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0xFFFF_FFF9&lt;/td&gt;
+&lt;td&gt;返回线程模式，并使用主堆栈(SP&amp;#x3D;MSP)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0xFFFF_FFFD&lt;/td&gt;
+&lt;td&gt;返回线程模式，并使用线程堆栈(SP&amp;#x3D;PSP)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;如果主程序在线程模式下运行， 并且在使用MSP 时被中断， 则在服务例程中LR&amp;#x3D;0xFFFF_FFF9（主程序被打断前的LR已被自动入栈）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如果主程序在线程模式下运行， 并且在使用PSP 时被中断， 则在服务例程中LR&amp;#x3D;0xFFFF_FFFD（主程序被打断前的LR已被自动入栈）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;进入函数调用时也会压栈Rxxx寄存器作为传入参数。&lt;/li&gt;
+&lt;li&gt;R0作为函数的返回值。&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
