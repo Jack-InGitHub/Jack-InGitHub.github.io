@@ -1,0 +1,21 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"ap\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2021/6561f7ab/",
+            "url": "https://www.oikiou.top/2021/6561f7ab/",
+            "title": "树莓派连上手机热点如何查看它的IP",
+            "date_published": "2021-10-10T03:23:05.000Z",
+            "content_html": "<p>关键词:</p>\n<p>手机 热点 查看 接入 热点 IP 树莓派连上手机热点如何查看它的IP</p>\n<h1 id=\"树莓派连上手机热点如何查看它的IP\"><a href=\"#树莓派连上手机热点如何查看它的IP\" class=\"headerlink\" title=\"树莓派连上手机热点如何查看它的IP\"></a>树莓派连上手机热点如何查看它的IP</h1><h1 id=\"序：\"><a href=\"#序：\" class=\"headerlink\" title=\"序：\"></a>序：</h1><h4 id=\"起源\"><a href=\"#起源\" class=\"headerlink\" title=\"起源\"></a>起源</h4><p>原来都是通过网线连接树莓派的，当时设置过wifi，这次把树莓派带出去用，就没有带网线，手机上显示已经连接上了，但是不知道怎么查看树莓派的ip。相信点进来的都是小米手机把，点名批评小米，隔壁华为荣耀都能直接看到。</p>\n<h4 id=\"通过阅读本文你能知道什么？\"><a href=\"#通过阅读本文你能知道什么？\" class=\"headerlink\" title=\"通过阅读本文你能知道什么？\"></a>通过阅读本文你能知道什么？</h4><ul>\n<li>如何通过app查看连上热点的ip</li>\n</ul>\n<p>如果本文对你有帮助，请不要吝啬你的点赞，让别人也能看到，如果你有更好的见解，非常希望你能提出指导意见！</p>\n<p>@[toc]</p>\n<h1 id=\"软件：\"><a href=\"#软件：\" class=\"headerlink\" title=\"软件：\"></a>软件：</h1><p><strong>终端</strong> or <strong>Terminal Emulator</strong><br>各大应用商店可下，实在不行可以从<a href=\"https://jackpal.github.io/Android-Terminal-Emulator/\">这个页面</a>下载</p>\n<h1 id=\"详细：\"><a href=\"#详细：\" class=\"headerlink\" title=\"详细：\"></a>详细：</h1><p>输入指令 <strong>ip neigh</strong> 就能获得相关的ip地址信息<br><img src=\"/2021/6561f7ab/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5Li05rW355qE5Z-O,size_20,color_FFFFFF,t_70,g_se,x_16.png\" alt=\"树莓派\"></p>\n",
+            "tags": [
+                "ip",
+                "raspberry",
+                "ap",
+                "wifi"
+            ]
+        }
+    ]
+}

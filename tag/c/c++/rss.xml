@@ -1,0 +1,1274 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;c/c++&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 06 May 2022 21:13:15 +0800</pubDate>
+        <lastBuildDate>Fri, 06 May 2022 21:13:15 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/5751eea2/</guid>
+            <title>C++</title>
+            <link>https://www.oikiou.top/2022/5751eea2/</link>
+            <category>c/c++</category>
+            <category>c++</category>
+            <pubDate>Fri, 06 May 2022 21:13:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;C-Bref&#34;&gt;&lt;a href=&#34;#C-Bref&#34; class=&#34;headerlink&#34; title=&#34;C++ Bref&#34;&gt;&lt;/a&gt;C++ Bref&lt;/h1&gt;&lt;p&gt;C++ 是一种静态类型的、编译式的、通用的、大小写敏感的、不规则的编程语言，支持过程化编程、面向对象编程和泛型编程。&lt;/p&gt;
+&lt;p&gt;C++ 被认为是一种&lt;strong&gt;中级&lt;/strong&gt;语言，它综合了高级语言和低级语言的特点。&lt;/p&gt;
+&lt;p&gt;C++ 是由 Bjarne Stroustrup 于 1979 年在新泽西州美利山贝尔实验室开始设计开发的。C++ 进一步扩充和完善了 C 语言，最初命名为带类的C，后来在 1983 年更名为 C++。&lt;/p&gt;
+&lt;p&gt;C++ 是 C 的一个超集，事实上，任何合法的 C 程序都是合法的 C++ 程序。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt;使用静态类型的编程语言是在编译时执行类型检查，而不是在运行时执行类型检查。&lt;/p&gt;
+&lt;h2 id=&#34;类-Class&#34;&gt;&lt;a href=&#34;#类-Class&#34; class=&#34;headerlink&#34; title=&#34;类 Class&#34;&gt;&lt;/a&gt;类 Class&lt;/h2&gt;&lt;p&gt;类是虚拟的, 统称, 对象是类的实体&lt;/p&gt;
+&lt;h2 id=&#34;对象-Objects&#34;&gt;&lt;a href=&#34;#对象-Objects&#34; class=&#34;headerlink&#34; title=&#34;对象 Objects&#34;&gt;&lt;/a&gt;对象 Objects&lt;/h2&gt;&lt;p&gt;objects &amp;#x3D; attributes + services &amp;#x3D; data + operations&lt;/p&gt;
+&lt;p&gt;对象 &amp;#x3D; 属性 + 服务 &amp;#x3D; 数据 + 操作&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/5751eea2/image-20220506211131674.png&#34; alt=&#34;image-20220506211131674&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data 要避免去直接操作, 应该通过Operations去交互&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; 三个特性&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;封装&lt;/li&gt;
+&lt;li&gt;继承&lt;/li&gt;
+&lt;li&gt;多态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Objects-amp-Class&#34;&gt;&lt;a href=&#34;#Objects-amp-Class&#34; class=&#34;headerlink&#34; title=&#34;Objects &amp;amp; Class&#34;&gt;&lt;/a&gt;Objects &amp;amp; Class&lt;/h2&gt;&lt;p&gt;类是虚拟的, 统称, 对象是类的实体&lt;/p&gt;
+&lt;p&gt;猫 -&amp;gt; 种类 -&amp;gt; Class&lt;/p&gt;
+&lt;p&gt;这只猫 -&amp;gt; 实体 -&amp;gt; Objects&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/5751eea2/image-20220506210930554.png&#34; alt=&#34;image-20220506210930554&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;面向对象&#34;&gt;&lt;a href=&#34;#面向对象&#34; class=&#34;headerlink&#34; title=&#34;面向对象&#34;&gt;&lt;/a&gt;面向对象&lt;/h2&gt;&lt;p&gt;C++ 完全支持面向对象的程序设计，包括面向对象开发的四大特性：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;封装&lt;/li&gt;
+&lt;li&gt;抽象&lt;/li&gt;
+&lt;li&gt;继承&lt;/li&gt;
+&lt;li&gt;多态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;C++ 程序可以定义为对象的集合，这些对象通过调用彼此的方法进行交互。&lt;/p&gt;
+&lt;h2 id=&#34;标准库&#34;&gt;&lt;a href=&#34;#标准库&#34; class=&#34;headerlink&#34; title=&#34;标准库&#34;&gt;&lt;/a&gt;标准库&lt;/h2&gt;&lt;p&gt;标准的 C++ 由三个重要部分组成：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;核心语言，提供了所有构件块，包括变量、数据类型和常量，等等。&lt;/li&gt;
+&lt;li&gt;C++ 标准库，提供了大量的函数，用于操作文件、字符串等。&lt;/li&gt;
+&lt;li&gt;标准模板库（STL），提供了大量的方法，用于操作数据结构等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;hello-word&#34;&gt;&lt;a href=&#34;#hello-word&#34; class=&#34;headerlink&#34; title=&#34;hello word&#34;&gt;&lt;/a&gt;hello word&lt;/h1&gt;&lt;h2 id=&#34;Code&#34;&gt;&lt;a href=&#34;#Code&#34; class=&#34;headerlink&#34; title=&#34;Code&#34;&gt;&lt;/a&gt;Code&lt;/h2&gt;&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;			&lt;span class=&#34;hljs-comment&#34;&gt;// include io stream 后缀是不必要的是Windows的错觉&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 如果这里包含的是 iostream.h 则不再需要 using namespace std; 标准库也会有所不同&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;namespace&lt;/span&gt; std;		&lt;span class=&#34;hljs-comment&#34;&gt;// Standard 标准命名空间&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Hello world!&amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; endl;		&lt;span class=&#34;hljs-comment&#34;&gt;// c out   end line&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;编译&#34;&gt;&lt;a href=&#34;#编译&#34; class=&#34;headerlink&#34; title=&#34;编译&#34;&gt;&lt;/a&gt;编译&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;g++ -v&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 使用gcc编译&lt;/span&gt;&lt;br&gt;gcc main.cpp -lstdc++ -o main&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# g++ 程序 g++ 是将 gcc 默认语言设为 C++ 的一个特殊的版本&lt;/span&gt;&lt;br&gt;g++ main.cpp -o main&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 运行它&lt;/span&gt;&lt;br&gt;./main&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;g-编译器&#34;&gt;&lt;a href=&#34;#g-编译器&#34; class=&#34;headerlink&#34; title=&#34;g++编译器&#34;&gt;&lt;/a&gt;g++编译器&lt;/h3&gt;&lt;p&gt;g++ 有些系统默认是使用 C++98，我们可以指定使用 C++11 来编译 main.cpp 文件：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;g++ -g -Wall -std=c++11 main.cpp&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h4 id=&#34;g-常用命令选项&#34;&gt;&lt;a href=&#34;#g-常用命令选项&#34; class=&#34;headerlink&#34; title=&#34;g++ 常用命令选项&#34;&gt;&lt;/a&gt;g++ 常用命令选项&lt;/h4&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;选项&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;解释&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-ansi&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;只支持 ANSI 标准的 C 语法。这一选项将禁止 GNU C 的某些特色， 例如 asm 或 typeof 关键词。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-c&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;只编译并生成目标文件。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-DMACRO&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;以字符串”1”定义 MACRO 宏。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-DMACRO&amp;#x3D;DEFN&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;以字符串”DEFN”定义 MACRO 宏。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-E&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;只运行 C 预编译器。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-g&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;生成调试信息。GNU 调试器可利用该信息。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-IDIRECTORY&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;指定额外的头文件搜索路径DIRECTORY。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-LDIRECTORY&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;指定额外的函数库搜索路径DIRECTORY。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-lLIBRARY&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;连接时搜索指定的函数库LIBRARY。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-m486&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;针对 486 进行代码优化。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-o&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;FILE 生成指定的输出文件。用在生成可执行文件时。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-O0&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;不进行优化处理。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-O&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;或 -O1 优化生成代码。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-O2&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;进一步优化。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-O3&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;比 -O2 更进一步优化，包括 inline 函数。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-shared&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;生成共享目标文件。通常用在建立共享库时。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-static&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;禁止使用共享连接。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-UMACRO&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;取消对 MACRO 宏的定义。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-w&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;不生成任何警告信息。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-Wall&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;生成所有警告信息。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;基本语法&#34;&gt;&lt;a href=&#34;#基本语法&#34; class=&#34;headerlink&#34; title=&#34;基本语法&#34;&gt;&lt;/a&gt;基本语法&lt;/h1&gt;&lt;h2 id=&#34;基本语法-1&#34;&gt;&lt;a href=&#34;#基本语法-1&#34; class=&#34;headerlink&#34; title=&#34;基本语法&#34;&gt;&lt;/a&gt;基本语法&lt;/h2&gt;&lt;p&gt;基本语法和c非常类似,   ;   结尾等等&lt;/p&gt;
+&lt;h2 id=&#34;三字符组-x3D-etc&#34;&gt;&lt;a href=&#34;#三字符组-x3D-etc&#34; class=&#34;headerlink&#34; title=&#34;三字符组(??&amp;#x3D; etc.)&#34;&gt;&lt;/a&gt;三字符组(??&amp;#x3D; etc.)&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;一种古老的语法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;三字符组就是用于表示另一个字符的三个字符序列，又称为三字符序列。三字符序列总是以两个问号开头。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;三字符组&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;替换&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;??&amp;#x3D;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;#&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;…..&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;….&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;数据类型-bool-etc&#34;&gt;&lt;a href=&#34;#数据类型-bool-etc&#34; class=&#34;headerlink&#34; title=&#34;数据类型(bool etc.)&#34;&gt;&lt;/a&gt;数据类型(bool etc.)&lt;/h2&gt;&lt;p&gt;C++ 就是在以前的c拓展了一个 bool&lt;/p&gt;
+&lt;p&gt;C++ 为程序员提供了种类丰富的内置数据类型和用户自定义的数据类型。下表列出了七种基本的 C++ 数据类型：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;类型&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;关键字&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;布尔型&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;bool&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;字符型&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;char&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;整型&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;int&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;浮点型&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;float&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;双浮点型&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;double&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;无类型&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;void&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;宽字符型&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;wchar_t&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;其实 wchar_t 是这样来的：&lt;/p&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;short&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;wchar_t&lt;/span&gt;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;存储类-auto-register-etc&#34;&gt;&lt;a href=&#34;#存储类-auto-register-etc&#34; class=&#34;headerlink&#34; title=&#34;存储类(auto register etc.)&#34;&gt;&lt;/a&gt;存储类(auto register etc.)&lt;/h2&gt;&lt;p&gt;存储类定义 C++ 程序中变量&amp;#x2F;函数的范围（可见性）和生命周期。这些说明符放置在它们所修饰的类型之前。下面列出 C++ 程序中可用的存储类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;auto&lt;/li&gt;
+&lt;li&gt;register&lt;/li&gt;
+&lt;li&gt;static&lt;/li&gt;
+&lt;li&gt;extern&lt;/li&gt;
+&lt;li&gt;mutable&lt;/li&gt;
+&lt;li&gt;thread_local (C++11)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;从 C++ 17 开始，auto 关键字不再是 C++ 存储类说明符，且 register 关键字被弃用。&lt;/p&gt;
+&lt;h3 id=&#34;auto-存储类&#34;&gt;&lt;a href=&#34;#auto-存储类&#34; class=&#34;headerlink&#34; title=&#34;auto 存储类&#34;&gt;&lt;/a&gt;auto 存储类&lt;/h3&gt;&lt;p&gt;自 C++ 11 以来，&lt;strong&gt;auto&lt;/strong&gt; 关键字用于两种情况：声明变量时根据初始化表达式自动推断该变量的类型、声明函数时函数返回值的占位符。&lt;/p&gt;
+&lt;p&gt;C++98标准中auto关键字用于自动变量的声明，但由于使用极少且多余，在 C++17 中已删除这一用法。&lt;/p&gt;
+&lt;p&gt;根据初始化表达式自动推断被声明的变量的类型，如：&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;auto&lt;/span&gt; f=&lt;span class=&#34;hljs-number&#34;&gt;3.14&lt;/span&gt;;      &lt;span class=&#34;hljs-comment&#34;&gt;//double &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;auto&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;hello&amp;quot;&lt;/span&gt;)&lt;/span&gt;;  &lt;span class=&#34;hljs-comment&#34;&gt;//const char* &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;auto&lt;/span&gt; z = new &lt;span class=&#34;hljs-keyword&#34;&gt;auto&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;); &lt;span class=&#34;hljs-comment&#34;&gt;// int* &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;auto&lt;/span&gt; x1 = &lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;, x2 = &lt;span class=&#34;hljs-number&#34;&gt;5.0&lt;/span&gt;, x3=&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;r&amp;#x27;&lt;/span&gt;;&lt;span class=&#34;hljs-comment&#34;&gt;//错误，必须是初始化为同一类型&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;register-存储类&#34;&gt;&lt;a href=&#34;#register-存储类&#34; class=&#34;headerlink&#34; title=&#34;register 存储类&#34;&gt;&lt;/a&gt;register 存储类&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;register&lt;/strong&gt; 存储类用于定义存储在寄存器中而不是 RAM 中的局部变量。这意味着变量的最大尺寸等于寄存器的大小（通常是一个词），且不能对它应用一元的 ‘&amp;amp;’ 运算符（因为它没有内存位置）。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&amp;#123;   &lt;br&gt;	&lt;span class=&#34;hljs-keyword&#34;&gt;register&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;  miles; &lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;寄存器只用于需要快速访问的变量，比如计数器。还应注意的是，定义 ‘register’ 并不意味着变量将被存储在寄存器中，它意味着变量可能存储在寄存器中，这取决于硬件和实现的限制。&lt;/p&gt;
+&lt;h3 id=&#34;mutable-存储类&#34;&gt;&lt;a href=&#34;#mutable-存储类&#34; class=&#34;headerlink&#34; title=&#34;mutable 存储类&#34;&gt;&lt;/a&gt;mutable 存储类&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;mutable&lt;/strong&gt; 说明符仅适用于类的对象，这将在本教程的最后进行讲解。它允许对象的成员替代常量。也就是说，mutable 成员可以通过 const 成员函数修改。&lt;/p&gt;
+&lt;h3 id=&#34;thread-local-存储类&#34;&gt;&lt;a href=&#34;#thread-local-存储类&#34; class=&#34;headerlink&#34; title=&#34;thread_local 存储类&#34;&gt;&lt;/a&gt;thread_local 存储类&lt;/h3&gt;&lt;p&gt;使用 thread_local 说明符声明的变量仅可在它在其上创建的线程上访问。 变量在创建线程时创建，并在销毁线程时销毁。 每个线程都有其自己的变量副本。&lt;/p&gt;
+&lt;p&gt;thread_local 说明符可以与 static 或 extern 合并。&lt;/p&gt;
+&lt;p&gt;可以将 thread_local 仅应用于数据声明和定义，thread_local 不能用于函数声明或定义。&lt;/p&gt;
+&lt;p&gt;以下演示了可以被声明为 thread_local 的变量：&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;thread_local&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; x;  &lt;span class=&#34;hljs-comment&#34;&gt;// 命名空间下的全局变量 &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;X&lt;/span&gt; &amp;#123;&lt;/span&gt;    &lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;thread_local&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;std&lt;/span&gt;::&lt;span class=&#34;hljs-built_in&#34;&gt;string&lt;/span&gt; s; &lt;span class=&#34;hljs-comment&#34;&gt;// 类的static成员变量 &lt;/span&gt;&lt;br&gt;&amp;#125;; &lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;thread_local&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;std&lt;/span&gt;::&lt;span class=&#34;hljs-built_in&#34;&gt;string&lt;/span&gt; X::s;  &lt;span class=&#34;hljs-comment&#34;&gt;// X::s 是需要定义的  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;foo&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt; &amp;#123;    &lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;thread_local&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;std&lt;/span&gt;::&lt;span class=&#34;hljs-built_in&#34;&gt;vector&lt;/span&gt;&amp;lt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;&amp;gt; v;  &lt;span class=&#34;hljs-comment&#34;&gt;// 本地变量 &lt;/span&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;数学运算-cos-sin-etc&#34;&gt;&lt;a href=&#34;#数学运算-cos-sin-etc&#34; class=&#34;headerlink&#34; title=&#34;数学运算(cos sin etc.)&#34;&gt;&lt;/a&gt;数学运算(cos sin etc.)&lt;/h2&gt;&lt;p&gt;C++ 内置了丰富的数学函数，可对各种数字进行运算。下表列出了 C++ 中一些有用的内置的数学函数。&lt;/p&gt;
+&lt;p&gt;为了利用这些函数，您需要引用数学头文件 **&lt;cmath&gt;**。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;序号&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;函数 &amp;amp; 描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;double cos(double);&lt;/strong&gt; 该函数返回弧度角（double 型）的余弦。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;double sin(double);&lt;/strong&gt; 该函数返回弧度角（double 型）的正弦。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;3&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;double tan(double);&lt;/strong&gt; 该函数返回弧度角（double 型）的正切。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;4&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;double log(double);&lt;/strong&gt; 该函数返回参数的自然对数。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;5&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;double pow(double, double);&lt;/strong&gt; 假设第一个参数为 x，第二个参数为 y，则该函数返回 x 的 y 次方。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;6&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;double hypot(double, double);&lt;/strong&gt; 该函数返回两个参数的平方总和的平方根，也就是说，参数为一个直角三角形的两个直角边，函数会返回斜边的长度。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;7&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;double sqrt(double);&lt;/strong&gt; 该函数返回参数的平方根。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;8&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;int abs(int);&lt;/strong&gt; 该函数返回整数的绝对值。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;9&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;double fabs(double);&lt;/strong&gt; 该函数返回任意一个浮点数的绝对值。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;double floor(double);&lt;/strong&gt; 该函数返回一个小于或等于传入参数的最大整数。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;随机数-rand-etc&#34;&gt;&lt;a href=&#34;#随机数-rand-etc&#34; class=&#34;headerlink&#34; title=&#34;随机数(rand etc.)&#34;&gt;&lt;/a&gt;随机数(rand etc.)&lt;/h2&gt;&lt;p&gt;在许多情况下，需要生成随机数。关于随机数生成器，有两个相关的函数。一个是 **rand()**，该函数只返回一个伪随机数。生成随机数之前必须先调用 &lt;strong&gt;srand()&lt;/strong&gt; 函数。&lt;/p&gt;
+&lt;p&gt;下面是一个关于生成随机数的简单实例。实例中使用了 &lt;strong&gt;time()&lt;/strong&gt; 函数来获取系统时间的秒数，通过调用 rand() 函数来生成随机数&lt;/p&gt;
+&lt;h2 id=&#34;字符串-string-etc&#34;&gt;&lt;a href=&#34;#字符串-string-etc&#34; class=&#34;headerlink&#34; title=&#34;字符串(string etc.)&#34;&gt;&lt;/a&gt;字符串(string etc.)&lt;/h2&gt;&lt;p&gt;C++ 提供了以下两种类型的字符串表示形式：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C 风格字符串&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C++ 引入的 string 类类型&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;C++ 标准库提供了 &lt;strong&gt;string&lt;/strong&gt; 类类型，支持上述所有的操作，另外还增加了其他更多的功能。我们将学习 C++ 标准库中的这个类，现在让我们先来看看下面这个实例：&lt;/p&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;main&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;    string str1 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str1&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str2 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str2&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str3 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3&amp;quot;&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 无法实现 string str3 = &amp;quot;str3&amp;quot; + &amp;quot;str3949499&amp;quot;;  两个静态的string无法相加&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 字符串可以 直接相加&lt;/span&gt;&lt;br&gt;    str3 = str1 + str2;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str3 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 字符串可以 追加&lt;/span&gt;&lt;br&gt;    str3 += str1;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str3 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 从cin中直接获取&lt;/span&gt;&lt;br&gt;    cin &amp;gt;&amp;gt; str3;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str3 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 直接get到size&lt;/span&gt;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3.size() : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str3.&lt;span class=&#34;hljs-built_in&#34;&gt;size&lt;/span&gt;() &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;基本输入输出-cin-cout-cerr-clog&#34;&gt;&lt;a href=&#34;#基本输入输出-cin-cout-cerr-clog&#34; class=&#34;headerlink&#34; title=&#34;基本输入输出(cin cout cerr clog)&#34;&gt;&lt;/a&gt;基本输入输出(cin cout cerr clog)&lt;/h2&gt;&lt;h3 id=&#34;I-x2F-O-库头文件&#34;&gt;&lt;a href=&#34;#I-x2F-O-库头文件&#34; class=&#34;headerlink&#34; title=&#34;I&amp;#x2F;O 库头文件&#34;&gt;&lt;/a&gt;I&amp;#x2F;O 库头文件&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;头文件&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;函数和描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;iostream&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;该文件定义了 &lt;strong&gt;cin、cout、cerr&lt;/strong&gt; 和 &lt;strong&gt;clog&lt;/strong&gt; 对象，分别对应于标准输入流、标准输出流、非缓冲标准错误流和缓冲标准错误流。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;iomanip&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;该文件通过所谓的参数化的流操纵器（比如 &lt;strong&gt;setw&lt;/strong&gt; 和 &lt;strong&gt;setprecision&lt;/strong&gt;），来声明对执行标准化 I&amp;#x2F;O 有用的服务。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;fstream&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;该文件为用户控制的文件处理声明服务。我们将在文件和流的相关章节讨论它的细节。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;标准输出流（cout）&#34;&gt;&lt;a href=&#34;#标准输出流（cout）&#34; class=&#34;headerlink&#34; title=&#34;标准输出流（cout）&#34;&gt;&lt;/a&gt;标准输出流（cout）&lt;/h3&gt;&lt;p&gt;预定义的对象 &lt;strong&gt;cout&lt;/strong&gt; 是 &lt;strong&gt;iostream&lt;/strong&gt; 类的一个实例。cout 对象”连接”到标准输出设备，通常是显示屏。&lt;strong&gt;cout&lt;/strong&gt; 是与流插入运算符 &amp;lt;&amp;lt; 结合使用的，C++ 编译器根据要输出变量的数据类型，选择合适的流插入运算符来显示值。&amp;lt;&amp;lt; 运算符被重载来输出内置类型（整型、浮点型、double 型、字符串和指针）的数据项。&lt;/p&gt;
+&lt;p&gt;流插入运算符 &amp;lt;&amp;lt; 在一个语句中可以多次使用，如上面实例中所示，&lt;strong&gt;endl&lt;/strong&gt; 用于在行末添加一个换行符。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;cout &amp;lt;&amp;lt; str_cin &amp;lt;&amp;lt; endl;&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;格式化输出&#34;&gt;&lt;a href=&#34;#格式化输出&#34; class=&#34;headerlink&#34; title=&#34;格式化输出&#34;&gt;&lt;/a&gt;格式化输出&lt;/h4&gt;&lt;h5 id=&#34;ostream-类的成员方法&#34;&gt;&lt;a href=&#34;#ostream-类的成员方法&#34; class=&#34;headerlink&#34; title=&#34;ostream 类的成员方法&#34;&gt;&lt;/a&gt;ostream 类的成员方法&lt;/h5&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;成员函数&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;flags(fmtfl)&lt;/td&gt;
+&lt;td&gt;当前格式状态全部替换为 fmtfl。注意，fmtfl 可以表示一种格式，也可以表示多种格式。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;precision(n)&lt;/td&gt;
+&lt;td&gt;设置输出浮点数的精度为 n。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;width(w)&lt;/td&gt;
+&lt;td&gt;指定输出宽度为 w 个字符。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;fill(c)&lt;/td&gt;
+&lt;td&gt;在指定输出宽度的情况下，输出的宽度不足时用字符 c 填充（默认情况是用空格填充）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;setf(fmtfl, mask)&lt;/td&gt;
+&lt;td&gt;在当前格式的基础上，追加 fmtfl 格式，并删除 mask 格式。其中，mask 参数可以省略。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;unsetf(mask)&lt;/td&gt;
+&lt;td&gt;在当前格式的基础上，删除 mask 格式。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h5 id=&#34;fmtfl-和-mask-参数可选值&#34;&gt;&lt;a href=&#34;#fmtfl-和-mask-参数可选值&#34; class=&#34;headerlink&#34; title=&#34;fmtfl 和 mask 参数可选值&#34;&gt;&lt;/a&gt;fmtfl 和 mask 参数可选值&lt;/h5&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;标 志&lt;/th&gt;
+&lt;th&gt;作 用&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;ios::boolapha&lt;/td&gt;
+&lt;td&gt;把 true 和 false 输出为字符串&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::left&lt;/td&gt;
+&lt;td&gt;输出数据在本域宽范围内向左对齐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::right&lt;/td&gt;
+&lt;td&gt;输出数据在本域宽范围内向右对齐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::internal&lt;/td&gt;
+&lt;td&gt;数值的符号位在域宽内左对齐，数值右对齐，中间由填充字符填充&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::dec&lt;/td&gt;
+&lt;td&gt;设置整数的基数为 10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::oct&lt;/td&gt;
+&lt;td&gt;设置整数的基数为 8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::hex&lt;/td&gt;
+&lt;td&gt;设置整数的基数为 16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::showbase&lt;/td&gt;
+&lt;td&gt;强制输出整数的基数（八进制数以 0 开头，十六进制数以 0x 打头）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::showpoint&lt;/td&gt;
+&lt;td&gt;强制输出浮点数的小点和尾数 0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::uppercase&lt;/td&gt;
+&lt;td&gt;在以科学记数法格式 E 和以十六进制输出字母时以大写表示&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::showpos&lt;/td&gt;
+&lt;td&gt;对正数显示“+”号&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::scientific&lt;/td&gt;
+&lt;td&gt;浮点数以科学记数法格式输出&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::fixed&lt;/td&gt;
+&lt;td&gt;浮点数以定点格式（小数形式）输出&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ios::unitbuf&lt;/td&gt;
+&lt;td&gt;每次输出之后刷新所有的流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;using namespace &lt;span class=&#34;hljs-built_in&#34;&gt;std&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; a = &lt;span class=&#34;hljs-number&#34;&gt;1.23&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;//设定后续输出的浮点数的精度为 4&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;cout&lt;/span&gt;.precision(&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;);&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;cout&lt;/span&gt; &amp;lt;&amp;lt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;precision: &amp;quot;&lt;/span&gt;&amp;lt;&amp;lt; a &amp;lt;&amp;lt; &lt;span class=&#34;hljs-built_in&#34;&gt;endl&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;//设定后续以科学计数法的方式输出浮点数&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;cout&lt;/span&gt;.setf(ios::scientific);&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;cout&lt;/span&gt; &amp;lt;&amp;lt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;scientific：&amp;quot;&lt;/span&gt;&amp;lt;&amp;lt; a &amp;lt;&amp;lt; &lt;span class=&#34;hljs-built_in&#34;&gt;endl&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h4 id=&#34;iomanip-格式化输出&#34;&gt;&lt;a href=&#34;#iomanip-格式化输出&#34; class=&#34;headerlink&#34; title=&#34;iomanip 格式化输出&#34;&gt;&lt;/a&gt;iomanip 格式化输出&lt;/h4&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;流操纵算子&lt;/th&gt;
+&lt;th&gt;作  用&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;*dec&lt;/td&gt;
+&lt;td&gt;以十进制形式输出整数&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;hex&lt;/td&gt;
+&lt;td&gt;以十六进制形式输出整数&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;oct&lt;/td&gt;
+&lt;td&gt;以八进制形式输出整数&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;fixed&lt;/td&gt;
+&lt;td&gt;以普通小数形式输出浮点数&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;scientific&lt;/td&gt;
+&lt;td&gt;以科学计数法形式输出浮点数&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;left&lt;/td&gt;
+&lt;td&gt;左对齐，即在宽度不足时将填充字符添加到右边&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;*right&lt;/td&gt;
+&lt;td&gt;右对齐，即在宽度不足时将填充字符添加到左边&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;setbase(b)&lt;/td&gt;
+&lt;td&gt;设置输出整数时的进制，b&amp;#x3D;8、10 或 16&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;setw(w)&lt;/td&gt;
+&lt;td&gt;指定输出宽度为 w 个字符，或输入字符串时读入 w 个字符。注意，该函数所起的作用是一次性的，即只影响下一次 cout 输出。&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;setfill(c)&lt;/td&gt;
+&lt;td&gt;在指定输出宽度的情况下，输出的宽度不足时用字符 c 填充（默认情况是用空格填充）&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;setprecision(n)&lt;/td&gt;
+&lt;td&gt;设置输出浮点数的精度为 n。  在使用非 fixed 且非 scientific 方式输出的情况下，n 即为有效数字最多的位数，如果有效数字位数超过 n，则小数部分四舍五人，或自动变为科学计 数法输出并保留一共 n 位有效数字。  在使用 fixed 方式和 scientific 方式输出的情况下，n 是小数点后面应保留的位数。&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;setiosflags(mask)&lt;/td&gt;
+&lt;td&gt;在当前格式状态下，追加 mask 格式，mask 参数可选择表 2 中的所有值。&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;resetiosflags(mask)&lt;/td&gt;
+&lt;td&gt;在当前格式状态下，删除 mask 格式，mask 参数可选择表 2 中的所有值。&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;boolapha&lt;/td&gt;
+&lt;td&gt;把 true 和 false 输出为字符串&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;*noboolalpha&lt;/td&gt;
+&lt;td&gt;把 true 和 false 输出为 0、1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;showbase&lt;/td&gt;
+&lt;td&gt;输出表示数值的进制的前缀&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;*noshowbase&lt;/td&gt;
+&lt;td&gt;不输出表示数值的进制.的前缀&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;showpoint&lt;/td&gt;
+&lt;td&gt;总是输出小数点&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;*noshowpoint&lt;/td&gt;
+&lt;td&gt;只有当小数部分存在时才显示小数点&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;showpos&lt;/td&gt;
+&lt;td&gt;在非负数值中显示 +&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;*noshowpos&lt;/td&gt;
+&lt;td&gt;在非负数值中不显示 +&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;uppercase&lt;/td&gt;
+&lt;td&gt;十六进制数中使用 A~E。若输出前缀，则前缀输出 0X，科学计数法中输出 E&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;*nouppercase&lt;/td&gt;
+&lt;td&gt;十六进制数中使用 a~e。若输出前缀，则前缀输出 0x，科学计数法中输出 e。&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;internal&lt;/td&gt;
+&lt;td&gt;数值的符号（正负号）在指定宽度内左对齐，数值右对 齐，中间由填充字符填充。&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;iomanip&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;using namespace &lt;span class=&#34;hljs-built_in&#34;&gt;std&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;//以十六进制输出整数&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;cout&lt;/span&gt; &amp;lt;&amp;lt; hex &amp;lt;&amp;lt; &lt;span class=&#34;hljs-number&#34;&gt;16&lt;/span&gt; &amp;lt;&amp;lt; &lt;span class=&#34;hljs-built_in&#34;&gt;endl&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;//删除之前设定的进制格式，以默认的 10 进制输出整数&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;cout&lt;/span&gt; &amp;lt;&amp;lt; resetiosflags(ios::basefield)&amp;lt;&amp;lt; &lt;span class=&#34;hljs-number&#34;&gt;16&lt;/span&gt; &amp;lt;&amp;lt; &lt;span class=&#34;hljs-built_in&#34;&gt;endl&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; a = &lt;span class=&#34;hljs-number&#34;&gt;123&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;//以科学计数法的方式输出浮点数&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;cout&lt;/span&gt; &amp;lt;&amp;lt; scientific &amp;lt;&amp;lt; a &amp;lt;&amp;lt; &lt;span class=&#34;hljs-built_in&#34;&gt;endl&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;//删除之前设定的科学计数法的方法&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;cout&lt;/span&gt; &amp;lt;&amp;lt; resetiosflags(ios::scientific) &amp;lt;&amp;lt; a &amp;lt;&amp;lt; &lt;span class=&#34;hljs-built_in&#34;&gt;endl&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;标准输入流（cin）&#34;&gt;&lt;a href=&#34;#标准输入流（cin）&#34; class=&#34;headerlink&#34; title=&#34;标准输入流（cin）&#34;&gt;&lt;/a&gt;标准输入流（cin）&lt;/h3&gt;&lt;p&gt;预定义的对象 &lt;strong&gt;cin&lt;/strong&gt; 是 &lt;strong&gt;iostream&lt;/strong&gt; 类的一个实例。cin 对象附属到标准输入设备，通常是键盘。&lt;strong&gt;cin&lt;/strong&gt; 是与流提取运算符 &amp;gt;&amp;gt; 结合使用的，&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;cin &amp;gt;&amp;gt; str_cin;&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;标准错误流（cerr）&#34;&gt;&lt;a href=&#34;#标准错误流（cerr）&#34; class=&#34;headerlink&#34; title=&#34;标准错误流（cerr）&#34;&gt;&lt;/a&gt;标准错误流（cerr）&lt;/h3&gt;&lt;p&gt;预定义的对象 &lt;strong&gt;cerr&lt;/strong&gt; 是 &lt;strong&gt;iostream&lt;/strong&gt; 类的一个实例。cerr 对象附属到标准输出设备，通常也是显示屏，但是 &lt;strong&gt;cerr&lt;/strong&gt; 对象是非缓冲的，且每个流插入到 cerr 都会立即输出。&lt;/p&gt;
+&lt;h3 id=&#34;标准日志流（clog）&#34;&gt;&lt;a href=&#34;#标准日志流（clog）&#34; class=&#34;headerlink&#34; title=&#34;标准日志流（clog）&#34;&gt;&lt;/a&gt;标准日志流（clog）&lt;/h3&gt;&lt;p&gt;预定义的对象 &lt;strong&gt;clog&lt;/strong&gt; 是 &lt;strong&gt;iostream&lt;/strong&gt; 类的一个实例。clog 对象附属到标准输出设备，通常也是显示屏，但是 &lt;strong&gt;clog&lt;/strong&gt; 对象是缓冲的。这意味着每个流插入到 clog 都会先存储在缓冲区，直到缓冲填满或者缓冲区刷新时才会输出。&lt;/p&gt;
+&lt;h2 id=&#34;引用-amp-注意区别于指针&#34;&gt;&lt;a href=&#34;#引用-amp-注意区别于指针&#34; class=&#34;headerlink&#34; title=&#34;引用&amp;amp; (注意区别于指针)&#34;&gt;&lt;/a&gt;引用&amp;amp; (注意区别于指针)&lt;/h2&gt;&lt;h4 id=&#34;C-引用-vs-指针&#34;&gt;&lt;a href=&#34;#C-引用-vs-指针&#34; class=&#34;headerlink&#34; title=&#34;C++ 引用 vs 指针&#34;&gt;&lt;/a&gt;C++ 引用 vs 指针&lt;/h4&gt;&lt;p&gt;引用很容易与指针混淆，它们之间有三个主要的不同：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不存在空引用。引用必须连接到一块合法的内存。&lt;/li&gt;
+&lt;li&gt;一旦引用被初始化为一个对象，就不能被指向到另一个对象。指针可以在任何时候指向到另一个对象。&lt;/li&gt;
+&lt;li&gt;引用必须在创建时被初始化。指针可以在任何时间被初始化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;引用符号:&amp;amp;&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; i=&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;&amp;amp; j=i;					&lt;span class=&#34;hljs-comment&#34;&gt;//引用&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;Max&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;&amp;amp; a, &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;&amp;amp; b)&lt;/span&gt;&lt;/span&gt;;	&lt;span class=&#34;hljs-comment&#34;&gt;//引用传参&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;new-delete-动态内存分配&#34;&gt;&lt;a href=&#34;#new-delete-动态内存分配&#34; class=&#34;headerlink&#34; title=&#34;new delete 动态内存分配&#34;&gt;&lt;/a&gt;new delete 动态内存分配&lt;/h2&gt;&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; * pi = &lt;span class=&#34;hljs-keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;int&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;225&lt;/span&gt;); 	&lt;span class=&#34;hljs-comment&#34;&gt;//分配的同时 初始化值&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; * pia = &lt;span class=&#34;hljs-keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;[&lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;]; 	&lt;span class=&#34;hljs-comment&#34;&gt;//数据的new和delete&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;delete&lt;/span&gt; []pia;				&lt;span class=&#34;hljs-comment&#34;&gt;// 带方括号释放&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;具体差别可以参考&lt;/p&gt;
+&lt;p&gt;[new delete malloc free]: ..\embedded!Main\嵌入式编程学习笔记.md#C类##newdeletemallocfree	“new delete malloc free”&lt;/p&gt;
+&lt;p&gt;[new delete malloc free](..\embedded!Main\嵌入式编程学习笔记.md##new delete malloc free)&lt;/p&gt;
+&lt;h2 id=&#34;函数&#34;&gt;&lt;a href=&#34;#函数&#34; class=&#34;headerlink&#34; title=&#34;函数&#34;&gt;&lt;/a&gt;函数&lt;/h2&gt;&lt;h3 id=&#34;函数参数&#34;&gt;&lt;a href=&#34;#函数参数&#34; class=&#34;headerlink&#34; title=&#34;函数参数&#34;&gt;&lt;/a&gt;函数参数&lt;/h3&gt;&lt;p&gt;如果函数要使用参数，则必须声明接受参数值的变量。这些变量称为函数的&lt;strong&gt;形式参数&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;形式参数就像函数内的其他局部变量，在进入函数时被创建，退出函数时被销毁。&lt;/p&gt;
+&lt;p&gt;当调用函数时，有三种向函数传递参数的方式：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;调用类型&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/cplusplus/cpp-function-call-by-value.html&#34;&gt;传值调用&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;该方法把参数的实际值赋值给函数的形式参数。&lt;br&gt;在这种情况下，修改函数内的形式参数对实际参数没有影响。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/cplusplus/cpp-function-call-by-pointer.html&#34;&gt;指针调用&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;该方法把参数的地址赋值给形式参数。&lt;br/&gt;在函数内，该地址用于访问调用中要用到的实际参数。这意味着，修改形式参数会影响实际参数。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/cplusplus/cpp-function-call-by-reference.html&#34;&gt;引用调用&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;该方法把参数的引用赋值给形式参数。&lt;br/&gt;在函数内，该引用用于访问调用中要用到的实际参数。这意味着，修改形式参数会影响实际参数。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;默认参数&#34;&gt;&lt;a href=&#34;#默认参数&#34; class=&#34;headerlink&#34; title=&#34;默认参数&#34;&gt;&lt;/a&gt;默认参数&lt;/h3&gt;&lt;p&gt;当您定义一个函数，您可以为参数列表中后边的每一个参数指定默认值。当调用函数时，如果实际参数的值留空，则使用这个默认值。&lt;/p&gt;
+&lt;p&gt;这是通过在函数定义中使用赋值运算符来为参数赋值的。调用函数时，如果未传递参数的值，则会使用默认值，如果指定了值，则会忽略默认值，使用传递的值。&lt;/p&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;fun&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; a=&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; b=&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;fun&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; a, &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; b)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;//do thing&lt;/span&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;Lambda函数-匿名函数&#34;&gt;&lt;a href=&#34;#Lambda函数-匿名函数&#34; class=&#34;headerlink&#34; title=&#34;Lambda函数 匿名函数&#34;&gt;&lt;/a&gt;Lambda函数 匿名函数&lt;/h3&gt;&lt;p&gt;C++11 提供了对匿名函数的支持,称为 Lambda 函数(也叫 Lambda 表达式)。&lt;/p&gt;
+&lt;p&gt;Lambda 表达式把函数看作对象。Lambda 表达式可以像对象一样使用，比如可以将它们赋给变量和作为参数传递，还可以像函数一样对其求值。&lt;/p&gt;
+&lt;p&gt;Lambda 表达式本质上与函数声明非常类似。Lambda 表达式具体形式如下:&lt;/p&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 有返回值&lt;/span&gt;&lt;br&gt;[capture](parameters)-&amp;gt;&lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt;-type&amp;#123;body&amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 无返回值&lt;/span&gt;&lt;br&gt;[capture](parameters)&amp;#123;body&amp;#125;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 例子&lt;/span&gt;&lt;br&gt;[](&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; x, &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; y)&amp;#123; &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; x &amp;lt; y ; &amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 如果没有参数,空的圆括号()可以省略。&lt;/span&gt;&lt;br&gt;[]&amp;#123; ++global_x; &amp;#125; &lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 在一个更为复杂的例子中，返回类型可以被明确的指定&lt;/span&gt;&lt;br&gt;[](&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; x, &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; y) -&amp;gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &amp;#123; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; z = x + y; &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; z + x; &amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;关于capture里面的值如何获取：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  []      &amp;#x2F;&amp;#x2F; 沒有定义任何变量。使用未定义变量会引发错误。&lt;br&gt;  [x, &amp;amp;y] &amp;#x2F;&amp;#x2F; x以传值方式传入（默认），y以引用方式传入。&lt;br&gt;  [&amp;amp;]     &amp;#x2F;&amp;#x2F; 任何被使用到的外部变量都隐式地以引用方式加以引用。&lt;br&gt;  [&amp;#x3D;]     &amp;#x2F;&amp;#x2F; 任何被使用到的外部变量都隐式地以传值方式加以引用。&lt;br&gt;  [&amp;amp;, x]  &amp;#x2F;&amp;#x2F; x显式地以传值方式加以引用。其余变量以引用方式加以引用。&lt;br&gt;  [&amp;#x3D;, &amp;amp;z] &amp;#x2F;&amp;#x2F; z显式地以引用方式加以引用。其余变量以传值方式加以引用。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;值捕获 与函数中的值传递类似。lambda表达式捕获的是变量的一个拷贝，因此我们如果在lambda表达式后面改变该变量值的话，不会影响捕获前的该变量值，这就是所谓的值捕获&lt;/p&gt;
+&lt;figure class=&#34;highlight perl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs perl&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;int&lt;/span&gt; a = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;;&lt;br&gt;[a]()&amp;#123;&lt;span class=&#34;hljs-keyword&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%d\n&amp;quot;&lt;/span&gt;, a;);&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;引用捕获 引用捕获和值捕获形式完全一样，只是在捕获列表中传的是变量的引用，类似于函数中的引用传递，变成下面这个样子&lt;/p&gt;
+&lt;figure class=&#34;highlight perl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs perl&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;int&lt;/span&gt; a = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;;&lt;br&gt;[&amp;amp;a]()&amp;#123;&lt;span class=&#34;hljs-keyword&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%d\n&amp;quot;&lt;/span&gt;, a;);&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;隐式捕获的方式，就是捕获的列表可以用&lt;code&gt;=&lt;/code&gt;和&lt;code&gt;&amp;amp;&lt;/code&gt;代替，让编译器隐式的推断你使用的是哪个变量，然后这两个字符表示捕获的类型&lt;code&gt;=&lt;/code&gt;表示值捕获，&lt;code&gt;&amp;amp;&lt;/code&gt;是引用捕获；写出来之后就变成了如下的形式：&lt;/p&gt;
+&lt;figure class=&#34;highlight perl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs perl&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;int&lt;/span&gt; a = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;;&lt;br&gt;[=]()&amp;#123;&lt;span class=&#34;hljs-keyword&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%d\n&amp;quot;&lt;/span&gt;, a);&amp;#125;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 捕获&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;main&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;    string str1 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str1&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str2 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str2&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str3 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3&amp;quot;&lt;/span&gt;;&lt;br&gt;    &lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 这是传值捕获&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;auto&lt;/span&gt; fun = [str1, str2]() &amp;#123;&lt;br&gt;        cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;5 str1 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str1 &amp;lt;&amp;lt; endl;&lt;br&gt;        cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;5 str2 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str2 &amp;lt;&amp;lt; endl;&lt;br&gt;    &amp;#125;;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;1 str1 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str1 &amp;lt;&amp;lt; endl;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;1 str2 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str2 &amp;lt;&amp;lt; endl;&lt;br&gt;    str1 += str2;&lt;br&gt;    str2 += str1;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;fun&lt;/span&gt;();&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;2 str1 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str1 &amp;lt;&amp;lt; endl;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;2 str2 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str2 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;br&gt;    &lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 输出&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; str1 : str1&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; str2 : str2&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt; str1 : str1&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt; str2 : str2&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt; str1 : str1str2&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt; str2 : str2str1str2&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 被当成普通函数使用了&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;main&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;    string str1 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str1&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str2 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str2&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str3 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3&amp;quot;&lt;/span&gt;;&lt;br&gt;    &lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;auto&lt;/span&gt; stradd = [&amp;amp;](string&amp;amp; stra,string&amp;amp; strb) &amp;#123;&lt;br&gt;        cout &amp;lt;&amp;lt; stra &amp;lt;&amp;lt; endl;&lt;br&gt;        cout &amp;lt;&amp;lt; strb &amp;lt;&amp;lt; endl;&lt;br&gt;        stra += strb;&lt;br&gt;        strb += stra;&lt;br&gt;    &amp;#125;;&lt;br&gt;    &lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;1 str1 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str1 &amp;lt;&amp;lt; endl;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;1 str2 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str2 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;stradd&lt;/span&gt;(str1, str2);&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;2 str1 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str1 &amp;lt;&amp;lt; endl;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;2 str2 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str2 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//输出&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; str1 : str1&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; str2 : str2&lt;br&gt;str1&lt;br&gt;str2&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt; str1 : str1str2&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt; str2 : str2str1str2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;这个知识点没看懂是匿了什么名, 不知所云, 难道和匿名没关系?只是捕获的功能?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;函数重载&#34;&gt;&lt;a href=&#34;#函数重载&#34; class=&#34;headerlink&#34; title=&#34;函数重载&#34;&gt;&lt;/a&gt;函数重载&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;确保函数名一致，在调用时根据参数来判断调用那个函数。&lt;/li&gt;
+&lt;li&gt;其参数个数或类型有所不同。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;Max&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; a, &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; b)&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;Max&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; a, &lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; b)&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;Max&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;112&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;223&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;Max&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;1.2&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;2.3&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h1 id=&#34;类和对象&#34;&gt;&lt;a href=&#34;#类和对象&#34; class=&#34;headerlink&#34; title=&#34;类和对象&#34;&gt;&lt;/a&gt;类和对象&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;对象是类的实例&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;MyClass&lt;/span&gt;;		&lt;span class=&#34;hljs-comment&#34;&gt;//类的声明，在被引用前声明，被其他类引用相互引用&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;MyClass&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; a;			&lt;span class=&#34;hljs-comment&#34;&gt;//默认私有属性，数据成员不能初始化 //int a(20);错误&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;public&lt;/span&gt;:				&lt;span class=&#34;hljs-comment&#34;&gt;//公有成员&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;Fun&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;;	&lt;span class=&#34;hljs-comment&#34;&gt;//这里放声明，或者直接定义在类里面(直接定义在类里面默认内联)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;private&lt;/span&gt;:			&lt;span class=&#34;hljs-comment&#34;&gt;//私有成员&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;protected&lt;/span&gt;:			&lt;span class=&#34;hljs-comment&#34;&gt;//保护成员&lt;/span&gt;&lt;br&gt;&amp;#125;;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;MyClass::Fun&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;)&lt;/span&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;//可以定义在类里面，也可以定义在外面&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;构造函数和析构函数&#34;&gt;&lt;a href=&#34;#构造函数和析构函数&#34; class=&#34;headerlink&#34; title=&#34;构造函数和析构函数&#34;&gt;&lt;/a&gt;构造函数和析构函数&lt;/h2&gt;&lt;h3 id=&#34;构造函数&#34;&gt;&lt;a href=&#34;#构造函数&#34; class=&#34;headerlink&#34; title=&#34;构造函数&#34;&gt;&lt;/a&gt;构造函数&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;与类同名&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;(有但不指定)返回值&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可重载&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;可以有传入参数&lt;/li&gt;
+&lt;li&gt;创建对象时自动调用&lt;/li&gt;
+&lt;li&gt;初始化由类中声明顺序决定，与初始化列表顺序无关&lt;/li&gt;
+&lt;li&gt;初始化列表优先于构造函数内的赋值&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Line&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;   &lt;span class=&#34;hljs-keyword&#34;&gt;public&lt;/span&gt;:&lt;br&gt;      &lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;setLength&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; len )&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;      &lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;getLength&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; )&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;      &lt;span class=&#34;hljs-built_in&#34;&gt;Line&lt;/span&gt;(&lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; len);  &lt;span class=&#34;hljs-comment&#34;&gt;// 这是构造函数&lt;/span&gt;&lt;br&gt; &lt;br&gt;   &lt;span class=&#34;hljs-keyword&#34;&gt;private&lt;/span&gt;:&lt;br&gt;      &lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; length;&lt;br&gt;&amp;#125;;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 成员函数定义，包括构造函数&lt;/span&gt;&lt;br&gt;Line::&lt;span class=&#34;hljs-built_in&#34;&gt;Line&lt;/span&gt;( &lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; len)&lt;br&gt;&amp;#123;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Object is being created, length = &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; len &amp;lt;&amp;lt; endl;&lt;br&gt;    length = len;&lt;br&gt;&amp;#125;&lt;br&gt; &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h4 id=&#34;初始化列表&#34;&gt;&lt;a href=&#34;#初始化列表&#34; class=&#34;headerlink&#34; title=&#34;初始化列表&#34;&gt;&lt;/a&gt;初始化列表&lt;/h4&gt;&lt;p&gt;使用初始化列表来初始化字段：&lt;/p&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;Line::&lt;span class=&#34;hljs-built_in&#34;&gt;Line&lt;/span&gt;( &lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; len): &lt;span class=&#34;hljs-built_in&#34;&gt;length&lt;/span&gt;(len)&lt;br&gt;&amp;#123;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Object is being created, length = &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; len &amp;lt;&amp;lt; endl;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;上面的语法等同于如下语法：&lt;/p&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;Line::&lt;span class=&#34;hljs-built_in&#34;&gt;Line&lt;/span&gt;( &lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; len)&lt;br&gt;&amp;#123;&lt;br&gt;    length = len;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Object is being created, length = &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; len &amp;lt;&amp;lt; endl;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;假设有一个类 C，具有多个字段 X、Y、Z 等需要进行初始化，同理地，您可以使用上面的语法，只需要在不同的字段使用逗号进行分隔，如下所示：&lt;/p&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;C::&lt;span class=&#34;hljs-built_in&#34;&gt;C&lt;/span&gt;( &lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; a, &lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; b, &lt;span class=&#34;hljs-type&#34;&gt;double&lt;/span&gt; c): &lt;span class=&#34;hljs-built_in&#34;&gt;X&lt;/span&gt;(a), &lt;span class=&#34;hljs-built_in&#34;&gt;Y&lt;/span&gt;(b), &lt;span class=&#34;hljs-built_in&#34;&gt;Z&lt;/span&gt;(c)&lt;br&gt;&amp;#123;&lt;br&gt;  ....&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;析构函数&#34;&gt;&lt;a href=&#34;#析构函数&#34; class=&#34;headerlink&#34; title=&#34;析构函数&#34;&gt;&lt;/a&gt;析构函数&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;类名前加 ~&lt;/li&gt;
+&lt;li&gt;不能有返回值&lt;/li&gt;
+&lt;li&gt;无参数，不重载&lt;/li&gt;
+&lt;li&gt;销毁系统自动调用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;~&lt;span class=&#34;hljs-built_in&#34;&gt;MyClass&lt;/span&gt;()&lt;br&gt;&amp;#123;&lt;br&gt;    std::cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Delete MyClass:&amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; name &amp;lt;&amp;lt; endl;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;复制构造函数&#34;&gt;&lt;a href=&#34;#复制构造函数&#34; class=&#34;headerlink&#34; title=&#34;复制构造函数&#34;&gt;&lt;/a&gt;复制构造函数&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;与类同名&lt;/li&gt;
+&lt;li&gt;只有一个参数即对同类引用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;被调用的情况&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用类的已知对象初始化另一个正在创建的对象&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;MyClass&lt;/span&gt;( &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; MyClass&amp;amp; cIn )&lt;br&gt;&amp;#123;&lt;br&gt;    x = cIn.x;&lt;br&gt;    y = cIn.y;&lt;br&gt;    name = cIn.name;&lt;br&gt;    std::cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Copy MyClass&amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; endl;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;this-指针&#34;&gt;&lt;a href=&#34;#this-指针&#34; class=&#34;headerlink&#34; title=&#34;this 指针&#34;&gt;&lt;/a&gt;this 指针&lt;/h2&gt;&lt;p&gt;this指针指向类对象的地址&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;以下两函数等价&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;MyClass::Fun&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; in )&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;	x = in;&lt;br&gt;	&lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;MyClass::Fun&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; in )&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;	&lt;span class=&#34;hljs-keyword&#34;&gt;this&lt;/span&gt;-&amp;gt;x = in;&lt;br&gt;	&lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;静态成员-static&#34;&gt;&lt;a href=&#34;#静态成员-static&#34; class=&#34;headerlink&#34; title=&#34;静态成员 static&#34;&gt;&lt;/a&gt;静态成员 static&lt;/h2&gt;&lt;h3 id=&#34;变量&#34;&gt;&lt;a href=&#34;#变量&#34; class=&#34;headerlink&#34; title=&#34;变量&#34;&gt;&lt;/a&gt;变量&lt;/h3&gt;&lt;p&gt;所有类的对象有一个相同唯一的  数据成员 (共同点)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;static 声明的 数据成员(初始化不加static)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;作用域是类范围类&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;必须要进行初始化，文件作用域进行初始化&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;MyClass&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;public&lt;/span&gt;:					&lt;span class=&#34;hljs-comment&#34;&gt;//公有成员&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;MyClass&lt;/span&gt;( xxx ):xxx 	&lt;span class=&#34;hljs-comment&#34;&gt;//构造函数&lt;/span&gt;&lt;br&gt;	&amp;#123;&lt;br&gt;		cont++;			&lt;span class=&#34;hljs-comment&#34;&gt;//静态与非静态 数据成员访问方式一致，每构造一个类就会++&lt;/span&gt;&lt;br&gt;	&amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;private&lt;/span&gt;:				&lt;span class=&#34;hljs-comment&#34;&gt;//私有成员&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-type&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; cont;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; MyClass::cont = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;	&lt;span class=&#34;hljs-comment&#34;&gt;//文件作用范围 初始化&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;函数-1&#34;&gt;&lt;a href=&#34;#函数-1&#34; class=&#34;headerlink&#34; title=&#34;函数&#34;&gt;&lt;/a&gt;函数&lt;/h3&gt;&lt;p&gt;所有类的对象有一个相同唯一的   函数 (操作)，该函数不能直接访问非静态成员(static 变量)。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;static 声明的函数(类外定义不能加static)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;MyClass&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;public&lt;/span&gt;:				&lt;span class=&#34;hljs-comment&#34;&gt;//公有成员&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;Print&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; )&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;private&lt;/span&gt;:			&lt;span class=&#34;hljs-comment&#34;&gt;//私有成员&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; x, y;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; cont;&lt;br&gt;&amp;#125;;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;MyClass::Print&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; )&lt;/span&gt;			&lt;span class=&#34;hljs-comment&#34;&gt;//不加static&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;	cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Print1&amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; cont &amp;lt;&amp;lt; endl;	&lt;span class=&#34;hljs-comment&#34;&gt;//不能使用 this ，不能引用 x、y&lt;/span&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;br&gt;MyClass A,B;&lt;br&gt;&lt;br&gt;MyClass.&lt;span class=&#34;hljs-built_in&#34;&gt;Print&lt;/span&gt;();					&lt;span class=&#34;hljs-comment&#34;&gt;//建议访问方式 (表明该成员属于类，而不是对象)&lt;/span&gt;&lt;br&gt;A.&lt;span class=&#34;hljs-built_in&#34;&gt;Print&lt;/span&gt;();							&lt;span class=&#34;hljs-comment&#34;&gt;//效果一致不建议使用&lt;/span&gt;&lt;br&gt;B.&lt;span class=&#34;hljs-built_in&#34;&gt;Print&lt;/span&gt;();							&lt;span class=&#34;hljs-comment&#34;&gt;//效果一致不建议使用&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;常成员-const&#34;&gt;&lt;a href=&#34;#常成员-const&#34; class=&#34;headerlink&#34; title=&#34;常成员 const&#34;&gt;&lt;/a&gt;常成员 const&lt;/h2&gt;&lt;h3 id=&#34;常对象&#34;&gt;&lt;a href=&#34;#常对象&#34; class=&#34;headerlink&#34; title=&#34;常对象&#34;&gt;&lt;/a&gt;常对象&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;不可更改&lt;/li&gt;
+&lt;li&gt;定义时必须初始化&lt;/li&gt;
+&lt;li&gt;只能调用 常成员函数(有const)，不能调用一般的成员函数(没有const的一般函数)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&amp;lt;类名&amp;gt; &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &amp;lt;对象名&amp;gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &amp;lt;类名&amp;gt; &amp;lt;对象名&amp;gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; MyClass &lt;span class=&#34;hljs-title&#34;&gt;A&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;常数据成员&#34;&gt;&lt;a href=&#34;#常数据成员&#34; class=&#34;headerlink&#34; title=&#34;常数据成员&#34;&gt;&lt;/a&gt;常数据成员&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;只能通过构造函数成员初始化列表显式初始化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;MyClass&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;public&lt;/span&gt;:					&lt;span class=&#34;hljs-comment&#34;&gt;//公有成员&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;MyClass&lt;/span&gt;(&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; i):&lt;span class=&#34;hljs-built_in&#34;&gt;a&lt;/span&gt;(i) &amp;#123;&amp;#125;&lt;br&gt;    &lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;GetCont&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; )&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;private&lt;/span&gt;:				&lt;span class=&#34;hljs-comment&#34;&gt;//私有成员&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; x, y;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; a;&lt;br&gt;&amp;#125;;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; MyClass::a = &lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;;		&lt;span class=&#34;hljs-comment&#34;&gt;//初始化&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;常成员函数&#34;&gt;&lt;a href=&#34;#常成员函数&#34; class=&#34;headerlink&#34; title=&#34;常成员函数&#34;&gt;&lt;/a&gt;常成员函数&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;声明 定义都需要const&lt;/li&gt;
+&lt;li&gt;常成员函数 不能更改对象的数据成员&lt;/li&gt;
+&lt;li&gt;可重载&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&amp;lt;返回类型&amp;gt; &amp;lt;成员函数名&amp;gt; (&amp;lt;参数表&amp;gt;) &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt;;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;MyClass&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;public&lt;/span&gt;:					&lt;span class=&#34;hljs-comment&#34;&gt;//公有成员&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;GetCont&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; )&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;private&lt;/span&gt;:				&lt;span class=&#34;hljs-comment&#34;&gt;//私有成员&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; x, y;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; cont;&lt;br&gt;&amp;#125;;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;MyClass::GetCont&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; )&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;//需要加const&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;//return cont++;	//不允许更改 数据成员&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; cont;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+&lt;h1 id=&#34;Lib&#34;&gt;&lt;a href=&#34;#Lib&#34; class=&#34;headerlink&#34; title=&#34;Lib&#34;&gt;&lt;/a&gt;Lib&lt;/h1&gt;&lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;头文件&#34;&gt;&lt;a href=&#34;#头文件&#34; class=&#34;headerlink&#34; title=&#34;头文件&#34;&gt;&lt;/a&gt;头文件&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;每个头文件只声明一个类&lt;/li&gt;
+&lt;li&gt;#ifndef 防止重复包含&lt;/li&gt;
+&lt;li&gt;cpp 和 h 文件应该同名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;读取文件发现数据长度不对&#34;&gt;&lt;a href=&#34;#读取文件发现数据长度不对&#34; class=&#34;headerlink&#34; title=&#34;读取文件发现数据长度不对&#34;&gt;&lt;/a&gt;读取文件发现数据长度不对&lt;/h2&gt;&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 方法一&lt;/span&gt;&lt;br&gt;InLogFile.&lt;span class=&#34;hljs-built_in&#34;&gt;seekg&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, ios::end);&lt;br&gt;streampos pos = InLogFile.&lt;span class=&#34;hljs-built_in&#34;&gt;tellg&lt;/span&gt;();&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; length = pos;&lt;br&gt;&lt;br&gt;InLogFile.&lt;span class=&#34;hljs-built_in&#34;&gt;seekg&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, ios::beg);&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; * pBuffer = &lt;span class=&#34;hljs-keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;[length];&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;memset&lt;/span&gt;(pBuffer, &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, length);&lt;br&gt;InLogFile.&lt;span class=&#34;hljs-built_in&#34;&gt;read&lt;/span&gt;(pBuffer, length);&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 方法二&lt;/span&gt;&lt;br&gt;std::string strr;&lt;br&gt;&amp;#123; &lt;span class=&#34;hljs-comment&#34;&gt;// 读出全部文件&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-function&#34;&gt;std::ifstream &lt;span class=&#34;hljs-title&#34;&gt;in&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(InFilePath)&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;    std::ostringstream tmp;&lt;br&gt;    tmp &amp;lt;&amp;lt; in.&lt;span class=&#34;hljs-built_in&#34;&gt;rdbuf&lt;/span&gt;();&lt;br&gt;    strr = tmp.&lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;();&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;length&amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; endl;&lt;br&gt;cout &amp;lt;&amp;lt; length &amp;lt;&amp;lt; endl;&lt;br&gt;cout &amp;lt;&amp;lt; strr.&lt;span class=&#34;hljs-built_in&#34;&gt;length&lt;/span&gt;() &amp;lt;&amp;lt; endl;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&#34;highlight&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs&#34;&gt;12552&lt;br&gt;12352&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;他们的输出结果似乎不太一样, 好像是对 &lt;code&gt;0D 0A&lt;/code&gt; 的数量计算方法不太一致导致的.&lt;/p&gt;
+&lt;h2 id=&#34;读取文件全部内容&#34;&gt;&lt;a href=&#34;#读取文件全部内容&#34; class=&#34;headerlink&#34; title=&#34;读取文件全部内容&#34;&gt;&lt;/a&gt;读取文件全部内容&lt;/h2&gt;&lt;p&gt;iostream著名专家Dietmar Kuehl给出了两个读取方法&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs cpp&#34;&gt;&lt;span class=&#34;hljs-function&#34;&gt;std::ifstream &lt;span class=&#34;hljs-title&#34;&gt;in&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;some.file&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;std::isreambuf_iterator&amp;lt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;&amp;gt; &lt;span class=&#34;hljs-title&#34;&gt;begin&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(in)&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;std::isreambuf_iterator&amp;lt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;&amp;gt; end;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;std::string &lt;span class=&#34;hljs-title&#34;&gt;some_str&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(begin, end)&lt;/span&gt;&lt;/span&gt;;&lt;span class=&#34;hljs-number&#34;&gt;1234&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;或&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs cpp&#34;&gt;&lt;span class=&#34;hljs-function&#34;&gt;std::ifstream &lt;span class=&#34;hljs-title&#34;&gt;in&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;some.file&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;std::ostringstream tmp;&lt;br&gt;tmp &amp;lt;&amp;lt; in.&lt;span class=&#34;hljs-built_in&#34;&gt;rdbuf&lt;/span&gt;();&lt;br&gt;std::string str = tmp.&lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;();&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;C-x2F-C-调用exe文件&#34;&gt;&lt;a href=&#34;#C-x2F-C-调用exe文件&#34; class=&#34;headerlink&#34; title=&#34;C&amp;#x2F;C++调用exe文件&#34;&gt;&lt;/a&gt;C&amp;#x2F;C++调用exe文件&lt;/h2&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// C 此为命令行控制台方法&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;* a1 = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;*)&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;hello&amp;quot;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;* a2 = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;*)&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;world&amp;quot;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;* a3 = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;*)&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;!&amp;quot;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; s[&lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;];&lt;br&gt;sprintf_s(s,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s %s %s %s &amp;quot;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;./ceshi.exe&amp;quot;&lt;/span&gt;,a1,a2,a3);&lt;br&gt;system(s);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2020/3dd7ffa7/</guid>
+            <title>C</title>
+            <link>https://www.oikiou.top/2020/3dd7ffa7/</link>
+            <category>c</category>
+            <category>c/c++</category>
+            <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;标准库函数&#34;&gt;&lt;a href=&#34;#标准库函数&#34; class=&#34;headerlink&#34; title=&#34;标准库函数&#34;&gt;&lt;/a&gt;标准库函数&lt;/h1&gt;&lt;h2 id=&#34;fprintf-输出到流中&#34;&gt;&lt;a href=&#34;#fprintf-输出到流中&#34; class=&#34;headerlink&#34; title=&#34;fprintf 输出到流中&#34;&gt;&lt;/a&gt;fprintf 输出到流中&lt;/h2&gt;&lt;h3 id=&#34;描述&#34;&gt;&lt;a href=&#34;#描述&#34; class=&#34;headerlink&#34; title=&#34;描述&#34;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;p&gt;C 库函数 &lt;strong&gt;int fprintf(FILE *stream, const char *format, …)&lt;/strong&gt; 发送格式化输出到流 stream 中。&lt;/p&gt;
+&lt;h3 id=&#34;声明&#34;&gt;&lt;a href=&#34;#声明&#34; class=&#34;headerlink&#34; title=&#34;声明&#34;&gt;&lt;/a&gt;声明&lt;/h3&gt;&lt;p&gt;下面是 fprintf() 函数的声明。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;fprintf&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(FILE *stream, &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *format, ...)&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;参数&#34;&gt;&lt;a href=&#34;#参数&#34; class=&#34;headerlink&#34; title=&#34;参数&#34;&gt;&lt;/a&gt;参数&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;stream&lt;/strong&gt; – 这是指向 FILE 对象的指针，该 FILE 对象标识了流。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;format&lt;/strong&gt; – 这是 C 字符串，包含了要被写入到流 stream 中的文本。它可以包含嵌入的 format 标签，format 标签可被随后的附加参数中指定的值替换，并按需求进行格式化。format 标签属性是 &lt;strong&gt;%[flags][width][.precision][length]specifier&lt;/strong&gt;，具体讲解如下：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;返回值&#34;&gt;&lt;a href=&#34;#返回值&#34; class=&#34;headerlink&#34; title=&#34;返回值&#34;&gt;&lt;/a&gt;返回值&lt;/h3&gt;&lt;p&gt;如果成功，则返回写入的字符总数，否则返回一个负数。&lt;/p&gt;
+&lt;h3 id=&#34;实例&#34;&gt;&lt;a href=&#34;#实例&#34; class=&#34;headerlink&#34; title=&#34;实例&#34;&gt;&lt;/a&gt;实例&lt;/h3&gt;&lt;p&gt;下面的实例演示了 fprintf() 函数的用法。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;stdlib.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;   FILE * fp;&lt;br&gt;&lt;br&gt;   fp = fopen (&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;file.txt&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;w+&amp;quot;&lt;/span&gt;);&lt;br&gt;   &lt;span class=&#34;hljs-built_in&#34;&gt;fprintf&lt;/span&gt;(fp, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s %s %s %d&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;We&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;are&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;in&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;2014&lt;/span&gt;);&lt;br&gt;   &lt;br&gt;   fclose(fp);&lt;br&gt;   &lt;br&gt;   &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;让我们编译并运行上面的程序，这将创建文件 &lt;strong&gt;file.txt&lt;/strong&gt;，它的内容如下：&lt;/p&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs apache&#34;&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;We&lt;/span&gt; are in &lt;span class=&#34;hljs-number&#34;&gt;2014&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;atoi-字符串转换成整数&#34;&gt;&lt;a href=&#34;#atoi-字符串转换成整数&#34; class=&#34;headerlink&#34; title=&#34;atoi 字符串转换成整数&#34;&gt;&lt;/a&gt;atoi 字符串转换成整数&lt;/h2&gt;&lt;h3 id=&#34;描述-1&#34;&gt;&lt;a href=&#34;#描述-1&#34; class=&#34;headerlink&#34; title=&#34;描述&#34;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;p&gt;C 库函数 &lt;strong&gt;int atoi(const char *str)&lt;/strong&gt; 把参数 &lt;strong&gt;str&lt;/strong&gt; 所指向的字符串转换为一个整数（类型为 int 型）。&lt;/p&gt;
+&lt;h3 id=&#34;声明-1&#34;&gt;&lt;a href=&#34;#声明-1&#34; class=&#34;headerlink&#34; title=&#34;声明&#34;&gt;&lt;/a&gt;声明&lt;/h3&gt;&lt;p&gt;下面是 atoi() 函数的声明。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;atoi&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *str)&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;参数-1&#34;&gt;&lt;a href=&#34;#参数-1&#34; class=&#34;headerlink&#34; title=&#34;参数&#34;&gt;&lt;/a&gt;参数&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;str&lt;/strong&gt; – 要转换为整数的字符串。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;返回值-1&#34;&gt;&lt;a href=&#34;#返回值-1&#34; class=&#34;headerlink&#34; title=&#34;返回值&#34;&gt;&lt;/a&gt;返回值&lt;/h3&gt;&lt;p&gt;该函数返回转换后的长整数，如果没有执行有效的转换，则返回零。&lt;/p&gt;
+&lt;h3 id=&#34;实例-1&#34;&gt;&lt;a href=&#34;#实例-1&#34; class=&#34;headerlink&#34; title=&#34;实例&#34;&gt;&lt;/a&gt;实例&lt;/h3&gt;&lt;p&gt;下面的实例演示了 atoi() 函数的用法。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;stdlib.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;string.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;   &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; val;&lt;br&gt;   &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; str[&lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt;];&lt;br&gt;   &lt;br&gt;   &lt;span class=&#34;hljs-built_in&#34;&gt;strcpy&lt;/span&gt;(str, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;98993489&amp;quot;&lt;/span&gt;);&lt;br&gt;   val = atoi(str);&lt;br&gt;   &lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;字符串值 = %s, 整型值 = %d\n&amp;quot;&lt;/span&gt;, str, val);&lt;br&gt;&lt;br&gt;   &lt;span class=&#34;hljs-built_in&#34;&gt;strcpy&lt;/span&gt;(str, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;runoob.com&amp;quot;&lt;/span&gt;);&lt;br&gt;   val = atoi(str);&lt;br&gt;   &lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;字符串值 = %s, 整型值 = %d\n&amp;quot;&lt;/span&gt;, str, val);&lt;br&gt;&lt;br&gt;   &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;让我们编译并运行上面的程序，这将产生以下结果：&lt;/p&gt;
+&lt;figure class=&#34;highlight dns&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dns&#34;&gt;字符串值 = &lt;span class=&#34;hljs-number&#34;&gt;98993489&lt;/span&gt;, 整型值 = &lt;span class=&#34;hljs-number&#34;&gt;98993489&lt;/span&gt;&lt;br&gt;字符串值 = runoob.com, 整型值 = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;printf&#34;&gt;&lt;a href=&#34;#printf&#34; class=&#34;headerlink&#34; title=&#34;printf&#34;&gt;&lt;/a&gt;printf&lt;/h2&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;printf&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; * format, ... )&lt;/span&gt;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;将format 指向的 C 字符串写入标准输出 ( stdout )。如果format包含格式说明符（以%开头的子序列），则format后面的附加参数将被格式化并插入到结果字符串中，替换它们各自的说明符。&lt;/p&gt;
+&lt;h3 id=&#34;格式化&#34;&gt;&lt;a href=&#34;#格式化&#34; class=&#34;headerlink&#34; title=&#34;格式化&#34;&gt;&lt;/a&gt;格式化&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;%[flags][width][.precision][length]specifier&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h4 id=&#34;specifier&#34;&gt;&lt;a href=&#34;#specifier&#34; class=&#34;headerlink&#34; title=&#34;specifier&#34;&gt;&lt;/a&gt;specifier&lt;/h4&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;em&gt;specifier&lt;/em&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Output&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Example&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;d&lt;/code&gt; &lt;em&gt;or&lt;/em&gt; &lt;code&gt;i&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Signed decimal integer(有符号十进制整数)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;392&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;u&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Unsigned decimal integer&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;7235&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;o&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Unsigned octal (无符号八进制)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;610&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;x&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Unsigned hexadecimal integer (无符号十六进制整数)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;7fa&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;X&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Unsigned hexadecimal integer (uppercase)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;7FA&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;f&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Decimal floating point, lowercase (十进制浮点数，小写)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;392.65&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;F&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Decimal floating point, uppercase&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;392.65&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;e&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Scientific notation (mantissa&amp;#x2F;exponent), lowercase (科学记数法（尾数&amp;#x2F;指数），小写)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;3.9265e+2&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;E&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Scientific notation (mantissa&amp;#x2F;exponent), uppercase&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;3.9265E+2&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;g&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Use the shortest representation: &lt;code&gt;%e&lt;/code&gt; or &lt;code&gt;%f&lt;/code&gt; (使用最短的表示：&lt;code&gt;%e&lt;/code&gt;或&lt;code&gt;%f&lt;/code&gt;)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;392.65&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;G&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Use the shortest representation: &lt;code&gt;%E&lt;/code&gt; or &lt;code&gt;%F&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;392.65&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;a&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hexadecimal floating point, lowercase (十六进制浮点数，小写)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;-0xc.90fep-2&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;A&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hexadecimal floating point, uppercase&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;-0XC.90FEP-2&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;c&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Character&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;a&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;s&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;String of characters&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;sample&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;p&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Pointer address&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;b8000000&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;n&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Nothing printed. &lt;br/&gt;The corresponding argument must be a pointer to a &lt;code&gt;signed int&lt;/code&gt;.&lt;br&gt;The number of characters written so far is stored in the pointed location.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;%&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A &lt;code&gt;%&lt;/code&gt; followed by another &lt;code&gt;%&lt;/code&gt; character will write a single &lt;code&gt;%&lt;/code&gt; to the stream.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;%&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h4 id=&#34;flags&#34;&gt;&lt;a href=&#34;#flags&#34; class=&#34;headerlink&#34; title=&#34;flags&#34;&gt;&lt;/a&gt;flags&lt;/h4&gt;&lt;p&gt;格式说明符 还可以按顺序包含子说明符：&lt;code&gt;flags&lt;/code&gt;、&lt;code&gt;width&lt;/code&gt;、&lt;code&gt;.precision&lt;/code&gt;和&lt;code&gt;modifiers &lt;/code&gt;（这个是什么?），它们是可选的并遵循以下规范：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;em&gt;flags&lt;/em&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;-&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Left-justify within the given field width; Right justification is the default (see &lt;em&gt;width&lt;/em&gt; sub-specifier).&lt;br/&gt;(在给定的字段宽度内左对齐；右对齐是默认设置（请参阅&lt;em&gt;宽度&lt;/em&gt;子说明符）。)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;+&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Forces to preceed the result with a plus or minus sign (&lt;code&gt;+&lt;/code&gt; or &lt;code&gt;-&lt;/code&gt;) even for positive numbers. By default, only negative numbers are preceded with a &lt;code&gt;-&lt;/code&gt; sign.&lt;br/&gt;(即使对于正数，也强制在结果前面加上加号或减号（&lt;code&gt;+&lt;/code&gt;或&lt;code&gt;-&lt;/code&gt;)。默认情况下，只有负数前面带有&lt;code&gt;-&lt;/code&gt;号。)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;(space)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;If no sign is going to be written, a blank space is inserted before the value.&lt;br/&gt;(如果不写入符号，则在值之前插入一个空格。)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;#&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Used with &lt;code&gt;o&lt;/code&gt;, &lt;code&gt;x&lt;/code&gt; or &lt;code&gt;X&lt;/code&gt; specifiers the value is preceeded with &lt;code&gt;0&lt;/code&gt;, &lt;code&gt;0x&lt;/code&gt; or &lt;code&gt;0X&lt;/code&gt; respectively for values different than zero. &lt;br/&gt;Used with &lt;code&gt;a&lt;/code&gt;, &lt;code&gt;A&lt;/code&gt;, &lt;code&gt;e&lt;/code&gt;, &lt;code&gt;E&lt;/code&gt;, &lt;code&gt;f&lt;/code&gt;, &lt;code&gt;F&lt;/code&gt;, &lt;code&gt;g&lt;/code&gt; or &lt;code&gt;G&lt;/code&gt; it forces the written output to contain a decimal point even if no more digits follow. By default, if no digits follow, no decimal point is written.&lt;br/&gt;(与&lt;code&gt;o&lt;/code&gt;、&lt;code&gt;x&lt;/code&gt;或&lt;code&gt;X&lt;/code&gt;说明符一起使用时，该值前面分别带有&lt;code&gt;0&lt;/code&gt;、&lt;code&gt;0x&lt;/code&gt;或&lt;code&gt;0X&lt;/code&gt;，用于表示不同于零的值。&lt;br/&gt;与&lt;code&gt;a&lt;/code&gt;、&lt;code&gt;A&lt;/code&gt;、&lt;code&gt;e&lt;/code&gt;、&lt;code&gt;E&lt;/code&gt;、&lt;code&gt;f&lt;/code&gt;、&lt;code&gt;F&lt;/code&gt;、&lt;code&gt;g&lt;/code&gt;或&lt;code&gt;G&lt;/code&gt;一起使用，即使后面没有数字，它也会强制书面输出包含小数点。默认情况下，如果后面没有数字，则不写入小数点。)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;0&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Left-pads the number with zeroes (&lt;code&gt;0&lt;/code&gt;) instead of spaces when padding is specified (see &lt;em&gt;width&lt;/em&gt; sub-specifier).&lt;br/&gt;指定填充时，用零（&lt;code&gt;0&lt;/code&gt;）而不是空格填充数字（请参阅&lt;em&gt;宽度&lt;/em&gt;子说明符）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h4 id=&#34;width&#34;&gt;&lt;a href=&#34;#width&#34; class=&#34;headerlink&#34; title=&#34;width&#34;&gt;&lt;/a&gt;width&lt;/h4&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;em&gt;width&lt;/em&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;(number)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Minimum number of characters to be printed. If the value to be printed is shorter than this number, the result is padded with blank spaces. The value is not truncated even if the result is larger.&lt;br/&gt;(要打印的最小字符数。如果要打印的值比这个数字短，结果用空格填充。即使结果较大，该值也不会被截断。)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;*&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;The &lt;em&gt;width&lt;/em&gt; is not specified in the &lt;em&gt;format&lt;/em&gt; string, but as an additional integer value argument preceding the argument that has to be formatted.&lt;br/&gt;(宽度未在格式字符串中指定，而是作为必须格式化的参数之前的附加整数值参数。)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h4 id=&#34;precision&#34;&gt;&lt;a href=&#34;#precision&#34; class=&#34;headerlink&#34; title=&#34;.precision&#34;&gt;&lt;/a&gt;.precision&lt;/h4&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;em&gt;.precision&lt;/em&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;.&lt;/code&gt;&lt;em&gt;number&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;For integer specifiers (&lt;code&gt;d&lt;/code&gt;, &lt;code&gt;i&lt;/code&gt;, &lt;code&gt;o&lt;/code&gt;, &lt;code&gt;u&lt;/code&gt;, &lt;code&gt;x&lt;/code&gt;, &lt;code&gt;X&lt;/code&gt;): &lt;em&gt;precision&lt;/em&gt; specifies the minimum number of digits to be written. If the value to be written is shorter than this number, the result is padded with leading zeros. The value is not truncated even if the result is longer. A &lt;em&gt;precision&lt;/em&gt; of &lt;code&gt;0&lt;/code&gt; means that no character is written for the value &lt;code&gt;0&lt;/code&gt;. For &lt;code&gt;a&lt;/code&gt;, &lt;code&gt;A&lt;/code&gt;, &lt;code&gt;e&lt;/code&gt;, &lt;code&gt;E&lt;/code&gt;, &lt;code&gt;f&lt;/code&gt; and &lt;code&gt;F&lt;/code&gt; specifiers: this is the number of digits to be printed &lt;strong&gt;after&lt;/strong&gt; the decimal point (by default, this is 6). For &lt;code&gt;g&lt;/code&gt; and &lt;code&gt;G&lt;/code&gt; specifiers: This is the maximum number of significant digits to be printed. For &lt;code&gt;s&lt;/code&gt;: this is the maximum number of characters to be printed. By default all characters are printed until the ending null character is encountered. If the period is specified without an explicit value for &lt;em&gt;precision&lt;/em&gt;, &lt;code&gt;0&lt;/code&gt; is assumed.&lt;br/&gt;对于整数说明符（&lt;code&gt;d&lt;/code&gt;、&lt;code&gt;i&lt;/code&gt;、&lt;code&gt;o&lt;/code&gt;、&lt;code&gt;u&lt;/code&gt;、&lt;code&gt;x&lt;/code&gt;、&lt;code&gt;X&lt;/code&gt;）：&lt;em&gt;精度&lt;/em&gt;指定要写入的最小位数。如果要写入的值小于此数字，则结果用前导零填充。即使结果更长，该值也不会被截断。&lt;em&gt;精度&lt;/em&gt;为&lt;code&gt;0&lt;/code&gt;意味着不为值&lt;code&gt;0&lt;/code&gt;写入任何字符。&lt;br/&gt;对于&lt;code&gt;a&lt;/code&gt;、&lt;code&gt;A&lt;/code&gt;、&lt;code&gt;e&lt;/code&gt;、&lt;code&gt;E&lt;/code&gt;、&lt;code&gt;f&lt;/code&gt;和&lt;code&gt;F&lt;/code&gt;说明符：这是要打印的位数小数点&lt;strong&gt;后（默认为 6）。&lt;/strong&gt;&lt;br/&gt;对于&lt;code&gt;g&lt;/code&gt;和&lt;code&gt;G&lt;/code&gt;说明符：这是要打印的最大有效位数。&lt;br/&gt;对于&lt;code&gt;s&lt;/code&gt;：这是要打印的最大字符数。默认情况下，所有字符都会打印，直到遇到结束的空字符。&lt;br/&gt;如果指定了周期而没有明确的&lt;em&gt;精度&lt;/em&gt;值，则假定为&lt;code&gt;0 。&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;.*&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;The &lt;em&gt;precision&lt;/em&gt; is not specified in the &lt;em&gt;format&lt;/em&gt; string, but as an additional integer value argument preceding the argument that has to be formatted.&lt;br/&gt;&lt;em&gt;精度&lt;/em&gt;未在格式字符串中指定，&lt;em&gt;而是&lt;/em&gt;作为必须格式化的参数之前的附加整数值参数。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;长度&lt;/em&gt;子说明符修改数据类型的长度 。这是一个图表，显示了用于解释有和没有&lt;em&gt;长度&lt;/em&gt;说明符的相应参数的类型（如果使用不同的类型，则执行适当的类型提升或转换，如果允许）：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;specifiers&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;length&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;d i&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;u o x X&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;f F e E g G a A&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;c&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;s&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;p&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;n&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;(none)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;int&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;unsigned int&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;double&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;int&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;char*&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;void*&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;int*&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;h&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;short int&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;unsigned short int&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;short int*&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;l&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;long int&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;unsigned long int&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;wint_t&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;wchar_t*&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;long int*&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;L&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;long double&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;↓C99↓&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;↓C99↓&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;↓C99↓&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;↓C99↓&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;↓C99↓&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;↓C99↓&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;↓C99↓&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;↓C99↓&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;hh&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;signed char&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;unsigned char&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;signed char*&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;ll&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;long long int&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;unsigned long long int&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;long long int*&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;j&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;intmax_t&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;uintmax_t&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;intmax_t*&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;z&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;size_t&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;size_t&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;size_t*&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;t&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;ptrdiff_t&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;ptrdiff_t&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;ptrdiff_t*&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;杂乱&#34;&gt;&lt;a href=&#34;#杂乱&#34; class=&#34;headerlink&#34; title=&#34;杂乱&#34;&gt;&lt;/a&gt;杂乱&lt;/h1&gt;&lt;h2 id=&#34;stderr-stdout&#34;&gt;&lt;a href=&#34;#stderr-stdout&#34; class=&#34;headerlink&#34; title=&#34;stderr stdout&#34;&gt;&lt;/a&gt;stderr stdout&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;stdout – 标准输出设备 stdout。 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;stderr – 标准错误输出设备&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;两者默认向屏幕输出。 但如果用转向标准输出到磁盘文件，则可看出两者区别。stdout输出到磁盘文件，stderr在屏幕。 &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;转向标准输出到磁盘文件tmp.txt&lt;br&gt;my.exe &amp;gt; tmp.txt&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在默认情况下，stdout是行缓冲的，他的输出会放在一个buffer里面，只有到换行的时候，才会输出到屏幕。而stderr是无缓冲的，会直接输出。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;fprintf&lt;/span&gt;(&lt;span class=&#34;hljs-built_in&#34;&gt;stdout&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Group&amp;quot;&lt;/span&gt;);&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;fprintf&lt;/span&gt;(&lt;span class=&#34;hljs-built_in&#34;&gt;stderr&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;XiyouLinux&amp;quot;&lt;/span&gt;);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/*&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;linux下，第一次会输出XiYouLinuxGroup,是因为stdout将输出的Group放到了缓冲区当中直到程序结束在将缓冲区中的数据刷新出来。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;*/&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2019/d334b917/</guid>
+            <title>C按特定格式读取字符串的数据 Sscanf的用法</title>
+            <link>https://www.oikiou.top/2019/d334b917/</link>
+            <category>c/c++</category>
+            <category>sscanf</category>
+            <pubDate>Mon, 06 May 2019 21:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;C按特定格式读取字符串的数据-sscanf的用法&#34;&gt;&lt;a href=&#34;#C按特定格式读取字符串的数据-sscanf的用法&#34; class=&#34;headerlink&#34; title=&#34;C按特定格式读取字符串的数据 sscanf的用法&#34;&gt;&lt;/a&gt;C按特定格式读取字符串的数据 sscanf的用法&lt;/h1&gt;&lt;h1 id=&#34;Sscanf-函数&#34;&gt;&lt;a href=&#34;#Sscanf-函数&#34; class=&#34;headerlink&#34; title=&#34;Sscanf 函数&#34;&gt;&lt;/a&gt;Sscanf 函数&lt;/h1&gt;&lt;h2 id=&#34;原型&#34;&gt;&lt;a href=&#34;#原型&#34; class=&#34;headerlink&#34; title=&#34;原型&#34;&gt;&lt;/a&gt;原型&lt;/h2&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;sscanf&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *buffer, &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *format, [ argument ] ...   )&lt;/span&gt;; &lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;buffer 			  存储的数据&lt;br&gt;format 			窗体控件字符串。 有关详细信息，请参阅”格式规范”。&lt;br&gt;argument	    可选自变量&lt;br&gt;locale			   要使用的区域设置&lt;/p&gt;
+&lt;h2 id=&#34;说明&#34;&gt;&lt;a href=&#34;#说明&#34; class=&#34;headerlink&#34; title=&#34;说明&#34;&gt;&lt;/a&gt;说明&lt;/h2&gt;&lt;p&gt;sscanf与scanf类似，都是用于输入的，只是后者以键盘(stdin)为输入源，前者以&lt;strong&gt;固定字符串&lt;/strong&gt;为输入源。&lt;/p&gt;
+&lt;h3 id=&#34;控制字符说明&#34;&gt;&lt;a href=&#34;#控制字符说明&#34; class=&#34;headerlink&#34; title=&#34;控制字符说明&#34;&gt;&lt;/a&gt;控制字符说明&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;%c  一个单一的字符&lt;br&gt;%d  一个十进制整数&lt;br&gt;%i  一个整数&lt;br&gt;%e, %f, %g 一个浮点数&lt;br&gt;%o  一个八进制数&lt;br&gt;%s  一个字符串&lt;br&gt;%x  一个十六进制数&lt;br&gt;%p  一个指针&lt;br&gt;%n  一个等于读取字符数量的整数&lt;br&gt;%u  一个无符号整数&lt;br&gt;%[]  一个字符集&lt;br&gt;%%  一个精度符&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;函数返回值&#34;&gt;&lt;a href=&#34;#函数返回值&#34; class=&#34;headerlink&#34; title=&#34;函数返回值&#34;&gt;&lt;/a&gt;函数返回值&lt;/h2&gt;&lt;p&gt;函数将返回成功赋值的字段个数；返回值不包括已读取但未赋值的字段个数。 返回值为 0 表示没有将任何字段赋值。 如果在第一次读取之前到达字符串结尾，则返回EOF。&lt;/p&gt;
+&lt;h2 id=&#34;例程&#34;&gt;&lt;a href=&#34;#例程&#34; class=&#34;headerlink&#34; title=&#34;例程&#34;&gt;&lt;/a&gt;例程&lt;/h2&gt;&lt;h3 id=&#34;代码&#34;&gt;&lt;a href=&#34;#代码&#34; class=&#34;headerlink&#34; title=&#34;代码&#34;&gt;&lt;/a&gt;代码&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; buf[&lt;span class=&#34;hljs-number&#34;&gt;512&lt;/span&gt;];&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;123456 &amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：123456&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//取指定长度的字符串。如在下例中，取最大长度为4字节的字符串。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;123456 &amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%4s&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：1234&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//取到指定字符为止的字符串。如在下例中，取遇到空格为止字符串。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;123456 abcdedf&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%[^ ]&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：123456&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//取仅包含指定字符集的字符串。如在下例中，取仅包含1到9和小写字母的字符串。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;123456abcdedfBCDEF&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%[1-9a-z]&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：123456abcdedf&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//取到指定字符集为止的字符串。如在下例中，取遇到大写字母为止的字符串。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;123456abcdedfBCDEF&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%[^A-Z]&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：123456abcdedf&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//给定一个字符串iios/12DDWDFF@122，获取 / 和 @ 之间的字符串，先将 &amp;quot;iios/&amp;quot;过滤掉，再将非&amp;#x27;@&amp;#x27;的一串内容送到buf中&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;iios/12DDWDFF@122&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%*[^/]/%[^@]&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：12DDWDFF&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//给定一个字符串&amp;quot;hello, world&amp;quot;，仅保留&amp;quot;world&amp;quot;。（注意：“，”之后有一空格）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;hello, world&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%*s%s&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：world&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;图片&#34;&gt;&lt;a href=&#34;#图片&#34; class=&#34;headerlink&#34; title=&#34;图片&#34;&gt;&lt;/a&gt;图片&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2019/d334b917/Center.png&#34; alt=&#34;c&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

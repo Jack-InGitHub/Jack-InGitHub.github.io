@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"nand\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2021/2c1a46d6/",
+            "url": "https://www.oikiou.top/2021/2c1a46d6/",
+            "title": "XIP 片内执行 eXecute in Place",
+            "date_published": "2021-09-24T12:23:05.000Z",
+            "content_html": "<h1 id=\"XIP-eXecute-In-Place\"><a href=\"#XIP-eXecute-In-Place\" class=\"headerlink\" title=\"XIP   eXecute In Place\"></a>XIP   eXecute In Place</h1><h2 id=\"含义\"><a href=\"#含义\" class=\"headerlink\" title=\"含义\"></a>含义</h2><p>eXecute In Place，即芯片内执行，是指CPU直接从存储器中读取程序代码执行。</p>\n<p>应用程序可以直接在flash闪存内运行，不必再把代码读到系统RAM中。flash内执行是指nor flash不需要初始化，可以直接在flash内执行代码。但往往<strong>只执行部分代码</strong>，比如<strong>初始化RAM</strong>。好处即是程序代码无需占用内存，减少内存的要求。</p>\n<p><strong>所谓片内执行不是说程序在存储器内执行，CPU的基本功能是取指、译码、运行。Nor Flash能在芯片内执行，指的是CPU能够直接从Nor flash中取指令，供后面的译码器和执行器来使用。</strong></p>\n<p>为实现XIP，必须满足几个条件：</p>\n<ol>\n<li><p>存储器必须提供与内存相似的接口给CPU。</p>\n</li>\n<li><p>该接口必须提供足够快的读取操作，并具有随机访问模式。</p>\n</li>\n<li><p>如有文件系统，则需要提供合适的映射功能</p>\n</li>\n<li><p>程序链接时需要知道存储器的地址或地址与位置无关。</p>\n</li>\n<li><p>程序不能修改已加载映像中的数据。</p>\n</li>\n</ol>\n<p>NOR Flash和EEPROM通常能满足上述要求。</p>\n<h2 id=\"Tip\"><a href=\"#Tip\" class=\"headerlink\" title=\"Tip\"></a>Tip</h2><p><strong>nandflash也可以实现XIP</strong></p>\n<p>“所谓XIP,就是CODE是在FLASH上直接运行. NANDFLASH只是不适合做XIP,但并不是不能做XIP“要一段CODE能够正确的运行,要保证它的CODE是连续的,正确的.由于一些电气特性的原因,NOR FLASH能够做到这一点,不存在坏道或坏块,所以能够做XIP.</p>\n<p><strong>NOR Flash 和 NAND Flash</strong></p>\n<p>NOR Flash具备随机读取给一个地址就能读一个数据，NAND Flash是一次读一块数据，一个地址读出一块数据。</p>\n",
+            "tags": [
+                "xip",
+                "nor",
+                "nand"
+            ]
+        }
+    ]
+}

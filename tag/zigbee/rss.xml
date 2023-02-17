@@ -1,0 +1,378 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;zigbee&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 11 Feb 2018 20:27:07 +0800</pubDate>
+        <lastBuildDate>Sun, 11 Feb 2018 20:27:07 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2018/8d6db935/</guid>
+            <title>CC2530</title>
+            <link>https://www.oikiou.top/2018/8d6db935/</link>
+            <category>embedded</category>
+            <category>cc2530</category>
+            <category>zigbee</category>
+            <pubDate>Sun, 11 Feb 2018 20:27:07 +0800</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;CC2530是针对IEEE 802.15.4，Zigbee和RF4CE应用的真正片上系统（SoC）解决方案。 它能够以非常低的总物料成本构建强大的网络节点。 CC2530将领先的射频收发器的卓越性能与业界标准增强型8051 MCU，系统内可编程闪存，8 KB RAM以及许多其他强大功能相结合。 CC2530有四种不同的闪存版本：分别为CC2530F32 &amp;#x2F; 64&amp;#x2F;128&amp;#x2F;256对应32&amp;#x2F;64&amp;#x2F;128&amp;#x2F;256 KB的闪存。 CC2530具有多种工作模式，非常适合需要超低功耗的系统。 运行模式之间的短暂转换时间进一步确保了低能耗。&lt;/p&gt;
+&lt;p&gt;•CC2530是TI公司推出的用来实现嵌入式ZigBee应用的低功耗片上系统。&lt;/p&gt;
+&lt;p&gt;•在单个芯片上整合了ZigBee 射频(RF)前端、内存和微控制器。&lt;/p&gt;
+&lt;p&gt;•8 位MCU（增强型、标准8051指令集）。&lt;/p&gt;
+&lt;p&gt;•256 KB Flash和8 KB 的RAM，内部16MHz RC 和 32kHz RC 振荡器。&lt;/p&gt;
+&lt;p&gt;•8路12位ADC；18个中断源；4个Timer；硬件支持的AES128 ；WDT(1.9ms-1s)；32 kHz晶振的休眠模式定时器、POR(上电复位)、BOD(掉电检测)，以及21 个通用I&amp;#x2F;O 。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;GPIO&#34;&gt;&lt;a href=&#34;#GPIO&#34; class=&#34;headerlink&#34; title=&#34;GPIO&#34;&gt;&lt;/a&gt;GPIO&lt;/h1&gt;&lt;h2 id=&#34;简介&#34;&gt;&lt;a href=&#34;#简介&#34; class=&#34;headerlink&#34; title=&#34;简介&#34;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2018/8d6db935/20180211202707601.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I &amp;#x2F; O端口具有以下主要功能：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;21个数字通用输入&amp;#x2F;输出引脚&lt;/li&gt;
+&lt;li&gt;通用I &amp;#x2F; O或外设I &amp;#x2F; O&lt;/li&gt;
+&lt;li&gt;输入上拉或下拉功能&lt;/li&gt;
+&lt;li&gt;外部中断功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;所有21个I &amp;#x2F; O引脚都具有外部中断功能。 因此，如果需要，外部设备可能会产生中断。 外部中断功能也可用于将器件从睡眠模式（电源模式PM1，PM2和PM3）中唤醒&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通用IO：共21个，分成3组，&lt;strong&gt;P0组、P1组、P2组&lt;/strong&gt;，其中P0\P1组各8个IO，P2组5个（P2_0、P2_1、 P2_2、P2_3、 P2_4）。其中P1_0、P1_1有20mA的输出驱动能力，其余的只有4mA。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;寄存器&#34;&gt;&lt;a href=&#34;#寄存器&#34; class=&#34;headerlink&#34; title=&#34;寄存器&#34;&gt;&lt;/a&gt;寄存器&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;GPIO&lt;strong&gt;功能&lt;/strong&gt;选择寄存器——&lt;strong&gt;PxSEL&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; 寄存器PxSEL（其中x是端口号0-2）用于将端口中的每个引脚配置为&lt;strong&gt;通用I&amp;#x2F;O引脚&lt;/strong&gt;或&lt;strong&gt;外设I&amp;#x2F;O引脚&lt;/strong&gt;，可位寻址。 默认情况下，复位后，所有数字输入&amp;#x2F;输出引脚都配置为&lt;strong&gt;通用上拉输入引脚&lt;/strong&gt;。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;其中，P2SEL只有第0位至第2位是端口2的功能选择控制位，第3位至第6位是端口1的外设优先级控制位。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;0&amp;#x3D;通用&lt;/li&gt;
+&lt;li&gt;1&amp;#x3D;外设I&amp;#x2F;O&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;GPIO&lt;strong&gt;输入输出方向&lt;/strong&gt;选择寄存器——&lt;strong&gt;PxDIR&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;寄存器PxDIR用于将每个端口的引脚方向设置为&lt;strong&gt;输入方向&lt;/strong&gt;或&lt;strong&gt;输出方向&lt;/strong&gt;。 因此，将PxDIR中的相应位设置为1，相应的引脚就变成输出方向，可位寻址。复位后为&lt;strong&gt;输入引脚&lt;/strong&gt;。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;其中，P2DIR只有第0位至第4位是端口2的方向选择控制位，第6位和第7位是端口0外设优先级控制位。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;0&amp;#x3D;输入&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;1&amp;#x3D;输出&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;p&gt;GPIO&lt;strong&gt;输入模式&lt;/strong&gt;寄存器——&lt;strong&gt;PxINP&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;寄存器PxINP用于设置IO端口的&lt;strong&gt;输入模式&lt;/strong&gt;，通用I &amp;#x2F; O端口引脚可配置为具有&lt;strong&gt;上拉&lt;/strong&gt;，&lt;strong&gt;下拉&lt;/strong&gt;或&lt;strong&gt;三态&lt;/strong&gt;操作模式。 默认情况下，复位后，输入配置为带有上拉的输入。如果要取消输入端口的上拉或下拉功能，必须将PxINP中的相应位设置为1。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;请注意，即使IO端口是外设功能输入，配置为外设I &amp;#x2F; O信号的引脚也不具有上拉或下拉功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;其中，P2INP中，第0位至第4位是端口2的输入模式选择位&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第5位至第7位是端口0、端口1、端口2的上下拉选择位。&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0&amp;#x3D;PullUp&lt;/li&gt;
+&lt;li&gt;1&amp;#x3D;PullDown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;0&amp;#x3D;上拉或下拉&lt;/li&gt;
+&lt;li&gt;1&amp;#x3D;三态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;Z-Stack&#34;&gt;&lt;a href=&#34;#Z-Stack&#34; class=&#34;headerlink&#34; title=&#34;Z-Stack&#34;&gt;&lt;/a&gt;Z-Stack&lt;/h1&gt;&lt;h2 id=&#34;创建一个任务-Create-Task&#34;&gt;&lt;a href=&#34;#创建一个任务-Create-Task&#34; class=&#34;headerlink&#34; title=&#34;创建一个任务 Create Task&#34;&gt;&lt;/a&gt;创建一个任务 Create Task&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x2F;&amp;#x2F; 任务列表&lt;br&gt;const pTaskEventHandlerFn tasksArr[] &amp;#x3D; {…..}&lt;/li&gt;
+&lt;li&gt;&amp;#x2F;&amp;#x2F; 初始化任务&lt;br&gt;void osalInitTasks( void )&lt;br&gt;{…..}&lt;/li&gt;
+&lt;li&gt;&amp;#x2F;&amp;#x2F; 任务处理函数&lt;br&gt;uint16 Hello_ProcessEvent(uint8 task_id, uint16 events)&lt;br&gt;{…}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;HAL库之LED&#34;&gt;&lt;a href=&#34;#HAL库之LED&#34; class=&#34;headerlink&#34; title=&#34;HAL库之LED&#34;&gt;&lt;/a&gt;HAL库之LED&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;uint8 HalLedSet (uint8 leds, uint8 mode)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;ModeName&lt;/th&gt;
+&lt;th&gt;作用&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;HAL_LED_MODE_BLINK&lt;/td&gt;
+&lt;td&gt;闪烁  (一次)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HAL_LED_MODE_FLASH&lt;/td&gt;
+&lt;td&gt;闪烁&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HAL_LED_MODE_ON&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HAL_LED_MODE_OFF&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HAL_LED_MODE_TOGGLE&lt;/td&gt;
+&lt;td&gt;触发&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;定时器&#34;&gt;&lt;a href=&#34;#定时器&#34; class=&#34;headerlink&#34; title=&#34;定时器&#34;&gt;&lt;/a&gt;定时器&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;uint8 osal_start_timerEx( uint8 taskID, uint16 event_id, uint16 timeout_value )&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//为指定的任务设置定时器&lt;/span&gt;&lt;br&gt;&lt;br&gt;osal_start_timerEx(task_id, &lt;span class=&#34;hljs-number&#34;&gt;0x0001&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;10000&lt;/span&gt;);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;PAN-ID&#34;&gt;&lt;a href=&#34;#PAN-ID&#34; class=&#34;headerlink&#34; title=&#34;PAN_ID&#34;&gt;&lt;/a&gt;PAN_ID&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;全称 Personal Area Network (网络标识符)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;相当于网络号，网段。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tools\f8Config.cfg	Line59&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/* Define the default PAN ID.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; *&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * Setting this to a value other than 0xFFFF causes&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * ZDO_COORD to use this value as its PAN ID and&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * Routers and end devices to join PAN with this ID&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; */&lt;/span&gt;&lt;br&gt;-DZDAPP_CONFIG_PAN_ID=&lt;span class=&#34;hljs-number&#34;&gt;0x0010&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h2 id=&#34;Z-Stack开发步骤&#34;&gt;&lt;a href=&#34;#Z-Stack开发步骤&#34; class=&#34;headerlink&#34; title=&#34;Z-Stack开发步骤&#34;&gt;&lt;/a&gt;Z-Stack开发步骤&lt;/h2&gt;&lt;h3 id=&#34;功能类型定义&#34;&gt;&lt;a href=&#34;#功能类型定义&#34; class=&#34;headerlink&#34; title=&#34;功能类型定义&#34;&gt;&lt;/a&gt;功能类型定义&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 功能类型值定义&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;enum&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;    DevTemp = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;,&lt;br&gt;    DevHumm,&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//略---------------------&lt;/span&gt;&lt;br&gt;    DevMaxNum&lt;br&gt;&amp;#125;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;枚举功能类型值，需要时添加即可。&lt;/p&gt;
+&lt;h3 id=&#34;定义节点功能列表&#34;&gt;&lt;a href=&#34;#定义节点功能列表&#34; class=&#34;headerlink&#34; title=&#34;定义节点功能列表&#34;&gt;&lt;/a&gt;定义节点功能列表&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/***************************************************/&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/* 节点功能列表                                    */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/***************************************************/&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;ep_info_t&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;funcList&lt;/span&gt;[] =&lt;/span&gt; &amp;#123;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; defined(HAS_GAS)&lt;/span&gt;&lt;br&gt;    &amp;#123;&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;//stat,income,timeout,resource&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-literal&#34;&gt;NULL&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;NULL&lt;/span&gt;, sensorGasTimeout, sensorGasResAvailable,&lt;br&gt;        &amp;#123; DevGas, &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt; &amp;#125;,                   &lt;span class=&#34;hljs-comment&#34;&gt;// type, id, refresh cycle&lt;/span&gt;&lt;br&gt;    &amp;#125;,&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;endif&lt;/span&gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;//略----------------&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; defined(ZDO_COORDINATOR)&lt;/span&gt;&lt;br&gt;    &amp;#123;   &lt;span class=&#34;hljs-comment&#34;&gt;// 协调器&lt;/span&gt;&lt;br&gt;        CoordinatorNwkStateChangeRoutine,&lt;br&gt;        CoordinatorIncomingRoutine,&lt;br&gt;        CoordinatorTimeoutRoutine,&lt;br&gt;        CoordinatorResAvailableRoutine,&lt;br&gt;        &amp;#123; DevCoordinator, &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; &amp;#125;,&lt;br&gt;    &amp;#125;,&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; defined(RTR_NWK)&lt;/span&gt;&lt;br&gt;    &amp;#123;   &lt;span class=&#34;hljs-comment&#34;&gt;// 路由器&lt;/span&gt;&lt;br&gt;        RouterNwkStateChangeRoutine,&lt;br&gt;        RouterIncomingRoutine,&lt;br&gt;        RouterTimeoutRoutine,&lt;br&gt;        RouterResAvailableRoutine,&lt;br&gt;        &amp;#123; DevRouter, &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;30&lt;/span&gt; &amp;#125;,&lt;br&gt;    &amp;#125;,&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;endif&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&amp;#125;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;功能列表&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;参考下面的 &lt;strong&gt;ep_info_t&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 不能修改下面的内容!!!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; uint8 funcCount = &lt;span class=&#34;hljs-keyword&#34;&gt;sizeof&lt;/span&gt;(funcList) / &lt;span class=&#34;hljs-keyword&#34;&gt;sizeof&lt;/span&gt;(funcList[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;]);&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;endif&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;功能数量&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ep-info-t&#34;&gt;&lt;a href=&#34;#ep-info-t&#34; class=&#34;headerlink&#34; title=&#34;ep_info_t&#34;&gt;&lt;/a&gt;ep_info_t&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;ep_info_t&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 网络状态发生变化时会调用该函数&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; (*nwk_stat_change)(&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;ep_info_t&lt;/span&gt; *ep);&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 接收到数据时会调用该函数&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; (*incoming_data)(&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;ep_info_t&lt;/span&gt; *ep, uint16 addr, uint8 endPoint, afMSGCommandFormat_t *msg);&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 周期性调用的函数&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; (*time_out)(&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;ep_info_t&lt;/span&gt; *ep);&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 系统资源可用时调用该函数,系统资源指的是:串口接收到数据/中断等等&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; (*res_available)(&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;ep_info_t&lt;/span&gt; *ep, RES_TYPE type, &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; *res);&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// &lt;span class=&#34;hljs-doctag&#34;&gt;NOTE:&lt;/span&gt; cycle成员会被用来计数,并周期性调用time_out函数&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;func_info_t&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;function&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;    &lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//以下数据用户不能进行更改！！！！！&lt;/span&gt;&lt;br&gt;    &lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 当前端点号&lt;/span&gt;&lt;br&gt;    uint8 ep;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 与此端点绑定的任务ID&lt;/span&gt;&lt;br&gt;    uint8 task_id;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 递减计数,为0时调用time_out函数,并重载初值=cycle&lt;/span&gt;&lt;br&gt;    uint8 timerTick;&lt;br&gt;    uint8 userTimer;&lt;br&gt;    endPointDesc_t SampleApp_epDesc;&lt;br&gt;    SimpleDescriptionFormat_t simpleDesc;&lt;br&gt;&amp;#125;;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//一个典型的初始化&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; defined(ZDO_COORDINATOR)&lt;/span&gt;&lt;br&gt;    &amp;#123;   &lt;span class=&#34;hljs-comment&#34;&gt;// 协调器&lt;/span&gt;&lt;br&gt;        CoordinatorNwkStateChangeRoutine,&lt;span class=&#34;hljs-comment&#34;&gt;//节点加入网络完成后调用&lt;/span&gt;&lt;br&gt;        CoordinatorIncomingRoutine,&lt;span class=&#34;hljs-comment&#34;&gt;//端点接收到数据后会调用&lt;/span&gt;&lt;br&gt;        CoordinatorTimeoutRoutine,&lt;span class=&#34;hljs-comment&#34;&gt;//周期调用&lt;/span&gt;&lt;br&gt;        CoordinatorResAvailableRoutine,&lt;span class=&#34;hljs-comment&#34;&gt;//系统初始化、串口收到数据、用户定时器到时 会调用&lt;/span&gt;&lt;br&gt;        &amp;#123; DevCoordinator, &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; &amp;#125;,&lt;span class=&#34;hljs-comment&#34;&gt;//功能类型、功能编号、刷新周期&lt;/span&gt;&lt;br&gt;    &amp;#125;,&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h4 id=&#34;nwk-stat-change&#34;&gt;&lt;a href=&#34;#nwk-stat-change&#34; class=&#34;headerlink&#34; title=&#34;nwk_stat_change&#34;&gt;&lt;/a&gt;nwk_stat_change&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;节点加入网络完成后调用&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可用于读取当前  端点  信息&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;xxNwkStateChange&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;ep_info_t&lt;/span&gt; *ep)&lt;/span&gt;&lt;br&gt;    &lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;sensorVoiceNwkStateChange&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;ep_info_t&lt;/span&gt; *ep)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    voiceEndPoint = ep;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h4 id=&#34;incoming-data&#34;&gt;&lt;a href=&#34;#incoming-data&#34; class=&#34;headerlink&#34; title=&#34;incoming_data&#34;&gt;&lt;/a&gt;incoming_data&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;端点接收到数据后会调用&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;下发的指令的处理&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;xxReceiveData&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;ep_info_t&lt;/span&gt; *ep, uint16 addr, uint8 endPoint, afMSGCommandFormat_t *msg)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;testReceiveData&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;ep_info_t&lt;/span&gt; *ep, uint16 addr, uint8 endPoint, afMSGCommandFormat_t *msg)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;//msg-&amp;gt;Data[0] 是接受到的总  比特   数 &lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;( (msg-&amp;gt;Data[&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;]==&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;L&amp;#x27;&lt;/span&gt;)&amp;amp;&amp;amp;(msg-&amp;gt;Data[&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;]==&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;E&amp;#x27;&lt;/span&gt;)&amp;amp;&amp;amp;(msg-&amp;gt;Data[&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;]==&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;D&amp;#x27;&lt;/span&gt;) )&lt;br&gt;    &amp;#123;&lt;br&gt;		&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;( msg-&amp;gt;Data[&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;]==&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;1&amp;#x27;&lt;/span&gt; )&lt;br&gt;		&amp;#123;&lt;br&gt;			HalUARTWrite(HAL_UART_PORT_0, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;LED_1\r\n&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-keyword&#34;&gt;sizeof&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;LED_1\r\n&amp;quot;&lt;/span&gt;) - &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;);&lt;br&gt;			&lt;span class=&#34;hljs-comment&#34;&gt;//HalLedBlink(HAL_LED_1, 2, 50, 100);&lt;/span&gt;&lt;br&gt;		&amp;#125;&lt;br&gt;    &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h4 id=&#34;time-out&#34;&gt;&lt;a href=&#34;#time-out&#34; class=&#34;headerlink&#34; title=&#34;time_out&#34;&gt;&lt;/a&gt;time_out&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;周期调用&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;读取传感器数据&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;xxTimeout&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;ep_info_t&lt;/span&gt; *ep)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;sensorFireTimeout&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;ep_info_t&lt;/span&gt; *ep)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    uint8 value = FireInfo();&lt;br&gt;    SendData(ep-&amp;gt;ep, &amp;amp;value, &lt;span class=&#34;hljs-number&#34;&gt;0x0000&lt;/span&gt;, TRANSFER_ENDPOINT, &lt;span class=&#34;hljs-keyword&#34;&gt;sizeof&lt;/span&gt;(value));&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h4 id=&#34;res-available&#34;&gt;&lt;a href=&#34;#res-available&#34; class=&#34;headerlink&#34; title=&#34;res_available&#34;&gt;&lt;/a&gt;res_available&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;系统初始化、串口收到数据、用户定时器到时 会调用&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;初始化端口、&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;xxResAvailable&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;ep_info_t&lt;/span&gt; *ep, RES_TYPE type, &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; *res)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;sensorRainResAvailable&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;ep_info_t&lt;/span&gt; *ep, RES_TYPE type, &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; *res)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;(type == ResInit)&lt;br&gt;    &amp;#123;&lt;br&gt;        RainInit();&lt;br&gt;    &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;h1 id=&#34;IAR学习笔记&#34;&gt;&lt;a href=&#34;#IAR学习笔记&#34; class=&#34;headerlink&#34; title=&#34;IAR学习笔记&#34;&gt;&lt;/a&gt;IAR学习笔记&lt;/h1&gt;&lt;h2 id=&#34;无法观察局部变量&#34;&gt;&lt;a href=&#34;#无法观察局部变量&#34; class=&#34;headerlink&#34; title=&#34;无法观察局部变量&#34;&gt;&lt;/a&gt;无法观察局部变量&lt;/h2&gt;&lt;p&gt;在软件调试的时候发现Watch窗口中无法观察局部变量的值，总是显示&lt;unavailable&gt;&lt;br&gt;　　设置IAR中的”&lt;strong&gt;Options — c&amp;#x2F;c++ compiler — Optimization — Level&lt;/strong&gt;“ 选项：&lt;br&gt;　　Level的缺省值为Low，当我把Level选为None之后，即不执行任何优化时，全局变量、静态局部变量、局部变量的值都可以看到。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

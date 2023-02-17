@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;蓝牙&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
+        <lastBuildDate>Sat, 08 Aug 2020 08:08:08 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2020/95869d00/</guid>
+            <title>Bluetooth蓝牙</title>
+            <link>https://www.oikiou.top/2020/95869d00/</link>
+            <category>embedded</category>
+            <category>bluetooth</category>
+            <category>蓝牙</category>
+            <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;蓝牙分类&#34;&gt;&lt;a href=&#34;#蓝牙分类&#34; class=&#34;headerlink&#34; title=&#34;蓝牙分类&#34;&gt;&lt;/a&gt;蓝牙分类&lt;/h1&gt;&lt;pre&gt;&lt;code class=&#34; mermaid&#34;&gt;graph LR
+
+Bluetooth_3.0 --&amp;gt;BR
+Bluetooth_3.0 --&amp;gt;EDR
+Bluetooth_3.0 --&amp;gt;AMP_HS
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34; mermaid&#34;&gt;graph LR
+
+Bluetooth_4.0 --&amp;gt;BR
+Bluetooth_4.0 --&amp;gt;EDR
+Bluetooth_4.0 --&amp;gt;AMP_HS
+Bluetooth_4.0 --&amp;gt;LE
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;只有一种蓝牙即 Bluetooth SIG。&lt;/p&gt;
+&lt;p&gt;但是蓝牙技术本身包括四种类型：BR、EDR、AMP 和 LE。&lt;/p&gt;
+&lt;p&gt;为了方便，人们将以前的 BR&amp;#x2F;EDR&amp;#x2F;AMP 技术称为“经典蓝牙”（BT）技术。&lt;/p&gt;
+&lt;p&gt;LE也即低功耗蓝牙BLE。&lt;/p&gt;
+&lt;h1 id=&#34;SPP&#34;&gt;&lt;a href=&#34;#SPP&#34; class=&#34;headerlink&#34; title=&#34;SPP&#34;&gt;&lt;/a&gt;SPP&lt;/h1&gt;&lt;p&gt;SPP（Serial Port Profile）串口&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,903 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;python&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2020-08-08T00:08:08.000Z</updated>
+    <category term="embedded" />
+    <category term="note" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="ms-dos" />
+    <category term="windows" />
+    <category term="c" />
+    <category term="c/c++" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="c++" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="sscanf" />
+    <category term="hex" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="osi" />
+    <category term="markdown" />
+    <category term="md5" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="makefile" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="机智云" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="ct117e-ex" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="life" />
+    <category term="workflow" />
+    <category term="人生" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="cad" />
+    <category term="心理学" />
+    <category term="cat_drive" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="synology" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="j-link" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="jlink" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="tmux" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="cortex-a7" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="cortex-m3" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <category term="rtx" />
+    <category term="rtos" />
+    <category term="keil" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="modbus" />
+    <category term="ucos" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="pwm" />
+    <category term="rt-thread" />
+    <category term="ap" />
+    <category term="wifi" />
+    <entry>
+        <id>https://www.oikiou.top/2020/bf76c113/</id>
+        <title>MicroPython</title>
+        <link rel="alternate" href="https://www.oikiou.top/2020/bf76c113/"/>
+        <content type="html">&lt;h1 id=&#34;MicroPython&#34;&gt;&lt;a href=&#34;#MicroPython&#34; class=&#34;headerlink&#34; title=&#34;MicroPython&#34;&gt;&lt;/a&gt;MicroPython&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.cirmall.com/articles/301308/p1&#34;&gt;简单、方便、快速开发嵌入式实时系统——MicroPytho&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; pyb &lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; uart&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; pyb &lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; I2C &lt;span class=&#34;hljs-comment&#34;&gt;#工程师将从pyb库导入I2C&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#这里的PYB库提供了接入到微控制器外围功能，如SPI，I2C以及UART&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#在使用任何外设之前，工程师必须实例化外设类以创建可用于控制外设的对象。一旦外设类被初始化，工程师可以执行任何其他操作，例如在进入主应用程序循环之前验证设备是否存在，主要应用程序代码将会每秒采样一次传感器。&lt;/span&gt;&lt;br&gt;&lt;br&gt;GlobalTemp = &lt;span class=&#34;hljs-number&#34;&gt;0.0&lt;/span&gt;&lt;br&gt;&lt;br&gt;GlobalBarometer = &lt;span class=&#34;hljs-number&#34;&gt;0.0&lt;/span&gt;&lt;br&gt;&lt;br&gt;＃初始化和实例化I2C外设&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;I2C2 = I2C（&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;，I2C.MASTER，波特率= &lt;span class=&#34;hljs-number&#34;&gt;100000&lt;/span&gt;）&lt;br&gt;&lt;br&gt;＃配置Uart1进行通信&lt;br&gt;&lt;br&gt;Uart1 = pyb.UART（&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;115200&lt;/span&gt;）&lt;br&gt;&lt;br&gt;Uart1.init（&lt;span class=&#34;hljs-number&#34;&gt;115200&lt;/span&gt;，bits = &lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;，parity = &lt;span class=&#34;hljs-literal&#34;&gt;None&lt;/span&gt;，stop = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;）&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;:&lt;br&gt;&lt;br&gt;SampleSensor（）&lt;br&gt;&lt;br&gt;pyb.delay（&lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt;）&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;SensorSample&lt;/span&gt;（）：&lt;br&gt;&lt;br&gt;＃读取温度数据&lt;br&gt;&lt;br&gt;TempSample = I2C2.readfrom_mem（&lt;span class=&#34;hljs-number&#34;&gt;119&lt;/span&gt;，&lt;span class=&#34;hljs-number&#34;&gt;0xFA&lt;/span&gt;，&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;）&lt;br&gt;&lt;br&gt;＃读取压力数据&lt;br&gt;&lt;br&gt;PressureSample = I2C2.readfrom_mem（&lt;span class=&#34;hljs-number&#34;&gt;119&lt;/span&gt;，&lt;span class=&#34;hljs-number&#34;&gt;0xF7&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;）&lt;br&gt;&lt;br&gt;将样本数据转换为字符串&lt;br&gt;&lt;br&gt;data =“＃，temperature =”&lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;（TempSample）+“，pressure”+ &lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;（PressureSample）+“，＃，\ n \ r”&lt;br&gt;&lt;br&gt;＃将数据写入蓝牙&lt;br&gt;&lt;br&gt;Uart1.write（data）&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+</content>
+        <category term="embedded" />
+        <category term="micropython" />
+        <category term="python" />
+        <updated>2020-08-08T00:08:08.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.oikiou.top/2020/7ecf7a99/</id>
+        <title>PyQT</title>
+        <link rel="alternate" href="https://www.oikiou.top/2020/7ecf7a99/"/>
+        <content type="html">&lt;h1 id=&#34;PyQt&#34;&gt;&lt;a href=&#34;#PyQt&#34; class=&#34;headerlink&#34; title=&#34;PyQt&#34;&gt;&lt;/a&gt;PyQt&lt;/h1&gt;&lt;h2 id=&#34;添加图标&#34;&gt;&lt;a href=&#34;#添加图标&#34; class=&#34;headerlink&#34; title=&#34;添加图标&#34;&gt;&lt;/a&gt;添加图标&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;WindowGUI&lt;/span&gt;(QMainWindow, Ui_MainWindow):&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;super&lt;/span&gt;(WindowGUI, self).__init__()&lt;br&gt;        self.setupUi(self)&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;#这里添加了一个图标&lt;/span&gt;&lt;br&gt;        self.setWindowIcon(QIcon(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./Data/SerialBlack.ico&amp;#x27;&lt;/span&gt;))&lt;br&gt;        self.pushButton.clicked.connect(self.Butt)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; __name__ == &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;__main__&amp;#x27;&lt;/span&gt;:&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 每一pyqt5应用程序必须创建一个应用程序对象。sys.argv参数是一个列表，从命令行输入参数。&lt;/span&gt;&lt;br&gt;    app = QApplication(sys.argv)&lt;br&gt;    window = WindowGUI()&lt;br&gt;    window.show()&lt;br&gt;    sys.exit(app.exec_())&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;退出确认&#34;&gt;&lt;a href=&#34;#退出确认&#34; class=&#34;headerlink&#34; title=&#34;退出确认&#34;&gt;&lt;/a&gt;退出确认&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;WindowGUI&lt;/span&gt;(QMainWindow, Ui_MainWindow):&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;super&lt;/span&gt;(WindowGUI, self).__init__()&lt;br&gt;        self.setupUi(self)&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;#关闭窗口产生 QCloseEvent&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;closeEvent&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self, event&lt;/span&gt;):&lt;br&gt;        reply = QMessageBox.question(self, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Message&amp;#x27;&lt;/span&gt;,&lt;br&gt;                                     &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Are you sure to quit?&amp;quot;&lt;/span&gt;, QMessageBox.Yes |&lt;br&gt;                                     QMessageBox.No, QMessageBox.No)&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; reply == QMessageBox.Yes:&lt;br&gt;            event.accept()&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt;:&lt;br&gt;            event.ignore()&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; __name__ == &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;__main__&amp;#x27;&lt;/span&gt;:&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 每一pyqt5应用程序必须创建一个应用程序对象。sys.argv参数是一个列表，从命令行输入参数。&lt;/span&gt;&lt;br&gt;    app = QApplication(sys.argv)&lt;br&gt;    window = WindowGUI()&lt;br&gt;    window.show()&lt;br&gt;    sys.exit(app.exec_())&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+</content>
+        <category term="python" />
+        <category term="qt" />
+        <category term="pyqt" />
+        <updated>2020-08-08T00:08:08.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.oikiou.top/2020/297a89d9/</id>
+        <title>Python学习笔记</title>
+        <link rel="alternate" href="https://www.oikiou.top/2020/297a89d9/"/>
+        <content type="html">&lt;h1 id=&#34;Content&#34;&gt;&lt;a href=&#34;#Content&#34; class=&#34;headerlink&#34; title=&#34;Content&#34;&gt;&lt;/a&gt;Content&lt;/h1&gt;&lt;p&gt;Python学习笔记&lt;/p&gt;
+&lt;h1 id=&#34;printf&#34;&gt;&lt;a href=&#34;#printf&#34; class=&#34;headerlink&#34; title=&#34;printf&#34;&gt;&lt;/a&gt;printf&lt;/h1&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;第一行\n第二行&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(a + &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27; &amp;#x27;&lt;/span&gt; + b + &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27; %d %d&amp;#x27;&lt;/span&gt;%(c,d))			//连字符&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;h2 id=&#34;格式化&#34;&gt;&lt;a href=&#34;#格式化&#34; class=&#34;headerlink&#34; title=&#34;格式化&#34;&gt;&lt;/a&gt;格式化&lt;/h2&gt;&lt;h3 id=&#34;基本格式化&#34;&gt;&lt;a href=&#34;#基本格式化&#34; class=&#34;headerlink&#34; title=&#34;基本格式化&#34;&gt;&lt;/a&gt;基本格式化&lt;/h3&gt;&lt;p&gt;在Python中，采用的格式化方式和C语言是一致的，用%实现，举例如下&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;单个&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Hello, %s&amp;#x27;&lt;/span&gt; % &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;world&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Hello, world&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;k=&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;big&amp;#x27;&lt;/span&gt;, k)&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;big 2&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;多个&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Hi, %s, you have $%d.&amp;#x27;&lt;/span&gt; % (&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Michael&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;1000000&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Hi, Michael, you have $1000000.&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如果你不太确定应该用什么，%s永远起作用，它会把任何数据类型转换为字符串&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Age: %s. Gender: %s&amp;#x27;&lt;/span&gt; % (&lt;span class=&#34;hljs-number&#34;&gt;25&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Age: 25. Gender: True&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;format-格式化&#34;&gt;&lt;a href=&#34;#format-格式化&#34; class=&#34;headerlink&#34; title=&#34;format 格式化&#34;&gt;&lt;/a&gt;format 格式化&lt;/h3&gt;&lt;p&gt;format()它会用传入的参数依次替换字符串内的占位符{0}、{1}……&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Hello, &amp;#123;0&amp;#125;, 成绩提升了 &amp;#123;1:.1f&amp;#125;%&amp;#x27;&lt;/span&gt;.&lt;span class=&#34;hljs-built_in&#34;&gt;format&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;小明&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;17.125&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Hello, 小明, 成绩提升了 17.1%&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;字符转义&#34;&gt;&lt;a href=&#34;#字符转义&#34; class=&#34;headerlink&#34; title=&#34;字符转义&#34;&gt;&lt;/a&gt;字符转义&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#如果字符串里面有很多字符都需要转义，就需要加很多\，为了简化，Python还允许用``r&amp;#x27;&amp;#x27;表示&amp;#x27;&amp;#x27;``内部的字符串默认不转义&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;\\\t\\&amp;#x27;&lt;/span&gt;)&lt;br&gt;\       \&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;r&amp;#x27;\\\t\\&amp;#x27;&lt;/span&gt;)&lt;br&gt;\\\t\\&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#如果字符串内部有很多换行，用\n写在一行里不好阅读，为了简化，Python允许用&amp;#x27;&amp;#x27;&amp;#x27;...&amp;#x27;&amp;#x27;&amp;#x27;的格式表示多行内容，可以自己试试：&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;line1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;... &lt;/span&gt;line2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;... &lt;/span&gt;line3&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;)&lt;br&gt;line1&lt;br&gt;line2&lt;br&gt;line3&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;显示字符串的前部分长度&#34;&gt;&lt;a href=&#34;#显示字符串的前部分长度&#34; class=&#34;headerlink&#34; title=&#34;显示字符串的前部分长度&#34;&gt;&lt;/a&gt;显示字符串的前部分长度&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(pi_string[:&lt;span class=&#34;hljs-number&#34;&gt;52&lt;/span&gt;] + &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;...&amp;quot;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 3.14159265358979323846264338327950288419716939937510...&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+&lt;h1 id=&#34;input&#34;&gt;&lt;a href=&#34;#input&#34; class=&#34;headerlink&#34; title=&#34;input&#34;&gt;&lt;/a&gt;input&lt;/h1&gt;&lt;p&gt;幸好，&lt;code&gt;input()&lt;/code&gt;可以让你显示一个字符串来提示用户，于是我们把代码改成：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;name = &lt;span class=&#34;hljs-built_in&#34;&gt;input&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;please enter your name: &amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;hello,&amp;#x27;&lt;/span&gt;, name)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;注释&#34;&gt;&lt;a href=&#34;#注释&#34; class=&#34;headerlink&#34; title=&#34;注释&#34;&gt;&lt;/a&gt;注释&lt;/h1&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 这是一段 行注释&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;这是一段 段注释&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;h1 id=&#34;数据类型-和-算数运算符&#34;&gt;&lt;a href=&#34;#数据类型-和-算数运算符&#34; class=&#34;headerlink&#34; title=&#34;数据类型 和 算数运算符&#34;&gt;&lt;/a&gt;数据类型 和 算数运算符&lt;/h1&gt;&lt;p&gt;整数、浮点数、字符串、布尔型（True、False（注意大小写））、空值&lt;/p&gt;
+&lt;p&gt;所谓常量就是不能变的变量，比如常用的数学常数π就是一个常量。在Python中，通常用全部大写的变量名表示，但是不能保证其不被改变&lt;/p&gt;
+&lt;p&gt;空值是Python里一个特殊的值，用None表示。None不能理解为0，因为0是有意义的，而None是一个特殊的空值。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;运算符&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;实例&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;+&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;加 - 两个对象相加&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;a + b 输出结果 30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;减 - 得到负数或是一个数减去另一个数&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;a - b 输出结果 -10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;*&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;乘 - 两个数相乘或是返回一个被重复若干次的字符串&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;a * b 输出结果 200&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&amp;#x2F;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;除 - x除以y&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;b &amp;#x2F; a 输出结果 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;%&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;取模 - 返回除法的余数&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;b % a 输出结果 0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;**&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;幂 - 返回x的y次幂&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;a**b 为10的20次方， 输出结果 100000000000000000000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&amp;#x2F;&amp;#x2F;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;取整除 - 返回商的整数部分（&lt;strong&gt;向下取整&lt;/strong&gt;）&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;gt;&amp;gt;&amp;gt; 9//2 = 4 &amp;gt;&amp;gt;&amp;gt; -9//2 = -5&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&amp;#x2F;除法计算结果是浮点数&lt;/p&gt;
+&lt;p&gt;&amp;#x2F;&amp;#x2F;称为地板除，两个整数的除法仍然是整数（c整数除法）&lt;/p&gt;
+&lt;h1 id=&#34;编码（数据转换）&#34;&gt;&lt;a href=&#34;#编码（数据转换）&#34; class=&#34;headerlink&#34; title=&#34;编码（数据转换）&#34;&gt;&lt;/a&gt;编码（数据转换）&lt;/h1&gt;&lt;p&gt;ord()函数获取字符的整数表示&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; ord(‘中’)&lt;/p&gt;
+&lt;p&gt;20013&lt;/p&gt;
+&lt;p&gt;chr()函数把编码转换为对应的字符&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; chr(25991)&lt;/p&gt;
+&lt;p&gt;‘文’&lt;/p&gt;
+&lt;p&gt;str通过encode()可以编码为bytes&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; ‘ABC’.encode(‘ascii’)&lt;/p&gt;
+&lt;p&gt;b’ABC’&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; ‘中文’.encode(‘utf-8’)&lt;/p&gt;
+&lt;p&gt;b’\xe4\xb8\xad\xe6\x96\x87’&lt;/p&gt;
+&lt;p&gt;要把bytes变为str，就需要用decode()&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; b’ABC’.decode(‘ascii’)&lt;/p&gt;
+&lt;p&gt;‘ABC’&lt;/p&gt;
+&lt;p&gt;要计算str包含多少个字符，可以用len()函数&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; len(‘ABC’)&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; len(‘中文’)&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;len()函数计算的是str的字符数，如果换成bytes，len()函数就计算字节数&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; len(b’ABC’)&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; len(b’\xe4\xb8\xad\xe6\x96\x87’)&lt;/p&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; len(‘中文’.encode(‘utf-8’))&lt;/p&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;‘ABC’和b’ABC’，&lt;/p&gt;
+&lt;p&gt;前者是str，在内存中以Unicode表示，一个字符对应若干个字节&lt;/p&gt;
+&lt;p&gt;后者虽然内容显示得和前者一样，但bytes的每个字符都只占用一个字节&lt;/p&gt;
+&lt;h1 id=&#34;List列表（类似数组）&#34;&gt;&lt;a href=&#34;#List列表（类似数组）&#34; class=&#34;headerlink&#34; title=&#34;List列表（类似数组）&#34;&gt;&lt;/a&gt;List列表（类似数组）&lt;/h1&gt;&lt;h2 id=&#34;创建&#34;&gt;&lt;a href=&#34;#创建&#34; class=&#34;headerlink&#34; title=&#34;创建&#34;&gt;&lt;/a&gt;创建&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;s = [&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;]*&lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;					&lt;span class=&#34;hljs-comment&#34;&gt;#10个0&lt;/span&gt;&lt;br&gt;[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;]&lt;br&gt;&lt;br&gt;s = [&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;hello&amp;#x27;&lt;/span&gt;]*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;			    &lt;span class=&#34;hljs-comment&#34;&gt;#10个&amp;#x27;hello&amp;#x27;&lt;/span&gt;&lt;br&gt;[&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;hello&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;hello&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;hello&amp;#x27;&lt;/span&gt;]&lt;br&gt;&lt;br&gt;s = &lt;span class=&#34;hljs-built_in&#34;&gt;list&lt;/span&gt;(&lt;span class=&#34;hljs-built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;))			&lt;span class=&#34;hljs-comment&#34;&gt;#10个 从0到10&lt;/span&gt;&lt;br&gt;[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;6&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;7&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;]&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;hr&gt;
+&lt;p&gt;Python内置的一种数据类型是list。list是一种有序的集合，可以随时添加和删除其中的元素。&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; classmates &amp;#x3D; [‘Jack’, 180, 1.69]&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; classmates&lt;/p&gt;
+&lt;p&gt;[‘Jack’, 180, 1.69]&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;如果要取最后一个元素，除了计算索引位置外，还可以用-1做索引，直接获取最后一个元素：&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; classmates[-1]&lt;/p&gt;
+&lt;p&gt;‘Tracy’&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;list是一个可变的有序表，所以，可以往list中追加元素到末尾：&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; classmates.append(‘Adam’)&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; classmates&lt;/p&gt;
+&lt;p&gt;[‘Michael’, ‘Bob’, ‘Tracy’, ‘Adam’]&lt;/p&gt;
+&lt;p&gt;也可以把元素插入到指定的位置，比如索引号为1的位置：&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; classmates.insert(1, ‘Jack’)&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; classmates&lt;/p&gt;
+&lt;p&gt;[‘Michael’, ‘Jack’, ‘Bob’, ‘Tracy’, ‘Adam’]&lt;/p&gt;
+&lt;p&gt;要删除list末尾的元素，用pop()方法：&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; classmates.pop()&lt;/p&gt;
+&lt;p&gt;‘Adam’&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; classmates&lt;/p&gt;
+&lt;p&gt;[‘Michael’, ‘Jack’, ‘Bob’, ‘Tracy’]&lt;/p&gt;
+&lt;p&gt;要删除指定位置的元素，用pop(i)方法，其中i是索引位置：&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; classmates.pop(1)&lt;/p&gt;
+&lt;p&gt;‘Jack’&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; classmates&lt;/p&gt;
+&lt;p&gt;[‘Michael’, ‘Bob’, ‘Tracy’]&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;-———————————————————————————————————————&lt;/p&gt;
+&lt;p&gt;list元素也可以是另一个list，比如：&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; s &amp;#x3D; [‘python’, ‘java’, [‘asp’, ‘php’], ‘scheme’]&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; len(s)&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;要注意s只有4个元素，其中s[2]又是一个list，如果拆开写就更容易理解了&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; p &amp;#x3D; [‘asp’, ‘php’]&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; s &amp;#x3D; [‘python’, ‘java’, p, ‘scheme’]&lt;/p&gt;
+&lt;p&gt;要访问’php’可以写p[1]或者s[2][1]，因此s可以看成是一个二维数组&lt;/p&gt;
+&lt;h1 id=&#34;Tuple元组（静态数组）&#34;&gt;&lt;a href=&#34;#Tuple元组（静态数组）&#34; class=&#34;headerlink&#34; title=&#34;Tuple元组（静态数组）&#34;&gt;&lt;/a&gt;Tuple元组（静态数组）&lt;/h1&gt;&lt;p&gt;另一种有序列表叫元组：tuple&lt;/p&gt;
+&lt;p&gt;。tuple和list非常类似，但是tuple一旦初始化就不能修改&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; classmates &amp;#x3D; (‘Michael’, ‘Bob’, ‘Tracy’)&lt;/p&gt;
+&lt;p&gt;要定义一个只有1个元素的tuple，如果你这么定义：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;t = (&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;t&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;定义的不是tuple，是&lt;code&gt;1&lt;/code&gt;这个数！这是因为括号&lt;code&gt;()&lt;/code&gt;既可以表示tuple，又可以表示数学公式中的小括号，这就产生了歧义，因此，Python规定，这种情况下，按小括号进行计算，计算结果自然是&lt;code&gt;1&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;所以，只有1个元素的tuple定义时必须加一个逗号&lt;code&gt;,&lt;/code&gt;，来消除歧义：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;t = (&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;,)&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;t&lt;br&gt;(&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;,)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;Python在显示只有1个元素的tuple时，也会加一个逗号&lt;code&gt;,&lt;/code&gt;，以免你误解成数学计算意义上的括号。&lt;/p&gt;
+&lt;p&gt;最后来看一个“可变的”tuple：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;t = (&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;a&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;b&amp;#x27;&lt;/span&gt;, [&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;A&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;B&amp;#x27;&lt;/span&gt;])&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;t[&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;][&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;] = &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;X&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;t[&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;][&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;] = &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Y&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;t&lt;br&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;a&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;b&amp;#x27;&lt;/span&gt;, [&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;X&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Y&amp;#x27;&lt;/span&gt;])&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;str-replace-替换&#34;&gt;&lt;a href=&#34;#str-replace-替换&#34; class=&#34;headerlink&#34; title=&#34;str.replace 替换&#34;&gt;&lt;/a&gt;str.replace 替换&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;message = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;I really like dogs.&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;message.replace(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;dog&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;cat&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;I really like cats.&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;h1 id=&#34;if-、-for-、-while-、-range&#34;&gt;&lt;a href=&#34;#if-、-for-、-while-、-range&#34; class=&#34;headerlink&#34; title=&#34;if 、 for 、 while 、 range&#34;&gt;&lt;/a&gt;if 、 for 、 while 、 range&lt;/h1&gt;&lt;h2 id=&#34;if&#34;&gt;&lt;a href=&#34;#if&#34; class=&#34;headerlink&#34; title=&#34;if&#34;&gt;&lt;/a&gt;if&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;变体&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;ii = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; ss == &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#当ss == 2时 ii=1 否则 ii=0&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;if age &amp;gt;&amp;#x3D; 18:&lt;/p&gt;
+&lt;p&gt;​    print(‘adult’)&lt;/p&gt;
+&lt;p&gt;else:&lt;/p&gt;
+&lt;p&gt;​    print(‘teenager’)&lt;/p&gt;
+&lt;p&gt;age &amp;#x3D; 3&lt;/p&gt;
+&lt;p&gt;if age &amp;gt;&amp;#x3D; 18:&lt;/p&gt;
+&lt;p&gt;​    print(‘adult’)&lt;/p&gt;
+&lt;p&gt;elif age &amp;gt;&amp;#x3D; 6:&lt;/p&gt;
+&lt;p&gt;​    print(‘teenager’)&lt;/p&gt;
+&lt;p&gt;else:&lt;/p&gt;
+&lt;p&gt;​    print(‘kid’)&lt;/p&gt;
+&lt;h2 id=&#34;for&#34;&gt;&lt;a href=&#34;#for&#34; class=&#34;headerlink&#34; title=&#34;for&#34;&gt;&lt;/a&gt;for&lt;/h2&gt;&lt;p&gt;所以for x in …循环就是把每个元素代入变量x，然后执行缩进块的语句。&lt;/p&gt;
+&lt;p&gt;再比如我们想计算1-10的整数之和，可以用一个sum变量做累加：&lt;/p&gt;
+&lt;p&gt;sum &amp;#x3D; 0&lt;/p&gt;
+&lt;p&gt;for x in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]:&lt;/p&gt;
+&lt;p&gt;​    sum &amp;#x3D; sum + x&lt;/p&gt;
+&lt;p&gt;print(sum)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;sum &amp;#x3D; 0&lt;/p&gt;
+&lt;p&gt;for x in  range(101):&lt;/p&gt;
+&lt;p&gt;​    sum &amp;#x3D; sum + x&lt;/p&gt;
+&lt;p&gt;print(sum)&lt;/p&gt;
+&lt;h2 id=&#34;while&#34;&gt;&lt;a href=&#34;#while&#34; class=&#34;headerlink&#34; title=&#34;while&#34;&gt;&lt;/a&gt;while&lt;/h2&gt;&lt;p&gt;while循环&lt;/p&gt;
+&lt;p&gt;sum &amp;#x3D; 0&lt;/p&gt;
+&lt;p&gt;n &amp;#x3D; 99&lt;/p&gt;
+&lt;p&gt;while n &amp;gt; 0:&lt;/p&gt;
+&lt;p&gt;​    sum &amp;#x3D; sum + n&lt;/p&gt;
+&lt;p&gt;​    n &amp;#x3D; n - 2&lt;/p&gt;
+&lt;p&gt;print(sum)&lt;/p&gt;
+&lt;h2 id=&#34;range&#34;&gt;&lt;a href=&#34;#range&#34; class=&#34;headerlink&#34; title=&#34;range&#34;&gt;&lt;/a&gt;range&lt;/h2&gt;&lt;p&gt;range(start, stop[, step])    可以生成一个整数序列，&lt;/p&gt;
+&lt;p&gt;start: 计数从 start 开始。默认是从 0 开始。例如range（5）等价于range（0， 5）;&lt;/p&gt;
+&lt;p&gt;stop: 计数到 stop 结束，但不包括 stop。例如：range（0， 5） 是[0, 1, 2, 3, 4]没有5&lt;/p&gt;
+&lt;p&gt;step：步长，默认为1。例如：range（0， 5） 等价于 range(0, 5, 1)&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; list(range(5))&lt;/p&gt;
+&lt;p&gt;[0, 1, 2, 3, 4]&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt;range(10)        # 从 0 开始到 10&lt;/p&gt;
+&lt;p&gt;[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; range(1, 11)     # 从 1 开始到 11&lt;/p&gt;
+&lt;p&gt;[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; range(0, 30, 5)  # 步长为 5&lt;/p&gt;
+&lt;p&gt;[0, 5, 10, 15, 20, 25]&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; range(0, 10, 3)  # 步长为 3&lt;/p&gt;
+&lt;p&gt;[0, 3, 6, 9]&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; range(0, -10, -1) # 负数&lt;/p&gt;
+&lt;p&gt;[0, -1, -2, -3, -4, -5, -6, -7, -8, -9]&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; range(0)&lt;/p&gt;
+&lt;p&gt;[]&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; range(1, 0)&lt;/p&gt;
+&lt;p&gt;[]&lt;/p&gt;
+&lt;h1 id=&#34;Dict（字典）&#34;&gt;&lt;a href=&#34;#Dict（字典）&#34; class=&#34;headerlink&#34; title=&#34;Dict（字典）&#34;&gt;&lt;/a&gt;Dict（字典）&lt;/h1&gt;&lt;p&gt;Python内置了字典：dict的支持，dict全称dictionary，在其他语言中也称为map，使用键-值（key-value）存储，具有极快的查找速度。&lt;/p&gt;
+&lt;p&gt;如果用dict实现，只需要一个“名字”-“成绩”的对照表，直接根据名字查找成绩，无论这个表有多大，查找速度都不会变慢。用Python写一个dict如下：&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; d &amp;#x3D; {‘Michael’: 95, ‘Bob’: 75, ‘Tracy’: 85}&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; d[‘Michael’]&lt;/p&gt;
+&lt;p&gt;95 &lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;Kw = &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;city&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;22&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;job&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;33&lt;/span&gt;&amp;#125;: &lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;city&amp;#x27;&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt; kw:&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# 有city参数&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;pass&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;gt;&amp;gt;&amp;gt;kw.get(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;city&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;22&lt;/span&gt;&lt;br&gt;&amp;gt;&amp;gt;&amp;gt;kw.[&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;city&amp;#x27;&lt;/span&gt;]&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;字典内置函数-amp-方法&#34;&gt;&lt;a href=&#34;#字典内置函数-amp-方法&#34; class=&#34;headerlink&#34; title=&#34;字典内置函数&amp;amp;方法&#34;&gt;&lt;/a&gt;字典内置函数&amp;amp;方法&lt;/h2&gt;&lt;p&gt;Python字典包含了以下内置函数：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;序号&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;函数及描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-cmp.html&#34;&gt;cmp(dict1, dict2)&lt;/a&gt; 比较两个字典元素。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-len.html&#34;&gt;len(dict)&lt;/a&gt; 计算字典元素个数，即键的总数。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;3&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-str.html&#34;&gt;str(dict)&lt;/a&gt; 输出字典可打印的字符串表示。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;4&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-type.html&#34;&gt;type(variable)&lt;/a&gt; 返回输入的变量类型，如果变量是字典就返回字典类型。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;Python字典包含了以下内置方法：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;序号&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;函数及描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-clear.html&#34;&gt;dict.clear()&lt;/a&gt; 删除字典内所有元素&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-copy.html&#34;&gt;dict.copy()&lt;/a&gt; 返回一个字典的浅复制&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;3&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[dict.fromkeys(seq&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-fromkeys.html&#34;&gt;, val])&lt;/a&gt; 创建一个新字典，以序列 seq 中元素做字典的键，val 为字典所有键对应的初始值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;4&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-get.html&#34;&gt;dict.get(key, default&amp;#x3D;None)&lt;/a&gt; 返回指定键的值，如果值不在字典中返回default值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;5&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-has_key.html&#34;&gt;dict.has_key(key)&lt;/a&gt; 如果键在字典dict里返回true，否则返回false&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;6&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-items.html&#34;&gt;dict.items()&lt;/a&gt; 以列表返回可遍历的(键, 值) 元组数组&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;7&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-keys.html&#34;&gt;dict.keys()&lt;/a&gt; 以列表返回一个字典所有的键&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;8&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-setdefault.html&#34;&gt;dict.setdefault(key, default&amp;#x3D;None)&lt;/a&gt; 和get()类似, 但如果键不存在于字典中，将会添加键并将值设为default&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;9&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-update.html&#34;&gt;dict.update(dict2)&lt;/a&gt; 把字典dict2的键&amp;#x2F;值对更新到dict里&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/att-dictionary-values.html&#34;&gt;dict.values()&lt;/a&gt; 以列表返回字典中的所有值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;11&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[pop(key&lt;a href=&#34;https://www.runoob.com/python/python-att-dictionary-pop.html&#34;&gt;,default])&lt;/a&gt; 删除字典给定键 key 所对应的值，返回值为被删除的值。key值必须给出。 否则，返回default值。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;12&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.runoob.com/python/python-att-dictionary-popitem.html&#34;&gt;popitem()&lt;/a&gt; 返回并删除字典中的最后一对键和值。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;文件操作&#34;&gt;&lt;a href=&#34;#文件操作&#34; class=&#34;headerlink&#34; title=&#34;文件操作&#34;&gt;&lt;/a&gt;文件操作&lt;/h1&gt;&lt;h2 id=&#34;基本打开输出文件&#34;&gt;&lt;a href=&#34;#基本打开输出文件&#34; class=&#34;headerlink&#34; title=&#34;基本打开输出文件&#34;&gt;&lt;/a&gt;基本打开输出文件&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;with&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;open&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;pi_digits.txt&amp;#x27;&lt;/span&gt;) &lt;span class=&#34;hljs-keyword&#34;&gt;as&lt;/span&gt; file_object:&lt;br&gt;    contents = file_object.read()&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(contents)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;在这个程序中，第1行代码做了大量的工作。我们先来看看函数open() 。要以任何方式使用文件——哪怕仅仅是打印其内容，都得先打开 文件，这样才能访问它。函数open()接受一个参数：要打开的文件的名称。Python在当前执行的文件所在的目录中查找指定的文件。在这个示例中，当前运行的是file_reader.py，因此Python在file_reader.py所在的目录中查找pi_digits.txt。函数open() 返回一个表示文件的对象。在这里，open(‘pi_digits.txt’) 返回一个表示文件pi_digits.txt 的对象；Python将这个对象存储在我们将在后面使用的变量中。&lt;/p&gt;
+&lt;p&gt;关键字with 在不再需要访问文件后将其关闭。在这个程序中，注意到我们调用了open() ，但没有调用close() ；你也可以调用open() 和close() 来打开和关闭文件，但这样做时，如果程序存在bug，导致close() 语句未执行，文件将不会关闭。这看似微不足道，但未妥善地关闭文件可能会导致数据丢失或受损。如果在程序中过早地调用close() ，你会发现需要使用文件时它已关闭 （无法访问），这会导致更多的错误。并非在任何情况下都能轻松确定关闭文件的恰当时机，但通过使用前面所示的结构，可让Python去确定：你只管打开文件，并在需要时使用它，Python自会在合适的时候自动将其关闭。&lt;/p&gt;
+&lt;h2 id=&#34;删除字符串末尾的空白-rstrip&#34;&gt;&lt;a href=&#34;#删除字符串末尾的空白-rstrip&#34; class=&#34;headerlink&#34; title=&#34;删除字符串末尾的空白 rstrip&#34;&gt;&lt;/a&gt;删除字符串末尾的空白 rstrip&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;with&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;open&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;pi_digits.txt&amp;#x27;&lt;/span&gt;) &lt;span class=&#34;hljs-keyword&#34;&gt;as&lt;/span&gt; file_object:&lt;br&gt;    contents = file_object.read()&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(contents.rstrip())&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;相比于原始文件，该输出唯一不同的地方是末尾多了一个空行。为何会多出这个空行呢？因为read() 到达文件末尾时返回一个空字符串，而将这个空字符串显示出来时就是一个空行。要删除多出来的空行，可在print 语句中使用rstrip() ：&lt;/p&gt;
+&lt;p&gt;每行左边的空格，为删除这些空格，可使用strip() &lt;/p&gt;
+&lt;h2 id=&#34;逐行读取文件&#34;&gt;&lt;a href=&#34;#逐行读取文件&#34; class=&#34;headerlink&#34; title=&#34;逐行读取文件&#34;&gt;&lt;/a&gt;逐行读取文件&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;filename = &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;pi_digits.txt&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;with&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;open&lt;/span&gt;(filename) &lt;span class=&#34;hljs-keyword&#34;&gt;as&lt;/span&gt; file_object:&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; line &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt; file_object:&lt;br&gt;    	&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(line.rstrip())&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;文件打开模式&#34;&gt;&lt;a href=&#34;#文件打开模式&#34; class=&#34;headerlink&#34; title=&#34;文件打开模式&#34;&gt;&lt;/a&gt;文件打开模式&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;filename = &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;programming.txt&amp;#x27;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;with&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;open&lt;/span&gt;(filename, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;w&amp;#x27;&lt;/span&gt;) &lt;span class=&#34;hljs-keyword&#34;&gt;as&lt;/span&gt; file_object:&lt;br&gt;    file_object.write(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;I love programming.&amp;quot;&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;在这个示例中，调用open() 时提供了两个实参（见❶）。第一个实参也是要打开的文件的名称；第二个实参（’w’ ）告诉Python，我们要以写入模式 打开这个文件。打开文件时，&lt;strong&gt;可指定读取模式 （’r’ ）、写入模式 （’w’ ）、附加模式 （’a’ ）附加到文件末尾、让你能够读取和写入文件的模式（’r+’ ）&lt;/strong&gt;。如果你省略了模式实参，Python将以默认的只读模式打开文件。&lt;/p&gt;
+&lt;h2 id=&#34;异常处理-try-except&#34;&gt;&lt;a href=&#34;#异常处理-try-except&#34; class=&#34;headerlink&#34; title=&#34;异常处理 try-except&#34;&gt;&lt;/a&gt;异常处理 try-except&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;filename = &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;alice.txt&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;try&lt;/span&gt;:&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;with&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;open&lt;/span&gt;(filename) &lt;span class=&#34;hljs-keyword&#34;&gt;as&lt;/span&gt; f_obj:&lt;br&gt;    	contents = f_obj.read()&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;except&lt;/span&gt; FileNotFoundError:&lt;br&gt;    msg = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Sorry, the file &amp;quot;&lt;/span&gt; + filename + &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot; does not exist.&amp;quot;&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(msg)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;在这个示例中，try 代码块引发FileNotFoundError 异常，因此Python找出与该错误匹配的except 代码块，并运行其中的代码。最终的结果是显示一条友好的错误消息，而不是traceback：&lt;/p&gt;
+&lt;h1 id=&#34;一些方法&#34;&gt;&lt;a href=&#34;#一些方法&#34; class=&#34;headerlink&#34; title=&#34;一些方法&#34;&gt;&lt;/a&gt;一些方法&lt;/h1&gt;&lt;h2 id=&#34;count&#34;&gt;&lt;a href=&#34;#count&#34; class=&#34;headerlink&#34; title=&#34;.count()&#34;&gt;&lt;/a&gt;.count()&lt;/h2&gt;&lt;h3 id=&#34;描述&#34;&gt;&lt;a href=&#34;#描述&#34; class=&#34;headerlink&#34; title=&#34;描述&#34;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;p&gt;Python count() 方法用于统计字符串里某个字符出现的次数。可选参数为在字符串搜索的开始与结束位置。&lt;/p&gt;
+&lt;h3 id=&#34;语法&#34;&gt;&lt;a href=&#34;#语法&#34; class=&#34;headerlink&#34; title=&#34;语法&#34;&gt;&lt;/a&gt;语法&lt;/h3&gt;&lt;p&gt;count()方法语法：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;.count(sub, start= &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,end=&lt;span class=&#34;hljs-built_in&#34;&gt;len&lt;/span&gt;(string))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;参数&#34;&gt;&lt;a href=&#34;#参数&#34; class=&#34;headerlink&#34; title=&#34;参数&#34;&gt;&lt;/a&gt;参数&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;sub – 搜索的子字符串&lt;/li&gt;
+&lt;li&gt;start – 字符串开始搜索的位置。默认为第一个字符,第一个字符索引值为0。&lt;/li&gt;
+&lt;li&gt;end – 字符串中结束搜索的位置。字符中第一个字符的索引为 0。默认为字符串的最后一个位置。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;to-bytes&#34;&gt;&lt;a href=&#34;#to-bytes&#34; class=&#34;headerlink&#34; title=&#34;.to_bytes()&#34;&gt;&lt;/a&gt;.to_bytes()&lt;/h2&gt;&lt;p&gt;(0x12).to_bytes(10, byteorder&amp;#x3D; ‘big’, signed &amp;#x3D; ‘true’)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;10：表示转换后的数据占10个字节&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;byteorder：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&amp;gt;&amp;gt;&amp;gt;(&lt;span class=&#34;hljs-number&#34;&gt;0x12&lt;/span&gt;).to_bytes(&lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;, byteorder = &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;big&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#b&amp;#x27;\xf8\x12\x00\x00&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&amp;gt;&amp;gt;&amp;gt;(&lt;span class=&#34;hljs-number&#34;&gt;0x12&lt;/span&gt;).to_bytes(&lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;, byteorder = &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;little&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#b&amp;#x27;\x00\x00\x12\xf8&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;signed： 表示有符号和无符号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;函数名&#34;&gt;&lt;a href=&#34;#函数名&#34; class=&#34;headerlink&#34; title=&#34;函数名&#34;&gt;&lt;/a&gt;函数名&lt;/h2&gt;&lt;p&gt;函数名其实就是指向一个函数对象的引用，完全可以把函数名赋给一个变量，相当于给这个函数起了一个“别名”：(类似于指针？？？？准确描述应该是类似 tpyedef )&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;a = &lt;span class=&#34;hljs-built_in&#34;&gt;abs&lt;/span&gt; &lt;span class=&#34;hljs-comment&#34;&gt;# 变量a指向abs函数&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;a(-&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;) &lt;span class=&#34;hljs-comment&#34;&gt;# 所以也可以通过a调用abs函数1&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;abs-绝对值&#34;&gt;&lt;a href=&#34;#abs-绝对值&#34; class=&#34;headerlink&#34; title=&#34;abs 绝对值&#34;&gt;&lt;/a&gt;abs 绝对值&lt;/h2&gt;&lt;p&gt;abs( x )函数 取绝对值&lt;/p&gt;
+&lt;p&gt;x – 数值表达式。&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;abs&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;)&lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;abs&lt;/span&gt;(-&lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt;)&lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;abs&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;12.34&lt;/span&gt;)&lt;span class=&#34;hljs-number&#34;&gt;12.34&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;max-找平均值&#34;&gt;&lt;a href=&#34;#max-找平均值&#34; class=&#34;headerlink&#34; title=&#34;max 找平均值&#34;&gt;&lt;/a&gt;max 找平均值&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; numpy &lt;span class=&#34;hljs-keyword&#34;&gt;as&lt;/span&gt; np&lt;br&gt;&lt;br&gt;&lt;br&gt;list1 = [&lt;span class=&#34;hljs-number&#34;&gt;123&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;568&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;423&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;365&lt;/span&gt;]&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;( np.mean(list1) )&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;max-找最大-x2F-小值&#34;&gt;&lt;a href=&#34;#max-找最大-x2F-小值&#34; class=&#34;headerlink&#34; title=&#34;max 找最大&amp;#x2F;小值&#34;&gt;&lt;/a&gt;max 找最大&amp;#x2F;小值&lt;/h2&gt;&lt;p&gt;max( x, y, z, …. )  可以接收任意多个参数，并返回最大的那个（可以传入list）：&lt;/p&gt;
+&lt;p&gt;x – 数值表达式。y – 数值表达式。z – 数值表达式&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;max&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;max&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;, -&lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;list1 = [&lt;span class=&#34;hljs-number&#34;&gt;123&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;568&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;423&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;365&lt;/span&gt;]&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Max value element : &amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-built_in&#34;&gt;max&lt;/span&gt;(list1))&lt;br&gt;Max value element :  &lt;span class=&#34;hljs-number&#34;&gt;568&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;exal-执行字符串类型的表达式&#34;&gt;&lt;a href=&#34;#exal-执行字符串类型的表达式&#34; class=&#34;headerlink&#34; title=&#34;exal 执行字符串类型的表达式&#34;&gt;&lt;/a&gt;exal 执行字符串类型的表达式&lt;/h2&gt;&lt;p&gt;eval(expression[, globals[, locals]])函数   函数用来执行一个字符串表达式，并返回表达式的值。&lt;/p&gt;
+&lt;p&gt;expression – 表达式。&lt;/p&gt;
+&lt;p&gt;globals – 变量作用域，全局命名空间，如果被提供，则必须是一个字典对象。&lt;/p&gt;
+&lt;p&gt;locals – 变量作用域，局部命名空间，如果被提供，可以是任何映射对象。&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt;x &amp;#x3D; 7&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; eval( ‘3 * x’ )&lt;/p&gt;
+&lt;p&gt;21&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; eval(‘pow(2,2)’)&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;a&amp;#x3D;eval(input(“请输入一个整数”))           #（自动类型转换）&lt;/p&gt;
+&lt;h2 id=&#34;int-强制转换&#34;&gt;&lt;a href=&#34;#int-强制转换&#34; class=&#34;headerlink&#34; title=&#34;int 强制转换&#34;&gt;&lt;/a&gt;int 强制转换&lt;/h2&gt;&lt;p&gt;class int(x, base&amp;#x3D;10)    强制转换返回整型数据。&lt;/p&gt;
+&lt;p&gt;x – 字符串或数字。base – 进制数，默认十进制。&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; int(‘0xa’,16)  &lt;/p&gt;
+&lt;p&gt;10  &lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; int(‘10’,8)  &lt;/p&gt;
+&lt;p&gt;8&lt;/p&gt;
+&lt;p&gt;a&amp;#x3D;int(input(“请输入一个整数”))             #（强制类型转换）&lt;/p&gt;
+&lt;h2 id=&#34;type-判断对象类型&#34;&gt;&lt;a href=&#34;#type-判断对象类型&#34; class=&#34;headerlink&#34; title=&#34;type 判断对象类型&#34;&gt;&lt;/a&gt;type 判断对象类型&lt;/h2&gt;&lt;p&gt;首先，我们来判断对象类型，使用&lt;code&gt;type()&lt;/code&gt;函数：&lt;/p&gt;
+&lt;p&gt;基本类型都可以用&lt;code&gt;type()&lt;/code&gt;判断：&lt;/p&gt;
+&lt;figure class=&#34;highlight haskell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs haskell&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;type&lt;/span&gt;(123)&lt;/span&gt;&lt;br&gt;&amp;lt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &amp;#x27;int&amp;#x27;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;&amp;gt; &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;type&lt;/span&gt;(&amp;#x27;&lt;span class=&#34;hljs-title&#34;&gt;str&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&amp;lt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &amp;#x27;str&amp;#x27;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;&amp;gt; &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-type&#34;&gt;None&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&amp;lt;&lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-type&#34;&gt;None&lt;/span&gt;) &amp;#x27;&lt;span class=&#34;hljs-type&#34;&gt;NoneType&amp;#x27;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;如果一个变量指向函数或者类，也可以用&lt;code&gt;type()&lt;/code&gt;判断：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-built_in&#34;&gt;abs&lt;/span&gt;)&lt;br&gt;&amp;lt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;builtin_function_or_method&amp;#x27;&lt;/span&gt;&amp;gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(a)&lt;br&gt;&amp;lt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;__main__.Animal&amp;#x27;&lt;/span&gt;&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;但是&lt;code&gt;type()&lt;/code&gt;函数返回的是什么类型呢？它返回对应的Class类型。如果我们要在&lt;code&gt;if&lt;/code&gt;语句中判断，就需要比较两个变量的type类型是否相同：&lt;/p&gt;
+&lt;figure class=&#34;highlight python-repl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python-repl&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;language-python&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;123&lt;/span&gt;)==&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;456&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;True&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;language-python&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;123&lt;/span&gt;)==&lt;span class=&#34;hljs-built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;&lt;br&gt;True&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;language-python&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;abc&amp;#x27;&lt;/span&gt;)==&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;123&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;True&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;language-python&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;abc&amp;#x27;&lt;/span&gt;)==&lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;&lt;/span&gt;&lt;br&gt;True&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;language-python&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;abc&amp;#x27;&lt;/span&gt;)==&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;123&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;False&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;判断基本数据类型可以直接写&lt;code&gt;int&lt;/code&gt;，&lt;code&gt;str&lt;/code&gt;等，但如果要判断一个对象是否是函数怎么办？可以使用&lt;code&gt;types&lt;/code&gt;模块中定义的常量：&lt;/p&gt;
+&lt;figure class=&#34;highlight python-repl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python-repl&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;language-python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; types&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;language-python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;fn&lt;/span&gt;():&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;...&lt;/span&gt; &lt;span class=&#34;language-python&#34;&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;pass&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;language-python&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(fn)==types.FunctionType&lt;/span&gt;&lt;br&gt;True&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;language-python&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-built_in&#34;&gt;abs&lt;/span&gt;)==types.BuiltinFunctionType&lt;/span&gt;&lt;br&gt;True&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;language-python&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;(&lt;span class=&#34;hljs-keyword&#34;&gt;lambda&lt;/span&gt; x: x)==types.LambdaType&lt;/span&gt;&lt;br&gt;True&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;language-python&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;((x &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; x &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;)))==types.GeneratorType&lt;/span&gt;&lt;br&gt;True&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;isinstance-判断类型是否相同&#34;&gt;&lt;a href=&#34;#isinstance-判断类型是否相同&#34; class=&#34;headerlink&#34; title=&#34;isinstance 判断类型是否相同&#34;&gt;&lt;/a&gt;isinstance 判断类型是否相同&lt;/h2&gt;&lt;p&gt;isinstance(object, classinfo)     如果对象的类型与参数二的类型（classinfo）相同则返回 True，否则返回 False&lt;/p&gt;
+&lt;p&gt;object – 实例对象。&lt;/p&gt;
+&lt;p&gt;classinfo – 可以是直接或间接类名、基本类型或者由它们组成的元组。&lt;/p&gt;
+&lt;p&gt;能用&lt;code&gt;type()&lt;/code&gt;判断的基本类型也可以用&lt;code&gt;isinstance()&lt;/code&gt;判断：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;isinstance&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;a&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;isinstance&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;123&lt;/span&gt;, &lt;span class=&#34;hljs-built_in&#34;&gt;int&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;isinstance&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;b&amp;#x27;a&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-built_in&#34;&gt;bytes&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;并且还可以判断一个变量是否是某些类型中的一种，比如下面的代码就可以判断是否是list或者tuple：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;isinstance&lt;/span&gt;([&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;], (&lt;span class=&#34;hljs-built_in&#34;&gt;list&lt;/span&gt;, &lt;span class=&#34;hljs-built_in&#34;&gt;tuple&lt;/span&gt;))&lt;br&gt;&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;isinstance&lt;/span&gt;((&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;), (&lt;span class=&#34;hljs-built_in&#34;&gt;list&lt;/span&gt;, &lt;span class=&#34;hljs-built_in&#34;&gt;tuple&lt;/span&gt;))&lt;br&gt;&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#判断传入的参数是否正确&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;not&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;isinstance&lt;/span&gt;(x, (&lt;span class=&#34;hljs-built_in&#34;&gt;int&lt;/span&gt;, &lt;span class=&#34;hljs-built_in&#34;&gt;float&lt;/span&gt;)):&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;raise&lt;/span&gt; TypeError(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;bad operand type&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;isinstance() 与 type() 区别：&lt;/p&gt;
+&lt;p&gt;type() 不会认为子类是一种父类类型，不考虑继承关系。&lt;/p&gt;
+&lt;p&gt;isinstance() 会认为子类是一种父类类型，考虑继承关系。&lt;/p&gt;
+&lt;p&gt;如果要判断两个类型是否相同推荐使用 isinstance()。&lt;/p&gt;
+&lt;h2 id=&#34;dir-获得对象的所有属性和方法&#34;&gt;&lt;a href=&#34;#dir-获得对象的所有属性和方法&#34; class=&#34;headerlink&#34; title=&#34;dir 获得对象的所有属性和方法&#34;&gt;&lt;/a&gt;dir 获得对象的所有属性和方法&lt;/h2&gt;&lt;p&gt;如果要获得一个对象的所有属性和方法，可以使用&lt;code&gt;dir()&lt;/code&gt;函数，它返回一个包含字符串的list，比如，获得一个str对象的所有属性和方法：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;dir&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;ABC&amp;#x27;&lt;/span&gt;)&lt;br&gt;[&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;__add__&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;__class__&amp;#x27;&lt;/span&gt;,..., &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;__subclasshook__&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;capitalize&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;casefold&amp;#x27;&lt;/span&gt;,..., &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;zfill&amp;#x27;&lt;/span&gt;]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;类似&lt;code&gt;__xxx__&lt;/code&gt;的属性和方法在Python中都是有特殊用途的，比如&lt;code&gt;__len__&lt;/code&gt;方法返回长度。在Python中，如果你调用&lt;code&gt;len()&lt;/code&gt;函数试图获取一个对象的长度，实际上，在&lt;code&gt;len()&lt;/code&gt;函数内部，它自动去调用该对象的&lt;code&gt;__len__()&lt;/code&gt;方法，所以，下面的代码是等价的：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;len&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;ABC&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;ABC&amp;#x27;&lt;/span&gt;.__len__()&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;二次三次方根&#34;&gt;&lt;a href=&#34;#二次三次方根&#34; class=&#34;headerlink&#34; title=&#34;二次三次方根&#34;&gt;&lt;/a&gt;二次三次方根&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;*&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;&lt;br&gt;== &lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;**&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;*&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;*&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;&lt;br&gt;== &lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;**&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h1 id=&#34;math模块的一些方法&#34;&gt;&lt;a href=&#34;#math模块的一些方法&#34; class=&#34;headerlink&#34; title=&#34;math模块的一些方法&#34;&gt;&lt;/a&gt;math模块的一些方法&lt;/h1&gt;&lt;h2 id=&#34;math-modf-分离小数和整数部分&#34;&gt;&lt;a href=&#34;#math-modf-分离小数和整数部分&#34; class=&#34;headerlink&#34; title=&#34;math.modf(分离小数和整数部分)&#34;&gt;&lt;/a&gt;math.modf(分离小数和整数部分)&lt;/h2&gt;&lt;h3 id=&#34;描述-1&#34;&gt;&lt;a href=&#34;#描述-1&#34; class=&#34;headerlink&#34; title=&#34;描述&#34;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;p&gt;modf() 方法返回x的整数部分与小数部分，两部分的数值符号与x相同，整数部分以浮点型表示。&lt;/p&gt;
+&lt;h3 id=&#34;实例&#34;&gt;&lt;a href=&#34;#实例&#34; class=&#34;headerlink&#34; title=&#34;实例&#34;&gt;&lt;/a&gt;实例&lt;/h3&gt;&lt;p&gt;以下展示了使用 modf() 方法的实例：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; math   &lt;span class=&#34;hljs-comment&#34;&gt;# This will import math module&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;( math.modf(-&lt;span class=&#34;hljs-number&#34;&gt;100.12&lt;/span&gt;) )&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;( math.modf(-&lt;span class=&#34;hljs-number&#34;&gt;100.12&lt;/span&gt;)[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;] )&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;以上实例运行后输出结果为：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;(-&lt;span class=&#34;hljs-number&#34;&gt;0.12000000000000455&lt;/span&gt;, -&lt;span class=&#34;hljs-number&#34;&gt;100.0&lt;/span&gt;)&lt;br&gt;-&lt;span class=&#34;hljs-number&#34;&gt;0.12000000000000455&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;h1 id=&#34;用户自定义函数&#34;&gt;&lt;a href=&#34;#用户自定义函数&#34; class=&#34;headerlink&#34; title=&#34;用户自定义函数&#34;&gt;&lt;/a&gt;用户自定义函数&lt;/h1&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;my_abs&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;x&lt;/span&gt;):&lt;br&gt;&lt;br&gt;   &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; x &amp;gt;= &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;:&lt;br&gt;&lt;br&gt;      &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; x&lt;br&gt;&lt;br&gt;   &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt;:&lt;br&gt;&lt;br&gt;       &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; -x&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;（导入其他文件内的函数的方法）如果你已经把&lt;code&gt;my_abs()&lt;/code&gt;的函数定义保存为&lt;code&gt;abs.py&lt;/code&gt;文件了，那么，可以在该文件的当前目录下启动Python解释器，用&lt;code&gt;from abs import my_abs&lt;/code&gt;来导入&lt;code&gt;my_abs()&lt;/code&gt;函数，注意&lt;code&gt;abs&lt;/code&gt;是文件名（不含&lt;code&gt;.py&lt;/code&gt;扩展名）：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;abs&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; my_abs&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;my_abs(-&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;) &lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h2 id=&#34;函数的返回值&#34;&gt;&lt;a href=&#34;#函数的返回值&#34; class=&#34;headerlink&#34; title=&#34;函数的返回值&#34;&gt;&lt;/a&gt;函数的返回值&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#pass语句，实际上pass可以用来作为占位符，比如现在还没想好怎么写函数的代码，就可以先放一个pass，让代码能运行起来。但是缺少了pass，代码运行就会有语法错误。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; age &amp;gt;= &lt;span class=&#34;hljs-number&#34;&gt;18&lt;/span&gt;:&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;pass&lt;/span&gt;&lt;br&gt; &lt;br&gt;函数返回多个值&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;add_two&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;x, y&lt;/span&gt;):&lt;br&gt;    x = x + &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&lt;br&gt;    y = y + &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; x, y&lt;br&gt; &lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;x = y = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;x, y = add_two(x,y)&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(x, y)&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;r = add_two(x,y)&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(r)&lt;br&gt;(&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;其实返回值是一个tuple(静态数组)！但是，在语法上，返回一个tuple可以省略括号，而多个变量可以同时接收一个tuple，按位置赋给对应的值，所以，Python的函数返回多值其实就是返回一个tuple，但写起来更方便。&lt;/p&gt;
+&lt;p&gt;函数的传入参数&lt;br&gt;函数传入list要特别小心，函数内的修改会影响其本身，类似C中的指针对list产生了修改。&lt;br&gt;关键字传值(带**的传值)传入的是值，不会影响原来的内容。&lt;/p&gt;
+&lt;h2 id=&#34;函数的输入&#34;&gt;&lt;a href=&#34;#函数的输入&#34; class=&#34;headerlink&#34; title=&#34;函数的输入&#34;&gt;&lt;/a&gt;函数的输入&lt;/h2&gt;&lt;h3 id=&#34;函数的默认参数&#34;&gt;&lt;a href=&#34;#函数的默认参数&#34; class=&#34;headerlink&#34; title=&#34;函数的默认参数&#34;&gt;&lt;/a&gt;函数的默认参数&lt;/h3&gt;&lt;p&gt;默认参数。由于我们经常计算x2，所以，完全可以把第二个参数n的默认值设定为2：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;power&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;x, n=&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;/span&gt;):&lt;br&gt;    s = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; n &amp;gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;:&lt;br&gt;        n = n - &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&lt;br&gt;        s = s * x&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; s&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;调用时可以 power(5) 直接计算5的2次方，也可以power(5,3)计算5的3次方。即默认参数可以传入也可以不传入。&lt;br&gt;定义默认参数要牢记一点：默认参数必须指向不变对象！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431752945034eb82ac80a3e64b9bb4929b16eeed1eb9000&#34;&gt;具体可以点击此处参考&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;输入可变长变量&#34;&gt;&lt;a href=&#34;#输入可变长变量&#34; class=&#34;headerlink&#34; title=&#34;输入可变长变量&#34;&gt;&lt;/a&gt;输入可变长变量&lt;/h3&gt;&lt;p&gt;可变长度的传入变量，加了星号（*）的变量名会存放所有未命名的变量参数。&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;printinfo&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt; *vartuple &lt;/span&gt;):&lt;br&gt;   &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;打印任何传入的参数&amp;quot;&lt;/span&gt;&lt;br&gt;   &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;输出: &amp;quot;&lt;/span&gt;&lt;br&gt;   &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; var &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt; vartuple:&lt;br&gt;      &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt; var&lt;br&gt;   &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt;;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 调用printinfo 函数&lt;/span&gt;&lt;br&gt;printinfo( &lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt; );&lt;br&gt;printinfo( &lt;span class=&#34;hljs-number&#34;&gt;70&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;60&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;50&lt;/span&gt; );&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;关键字参数（字典-dict-参数）&#34;&gt;&lt;a href=&#34;#关键字参数（字典-dict-参数）&#34; class=&#34;headerlink&#34; title=&#34;关键字参数（字典(dict)参数）&#34;&gt;&lt;/a&gt;关键字参数（字典(dict)参数）&lt;/h3&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;person&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;name, age, **kw&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;name:&amp;#x27;&lt;/span&gt;, name, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;age:&amp;#x27;&lt;/span&gt;, age, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;other:&amp;#x27;&lt;/span&gt;, kw)&lt;br&gt; &lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;person(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Michael&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;30&lt;/span&gt;)&lt;br&gt;name: Michael age: &lt;span class=&#34;hljs-number&#34;&gt;30&lt;/span&gt; other: &amp;#123;&amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;person(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Bob&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;35&lt;/span&gt;, city=&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Beijing&amp;#x27;&lt;/span&gt;)&lt;br&gt;name: Bob age: &lt;span class=&#34;hljs-number&#34;&gt;35&lt;/span&gt; other: &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;city&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Beijing&amp;#x27;&lt;/span&gt;&amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#如果函数内使用了某个关键字参数，但调用时没有传入，代码会有异常&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#如果要限制只能传指定名字的参数，则可以使用命名关键字参数&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;命名关键词参数&#34;&gt;&lt;a href=&#34;#命名关键词参数&#34; class=&#34;headerlink&#34; title=&#34;命名关键词参数&#34;&gt;&lt;/a&gt;命名关键词参数&lt;/h3&gt; &lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#命名关键字参数，是对关键字参数方式的进一步约束，更安全了&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#定义需要一个*号作为分隔符，*后面的参数表示只能传递该名字的参数&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#如下表示两个位置参数，还有两个名为city和job的关键字参数，调用时传其它名字会报错&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;person&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;name, age, *, city, job&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(name, age, city, job)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;和关键字参数&lt;code&gt;**kw&lt;/code&gt;不同，命名关键字参数需要一个特殊分隔符&lt;code&gt;*&lt;/code&gt;，&lt;code&gt;*&lt;/code&gt;后面的参数被视为命名关键字参数。&lt;/p&gt;
+&lt;p&gt;调用方式如下：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;person(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Jack&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;24&lt;/span&gt;, city=&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Beijing&amp;#x27;&lt;/span&gt;, job=&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Engineer&amp;#x27;&lt;/span&gt;)&lt;br&gt;Jack &lt;span class=&#34;hljs-number&#34;&gt;24&lt;/span&gt; Beijing Engineer&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;添加缺省值，从而简化调用：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;person&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;name, age, *, city=&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Beijing&amp;#x27;&lt;/span&gt;, job&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(name, age, city, job)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;由于命名关键字参数&lt;code&gt;city&lt;/code&gt;具有默认值，调用时，可不传入&lt;code&gt;city&lt;/code&gt;参数：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;person(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Jack&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;24&lt;/span&gt;, job=&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Engineer&amp;#x27;&lt;/span&gt;)&lt;br&gt;Jack &lt;span class=&#34;hljs-number&#34;&gt;24&lt;/span&gt; Beijing Engineer&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;匿名函数lambda&#34;&gt;&lt;a href=&#34;#匿名函数lambda&#34; class=&#34;headerlink&#34; title=&#34;匿名函数lambda&#34;&gt;&lt;/a&gt;匿名函数lambda&lt;/h1&gt;&lt;p&gt;python 使用 lambda 来创建匿名函数。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lambda只是一个表达式，函数体比def简单很多。&lt;/li&gt;
+&lt;li&gt;lambda的主体是一个表达式，而不是一个代码块。仅仅能在lambda表达式中封装有限的逻辑进去。&lt;/li&gt;
+&lt;li&gt;lambda函数拥有自己的命名空间，且不能访问自有参数列表之外或全局命名空间里的参数。&lt;/li&gt;
+&lt;li&gt;虽然lambda函数看起来只能写一行，却不等同于C或C++的内联函数，后者的目的是调用小函数时不占用栈内存从而增加运行效率。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;语法-1&#34;&gt;&lt;a href=&#34;#语法-1&#34; class=&#34;headerlink&#34; title=&#34;语法&#34;&gt;&lt;/a&gt;语法&lt;/h3&gt;&lt;p&gt;lambda函数的语法只包含一个语句，如下：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;lambda&lt;/span&gt; [arg1 [,arg2,.....argn]]:expression&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;如下实例：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 可写函数说明&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sum&lt;/span&gt; = &lt;span class=&#34;hljs-keyword&#34;&gt;lambda&lt;/span&gt; arg1, arg2: arg1 + arg2;&lt;br&gt; &lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 调用sum函数&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;( &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;相加后的值为 : &amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-built_in&#34;&gt;sum&lt;/span&gt;( &lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt; ))&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;( &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;相加后的值为 : &amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-built_in&#34;&gt;sum&lt;/span&gt;( &lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt; ))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+&lt;h1 id=&#34;面向对象编程&#34;&gt;&lt;a href=&#34;#面向对象编程&#34; class=&#34;headerlink&#34; title=&#34;面向对象编程&#34;&gt;&lt;/a&gt;面向对象编程&lt;/h1&gt;&lt;h2 id=&#34;面向过程-和-面向对象的对比&#34;&gt;&lt;a href=&#34;#面向过程-和-面向对象的对比&#34; class=&#34;headerlink&#34; title=&#34;面向过程 和 面向对象的对比&#34;&gt;&lt;/a&gt;面向过程 和 面向对象的对比&lt;/h2&gt;&lt;p&gt;Q：存储学生的信息并打印出来&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;面向过程&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; 假设我们要处理学生的成绩表，为了表示一个学生的成绩，面向过程的程序可以用一个dict表示：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;std1 = &amp;#123; &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;name&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Michael&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;score&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;98&lt;/span&gt; &amp;#125;&lt;br&gt;std2 = &amp;#123; &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;name&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Bob&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;score&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;81&lt;/span&gt; &amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;而处理学生成绩可以通过函数实现，比如打印学生的成绩：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;print_score&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;std&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;%s: %s&amp;#x27;&lt;/span&gt; % (std[&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;name&amp;#x27;&lt;/span&gt;], std[&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;score&amp;#x27;&lt;/span&gt;]))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;面向对象&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果采用面向对象的程序设计思想，我们首选思考的不是程序的执行流程，而是&lt;code&gt;Student&lt;/code&gt;这种数据类型应该被视为一个对象，这个对象拥有&lt;code&gt;name&lt;/code&gt;和&lt;code&gt;score&lt;/code&gt;这两个属性（Property）。如果要打印一个学生的成绩，首先必须创建出这个学生对应的对象，然后，给对象发一个&lt;code&gt;print_score&lt;/code&gt;消息，让对象自己把自己的数据打印出来。&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Student&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;object&lt;/span&gt;):&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self, name, score&lt;/span&gt;):&lt;br&gt;        self.name = name&lt;br&gt;        self.score = score&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;print_score&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;%s: %s&amp;#x27;&lt;/span&gt; % (self.name, self.score))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;给对象发消息实际上就是调用对象对应的关联函数，我们称之为对象的方法（Method）。面向对象的程序写出来就像这样：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;bart = Student(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Bart Simpson&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;59&lt;/span&gt;)&lt;br&gt;lisa = Student(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Lisa Simpson&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;87&lt;/span&gt;)&lt;br&gt;bart.print_score()&lt;br&gt;lisa.print_score()&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h2 id=&#34;类、实例、方法和属性&#34;&gt;&lt;a href=&#34;#类、实例、方法和属性&#34; class=&#34;headerlink&#34; title=&#34;类、实例、方法和属性&#34;&gt;&lt;/a&gt;类、实例、方法和属性&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;类 Student&lt;/li&gt;
+&lt;li&gt;实例 jack&lt;/li&gt;
+&lt;li&gt;方法 print_score&lt;/li&gt;
+&lt;li&gt;属性 obj_name&lt;/li&gt;
+&lt;li&gt;增加属性 gender&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Student&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;object&lt;/span&gt;):	 				&lt;span class=&#34;hljs-comment&#34;&gt;#Student是类&lt;/span&gt;&lt;br&gt;    obj_name = &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;this is obj name str！&amp;#x27;&lt;/span&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;#这个类有一个属性（类属性）&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self, name, score&lt;/span&gt;):  	&lt;span class=&#34;hljs-comment&#34;&gt;#特殊方法“__init__”前后分别有两个下划线！！！&lt;/span&gt;&lt;br&gt;        self.name = name&lt;br&gt;        self.score = score&lt;br&gt;        &lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;print_score&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):				&lt;span class=&#34;hljs-comment&#34;&gt;#print_score 这个函数就是方法&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;%s: %s&amp;#x27;&lt;/span&gt; % (self.name, self.score))&lt;br&gt;        &lt;br&gt;jack = Student(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Jack&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;95&lt;/span&gt;)  						&lt;span class=&#34;hljs-comment&#34;&gt;#jack是实例&lt;/span&gt;&lt;br&gt;jack.gender = &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;man&amp;#x27;&lt;/span&gt;					 				&lt;span class=&#34;hljs-comment&#34;&gt;#此处加了一个属性（实例属性）&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt; (&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;%s is a %s&amp;#x27;&lt;/span&gt; % (jack.name, jack.gender))		&lt;span class=&#34;hljs-comment&#34;&gt;#输出 增加的实例属性&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt; (&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;%s&amp;#x27;&lt;/span&gt; % (jack.obj_name))						&lt;span class=&#34;hljs-comment&#34;&gt;#输出类属性&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt; (&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Hi,%s your score is %s&amp;#x27;&lt;/span&gt; % (jack.name, jack.score))	&lt;span class=&#34;hljs-comment&#34;&gt;#输出实例的属性&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#运行结果&lt;/span&gt;&lt;br&gt;Jack &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; a man&lt;br&gt;this &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; obj name &lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;！&lt;br&gt;Hi，Jack yours score &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;95&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;类-实例&#34;&gt;&lt;a href=&#34;#类-实例&#34; class=&#34;headerlink&#34; title=&#34;类 实例&#34;&gt;&lt;/a&gt;类 实例&lt;/h3&gt;&lt;p&gt;类是创建实例的模板，而实例则是一个一个具体的对象，各个实例拥有的数据都互相独立，互不影响；&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;面向对象最重要的概念就是&lt;strong&gt;类（Class）&lt;/strong&gt;和&lt;strong&gt;实例（Instance）&lt;/strong&gt;，必须牢记类是抽象的模板，比如Student类，而实例是根据类创建出来的一个个具体的“对象”，每个对象都拥有相同的&lt;strong&gt;方法&lt;/strong&gt;，但各自的数据可能不同。&lt;/p&gt;
+&lt;p&gt;仍以Student类为例，在Python中，定义类是通过&lt;code&gt;class&lt;/code&gt;关键字：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Student&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;object&lt;/span&gt;):	 				&lt;span class=&#34;hljs-comment&#34;&gt;#Student是类&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self, name, score&lt;/span&gt;):  	&lt;span class=&#34;hljs-comment&#34;&gt;#特殊方法“__init__”前后分别有两个下划线！！！&lt;/span&gt;&lt;br&gt;        self.name = name&lt;br&gt;        self.score = score&lt;br&gt;        &lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;print_score&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):				&lt;span class=&#34;hljs-comment&#34;&gt;#这就是方法&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;%s: %s&amp;#x27;&lt;/span&gt; % (self.name, self.score))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;code&gt;class&lt;/code&gt;后面紧接着是类名，即&lt;code&gt;Student&lt;/code&gt;，类名通常是大写开头的单词，紧接着是&lt;code&gt;(object)&lt;/code&gt;，表示该类是从哪个类继承下来的，继承的概念我们后面再讲，通常，如果没有合适的继承类，就使用&lt;code&gt;object&lt;/code&gt;类，这是所有类最终都会继承的类。&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;jack = Student(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Jack&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;95&lt;/span&gt;)  		   &lt;span class=&#34;hljs-comment&#34;&gt;#jack是实例&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;方法&#34;&gt;&lt;a href=&#34;#方法&#34; class=&#34;headerlink&#34; title=&#34;方法&#34;&gt;&lt;/a&gt;方法&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;方法&lt;/strong&gt;就是与实例绑定的函数，和普通函数不同，方法可以直接访问实例的数据；&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;面向对象编程的一个重要特点就是数据封装。在上面的&lt;code&gt;Student&lt;/code&gt;类中，每个实例就拥有各自的&lt;code&gt;name&lt;/code&gt;和&lt;code&gt;score&lt;/code&gt;这些数据。我们可以通过函数来访问这些数据，比如打印一个学生的成绩：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;print_score&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;std&lt;/span&gt;):&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;... &lt;/span&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;%s: %s&amp;#x27;&lt;/span&gt; % (std.name, std.score))&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;print_score(bart)&lt;br&gt;Bart Simpson: &lt;span class=&#34;hljs-number&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;但是，既然&lt;code&gt;Student&lt;/code&gt;实例本身就拥有这些数据，要访问这些数据，就没有必要从外面的函数去访问，可以直接在&lt;code&gt;Student&lt;/code&gt;类的内部定义访问数据的函数，这样，就把“数据”给封装起来了。这些封装数据的函数是和&lt;code&gt;Student&lt;/code&gt;类本身是关联起来的，我们称之为类的方法：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Student&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;object&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self, name, score&lt;/span&gt;):&lt;br&gt;        self.name = name&lt;br&gt;        self.score = score&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;print_score&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):		&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;%s: %s&amp;#x27;&lt;/span&gt; % (self.name, self.score))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;要定义一个方法，除了第一个参数是&lt;code&gt;self&lt;/code&gt;外，其他和普通函数一样。要调用一个方法，只需要在实例变量上直接调用，除了&lt;code&gt;self&lt;/code&gt;不用传递，其他参数正常传入：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;bart.print_score()&lt;br&gt;Bart Simpson: &lt;span class=&#34;hljs-number&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note:&#34;&gt;&lt;/a&gt;Note:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;实例增加属性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;类相当于一个模板，用模板（类）定义实例后，实例还可以再加其他属性&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Student&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;object&lt;/span&gt;):	 &lt;span class=&#34;hljs-comment&#34;&gt;#Student是类&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self, name, score&lt;/span&gt;):  &lt;span class=&#34;hljs-comment&#34;&gt;#特殊方法“__init__”前后分别有两个下划线！！！&lt;/span&gt;&lt;br&gt;        self.name = name&lt;br&gt;        self.score = score&lt;br&gt;&lt;br&gt;jack = Student(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Jack&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;95&lt;/span&gt;)&lt;br&gt;jack.gender = &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;man&amp;#x27;&lt;/span&gt; &lt;span class=&#34;hljs-comment&#34;&gt;#此处加了一个属性&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt; (&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s is a %s&amp;quot;&lt;/span&gt; % (jack.name, jack.gender))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;访问限制-private&#34;&gt;&lt;a href=&#34;#访问限制-private&#34; class=&#34;headerlink&#34; title=&#34;访问限制 private&#34;&gt;&lt;/a&gt;访问限制 private&lt;/h2&gt;&lt;p&gt;外部无法访问，只能通过方法访问（私有变量）&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Student&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;object&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self, name, score&lt;/span&gt;):&lt;br&gt;        self.__name = name				&lt;span class=&#34;hljs-comment&#34;&gt;#变成私有变量（private）了&lt;/span&gt;&lt;br&gt;        self.__score = score&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;print_score&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;%s: %s&amp;#x27;&lt;/span&gt; % (self.__name, self.__score))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;hr&gt;
+&lt;p&gt;需要注意的是，在Python中，变量名类似&lt;code&gt;__xxx__&lt;/code&gt;的，也就是以双下划线开头，并且以双下划线结尾的，是特殊变量，特殊变量是可以直接访问的，不是private变量，所以，不能用&lt;code&gt;__name__&lt;/code&gt;、&lt;code&gt;__score__&lt;/code&gt;这样的变量名。&lt;/p&gt;
+&lt;p&gt;有些时候，你会看到以一个下划线开头的实例变量名，比如&lt;code&gt;_name&lt;/code&gt;，这样的实例变量外部是可以访问的，但是，按照约定俗成的规定，当你看到这样的变量时，意思就是，“虽然我可以被访问，但是，请把我视为私有变量，不要随意访问”。&lt;/p&gt;
+&lt;p&gt;双下划线开头的实例变量是不是一定不能从外部访问呢？其实也不是。不能直接访问&lt;code&gt;__name&lt;/code&gt;是因为Python解释器对外把&lt;code&gt;__name&lt;/code&gt;变量改成了&lt;code&gt;_Student__name&lt;/code&gt;，所以，仍然可以通过&lt;code&gt;_Student__name&lt;/code&gt;来访问&lt;code&gt;__name&lt;/code&gt;变量：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;bart._Student__name&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Bart Simpson&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;但是强烈建议你不要这么干，因为不同版本的Python解释器可能会把&lt;code&gt;__name&lt;/code&gt;改成不同的变量名。&lt;/p&gt;
+&lt;p&gt;总的来说就是，Python本身没有任何机制阻止你干坏事，一切全靠自觉。&lt;/p&gt;
+&lt;p&gt;最后注意下面的这种&lt;strong&gt;错误写法&lt;/strong&gt;：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;bart = Student(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Bart Simpson&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;59&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;bart.get_name()&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Bart Simpson&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;bart.__name = &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;New Name&amp;#x27;&lt;/span&gt; &lt;span class=&#34;hljs-comment&#34;&gt;# 设置__name变量！&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;bart.__name&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;New Name&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;表面上看，外部代码“成功”地设置了&lt;code&gt;__name&lt;/code&gt;变量，但实际上这个&lt;code&gt;__name&lt;/code&gt;变量和class内部的&lt;code&gt;__name&lt;/code&gt;变量&lt;em&gt;不是&lt;/em&gt;一个变量！内部的&lt;code&gt;__name&lt;/code&gt;变量已经被Python解释器自动改成了&lt;code&gt;_Student__name&lt;/code&gt;，而外部代码给&lt;code&gt;bart&lt;/code&gt;新增了一个&lt;code&gt;__name&lt;/code&gt;变量。不信试试：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;bart.get_name() &lt;span class=&#34;hljs-comment&#34;&gt;# get_name()内部返回self.__name&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Bart Simpson&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;组合&#34;&gt;&lt;a href=&#34;#组合&#34; class=&#34;headerlink&#34; title=&#34;组合&#34;&gt;&lt;/a&gt;组合&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;用组合的方式建立了类与组合的类之间的关系，它是一种‘有’的关系,比如教授有生日，教授教python课程&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;BirthDate&lt;/span&gt;:    &lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self,year,month,day&lt;/span&gt;):&lt;br&gt;        self.year=year&lt;br&gt;        self.month=month&lt;br&gt;        self.day=day&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Couse&lt;/span&gt;:&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self,name,price,period&lt;/span&gt;):&lt;br&gt;        self.name=name&lt;br&gt;        self.price=price&lt;br&gt;        self.period=period&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Teacher&lt;/span&gt;:&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self,name,gender,birth,course&lt;/span&gt;):&lt;br&gt;        self.name=name &lt;br&gt;        self.gender=gender&lt;br&gt;        self.birth=birth&lt;br&gt;        self.course=course&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;teach&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;): &lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;teaching&amp;#x27;&lt;/span&gt;)&lt;br&gt;p1=Teacher(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;egon&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;male&amp;#x27;&lt;/span&gt;, &lt;br&gt;            BirthDate(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;1995&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;1&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;27&amp;#x27;&lt;/span&gt;), &lt;br&gt;            Couse(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;python&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;28000&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;4 months&amp;#x27;&lt;/span&gt;)&lt;br&gt;           ) &lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(p1.birth.year,p1.birth.month,p1.birth.day) &lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(p1.course.name,p1.course.price,p1.course.period)&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;运行结果: &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;1 27 &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;python 28000 4 months &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;当类之间有显著不同，并且较小的类是较大的类所需要的组件时，用组合比较好&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;继承-多态&#34;&gt;&lt;a href=&#34;#继承-多态&#34; class=&#34;headerlink&#34; title=&#34;继承 多态&#34;&gt;&lt;/a&gt;继承 多态&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;抽象：抽象即抽取类似或者说比较像的部分。是一个从具题到抽象的过程。&lt;/li&gt;
+&lt;li&gt;继承：子类继承了父类的方法和属性&lt;/li&gt;
+&lt;li&gt;派生：子类在父类方法和属性的基础上产生了新的方法和属性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;继承&#34;&gt;&lt;a href=&#34;#继承&#34; class=&#34;headerlink&#34; title=&#34;继承&#34;&gt;&lt;/a&gt;继承&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;建立一个新类（子类 Subclass）可以copy一份原来类（父类 基类或超类 Base class、Super class）的全部功能（方法、变量 等）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Animal&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;object&lt;/span&gt;):		&lt;span class=&#34;hljs-comment&#34;&gt;#父类&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;run&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Animal is running...&amp;#x27;&lt;/span&gt;)&lt;br&gt;        &lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Dog&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;Animal&lt;/span&gt;):			&lt;span class=&#34;hljs-comment&#34;&gt;#子类&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;pass&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#运行结果&lt;/span&gt;&lt;br&gt;Animal &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running...		&lt;span class=&#34;hljs-comment&#34;&gt;#子类有了父类的方法&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;当子类和父类都存在相同的&lt;code&gt;run()&lt;/code&gt;方法时，我们说，子类的&lt;code&gt;run()&lt;/code&gt;覆盖了父类的&lt;code&gt;run()&lt;/code&gt;，在代码运行的时候，总是会调用子类的&lt;code&gt;run()&lt;/code&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Animal&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;object&lt;/span&gt;):		&lt;span class=&#34;hljs-comment&#34;&gt;#父类&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;run&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Animal is running...&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Dog&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;Animal&lt;/span&gt;):			&lt;span class=&#34;hljs-comment&#34;&gt;#子类&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;run&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Dog is running...&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#运行结果&lt;/span&gt;&lt;br&gt;Dog &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running...			&lt;span class=&#34;hljs-comment&#34;&gt;#子类覆盖了父类的方法&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;多态&#34;&gt;&lt;a href=&#34;#多态&#34; class=&#34;headerlink&#34; title=&#34;多态&#34;&gt;&lt;/a&gt;多态&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;就是一个集合的概念，子类包含了父类，子类比父类范围更大，这种好处是通用性更强&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;子类继承了父类的类型，子类既是  &lt;strong&gt;子类类型&lt;/strong&gt;  也是  &lt;strong&gt;父类类型&lt;/strong&gt;  &lt;/li&gt;
+&lt;li&gt;传入类型设置为  父类   可以有很好的通用性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Animal&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;object&lt;/span&gt;):		&lt;span class=&#34;hljs-comment&#34;&gt;#父类&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;run&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Animal is running...&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Dog&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;Animal&lt;/span&gt;):			&lt;span class=&#34;hljs-comment&#34;&gt;#子类&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;run&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Dog is running...&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;run_twice&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;animal&lt;/span&gt;):		&lt;span class=&#34;hljs-comment&#34;&gt;#因为传入的是 父类 所以子类父类都可以用    有很好通用性&lt;/span&gt;&lt;br&gt;    animal.run()&lt;br&gt;    animal.run()&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;run_twice(Animal())&lt;br&gt;Animal &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running...&lt;br&gt;Animal &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running...&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;run_twice(Dog())&lt;br&gt;Dog &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running...&lt;br&gt;Dog &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;hr&gt;
+&lt;p&gt;要理解什么是多态，我们首先要对数据类型再作一点说明。当我们定义一个class的时候，我们实际上就定义了一种数据类型。我们定义的数据类型和Python自带的数据类型，比如str、list、dict没什么两样：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;a = &lt;span class=&#34;hljs-built_in&#34;&gt;list&lt;/span&gt;() &lt;span class=&#34;hljs-comment&#34;&gt;# a是list类型&lt;/span&gt;&lt;br&gt;b = Animal() &lt;span class=&#34;hljs-comment&#34;&gt;# b是Animal类型&lt;/span&gt;&lt;br&gt;c = Dog() &lt;span class=&#34;hljs-comment&#34;&gt;# c是Dog类型&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;判断一个变量是否是某个类型可以用&lt;code&gt;isinstance()&lt;/code&gt;判断：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;isinstance&lt;/span&gt;(a, &lt;span class=&#34;hljs-built_in&#34;&gt;list&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;isinstance&lt;/span&gt;(b, Animal)&lt;br&gt;&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;isinstance&lt;/span&gt;(c, Dog)&lt;br&gt;&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;看来&lt;code&gt;a&lt;/code&gt;、&lt;code&gt;b&lt;/code&gt;、&lt;code&gt;c&lt;/code&gt;确实对应着&lt;code&gt;list&lt;/code&gt;、&lt;code&gt;Animal&lt;/code&gt;、&lt;code&gt;Dog&lt;/code&gt;这3种类型。&lt;/p&gt;
+&lt;p&gt;但是等等，试试：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;isinstance&lt;/span&gt;(c, Animal)&lt;br&gt;&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;看来&lt;code&gt;c&lt;/code&gt;不仅仅是&lt;code&gt;Dog&lt;/code&gt;，&lt;code&gt;c&lt;/code&gt;还是&lt;code&gt;Animal&lt;/code&gt;！&lt;/p&gt;
+&lt;p&gt;不过仔细想想，这是有道理的，因为&lt;code&gt;Dog&lt;/code&gt;是从&lt;code&gt;Animal&lt;/code&gt;继承下来的，当我们创建了一个&lt;code&gt;Dog&lt;/code&gt;的实例&lt;code&gt;c&lt;/code&gt;时，我们认为&lt;code&gt;c&lt;/code&gt;的数据类型是&lt;code&gt;Dog&lt;/code&gt;没错，但&lt;code&gt;c&lt;/code&gt;同时也是&lt;code&gt;Animal&lt;/code&gt;也没错，&lt;code&gt;Dog&lt;/code&gt;本来就是&lt;code&gt;Animal&lt;/code&gt;的一种！&lt;/p&gt;
+&lt;p&gt;所以，在继承关系中，如果一个实例的数据类型是某个子类，那它的数据类型也可以被看做是父类。但是，反过来就不行：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;b = Animal()&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;isinstance&lt;/span&gt;(b, Dog)&lt;br&gt;&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;code&gt;Dog&lt;/code&gt;可以看成&lt;code&gt;Animal&lt;/code&gt;，但&lt;code&gt;Animal&lt;/code&gt;不可以看成&lt;code&gt;Dog&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;要理解多态的好处，我们还需要再编写一个函数，这个函数接受一个&lt;code&gt;Animal&lt;/code&gt;类型的变量：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;run_twice&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;animal&lt;/span&gt;):&lt;br&gt;    animal.run()&lt;br&gt;    animal.run()&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;当我们传入&lt;code&gt;Animal&lt;/code&gt;的实例时，&lt;code&gt;run_twice()&lt;/code&gt;就打印出：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;run_twice(Animal())&lt;br&gt;Animal &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running...&lt;br&gt;Animal &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;当我们传入&lt;code&gt;Dog&lt;/code&gt;的实例时，&lt;code&gt;run_twice()&lt;/code&gt;就打印出：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;run_twice(Dog())&lt;br&gt;Dog &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running...&lt;br&gt;Dog &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;当我们传入&lt;code&gt;Cat&lt;/code&gt;的实例时，&lt;code&gt;run_twice()&lt;/code&gt;就打印出：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;run_twice(Cat())&lt;br&gt;Cat &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running...&lt;br&gt;Cat &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;看上去没啥意思，但是仔细想想，现在，如果我们再定义一个&lt;code&gt;Tortoise&lt;/code&gt;类型，也从&lt;code&gt;Animal&lt;/code&gt;派生：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Tortoise&lt;/span&gt;(&lt;span class=&#34;hljs-title class_ inherited__&#34;&gt;Animal&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;run&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Tortoise is running slowly...&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;当我们调用&lt;code&gt;run_twice()&lt;/code&gt;时，传入&lt;code&gt;Tortoise&lt;/code&gt;的实例：&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;run_twice(Tortoise())&lt;br&gt;Tortoise &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running slowly...&lt;br&gt;Tortoise &lt;span class=&#34;hljs-keyword&#34;&gt;is&lt;/span&gt; running slowly...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;你会发现，新增一个&lt;code&gt;Animal&lt;/code&gt;的子类，不必对&lt;code&gt;run_twice()&lt;/code&gt;做任何修改，实际上，任何依赖&lt;code&gt;Animal&lt;/code&gt;作为参数的函数或者方法都可以不加修改地正常运行，原因就在于多态。&lt;/p&gt;
+&lt;p&gt;多态的好处就是，当我们需要传入&lt;code&gt;Dog&lt;/code&gt;、&lt;code&gt;Cat&lt;/code&gt;、&lt;code&gt;Tortoise&lt;/code&gt;……时，我们只需要接收&lt;code&gt;Animal&lt;/code&gt;类型就可以了，因为&lt;code&gt;Dog&lt;/code&gt;、&lt;code&gt;Cat&lt;/code&gt;、&lt;code&gt;Tortoise&lt;/code&gt;……都是&lt;code&gt;Animal&lt;/code&gt;类型，然后，按照&lt;code&gt;Animal&lt;/code&gt;类型进行操作即可。由于&lt;code&gt;Animal&lt;/code&gt;类型有&lt;code&gt;run()&lt;/code&gt;方法，因此，传入的任意类型，只要是&lt;code&gt;Animal&lt;/code&gt;类或者子类，就会自动调用实际类型的&lt;code&gt;run()&lt;/code&gt;方法，这就是多态的意思：&lt;/p&gt;
+&lt;p&gt;对于一个变量，我们只需要知道它是&lt;code&gt;Animal&lt;/code&gt;类型，无需确切地知道它的子类型，就可以放心地调用&lt;code&gt;run()&lt;/code&gt;方法，而具体调用的&lt;code&gt;run()&lt;/code&gt;方法是作用在&lt;code&gt;Animal&lt;/code&gt;、&lt;code&gt;Dog&lt;/code&gt;、&lt;code&gt;Cat&lt;/code&gt;还是&lt;code&gt;Tortoise&lt;/code&gt;对象上，由运行时该对象的确切类型决定，这就是多态真正的威力：调用方只管调用，不管细节，而当我们新增一种&lt;code&gt;Animal&lt;/code&gt;的子类时，只要确保&lt;code&gt;run()&lt;/code&gt;方法编写正确，不用管原来的代码是如何调用的。这就是著名的“开闭”原则：&lt;/p&gt;
+&lt;p&gt;对扩展开放：允许新增&lt;code&gt;Animal&lt;/code&gt;子类；&lt;/p&gt;
+&lt;p&gt;对修改封闭：不需要修改依赖&lt;code&gt;Animal&lt;/code&gt;类型的&lt;code&gt;run_twice()&lt;/code&gt;等函数。&lt;/p&gt;
+&lt;p&gt;继承还可以一级一级地继承下来，就好比从爷爷到爸爸、再到儿子这样的关系。而任何类，最终都可以追溯到根类object，这些继承关系看上去就像一颗倒着的树。比如如下的继承树：&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs ascii&#34;&gt;                ┌───────────────┐&lt;br&gt;                │    object     │&lt;br&gt;                └───────────────┘&lt;br&gt;                        │&lt;br&gt;           ┌────────────┴────────────┐&lt;br&gt;           │                         │&lt;br&gt;           ▼                         ▼&lt;br&gt;    ┌─────────────┐           ┌─────────────┐&lt;br&gt;    │   Animal    │           │    Plant    │&lt;br&gt;    └─────────────┘           └─────────────┘&lt;br&gt;           │                         │&lt;br&gt;     ┌─────┴──────┐            ┌─────┴──────┐&lt;br&gt;     │            │            │            │&lt;br&gt;     ▼            ▼            ▼            ▼&lt;br&gt;┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐&lt;br&gt;│   Dog   │  │   Cat   │  │  Tree   │  │ Flower  │&lt;br&gt;└─────────┘  └─────────┘  └─────────┘  └─────────┘&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h4 id=&#34;静态语言-vs-动态语言&#34;&gt;&lt;a href=&#34;#静态语言-vs-动态语言&#34; class=&#34;headerlink&#34; title=&#34;静态语言 vs 动态语言&#34;&gt;&lt;/a&gt;静态语言 vs 动态语言&lt;/h4&gt;&lt;p&gt;对于静态语言（例如Java）来说，如果需要传入&lt;code&gt;Animal&lt;/code&gt;类型，则传入的对象必须是&lt;code&gt;Animal&lt;/code&gt;类型或者它的子类，否则，将无法调用&lt;code&gt;run()&lt;/code&gt;方法。&lt;/p&gt;
+&lt;p&gt;对于Python这样的动态语言来说，则不一定需要传入&lt;code&gt;Animal&lt;/code&gt;类型。我们只需要保证传入的对象有一个&lt;code&gt;run()&lt;/code&gt;方法就可以了：&lt;/p&gt;
+&lt;figure class=&#34;highlight ruby&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs ruby&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;Timer&lt;/span&gt;(object):&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;run&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;&lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;&lt;/span&gt;):&lt;br&gt;        print(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Start...&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;这就是动态语言的“鸭子类型”，它并不要求严格的继承体系，一个对象只要“看起来像鸭子，走起路来像鸭子”，那它就可以被看做是鸭子。&lt;/p&gt;
+&lt;p&gt;Python的“file-like object“就是一种鸭子类型。对真正的文件对象，它有一个&lt;code&gt;read()&lt;/code&gt;方法，返回其内容。但是，许多对象，只要有&lt;code&gt;read()&lt;/code&gt;方法，都被视为“file-like object“。许多函数接收的参数就是“file-like object“，你不一定要传入真正的文件对象，完全可以传入任何实现了&lt;code&gt;read()&lt;/code&gt;方法的对象。&lt;/p&gt;
+&lt;h2 id=&#34;抽象类&#34;&gt;&lt;a href=&#34;#抽象类&#34; class=&#34;headerlink&#34; title=&#34;抽象类&#34;&gt;&lt;/a&gt;抽象类&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;抽象类是一个特殊的类，它的特殊之处在于只能被继承，不能被实例化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;比如我们有香蕉的类，有苹果的类，有桃子的类，从这些类抽取相同的内容就是水果这个抽象的类，你吃水果时，要么是吃一个具体的香蕉，要么是吃一个具体的桃子。。。。。。你永远无法吃到一个叫做水果的东西&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;从实现角度来看，抽象类与普通类的不同之处在于：抽象类中有抽象方法，该类不能被实例化，只能被继承，且子类必须实现抽象方法。这一点与接口有点类似，但其实是不同的，即将揭晓答案&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;经典类和新式类&#34;&gt;&lt;a href=&#34;#经典类和新式类&#34; class=&#34;headerlink&#34; title=&#34;经典类和新式类&#34;&gt;&lt;/a&gt;经典类和新式类&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2020/297a89d9/1610094679745.jpg&#34; alt=&#34;1610094679745&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="python" />
+        <updated>2020-08-08T00:08:08.000Z</updated>
+    </entry>
+</feed>

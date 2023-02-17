@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"投屏\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2022/471570a6/",
+            "url": "https://www.oikiou.top/2022/471570a6/",
+            "title": "SpaceDesk手机用作电脑屏幕",
+            "date_published": "2022-08-29T14:57:15.000Z",
+            "content_html": "<h1 id=\"SpaceDesk\"><a href=\"#SpaceDesk\" class=\"headerlink\" title=\"SpaceDesk\"></a>SpaceDesk</h1><p>在windows主机上虚拟出一块屏幕, 通过网络传输到其他带屏设备上.</p>\n<ul>\n<li>投屏到手机支持触摸</li>\n</ul>\n<h1 id=\"下载\"><a href=\"#下载\" class=\"headerlink\" title=\"下载\"></a>下载</h1><p><a href=\"https://www.spacedesk.net/\">https://www.spacedesk.net/</a></p>\n<h1 id=\"Note\"><a href=\"#Note\" class=\"headerlink\" title=\"Note\"></a>Note</h1><h2 id=\"软件没有验证功能-不安全\"><a href=\"#软件没有验证功能-不安全\" class=\"headerlink\" title=\"软件没有验证功能(不安全)\"></a>软件没有验证功能(不安全)</h2><p>有一次在公司用手机客户端, 直接连接上了公司其他同事的电脑屏幕.</p>\n<p>公司的网络ip是dhcp的无法固定, 而且网络质量并不好, 所以我选择电脑开热点 手机连电脑热点.</p>\n<p>防火墙加规则,只允许热点网段的IP入站.</p>\n<p><img src=\"/2022/471570a6/image-20220811195054454.png\" alt=\"image-20220811195054454\"></p>\n<p><img src=\"/2022/471570a6/image-20220811194925793.png\" alt=\"image-20220811194925793\"></p>\n",
+            "tags": [
+                "windows",
+                "spacedesk",
+                "投屏"
+            ]
+        }
+    ]
+}

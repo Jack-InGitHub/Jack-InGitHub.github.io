@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;cm&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2022-11-01T14:57:15.000Z</updated>
+    <category term="embedded" />
+    <category term="note" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="ms-dos" />
+    <category term="windows" />
+    <category term="c" />
+    <category term="c/c++" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="c++" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="sscanf" />
+    <category term="hex" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="osi" />
+    <category term="markdown" />
+    <category term="md5" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="makefile" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="机智云" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="ct117e-ex" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="life" />
+    <category term="workflow" />
+    <category term="人生" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="cad" />
+    <category term="心理学" />
+    <category term="cat_drive" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="synology" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="j-link" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="jlink" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="tmux" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="cortex-a7" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="cortex-m3" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <category term="rtx" />
+    <category term="rtos" />
+    <category term="keil" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="modbus" />
+    <category term="ucos" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="pwm" />
+    <category term="rt-thread" />
+    <category term="ap" />
+    <category term="wifi" />
+    <entry>
+        <id>https://www.oikiou.top/2022/6fb71d96/</id>
+        <title>单位换算</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/6fb71d96/"/>
+        <content type="html">&lt;h1 id=&#34;单位换算&#34;&gt;&lt;a href=&#34;#单位换算&#34; class=&#34;headerlink&#34; title=&#34;单位换算&#34;&gt;&lt;/a&gt;单位换算&lt;/h1&gt;&lt;h1 id=&#34;长度&#34;&gt;&lt;a href=&#34;#长度&#34; class=&#34;headerlink&#34; title=&#34;长度&#34;&gt;&lt;/a&gt;长度&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;★ -----------------&lt;/span&gt;&lt;br&gt;1 km = 1000 m&lt;br&gt;1 m  = 100  cm&lt;br&gt;1 cm = 10   mm&lt;br&gt;1 mm = 1000 um&lt;br&gt;&lt;br&gt;1    inch = 2.54 cm&lt;br&gt;1/10 inch = 2.54 mm&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;--------------------&lt;/span&gt;&lt;br&gt;1 km = 1000 m&lt;br&gt;1 m  = 10   dm&lt;br&gt;1 dm = 10   cm&lt;br&gt;1 cm = 10   mm&lt;br&gt;1 m  = 1000 mm&lt;br&gt;1 mm = 1000 um&lt;br&gt;1 um = 1000 nm&lt;br&gt;1 nm = 1000 pm &lt;br&gt;1 pm = 1000 fm&lt;br&gt;1 fm = 1000 am&lt;br&gt;...&lt;br&gt;1 inch              = 2.54 cm&lt;br&gt;1 cm                = 0.3937008 inch&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-bash&#34;&gt;1 海里(nautical mile) = 1852 m = 1.852 km&lt;/span&gt;&lt;br&gt;1 km                = 0.5399568 海里(nautical mile)&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;英制长度单位&lt;/span&gt;&lt;br&gt;1 英里(mile)          = 1.609344 km&lt;br&gt;1 km                = 0.6213712 英里(mile)&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;天文学长度单位&lt;/span&gt;&lt;br&gt;1 光年                = 9.4653×10^12 km&lt;br&gt;1 天文单位 ≈ 1.496亿 千米&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;我国传统的长度单位&lt;/span&gt;&lt;br&gt;1 km                = 2 里&lt;br&gt;1 里                 = 150 丈 = 500 米&lt;br&gt;1 丈                 = 10尺&lt;br&gt;1 丈                 = 3.33米&lt;br&gt;1 尺                 = 3.33分米&lt;br&gt;1 m                 = 0.3 丈 = 3 尺 = 30 寸&lt;br&gt;1 cm                = 3 分 = 30 厘&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;时间单位&#34;&gt;&lt;a href=&#34;#时间单位&#34; class=&#34;headerlink&#34; title=&#34;时间单位&#34;&gt;&lt;/a&gt;时间单位&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;★ -----------------&lt;/span&gt;&lt;br&gt;1 s  = 1000 ms&lt;br&gt;1 ms = 1000 us&lt;br&gt;1 us = 1000 ns&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;   -----------------&lt;/span&gt;&lt;br&gt;1 minute = 60 s&lt;br&gt;1 s  = 1000 ms&lt;br&gt;1 ms = 1000 us&lt;br&gt;1 us = 1000 ns&lt;br&gt;1 ns = 1000 ps&lt;br&gt;&lt;br&gt;100年      = 1世纪&lt;br&gt;365.25天   = 1年&lt;br&gt;1平太阳日     = 24小时3分56.555秒&lt;br&gt;1恒星日      = 23小时56分4.091秒&lt;br&gt;1太阳年(回归年) = 365.2422天(= 365天5小时48分46秒)&lt;br&gt;1恒星年      = 365.2564天(= 365天6小时9分9.5秒)&lt;br&gt;1朔望月      = 29.5306天&lt;br&gt;1恒星月      = 27.3712天&lt;br&gt;1太阳年      = 12个朔望日 = 354.36天&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;速度&#34;&gt;&lt;a href=&#34;#速度&#34; class=&#34;headerlink&#34; title=&#34;速度&#34;&gt;&lt;/a&gt;速度&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;★ -----------------&lt;/span&gt;&lt;br&gt;1 m/s  = 3.6 km/h&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;   -----------------&lt;/span&gt;&lt;br&gt;1 mph  = 1.609344 km/h&lt;br&gt;1 km/h = 0.6213712 mph&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;温度&#34;&gt;&lt;a href=&#34;#温度&#34; class=&#34;headerlink&#34; title=&#34;温度&#34;&gt;&lt;/a&gt;温度&lt;/h1&gt;&lt;p&gt;$$&lt;br&gt;℉ &amp;#x3D; ℃ * (9&amp;#x2F;5) + 32&lt;br&gt;$$&lt;/p&gt;
+&lt;p&gt;$$&lt;br&gt;℃ &amp;#x3D; (℉ - 32)*(5&amp;#x2F;9)&lt;br&gt;$$&lt;/p&gt;
+&lt;p&gt;$$&lt;br&gt;K &amp;#x3D; ℃ + 273.15&lt;br&gt;$$&lt;/p&gt;
+&lt;p&gt;$$&lt;br&gt;℃ &amp;#x3D; K - 273.15&lt;br&gt;$$&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;25 ℃ = 298.15 K = 77 F&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h1 id=&#34;电容单位&#34;&gt;&lt;a href=&#34;#电容单位&#34; class=&#34;headerlink&#34; title=&#34;电容单位&#34;&gt;&lt;/a&gt;电容单位&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;br&gt;1 F  = 1000 mF&lt;br&gt;1 mF = 1000 uF&lt;br&gt;1 uF = 1000 nF&lt;br&gt;1 nF = 1000 pF&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&#34;/2022/6fb71d96/tutorials068_001_zh.gif&#34; alt=&#34;C&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数值中的&lt;code&gt;R&lt;/code&gt;代表小数点&lt;code&gt;.&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;标示&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;电阻&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;电容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;电感&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;120&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12Ω&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12pF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12μH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;122&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1.2kΩ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1.2nF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1.2mH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;124&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;120kΩ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;120nF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;120mH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;126&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12MΩ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12μF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12H&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;R15&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.15Ω&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.15pF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.15μH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1R5&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1.5Ω&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1.5pF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1.5μH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;误差符号&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;误差&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ｆ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;±1％&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ｇ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;±2％&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ｊ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;±5％&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ｋ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;±10％&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ｍ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;±20％&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ｚ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;80%,－20%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+</content>
+        <category term="unit" />
+        <category term="m" />
+        <category term="cm" />
+        <category term="mm" />
+        <category term="s" />
+        <category term="us" />
+        <updated>2022-11-01T14:57:15.000Z</updated>
+    </entry>
+</feed>

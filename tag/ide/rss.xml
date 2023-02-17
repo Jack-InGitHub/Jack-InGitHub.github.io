@@ -1,0 +1,314 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;ide&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 20 Aug 2021 13:23:05 +0800</pubDate>
+        <lastBuildDate>Fri, 20 Aug 2021 13:23:05 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/9be43835/</guid>
+            <title>VSCode</title>
+            <link>https://www.oikiou.top/2021/9be43835/</link>
+            <category>ide</category>
+            <category>vscode</category>
+            <pubDate>Fri, 20 Aug 2021 13:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;VSCode&#34;&gt;&lt;a href=&#34;#VSCode&#34; class=&#34;headerlink&#34; title=&#34;VSCode&#34;&gt;&lt;/a&gt;VSCode&lt;/h1&gt;&lt;h2 id=&#34;快捷键&#34;&gt;&lt;a href=&#34;#快捷键&#34; class=&#34;headerlink&#34; title=&#34;快捷键&#34;&gt;&lt;/a&gt;快捷键&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;格式化代码 【Shift】+【Alt】+F&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;多行编辑&#34;&gt;&lt;a href=&#34;#多行编辑&#34; class=&#34;headerlink&#34; title=&#34;多行编辑&#34;&gt;&lt;/a&gt;多行编辑&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;Ctrl+Alt+UpArrow&lt;/code&gt; &lt;code&gt;Ctrl+Alt+DownArrow&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;Alt+Click&lt;/code&gt; 鼠标点击多行编辑&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;Ctrl+Shift+L&lt;/code&gt; 对应文本多行编辑&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;行操作&#34;&gt;&lt;a href=&#34;#行操作&#34; class=&#34;headerlink&#34; title=&#34;行操作&#34;&gt;&lt;/a&gt;行操作&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Shift+Alt+UpArrow&lt;/code&gt; &lt;code&gt;Shift+Alt+DownArrow&lt;/code&gt; 复制当前行&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Alt+UpArrow&lt;/code&gt; &lt;code&gt;Alt+DownArrow&lt;/code&gt; 移动当前行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;工作区配置&#34;&gt;&lt;a href=&#34;#工作区配置&#34; class=&#34;headerlink&#34; title=&#34;工作区配置&#34;&gt;&lt;/a&gt;工作区配置&lt;/h2&gt;&lt;h3 id=&#34;setting-json&#34;&gt;&lt;a href=&#34;#setting-json&#34; class=&#34;headerlink&#34; title=&#34;setting.json&#34;&gt;&lt;/a&gt;setting.json&lt;/h3&gt;&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs json&#34;&gt;&lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;files.exclude&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;**/out/**&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;c-cpp-properties-json&#34;&gt;&lt;a href=&#34;#c-cpp-properties-json&#34; class=&#34;headerlink&#34; title=&#34;c_cpp_properties.json&#34;&gt;&lt;/a&gt;c_cpp_properties.json&lt;/h3&gt;&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs json&#34;&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;configurations&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-punctuation&#34;&gt;[&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Linux&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;includePath&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-punctuation&#34;&gt;[&lt;/span&gt;&lt;br&gt;                &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;$&amp;#123;workspaceFolder&amp;#125;/**&amp;quot;&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;browse&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;                &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;limitSymbolsToIncludedHeaders&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;                &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;databaseFilename&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;$&amp;#123;workspaceRoot&amp;#125;/.vscode/.browse.c_cpp.db&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;                &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;path&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-punctuation&#34;&gt;[&lt;/span&gt;&lt;br&gt;                    &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;$&amp;#123;workspaceFolder&amp;#125;/**&amp;quot;&lt;/span&gt;&lt;br&gt;                &lt;span class=&#34;hljs-punctuation&#34;&gt;]&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;defines&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-punctuation&#34;&gt;[&lt;/span&gt;&lt;br&gt;                &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;xxx&amp;quot;&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;compilerPath&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;/usr/bin/gcc&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;cStandard&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;gnu17&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;cppStandard&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;gnu++14&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;intelliSenseMode&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;linux-gcc-x64&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;configurationProvider&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;ms-vscode.makefile-tools&amp;quot;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;version&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;无法goto-define&#34;&gt;&lt;a href=&#34;#无法goto-define&#34; class=&#34;headerlink&#34; title=&#34;无法goto define&#34;&gt;&lt;/a&gt;无法goto define&lt;/h2&gt;&lt;p&gt;VSCode 不知道是什么设置问题，在使用跳转功能时，经常只能跳转到头文件，使用 &lt;code&gt;Go to References&lt;/code&gt; 也找不到定义位置，搞得索引起来很麻烦。&lt;/p&gt;
+&lt;p&gt;切换成 &lt;code&gt;C++ Intellisense&lt;/code&gt; 后，发现可以得到不错的效果。&lt;br&gt;&lt;img src=&#34;/2021/9be43835/watermark.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;br&gt;在安装过程中，需要注意以下事项：&lt;br&gt;【1】 需要 &lt;code&gt;GNU Global&lt;/code&gt;(&amp;gt;&amp;#x3D;6.5) 的依赖项并添加进路径中。可以通过以下方式安装：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  sudo apt install global&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;安装之后可使用以下命令确认是否成功：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  global –version&lt;br&gt;  &lt;img src=&#34;/2021/9be43835/11f3ab43797b44d9a9746b0676881339.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【2】在 C&amp;#x2F;C++ 项目的工作空间文件夹，运行以下命令：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;gtags&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# --statistics 显示统计数据&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  忽略一些文件 在代码工程的一级目录下新建文件 &lt;code&gt;gtags.conf&lt;/code&gt;，按照如下格式编辑其内容：&lt;/p&gt;
+  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;default:\&lt;br&gt;common:\&lt;br&gt;:skip=/arch/m68k/: \&lt;br&gt;:skip=/tools/:&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这将会产生下列三个文件：&lt;code&gt;GTAGS&lt;/code&gt;, &lt;code&gt;GRTAGS&lt;/code&gt;, &lt;code&gt;GPATHS&lt;/code&gt;。 如果代码有修改，再次运行 &lt;code&gt;gtags&lt;/code&gt; 来更新这些 tag 文件。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2020/4ade0b2f/</guid>
+            <title>SourceInsigh中Qicker的使用</title>
+            <link>https://www.oikiou.top/2020/4ade0b2f/</link>
+            <category>sourceinsigh</category>
+            <category>si</category>
+            <category>ide</category>
+            <pubDate>Tue, 21 Jul 2020 13:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;Qicker-em&#34;&gt;&lt;a href=&#34;#Qicker-em&#34; class=&#34;headerlink&#34; title=&#34;Qicker.em&#34;&gt;&lt;/a&gt;Qicker.em&lt;/h1&gt;&lt;h2 id=&#34;使用方法&#34;&gt;&lt;a href=&#34;#使用方法&#34; class=&#34;headerlink&#34; title=&#34;使用方法&#34;&gt;&lt;/a&gt;使用方法&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;代码补全：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;wh：       while（）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;if，ife，ifs：     if，if else， if elseif else&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;for：      for&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;fo：自动生成for语句与for命令相比它直接会定义循环变量&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; ( ulI = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;; ulI &amp;lt; # ; ulI++ )&lt;br&gt;&amp;#123;&lt;br&gt;    UINT32_T ulI = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;    #&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;do: do while&lt;/li&gt;
+&lt;li&gt;switch：&lt;/li&gt;
+&lt;li&gt;case：&lt;/li&gt;
+&lt;li&gt;#ifd: #ifdef&lt;/li&gt;
+&lt;li&gt;#if：&lt;/li&gt;
+&lt;li&gt;cpp ：自动生成适用于c++的c原型说明定义&lt;/li&gt;
+&lt;li&gt;struct：&lt;/li&gt;
+&lt;li&gt;enum：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;添加文件头注释： 命令：fi 解释：file  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;添加函数头注释（.h）： 命令：fi 解释：file &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;增加修改历史列表： 命令：hi （会报错）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;根据（.c）生成（.h）文件：命令：hdn&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;添加函数说明注释： 命令：fu 解释： function  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;添加单行注释：（&lt;span style=&#34;color:red&#34;&gt;不知道为什么没用&lt;/span&gt;）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;命令：as 解释： add start    (添加之后 &lt;code&gt;/* add by zhangsan, 20140504, Mantis号:d, 原: */&lt;/code&gt; ) &lt;/li&gt;
+&lt;li&gt;命令：ms 解释： modify start  (添加之后：&lt;code&gt;/ modify by zhangsan, 20140504, Mantis号:d, 原因: */&lt;/code&gt;  ) &lt;/li&gt;
+&lt;li&gt;命令：ds 解释： delete start  (添加之后：&lt;code&gt;/ delete by zhangsan, 20140504, Mantis号:d, 原因: */&lt;/code&gt;  )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;添加标记注释： &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;命令：ab 解释： add begin    (添加之后：&lt;code&gt;/* add begin by zhangsan, 20140504, Mantis号:d 原因: */&lt;/code&gt;) &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;命令：mb 解释： modify begin  (添加之后：&lt;code&gt;/* modify begin by zhangsan, 20140504, Mantis号:d 原因: */&lt;/code&gt;) &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;命令：me 解释： modify end    (添加之后：&lt;code&gt;/* modify end by zhangsan, 20140504 */&lt;/code&gt;)  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;命令：db 解释： delete begin  (添加之后：&lt;code&gt;/* delete begin by zhangsan, 20140504, Mantis号:d 原因: */&lt;/code&gt;) &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;命令：de 解释： delete end    (添加之后：&lt;code&gt;/* delete end by zhangsan, 20140504 */&lt;/code&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;配置命令：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;命令：co 解释：config （修改相关配置信息）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; 如何使用呢，以为整个文件添加注释为例，在源文件的任何地方输入命令 fi 之后直接按ctrl + enter(配置的快捷键)即可。&lt;/p&gt;
+&lt;h2 id=&#34;安装方法&#34;&gt;&lt;a href=&#34;#安装方法&#34; class=&#34;headerlink&#34; title=&#34;安装方法&#34;&gt;&lt;/a&gt;安装方法&lt;/h2&gt;&lt;p&gt; source insight有很多宏可以用，这里介绍的宏是quicker.em这个宏，它是华为的一个员工写的，很实用。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;安装quicker.em宏&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;打开base这个工程Project-&amp;gt;Open Project，选择base工程，即可打开；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;将宏文件quicker.em添加到该base工程中；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;设置宏的快捷方式：Options-&amp;gt;Key Assignments，找到Marco:AutoExpand,添加快捷键即可，一般推介用Ctrl+Enter组合键。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;HeaderFileCreate，这个宏功能用于自动创建一个.c文件的头文件。&lt;/p&gt;
+&lt;p&gt;使用方法：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;创建自定义快捷菜单Options-&amp;gt;Menu Assignments，选择Macro:HeaderFileCreate这一项，将它添加到右边Menu项的Work下，然后点Insert插入，点OK即可。&lt;/li&gt;
+&lt;li&gt;打开该.c文件，在work栏就能看到我们刚才添加的自定义快捷菜单HeaderFileCreate，点击它，就自动生产头文件了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

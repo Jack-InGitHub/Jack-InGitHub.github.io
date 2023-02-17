@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;cad&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 21 Oct 2021 22:57:15 +0800</pubDate>
+        <lastBuildDate>Thu, 21 Oct 2021 22:57:15 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/154e1146/</guid>
+            <title>CAD</title>
+            <link>https://www.oikiou.top/2021/154e1146/</link>
+            <category>cad</category>
+            <pubDate>Thu, 21 Oct 2021 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;CAD&#34;&gt;&lt;a href=&#34;#CAD&#34; class=&#34;headerlink&#34; title=&#34;CAD&#34;&gt;&lt;/a&gt;CAD&lt;/h1&gt;&lt;h2 id=&#34;基本操作&#34;&gt;&lt;a href=&#34;#基本操作&#34; class=&#34;headerlink&#34; title=&#34;基本操作&#34;&gt;&lt;/a&gt;基本操作&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;对象捕捉：端点、中点、圆心、、、、、&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;shift正交&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;shift按住，取消选择&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;连续画直线，空格取消&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;画直线，c键闭合&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;形状&#34;&gt;&lt;a href=&#34;#形状&#34; class=&#34;headerlink&#34; title=&#34;形状&#34;&gt;&lt;/a&gt;形状&lt;/h1&gt;&lt;h2 id=&#34;直线&#34;&gt;&lt;a href=&#34;#直线&#34; class=&#34;headerlink&#34; title=&#34;直线&#34;&gt;&lt;/a&gt;直线&lt;/h2&gt;&lt;p&gt;L键&lt;/p&gt;
+&lt;h2 id=&#34;圆&#34;&gt;&lt;a href=&#34;#圆&#34; class=&#34;headerlink&#34; title=&#34;圆&#34;&gt;&lt;/a&gt;圆&lt;/h2&gt;&lt;p&gt;C键&lt;/p&gt;
+&lt;h3 id=&#34;圆心-半径&#34;&gt;&lt;a href=&#34;#圆心-半径&#34; class=&#34;headerlink&#34; title=&#34;圆心 半径&#34;&gt;&lt;/a&gt;圆心 半径&lt;/h3&gt;&lt;p&gt;D键切换成直径&lt;/p&gt;
+&lt;h3 id=&#34;两点&#34;&gt;&lt;a href=&#34;#两点&#34; class=&#34;headerlink&#34; title=&#34;两点&#34;&gt;&lt;/a&gt;两点&lt;/h3&gt;&lt;h3 id=&#34;三点&#34;&gt;&lt;a href=&#34;#三点&#34; class=&#34;headerlink&#34; title=&#34;三点&#34;&gt;&lt;/a&gt;三点&lt;/h3&gt;&lt;h3 id=&#34;相切-相切-半径&#34;&gt;&lt;a href=&#34;#相切-相切-半径&#34; class=&#34;headerlink&#34; title=&#34;相切 相切 半径&#34;&gt;&lt;/a&gt;相切 相切 半径&lt;/h3&gt;&lt;h3 id=&#34;相切-相切-相切&#34;&gt;&lt;a href=&#34;#相切-相切-相切&#34; class=&#34;headerlink&#34; title=&#34;相切 相切 相切&#34;&gt;&lt;/a&gt;相切 相切 相切&lt;/h3&gt;&lt;p&gt;快捷键不详&lt;/p&gt;
+&lt;h2 id=&#34;圆弧&#34;&gt;&lt;a href=&#34;#圆弧&#34; class=&#34;headerlink&#34; title=&#34;圆弧&#34;&gt;&lt;/a&gt;圆弧&lt;/h2&gt;&lt;p&gt;ARC键&lt;/p&gt;
+&lt;p&gt;逆时针画圆弧&lt;/p&gt;
+&lt;h2 id=&#34;多段线&#34;&gt;&lt;a href=&#34;#多段线&#34; class=&#34;headerlink&#34; title=&#34;多段线&#34;&gt;&lt;/a&gt;多段线&lt;/h2&gt;&lt;p&gt;PLI键&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可以赋予宽度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;合并多段线&#34;&gt;&lt;a href=&#34;#合并多段线&#34; class=&#34;headerlink&#34; title=&#34;合并多段线&#34;&gt;&lt;/a&gt;合并多段线&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;PE (pedit 多段线编辑)&lt;/li&gt;
+&lt;li&gt;m 选择多段线&lt;/li&gt;
+&lt;li&gt;选中后空格确认&lt;/li&gt;
+&lt;li&gt;y 转换&lt;/li&gt;
+&lt;li&gt;j 合并&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;矩形&#34;&gt;&lt;a href=&#34;#矩形&#34; class=&#34;headerlink&#34; title=&#34;矩形&#34;&gt;&lt;/a&gt;矩形&lt;/h2&gt;&lt;h2 id=&#34;多边形&#34;&gt;&lt;a href=&#34;#多边形&#34; class=&#34;headerlink&#34; title=&#34;多边形&#34;&gt;&lt;/a&gt;多边形&lt;/h2&gt;&lt;p&gt;POL 键&lt;/p&gt;
+&lt;h1 id=&#34;操作&#34;&gt;&lt;a href=&#34;#操作&#34; class=&#34;headerlink&#34; title=&#34;操作&#34;&gt;&lt;/a&gt;操作&lt;/h1&gt;&lt;h2 id=&#34;移动&#34;&gt;&lt;a href=&#34;#移动&#34; class=&#34;headerlink&#34; title=&#34;移动&#34;&gt;&lt;/a&gt;移动&lt;/h2&gt;&lt;p&gt;m 键 move&lt;/p&gt;
+&lt;h2 id=&#34;复制&#34;&gt;&lt;a href=&#34;#复制&#34; class=&#34;headerlink&#34; title=&#34;复制&#34;&gt;&lt;/a&gt;复制&lt;/h2&gt;&lt;p&gt;co &lt;/p&gt;
+&lt;h2 id=&#34;拉伸&#34;&gt;&lt;a href=&#34;#拉伸&#34; class=&#34;headerlink&#34; title=&#34;拉伸&#34;&gt;&lt;/a&gt;拉伸&lt;/h2&gt;&lt;p&gt;s&lt;/p&gt;
+&lt;h2 id=&#34;旋转&#34;&gt;&lt;a href=&#34;#旋转&#34; class=&#34;headerlink&#34; title=&#34;旋转&#34;&gt;&lt;/a&gt;旋转&lt;/h2&gt;&lt;p&gt;ro &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;起点开始 逆时针&lt;/li&gt;
+&lt;li&gt;c 复制，原来的保留并复制&lt;/li&gt;
+&lt;li&gt;r 参照，参照线旋转&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;镜像&#34;&gt;&lt;a href=&#34;#镜像&#34; class=&#34;headerlink&#34; title=&#34;镜像&#34;&gt;&lt;/a&gt;镜像&lt;/h2&gt;&lt;p&gt;mi&lt;/p&gt;
+&lt;h2 id=&#34;缩放&#34;&gt;&lt;a href=&#34;#缩放&#34; class=&#34;headerlink&#34; title=&#34;缩放&#34;&gt;&lt;/a&gt;缩放&lt;/h2&gt;&lt;p&gt;sc&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;r参照，参照边长缩放&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;对齐缩放&#34;&gt;&lt;a href=&#34;#对齐缩放&#34; class=&#34;headerlink&#34; title=&#34;对齐缩放&#34;&gt;&lt;/a&gt;对齐缩放&lt;/h2&gt;&lt;p&gt;al&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;根据边对齐，根据边长缩放&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;修剪&#34;&gt;&lt;a href=&#34;#修剪&#34; class=&#34;headerlink&#34; title=&#34;修剪&#34;&gt;&lt;/a&gt;修剪&lt;/h2&gt;&lt;p&gt;tr&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不选基线默认修剪&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;延伸&#34;&gt;&lt;a href=&#34;#延伸&#34; class=&#34;headerlink&#34; title=&#34;延伸&#34;&gt;&lt;/a&gt;延伸&lt;/h2&gt;&lt;p&gt;ex&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不选基线默认延伸&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;倒角&#34;&gt;&lt;a href=&#34;#倒角&#34; class=&#34;headerlink&#34; title=&#34;倒角&#34;&gt;&lt;/a&gt;倒角&lt;/h2&gt;&lt;p&gt;cha&lt;/p&gt;
+&lt;h2 id=&#34;圆角&#34;&gt;&lt;a href=&#34;#圆角&#34; class=&#34;headerlink&#34; title=&#34;圆角&#34;&gt;&lt;/a&gt;圆角&lt;/h2&gt;&lt;p&gt;f&lt;/p&gt;
+&lt;h2 id=&#34;光顺曲线&#34;&gt;&lt;a href=&#34;#光顺曲线&#34; class=&#34;headerlink&#34; title=&#34;光顺曲线&#34;&gt;&lt;/a&gt;光顺曲线&lt;/h2&gt;&lt;p&gt;两个曲线光滑连接&lt;/p&gt;
+&lt;h2 id=&#34;矩形阵列&#34;&gt;&lt;a href=&#34;#矩形阵列&#34; class=&#34;headerlink&#34; title=&#34;矩形阵列&#34;&gt;&lt;/a&gt;矩形阵列&lt;/h2&gt;&lt;h2 id=&#34;路径阵列&#34;&gt;&lt;a href=&#34;#路径阵列&#34; class=&#34;headerlink&#34; title=&#34;路径阵列&#34;&gt;&lt;/a&gt;路径阵列&lt;/h2&gt;&lt;h2 id=&#34;圆形阵列&#34;&gt;&lt;a href=&#34;#圆形阵列&#34; class=&#34;headerlink&#34; title=&#34;圆形阵列&#34;&gt;&lt;/a&gt;圆形阵列&lt;/h2&gt;&lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;修改注释标准-gt&#34;&gt;&lt;a href=&#34;#修改注释标准-gt&#34; class=&#34;headerlink&#34; title=&#34;修改注释标准 (,-&amp;gt;.)&#34;&gt;&lt;/a&gt;修改注释标准 (,-&amp;gt;.)&lt;/h2&gt;&lt;p&gt;标注样式-&amp;gt;修改-&amp;gt;主单位-&amp;gt;逗号改成点号&lt;/p&gt;
+&lt;h2 id=&#34;空心字-文字转换成线&#34;&gt;&lt;a href=&#34;#空心字-文字转换成线&#34; class=&#34;headerlink&#34; title=&#34;空心字 文字转换成线&#34;&gt;&lt;/a&gt;空心字 文字转换成线&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt;安装默认不安装拓展工具，如果txtexp找不到命令，需要重装，安装的时候选择组件的时候选上Express Tools。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;mt 创建文字&lt;/li&gt;
+&lt;li&gt;txtexp 将文字分解成文字轮廓&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

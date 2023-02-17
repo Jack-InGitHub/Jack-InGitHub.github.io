@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;ct117e&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 04 Jun 2019 17:23:05 +0800</pubDate>
+        <lastBuildDate>Tue, 04 Jun 2019 17:23:05 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2019/b9b15cd2/</guid>
+            <title>蓝桥杯STM32国赛笔记</title>
+            <link>https://www.oikiou.top/2019/b9b15cd2/</link>
+            <category>stm32</category>
+            <category>蓝桥杯</category>
+            <category>国赛</category>
+            <category>ct117e</category>
+            <pubDate>Tue, 04 Jun 2019 17:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;CT117E-EX-扩展板笔记&#34;&gt;&lt;a href=&#34;#CT117E-EX-扩展板笔记&#34; class=&#34;headerlink&#34; title=&#34;CT117E-EX 扩展板笔记&#34;&gt;&lt;/a&gt;CT117E-EX 扩展板笔记&lt;/h1&gt;&lt;h2 id=&#34;数码管（74HC595）&#34;&gt;&lt;a href=&#34;#数码管（74HC595）&#34; class=&#34;headerlink&#34; title=&#34;数码管（74HC595）&#34;&gt;&lt;/a&gt;数码管（74HC595）&lt;/h2&gt;&lt;h3 id=&#34;RCLK-R-存储寄存器读取&#34;&gt;&lt;a href=&#34;#RCLK-R-存储寄存器读取&#34; class=&#34;headerlink&#34; title=&#34;RCLK(R:存储寄存器读取)&#34;&gt;&lt;/a&gt;RCLK(R:存储寄存器读取)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;上升沿    移位寄存器进入存储寄存器&lt;/li&gt;
+&lt;li&gt;下降沿    数据保持不变&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;SCK-S-送入595&#34;&gt;&lt;a href=&#34;#SCK-S-送入595&#34; class=&#34;headerlink&#34; title=&#34;SCK(S:送入595)&#34;&gt;&lt;/a&gt;SCK(S:送入595)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;上升沿    数据寄存器数据移位。Q0–&amp;gt;Q1–&amp;gt;Q2–&amp;gt;Q3–&amp;gt;…–&amp;gt;Q7;&lt;/li&gt;
+&lt;li&gt;下降沿    移位寄存器数据不变&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;SER（数据脚）&#34;&gt;&lt;a href=&#34;#SER（数据脚）&#34; class=&#34;headerlink&#34; title=&#34;SER（数据脚）&#34;&gt;&lt;/a&gt;SER（数据脚）&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;串行数据输入端&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;SEG_DisplayValue&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(u8 Bit1,  u8 Bit2, u8 Bit3)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;	u8 i = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;	&lt;span class=&#34;hljs-comment&#34;&gt;//&lt;/span&gt;&lt;br&gt;	u8 code_tmp = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;/*&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;    *略过部分代码&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;    */&lt;/span&gt;&lt;br&gt;	&lt;br&gt;	code_tmp = Seg7[Bit1];&lt;br&gt;	&lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt;(i=&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;i&amp;lt;&lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;;i++)&amp;#123;&lt;br&gt;&lt;br&gt;		&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;(code_tmp &amp;amp; &lt;span class=&#34;hljs-number&#34;&gt;0x80&lt;/span&gt;)&amp;#123;&lt;br&gt;			SER_H;&lt;br&gt;		&amp;#125;&lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt;&amp;#123;&lt;br&gt;			SER_L;&lt;br&gt;		&amp;#125;&lt;br&gt;		SCK_H;&lt;span class=&#34;hljs-comment&#34;&gt;//数据移位&lt;/span&gt;&lt;br&gt;		code_tmp = code_tmp &amp;lt;&amp;lt; &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;;   &lt;br&gt;		SCK_L;&lt;br&gt;	&amp;#125;		&lt;br&gt;	RCLK_H;	&lt;span class=&#34;hljs-comment&#34;&gt;//上升沿时移位寄存器进入存储寄存器&lt;/span&gt;&lt;br&gt;	RCLK_L;	&lt;span class=&#34;hljs-comment&#34;&gt;//下降沿是数据保持不变&lt;/span&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;数码管显示数组&#34;&gt;&lt;a href=&#34;#数码管显示数组&#34; class=&#34;headerlink&#34; title=&#34;数码管显示数组&#34;&gt;&lt;/a&gt;数码管显示数组&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;u8 code t_display[]=&amp;#123;                       &lt;span class=&#34;hljs-comment&#34;&gt;//标准字库&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//   0    1    2    3    4    5    6    7    8    9    A    B    C    D    E    F&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;0x3F&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x06&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x5B&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x4F&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x66&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x6D&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x7D&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x07&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x7F&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x6F&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x77&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x7C&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x39&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x5E&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x79&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x71&lt;/span&gt;,&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//black  -     H    J    K    L    N    o   P    U     t    G    Q    r   M    y&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;0x00&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x40&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x76&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x1E&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x70&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x38&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x37&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x5C&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x73&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x3E&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x78&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x3d&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x67&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x50&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x37&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x6e&lt;/span&gt;,&lt;br&gt;    &lt;br&gt; &lt;span class=&#34;hljs-comment&#34;&gt;//0. 1. 2. 3. 4. 5. 6. 7. 8. 9. -1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;0xBF&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x86&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0xDB&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0xCF&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0xE6&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0xED&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0xFD&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x87&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0xFF&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0xEF&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x46&lt;/span&gt;&amp;#125;;    &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//   0    1    2    3    4    5    6    7    8    9&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;0x3F&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x06&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x5B&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x4F&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x66&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x6D&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x7D&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x07&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x7F&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x6F&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;0x77&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h2 id=&#34;ADC按键&#34;&gt;&lt;a href=&#34;#ADC按键&#34; class=&#34;headerlink&#34; title=&#34;ADC按键&#34;&gt;&lt;/a&gt;ADC按键&lt;/h2&gt;&lt;h3 id=&#34;ADC-KEY-引脚&#34;&gt;&lt;a href=&#34;#ADC-KEY-引脚&#34; class=&#34;headerlink&#34; title=&#34;ADC KEY 引脚&#34;&gt;&lt;/a&gt;ADC KEY 引脚&lt;/h3&gt;&lt;p&gt; PA5      ADC_12_&lt;strong&gt;IN5&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;按键值&#34;&gt;&lt;a href=&#34;#按键值&#34; class=&#34;headerlink&#34; title=&#34;按键值&#34;&gt;&lt;/a&gt;按键值&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;ADC值&lt;/th&gt;
+&lt;th&gt;ADC按键区间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;0&lt;/td&gt;
+&lt;td&gt;&amp;lt;100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;200&lt;/td&gt;
+&lt;td&gt;&amp;lt;400&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;600&lt;/td&gt;
+&lt;td&gt;&amp;lt;800&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1000&lt;/td&gt;
+&lt;td&gt;&amp;lt;1200&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1300-1400&lt;/td&gt;
+&lt;td&gt;&amp;lt;1600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1700-1900&lt;/td&gt;
+&lt;td&gt;&amp;lt;2000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2100-2400&lt;/td&gt;
+&lt;td&gt;&amp;lt;2600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2800-3000&lt;/td&gt;
+&lt;td&gt;&amp;lt;3200&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;DHT11模块&#34;&gt;&lt;a href=&#34;#DHT11模块&#34; class=&#34;headerlink&#34; title=&#34;DHT11模块&#34;&gt;&lt;/a&gt;DHT11模块&lt;/h2&gt;&lt;h3 id=&#34;芯片性能&#34;&gt;&lt;a href=&#34;#芯片性能&#34; class=&#34;headerlink&#34; title=&#34;芯片性能&#34;&gt;&lt;/a&gt;芯片性能&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;温度测量范围：0－50℃&lt;/li&gt;
+&lt;li&gt;湿度测量范围：20－90％RH&lt;/li&gt;
+&lt;li&gt;采样周期 ：1S&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;数据格式&#34;&gt;&lt;a href=&#34;#数据格式&#34; class=&#34;headerlink&#34; title=&#34;数据格式&#34;&gt;&lt;/a&gt;数据格式&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Byte0&lt;/th&gt;
+&lt;th&gt;Byte1&lt;/th&gt;
+&lt;th&gt;Byte2&lt;/th&gt;
+&lt;th&gt;Byte3&lt;/th&gt;
+&lt;th&gt;Byte4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;湿度整数数据&lt;/td&gt;
+&lt;td&gt;湿度小数数据&lt;/td&gt;
+&lt;td&gt;温度整数数据&lt;/td&gt;
+&lt;td&gt;温度小数数据&lt;/td&gt;
+&lt;td&gt;校验和&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;编程思路&#34;&gt;&lt;a href=&#34;#编程思路&#34; class=&#34;headerlink&#34; title=&#34;编程思路&#34;&gt;&lt;/a&gt;编程思路&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;主机输出&lt;/li&gt;
+&lt;li&gt;主机拉  &lt;strong&gt;低&lt;/strong&gt;  至少 &lt;font color=&#34;red&#34;&gt;18ms&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;主机拉  &lt;strong&gt;高&lt;/strong&gt;  &lt;font color=&#34;red&#34;&gt;20-40us&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;主机输入&lt;/li&gt;
+&lt;li&gt;主机等待信号线拉 &lt;strong&gt;低&lt;/strong&gt;   （DHT11发送持续  &lt;strong&gt;40-50us&lt;/strong&gt; 的  &lt;strong&gt;低&lt;/strong&gt;   响应信号）&lt;/li&gt;
+&lt;li&gt;主机等待信号线拉 &lt;strong&gt;高&lt;/strong&gt;   （DHT11发送持续  &lt;strong&gt;40-50us&lt;/strong&gt; 的  &lt;strong&gt;高&lt;/strong&gt;   拉高信号）&lt;/li&gt;
+&lt;li&gt;for(){   &amp;#x2F;&amp;#x2F;40bit数据       5Byte&lt;ul&gt;
+&lt;li&gt;主机等待数据线拉&lt;strong&gt;低&lt;/strong&gt;    （数据Bit开始）&lt;/li&gt;
+&lt;li&gt;主机等待数据线拉&lt;strong&gt;高&lt;/strong&gt;    &lt;/li&gt;
+&lt;li&gt;主机延时 时间大于&lt;strong&gt;28us&lt;/strong&gt;小于&lt;strong&gt;70us&lt;/strong&gt;    （ &lt;font color=&#34;red&#34;&gt;Type值 40us&lt;/font&gt;）&lt;/li&gt;
+&lt;li&gt;主机读取数据&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;}&lt;/li&gt;
+&lt;li&gt;主机输出&lt;/li&gt;
+&lt;li&gt;主机拉高&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;技巧-amp-TIP&#34;&gt;&lt;a href=&#34;#技巧-amp-TIP&#34; class=&#34;headerlink&#34; title=&#34;技巧&amp;amp;TIP&#34;&gt;&lt;/a&gt;技巧&amp;amp;TIP&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;DHT11分辨率都是整数级别的&lt;strong&gt;读取小数的数据部分没有意义&lt;/strong&gt;。（全为0）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;读取间隔建议大于100ms（采样 1S 过高的读取频率没有意义）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在72MHz频率下 &lt;strong&gt;Delay_LCD&lt;/strong&gt; 运行一次大约 &lt;strong&gt;375us&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;Delay_LCD&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(u16 n)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;	u16 i,j;&lt;br&gt;	&lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; (i = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;i&amp;lt;n;++i)&lt;br&gt;		&lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt;(j=&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;j&amp;lt;&lt;span class=&#34;hljs-number&#34;&gt;3000&lt;/span&gt;;++j);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//将里面的 3000 改成 8 运行一次大概 1us &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//运行次数越少比1us越多&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//运行次数越多比1us越少&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h2 id=&#34;18B20模块&#34;&gt;&lt;a href=&#34;#18B20模块&#34; class=&#34;headerlink&#34; title=&#34;18B20模块&#34;&gt;&lt;/a&gt;18B20模块&lt;/h2&gt;&lt;h3 id=&#34;芯片性能-1&#34;&gt;&lt;a href=&#34;#芯片性能-1&#34; class=&#34;headerlink&#34; title=&#34;芯片性能&#34;&gt;&lt;/a&gt;芯片性能&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;±0.5°C accuracy from -10°C to +85°C&lt;/li&gt;
+&lt;li&gt;Can be powered from data line. Power supply range is 3.0V to 5.5V&lt;/li&gt;
+&lt;li&gt;Converts 12-bit temperature to digital word in 750 ms (max.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;数据格式-1&#34;&gt;&lt;a href=&#34;#数据格式-1&#34; class=&#34;headerlink&#34; title=&#34;数据格式&#34;&gt;&lt;/a&gt;数据格式&lt;/h3&gt;&lt;h4 id=&#34;数据格式-2&#34;&gt;&lt;a href=&#34;#数据格式-2&#34; class=&#34;headerlink&#34; title=&#34;数据格式&#34;&gt;&lt;/a&gt;数据格式&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;写Byte数据先写&lt;strong&gt;低位&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;读Byte数据先读出的是&lt;strong&gt;低位&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;读出来的温度先是  &lt;strong&gt;LSM 8bit&lt;/strong&gt;  然后是 MSB 8bit&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;总线协议-amp-时序&#34;&gt;&lt;a href=&#34;#总线协议-amp-时序&#34; class=&#34;headerlink&#34; title=&#34;总线协议&amp;amp;时序&#34;&gt;&lt;/a&gt;总线协议&amp;amp;时序&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;/2019/b9b15cd2/01-1557625836489.png&#34; alt=&#34;复位时序&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2019/b9b15cd2/02.png&#34; alt=&#34;读写时序&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;编程思路-1&#34;&gt;&lt;a href=&#34;#编程思路-1&#34; class=&#34;headerlink&#34; title=&#34;编程思路&#34;&gt;&lt;/a&gt;编程思路&lt;/h3&gt;&lt;p&gt;0xCC	OW_SKIP_ROM&lt;/p&gt;
+&lt;p&gt;0x44	DS18B20_CONVERT&lt;/p&gt;
+&lt;p&gt;0xCC	OW_SKIP_ROM&lt;/p&gt;
+&lt;p&gt;0xBE	DS18B20_READ&lt;/p&gt;
+&lt;h2 id=&#34;LIS302DL&#34;&gt;&lt;a href=&#34;#LIS302DL&#34; class=&#34;headerlink&#34; title=&#34;LIS302DL&#34;&gt;&lt;/a&gt;LIS302DL&lt;/h2&gt;&lt;p&gt;NULL&lt;/p&gt;
+&lt;h2 id=&#34;光敏-D-amp-A&#34;&gt;&lt;a href=&#34;#光敏-D-amp-A&#34; class=&#34;headerlink&#34; title=&#34;光敏 D&amp;amp;A&#34;&gt;&lt;/a&gt;光敏 D&amp;amp;A&lt;/h2&gt;&lt;h3 id=&#34;光敏D&#34;&gt;&lt;a href=&#34;#光敏D&#34; class=&#34;headerlink&#34; title=&#34;光敏D&#34;&gt;&lt;/a&gt;光敏D&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;GPIOA_Pin_3 &lt;/li&gt;
+&lt;li&gt;GPIO_Mode_IPU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;光敏A&#34;&gt;&lt;a href=&#34;#光敏A&#34; class=&#34;headerlink&#34; title=&#34;光敏A&#34;&gt;&lt;/a&gt;光敏A&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;GPIOA_Pin_4&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ADC1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ADC_Channel_4&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;电位器&#34;&gt;&lt;a href=&#34;#电位器&#34; class=&#34;headerlink&#34; title=&#34;电位器&#34;&gt;&lt;/a&gt;电位器&lt;/h2&gt;&lt;p&gt;NULL&lt;/p&gt;
+&lt;h2 id=&#34;PULS-amp-PWM&#34;&gt;&lt;a href=&#34;#PULS-amp-PWM&#34; class=&#34;headerlink&#34; title=&#34;PULS&amp;amp;PWM&#34;&gt;&lt;/a&gt;PULS&amp;amp;PWM&lt;/h2&gt;&lt;p&gt;PA1        TIM2_CH2&lt;/p&gt;
+&lt;p&gt;PA2        TIM2_CH3&lt;/p&gt;
+&lt;p&gt;PA6        TIM3_CH1&lt;/p&gt;
+&lt;p&gt;PA7        TIM3_CH2&lt;/p&gt;
+&lt;h2 id=&#34;界面颜色搭配&#34;&gt;&lt;a href=&#34;#界面颜色搭配&#34; class=&#34;headerlink&#34; title=&#34;界面颜色搭配&#34;&gt;&lt;/a&gt;界面颜色搭配&lt;/h2&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;LCD_SetBackColor(Blue);&lt;br&gt;LCD_SetTextColor(White);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//Line0		1&lt;/span&gt;&lt;br&gt;LCD_SetBackColor(White);&lt;br&gt;LCD_SetTextColor(Blue);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//Line1-7	7&lt;/span&gt;&lt;br&gt;LCD_SetBackColor(Blue);&lt;br&gt;LCD_SetTextColor(Black);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//Line89	2&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"makefile\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2022/714f1d49/",
+            "url": "https://www.oikiou.top/2022/714f1d49/",
+            "title": "Windows下使用Makefile",
+            "date_published": "2022-06-21T14:57:15.000Z",
+            "content_html": "<h1 id=\"1-安装MinGW\"><a href=\"#1-安装MinGW\" class=\"headerlink\" title=\"1.安装MinGW\"></a>1.安装MinGW</h1><p>在MinGW的bin目录下有一个文件叫<code>mingw32-make.exe</code> 运行它就跟<code>make</code>指令类似</p>\n<p><img src=\"/2022/714f1d49/watermarkpic_center.png\" alt=\"在这里插入图片描述\"></p>\n<h1 id=\"2-CMD-终端运行Makefile-mingw32-make\"><a href=\"#2-CMD-终端运行Makefile-mingw32-make\" class=\"headerlink\" title=\"2. CMD 终端运行Makefile (mingw32-make)\"></a>2. CMD 终端运行Makefile (mingw32-make)</h1><p>在cmd终端下直接输入<code>mingw32-make</code>然后回车就可以进行编译了：</p>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br></pre></td><td class=\"code\"><pre><code class=\"hljs bash\">Microsoft Windows [版本 10.0.16299.967]<br>(c) 2017 Microsoft Corporation。保留所有权利。<br><br>D:\\Project\\Code\\C++\\hello&gt; mingw32-make.exe<br>g++    -c -o main.o main.cpp<br>g++ -std=c++17 -o main main.o<br></code></pre></td></tr></table></figure>\n",
+            "tags": [
+                "windows",
+                "makefile"
+            ]
+        }
+    ]
+}

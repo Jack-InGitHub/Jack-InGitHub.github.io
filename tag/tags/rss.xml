@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;tags&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 25 Aug 2022 22:57:15 +0800</pubDate>
+        <lastBuildDate>Thu, 25 Aug 2022 22:57:15 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/c65e1067/</guid>
+            <title>Tags Label Category</title>
+            <link>https://www.oikiou.top/2022/c65e1067/</link>
+            <category>tags</category>
+            <category>label</category>
+            <category>category</category>
+            <pubDate>Thu, 25 Aug 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;知乎  &lt;a href=&#34;https://www.zhihu.com/people/songvision&#34;&gt;千鸟&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  这问题要分两个层面来解读：&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;首先是Tag与Category的区别。&lt;/strong&gt;Category往往限制在一个维度里，当树状结构复杂到不可调和时，出现瓶颈是迟早的事。Category的问题在于，既不能完全满足用户需求，也不能完全表达创建者对内容属性的认知。而Tag反之都成立，完全互补。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;其次是Label与Tag的区别。&lt;/strong&gt;于对内容的概括出现偏差，但显然这种问题不是tag，在内容组织范畴那应该是什么？答案就是label，除产品描述，其应用范畴还涉及功能名称、模块名称、导航名称、引导文字等等场景。我认为tag与label之间有三个显著差异：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;label是本身的，tag是附加的；&lt;/li&gt;
+&lt;li&gt;label强调是一种标志，tag强调是一种记号；&lt;/li&gt;
+&lt;li&gt;label标明信息之间的归属，tag区别信息之间的差异。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;知乎 郑讯&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  Tag，标签，一般包含一段内容的属性，可以是分类，可以是话题，也可以是作者，地理信息等。&lt;/p&gt;
+&lt;p&gt;  Label，标记，是网页框架中一个区域的功能概括。比如知乎首页上的“浏览”、“问题”、“通知”就是label。选择不同的标记，相应区域的功能就会发生变化。&lt;/p&gt;
+&lt;p&gt;  category，分类，可以理解为种属概念。一段内容有且只有一个种属的分类。和Tag不同的是一段内容可以有多个tag，并且tag是未预先设定的，一段内容可以有多个Tag，也可以没有Tag。但caterory在一个分类标准下只有一个。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;知乎 李楠&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  &lt;strong&gt;Category&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  Category 是非常理想化和一根筋的分类方式。图书馆这种死板到头的地方用的多。但是他们也遇到了问题：“苏菲的世界”到底是“哲学”，还是“文学”？&lt;/p&gt;
+&lt;p&gt;  物理世界无力从根本上解决这种问题（但似乎不少讨论）。问过我们学校的图书馆，似乎他们方式还比较靠谱：&lt;strong&gt;买两本，两处放。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  分类对象数字化之后， Category 的影响还在（早期的门户找点跨界的东西就很悲剧）。直到 Web2.0 ， Tag 竟然才开始流行。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;Tag&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  Tag 是更好的分类方式的原因是：&lt;/p&gt;
+&lt;p&gt;  1&lt;/p&gt;
+&lt;p&gt;  “类别”本来就不应该事先定义：人不是上帝。&lt;/p&gt;
+&lt;p&gt;  从一个个具体对象的“属性”中，总结出“类别”是最自然的模式。也是“人”可以做到的事情。&lt;/p&gt;
+&lt;p&gt;  2&lt;/p&gt;
+&lt;p&gt;  “属性”本来就应该可以自然的表现为多个。&lt;/p&gt;
+&lt;p&gt;  苏菲的世界终于可以自然的打上“哲学”和“文学”的 Tag 了，或者再加个“少儿读物”。这种思考方式比 Category 优雅太多。&lt;/p&gt;
+&lt;p&gt;  Tag 最终普及，背后恐怕有&lt;a href=&#34;https://www.zhihu.com/search?q=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:12226710%7D&#34;&gt;软件工程&lt;/a&gt;上 OO 普及（面向对象）的因素。&lt;strong&gt;“面向对象”不仅仅是的程序构建方式，更是认识世界的方法论的进步。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  “属性”跟随“对象”，比“对象”属于“类别”更自然，不机械。 。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;Tag 的改进&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  Tag 本身也可以看作“对象”。&lt;/p&gt;
+&lt;p&gt;  那么就有针对 Tag 的操作，比如“搜索”，“排序”，“关联对象”。也有 Tag 本身的属性，比如“使用次数”，“关注人数”等等。&lt;/p&gt;
+&lt;p&gt;  如何能在使用 Tag 的系统中，根据这些数据，计算出最适合的对象，就要靠算法的优化和运营的调整了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;知乎 &lt;a href=&#34;https://www.zhihu.com/people/zheng-wei-42-9&#34;&gt;榆木脑袋&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  Catagory是逻辑清晰的。Tag是随意自由的。在看到一个信息的时候我们需要自由捕获自己头脑中的闪光。在重新审视或再利用我们收集的信息时，就需要清晰的逻辑条理。&lt;/p&gt;
+&lt;p&gt;  以文件管理为例：&lt;/p&gt;
+&lt;p&gt;  在标记Tag时需求有二：一是能够方便增加新的Tag，二是能够很方便的看到已有的Tag，并能同时把已有标签赋予当前信息。&lt;/p&gt;
+&lt;p&gt;  在查找文件时个人觉得需要有的功能是：一是有固定的几个入口，也就是根目录；二是可以增加根节点；三是根目录可以指定某几个Tag，也可以不是；三如果根目录不是Tag，需要定义关联到此根目录（分类）下的Tag；四（重点功能）根目录下不直接列出信息或文件（时间长了，某一Tag下文件会相当多），而是列出关联Tag的所有文件的其它Tag，显示为子目录，并标识出此子目录中的文件数量。五（作为管理功能）此时可以定义哪些Tag不在此根目录下出现。六设置某个Tag或某类Tag(文件数量大过一个数量)下仍不列出文件而是继续列出Tag；七子目录（Tag）下，上级目录Tag不再出现。&lt;/p&gt;
+&lt;p&gt;  我个人非常偏好使用树形目录结构，但苦恼于文件的多重分类和文件进行多重分类时的繁琐。经过多方搜索只找到三个比较符合的软件，一个是PinKM，一个是蓝码动力图片管理软件，一个是国外的Tabbles。但都因标签管理和整理的繁琐而放弃。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;个人理解&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Catagory 是属于严格的分类方法, 一个东西应当只属于一个Catagory内, 而且它是有层级关系的&lt;/li&gt;
+&lt;li&gt;Tags 是可有可无的, 一个东西可以有很多的Tags, 它是无层级关系的,&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

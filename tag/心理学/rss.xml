@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;心理学&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 27 Apr 2022 15:54:03 +0800</pubDate>
+        <lastBuildDate>Wed, 27 Apr 2022 15:54:03 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/9f326461/</guid>
+            <title>让人帮忙实际上根本不需要什么理由？</title>
+            <link>https://www.oikiou.top/2022/9f326461/</link>
+            <category>life</category>
+            <category>心理学</category>
+            <pubDate>Wed, 27 Apr 2022 15:54:03 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;有没有过这样的经历：&lt;br&gt;你在复印机前排队，前面还有好几个人在等着，正在复印的那个人已经印了好几十页还没结束……&lt;br&gt;你心里的想法一定和我一样，&lt;br&gt;这个人怎么还没弄好啊？&lt;br&gt;他有那么多要印吗？&lt;br&gt;我就印一张身份证啊！&lt;br&gt;这可能是上班时候最让人烦心和焦虑的一个场景。&lt;/p&gt;
+&lt;p&gt;接下来让我做一个假设，如果你此时不再等待，而是插队走到最前面，跟正在复印的人说，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A：能不能让我先复印一下？&lt;/li&gt;
+&lt;li&gt;B：能不能让我先复印一下，因为我就只有一张要印，老板正在开会要我现在就给他……可以吗？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;你觉得A和B的措辞，哪一个会更可能让正在复印的人答应你的要求？&lt;br&gt;我相信大部分人都会认为：&lt;br&gt;B更有可能说服对方，因为它的结构是“请求+理由”；而A只有请求。&lt;/p&gt;
+&lt;p&gt;说得没错。&lt;br&gt;事实上，美国纽约城市大学的社会心理学家们，真的就做了这样一个实验；&lt;br&gt;他们在纽约城市大学校园的一台复印机旁，对120个正在打印的人做了这样的尝试。&lt;/p&gt;
+&lt;p&gt;实验人员分别用A和B的措辞，去请求对方允许自己插队；&lt;br&gt;结果很明显，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在A措辞的样本里，60%的人答应了请求；&lt;/li&gt;
+&lt;li&gt;而B措辞的样本里，94%的人答应了请求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;好吧，接下来更有意思的来了；&lt;br&gt;他们还加入了C措辞，是这样描述的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C：能不能让我先复印一下，因为我需要复印，我现在就需要…可以吗？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;嗯，如果你仔细读一下，C和B的区别在于，&lt;br&gt;实际上C根本没有说出任何理由，只是一个敷衍的“因为…所以…”&lt;/p&gt;
+&lt;p&gt;本质上，C和A没啥区别，什么理由都没说。&lt;/p&gt;
+&lt;p&gt;那么你来猜一下，措辞C的表现会是怎样？&lt;br&gt;照理说，C应该和A差不多，对吗？&lt;/p&gt;
+&lt;p&gt;并非如此，结果甚至让人大跌眼镜。&lt;br&gt;实验结果，C措辞的样本里，93%的人答应了请求！&lt;/p&gt;
+&lt;p&gt;What？！&lt;br&gt;这…如何解释？&lt;br&gt;这是不是意味着，&lt;br&gt;求人帮忙，实际上根本不需要什么理由？&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

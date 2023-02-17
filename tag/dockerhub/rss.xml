@@ -1,0 +1,1018 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;dockerhub&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 21 Jul 2022 21:38:15 +0800</pubDate>
+        <lastBuildDate>Thu, 21 Jul 2022 21:38:15 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/f5f9fa9b/</guid>
+            <title>Docker</title>
+            <link>https://www.oikiou.top/2022/f5f9fa9b/</link>
+            <category>docker</category>
+            <category>dockerfile</category>
+            <category>namespace</category>
+            <category>cgroup</category>
+            <category>dockerhub</category>
+            <pubDate>Thu, 21 Jul 2022 21:38:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;Docker&#34;&gt;&lt;a href=&#34;#Docker&#34; class=&#34;headerlink&#34; title=&#34;Docker&#34;&gt;&lt;/a&gt;Docker&lt;/h1&gt;&lt;h1 id=&#34;Docker是什么-amp-如何理解Docker&#34;&gt;&lt;a href=&#34;#Docker是什么-amp-如何理解Docker&#34; class=&#34;headerlink&#34; title=&#34;Docker是什么&amp;amp;如何理解Docker&#34;&gt;&lt;/a&gt;Docker是什么&amp;amp;如何理解Docker&lt;/h1&gt;&lt;p&gt;Docker的底层原理&lt;/p&gt;
+&lt;p&gt;cgroup&lt;/p&gt;
+&lt;p&gt;namespace&lt;/p&gt;
+&lt;p&gt;容器(container)有不同的状态, 停止状态&lt;/p&gt;
+&lt;p&gt;镜像(image)是docker生命周期中的构建或打包阶段, 而容器(container)则是启动或执行阶段.&lt;/p&gt;
+&lt;p&gt;docker hub&lt;/p&gt;
+&lt;p&gt;!!ADD ME!!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f5f9fa9b/architecture.svg&#34; alt=&#34;Docker Architecture Diagram&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f5f9fa9b/mark4536000.image&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f5f9fa9b/watermark16682557597978.png&#34; alt=&#34;x&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f5f9fa9b/watermark.png&#34; alt=&#34;xx&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f5f9fa9b/202111041612065293278565.png&#34; alt=&#34;何種應用適合PaaS平台容器/微服務架構釋疑| 網管人&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Docker-和-VM-的区别&#34;&gt;&lt;a href=&#34;#Docker-和-VM-的区别&#34; class=&#34;headerlink&#34; title=&#34;Docker 和 VM 的区别&#34;&gt;&lt;/a&gt;Docker 和 VM 的区别&lt;/h2&gt;&lt;p&gt;二者的不同：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;VM(VMware)在宿主机器、宿主机器操作系统的基础上创建虚拟层、虚拟化的操作系统、虚拟化的仓库，然后再安装应用；&lt;/li&gt;
+&lt;li&gt;Container(Docker容器)，在宿主机器、宿主机器操作系统上创建Docker引擎，在引擎的基础上再安装应用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f5f9fa9b/9114e4a753de14a7531e867b908e6660.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与传统VM特性对比：&lt;/strong&gt;&lt;br&gt;作为一种轻量级的虚拟化方式，Docker在运行应用上跟传统的虚拟机方式相比具有显著优势：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Docker 容器很快，启动和停止可以在秒级实现，这相比传统的虚拟机方式要快得多。&lt;/li&gt;
+&lt;li&gt;Docker 容器对系统资源需求很少，一台主机上可以同时运行数千个Docker容器。&lt;/li&gt;
+&lt;li&gt;Docker 通过类似Git的操作来方便用户获取、分发和更新应用镜像，指令简明，学习成本较低。&lt;/li&gt;
+&lt;li&gt;Docker 通过Dockerfile配置文件来支持灵活的自动化创建和部署机制，提高工作效率。&lt;/li&gt;
+&lt;li&gt;Docker 容器除了运行其中的应用之外，基本不消耗额外的系统资源，保证应用性能的同时，尽量减小系统开销。&lt;/li&gt;
+&lt;li&gt;Docker 利用Linux系统上的多种防护机制实现了严格可靠的隔离。从1.3版本开始，Docker引入了安全选项和镜像签名机制，极大地提高了使用Docker的安全性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;特性&lt;/th&gt;
+&lt;th&gt;Docker&lt;/th&gt;
+&lt;th&gt;VM&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;启动速度&lt;/td&gt;
+&lt;td&gt;秒级&lt;/td&gt;
+&lt;td&gt;分钟级&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;硬盘使用&lt;/td&gt;
+&lt;td&gt;一般为MB&lt;/td&gt;
+&lt;td&gt;一般为GB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;性能&lt;/td&gt;
+&lt;td&gt;接近原生&lt;/td&gt;
+&lt;td&gt;弱于原生&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;系统支持量&lt;/td&gt;
+&lt;td&gt;单机支持上千个容器&lt;/td&gt;
+&lt;td&gt;一般几十个&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;Docker-安装&#34;&gt;&lt;a href=&#34;#Docker-安装&#34; class=&#34;headerlink&#34; title=&#34;Docker 安装&#34;&gt;&lt;/a&gt;Docker 安装&lt;/h1&gt;&lt;p&gt;参考官方的安装&lt;a href=&#34;https://docs.docker.com/get-docker/&#34;&gt;文档&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ubuntu的安装参考&lt;a href=&#34;https://docs.docker.com/desktop/install/ubuntu/&#34;&gt;文档&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;Docker入门-amp-命令&#34;&gt;&lt;a href=&#34;#Docker入门-amp-命令&#34; class=&#34;headerlink&#34; title=&#34;Docker入门&amp;amp;命令&#34;&gt;&lt;/a&gt;Docker入门&amp;amp;命令&lt;/h1&gt;&lt;h2 id=&#34;☆-docker-run&#34;&gt;&lt;a href=&#34;#☆-docker-run&#34; class=&#34;headerlink&#34; title=&#34;☆ docker run&#34;&gt;&lt;/a&gt;☆ docker run&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker run ：&lt;/strong&gt;创建一个新的容器并运行一个命令&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker run [OPTIONS] IMAGE [COMMAND] [ARG...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-a stdin&lt;/code&gt;: 指定标准输入输出内容类型，可选 STDIN&amp;#x2F;STDOUT&amp;#x2F;STDERR 三项；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-d&lt;/code&gt;: 后台运行容器，并返回容器ID；&lt;/li&gt;
+&lt;li&gt;☆&lt;code&gt;-i&lt;/code&gt;: 以交互模式运行容器，通常与 -t 同时使用；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-P&lt;/code&gt;: 随机端口映射，容器内部端口&lt;strong&gt;随机&lt;/strong&gt;映射到主机的端口&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-p&lt;/code&gt;: 指定端口映射，格式为：&lt;strong&gt;主机(宿主)端口:容器端口&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;☆&lt;code&gt;-t&lt;/code&gt;: 为容器重新分配一个伪输入终端，通常与 -i 同时使用；&lt;/li&gt;
+&lt;li&gt;☆&lt;code&gt;--name=&amp;quot;nginx-lb&amp;quot;&lt;/code&gt;: 为容器指定一个名称；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--dns 8.8.8.8&lt;/code&gt;: 指定容器使用的DNS服务器，默认和宿主一致；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--dns-search example.com&lt;/code&gt;: 指定容器DNS搜索域名，默认和宿主一致；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-h &amp;quot;mars&amp;quot;&lt;/code&gt;: 指定容器的hostname；&lt;/li&gt;
+&lt;li&gt;☆&lt;code&gt;-e username=&amp;quot;ritchie&amp;quot;&lt;/code&gt;: 设置环境变量；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--env-file=[]&lt;/code&gt;: 从指定文件读入环境变量；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--cpuset=&amp;quot;0-2&amp;quot; or --cpuset=&amp;quot;0,1,2&amp;quot;&lt;/code&gt;: 绑定容器到指定CPU运行；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-m&lt;/code&gt;:设置容器使用内存最大值；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--net=&amp;quot;bridge&amp;quot;&lt;/code&gt;: 指定容器的网络连接类型，支持 bridge&amp;#x2F;host&amp;#x2F;none&amp;#x2F;container: 四种类型；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--link=[]&lt;/code&gt;: 添加链接到另一个容器；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--expose=[]&lt;/code&gt;: 开放一个端口或一组端口；&lt;/li&gt;
+&lt;li&gt;☆&lt;code&gt;--volume , -v&lt;/code&gt;: 绑定一个卷, (或者称作&lt;strong&gt;映射文件夹&lt;/strong&gt;，将特定文件夹映射到特定目录)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;设置工作目录-w&#34;&gt;&lt;a href=&#34;#设置工作目录-w&#34; class=&#34;headerlink&#34; title=&#34;设置工作目录 (-w)&#34;&gt;&lt;/a&gt;设置工作目录 (-w)&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ docker  run -w /path/to/dir/ -i -t  ubuntu &lt;span class=&#34;hljs-built_in&#34;&gt;pwd&lt;/span&gt;&lt;br&gt;/path/to/dir&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;code&gt;-w&lt;/code&gt; 允许命令在给定的目录中执行，这里是 &lt;code&gt;/path/to/dir/&lt;/code&gt;。 如果路径不存在，则在容器内创建。&lt;/p&gt;
+&lt;h3 id=&#34;挂载卷-v-–read-only&#34;&gt;&lt;a href=&#34;#挂载卷-v-–read-only&#34; class=&#34;headerlink&#34; title=&#34;挂载卷 (-v, –read-only)&#34;&gt;&lt;/a&gt;挂载卷 (-v, –read-only)&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker  run  -v `&lt;span class=&#34;hljs-built_in&#34;&gt;pwd&lt;/span&gt;`:`&lt;span class=&#34;hljs-built_in&#34;&gt;pwd&lt;/span&gt;` -w `&lt;span class=&#34;hljs-built_in&#34;&gt;pwd&lt;/span&gt;` -i -t  ubuntu &lt;span class=&#34;hljs-built_in&#34;&gt;pwd&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 只读(ro)和读写(rw)权限&lt;/span&gt;&lt;br&gt;docker run -v &lt;span class=&#34;hljs-variable&#34;&gt;$PWD&lt;/span&gt;/web:var/www/html/web:ro&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;code&gt;-v&lt;/code&gt;标志将当前工作目录挂载到容器中。 &lt;code&gt;-w&lt;/code&gt; 让命令在当前工作目录中执行，方法是将工作目录更改为pwd返回的值。所以这个组合使用容器执行命令，但在当前工作目录中。&lt;/p&gt;
+&lt;h3 id=&#34;发布或者暴露端口-p-–expose&#34;&gt;&lt;a href=&#34;#发布或者暴露端口-p-–expose&#34; class=&#34;headerlink&#34; title=&#34;发布或者暴露端口 (-p, –expose)&#34;&gt;&lt;/a&gt;发布或者暴露端口 (-p, –expose)&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker run -p 127.0.0.1:80:8080/tcp ubuntu bash&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;这将容器的端口8080绑定到主机的127.0.0.1上的TCP端口80。还可以指定udp和sctp端口。&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker run --expose 80 ubuntu bash&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;这会暴露容器的端口80，而不会将端口发布到主机系统接口。&lt;/p&gt;
+&lt;h3 id=&#34;设置环境变量-e-–env-–env-file&#34;&gt;&lt;a href=&#34;#设置环境变量-e-–env-–env-file&#34; class=&#34;headerlink&#34; title=&#34;设置环境变量(-e, –env, –env-file)&#34;&gt;&lt;/a&gt;设置环境变量(-e, –env, –env-file)&lt;/h3&gt;&lt;p&gt;可以通过&lt;code&gt;-e, --env, --env-file&lt;/code&gt; 设置容器的环境变量：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker run -e MYVAR1 --&lt;span class=&#34;hljs-built_in&#34;&gt;env&lt;/span&gt; MYVAR2=foo --env-file ./env.list ubuntu bash&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;本地已经export的环境变量，可以不用&amp;#x3D;号和值：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;export&lt;/span&gt; VAR1=value1&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;export&lt;/span&gt; VAR2=value2&lt;br&gt;&lt;br&gt;$ docker run --&lt;span class=&#34;hljs-built_in&#34;&gt;env&lt;/span&gt; VAR1 --&lt;span class=&#34;hljs-built_in&#34;&gt;env&lt;/span&gt; VAR2 ubuntu &lt;span class=&#34;hljs-built_in&#34;&gt;env&lt;/span&gt; | grep VAR&lt;br&gt;VAR1=value1&lt;br&gt;VAR2=value2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;在容器上设置元数据-l-–label-–label-file&#34;&gt;&lt;a href=&#34;#在容器上设置元数据-l-–label-–label-file&#34; class=&#34;headerlink&#34; title=&#34;在容器上设置元数据(-l, –label, –label-file)&#34;&gt;&lt;/a&gt;在容器上设置元数据(-l, –label, –label-file)&lt;/h3&gt;&lt;p&gt;可以通过&lt;code&gt;-l, --label, --label-file&lt;/code&gt; 设置容器的label：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ docker run -l my-label --label com.example.foo=bar ubuntu bash&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;将容器连接到网络-–network&#34;&gt;&lt;a href=&#34;#将容器连接到网络-–network&#34; class=&#34;headerlink&#34; title=&#34;将容器连接到网络(–network)&#34;&gt;&lt;/a&gt;将容器连接到网络(–network)&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker run -itd --network=my-net busybox&lt;br&gt;docker run -itd --network=my-net --ip=10.10.9.75 busybox&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;也可以使用 &lt;code&gt;docker connect&lt;/code&gt; 命令&lt;/p&gt;
+&lt;h3 id=&#34;从容器挂载卷-–volumes-from&#34;&gt;&lt;a href=&#34;#从容器挂载卷-–volumes-from&#34; class=&#34;headerlink&#34; title=&#34;从容器挂载卷(–volumes-from)&#34;&gt;&lt;/a&gt;从容器挂载卷(–volumes-from)&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker run --volumes-from 777f7dc92da7 --volumes-from ba8c0c54f0f2:ro -i -t ubuntu &lt;span class=&#34;hljs-built_in&#34;&gt;pwd&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;☆-docker-start-x2F-stop-x2F-restart&#34;&gt;&lt;a href=&#34;#☆-docker-start-x2F-stop-x2F-restart&#34; class=&#34;headerlink&#34; title=&#34;☆ docker start&amp;#x2F;stop&amp;#x2F;restart&#34;&gt;&lt;/a&gt;☆ docker start&amp;#x2F;stop&amp;#x2F;restart&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker start&lt;/strong&gt; :启动一个或多个已经被停止的容器&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;docker stop&lt;/strong&gt; :停止一个运行中的容器&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;docker restart&lt;/strong&gt; :重启容器&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker start [OPTIONS] CONTAINER [CONTAINER...]&lt;br&gt;docker stop [OPTIONS] CONTAINER [CONTAINER...]&lt;br&gt;docker restart [OPTIONS] CONTAINER [CONTAINER...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;启动已被停止的容器myrunoob&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker start myrunoob&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;停止运行中的容器myrunoob&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker stop myrunoob&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;重启容器myrunoob&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker restart myrunoob&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;docker-kill&#34;&gt;&lt;a href=&#34;#docker-kill&#34; class=&#34;headerlink&#34; title=&#34;docker kill&#34;&gt;&lt;/a&gt;docker kill&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker kill&lt;/strong&gt; :杀掉一个运行中的容器。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker kill [OPTIONS] CONTAINER [CONTAINER...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-s&lt;/code&gt;:向容器发送一个信号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;杀掉运行中的容器“docker_ubuntu”&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;$ &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;docker &lt;span class=&#34;hljs-built_in&#34;&gt;kill&lt;/span&gt; -s KILL docker_ubuntu&lt;/span&gt;&lt;br&gt;docker_ubuntu&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;☆-docker-rm&#34;&gt;&lt;a href=&#34;#☆-docker-rm&#34; class=&#34;headerlink&#34; title=&#34;☆ docker rm&#34;&gt;&lt;/a&gt;☆ docker rm&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker rm ：&lt;/strong&gt;删除一个或多个容器。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker rm [OPTIONS] CONTAINER [CONTAINER...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-f&lt;/code&gt; :通过 SIGKILL 信号强制删除一个运行中的容器。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-l&lt;/code&gt;:移除容器间的网络连接，而非容器本身。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-v&lt;/code&gt;:删除与容器关联的卷。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;强制删除容器 db01、db02：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker rm -f db01 db02&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;移除容器 nginx01 对容器 db01 的连接，连接名 db：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker rm -l db &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;删除容器 nginx01, 并删除容器挂载的数据卷：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker rm -v nginx01&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;删除所有已经停止的容器：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker rm $(docker ps -a -q)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;docker-pause-x2F-unpause&#34;&gt;&lt;a href=&#34;#docker-pause-x2F-unpause&#34; class=&#34;headerlink&#34; title=&#34;docker pause&amp;#x2F;unpause&#34;&gt;&lt;/a&gt;docker pause&amp;#x2F;unpause&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker pause&lt;/strong&gt; :暂停容器中所有的进程。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;docker unpause&lt;/strong&gt; :恢复容器中所有的进程。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker pause CONTAINER [CONTAINER...]&lt;br&gt;docker unpause CONTAINER [CONTAINER...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;暂停数据库容器db01提供服务。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker pause db01&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;恢复数据库容器 db01 提供服务。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker unpause db01&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;docker-create&#34;&gt;&lt;a href=&#34;#docker-create&#34; class=&#34;headerlink&#34; title=&#34;docker create&#34;&gt;&lt;/a&gt;docker create&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker create ：&lt;/strong&gt;创建一个新的容器但不启动它&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker create [OPTIONS] IMAGE [COMMAND] [ARG...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;语法同 &lt;code&gt;docker run&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用docker镜像nginx:latest创建一个容器,并将容器命名为myrunoob&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker create  --name myrunoob  nginx:latest      &lt;br&gt;09b93464c2f75b7b69f83d56a9cfc23ceb50a48a9db7652ee4c27e3e2cb1961f&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;☆-docker-exec&#34;&gt;&lt;a href=&#34;#☆-docker-exec&#34; class=&#34;headerlink&#34; title=&#34;☆ docker exec&#34;&gt;&lt;/a&gt;☆ docker exec&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker exec ：&lt;/strong&gt;在运行的容器中执行命令&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;典型的使用, 在docker中运行&lt;code&gt;bash&lt;/code&gt;, 所使用的命令就是&lt;code&gt;docker exec -ti my_container /bin/bash&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker exec [OPTIONS] CONTAINER COMMAND [ARG...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-d&lt;/code&gt;:分离模式: 在后台运行&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-i&lt;/code&gt;:即使没有附加也保持STDIN 打开&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-t&lt;/code&gt;:分配一个伪终端&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在容器 mynginx 中以交互模式执行容器内 &amp;#x2F;root&amp;#x2F;runoob.sh 脚本:&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker exec -it mynginx /bin/sh /root/runoob.sh&lt;br&gt;http://www.runoob.com/&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;在容器 mynginx 中开启一个交互模式的终端:&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker exec -i -t  mynginx /bin/bash&lt;br&gt;root@b1a0703e41e7:/#&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;也可以通过 &lt;strong&gt;docker ps -a&lt;/strong&gt; 命令查看已经在运行的容器，然后使用容器 ID 进入容器。&lt;/p&gt;
+&lt;p&gt;查看已经在运行的容器 ID：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;docker ps -a&lt;/span&gt; &lt;br&gt;...&lt;br&gt;9df70f9a0714        openjdk             &amp;quot;/usercode/script.sh…&amp;quot; &lt;br&gt;...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;第一列的 9df70f9a0714 就是容器 ID。&lt;/p&gt;
+&lt;p&gt;通过 exec 命令对指定的容器执行 bash:&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;docker &lt;span class=&#34;hljs-built_in&#34;&gt;exec&lt;/span&gt; -it 9df70f9a0714 /bin/bash&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;↓-容器管理-container-↓&#34;&gt;&lt;a href=&#34;#↓-容器管理-container-↓&#34; class=&#34;headerlink&#34; title=&#34;↓ 容器管理 container ↓&#34;&gt;&lt;/a&gt;↓ 容器管理 container ↓&lt;/h2&gt;&lt;h2 id=&#34;☆-docker-ps&#34;&gt;&lt;a href=&#34;#☆-docker-ps&#34; class=&#34;headerlink&#34; title=&#34;☆ docker ps&#34;&gt;&lt;/a&gt;☆ docker ps&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker ps :&lt;/strong&gt; 列出容器&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;典型使用方法, 列出所有的容器(container), &lt;code&gt;docker ps -a&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker ps [OPTIONS]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-a&lt;/code&gt; :显示所有的容器，包括未运行的。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-f&lt;/code&gt; :根据条件过滤显示的内容。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--format&lt;/code&gt; :指定返回值的模板文件。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-l&lt;/code&gt;:显示最近创建的容器。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-n&lt;/code&gt;:列出最近创建的n个容器。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--no-trunc&lt;/code&gt; :不截断输出。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-q&lt;/code&gt; :静默模式，只显示容器编号。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-s&lt;/code&gt;:显示总的文件大小。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;列出所有在运行的容器信息。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker ps&lt;br&gt;CONTAINER ID   IMAGE          COMMAND                ...  PORTS                    NAMES&lt;br&gt;09b93464c2f7   nginx:latest   &amp;quot;nginx -g &amp;#x27;daemon off&amp;quot; ...  80/tcp, 443/tcp          myrunoob&lt;br&gt;96f7f14e99ab   mysql:5.6      &amp;quot;docker-entrypoint.sh&amp;quot; ...  0.0.0.0:3306-&amp;gt;3306/tcp   mymysql&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;输出详情介绍：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONTAINER ID:&lt;/strong&gt; 容器 ID。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IMAGE:&lt;/strong&gt; 使用的镜像。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;COMMAND:&lt;/strong&gt; 启动容器时运行的命令。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CREATED:&lt;/strong&gt; 容器的创建时间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;STATUS:&lt;/strong&gt; 容器状态。&lt;/p&gt;
+&lt;p&gt;状态有7种：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;created（已创建）&lt;/li&gt;
+&lt;li&gt;restarting（重启中）&lt;/li&gt;
+&lt;li&gt;running（运行中）&lt;/li&gt;
+&lt;li&gt;removing（迁移中）&lt;/li&gt;
+&lt;li&gt;paused（暂停）&lt;/li&gt;
+&lt;li&gt;exited（停止）&lt;/li&gt;
+&lt;li&gt;dead（死亡）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;PORTS:&lt;/strong&gt; 容器的端口信息和使用的连接类型（tcp\udp）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NAMES:&lt;/strong&gt; 自动分配的容器名称。&lt;/p&gt;
+&lt;p&gt;列出最近创建的5个容器信息。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker ps -n 5&lt;br&gt;CONTAINER ID        IMAGE               COMMAND                   CREATED           &lt;br&gt;09b93464c2f7        nginx:latest        &amp;quot;nginx -g &amp;#x27;daemon off&amp;quot;    2 days ago   ...     &lt;br&gt;b8573233d675        nginx:latest        &amp;quot;/bin/bash&amp;quot;               2 days ago   ...     &lt;br&gt;b1a0703e41e7        nginx:latest        &amp;quot;nginx -g &amp;#x27;daemon off&amp;quot;    2 days ago   ...    &lt;br&gt;f46fb1dec520        5c6e1090e771        &amp;quot;/bin/sh -c &amp;#x27;set -x \t&amp;quot;   2 days ago   ...   &lt;br&gt;a63b4a5597de        860c279d2fec        &amp;quot;bash&amp;quot;                    2 days ago   ...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;列出所有创建的容器ID。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker ps -a -q&lt;br&gt;09b93464c2f7&lt;br&gt;b8573233d675&lt;br&gt;b1a0703e41e7&lt;br&gt;f46fb1dec520&lt;br&gt;a63b4a5597de&lt;br&gt;6a4aa42e947b&lt;br&gt;de7bb36e7968&lt;br&gt;43a432b73776&lt;br&gt;664a8ab1a585&lt;br&gt;ba52eb632bbd&lt;br&gt;...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;docker-inspect-获取容器信息&#34;&gt;&lt;a href=&#34;#docker-inspect-获取容器信息&#34; class=&#34;headerlink&#34; title=&#34;docker inspect 获取容器信息&#34;&gt;&lt;/a&gt;docker inspect 获取容器信息&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker inspect :&lt;/strong&gt; 获取容器&amp;#x2F;镜像的元数据。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker inspect [OPTIONS] NAME|ID [NAME|ID...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-f&lt;/code&gt; :指定返回值的模板文件。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-s&lt;/code&gt;显示总的文件大小。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--type&lt;/code&gt;为指定类型返回JSON。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;获取镜像mysql:5.6的元信息。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker inspect mysql:5.6&lt;br&gt;[&lt;br&gt;    &amp;#123;&lt;br&gt;        &amp;quot;Id&amp;quot;: &amp;quot;sha256:2c0964ec182ae9a045f866bbc2553087f6e42bfc16074a74fb820af235f070ec&amp;quot;,&lt;br&gt;        &amp;quot;RepoTags&amp;quot;: [&lt;br&gt;            &amp;quot;mysql:5.6&amp;quot;&lt;br&gt;        ],&lt;br&gt;        &amp;quot;RepoDigests&amp;quot;: [],&lt;br&gt;        &amp;quot;Parent&amp;quot;: &amp;quot;&amp;quot;,&lt;br&gt;        &amp;quot;Comment&amp;quot;: &amp;quot;&amp;quot;,&lt;br&gt;        &amp;quot;Created&amp;quot;: &amp;quot;2016-05-24T04:01:41.168371815Z&amp;quot;,&lt;br&gt;        &amp;quot;Container&amp;quot;: &amp;quot;e0924bc460ff97787f34610115e9363e6363b30b8efa406e28eb495ab199ca54&amp;quot;,&lt;br&gt;        &amp;quot;ContainerConfig&amp;quot;: &amp;#123;&lt;br&gt;            &amp;quot;Hostname&amp;quot;: &amp;quot;b0cf605c7757&amp;quot;,&lt;br&gt;            &amp;quot;Domainname&amp;quot;: &amp;quot;&amp;quot;,&lt;br&gt;            &amp;quot;User&amp;quot;: &amp;quot;&amp;quot;,&lt;br&gt;            &amp;quot;AttachStdin&amp;quot;: false,&lt;br&gt;            &amp;quot;AttachStdout&amp;quot;: false,&lt;br&gt;            &amp;quot;AttachStderr&amp;quot;: false,&lt;br&gt;            &amp;quot;ExposedPorts&amp;quot;: &amp;#123;&lt;br&gt;                &amp;quot;3306/tcp&amp;quot;: &amp;#123;&amp;#125;&lt;br&gt;            &amp;#125;,&lt;br&gt;...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;获取正在运行的容器mymysql的 IP。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker inspect --format=&amp;#x27;&amp;#123;&amp;#123;range .NetworkSettings.Networks&amp;#125;&amp;#125;&amp;#123;&amp;#123;.IPAddress&amp;#125;&amp;#125;&amp;#123;&amp;#123;end&amp;#125;&amp;#125;&amp;#x27; mymysql&lt;br&gt;172.17.0.3&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;☆-docker-top-查看容器内进程信息&#34;&gt;&lt;a href=&#34;#☆-docker-top-查看容器内进程信息&#34; class=&#34;headerlink&#34; title=&#34;☆ docker top 查看容器内进程信息&#34;&gt;&lt;/a&gt;☆ docker top 查看容器内进程信息&lt;/h2&gt;&lt;p&gt;**docker top :**查看容器中运行的进程信息，支持 ps 命令参数。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker top [OPTIONS] CONTAINER [ps OPTIONS]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;容器运行时不一定有&amp;#x2F;bin&amp;#x2F;bash终端来交互执行top命令，而且容器还不一定有top命令，可以使用docker top来实现查看container中正在运行的进程。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;查看容器mymysql的进程信息。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~/mysql$ docker top mymysql&lt;br&gt;UID    PID    PPID    C      STIME   TTY  TIME       CMD&lt;br&gt;999    40347  40331   18     00:58   ?    00:00:02   mysqld&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;查看所有运行容器的进程信息。&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt;  `docker ps |grep Up|awk &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&amp;#123;print $1&amp;#125;&amp;#x27;&lt;/span&gt;`;&lt;span class=&#34;hljs-keyword&#34;&gt;do&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;echo&lt;/span&gt; \ &amp;amp;&amp;amp;docker top &lt;span class=&#34;hljs-variable&#34;&gt;$i&lt;/span&gt;; &lt;span class=&#34;hljs-keyword&#34;&gt;done&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;docker-attach-附着容器&#34;&gt;&lt;a href=&#34;#docker-attach-附着容器&#34; class=&#34;headerlink&#34; title=&#34;docker attach 附着容器&#34;&gt;&lt;/a&gt;docker attach 附着容器&lt;/h2&gt;&lt;p&gt;**docker attach :**附着到正在运行中的容器。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker attach [OPTIONS] CONTAINER&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;code&gt;--no-stdin=false&lt;/code&gt; 不连接标准输入&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;--sig-proxy=true&lt;/code&gt; 将所有信号传递给进程（非TTY模式时也一样）但不传送SIGCHLD、SIGKILL、SIGSTOP信号。经常使用的信号如下：&lt;/p&gt;
+&lt;h4 id=&#34;detach&#34;&gt;&lt;a href=&#34;#detach&#34; class=&#34;headerlink&#34; title=&#34;detach&#34;&gt;&lt;/a&gt;&lt;strong&gt;detach&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;要在不退出 shell 的情况下分离 tty，请使用转义序列&lt;code&gt;Ctrl+P&lt;/code&gt;后跟&lt;code&gt;Ctrl+ Q&lt;/code&gt;。更多细节&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/attach/&#34;&gt;在这里&lt;/a&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;docker run -t -i → 可以&lt;code&gt;^P^Q&lt;/code&gt;使用 docker attach 分离和重新附加&lt;/li&gt;
+&lt;li&gt;docker run -i → 不能用&lt;code&gt;^P^Q&lt;/code&gt;;分离 会破坏标准输入&lt;/li&gt;
+&lt;li&gt;docker run → 不能用&lt;code&gt;^P^Q&lt;/code&gt;;分离 可以 SIGKILL 客户端；可以使用 docker attach 重新附加&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;docker attach --sig-proxy=false&lt;/code&gt; 可以使用 &lt;code&gt;^C&lt;/code&gt;来进行detach, &lt;code&gt;CTRL+c&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;注意&#34;&gt;&lt;a href=&#34;#注意&#34; class=&#34;headerlink&#34; title=&#34;注意&#34;&gt;&lt;/a&gt;&lt;strong&gt;注意&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;要attach上去的容器必须正在运行，可以同时连接上同一个container来共享屏幕（与screen命令的attach类似）。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  官方文档中说attach后可以通过CTRL-C来detach，但实际上经过我的测试，如果container当前在运行bash，CTRL-C自然是当前行的输入，没有退出；如果container当前正在前台运行进程，如输出nginx的access.log日志，CTRL-C不仅会导致退出容器，而且还stop了。这不是我们想要的，detach的意思按理应该是脱离容器终端，但容器依然运行。好在attach是可以带上–sig-proxy&amp;#x3D;false来确保CTRL-D或CTRL-C不会关闭容器。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;容器mynginx将访问日志指到标准输出，连接到容器查看访问信息。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker attach --sig-proxy=false mynginx&lt;br&gt;192.168.239.1 - - [10/Jul/2016:16:54:26 +0000] &amp;quot;GET / HTTP/1.1&amp;quot; 304 0 &amp;quot;-&amp;quot; &amp;quot;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36&amp;quot; &amp;quot;-&amp;quot;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;docker-events&#34;&gt;&lt;a href=&#34;#docker-events&#34; class=&#34;headerlink&#34; title=&#34;docker events&#34;&gt;&lt;/a&gt;docker events&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker events :&lt;/strong&gt; 从服务器获取实时事件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker events [OPTIONS]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;-f ：&lt;/strong&gt;根据条件过滤事件；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;–since ：&lt;/strong&gt;从指定的时间戳后显示所有事件;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;–until ：&lt;/strong&gt;流水时间显示到指定的时间为止；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;显示docker 2016年7月1日后的所有事件。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~/mysql$ docker events  --since=&amp;quot;1467302400&amp;quot;&lt;br&gt;2016-07-08T19:44:54.501277677+08:00 network connect 66f958fd13dc4314ad20034e576d5c5eba72e0849dcc38ad9e8436314a4149d4 (container=b8573233d675705df8c89796a2c2687cd8e36e03646457a15fb51022db440e64, name=bridge, type=bridge)&lt;br&gt;2016-07-08T19:44:54.723876221+08:00 container start b8573233d675705df8c89796a2c2687cd8e36e03646457a15fb51022db440e64 (image=nginx:latest, name=elegant_albattani)&lt;br&gt;2016-07-08T19:44:54.726110498+08:00 container resize b8573233d675705df8c89796a2c2687cd8e36e03646457a15fb51022db440e64 (height=39, image=nginx:latest, name=elegant_albattani, width=167)&lt;br&gt;2016-07-08T19:46:22.137250899+08:00 container die b8573233d675705df8c89796a2c2687cd8e36e03646457a15fb51022db440e64 (exitCode=0, image=nginx:latest, name=elegant_albattani)&lt;br&gt;...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;显示docker 镜像为mysql:5.6 2016年7月1日后的相关事件。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~/mysql$ docker events -f &amp;quot;image&amp;quot;=&amp;quot;mysql:5.6&amp;quot; --since=&amp;quot;1467302400&amp;quot; &lt;br&gt;2016-07-11T00:38:53.975174837+08:00 container start 96f7f14e99ab9d2f60943a50be23035eda1623782cc5f930411bbea407a2bb10 (image=mysql:5.6, name=mymysql)&lt;br&gt;2016-07-11T00:51:17.022572452+08:00 container kill 96f7f14e99ab9d2f60943a50be23035eda1623782cc5f930411bbea407a2bb10 (image=mysql:5.6, name=mymysql, signal=9)&lt;br&gt;2016-07-11T00:51:17.132532080+08:00 container die 96f7f14e99ab9d2f60943a50be23035eda1623782cc5f930411bbea407a2bb10 (exitCode=137, image=mysql:5.6, name=mymysql)&lt;br&gt;2016-07-11T00:51:17.514661357+08:00 container destroy 96f7f14e99ab9d2f60943a50be23035eda1623782cc5f930411bbea407a2bb10 (image=mysql:5.6, name=mymysql)&lt;br&gt;2016-07-11T00:57:18.551984549+08:00 container create c8f0a32f12f5ec061d286af0b1285601a3e33a90a08ff1706de619ac823c345c (image=mysql:5.6, name=mymysql)&lt;br&gt;2016-07-11T00:57:18.557405864+08:00 container attach c8f0a32f12f5ec061d286af0b1285601a3e33a90a08ff1706de619ac823c345c (image=mysql:5.6, name=mymysql)&lt;br&gt;2016-07-11T00:57:18.844134112+08:00 container start c8f0a32f12f5ec061d286af0b1285601a3e33a90a08ff1706de619ac823c345c (image=mysql:5.6, name=mymysql)&lt;br&gt;2016-07-11T00:57:19.140141428+08:00 container die c8f0a32f12f5ec061d286af0b1285601a3e33a90a08ff1706de619ac823c345c (exitCode=1, image=mysql:5.6, name=mymysql)&lt;br&gt;2016-07-11T00:58:05.941019136+08:00 container destroy c8f0a32f12f5ec061d286af0b1285601a3e33a90a08ff1706de619ac823c345c (image=mysql:5.6, name=mymysql)&lt;br&gt;2016-07-11T00:58:07.965128417+08:00 container create a404c6c174a21c52f199cfce476e041074ab020453c7df2a13a7869b48f2f37e (image=mysql:5.6, name=mymysql)&lt;br&gt;2016-07-11T00:58:08.188734598+08:00 container start a404c6c174a21c52f199cfce476e041074ab020453c7df2a13a7869b48f2f37e (image=mysql:5.6, name=mymysql)&lt;br&gt;2016-07-11T00:58:20.010876777+08:00 container top a404c6c174a21c52f199cfce476e041074ab020453c7df2a13a7869b48f2f37e (image=mysql:5.6, name=mymysql)&lt;br&gt;2016-07-11T01:06:01.395365098+08:00 container top a404c6c174a21c52f199cfce476e041074ab020453c7df2a13a7869b48f2f37e (image=mysql:5.6, name=mymysql)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;如果指定的时间是到秒级的，需要将时间转成时间戳。如果时间为日期的话，可以直接使用，如–since&amp;#x3D;”2016-07-01”。&lt;/p&gt;
+&lt;h2 id=&#34;☆-docker-logs&#34;&gt;&lt;a href=&#34;#☆-docker-logs&#34; class=&#34;headerlink&#34; title=&#34;☆ docker logs&#34;&gt;&lt;/a&gt;☆ docker logs&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker logs :&lt;/strong&gt; 获取容器的日志&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker logs [OPTIONS] CONTAINER&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-f&lt;/code&gt; : 跟踪日志输出&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--since&lt;/code&gt;显示某个开始时间的所有日志&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-t&lt;/code&gt; 显示时间戳&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--tail&lt;/code&gt;仅列出最新N条容器日志&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;跟踪查看容器mynginx的日志输出。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker logs -f mynginx&lt;br&gt;192.168.239.1 - - [10/Jul/2016:16:53:33 +0000] &amp;quot;GET / HTTP/1.1&amp;quot; 200 612 &amp;quot;-&amp;quot; &amp;quot;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36&amp;quot; &amp;quot;-&amp;quot;&lt;br&gt;2016/07/10 16:53:33 [error] 5#5: *1 open() &amp;quot;/usr/share/nginx/html/favicon.ico&amp;quot; failed (2: No such file or directory), client: 192.168.239.1, server: localhost, request: &amp;quot;GET /favicon.ico HTTP/1.1&amp;quot;, host: &amp;quot;192.168.239.130&amp;quot;, referrer: &amp;quot;http://192.168.239.130/&amp;quot;&lt;br&gt;192.168.239.1 - - [10/Jul/2016:16:53:33 +0000] &amp;quot;GET /favicon.ico HTTP/1.1&amp;quot; 404 571 &amp;quot;http://192.168.239.130/&amp;quot; &amp;quot;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36&amp;quot; &amp;quot;-&amp;quot;&lt;br&gt;192.168.239.1 - - [10/Jul/2016:16:53:59 +0000] &amp;quot;GET / HTTP/1.1&amp;quot; 304 0 &amp;quot;-&amp;quot; &amp;quot;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36&amp;quot; &amp;quot;-&amp;quot;&lt;br&gt;...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;查看容器mynginx从2016年7月1日后的最新10条日志。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker logs --since=&amp;quot;2016-07-01&amp;quot; --tail=10 mynginx&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;docker-wait&#34;&gt;&lt;a href=&#34;#docker-wait&#34; class=&#34;headerlink&#34; title=&#34;docker wait&#34;&gt;&lt;/a&gt;docker wait&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker wait :&lt;/strong&gt; 阻塞运行直到容器停止，然后打印出它的退出代码。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker wait [OPTIONS] CONTAINER [CONTAINER...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker wait CONTAINER&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;docker-export-导出&#34;&gt;&lt;a href=&#34;#docker-export-导出&#34; class=&#34;headerlink&#34; title=&#34;docker export 导出&#34;&gt;&lt;/a&gt;docker export 导出&lt;/h2&gt;&lt;p&gt;**docker export :**将文件系统作为一个tar归档文件导出到STDOUT。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker export [OPTIONS] CONTAINER&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-o&lt;/code&gt;将输入内容写到文件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;将id为a404c6c174a2的容器按日期保存为tar文件。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker export -o mysql-`date +%Y%m%d`.tar a404c6c174a2&lt;br&gt;runoob@runoob:~$ ls mysql-`date +%Y%m%d`.tar&lt;br&gt;mysql-20160711.tar&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;docker-port&#34;&gt;&lt;a href=&#34;#docker-port&#34; class=&#34;headerlink&#34; title=&#34;docker port&#34;&gt;&lt;/a&gt;docker port&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker port :&lt;/strong&gt; 列出指定的容器的端口映射，或者查找将PRIVATE_PORT NAT到面向公众的端口。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker port [OPTIONS] CONTAINER [PRIVATE_PORT[/PROTO]]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;查看容器mynginx的端口映射情况。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker port mymysql&lt;br&gt;3306/tcp -&amp;gt; 0.0.0.0:3306&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;docker-stats-统计&#34;&gt;&lt;a href=&#34;#docker-stats-统计&#34; class=&#34;headerlink&#34; title=&#34;docker stats 统计&#34;&gt;&lt;/a&gt;docker stats 统计&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker stats :&lt;/strong&gt; 统计显示容器资源的使用情况，包括：CPU、内存、网络 I&amp;#x2F;O 等。&lt;/p&gt;
+&lt;p&gt;stats: abbr. 统计（statistics）；&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker stats [OPTIONS] [CONTAINER...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS 说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;--all , -a&lt;/code&gt; :显示所有的容器，包括未运行的。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;format&lt;/code&gt; :指定返回值的模板文件。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--no-stream&lt;/code&gt; :展示当前状态就直接退出了，不再实时更新。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--no-trunc&lt;/code&gt; :不截断输出。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;列出所有在运行的容器信息。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$  docker stats&lt;br&gt;CONTAINER ID        NAME                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS&lt;br&gt;b95a83497c91        awesome_brattain                        0.28%               5.629MiB / 1.952GiB   0.28%               916B / 0B           147kB / 0B          9&lt;br&gt;67b2525d8ad1        foobar                                  0.00%               1.727MiB / 1.952GiB   0.09%               2.48kB / 0B         4.11MB / 0B         2&lt;br&gt;e5c383697914        test-1951.1.kay7x1lh1twk9c0oig50sd5tr   0.00%               196KiB / 1.952GiB     0.01%               71.2kB / 0B         770kB / 0B          1&lt;br&gt;4bda148efbc0        random.1.vnc8on831idyr42slu578u3cr      0.00%               1.672MiB / 1.952GiB   0.08%               110kB / 0B          578kB / 0B          2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;输出详情介绍：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONTAINER ID 与 NAME:&lt;/strong&gt; 容器 ID 与名称。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CPU % 与 MEM %:&lt;/strong&gt; 容器使用的 CPU 和内存的百分比。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MEM USAGE &amp;#x2F; LIMIT:&lt;/strong&gt; 容器正在使用的总内存，以及允许使用的内存总量。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NET I&amp;#x2F;O:&lt;/strong&gt; 容器通过其网络接口发送和接收的数据量。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BLOCK I&amp;#x2F;O:&lt;/strong&gt; 容器从主机上的块设备读取和写入的数据量。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PIDs:&lt;/strong&gt; 容器创建的进程或线程数。&lt;/p&gt;
+&lt;p&gt;根据容器等 ID 或名称现实信息：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker stats awesome_brattain 67b2525d8ad1&lt;br&gt;&lt;br&gt;CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS&lt;br&gt;b95a83497c91        awesome_brattain    0.28%               5.629MiB / 1.952GiB   0.28%               916B / 0B           147kB / 0B          9&lt;br&gt;67b2525d8ad1        foobar              0.00%               1.727MiB / 1.952GiB   0.09%               2.48kB / 0B         4.11MB / 0B         2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;以 JSON 格式输出：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker stats nginx --no-stream --format &amp;quot;&amp;#123;&amp;#123; json . &amp;#125;&amp;#125;&amp;quot;&lt;br&gt;  &amp;#123;&amp;quot;BlockIO&amp;quot;:&amp;quot;0B / 13.3kB&amp;quot;,&amp;quot;CPUPerc&amp;quot;:&amp;quot;0.03%&amp;quot;,&amp;quot;Container&amp;quot;:&amp;quot;nginx&amp;quot;,&amp;quot;ID&amp;quot;:&amp;quot;ed37317fbf42&amp;quot;,&amp;quot;MemPerc&amp;quot;:&amp;quot;0.24%&amp;quot;,&amp;quot;MemUsage&amp;quot;:&amp;quot;2.352MiB / 982.5MiB&amp;quot;,&amp;quot;Name&amp;quot;:&amp;quot;nginx&amp;quot;,&amp;quot;NetIO&amp;quot;:&amp;quot;539kB / 606kB&amp;quot;,&amp;quot;PIDs&amp;quot;:&amp;quot;2&amp;quot;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;输出指定的信息：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker stats --all --format &amp;quot;table &amp;#123;&amp;#123;.Container&amp;#125;&amp;#125;\t&amp;#123;&amp;#123;.CPUPerc&amp;#125;&amp;#125;\t&amp;#123;&amp;#123;.MemUsage&amp;#125;&amp;#125;&amp;quot; fervent_panini 5acfcb1b4fd1 drunk_visvesvaraya big_heisenberg&lt;br&gt;  &amp;#123;&amp;quot;BlockIO&amp;quot;:&amp;quot;0B / 13.3kB&amp;quot;,&amp;quot;CPUPerc&amp;quot;:&amp;quot;0.03%&amp;quot;,&amp;quot;Container&amp;quot;:&amp;quot;nginx&amp;quot;,&amp;quot;ID&amp;quot;:&amp;quot;ed37317fbf42&amp;quot;,&amp;quot;MemPerc&amp;quot;:&amp;quot;0.24%&amp;quot;,&amp;quot;MemUsage&amp;quot;:&amp;quot;2.352MiB / 982.5MiB&amp;quot;,&amp;quot;Name&amp;quot;:&amp;quot;nginx&amp;quot;,&amp;quot;NetIO&amp;quot;:&amp;quot;539kB / 606kB&amp;quot;,&amp;quot;PIDs&amp;quot;:&amp;quot;2&amp;quot;&amp;#125;&lt;br&gt;&lt;br&gt;CONTAINER                CPU %               MEM USAGE / LIMIT&lt;br&gt;fervent_panini           0.00%               56KiB / 15.57GiB&lt;br&gt;5acfcb1b4fd1             0.07%               32.86MiB / 15.57GiB&lt;br&gt;drunk_visvesvaraya       0.00%               0B / 0B&lt;br&gt;big_heisenberg           0.00%               0B / 0B&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;↓-镜像管理-image-↓&#34;&gt;&lt;a href=&#34;#↓-镜像管理-image-↓&#34; class=&#34;headerlink&#34; title=&#34;↓ 镜像管理 image ↓&#34;&gt;&lt;/a&gt;↓ 镜像管理 image ↓&lt;/h2&gt;&lt;h2 id=&#34;Docker-commit&#34;&gt;&lt;a href=&#34;#Docker-commit&#34; class=&#34;headerlink&#34; title=&#34;Docker commit&#34;&gt;&lt;/a&gt;Docker commit&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://yeasy.gitbook.io/docker_practice/image/commit&#34;&gt;参考链接: 利用 commit 理解镜像构成&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;**docker commit :**从容器创建一个新的镜像。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  我们并不推荐使用这个命令构建image, 我们会推荐使用更加强大的Dockerfile来进行构建&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker commit [OPTIONS] CONTAINER [REPOSITORY[:TAG]]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-a&lt;/code&gt; :提交的镜像作者；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-c&lt;/code&gt;使用Dockerfile指令来创建镜像；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-m&lt;/code&gt;提交时的说明文字；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-p&lt;/code&gt; :在commit时，将容器暂停。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;将容器a404c6c174a2 保存为新的镜像,并添加提交人信息和说明信息。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker commit -a &amp;quot;runoob.com&amp;quot; -m &amp;quot;my apache&amp;quot; a404c6c174a2  mymysql:v1 &lt;br&gt;sha256:37af1236adef1544e8886be23010b66577647a40bc02c0885a6600b33ee28057&lt;br&gt;runoob@runoob:~$ docker images mymysql:v1&lt;br&gt;REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE&lt;br&gt;mymysql             v1                  37af1236adef        15 seconds ago      329 MB&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  &lt;strong&gt;&lt;code&gt;Docker commit&lt;/code&gt;释义&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  要知道，当我们运行一个容器的时候（如果不使用卷的话），我们做的任何文件修改都会被记录于容器存储层里。而 Docker 提供了一个 &lt;code&gt;docker commit&lt;/code&gt; 命令，可以将容器的存储层保存下来成为镜像。换句话说，就是在原有镜像的基础上，再叠加上容器的存储层，并构成新的镜像。以后我们运行这个新镜像的时候，就会拥有原有容器最后的文件变化。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;慎用 &lt;code&gt;docker commit&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  使用 &lt;code&gt;docker commit&lt;/code&gt; 命令虽然可以比较直观的帮助理解镜像分层存储的概念，但是实际环境中并不会这样使用。&lt;/p&gt;
+&lt;p&gt;  首先，如果仔细观察之前的 &lt;code&gt;docker diff webserver&lt;/code&gt; 的结果，你会发现除了真正想要修改的 &lt;code&gt;/usr/share/nginx/html/index.html&lt;/code&gt; 文件外，由于命令的执行，还有很多文件被改动或添加了。这还仅仅是最简单的操作，如果是安装软件包、编译构建，那会有大量的无关内容被添加进来，将会导致镜像极为臃肿。&lt;/p&gt;
+&lt;p&gt;  此外，使用 &lt;code&gt;docker commit&lt;/code&gt; 意味着所有对镜像的操作都是黑箱操作，生成的镜像也被称为 &lt;strong&gt;黑箱镜像&lt;/strong&gt;，换句话说，就是除了制作镜像的人知道执行过什么命令、怎么生成的镜像，别人根本无从得知。而且，即使是这个制作镜像的人，过一段时间后也无法记清具体的操作。这种黑箱镜像的维护工作是非常痛苦的。&lt;/p&gt;
+&lt;p&gt;  而且，回顾之前提及的镜像所使用的分层存储的概念，除当前层外，之前的每一层都是不会发生改变的，换句话说，任何修改的结果仅仅是在当前层进行标记、添加、修改，而不会改动上一层。如果使用 &lt;code&gt;docker commit&lt;/code&gt; 制作镜像，以及后期修改的话，每一次修改都会让镜像更加臃肿一次，所删除的上一层的东西并不会丢失，会一直如影随形的跟着这个镜像，即使根本无法访问到。这会让镜像更加臃肿。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;☆-docker-cp-Copy-Data&#34;&gt;&lt;a href=&#34;#☆-docker-cp-Copy-Data&#34; class=&#34;headerlink&#34; title=&#34;☆ docker cp (Copy Data)&#34;&gt;&lt;/a&gt;☆ docker cp (Copy Data)&lt;/h2&gt;&lt;p&gt;&lt;code&gt;docker cp&lt;/code&gt; :用于容器与主机之间的数据拷贝。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker cp [OPTIONS] CONTAINER:SRC_PATH DEST_PATH|-&lt;br&gt;docker cp [OPTIONS] SRC_PATH|- CONTAINER:DEST_PATH&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-L&lt;/code&gt;保持源目标中的链接&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;将主机&amp;#x2F;www&amp;#x2F;runoob目录拷贝到容器96f7f14e99ab的&amp;#x2F;www目录下。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker cp /www/runoob 96f7f14e99ab:/www/&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;将主机&amp;#x2F;www&amp;#x2F;runoob目录拷贝到容器96f7f14e99ab中，目录重命名为www。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker cp /www/runoob 96f7f14e99ab:/www&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;将容器96f7f14e99ab的&amp;#x2F;www目录拷贝到主机的&amp;#x2F;tmp目录中。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker cp  96f7f14e99ab:/www /tmp/&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;docker-diff&#34;&gt;&lt;a href=&#34;#docker-diff&#34; class=&#34;headerlink&#34; title=&#34;docker diff&#34;&gt;&lt;/a&gt;docker diff&lt;/h2&gt;&lt;p&gt;&lt;code&gt;docker diff&lt;/code&gt; : 检查容器里文件结构的更改。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker diff [OPTIONS] CONTAINER&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;查看容器mymysql的文件结构更改。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker diff mymysql&lt;br&gt;A /logs&lt;br&gt;A /mysql_data&lt;br&gt;C /run&lt;br&gt;C /run/mysqld&lt;br&gt;A /run/mysqld/mysqld.pid&lt;br&gt;A /run/mysqld/mysqld.sock&lt;br&gt;C /tmp&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;↓-镜像仓库管理-↓&#34;&gt;&lt;a href=&#34;#↓-镜像仓库管理-↓&#34; class=&#34;headerlink&#34; title=&#34;↓ 镜像仓库管理 ↓&#34;&gt;&lt;/a&gt;↓ 镜像仓库管理 ↓&lt;/h2&gt;&lt;h2 id=&#34;docker-login-x2F-logout&#34;&gt;&lt;a href=&#34;#docker-login-x2F-logout&#34; class=&#34;headerlink&#34; title=&#34;docker login&amp;#x2F;logout&#34;&gt;&lt;/a&gt;docker login&amp;#x2F;logout&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker login :&lt;/strong&gt; 登陆到一个Docker镜像仓库，如果未指定镜像仓库地址，默认为官方仓库 Docker Hub&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;docker logout :&lt;/strong&gt; 登出一个Docker镜像仓库，如果未指定镜像仓库地址，默认为官方仓库 Docker Hub&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker login [OPTIONS] [SERVER]&lt;br&gt;docker logout [OPTIONS] [SERVER]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-u&lt;/code&gt; :登陆的用户名&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-p&lt;/code&gt; :登陆的密码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;登陆到Docker Hub&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker login -u 用户名 -p 密码&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;登出Docker Hub&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker logout&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;docker-pull&#34;&gt;&lt;a href=&#34;#docker-pull&#34; class=&#34;headerlink&#34; title=&#34;docker pull&#34;&gt;&lt;/a&gt;docker pull&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker pull :&lt;/strong&gt; 从镜像仓库中拉取或者更新指定镜像&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker pull [OPTIONS] NAME[:TAG|@DIGEST]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-a&lt;/code&gt; :拉取所有 tagged 镜像&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;--disable-content-trust&lt;/code&gt;忽略镜像的校验,默认开启&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从Docker Hub下载java最新版镜像。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker pull java&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;从Docker Hub下载REPOSITORY为java的所有镜像。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker pull -a java&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;docker-push&#34;&gt;&lt;a href=&#34;#docker-push&#34; class=&#34;headerlink&#34; title=&#34;docker push&#34;&gt;&lt;/a&gt;docker push&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker push :&lt;/strong&gt; 将本地的镜像上传到镜像仓库,要先登陆到镜像仓库&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker push [OPTIONS] NAME[:TAG]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;--disable-content-trust&lt;/code&gt; :忽略镜像的校验,默认开启&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上传本地镜像myapache:v1到镜像仓库中。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker push myapache:v1&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;☆-docker-search&#34;&gt;&lt;a href=&#34;#☆-docker-search&#34; class=&#34;headerlink&#34; title=&#34;☆ docker search&#34;&gt;&lt;/a&gt;☆ docker search&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker search :&lt;/strong&gt; 从Docker Hub查找镜像&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker search [OPTIONS] TERM&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;--automated&lt;/code&gt; :只列出 automated build类型的镜像；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--no-trunc&lt;/code&gt; :显示完整的镜像描述；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-f &amp;lt;过滤条件&amp;gt;&lt;/code&gt;:列出收藏数不小于指定值的镜像。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从 Docker Hub 查找所有镜像名包含 java，并且收藏数大于 10 的镜像&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker search -f stars=10 java&lt;br&gt;NAME                  DESCRIPTION                           STARS   OFFICIAL   AUTOMATED&lt;br&gt;java                  Java is a concurrent, class-based...   1037    [OK]       &lt;br&gt;anapsix/alpine-java   Oracle Java 8 (and 7) with GLIBC ...   115                [OK]&lt;br&gt;develar/java                                                 46                 [OK]&lt;br&gt;isuper/java-oracle    This repository contains all java...   38                 [OK]&lt;br&gt;lwieske/java-8        Oracle Java 8 Container - Full + ...   27                 [OK]&lt;br&gt;nimmis/java-centos    This is docker images of CentOS 7...   13                 [OK]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;参数说明：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NAME:&lt;/strong&gt; 镜像仓库源的名称&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DESCRIPTION:&lt;/strong&gt; 镜像的描述&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OFFICIAL:&lt;/strong&gt; 是否 docker 官方发布&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;stars:&lt;/strong&gt; 类似 Github 里面的 star，表示点赞、喜欢的意思。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AUTOMATED:&lt;/strong&gt; 自动构建。&lt;/p&gt;
+&lt;h2 id=&#34;↓-本地镜像管理-↓&#34;&gt;&lt;a href=&#34;#↓-本地镜像管理-↓&#34; class=&#34;headerlink&#34; title=&#34;↓ 本地镜像管理 ↓&#34;&gt;&lt;/a&gt;↓ 本地镜像管理 ↓&lt;/h2&gt;&lt;h2 id=&#34;☆-docker-images&#34;&gt;&lt;a href=&#34;#☆-docker-images&#34; class=&#34;headerlink&#34; title=&#34;☆ docker images&#34;&gt;&lt;/a&gt;☆ docker images&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker images :&lt;/strong&gt; 列出本地镜像。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker images [OPTIONS] [REPOSITORY[:TAG]]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-a&lt;/code&gt; :列出本地所有的镜像（含中间映像层，默认情况下，过滤掉中间映像层）；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;--digests&lt;/code&gt; :显示镜像的摘要信息；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-f&lt;/code&gt; :显示满足条件的镜像；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;--format&lt;/code&gt; :指定返回值的模板文件；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;--no-trunc&lt;/code&gt; :显示完整的镜像信息；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-q&lt;/code&gt; :只显示镜像ID。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;查看本地镜像列表。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker images&lt;br&gt;REPOSITORY              TAG                 IMAGE ID            CREATED             SIZE&lt;br&gt;mymysql                 v1                  37af1236adef        5 minutes ago       329 MB&lt;br&gt;runoob/ubuntu           v4                  1c06aa18edee        2 days ago          142.1 MB&lt;br&gt;&amp;lt;none&amp;gt;                  &amp;lt;none&amp;gt;              5c6e1090e771        2 days ago          165.9 MB&lt;br&gt;httpd                   latest              ed38aaffef30        11 days ago         195.1 MB&lt;br&gt;alpine                  latest              4e38e38c8ce0        2 weeks ago         4.799 MB&lt;br&gt;mongo                   3.2                 282fd552add6        3 weeks ago         336.1 MB&lt;br&gt;redis                   latest              4465e4bcad80        3 weeks ago         185.7 MB&lt;br&gt;php                     5.6-fpm             025041cd3aa5        3 weeks ago         456.3 MB&lt;br&gt;python                  3.5                 045767ddf24a        3 weeks ago         684.1 MB&lt;br&gt;...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;列出本地镜像中REPOSITORY为ubuntu的镜像列表。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;root@runoob:~# docker images  ubuntu&lt;br&gt;REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE&lt;br&gt;ubuntu              14.04               90d5884b1ee0        9 weeks ago         188 MB&lt;br&gt;ubuntu              15.10               4e3b13c8a266        3 months ago        136.3 MB&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;docker-rmi&#34;&gt;&lt;a href=&#34;#docker-rmi&#34; class=&#34;headerlink&#34; title=&#34;docker rmi&#34;&gt;&lt;/a&gt;docker rmi&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker rmi :&lt;/strong&gt; 删除本地一个或多个镜像。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker rmi [OPTIONS] IMAGE [IMAGE...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-f&lt;/code&gt; :强制删除；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;--no-prune&lt;/code&gt;不移除该镜像的过程镜像，默认移除；&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;强制删除本地镜像 runoob&amp;#x2F;ubuntu:v4。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;root@runoob:~# docker rmi -f runoob/ubuntu:v4&lt;br&gt;Untagged: runoob/ubuntu:v4&lt;br&gt;Deleted: sha256:1c06aa18edee44230f93a90a7d88139235de12cd4c089d41eed8419b503072be&lt;br&gt;Deleted: sha256:85feb446e89a28d58ee7d80ea5ce367eebb7cec70f0ec18aa4faa874cbd97c73&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;docker-tag&#34;&gt;&lt;a href=&#34;#docker-tag&#34; class=&#34;headerlink&#34; title=&#34;docker tag&#34;&gt;&lt;/a&gt;docker tag&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker tag :&lt;/strong&gt; 标记本地镜像，将其归入某一仓库。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker tag [OPTIONS] IMAGE[:TAG] [REGISTRYHOST/][USERNAME/]NAME[:TAG]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;将镜像ubuntu:15.10标记为 runoob&amp;#x2F;ubuntu:v3 镜像。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;root@runoob:~# docker tag ubuntu:15.10 runoob/ubuntu:v3&lt;br&gt;root@runoob:~# docker images   runoob/ubuntu:v3&lt;br&gt;REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE&lt;br&gt;runoob/ubuntu       v3                  4e3b13c8a266        3 months ago        136.3 MB&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;☆-docker-build&#34;&gt;&lt;a href=&#34;#☆-docker-build&#34; class=&#34;headerlink&#34; title=&#34;☆ docker build&#34;&gt;&lt;/a&gt;☆ docker build&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker build&lt;/strong&gt; 命令用于使用 Dockerfile 创建镜像。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker build [OPTIONS] PATH | URL | -&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;--build-arg=[]&lt;/code&gt;设置镜像创建时的变量；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--cpu-shares&lt;/code&gt;设置 cpu 使用权重；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--cpu-period&lt;/code&gt;限制 CPU CFS周期；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--cpu-quota&lt;/code&gt;限制 CPU CFS配额；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--cpuset-cpus&lt;/code&gt;指定使用的CPU id；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--cpuset-mems&lt;/code&gt;指定使用的内存 id；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--disable-content-trust&lt;/code&gt;忽略校验，默认开启；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-f&lt;/code&gt; :指定要使用的Dockerfile路径；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--force-rm&lt;/code&gt;设置镜像过程中删除中间容器；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--isolation&lt;/code&gt;使用容器隔离技术；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--label=[]&lt;/code&gt;设置镜像使用的元数据；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-m&lt;/code&gt;设置内存最大值；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--memory-swap&lt;/code&gt;:设置Swap的最大值为内存+swap，”-1”表示不限swap；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--no-cache&lt;/code&gt;:创建镜像的过程不使用缓存；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--pull&lt;/code&gt;:尝试去更新镜像的新版本；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--quiet, -q&lt;/code&gt;:安静模式，成功后只输出镜像 ID；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--rm&lt;/code&gt;:设置镜像成功后删除中间容器；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--shm-size&lt;/code&gt;:设置&amp;#x2F;dev&amp;#x2F;shm的大小，默认值是64M；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--ulimit&lt;/code&gt;:Ulimit配置。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--squash&lt;/code&gt;:将 Dockerfile 中所有的操作压缩为一层。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;–tag, -t:&lt;/strong&gt; 镜像的名字及标签，通常 name:tag 或者 name 格式；可以在一次构建中为一个镜像设置多个标签。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;–network:&lt;/strong&gt; 默认 default。在构建期间设置RUN指令的网络模式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用当前目录的 Dockerfile 创建镜像，标签为 runoob&amp;#x2F;ubuntu:v1。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker build -t runoob/ubuntu:v1 . &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;使用URL &lt;strong&gt;github.com&amp;#x2F;creack&amp;#x2F;docker-firefox&lt;/strong&gt; 的 Dockerfile 创建镜像。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker build github.com/creack/docker-firefox&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;也可以通过 -f Dockerfile 文件的位置：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;$ &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;docker build -f /path/to/a/Dockerfile .&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;在 Docker 守护进程执行 Dockerfile 中的指令前，首先会对 Dockerfile 进行语法检查，有语法错误时会返回：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;$ &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;docker build -t &lt;span class=&#34;hljs-built_in&#34;&gt;test&lt;/span&gt;/myapp .&lt;/span&gt;&lt;br&gt;Sending build context to Docker daemon 2.048 kB&lt;br&gt;Error response from daemon: Unknown instruction: RUNCMD&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h2 id=&#34;docker-history&#34;&gt;&lt;a href=&#34;#docker-history&#34; class=&#34;headerlink&#34; title=&#34;docker history&#34;&gt;&lt;/a&gt;docker history&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker history :&lt;/strong&gt; 查看指定镜像的创建历史。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker history [OPTIONS] IMAGE&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-H&lt;/code&gt;:以可读的格式打印镜像大小和日期，默认为true；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;--no-trunc&lt;/code&gt; :显示完整的提交记录；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-q&lt;/code&gt; :仅列出提交记录ID。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;查看本地镜像runoob&amp;#x2F;ubuntu:v3的创建历史。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;root@runoob:~# docker history runoob/ubuntu:v3&lt;br&gt;IMAGE             CREATED           CREATED BY                                      SIZE      COMMENT&lt;br&gt;4e3b13c8a266      3 months ago      /bin/sh -c #(nop) CMD [&amp;quot;/bin/bash&amp;quot;]             0 B                 &lt;br&gt;&amp;lt;missing&amp;gt;         3 months ago      /bin/sh -c sed -i &amp;#x27;s/^#\s*\(deb.*universe\)$/   1.863 kB            &lt;br&gt;&amp;lt;missing&amp;gt;         3 months ago      /bin/sh -c set -xe   &amp;amp;&amp;amp; echo &amp;#x27;#!/bin/sh&amp;#x27; &amp;gt; /u   701 B               &lt;br&gt;&amp;lt;missing&amp;gt;         3 months ago      /bin/sh -c #(nop) ADD file:43cb048516c6b80f22   136.3 MB&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;docker-save&#34;&gt;&lt;a href=&#34;#docker-save&#34; class=&#34;headerlink&#34; title=&#34;docker save&#34;&gt;&lt;/a&gt;docker save&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker save :&lt;/strong&gt; 将指定镜像保存成 tar 归档文件。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker save [OPTIONS] IMAGE [IMAGE...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS 说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-o&lt;/code&gt;:输出到的文件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;将镜像 runoob&amp;#x2F;ubuntu:v3 生成 my_ubuntu_v3.tar 文档&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker save -o my_ubuntu_v3.tar runoob/ubuntu:v3&lt;br&gt;runoob@runoob:~$ ll my_ubuntu_v3.tar&lt;br&gt;-rw------- 1 runoob runoob 142102016 Jul 11 01:37 my_ubuntu_v3.ta&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;docker-load&#34;&gt;&lt;a href=&#34;#docker-load&#34; class=&#34;headerlink&#34; title=&#34;docker load&#34;&gt;&lt;/a&gt;docker load&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker load :&lt;/strong&gt; 导入使用 &lt;a href=&#34;https://www.runoob.com/docker/docker-save-command.html&#34;&gt;docker save&lt;/a&gt; 命令导出的镜像。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker load [OPTIONS]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS 说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;--input , -i&lt;/code&gt;: 指定导入的文件，代替 STDIN。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;--quiet , -q&lt;/code&gt;: 精简输出信息。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;导入镜像：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;$ &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;docker image &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;$ &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;docker load &amp;lt; busybox.tar.gz&lt;/span&gt;&lt;br&gt;&lt;br&gt;Loaded image: busybox:latest&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;$ &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;docker images&lt;/span&gt;&lt;br&gt;REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE&lt;br&gt;busybox             latest              769b9341d937        7 weeks ago         2.489 MB&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;$ &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;docker load --input fedora.tar&lt;/span&gt;&lt;br&gt;&lt;br&gt;Loaded image: fedora:rawhide&lt;br&gt;&lt;br&gt;Loaded image: fedora:20&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;$ &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;docker images&lt;/span&gt;&lt;br&gt;&lt;br&gt;REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE&lt;br&gt;busybox             latest              769b9341d937        7 weeks ago         2.489 MB&lt;br&gt;fedora              rawhide             0d20aec6529d        7 weeks ago         387 MB&lt;br&gt;fedora              20                  58394af37342        7 weeks ago         385.5 MB&lt;br&gt;fedora              heisenbug           58394af37342        7 weeks ago         385.5 MB&lt;br&gt;fedora              latest              58394af37342        7 weeks ago         385.5 MB&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;docker-import&#34;&gt;&lt;a href=&#34;#docker-import&#34; class=&#34;headerlink&#34; title=&#34;docker import&#34;&gt;&lt;/a&gt;docker import&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;docker import :&lt;/strong&gt; 从归档文件中创建镜像。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker import [OPTIONS] file|URL|- [REPOSITORY[:TAG]]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;OPTIONS说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-c&lt;/code&gt;:应用docker 指令创建镜像；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;-m&lt;/code&gt;:提交时的说明文字；&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从镜像归档文件my_ubuntu_v3.tar创建镜像，命名为runoob&amp;#x2F;ubuntu:v4&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;runoob@runoob:~$ docker import  my_ubuntu_v3.tar runoob/ubuntu:v4  &lt;br&gt;sha256:63ce4a6d6bc3fabb95dbd6c561404a309b7bdfc4e21c1d59fe9fe4299cbfea39&lt;br&gt;runoob@runoob:~$ docker images runoob/ubuntu:v4&lt;br&gt;REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE&lt;br&gt;runoob/ubuntu       v4                  63ce4a6d6bc3        20 seconds ago      142.1 MB&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;docker-info&#34;&gt;&lt;a href=&#34;#docker-info&#34; class=&#34;headerlink&#34; title=&#34;docker info&#34;&gt;&lt;/a&gt;docker info&lt;/h2&gt;&lt;p&gt;&lt;code&gt;docker info&lt;/code&gt; : 显示 Docker 信息，主机详细系统信息，镜像和容器信息。&lt;/p&gt;
+&lt;h2 id=&#34;docker-version&#34;&gt;&lt;a href=&#34;#docker-version&#34; class=&#34;headerlink&#34; title=&#34;docker version&#34;&gt;&lt;/a&gt;docker version&lt;/h2&gt;&lt;p&gt;&lt;code&gt;docker version&lt;/code&gt; :显示 Docker 版本信息。&lt;/p&gt;
+&lt;h1 id=&#34;Dockerfile的使用&#34;&gt;&lt;a href=&#34;#Dockerfile的使用&#34; class=&#34;headerlink&#34; title=&#34;Dockerfile的使用&#34;&gt;&lt;/a&gt;Dockerfile的使用&lt;/h1&gt;&lt;h3 id=&#34;什么是-Dockerfile？&#34;&gt;&lt;a href=&#34;#什么是-Dockerfile？&#34; class=&#34;headerlink&#34; title=&#34;什么是 Dockerfile？&#34;&gt;&lt;/a&gt;什么是 Dockerfile？&lt;/h3&gt;&lt;p&gt;Dockerfile 是一个用来构建镜像的文本文件，文本内容包含了一条条构建镜像所需的指令和说明。&lt;/p&gt;
+&lt;h2 id=&#34;构建环境&#34;&gt;&lt;a href=&#34;#构建环境&#34; class=&#34;headerlink&#34; title=&#34;构建环境&#34;&gt;&lt;/a&gt;构建环境&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;❯ mkdir web_docker&lt;br&gt;❯ cd web_docker&lt;br&gt;❯ touch Dockerfile&lt;br&gt;❯ tree .. -f&lt;br&gt;..&lt;br&gt;└── ../web_docker&lt;br&gt;    └── ../web_docker/Dockerfile&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;在上面的命令中, 我们创建了 &lt;code&gt;web_docker&lt;/code&gt;文件夹, &lt;code&gt;web_docker&lt;/code&gt;文件夹就是我们的构建环境(build environment), docker称此环境为上下文(context)，或者构建上下文(context), docker会在构建镜像时构建上下文和该上下文中的文件和目录，上传到docker守护进程，这样docker守护进程就能直接访问你想在镜像中存储的任何代码文件和其他数据。&lt;/p&gt;
+&lt;h2 id=&#34;dockerfile-示例&#34;&gt;&lt;a href=&#34;#dockerfile-示例&#34; class=&#34;headerlink&#34; title=&#34;dockerfile 示例&#34;&gt;&lt;/a&gt;dockerfile 示例&lt;/h2&gt;&lt;figure class=&#34;highlight dockerfile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dockerfile&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# version 0.0.1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;FROM&lt;/span&gt; ubuntu:&lt;span class=&#34;hljs-number&#34;&gt;14.04&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;MAINTAINER&lt;/span&gt; James Turnbull &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;james@example.com&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;ENV&lt;/span&gt; REFRESHED_AT &lt;span class=&#34;hljs-number&#34;&gt;2014&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;06&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;01&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;RUN&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; apt-get update&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;RUN&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; apt-get -y -q install nginx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;RUN&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Hi i am in you container&amp;#x27;&lt;/span&gt; &amp;gt; /usr/share/nginx/html/index.html&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;EXPOSE&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;80&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  Dockerfile也支持注释, 使用#开头就是注释了&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;指令详解&#34;&gt;&lt;a href=&#34;#指令详解&#34; class=&#34;headerlink&#34; title=&#34;指令详解&#34;&gt;&lt;/a&gt;指令详解&lt;/h2&gt;&lt;h3 id=&#34;FROM&#34;&gt;&lt;a href=&#34;#FROM&#34; class=&#34;headerlink&#34; title=&#34;FROM&#34;&gt;&lt;/a&gt;FROM&lt;/h3&gt;&lt;p&gt;构建镜像基于哪个镜像&lt;/p&gt;
+&lt;h3 id=&#34;MANTAINER&#34;&gt;&lt;a href=&#34;#MANTAINER&#34; class=&#34;headerlink&#34; title=&#34;MANTAINER&#34;&gt;&lt;/a&gt;MANTAINER&lt;/h3&gt;&lt;p&gt;镜像维护者 姓名 邮箱地址&lt;/p&gt;
+&lt;h3 id=&#34;RUN&#34;&gt;&lt;a href=&#34;#RUN&#34; class=&#34;headerlink&#34; title=&#34;RUN&#34;&gt;&lt;/a&gt;RUN&lt;/h3&gt;&lt;p&gt;用于执行后面跟着的命令行命令。有以下俩种格式：&lt;/p&gt;
+&lt;p&gt;shell 格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;RUN &amp;lt;命令行命令&amp;gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&amp;lt;命令行命令&amp;gt; 等同于，在终端操作的 shell 命令。&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;exec 格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;RUN [&amp;quot;可执行文件&amp;quot;, &amp;quot;参数1&amp;quot;, &amp;quot;参数2&amp;quot;]&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;例如：&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;RUN [&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;./test.php&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;dev&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;offline&amp;quot;&lt;/span&gt;] 等价于 RUN ./test.php dev offline&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;COPY&#34;&gt;&lt;a href=&#34;#COPY&#34; class=&#34;headerlink&#34; title=&#34;COPY&#34;&gt;&lt;/a&gt;COPY&lt;/h3&gt;&lt;p&gt;复制指令，从上下文目录中复制文件或者目录到容器里指定路径。&lt;/p&gt;
+&lt;p&gt;格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs xml&#34;&gt;COPY [--chown=&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;user&lt;/span&gt;&amp;gt;&lt;/span&gt;:&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;group&lt;/span&gt;&amp;gt;&lt;/span&gt;] &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;源路径1&lt;/span&gt;&amp;gt;&lt;/span&gt;...  &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;目标路径&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;COPY [--chown=&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;user&lt;/span&gt;&amp;gt;&lt;/span&gt;:&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;group&lt;/span&gt;&amp;gt;&lt;/span&gt;] [&amp;quot;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;源路径1&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;quot;,...  &amp;quot;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;目标路径&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;quot;]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;**[–chown&amp;#x3D;&lt;user&gt;:&lt;group&gt;]**：可选参数，用户改变复制到容器内文件的拥有者和属组。&lt;/p&gt;
+&lt;p&gt;**&amp;lt;源路径&amp;gt;**：源文件或者源目录，这里可以是通配符表达式，其通配符规则要满足 Go 的 filepath.Match 规则。例如：&lt;/p&gt;
+&lt;figure class=&#34;highlight gradle&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs gradle&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;COPY&lt;/span&gt; hom* &lt;span class=&#34;hljs-regexp&#34;&gt;/mydir/&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;COPY&lt;/span&gt; hom?.txt &lt;span class=&#34;hljs-regexp&#34;&gt;/mydir/&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;**&amp;lt;目标路径&amp;gt;**：容器内的指定路径，该路径不用事先建好，路径不存在的话，会自动创建。&lt;/p&gt;
+&lt;h3 id=&#34;ADD&#34;&gt;&lt;a href=&#34;#ADD&#34; class=&#34;headerlink&#34; title=&#34;ADD&#34;&gt;&lt;/a&gt;ADD&lt;/h3&gt;&lt;p&gt;ADD 指令和 COPY 的使用格类似（同样需求下，官方推荐使用 COPY）。功能也类似，不同之处如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ADD 的优点：在执行 &amp;lt;源文件&amp;gt; 为 tar 压缩文件的话，压缩格式为 gzip, bzip2 以及 xz 的情况下，会自动复制并解压到 &amp;lt;目标路径&amp;gt;。&lt;/li&gt;
+&lt;li&gt;ADD 的缺点：在不解压的前提下，无法复制 tar 压缩文件。会令镜像构建缓存失效，从而可能会令镜像构建变得比较缓慢。具体是否使用，可以根据是否需要自动解压来决定。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;CMD&#34;&gt;&lt;a href=&#34;#CMD&#34; class=&#34;headerlink&#34; title=&#34;CMD&#34;&gt;&lt;/a&gt;CMD&lt;/h3&gt;&lt;p&gt;类似于 RUN 指令，用于运行程序，但二者运行的时间点不同:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CMD 在docker run 时运行。&lt;/li&gt;
+&lt;li&gt;RUN 是在 docker build。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;作用&lt;/strong&gt;：为启动的容器指定默认要运行的程序，程序运行结束，容器也就结束。CMD 指令指定的程序可被 docker run 命令行参数中指定要运行的程序所覆盖。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：如果 Dockerfile 中如果存在多个 CMD 指令，仅最后一个生效。&lt;/p&gt;
+&lt;p&gt;格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight dockerfile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dockerfile&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;CMD&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; &amp;lt;shell 命令&amp;gt; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;CMD&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; [&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&amp;lt;可执行文件或命令&amp;gt;&amp;quot;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&amp;lt;param1&amp;gt;&amp;quot;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&amp;lt;param2&amp;gt;&amp;quot;&lt;/span&gt;,...] &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;CMD&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; [&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&amp;lt;param1&amp;gt;&amp;quot;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&amp;lt;param2&amp;gt;&amp;quot;&lt;/span&gt;,...]  &lt;span class=&#34;hljs-comment&#34;&gt;# 该写法是为 ENTRYPOINT 指令指定的程序提供默认参数&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;推荐使用第二种格式，执行过程比较明确。第一种格式实际上在运行的过程中也会自动转换成第二种格式运行，并且默认可执行文件是 sh。&lt;/p&gt;
+&lt;h3 id=&#34;ENTRYPOINT&#34;&gt;&lt;a href=&#34;#ENTRYPOINT&#34; class=&#34;headerlink&#34; title=&#34;ENTRYPOINT&#34;&gt;&lt;/a&gt;ENTRYPOINT&lt;/h3&gt;&lt;p&gt;类似于 CMD 指令，但其不会被 docker run 的命令行参数指定的指令所覆盖，而且这些命令行参数会被当作参数送给 ENTRYPOINT 指令指定的程序。&lt;/p&gt;
+&lt;p&gt;但是, 如果运行 docker run 时使用了 –entrypoint 选项，将覆盖 ENTRYPOINT 指令指定的程序。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优点&lt;/strong&gt;：在执行 docker run 的时候可以指定 ENTRYPOINT 运行所需的参数。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：如果 Dockerfile 中如果存在多个 ENTRYPOINT 指令，仅最后一个生效。&lt;/p&gt;
+&lt;p&gt;格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs css&#34;&gt;ENTRYPOINT &lt;span class=&#34;hljs-selector-attr&#34;&gt;[&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&amp;lt;executeable&amp;gt;&amp;quot;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&amp;lt;param1&amp;gt;&amp;quot;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&amp;lt;param2&amp;gt;&amp;quot;&lt;/span&gt;,...]&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;可以搭配 CMD 命令使用：一般是变参才会使用 CMD ，这里的 CMD 等于是在给 ENTRYPOINT 传参，以下示例会提到。&lt;/p&gt;
+&lt;p&gt;示例：&lt;/p&gt;
+&lt;p&gt;假设已通过 Dockerfile 构建了 nginx:test 镜像：&lt;/p&gt;
+&lt;figure class=&#34;highlight dockerfile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dockerfile&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;FROM&lt;/span&gt; nginx&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;ENTRYPOINT&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; [&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;nginx&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;-c&amp;quot;&lt;/span&gt;] &lt;span class=&#34;hljs-comment&#34;&gt;# 定参&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;CMD&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; [&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;/etc/nginx/nginx.conf&amp;quot;&lt;/span&gt;] &lt;span class=&#34;hljs-comment&#34;&gt;# 变参 &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;1、不传参运行&lt;/p&gt;
+&lt;figure class=&#34;highlight dockerfile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dockerfile&#34;&gt;$ docker &lt;span class=&#34;hljs-keyword&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;  nginx:&lt;span class=&#34;hljs-built_in&#34;&gt;test&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;容器内会默认运行以下命令，启动主进程。&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;nginx -c &lt;span class=&#34;hljs-regexp&#34;&gt;/etc/&lt;/span&gt;nginx/nginx.conf&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;2、传参运行&lt;/p&gt;
+&lt;figure class=&#34;highlight dockerfile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dockerfile&#34;&gt;$ docker &lt;span class=&#34;hljs-keyword&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;  nginx:&lt;span class=&#34;hljs-built_in&#34;&gt;test&lt;/span&gt; -c /etc/nginx/new.conf&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;容器内会默认运行以下命令，启动主进程(&amp;#x2F;etc&amp;#x2F;nginx&amp;#x2F;new.conf:假设容器内已有此文件)&lt;/p&gt;
+&lt;figure class=&#34;highlight gradle&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs gradle&#34;&gt;nginx -c &lt;span class=&#34;hljs-regexp&#34;&gt;/etc/&lt;/span&gt;nginx/&lt;span class=&#34;hljs-keyword&#34;&gt;new&lt;/span&gt;.conf&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;ENV&#34;&gt;&lt;a href=&#34;#ENV&#34; class=&#34;headerlink&#34; title=&#34;ENV&#34;&gt;&lt;/a&gt;ENV&lt;/h3&gt;&lt;p&gt;设置环境变量，定义了环境变量，那么在后续的指令中，就可以使用这个环境变量。&lt;/p&gt;
+&lt;p&gt;格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs xml&#34;&gt;ENV &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;key&lt;/span&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;value&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;ENV &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;key1&lt;/span&gt;&amp;gt;&lt;/span&gt;=&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;value1&lt;/span&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;key2&lt;/span&gt;&amp;gt;&lt;/span&gt;=&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;value2&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;以下示例设置 NODE_VERSION &amp;#x3D; 7.2.0 ， 在后续的指令中可以通过 $NODE_VERSION 引用：&lt;/p&gt;
+&lt;figure class=&#34;highlight dockerfile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dockerfile&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;ENV&lt;/span&gt; NODE_VERSION &lt;span class=&#34;hljs-number&#34;&gt;7.2&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;RUN&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; curl -SLO &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://nodejs.org/dist/v&lt;span class=&#34;hljs-variable&#34;&gt;$NODE_VERSION&lt;/span&gt;/node-v&lt;span class=&#34;hljs-variable&#34;&gt;$NODE_VERSION&lt;/span&gt;-linux-x64.tar.xz&amp;quot;&lt;/span&gt; \&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-bash&#34;&gt;  &amp;amp;&amp;amp; curl -SLO &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://nodejs.org/dist/v&lt;span class=&#34;hljs-variable&#34;&gt;$NODE_VERSION&lt;/span&gt;/SHASUMS256.txt.asc&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;ARG&#34;&gt;&lt;a href=&#34;#ARG&#34; class=&#34;headerlink&#34; title=&#34;ARG&#34;&gt;&lt;/a&gt;ARG&lt;/h3&gt;&lt;p&gt;构建参数，与 ENV 作用一致。不过作用域不一样。ARG 设置的环境变量仅对 Dockerfile 内有效，也就是说只有 docker build 的过程中有效，构建好的镜像内不存在此环境变量。&lt;/p&gt;
+&lt;p&gt;构建命令 docker build 中可以用 –build-arg &amp;lt;参数名&amp;gt;&amp;#x3D;&amp;lt;值&amp;gt; 来覆盖。&lt;/p&gt;
+&lt;p&gt;格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs xml&#34;&gt;ARG &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;参数名&lt;/span&gt;&amp;gt;&lt;/span&gt;[=&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;默认值&lt;/span&gt;&amp;gt;&lt;/span&gt;]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;VOLUME&#34;&gt;&lt;a href=&#34;#VOLUME&#34; class=&#34;headerlink&#34; title=&#34;VOLUME&#34;&gt;&lt;/a&gt;VOLUME&lt;/h3&gt;&lt;p&gt;定义匿名数据卷。在启动容器时忘记挂载数据卷，会自动挂载到匿名卷。&lt;/p&gt;
+&lt;p&gt;作用：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;避免重要的数据，因容器重启而丢失，这是非常致命的。&lt;/li&gt;
+&lt;li&gt;避免容器不断变大。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight dockerfile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dockerfile&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;VOLUME&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; [&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&amp;lt;路径1&amp;gt;&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&amp;lt;路径2&amp;gt;&amp;quot;&lt;/span&gt;...]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;VOLUME&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; &amp;lt;路径&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;在启动容器 docker run 的时候，我们可以通过 -v 参数修改挂载点。&lt;/p&gt;
+&lt;h3 id=&#34;EXPOSE&#34;&gt;&lt;a href=&#34;#EXPOSE&#34; class=&#34;headerlink&#34; title=&#34;EXPOSE&#34;&gt;&lt;/a&gt;EXPOSE&lt;/h3&gt;&lt;p&gt;仅仅只是声明端口。&lt;/p&gt;
+&lt;p&gt;作用：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;帮助镜像使用者理解这个镜像服务的守护端口，以方便配置映射。&lt;/li&gt;
+&lt;li&gt;在运行时使用随机端口映射时，也就是 docker run -P 时，会自动随机映射 EXPOSE 的端口。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs apache&#34;&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;EXPOSE&lt;/span&gt; &amp;lt;端口&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&amp;gt;&lt;span class=&#34;hljs-meta&#34;&gt; [&amp;lt;端口2&amp;gt;...]&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;WORKDIR&#34;&gt;&lt;a href=&#34;#WORKDIR&#34; class=&#34;headerlink&#34; title=&#34;WORKDIR&#34;&gt;&lt;/a&gt;WORKDIR&lt;/h3&gt;&lt;p&gt;指定工作目录。用 WORKDIR 指定的工作目录，会在构建镜像的每一层中都存在。以后各层的当前目录就被改为指定的目录，如该目录不存在，WORKDIR 会帮你建立目录。&lt;/p&gt;
+&lt;p&gt;docker build 构建镜像过程中的，每一个 RUN 命令都是新建的一层。只有通过 WORKDIR 创建的目录才会一直存在。&lt;/p&gt;
+&lt;p&gt;格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs xml&#34;&gt;WORKDIR &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;工作目录路径&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;USER&#34;&gt;&lt;a href=&#34;#USER&#34; class=&#34;headerlink&#34; title=&#34;USER&#34;&gt;&lt;/a&gt;USER&lt;/h3&gt;&lt;p&gt;用于指定执行后续命令的用户和用户组，这边只是切换后续命令执行的用户（用户和用户组必须提前已经存在）。&lt;/p&gt;
+&lt;p&gt;格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs xml&#34;&gt;USER &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;用户名&lt;/span&gt;&amp;gt;&lt;/span&gt;[:&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;用户组&lt;/span&gt;&amp;gt;&lt;/span&gt;]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;HEALTHCHECK&#34;&gt;&lt;a href=&#34;#HEALTHCHECK&#34; class=&#34;headerlink&#34; title=&#34;HEALTHCHECK&#34;&gt;&lt;/a&gt;HEALTHCHECK&lt;/h3&gt;&lt;p&gt;用于指定某个程序或者指令来监控 docker 容器服务的运行状态。&lt;/p&gt;
+&lt;p&gt;格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight dos&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dos&#34;&gt;HEALTHCHECK [选项] &lt;span class=&#34;hljs-built_in&#34;&gt;CMD&lt;/span&gt; &amp;lt;命令&amp;gt;：设置检查容器健康状况的命令&lt;br&gt;HEALTHCHECK NONE：如果基础镜像有健康检查指令，使用这行可以屏蔽掉其健康检查指令&lt;br&gt;&lt;br&gt;HEALTHCHECK [选项] &lt;span class=&#34;hljs-built_in&#34;&gt;CMD&lt;/span&gt; &amp;lt;命令&amp;gt; : 这边 &lt;span class=&#34;hljs-built_in&#34;&gt;CMD&lt;/span&gt; 后面跟随的命令使用，可以参考 &lt;span class=&#34;hljs-built_in&#34;&gt;CMD&lt;/span&gt; 的用法。&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;ONBUILD&#34;&gt;&lt;a href=&#34;#ONBUILD&#34; class=&#34;headerlink&#34; title=&#34;ONBUILD&#34;&gt;&lt;/a&gt;ONBUILD&lt;/h3&gt;&lt;p&gt;用于延迟构建命令的执行。简单的说，就是 Dockerfile 里用 ONBUILD 指定的命令，在本次构建镜像的过程中不会执行（假设镜像为 test-build）。当有新的 Dockerfile 使用了之前构建的镜像 FROM test-build ，这时执行新镜像的 Dockerfile 构建时候，会执行 test-build 的 Dockerfile 里的 ONBUILD 指定的命令。&lt;/p&gt;
+&lt;p&gt;格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs xml&#34;&gt;ONBUILD &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;其它指令&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;LABEL&#34;&gt;&lt;a href=&#34;#LABEL&#34; class=&#34;headerlink&#34; title=&#34;LABEL&#34;&gt;&lt;/a&gt;LABEL&lt;/h3&gt;&lt;p&gt;LABEL 指令用来给镜像添加一些元数据（metadata），以键值对的形式，语法格式如下：&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs xml&#34;&gt;LABEL &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;key&lt;/span&gt;&amp;gt;&lt;/span&gt;=&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;value&lt;/span&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;key&lt;/span&gt;&amp;gt;&lt;/span&gt;=&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;value&lt;/span&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;key&lt;/span&gt;&amp;gt;&lt;/span&gt;=&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;value&lt;/span&gt;&amp;gt;&lt;/span&gt; ...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;比如我们可以添加镜像的作者：&lt;/p&gt;
+&lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;LABEL org&lt;span class=&#34;hljs-selector-class&#34;&gt;.opencontainers&lt;/span&gt;&lt;span class=&#34;hljs-selector-class&#34;&gt;.image&lt;/span&gt;.authors=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;runoob&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h1 id=&#34;Docker-Hub&#34;&gt;&lt;a href=&#34;#Docker-Hub&#34; class=&#34;headerlink&#34; title=&#34;Docker Hub&#34;&gt;&lt;/a&gt;Docker Hub&lt;/h1&gt; ]]></description>
+        </item>
+    </channel>
+</rss>

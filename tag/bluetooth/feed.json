@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"bluetooth\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2020/95869d00/",
+            "url": "https://www.oikiou.top/2020/95869d00/",
+            "title": "Bluetooth蓝牙",
+            "date_published": "2020-08-08T00:08:08.000Z",
+            "content_html": "<h1 id=\"蓝牙分类\"><a href=\"#蓝牙分类\" class=\"headerlink\" title=\"蓝牙分类\"></a>蓝牙分类</h1><pre><code class=\" mermaid\">graph LR\n\nBluetooth_3.0 --&gt;BR\nBluetooth_3.0 --&gt;EDR\nBluetooth_3.0 --&gt;AMP_HS\n\n</code></pre>\n<pre><code class=\" mermaid\">graph LR\n\nBluetooth_4.0 --&gt;BR\nBluetooth_4.0 --&gt;EDR\nBluetooth_4.0 --&gt;AMP_HS\nBluetooth_4.0 --&gt;LE\n\n</code></pre>\n\n<p>只有一种蓝牙即 Bluetooth SIG。</p>\n<p>但是蓝牙技术本身包括四种类型：BR、EDR、AMP 和 LE。</p>\n<p>为了方便，人们将以前的 BR&#x2F;EDR&#x2F;AMP 技术称为“经典蓝牙”（BT）技术。</p>\n<p>LE也即低功耗蓝牙BLE。</p>\n<h1 id=\"SPP\"><a href=\"#SPP\" class=\"headerlink\" title=\"SPP\"></a>SPP</h1><p>SPP（Serial Port Profile）串口</p>\n",
+            "tags": [
+                "embedded",
+                "bluetooth",
+                "蓝牙"
+            ]
+        }
+    ]
+}

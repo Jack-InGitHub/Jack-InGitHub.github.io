@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;typora&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2022-07-15T09:23:05.000Z</updated>
+    <category term="embedded" />
+    <category term="note" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="ms-dos" />
+    <category term="windows" />
+    <category term="c" />
+    <category term="c/c++" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="c++" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="sscanf" />
+    <category term="hex" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="osi" />
+    <category term="markdown" />
+    <category term="md5" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="makefile" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="机智云" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="ct117e-ex" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="life" />
+    <category term="workflow" />
+    <category term="人生" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="cad" />
+    <category term="心理学" />
+    <category term="cat_drive" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="synology" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="j-link" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="jlink" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="tmux" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="cortex-a7" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="cortex-m3" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <category term="rtx" />
+    <category term="rtos" />
+    <category term="keil" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="modbus" />
+    <category term="ucos" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="pwm" />
+    <category term="rt-thread" />
+    <category term="ap" />
+    <category term="wifi" />
+    <entry>
+        <id>https://www.oikiou.top/2022/77d62815/</id>
+        <title>Typora强制升级解决办法</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/77d62815/"/>
+        <content type="html">&lt;h1 id=&#34;问题描述&#34;&gt;&lt;a href=&#34;#问题描述&#34; class=&#34;headerlink&#34; title=&#34;问题描述&#34;&gt;&lt;/a&gt;问题描述&lt;/h1&gt;&lt;p&gt;This beta version of Typora is expired, please download and install a newer version.&lt;/p&gt;
+&lt;p&gt;解决typora强制升级问题&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This beta version of Typora is expired, please download and install a newer version.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;网上一堆的什么改时间改文件只读的办法都不太行, &lt;/p&gt;
+&lt;p&gt;最后找到了改&lt;code&gt;buildtime&lt;/code&gt;的办法成功解决了这个问题, &lt;/p&gt;
+&lt;p&gt;有能力的请支持正版.&lt;/p&gt;
+&lt;p&gt;测试环境是 &lt;code&gt;typora:0.11.18&lt;/code&gt; 成功&lt;/p&gt;
+&lt;h1 id=&#34;详细&#34;&gt;&lt;a href=&#34;#详细&#34; class=&#34;headerlink&#34; title=&#34;详细&#34;&gt;&lt;/a&gt;详细&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.52pojie.cn/thread-1646214-1-1.html&#34;&gt;https://www.52pojie.cn/thread-1646214-1-1.html&lt;/a&gt; (这里可以找到需要换掉的&lt;code&gt;app.asar&lt;/code&gt;文件)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.51cto.com/liangdongchang/5357264&#34;&gt;https://blog.51cto.com/liangdongchang/5357264&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;最简单的操作就是用破解&lt;code&gt;app.asar&lt;/code&gt;文件替换掉原来的文件&lt;/p&gt;
+&lt;p&gt;注意备份, 替换 &lt;code&gt;C:\Program Files\Typora\resources\app.asar&lt;/code&gt;即可&lt;/p&gt;
+&lt;h1 id=&#34;鸣谢&#34;&gt;&lt;a href=&#34;#鸣谢&#34; class=&#34;headerlink&#34; title=&#34;鸣谢&#34;&gt;&lt;/a&gt;鸣谢&lt;/h1&gt;&lt;p&gt;感谢先驱&lt;br&gt;&lt;a href=&#34;https://github.com/fossabot/typoraCracker&#34;&gt;https://github.com/fossabot/typoraCracker&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="typora" />
+        <updated>2022-07-15T09:23:05.000Z</updated>
+    </entry>
+</feed>

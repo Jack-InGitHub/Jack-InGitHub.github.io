@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;s&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 01 Nov 2022 22:57:15 +0800</pubDate>
+        <lastBuildDate>Tue, 01 Nov 2022 22:57:15 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/6fb71d96/</guid>
+            <title>单位换算</title>
+            <link>https://www.oikiou.top/2022/6fb71d96/</link>
+            <category>unit</category>
+            <category>m</category>
+            <category>cm</category>
+            <category>mm</category>
+            <category>s</category>
+            <category>us</category>
+            <pubDate>Tue, 01 Nov 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;单位换算&#34;&gt;&lt;a href=&#34;#单位换算&#34; class=&#34;headerlink&#34; title=&#34;单位换算&#34;&gt;&lt;/a&gt;单位换算&lt;/h1&gt;&lt;h1 id=&#34;长度&#34;&gt;&lt;a href=&#34;#长度&#34; class=&#34;headerlink&#34; title=&#34;长度&#34;&gt;&lt;/a&gt;长度&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;★ -----------------&lt;/span&gt;&lt;br&gt;1 km = 1000 m&lt;br&gt;1 m  = 100  cm&lt;br&gt;1 cm = 10   mm&lt;br&gt;1 mm = 1000 um&lt;br&gt;&lt;br&gt;1    inch = 2.54 cm&lt;br&gt;1/10 inch = 2.54 mm&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;--------------------&lt;/span&gt;&lt;br&gt;1 km = 1000 m&lt;br&gt;1 m  = 10   dm&lt;br&gt;1 dm = 10   cm&lt;br&gt;1 cm = 10   mm&lt;br&gt;1 m  = 1000 mm&lt;br&gt;1 mm = 1000 um&lt;br&gt;1 um = 1000 nm&lt;br&gt;1 nm = 1000 pm &lt;br&gt;1 pm = 1000 fm&lt;br&gt;1 fm = 1000 am&lt;br&gt;...&lt;br&gt;1 inch              = 2.54 cm&lt;br&gt;1 cm                = 0.3937008 inch&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-bash&#34;&gt;1 海里(nautical mile) = 1852 m = 1.852 km&lt;/span&gt;&lt;br&gt;1 km                = 0.5399568 海里(nautical mile)&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;英制长度单位&lt;/span&gt;&lt;br&gt;1 英里(mile)          = 1.609344 km&lt;br&gt;1 km                = 0.6213712 英里(mile)&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;天文学长度单位&lt;/span&gt;&lt;br&gt;1 光年                = 9.4653×10^12 km&lt;br&gt;1 天文单位 ≈ 1.496亿 千米&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;我国传统的长度单位&lt;/span&gt;&lt;br&gt;1 km                = 2 里&lt;br&gt;1 里                 = 150 丈 = 500 米&lt;br&gt;1 丈                 = 10尺&lt;br&gt;1 丈                 = 3.33米&lt;br&gt;1 尺                 = 3.33分米&lt;br&gt;1 m                 = 0.3 丈 = 3 尺 = 30 寸&lt;br&gt;1 cm                = 3 分 = 30 厘&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;时间单位&#34;&gt;&lt;a href=&#34;#时间单位&#34; class=&#34;headerlink&#34; title=&#34;时间单位&#34;&gt;&lt;/a&gt;时间单位&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;★ -----------------&lt;/span&gt;&lt;br&gt;1 s  = 1000 ms&lt;br&gt;1 ms = 1000 us&lt;br&gt;1 us = 1000 ns&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;   -----------------&lt;/span&gt;&lt;br&gt;1 minute = 60 s&lt;br&gt;1 s  = 1000 ms&lt;br&gt;1 ms = 1000 us&lt;br&gt;1 us = 1000 ns&lt;br&gt;1 ns = 1000 ps&lt;br&gt;&lt;br&gt;100年      = 1世纪&lt;br&gt;365.25天   = 1年&lt;br&gt;1平太阳日     = 24小时3分56.555秒&lt;br&gt;1恒星日      = 23小时56分4.091秒&lt;br&gt;1太阳年(回归年) = 365.2422天(= 365天5小时48分46秒)&lt;br&gt;1恒星年      = 365.2564天(= 365天6小时9分9.5秒)&lt;br&gt;1朔望月      = 29.5306天&lt;br&gt;1恒星月      = 27.3712天&lt;br&gt;1太阳年      = 12个朔望日 = 354.36天&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;速度&#34;&gt;&lt;a href=&#34;#速度&#34; class=&#34;headerlink&#34; title=&#34;速度&#34;&gt;&lt;/a&gt;速度&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;★ -----------------&lt;/span&gt;&lt;br&gt;1 m/s  = 3.6 km/h&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;   -----------------&lt;/span&gt;&lt;br&gt;1 mph  = 1.609344 km/h&lt;br&gt;1 km/h = 0.6213712 mph&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;温度&#34;&gt;&lt;a href=&#34;#温度&#34; class=&#34;headerlink&#34; title=&#34;温度&#34;&gt;&lt;/a&gt;温度&lt;/h1&gt;&lt;p&gt;$$&lt;br&gt;℉ &amp;#x3D; ℃ * (9&amp;#x2F;5) + 32&lt;br&gt;$$&lt;/p&gt;
+&lt;p&gt;$$&lt;br&gt;℃ &amp;#x3D; (℉ - 32)*(5&amp;#x2F;9)&lt;br&gt;$$&lt;/p&gt;
+&lt;p&gt;$$&lt;br&gt;K &amp;#x3D; ℃ + 273.15&lt;br&gt;$$&lt;/p&gt;
+&lt;p&gt;$$&lt;br&gt;℃ &amp;#x3D; K - 273.15&lt;br&gt;$$&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;25 ℃ = 298.15 K = 77 F&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h1 id=&#34;电容单位&#34;&gt;&lt;a href=&#34;#电容单位&#34; class=&#34;headerlink&#34; title=&#34;电容单位&#34;&gt;&lt;/a&gt;电容单位&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;br&gt;1 F  = 1000 mF&lt;br&gt;1 mF = 1000 uF&lt;br&gt;1 uF = 1000 nF&lt;br&gt;1 nF = 1000 pF&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&#34;/2022/6fb71d96/tutorials068_001_zh.gif&#34; alt=&#34;C&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数值中的&lt;code&gt;R&lt;/code&gt;代表小数点&lt;code&gt;.&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;标示&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;电阻&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;电容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;电感&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;120&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12Ω&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12pF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12μH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;122&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1.2kΩ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1.2nF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1.2mH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;124&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;120kΩ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;120nF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;120mH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;126&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12MΩ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12μF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12H&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;R15&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.15Ω&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.15pF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.15μH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1R5&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1.5Ω&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1.5pF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1.5μH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;误差符号&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;误差&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ｆ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;±1％&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ｇ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;±2％&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ｊ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;±5％&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ｋ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;±10％&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ｍ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;±20％&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ｚ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;80%,－20%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

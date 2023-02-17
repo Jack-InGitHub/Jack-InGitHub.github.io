@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;usart&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2020-08-08T00:08:08.000Z</updated>
+    <category term="embedded" />
+    <category term="note" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="ms-dos" />
+    <category term="windows" />
+    <category term="c" />
+    <category term="c/c++" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="c++" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="sscanf" />
+    <category term="hex" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="osi" />
+    <category term="markdown" />
+    <category term="md5" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="makefile" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="机智云" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="ct117e-ex" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="life" />
+    <category term="workflow" />
+    <category term="人生" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="cad" />
+    <category term="心理学" />
+    <category term="cat_drive" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="synology" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="j-link" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="jlink" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="tmux" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="cortex-a7" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="cortex-m3" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <category term="rtx" />
+    <category term="rtos" />
+    <category term="keil" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="modbus" />
+    <category term="ucos" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="pwm" />
+    <category term="rt-thread" />
+    <category term="ap" />
+    <category term="wifi" />
+    <entry>
+        <id>https://www.oikiou.top/2020/3b631eba/</id>
+        <title>USART硬件流控制</title>
+        <link rel="alternate" href="https://www.oikiou.top/2020/3b631eba/"/>
+        <content type="html">&lt;h1 id=&#34;USART硬件流控制&#34;&gt;&lt;a href=&#34;#USART硬件流控制&#34; class=&#34;headerlink&#34; title=&#34;USART硬件流控制&#34;&gt;&lt;/a&gt;USART硬件流控制&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/2020/3b631eba/SouthEast.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;RS232 	DB9定义&lt;/p&gt;
+&lt;p&gt;1 CD ← Carrier Detect 载波检测&lt;/p&gt;
+&lt;p&gt;2 RXD ← Receive Data 接收数据&lt;/p&gt;
+&lt;p&gt;3 TXD → Transmit Data 发送数据&lt;/p&gt;
+&lt;p&gt;4 &lt;strong&gt;DTR → Data Terminal Ready数据终端就绪&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;5 GND — System Ground 系统接地&lt;/p&gt;
+&lt;p&gt;6 DSR ← Data Set Ready 数据设备就绪&lt;/p&gt;
+&lt;p&gt;7 &lt;strong&gt;RTS → Request To Send 请求发送&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8 CTS ← Clear To Send 清除发送(允许发送)&lt;/p&gt;
+&lt;p&gt;9 RI → 振铃指示&lt;/p&gt;
+&lt;h2 id=&#34;RTS-CTS&#34;&gt;&lt;a href=&#34;#RTS-CTS&#34; class=&#34;headerlink&#34; title=&#34;RTS CTS&#34;&gt;&lt;/a&gt;RTS CTS&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;RTS （Require ToSend，发送请求）为输出信号，用于指示本设备准备好可接收数据，低电平有效，低电平说明本设备可以接收数据。&lt;/li&gt;
+&lt;li&gt;CTS （Clear ToSend，发送允许）为输入信号，用于判断是否可以向对方发送数据，低电平有效，低电平说明本设备可以向对方发送数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;DTR-DSR&#34;&gt;&lt;a href=&#34;#DTR-DSR&#34; class=&#34;headerlink&#34; title=&#34;DTR DSR&#34;&gt;&lt;/a&gt;DTR DSR&lt;/h2&gt;</content>
+        <category term="usart" />
+        <category term="rts" />
+        <category term="cts" />
+        <category term="dtr" />
+        <category term="dsr" />
+        <updated>2020-08-08T00:08:08.000Z</updated>
+    </entry>
+</feed>

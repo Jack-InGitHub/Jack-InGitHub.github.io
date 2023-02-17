@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"workflow\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2022/a1ed3941/",
+            "url": "https://www.oikiou.top/2022/a1ed3941/",
+            "title": "我的工作法",
+            "date_published": "2022-09-19T12:54:03.000Z",
+            "content_html": "<h1 id=\"我的工作法\"><a href=\"#我的工作法\" class=\"headerlink\" title=\"我的工作法\"></a>我的工作法</h1><p><a href=\"https://unknwon.cn/2021/211013-boring-methodology-to-be-productive/\">高效工作法的朴素方法论 -By无闻</a></p>\n<p><a href=\"https://zhuanlan.zhihu.com/p/42694082\">逗总出品：GTD最全面教程，从入门到精通</a></p>\n<h1 id=\"出来玩最重要的是出来\"><a href=\"#出来玩最重要的是出来\" class=\"headerlink\" title=\"出来玩最重要的是出来\"></a>出来玩最重要的是出来</h1><p>不管今天一天做什么惊天地的大事, 第一步都是先起床.</p>\n<h2 id=\"花三分钟安排一天\"><a href=\"#花三分钟安排一天\" class=\"headerlink\" title=\"花三分钟安排一天\"></a>花三分钟安排一天</h2><p>每天开始，先梳理一遍今日视图里的所有任务</p>\n<p>梳理任务的关键在于对于自己实际的产出效率和可用时间上的正确评判</p>\n<h2 id=\"创造仪式感\"><a href=\"#创造仪式感\" class=\"headerlink\" title=\"创造仪式感\"></a>创造仪式感</h2><p>有的人喜欢喝咖啡, 比如倒好一杯咖啡之后就放下手机, 避免去接触任何和当前手上事务不相关的内容(放下手机并让它远离自己).</p>\n<h1 id=\"推送通知是互联网时代的毒药\"><a href=\"#推送通知是互联网时代的毒药\" class=\"headerlink\" title=\"推送通知是互联网时代的毒药\"></a>推送通知是互联网时代的毒药</h1><p>我注意到推送通知经常会带给人们焦虑的情绪，尤其是工作上的，我对此也深恶痛绝。</p>\n<ul>\n<li>在工作时间(专注的时间)关掉它们(尤其是手机), 别让他们打断你的工作节奏</li>\n</ul>\n<h1 id=\"异步沟通是健康的协作方式\"><a href=\"#异步沟通是健康的协作方式\" class=\"headerlink\" title=\"异步沟通是健康的协作方式\"></a>异步沟通是健康的协作方式</h1><p>实时沟通会打断各自的计划, 能够以异步沟通完成的事, 千万不要去同步沟通.  </p>\n<p>马斯克同样推崇异步沟通</p>\n<p><a href=\"https://www.youtube.com/watch?v=kLscv2VAQEE\">https://www.youtube.com/watch?v=kLscv2VAQEE</a></p>\n<h1 id=\"给自己放个假\"><a href=\"#给自己放个假\" class=\"headerlink\" title=\"给自己放个假\"></a>给自己放个假</h1><p>软件类属创造性工作，而人类大脑又是世界上最复杂、最精密的仪器。</p>\n<p>超时长工作并不会使得大脑变得更具创造性，因为每个机械师都知道零部件需要定期检查和维护。</p>\n<p><strong>恐怕你也无法想象你的航空公司会告诉你某架次飞机会因为长期没有检修而飞得更快吧？</strong></p>\n",
+            "tags": [
+                "life",
+                "workflow"
+            ]
+        }
+    ]
+}

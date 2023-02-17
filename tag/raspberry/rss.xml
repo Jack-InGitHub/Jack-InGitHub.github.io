@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;raspberry&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 10 Oct 2021 11:23:05 +0800</pubDate>
+        <lastBuildDate>Sun, 10 Oct 2021 11:23:05 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/6561f7ab/</guid>
+            <title>树莓派连上手机热点如何查看它的IP</title>
+            <link>https://www.oikiou.top/2021/6561f7ab/</link>
+            <category>ip</category>
+            <category>raspberry</category>
+            <category>ap</category>
+            <category>wifi</category>
+            <pubDate>Sun, 10 Oct 2021 11:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;关键词:&lt;/p&gt;
+&lt;p&gt;手机 热点 查看 接入 热点 IP 树莓派连上手机热点如何查看它的IP&lt;/p&gt;
+&lt;h1 id=&#34;树莓派连上手机热点如何查看它的IP&#34;&gt;&lt;a href=&#34;#树莓派连上手机热点如何查看它的IP&#34; class=&#34;headerlink&#34; title=&#34;树莓派连上手机热点如何查看它的IP&#34;&gt;&lt;/a&gt;树莓派连上手机热点如何查看它的IP&lt;/h1&gt;&lt;h1 id=&#34;序：&#34;&gt;&lt;a href=&#34;#序：&#34; class=&#34;headerlink&#34; title=&#34;序：&#34;&gt;&lt;/a&gt;序：&lt;/h1&gt;&lt;h4 id=&#34;起源&#34;&gt;&lt;a href=&#34;#起源&#34; class=&#34;headerlink&#34; title=&#34;起源&#34;&gt;&lt;/a&gt;起源&lt;/h4&gt;&lt;p&gt;原来都是通过网线连接树莓派的，当时设置过wifi，这次把树莓派带出去用，就没有带网线，手机上显示已经连接上了，但是不知道怎么查看树莓派的ip。相信点进来的都是小米手机把，点名批评小米，隔壁华为荣耀都能直接看到。&lt;/p&gt;
+&lt;h4 id=&#34;通过阅读本文你能知道什么？&#34;&gt;&lt;a href=&#34;#通过阅读本文你能知道什么？&#34; class=&#34;headerlink&#34; title=&#34;通过阅读本文你能知道什么？&#34;&gt;&lt;/a&gt;通过阅读本文你能知道什么？&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;如何通过app查看连上热点的ip&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果本文对你有帮助，请不要吝啬你的点赞，让别人也能看到，如果你有更好的见解，非常希望你能提出指导意见！&lt;/p&gt;
+&lt;p&gt;@[toc]&lt;/p&gt;
+&lt;h1 id=&#34;软件：&#34;&gt;&lt;a href=&#34;#软件：&#34; class=&#34;headerlink&#34; title=&#34;软件：&#34;&gt;&lt;/a&gt;软件：&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;终端&lt;/strong&gt; or &lt;strong&gt;Terminal Emulator&lt;/strong&gt;&lt;br&gt;各大应用商店可下，实在不行可以从&lt;a href=&#34;https://jackpal.github.io/Android-Terminal-Emulator/&#34;&gt;这个页面&lt;/a&gt;下载&lt;/p&gt;
+&lt;h1 id=&#34;详细：&#34;&gt;&lt;a href=&#34;#详细：&#34; class=&#34;headerlink&#34; title=&#34;详细：&#34;&gt;&lt;/a&gt;详细：&lt;/h1&gt;&lt;p&gt;输入指令 &lt;strong&gt;ip neigh&lt;/strong&gt; 就能获得相关的ip地址信息&lt;br&gt;&lt;img src=&#34;/2021/6561f7ab/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5Li05rW355qE5Z-O,size_20,color_FFFFFF,t_70,g_se,x_16.png&#34; alt=&#34;树莓派&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/b0f7a103/</guid>
+            <title>树莓派4B PWM温控风扇 Wiringpi库 PWM调整频率 54M PWM频率不对</title>
+            <link>https://www.oikiou.top/2021/b0f7a103/</link>
+            <category>raspberry</category>
+            <category>wiringpi</category>
+            <category>pwm</category>
+            <pubDate>Mon, 02 Aug 2021 23:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;关键词:&lt;br&gt;树莓派4B PWM温控风扇 wiringpi库 PWM调整频率 54M PWM频率不对&lt;/p&gt;
+&lt;h1 id=&#34;总结&#34;&gt;&lt;a href=&#34;#总结&#34; class=&#34;headerlink&#34; title=&#34;总结&#34;&gt;&lt;/a&gt;总结&lt;/h1&gt;&lt;p&gt;很多博客文章都是说树莓派PWM是按&lt;strong&gt;19.2M&lt;/strong&gt;基频率来算的，今天用逻辑分析仪抓了一下波形后发现频率有问题，然后按测得的频率反推，算出来我这里好像是按&lt;strong&gt;54M&lt;/strong&gt;的时钟频率来的，不清楚是什么情况。我这里的环境是&lt;code&gt;wiringpi=2.52&lt;/code&gt; + &lt;code&gt;树莓派4B&lt;/code&gt; + &lt;code&gt;Linux raspberrypi 5.10.52-v7l+ #1440 SMP Tue Jul 27 09:55:21 BST 2021 armv7l GNU/Linux&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/miaoxiong/p/10556072.html&#34;&gt;PWM 19.2M时钟的原文&lt;/a&gt; &lt;a href=&#34;https://www.cnblogs.com/miaoxiong/p/10556072.html&#34;&gt;https://www.cnblogs.com/miaoxiong/p/10556072.html&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;源码&#34;&gt;&lt;a href=&#34;#源码&#34; class=&#34;headerlink&#34; title=&#34;源码&#34;&gt;&lt;/a&gt;源码&lt;/h1&gt;&lt;p&gt;思路就是读取cpu温度的文件，根据不同温度来控制PWM控制风扇转停，这个编译下来跑起来&lt;code&gt;htop&lt;/code&gt;看cpu占用一直等于0，对比原来python写的温控风扇2% 3%的cpu占用在跳，没想到差距这么大。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;73&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;74&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;75&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;76&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;77&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;78&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;79&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;80&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;81&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;82&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;83&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;84&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;85&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;86&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;87&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;88&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;89&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;90&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;91&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;92&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;93&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;94&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;95&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;96&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;97&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;98&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;99&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;100&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;101&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;102&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;stdlib.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;stdint.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;wiringPi.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; FAN_PIN         1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// Hz&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; PWM_FRQ         (200ul)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// frq = 54M / PWM_RANG / divisor&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; PWM_RANG        (100ul)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// temperature&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; TEMP_PATH &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;/sys/class/thermal/thermal_zone0/temp&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; BUFF_MAX_SIZE   32u&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; 0&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; DBG_LOG(format, ...)      do&amp;#123; printf(format, ##__VA_ARGS__ ); &amp;#125;while(0)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; DBG_LOG(format, ...)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;endif&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;GetTemperature&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *temp)&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;GetDuty&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; temp)&lt;/span&gt;;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; Duty = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;FILE *pFile = &lt;span class=&#34;hljs-literal&#34;&gt;NULL&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; buff[BUFF_MAX_SIZE] = &amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;&amp;#125;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;float&lt;/span&gt; fTemperature = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; Temperature = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    DBG_LOG(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Raspberry Pi wiringPi PWM test program\n&amp;quot;&lt;/span&gt;);&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (wiringPiSetup() == &lt;span class=&#34;hljs-number&#34;&gt;-1&lt;/span&gt;)&lt;br&gt;    &amp;#123;&lt;br&gt;        DBG_LOG(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;GPIO setup error!\n&amp;quot;&lt;/span&gt;);&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;exit&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;);&lt;br&gt;    &amp;#125;&lt;br&gt;    pinMode(FAN_PIN, PWM_OUTPUT);&lt;br&gt;    pwmSetMode(PWM_MODE_MS);&lt;br&gt;    pwmSetRange(PWM_RANG);                       &lt;span class=&#34;hljs-comment&#34;&gt;//base frq 54M&lt;/span&gt;&lt;br&gt;    pwmSetClock(&lt;span class=&#34;hljs-number&#34;&gt;54000000&lt;/span&gt;/PWM_RANG/PWM_FRQ);&lt;br&gt;    pwmWrite(FAN_PIN, &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;);&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; (&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;)&lt;br&gt;    &amp;#123;&lt;br&gt;        GetTemperature(&amp;amp;Temperature);&lt;br&gt;        Duty = GetDuty(Temperature);&lt;br&gt;&lt;br&gt;        pwmWrite(FAN_PIN, Duty);&lt;br&gt;        DBG_LOG(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Temp=%d Duty=%d\n&amp;quot;&lt;/span&gt;, Temperature, Duty);&lt;br&gt;        delay(&lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt;*&lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;);&lt;br&gt;    &amp;#125;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;GetTemperature&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *temp)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    pFile = fopen(TEMP_PATH, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;r&amp;quot;&lt;/span&gt;);&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;(pFile == &lt;span class=&#34;hljs-literal&#34;&gt;NULL&lt;/span&gt;)&lt;br&gt;    &amp;#123;&lt;br&gt;        DBG_LOG(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;file can&amp;#x27;t open PATH=%s p=%p\n&amp;quot;&lt;/span&gt;, TEMP_PATH, pFile);&lt;br&gt;        &lt;span class=&#34;hljs-built_in&#34;&gt;exit&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;);&lt;br&gt;    &amp;#125;&lt;br&gt;    fgets(buff, BUFF_MAX_SIZE, pFile);&lt;br&gt;    *temp = (&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;)(atoi(buff)/&lt;span class=&#34;hljs-number&#34;&gt;1000.0&lt;/span&gt;+&lt;span class=&#34;hljs-number&#34;&gt;0.5&lt;/span&gt;);&lt;br&gt;    fclose(pFile);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;GetDuty&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; temp)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;(temp &amp;gt;= &lt;span class=&#34;hljs-number&#34;&gt;60&lt;/span&gt;)&lt;br&gt;    &amp;#123;&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;;&lt;br&gt;    &amp;#125;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;(temp &amp;gt;= &lt;span class=&#34;hljs-number&#34;&gt;55&lt;/span&gt;)&lt;br&gt;    &amp;#123;&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;80&lt;/span&gt;;&lt;br&gt;    &amp;#125;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;(temp &amp;gt;= &lt;span class=&#34;hljs-number&#34;&gt;53&lt;/span&gt;)&lt;br&gt;    &amp;#123;&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;70&lt;/span&gt;;&lt;br&gt;    &amp;#125;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;(temp &amp;gt;= &lt;span class=&#34;hljs-number&#34;&gt;50&lt;/span&gt;)&lt;br&gt;    &amp;#123;&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;60&lt;/span&gt;;&lt;br&gt;    &amp;#125;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;(temp &amp;gt;= &lt;span class=&#34;hljs-number&#34;&gt;49&lt;/span&gt;)&lt;br&gt;    &amp;#123;&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;50&lt;/span&gt;;&lt;br&gt;    &amp;#125;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt;&lt;br&gt;    &amp;#123;&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;    &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;最后编译一下&lt;br&gt;&lt;code&gt;gcc -Wall -O -o fan fan.c   -lwiringPi &lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;再加个开机启动&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;sudo nano /etc/rc.local&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;在文件&lt;span class=&#34;hljs-built_in&#34;&gt;exit&lt;/span&gt;前加上 fan程序&lt;/span&gt;&lt;br&gt;sudo ./path/fan &amp;amp;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;这个温度控制不是很好，转转停停的(&lt;em&gt;估计是PWM值太小风扇转的不好, 尝试加电容电感应该会好些&lt;/em&gt;)&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/d8eac117/</guid>
+            <title>树莓派4B GPIO库 Wiringpi Oops -  Unable to Determine Board Type</title>
+            <link>https://www.oikiou.top/2021/d8eac117/</link>
+            <category>raspberry</category>
+            <category>wiringpi</category>
+            <pubDate>Mon, 02 Aug 2021 23:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;关键词:&lt;br&gt;树莓派4B GPIO库 wiringpi Oops - unable to determine board type… model_ 17&lt;/p&gt;
+&lt;h1 id=&#34;先说解决方案&#34;&gt;&lt;a href=&#34;#先说解决方案&#34; class=&#34;headerlink&#34; title=&#34;先说解决方案&#34;&gt;&lt;/a&gt;先说解决方案&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;cd /tmp&lt;br&gt;wget https://project-downloads.drogon.net/wiringpi-latest.deb&lt;br&gt;sudo dpkg -i wiringpi-latest.deb&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;问题描述&#34;&gt;&lt;a href=&#34;#问题描述&#34; class=&#34;headerlink&#34; title=&#34;问题描述&#34;&gt;&lt;/a&gt;问题描述&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/&#34;&gt;官网给的解释&lt;/a&gt; &lt;a href=&#34;http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/&#34;&gt;http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;树莓派4B 用wiringpi这个GPIO库的时候无法正常使用，我是在用作树莓派pwm风扇调速的时候发现一直输出不了pwm，示波器抓波形发现也不对，检查原因的时候发现 &lt;code&gt;gpio readall&lt;/code&gt;输出报错，最后官方文档说到&lt;strong&gt;树莓派4B&lt;/strong&gt;需要保证&lt;strong&gt;2.52版本&lt;/strong&gt;及以上才能适配(&lt;code&gt;gpio -v&lt;/code&gt;查看版本)，apt直接安装的似乎还没更新最新版本只到2.50，不太清楚为什么一年了这源都还没更新&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

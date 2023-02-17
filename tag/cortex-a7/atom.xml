@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;cortex-a7&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2021-07-02T08:33:15.000Z</updated>
+    <category term="embedded" />
+    <category term="note" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="ms-dos" />
+    <category term="windows" />
+    <category term="c" />
+    <category term="c/c++" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="c++" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="sscanf" />
+    <category term="hex" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="osi" />
+    <category term="markdown" />
+    <category term="md5" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="makefile" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="机智云" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="ct117e-ex" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="life" />
+    <category term="workflow" />
+    <category term="人生" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="cad" />
+    <category term="心理学" />
+    <category term="cat_drive" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="synology" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="j-link" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="jlink" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="tmux" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="cortex-a7" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="cortex-m3" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <category term="rtx" />
+    <category term="rtos" />
+    <category term="keil" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="modbus" />
+    <category term="ucos" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="pwm" />
+    <category term="rt-thread" />
+    <category term="ap" />
+    <category term="wifi" />
+    <entry>
+        <id>https://www.oikiou.top/2021/da01e608/</id>
+        <title>Cortex-A7 基础</title>
+        <link rel="alternate" href="https://www.oikiou.top/2021/da01e608/"/>
+        <content type="html">&lt;h1 id=&#34;简介&#34;&gt;&lt;a href=&#34;#简介&#34; class=&#34;headerlink&#34; title=&#34;简介&#34;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;p&gt;Cortex-A7 MPCore &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1-4core&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cortex-A15(big)+Cortex-A7(LITTLE)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;L1 Cache 8,16,32,64KB&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;L2 Choice&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cortex-A7 MPCore 基于 ARMv7-A&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SIMDv2 扩展整形和浮点向量&lt;/li&gt;
+&lt;li&gt;VFPv4 高性能单双精度浮点指令&lt;/li&gt;
+&lt;li&gt;LPAE 40bit寻址 最大1TB内存&lt;/li&gt;
+&lt;li&gt;硬件虚拟化&lt;/li&gt;
+&lt;li&gt;NEON 多媒体、信号处理加速&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;运行模式&#34;&gt;&lt;a href=&#34;#运行模式&#34; class=&#34;headerlink&#34; title=&#34;运行模式&#34;&gt;&lt;/a&gt;运行模式&lt;/h1&gt;&lt;p&gt;Cortex-A7处理器有 9种处理模式，除了 User(USR)用户模式以外，其它 8 种运行模式都是特权模式。  &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;模式&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;User(USR)&lt;/td&gt;
+&lt;td&gt;用户模式，非特权大部分程序运行的时候就处于此。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FIQ&lt;/td&gt;
+&lt;td&gt;快速中断模式，进入 FIQ 中断异常&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;IRQ&lt;/td&gt;
+&lt;td&gt;一般中断模式。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Supervisor(SVC)&lt;/td&gt;
+&lt;td&gt;超级管理员模式，特权模式，供操作系统使用。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Monitor(MON)&lt;/td&gt;
+&lt;td&gt;这个模式用于安全扩展模式。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Abort(ABT)&lt;/td&gt;
+&lt;td&gt;数据访问终止模式，用于虚拟存储以及存储保护。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hyp(HYP)&lt;/td&gt;
+&lt;td&gt;用于虚拟化扩展。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Undef(UND)&lt;/td&gt;
+&lt;td&gt;未定义指令终止模式。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;System(SYS)&lt;/td&gt;
+&lt;td&gt;系统模式，用于运行特权级的操作系统任务&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;寄存器&#34;&gt;&lt;a href=&#34;#寄存器&#34; class=&#34;headerlink&#34; title=&#34;寄存器&#34;&gt;&lt;/a&gt;寄存器&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/2021/da01e608/image-20210702163336723.png&#34; alt=&#34;image-20210702163336723&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;暗色代表没有物理寄存器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/da01e608/image-20210702163355713.png&#34; alt=&#34;image-20210702163355713&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;CPSR&#34;&gt;&lt;a href=&#34;#CPSR&#34; class=&#34;headerlink&#34; title=&#34;CPSR&#34;&gt;&lt;/a&gt;CPSR&lt;/h2&gt;&lt;p&gt;CPSR 是当前程序状态寄存器，该寄存器包含了条件标志位、中断禁止位、当前处理器模式标志&lt;br&gt;等一些状态位以及一些控制位。  &lt;/p&gt;
+&lt;p&gt;SPSR(备份程序状态寄存器)  备份CPSR的&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/da01e608/image-20210702164501790.png&#34; alt=&#34;image-20210702164501790&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;N(bit31)：当两个补码表示的 有符号整数运算的时候， N&amp;#x3D;1 表示运算对的结果为负数， N&amp;#x3D;0表示结果为正数。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Z(bit30)： Z&amp;#x3D;1 表示运算结果为零， Z&amp;#x3D;0 表示运算结果不为零，对于 CMP 指令， Z&amp;#x3D;1 表示进行比较的两个数大小相等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;C(bit29)：在加法指令中，当结果产生了进位，则 C&amp;#x3D;1，表示无符号数运算发生上溢，其它情况下 C&amp;#x3D;0。在减法指令中，当运算中发生借位，则 C&amp;#x3D;0，表示无符号数运算发生下溢，其它情况下 C&amp;#x3D;1。对于包含移位操作的非加&amp;#x2F;减法运算指令， C 中包含最后一次溢出的位的数值，对于其它非加&amp;#x2F;减运算指令， C 位的值通常不受影响。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;V(bit28)： 对于加&amp;#x2F;减法运算指令，当操作数和运算结果表示为二进制的补码表示的带符号数时， V&amp;#x3D;1 表示符号位溢出，通常其他位不影响 V 位。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Q(bit27)： 仅 ARM v5TE_J 架构支持，表示饱和状态， Q&amp;#x3D;1 表示累积饱和， Q&amp;#x3D;0 表示累积不饱和。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;IT[1:0].(bit26:25)： 和 IT[7:2].(bit15:bit10)一起组成 IT[7:0]，作为 IF-THEN 指令执行状态。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;J(bit24)： 仅 ARM_v5TE-J 架构支持， J&amp;#x3D;1 表示处于 Jazelle 状态，此位通常和 T(bit5)位一起表示当前所使用的指令集：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;J&lt;/th&gt;
+&lt;th&gt;T&lt;/th&gt;
+&lt;th&gt;bref&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;ARM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Thumb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;ThumbEE&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;Jazelle&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;GE[3:0].(bit19:16)： SIMD 指令有效，大于或等于。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;IT[7:2].(bit15:10)： 参考 IT[1:0]。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;E(bit9)： 大小端控制位， E&amp;#x3D;1 表示大端模式， E&amp;#x3D;0 表示小端模式。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A(bit8)： 禁止异步中断位， A&amp;#x3D;1 表示禁止异步中断。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I(bit7)： I&amp;#x3D;1 禁止 IRQ， I&amp;#x3D;0 使能 IRQ。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;F(bit6)： F&amp;#x3D;1 禁止 FIQ， F&amp;#x3D;0 使能 FIQ。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;T(bit5)： 控制指令执行状态，表明本指令是 ARM 指令还是 Thumb 指令，通常和 J(bit24)一起表明指令类型，参考 J(bit24)位。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;M[4:0]： 处理器模式控制位：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;M[4:0]&lt;/th&gt;
+&lt;th&gt;CPU Mode&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;10000&lt;/td&gt;
+&lt;td&gt;User 模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10001&lt;/td&gt;
+&lt;td&gt;FIQ 模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10010&lt;/td&gt;
+&lt;td&gt;IRQ 模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10011&lt;/td&gt;
+&lt;td&gt;Supervisor(SVC)模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10110&lt;/td&gt;
+&lt;td&gt;Monitor(MON)模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10111&lt;/td&gt;
+&lt;td&gt;Abort(ABT)模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11010&lt;/td&gt;
+&lt;td&gt;Hyp(HYP)模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11011&lt;/td&gt;
+&lt;td&gt;Undef(UND)模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11111&lt;/td&gt;
+&lt;td&gt;System(SYS)模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;​    &lt;/p&gt;
+</content>
+        <category term="cortex-a7" />
+        <updated>2021-07-02T08:33:15.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,1312 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;blog&#34; category</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 12 Dec 2022 22:57:15 +0800</pubDate>
+        <lastBuildDate>Mon, 12 Dec 2022 22:57:15 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/d911b12b/</guid>
+            <title>Zsh</title>
+            <link>https://www.oikiou.top/2022/d911b12b/</link>
+            <category>zsh</category>
+            <category>shell</category>
+            <category>linux</category>
+            <pubDate>Mon, 12 Dec 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;Powerlevel10k&#34;&gt;&lt;a href=&#34;#Powerlevel10k&#34; class=&#34;headerlink&#34; title=&#34;Powerlevel10k&#34;&gt;&lt;/a&gt;Powerlevel10k&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/romkatv/powerlevel10k&#34;&gt;https://github.com/romkatv/powerlevel10k&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Download these four ttf files:&lt;ul&gt;
+&lt;li&gt;[MesloLGS NF Regular.ttf](&lt;a href=&#34;https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS&#34;&gt;https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS&lt;/a&gt; NF Regular.ttf)&lt;/li&gt;
+&lt;li&gt;[MesloLGS NF Bold.ttf](&lt;a href=&#34;https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS&#34;&gt;https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS&lt;/a&gt; NF Bold.ttf)&lt;/li&gt;
+&lt;li&gt;[MesloLGS NF Italic.ttf](&lt;a href=&#34;https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS&#34;&gt;https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS&lt;/a&gt; NF Italic.ttf)&lt;/li&gt;
+&lt;li&gt;[MesloLGS NF Bold Italic.ttf](&lt;a href=&#34;https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS&#34;&gt;https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS&lt;/a&gt; NF Bold Italic.ttf)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Double-click on each file and click “Install”. This will make &lt;code&gt;MesloLGS NF&lt;/code&gt; font available to all applications on your system.&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/4dd4ea8a/</guid>
+            <title>Ip 转换成 Location 的Api</title>
+            <link>https://www.oikiou.top/2022/4dd4ea8a/</link>
+            <category>ip</category>
+            <category>location</category>
+            <category>api</category>
+            <pubDate>Tue, 08 Nov 2022 23:24:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;ip-to-location&#34;&gt;&lt;a href=&#34;#ip-to-location&#34; class=&#34;headerlink&#34; title=&#34;ip to location&#34;&gt;&lt;/a&gt;ip to location&lt;/h1&gt;&lt;h2 id=&#34;ipwhois&#34;&gt;&lt;a href=&#34;#ipwhois&#34; class=&#34;headerlink&#34; title=&#34;ipwhois&#34;&gt;&lt;/a&gt;ipwhois&lt;/h2&gt;&lt;p&gt;IPWHOIS.IO的IP地理定位API的URL格式很简单。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;http://ipwhois.app/json/&amp;#123;IP&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;例如，我们可以用以下IP地址发出API请求：47.9.123.84。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/4dd4ea8a/ipwhois-api.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;参考链接:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/ip-geolocation-api/&#34;&gt;IP Geolocation API – IPWHOIS.IO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/how-to-integrate-ip-geolocation-api-with-php/&#34;&gt;How to Integrate IP Geolocation API with PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/scrape-search-result-data-using-serpapi-with-python/&#34;&gt;Scrape Search Result Data using SerpApi with Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/get-geocoding-using-positionstack-api-with-php/&#34;&gt;Get Geocoding using Positionstack API with PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/flight-data-using-aviationstack-api-with-php/&#34;&gt;Flight Data using Aviationstack API with PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/get-address-information-using-geocode-api-with-php/&#34;&gt;Get Address Information using Geocode API with PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/review-scraping-using-reviewapi-with-php/&#34;&gt;Review Scraping using ReviewAPI with PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/simple-web-scraping-with-zenscrape-api-using-php/&#34;&gt;Simple Web Scraping with Zenscrape API using PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/scrape-search-result-with-zenserp-api-using-php/&#34;&gt;Scrape Search Result with Zenserp API using PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/build-user-agent-lookup-system-using-userstack-api-with-php/&#34;&gt;Build User Agent Lookup System using Userstack API with PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/build-ip-lookup-website-using-ipapi-with-php/&#34;&gt;Build IP Lookup Website using ipapi with PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/build-weather-website-with-weatherstack-api-using-php/&#34;&gt;Build Weather Website with Weatherstack API using PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/get-website-visitors-info-using-ipstack-api-with-php/&#34;&gt;Get Website Visitors Info using IPStack API with PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdamn.com/scrape-serp-data-using-serpstack-api-with-python/&#34;&gt;Scrape SERP Data using SerpStack API with Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/3db44d04/</guid>
+            <title>Android 文件传输模式 电脑无法识别</title>
+            <link>https://www.oikiou.top/2022/3db44d04/</link>
+            <category>windows</category>
+            <category>android</category>
+            <category>mtp</category>
+            <category>pc</category>
+            <category>driver</category>
+            <pubDate>Mon, 10 Oct 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;android-文件传输模式-电脑无法识别&#34;&gt;&lt;a href=&#34;#android-文件传输模式-电脑无法识别&#34; class=&#34;headerlink&#34; title=&#34;android 文件传输模式 电脑无法识别&#34;&gt;&lt;/a&gt;android 文件传输模式 电脑无法识别&lt;/h1&gt;&lt;p&gt;最近android手机连接电脑选择传输文件模式，电脑不再识别手机。选择照片模式就没有问题。&lt;/p&gt;
+&lt;p&gt;手机选择文件传输模式后 选择自动搜索驱动程序 安装后会 提示“这个inf中的服务安装段落无效”。&lt;/p&gt;
+&lt;h2 id=&#34;步骤&#34;&gt;&lt;a href=&#34;#步骤&#34; class=&#34;headerlink&#34; title=&#34;步骤&#34;&gt;&lt;/a&gt;步骤&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;按“Win+X” 点击 “设备管理器”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在设备管理器中找到你的手机，名字可能是你的手机型号，可能是未知设备 ，&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;右键选择更新驱动程序.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;选择 “浏览计算机以查找驱动程序软件”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;选择 “让我从计算机上的可用驱动程序列表中选取”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在列表里面找到“便携设备” (可能没有这一步操作)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;选择 “MTP USB 设备”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/3db44d04/1636599848857.png&#34; alt=&#34;win10系统识别不了USB设备解决方法介绍-Win10系统识别不了USB设备怎么办-53系统之家&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;点击 “下一步”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;回到设备管理器看到设备已经可用正确运作了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://developer.android.com/studio/run/oem-usb&#34;&gt;安装原始设备制造商 (OEM) USB 驱动程序&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://developer.android.com/studio/run/win-usb&#34;&gt;获取 Google USB 驱动程序&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/bc4a75ff/</guid>
+            <title>JPEG JPEG2000 WebP PNG GIF对比</title>
+            <link>https://www.oikiou.top/2022/bc4a75ff/</link>
+            <category>jpeg</category>
+            <category>webp</category>
+            <category>jpeg2000</category>
+            <category>image</category>
+            <pubDate>Sun, 18 Sep 2022 13:47:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;图像的显示原理&#34;&gt;&lt;a href=&#34;#图像的显示原理&#34; class=&#34;headerlink&#34; title=&#34;图像的显示原理&#34;&gt;&lt;/a&gt;图像的显示原理&lt;/h1&gt;&lt;h2 id=&#34;有损-x2F-无损压缩&#34;&gt;&lt;a href=&#34;#有损-x2F-无损压缩&#34; class=&#34;headerlink&#34; title=&#34;有损&amp;#x2F;无损压缩&#34;&gt;&lt;/a&gt;有损&amp;#x2F;无损压缩&lt;/h2&gt;&lt;p&gt;图片文件格式有可能会对图片的文件大小进行不同程度的压缩，图片的压缩分为有损压缩和无损压缩两种。&lt;/p&gt;
+&lt;h3 id=&#34;有损压缩&#34;&gt;&lt;a href=&#34;#有损压缩&#34; class=&#34;headerlink&#34; title=&#34;有损压缩&#34;&gt;&lt;/a&gt;有损压缩&lt;/h3&gt;&lt;p&gt;对图像本身的改变，在保存图像时保留了较多的亮度信息，而将色相和色纯度的信息和周围的像素进行合并，合并的比例不同，压缩的比例也不同，由于信息量减少了，所以压缩比可以很高，图像质量也会相应的下降。并且这种损失是不可逆的，我们不可能从有一个有损压缩过的图片中恢复出全来的图片。常见的有损压缩手段，是按照一定的算法将临近的像素点进行合并。&lt;br&gt;&lt;strong&gt;有损压缩的原理：&lt;/strong&gt; &lt;em&gt;删除景物边缘的某些颜色部分，当人们在屏幕上观看这个场景图片，大脑会利用在景物上看到的颜色填补所丢失的颜色部分。&lt;/em&gt;&lt;br&gt;&lt;strong&gt;有损压缩的优缺点：&lt;/strong&gt; &lt;em&gt;是保持颜色的逐渐变化，删除图像中颜色的突然变化。生物学中的大量实验证明，人类大脑会利用与附近最接近的颜色来填补所丢失的颜色。例如，对于蓝色天空背景上的一朵白云，有损压缩的方法就是删除图像中景物边缘的某些颜色部分。当在·屏幕上看这幅图时，大脑会利用在景物上看到的颜色填补所丢失的颜色部分。利用有损压缩技术，某些数据被有意地删除了，而被取消的数据也不再恢复。 无可否认，利用有损压缩技术可以大大地压缩文件的数据，但是会影响图像质量。如果使用了有损压缩的图像仅在屏幕上显示，可能对图像质量影响不太大，至少对于人类眼睛的识别程度来说区别不大。可是，如果要把一幅经过有损压缩技术处理的图像用高分辨率打印机打印出来，那么图像质量就会有明显的受损痕迹。&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;无损压缩&#34;&gt;&lt;a href=&#34;#无损压缩&#34; class=&#34;headerlink&#34; title=&#34;无损压缩&#34;&gt;&lt;/a&gt;无损压缩&lt;/h3&gt;&lt;p&gt;无损压缩的基本原理是相同的颜色信息只需保存一次。压缩图像的软件首先会确定图像中哪些区域是相同的，哪些是不同的。包括了重复数据的图像(如蓝天) 就可以被压缩，只有蓝天的起始点和终结点需要被记录下来。但是蓝色可能还会有不同的深浅，天空有时也可能被树木、山峰或其他的对象掩盖，这些就需要另外记录。从本质上看，无损压缩的方法可以删除一些重复数据，大大减少要在磁盘上保存的图像尺寸。但是，无损压缩的方法并不能减少图像的内存占用量，这是因为，当从磁盘上读取图像时，软件又会把丢失的像素用适当的颜色信息填充进来。如果要减少图像占用内存的容量，就必须使用有损压缩方法。&lt;br&gt;&lt;strong&gt;无损压缩的特点：&lt;/strong&gt; &lt;em&gt;相同的颜色信息只需保存一次。&lt;/em&gt;&lt;br&gt;&lt;strong&gt;无损压缩的原理：&lt;/strong&gt; &lt;em&gt;首先辨别出相同颜色的区域，然后把这些相同的数据信息进行压缩记录，也就是记录它的颜色信息、起始和终止位置。&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;索引色-x2F-直接色&#34;&gt;&lt;a href=&#34;#索引色-x2F-直接色&#34; class=&#34;headerlink&#34; title=&#34;索引色&amp;#x2F;直接色&#34;&gt;&lt;/a&gt;索引色&amp;#x2F;直接色&lt;/h2&gt;&lt;p&gt;计算机在表示颜色的时候，有两种形式，一种称作索引颜色(Index Color)，一种称作直接颜色(Direct Color)。&lt;/p&gt;
+&lt;h3 id=&#34;索引色。&#34;&gt;&lt;a href=&#34;#索引色。&#34; class=&#34;headerlink&#34; title=&#34;索引色。&#34;&gt;&lt;/a&gt;索引色。&lt;/h3&gt;&lt;p&gt;是一种以有限的方式管理数字图像颜色的技术，以节省计算机内存和文件存储，同时加速显示刷新和文件传输。即用一个数字来代表（索引）一种颜色，在存储图片的时候，存储一个数字的组合，同时存储数字到图片颜色的映射。这种方式只能存储有限种颜色，通常是256种颜色，对应到计算机系统中，使用一个字节的数字来索引一种颜色。&lt;/p&gt;
+&lt;h3 id=&#34;直接色。&#34;&gt;&lt;a href=&#34;#直接色。&#34; class=&#34;headerlink&#34; title=&#34;直接色。&#34;&gt;&lt;/a&gt;直接色。&lt;/h3&gt;&lt;p&gt;使用四个数字来代表一种颜色，这四个数字分别代表这个颜色中红色、绿色、蓝色以及透明度（即rgba）。现在流行的显示设备可以在这四个维度分别支持256种变化，所以直接色可以表示2的32次方种颜色。当然并非所有的直接色都支持这么多种，为压缩空间使用，有可能只有表达红、绿、蓝的三个数字，每个数字也可能不支持256种变化之多&lt;/p&gt;
+&lt;h2 id=&#34;位图-x2F-矢量图&#34;&gt;&lt;a href=&#34;#位图-x2F-矢量图&#34; class=&#34;headerlink&#34; title=&#34;位图&amp;#x2F;矢量图&#34;&gt;&lt;/a&gt;位图&amp;#x2F;矢量图&lt;/h2&gt;&lt;h3 id=&#34;位图。&#34;&gt;&lt;a href=&#34;#位图。&#34; class=&#34;headerlink&#34; title=&#34;位图。&#34;&gt;&lt;/a&gt;位图。&lt;/h3&gt;&lt;p&gt;位图也叫做点阵图，栅格图像，像素图。简单的说，就是最小单位由像素构成的图，缩放会失真。构成位图的最小单位是像素，位图就是由像素阵列的排列来实现其显示效果的，每个像素有自己的颜色信息，在对位图图像进行编辑操作的时候，可操作的对象是每个像素，我们可以改变图像的色相、饱和度、明度，从而改变图像的显示效果。举个例子来说，位图图像就好比在巨大的沙盘上画好的画，当你从远处看的时候，画面细腻多彩，但是当你靠的非常近的时候，你就能看到组成画面的每粒沙子以及每个沙粒单纯的不可变化颜色。&lt;/p&gt;
+&lt;h3 id=&#34;矢量图，&#34;&gt;&lt;a href=&#34;#矢量图，&#34; class=&#34;headerlink&#34; title=&#34;矢量图，&#34;&gt;&lt;/a&gt;矢量图，&lt;/h3&gt;&lt;p&gt;也叫做向量图。矢量图并不纪录画面上每一点的信息，而是纪录了元素形状及颜色的算法，当你打开一付矢量图的时候，软件对图形象对应的函数进行运算，将运算结果[图形的形状和颜色]显示给你看。无论显示画面是大还是小，画面上的对象对应的算法是不变的，所以，即使对画面进行倍数相当大的缩放，其显示效果仍然相同(不失真)。&lt;/p&gt;
+&lt;h1 id=&#34;JPEG-JPEG2000-WebP&#34;&gt;&lt;a href=&#34;#JPEG-JPEG2000-WebP&#34; class=&#34;headerlink&#34; title=&#34;JPEG JPEG2000 WebP&#34;&gt;&lt;/a&gt;JPEG JPEG2000 WebP&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;  摘录自知乎: &lt;/p&gt;
+&lt;p&gt;  原文: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/19586108&#34;&gt;https://zhuanlan.zhihu.com/p/19586108&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  作者: &lt;a href=&#34;https://www.zhihu.com/people/xhacker&#34;&gt;柳东原&lt;/a&gt; This Xhacker has super Big Cat power.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;压缩性能综合看来，WebP 略好于 JPEG2000，而这两者都明显好于 JPEG。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;前段时间测试了一下这三种有损图像压缩算法的质量。（WebP 也能支持无损，不过这里只测试有损。）&lt;/p&gt;
+&lt;p&gt;测试结果（&lt;a href=&#34;https://link.zhihu.com/?target=http://en.wikipedia.org/wiki/Structural_similarity&#34;&gt;SSIM Index&lt;/a&gt; 可理解为图片与原图片的相似度）：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/bc4a75ff/6dd37790364b1a5e709f8e67adab81d3_r.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/bc4a75ff/868c8f801447ee85c0867556cdb1f705_r.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/bc4a75ff/85ab2ef874126a10072e4669d9cd7c90_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/bc4a75ff/ea62d92a63b45aa121eb0ccfce4a97fd_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/bc4a75ff/6cdab6a9efdf3df3fba2657314d81734_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/bc4a75ff/323465387e562470441127b8f0cc992e_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;测试细节：对于 JPEG 使用 libjpeg 压缩，JPEG 2000 使用 OpenJPEG，WebP 使用 libwebp。&lt;/p&gt;
+&lt;h1 id=&#34;JPEG-PNG-GIF-WEBP&#34;&gt;&lt;a href=&#34;#JPEG-PNG-GIF-WEBP&#34; class=&#34;headerlink&#34; title=&#34;JPEG PNG GIF WEBP&#34;&gt;&lt;/a&gt;JPEG PNG GIF WEBP&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;综合看来&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PNG 可以保存透明信息, 比较适合颜色单一, 主要是纯色的图像, ( logo&amp;#x2F;icon&amp;#x2F;透明图 )&lt;/li&gt;
+&lt;li&gt;JPEG 适用颜色种类多样 且颜色变化明显的图片 ( 一般照片 )&lt;/li&gt;
+&lt;li&gt;GIF 支持动画,透明, 只有8位颜色 ( 动图 )&lt;/li&gt;
+&lt;li&gt;WEBP 文件小, 支持透明, 有损无损压缩, 支持动画, 兼容性不好 ( 网页图像 )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;JPEG&#34;&gt;&lt;a href=&#34;#JPEG&#34; class=&#34;headerlink&#34; title=&#34;JPEG&#34;&gt;&lt;/a&gt;JPEG&lt;/h2&gt;&lt;p&gt;JPEG是有损的、采用直接色的、位图。JPEG也是一种针对照片影像而广泛使用的有损压缩标准方法。JPEG图片格式的设计目标，是在不影响人类可分辨的图片质量的前提下，尽可能的压缩文件大小。这意味着JPEG去掉了一部分图片的原始信息，也即是进行了有损压缩。JPEG的图片的优点，是采用了直接色，得益于更丰富的色彩，JPEG非常适合用来存储照片，用来表达更生动的图像效果，比如颜色渐变。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;特性：适用于存储色彩丰富、层次分明的图片，不适合于线条绘图（drawing）和其他文字或图标（iconic）的图形，因为它的压缩方法用在这些类型的图形上，得到的结果并不好(PNG和GIF通常是用来存储这类的图形)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;PNG&#34;&gt;&lt;a href=&#34;#PNG&#34; class=&#34;headerlink&#34; title=&#34;PNG&#34;&gt;&lt;/a&gt;PNG&lt;/h2&gt;&lt;p&gt;便携式网络图形是一种无损压缩的位图图形格式，支持索引、灰度、RGB三种颜色方案以及Alpha通道等特性&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;特性：如果保存文本，线条或类似的边缘清晰，有大块相同颜色区域的图像，PNG格式的压缩效果就要比JPEG好很多，并且不会出现JPEG那样的高对比度区域的图像有损。如果图像既有清晰边缘，又有照片图像的特点，就需要在这两种格式之间权衡一下了。JPEG不支持透明度。&lt;br&gt;PNG格式有8位、24位、32位三种形式,其中8位PNG支持两种不同 的透明形式（索引透明和alpha透明）,24位PNG不支持透明,32位 PNG 在24位基础上增加了8位透明通道（32-24&amp;#x3D;&amp;#x3D;&amp;#x3D;8）,因此可展现256级透明程度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;PNG8&#34;&gt;&lt;a href=&#34;#PNG8&#34; class=&#34;headerlink&#34; title=&#34;PNG8&#34;&gt;&lt;/a&gt;PNG8&lt;/h3&gt;&lt;p&gt;PNG8是&lt;strong&gt;无损的、使用索引色的、点阵图&lt;/strong&gt;,支持不透明、索引透明、Alpha透明，都最多只能展示256（2的8次方）种颜色，所以“PNG8”格式更适合那些颜色比较单一的图像，例如纯色、logo、图标等；因为颜色数量少，所以图片的体积也会更小；&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;PNG8(不透明),默认PNG8&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;PNG8(索引色透明),简单说可以理解为静态的GIF&lt;br&gt;指定一个像素点是不是透明&lt;br&gt;但是PNG由于算法的优势,体积比较少&lt;br&gt;所以,静态GIF完全可用PNG8取代&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;PNG8(Alpha透明),牛逼在可指定像素点的透明度,例如50%透明度&lt;br&gt;这种优点在于比PNG24&amp;#x2F;32体积小,因为也只有256色嘛&lt;br&gt;缺点在于IE6支持不好,会把半透明的像素点显示成全透明&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;PNG24&#34;&gt;&lt;a href=&#34;#PNG24&#34; class=&#34;headerlink&#34; title=&#34;PNG24&#34;&gt;&lt;/a&gt;PNG24&lt;/h3&gt;&lt;p&gt;是PNG的直接色版本。PNG24是&lt;strong&gt;无损的、使用直接色的、点阵图&lt;/strong&gt;,支持2的24次方种颜色，表现为不透明。用三个8bits分别去表示 R（红）、G（绿）、B（蓝）。R(0255),G(0255),B(0~255)，可以表达256乘以256乘以256&amp;#x3D;16777216种颜色的图片，这样PNG24就能比PNG8表示色彩更丰富的图片,图片的清晰度也会更好，图片质量更高，当然图片的大小也会相应增加，所以“PNG24”的图片比较适合像摄影作品之类颜色比较丰富的图片&lt;br&gt;PNG24与JPG一样能表达丰富的图片细节，但并不能替代JPG。图片存储为PNG24比存储为JPG，文件大小至少是JPG的5倍，但在图片品质上的提升却微乎其微。所以除非对品质的要求极高，否则色彩丰富的网络图片还是推荐使用JPG&lt;/p&gt;
+&lt;h3 id=&#34;PNG32&#34;&gt;&lt;a href=&#34;#PNG32&#34; class=&#34;headerlink&#34; title=&#34;PNG32&#34;&gt;&lt;/a&gt;PNG32&lt;/h3&gt;&lt;p&gt;支持2的32次方种颜色，32位是我们最常使用的格式，它是在PNG在24位的PNG基础上增加了8位的透明信息，支持不同程度的半透效果&lt;/p&gt;
+&lt;h3 id=&#34;PNG8-PNG24-PNG32三者的区别在于：&#34;&gt;&lt;a href=&#34;#PNG8-PNG24-PNG32三者的区别在于：&#34; class=&#34;headerlink&#34; title=&#34;PNG8\PNG24\PNG32三者的区别在于：&#34;&gt;&lt;/a&gt;PNG8\PNG24\PNG32三者的区别在于：&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;PNG-32每个像素的深度为32bits，其中RGBA四个通道各占8bits。所谓的RGBA四个通道，就是红，绿，蓝，透明 这四种色值各自的大小，都用8bits来表示（0～255）。&lt;/li&gt;
+&lt;li&gt;PNG-24的像素深度为24bits，其中RGB三个通道各占8bits。&lt;/li&gt;
+&lt;li&gt;PNG-8则是使用8位的索引色。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;GIF&#34;&gt;&lt;a href=&#34;#GIF&#34; class=&#34;headerlink&#34; title=&#34;GIF&#34;&gt;&lt;/a&gt;GIF&lt;/h2&gt;&lt;p&gt;GIF是一种&lt;strong&gt;无损、使用于索引色的、位图&lt;/strong&gt;。由于采用了无损压缩，相比古老的bmp格式，尺寸较小，而且支持透明和动画。缺点是由于gif只存储8位索引（也就是最多能表达2^8&amp;#x3D;256种颜色），色彩复杂、细节丰富的图片不适合保存为gif格式。色彩简单的logo、icon、线框图适合采用gif格式。&lt;/p&gt;
+&lt;p&gt;静态GIF完全可用PNG8取代&lt;/p&gt;
+&lt;h2 id=&#34;WEBP&#34;&gt;&lt;a href=&#34;#WEBP&#34; class=&#34;headerlink&#34; title=&#34;WEBP&#34;&gt;&lt;/a&gt;WEBP&lt;/h2&gt;&lt;p&gt;WebP图片是一种同时提供了&lt;strong&gt;有损压缩与无损压缩、使用直接色的、位图&lt;/strong&gt;，由Google开发。与png、jpg相比，相同的视觉体验下，WebP图像的尺寸缩小了大约30％。另外，WebP图像格式还支持有损压缩、无损压缩、透明和动画。理论上完全可以替代png、jpg、gif等图片格式，当然目前webp的还没有得到全面的支持。&lt;/p&gt;
+&lt;p&gt;WEBP与PNG压缩对比&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/bc4a75ff/formatpng.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;可以得出结论：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  PNG 转 WebP 的压缩率要高于 PNG 原图压缩率，同样支持有损与无损压缩&lt;br&gt;  转换后的 WebP 体积大幅减少，图片质量也得到保障（同时肉眼几乎无法看出差异）&lt;br&gt;  转换后的 WebP 支持 Alpha 透明和 24-bit 颜色数，不存在 PNG8 色彩不够丰富和在浏览器中可能会出现毛边的问题&lt;/p&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/631793c8/</guid>
+            <title>文件后缀与文件</title>
+            <link>https://www.oikiou.top/2022/631793c8/</link>
+            <category>DS_Store</category>
+            <category>rtf</category>
+            <category>后缀</category>
+            <pubDate>Thu, 15 Sep 2022 17:47:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;文件后缀与文件&#34;&gt;&lt;a href=&#34;#文件后缀与文件&#34; class=&#34;headerlink&#34; title=&#34;文件后缀与文件&#34;&gt;&lt;/a&gt;文件后缀与文件&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;后缀&lt;/th&gt;
+&lt;th&gt;名称描述&lt;/th&gt;
+&lt;th&gt;简述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;.DS_Store&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Desktop Services Store&lt;/td&gt;
+&lt;td&gt;Mac OS X操作系统所创造的隐藏文件，类似&lt;code&gt;desktop.ini&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;编辑历史&#34;&gt;&lt;a href=&#34;#编辑历史&#34; class=&#34;headerlink&#34; title=&#34;编辑历史&#34;&gt;&lt;/a&gt;编辑历史&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;date&lt;/th&gt;
+&lt;th&gt;note&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;2022.9.15&lt;/td&gt;
+&lt;td&gt;First Version&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;DS-Store&#34;&gt;&lt;a href=&#34;#DS-Store&#34; class=&#34;headerlink&#34; title=&#34;.DS_Store&#34;&gt;&lt;/a&gt;.DS_Store&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  DS_Store，英文全称是 Desktop Services Store（桌面服务存储），开头的 DS 是 Desktop Services（桌面服务） 的缩写。它是一种由macOS系统自动创建的隐藏文件，存在于每一个用「Finder」打开过的文件夹下面。&lt;/p&gt;
+&lt;p&gt;  &lt;code&gt;.DS_Store&lt;/code&gt; 是一种由苹果公司的Mac OS X操作系统所创造的隐藏文件，目的在于存贮目录的自定义属性，例如文件们的图标位置或者是背景色的选择。该文件由&lt;code&gt;Finder&lt;/code&gt;创建并维护，类似于&lt;code&gt;Microsoft Windows&lt;/code&gt;中的&lt;code&gt;desktop.ini&lt;/code&gt;文件。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;RTF&#34;&gt;&lt;a href=&#34;#RTF&#34; class=&#34;headerlink&#34; title=&#34;.RTF&#34;&gt;&lt;/a&gt;.RTF&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  &lt;strong&gt;富文本格式&lt;/strong&gt;（&lt;strong&gt;Rich Text Format&lt;/strong&gt;）即&lt;strong&gt;RTF格式&lt;/strong&gt;，又称&lt;strong&gt;多文本格式&lt;/strong&gt;，是由&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%BE%AE%E8%BD%AF&#34;&gt;微软&lt;/a&gt;公司开发的跨平台&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%96%87%E6%A1%A3&#34;&gt;文档&lt;/a&gt;格式。大多数的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E5%A4%84%E7%90%86&#34;&gt;文字处理&lt;/a&gt;软件都能读取和保存RTF文档。&lt;/p&gt;
+&lt;h2 id=&#34;支持软件&#34;&gt;&lt;a href=&#34;#支持软件&#34; class=&#34;headerlink&#34; title=&#34;支持软件&#34;&gt;&lt;/a&gt;支持软件&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/WordPad&#34;&gt;WordPad&lt;/a&gt;（&lt;a href=&#34;https://zh.wikipedia.org/wiki/Microsoft_Windows&#34;&gt;Microsoft Windows&lt;/a&gt;）&amp;#x2F; &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E7%B7%A8%E8%BC%AF_(%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F)&#34;&gt;文本编辑&lt;/a&gt;（&lt;a href=&#34;https://zh.wikipedia.org/wiki/Mac_OS&#34;&gt;Mac OS&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/Microsoft_Word&#34;&gt;Microsoft Word&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/Apache_OpenOffice&#34;&gt;Apache OpenOffice&lt;/a&gt; &amp;#x2F; &lt;a href=&#34;https://zh.wikipedia.org/wiki/LibreOffice&#34;&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/zh-cn/WPS_Office&#34;&gt;WPS Office&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/EIOffice&#34;&gt;EIOffice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/613d8edd/</guid>
+            <title>Zip Gzip Bzip2 Tar 的区别和差异</title>
+            <link>https://www.oikiou.top/2022/613d8edd/</link>
+            <category>zip</category>
+            <category>gzip</category>
+            <category>bzip</category>
+            <category>tar</category>
+            <pubDate>Thu, 15 Sep 2022 00:20:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;zip-gzip-bzip2-tar-命令的区别和差异&#34;&gt;&lt;a href=&#34;#zip-gzip-bzip2-tar-命令的区别和差异&#34; class=&#34;headerlink&#34; title=&#34;zip gzip bzip2 tar 命令的区别和差异&#34;&gt;&lt;/a&gt;zip gzip bzip2 tar 命令的区别和差异&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;gzip&lt;/code&gt; 和 &lt;code&gt;bzip2&lt;/code&gt;用于压缩单个文件。bzip2 比 gzip 具有更高的压缩率，同样的也会需要&lt;strong&gt;更多更多更多&lt;/strong&gt;时间来进行压缩。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;tar&lt;/code&gt;格式的包只是将文件归档在一起, 并不会有任何压缩。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;zip&lt;/code&gt; 和 &lt;code&gt;tar&lt;/code&gt; 命令用于压缩和归档文件夹。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;zip&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.zip&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;可以压缩目录&lt;/td&gt;
+&lt;td&gt;源文件会保留&lt;/td&gt;
+&lt;td&gt;专门的压缩命令&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gzip&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.gz&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;只能压缩文件&lt;/td&gt;
+&lt;td&gt;压缩后源文件会被删除&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;bzip2&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.bz2&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;只能压缩文件&lt;/td&gt;
+&lt;td&gt;加&lt;code&gt;-k&lt;/code&gt;参数源文件可以保留&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;tar&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.tar&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;可以压缩目录&lt;/td&gt;
+&lt;td&gt;源文件会保留&lt;/td&gt;
+&lt;td&gt;linux包大多是这形态&lt;br&gt;将目录打包成一个文件&lt;code&gt;Tape archive&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;xz&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.xz&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;zip&#34;&gt;&lt;a href=&#34;#zip&#34; class=&#34;headerlink&#34; title=&#34;zip&#34;&gt;&lt;/a&gt;zip&lt;/h2&gt;&lt;h2 id=&#34;gzip&#34;&gt;&lt;a href=&#34;#gzip&#34; class=&#34;headerlink&#34; title=&#34;gzip&#34;&gt;&lt;/a&gt;gzip&lt;/h2&gt;&lt;p&gt;该&lt;code&gt;gzip&lt;/code&gt;程序用于压缩一个或多个文件。执行时，它将原始文件替换为原始文件的压缩版本。使用 gzip 压缩的文件具有扩展名&lt;code&gt;.gz&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;bzip2&#34;&gt;&lt;a href=&#34;#bzip2&#34; class=&#34;headerlink&#34; title=&#34;bzip2&#34;&gt;&lt;/a&gt;bzip2&lt;/h2&gt;&lt;p&gt;该&lt;code&gt;bzip2&lt;/code&gt;命令类似于 gzip，但使用不同的压缩算法，以牺牲压缩速度为代价归档更高级别的压缩。使用 bzip2 压缩的文件具有扩展名&lt;code&gt;.bz2&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tar&#34;&gt;&lt;a href=&#34;#tar&#34; class=&#34;headerlink&#34; title=&#34;tar&#34;&gt;&lt;/a&gt;tar&lt;/h2&gt;&lt;p&gt;&lt;code&gt;tar&lt;/code&gt;命令，首字母缩略词&lt;em&gt;&lt;strong&gt;Tape archive&lt;/strong&gt;&lt;/em&gt;用于创建存档文件。tar 存档可以由单独的文件、一个或多个目录层次结构或两者的混合组成。tar 文件有扩展名&lt;code&gt;.tar&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;xz&#34;&gt;&lt;a href=&#34;#xz&#34; class=&#34;headerlink&#34; title=&#34;xz&#34;&gt;&lt;/a&gt;xz&lt;/h2&gt;&lt;p&gt;&lt;code&gt;xz&lt;/code&gt;是一个通用的数据压缩工具，命令行语法类似于 gzip 和 bzip2 。它根据选择的操作模式压缩或解压缩每个文件。用 xz 压缩的文件具有扩展名&lt;code&gt;.xz&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;Zip-和-Unzip&#34;&gt;&lt;a href=&#34;#Zip-和-Unzip&#34; class=&#34;headerlink&#34; title=&#34;Zip 和 Unzip&#34;&gt;&lt;/a&gt;Zip 和 Unzip&lt;/h1&gt;&lt;h2 id=&#34;zip-1&#34;&gt;&lt;a href=&#34;#zip-1&#34; class=&#34;headerlink&#34; title=&#34;zip&#34;&gt;&lt;/a&gt;zip&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;zip [-r] [压缩后文件名] [文件或目录]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;zip&lt;/code&gt;命令用来对文件进行打包操作。zip是个使用广泛的压缩程序，文件经它压缩后会另外产生具有“.zip”扩展名的压缩文件；&lt;/li&gt;
+&lt;li&gt;在linux压缩后的文件，基本都可以在Windows系统中解压；Windows中压缩的文件，在Linux中不一定可用，但是zip格式的压缩文件，可以做到可用；&lt;/li&gt;
+&lt;li&gt;zip的压缩比不是很高；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 压缩文件&lt;/span&gt;&lt;br&gt;$ zip a.zip a.txt&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看压缩后的文件&lt;/span&gt;&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt  a.zip  &lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 2. -r：压缩文件夹&lt;/span&gt;&lt;br&gt;$ zip -r test.zip testDir/&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;testDir  test.zip&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 3. -x 排除文件&lt;/span&gt;&lt;br&gt;$ zip -r test2.zip testDir/ -x &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;testDir/hello*&amp;quot;&lt;/span&gt; -x &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;testDir/dir/*&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;unzip-解压&#34;&gt;&lt;a href=&#34;#unzip-解压&#34; class=&#34;headerlink&#34; title=&#34;unzip 解压&#34;&gt;&lt;/a&gt;unzip 解压&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;unzip [选项] 文件名&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;unzip&lt;/code&gt;命令用于解压缩由zip命令压缩的“.zip”压缩包。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;选项&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;-n：解压缩时不要覆盖原有的文件；&lt;/li&gt;
+&lt;li&gt;-o：不必先询问用户，unzip执行后覆盖原有的文件；&lt;/li&gt;
+&lt;li&gt;-d &amp;lt;目录&amp;gt;：指定文件解压缩后所要存储的目录(不指定目录，默认解压到当前目录)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 解压文件到家目录&lt;/span&gt;&lt;br&gt;$ unzip test.zip -d ~&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;Gzip-和-Gunzip&#34;&gt;&lt;a href=&#34;#Gzip-和-Gunzip&#34; class=&#34;headerlink&#34; title=&#34;Gzip 和 Gunzip&#34;&gt;&lt;/a&gt;Gzip 和 Gunzip&lt;/h1&gt;&lt;h2 id=&#34;gzip-1&#34;&gt;&lt;a href=&#34;#gzip-1&#34; class=&#34;headerlink&#34; title=&#34;gzip&#34;&gt;&lt;/a&gt;&lt;strong&gt;gzip&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;gzip [文件]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gzip&lt;/code&gt;命令 用来压缩文件。gzip是个使用广泛的压缩程序，文件经它压缩过后，其名称后面会多处“&lt;code&gt;.gz&lt;/code&gt;”扩展名。&lt;code&gt;gzip&lt;/code&gt;只能压缩文件，不能压缩文件夹，压缩后原文件会被删除&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gzip&lt;/code&gt;是在Linux系统中经常使用的一个对文件进行压缩和解压缩的命令，既方便又好用。gzip不仅可以用来压缩大的、较少使用的文件以节省磁盘空间，还可以和tar命令一起构成Linux操作系统中比较流行的压缩文件格式。据统计，gzip命令对文本文件有60%～70%的压缩率。减少文件大小有两个明显的好处，一是可以减少存储空间，二是通过网络传输文件时，可以减少传输的时间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 压缩文件&lt;/span&gt;&lt;br&gt;$ gzip a.txt&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看压缩后的文件，源文件被删除&lt;/span&gt;&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt.gz&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;gunzip-解压&#34;&gt;&lt;a href=&#34;#gunzip-解压&#34; class=&#34;headerlink&#34; title=&#34;gunzip 解压&#34;&gt;&lt;/a&gt;gunzip 解压&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;gzip [文件]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gunzip&lt;/code&gt;命令用来解压缩文件。gunzip是个使用广泛的解压缩程序，它用于解开被gzip压缩过的文件，这些压缩文件预设最后的扩展名为&lt;code&gt;.gz&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 解压文件，解压后压缩文件被删除&lt;/span&gt;&lt;br&gt;$ gunzip a.txt.gz&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;Bzip2&#34;&gt;&lt;a href=&#34;#Bzip2&#34; class=&#34;headerlink&#34; title=&#34;Bzip2&#34;&gt;&lt;/a&gt;Bzip2&lt;/h1&gt;&lt;h2 id=&#34;bzip2-1&#34;&gt;&lt;a href=&#34;#bzip2-1&#34; class=&#34;headerlink&#34; title=&#34;bzip2&#34;&gt;&lt;/a&gt;bzip2&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;bzip2 [选项] [文件]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bzip2命令用于压缩“&lt;code&gt;.bz2&lt;/code&gt;”格式的压缩包，是&lt;code&gt;gzip&lt;/code&gt;的升级版本，可以保留原文件；&lt;/li&gt;
+&lt;li&gt;bzip2的压缩比比较高，可用于压缩较大文件的压缩；&lt;/li&gt;
+&lt;li&gt;bzip2也是只对文件进行压缩，如果相对目录进行压缩的话，可以配合 &lt;code&gt;tar&lt;/code&gt;命令使用，使用 &lt;code&gt;tar -jcvf&lt;/code&gt; 文件名 完成打包压缩。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;选项&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-k（keep）：保留原文件（不删除原文件）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# bzip2 压缩文件&lt;/span&gt;&lt;br&gt;$ bzip2 -k a.txt&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt  a.txt.bz2&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 配合使用tar 命令，完成打包压缩&lt;/span&gt;&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;mkdir&lt;/span&gt; music&lt;br&gt;$ tar -jcvf music.tar.bz2 music/&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;music  music.tar.bz2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;bunzip2-解压&#34;&gt;&lt;a href=&#34;#bunzip2-解压&#34; class=&#34;headerlink&#34; title=&#34;bunzip2 解压&#34;&gt;&lt;/a&gt;bunzip2 解压&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;bunzip2 [选项] [文件]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;解压缩“&lt;code&gt;.bz2&lt;/code&gt;”格式的压缩文件；&lt;/li&gt;
+&lt;li&gt;gunzip的升级版，可以使用&lt;code&gt;-k&lt;/code&gt;保留原文件；&lt;/li&gt;
+&lt;li&gt;可以配合使用tar命令，完成解压缩解包： &lt;code&gt;tar -jxvf 文件名&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;选项&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-k（keep）：保留原文件（不删除原文件）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt.bz2  music.tar.bz2&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 解压缩文件&lt;/span&gt;&lt;br&gt;$ bunzip2 -k a.txt.bz2&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt  a.txt.bz2  music.tar.bz2&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 使用tar完成解压解包&lt;/span&gt;&lt;br&gt;$ tar -jxvf music.tar.bz2&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt  a.txt.bz2  music  music.tar.bz2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;tar-1&#34;&gt;&lt;a href=&#34;#tar-1&#34; class=&#34;headerlink&#34; title=&#34;tar&#34;&gt;&lt;/a&gt;tar&lt;/h1&gt;&lt;h2 id=&#34;tar-2&#34;&gt;&lt;a href=&#34;#tar-2&#34; class=&#34;headerlink&#34; title=&#34;tar&#34;&gt;&lt;/a&gt;tar&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;tar [选项] [压缩后文件名] [目录]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;打包目录，将目录打包成一个文件，同时可以压缩，压缩后的拓展名为&lt;code&gt;.tar.gz&lt;/code&gt;，这个拓展名在下载Linux相关安装包时很常见。&lt;/p&gt;
+&lt;p&gt;使用&lt;code&gt;tar&lt;/code&gt;命令时，如果想要打包并压缩一个目录，可以有两种方法进行：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;先利用tar命令打包目录为一个文件，然后使用gzip压缩&lt;/li&gt;
+&lt;li&gt;直接利用tar命令打包并压缩 (简单方便，推荐使用)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;解压时也有两种方式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;先使用gunzip解压缩，再使用tar解包&lt;/li&gt;
+&lt;li&gt;直接利用tar命令解压缩并解包 (简单方便，推荐使用)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;选项&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;-c：打包(将所有文件变成一个文件 Create  a new archive)&lt;/li&gt;
+&lt;li&gt;-x：解包&lt;/li&gt;
+&lt;li&gt;-v：显示详细信息&lt;/li&gt;
+&lt;li&gt;-f：指定文件名&lt;/li&gt;
+&lt;li&gt;-z：打包同时压缩&amp;#x2F;解压缩  ，gzip压缩&lt;/li&gt;
+&lt;li&gt;-j：生成压缩文件 ，bzip2压缩&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 压缩&lt;/span&gt;&lt;br&gt;tar -zcvf movie2.tar.gz movie&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 解压&lt;/span&gt;&lt;br&gt;tar -zxvf movie2.tar.gz&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 1、2为    打包压缩    的两种方法&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 1. 使用 tar -cvf 打包，然后使用gzip压缩&lt;/span&gt;&lt;br&gt;$ tar -cvf movie.tar movie/&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;movie  movie.tar&lt;br&gt;$ gzip movie.tar&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;movie  movie.tar.gz&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 2. 使用 tar -zcvf 打包并压缩&lt;/span&gt;&lt;br&gt;$ tar -zcvf movie2.tar.gz movie&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;movie  movie2.tar.gz&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 3、4为     解压缩并解包     的两种方法&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 3. 先使用gunzip解压缩，然后 tar -xvf解包&lt;/span&gt;&lt;br&gt;$ gunzip movie.tar.gz&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;movie2.tar.gz  movie.tar&lt;br&gt;$ tar -xvf movie.tar&lt;br&gt;movie/&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;movie  movie2.tar.gz  movie.tar&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 4. 使用tar -zxvf 解压缩并解包&lt;/span&gt;&lt;br&gt;$ tar -zxvf movie2.tar.gz&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;movie  movie2.tar.gz  movie.tar&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://techviewleo.com/compress-uncompress-files-tar-gzip-bzip2-xz-linux/&#34;&gt;LPIC 101 – Compress and Uncompress Files Using tar, gzip, bzip2 and xz on Linux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_archive_formats#Comparison&#34;&gt;List of archive formats&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/45a589a3/</guid>
+            <title>MD5</title>
+            <link>https://www.oikiou.top/2022/45a589a3/</link>
+            <category>md5</category>
+            <pubDate>Wed, 14 Sep 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;MD5&#34;&gt;&lt;a href=&#34;#MD5&#34; class=&#34;headerlink&#34; title=&#34;MD5&#34;&gt;&lt;/a&gt;MD5&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;MD5消息摘要算法&lt;/strong&gt;（英语：MD5 Message-Digest Algorithm），一种被广泛使用的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A2%BC%E9%9B%9C%E6%B9%8A%E5%87%BD%E6%95%B8&#34;&gt;密码散列函数&lt;/a&gt;，可以产生出一个128位（16个字符(BYTES)）的散列值（hash value），用于确保信息传输完整一致。将&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE&#34;&gt;数据&lt;/a&gt;（如一段文字）运算变为另一固定长度值，是散列算法的基础原理。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;参考&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/121492822&#34;&gt;MD5破解的几种方法&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MD5&#34;&gt;Wiki MD5&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;特性&#34;&gt;&lt;a href=&#34;#特性&#34; class=&#34;headerlink&#34; title=&#34;特性&#34;&gt;&lt;/a&gt;特性&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;不可逆向的&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  我们没办法把MD5码还原对应的原文。道理很简单，任意长度的数据经过MD5处理后，所包含的信息量已经大大减少，那是不可能再次还原成为原始信息的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;原文中作一个小变化其散列也会发生巨大的变化&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight excel&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs excel&#34;&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;MD5&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;The quick brown fox jumps over the lazy dog&amp;quot;&lt;/span&gt;)&lt;br&gt;= &lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;e107d9d372bb6826bd81d3542a419d6&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  比如用c取代d, 其MD5值发生了巨大的变化&lt;/p&gt;
+  &lt;figure class=&#34;highlight excel&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs excel&#34;&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;MD5&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;The quick brown fox jumps over the lazy cog&amp;quot;&lt;/span&gt;)&lt;br&gt;= &lt;span class=&#34;hljs-number&#34;&gt;1055&lt;/span&gt;d3e698d289f2af8663725127bd4b&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;已被破解&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  通俗点讲就是，可以找到一个A和一个B，使hash（A）&amp;#x3D;hash（B），而真正有用的是给定一个A能得到B，使hash（A）&amp;#x3D;hash（B），而王小云能做到这样&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;应用&#34;&gt;&lt;a href=&#34;#应用&#34; class=&#34;headerlink&#34; title=&#34;应用&#34;&gt;&lt;/a&gt;应用&lt;/h1&gt;&lt;p&gt;MD5 摘要已在&lt;a href=&#34;https://en.wikipedia.org/wiki/Software&#34;&gt;软件&lt;/a&gt;世界中广泛使用，以确保传输的文件已完好无损地到达。例如，文件服务器通常会为文件提供预先计算的 MD5（称为&lt;a href=&#34;https://en.wikipedia.org/wiki/Md5sum&#34;&gt;md5sum&lt;/a&gt;）&lt;a href=&#34;https://en.wikipedia.org/wiki/Checksum&#34;&gt;校验和&lt;/a&gt;，以便用户可以将下载文件的校验和与其进行比较。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/45a589a3/350px-CPT-Hashing-File-Transmission.png&#34; alt=&#34;350px-CPT-Hashing-File-Transmission.svg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;由于很容易产生 MD5 冲突，因此创建文件的人可能会创建具有相同校验和的第二个文件，因此该技术无法防止某些形式的恶意篡改。&lt;/p&gt;
+&lt;p&gt;在某些情况下，校验和是不可信的（例如，如果它是通过与下载文件相同的渠道获得的，他人可能修改了文件后再次修改了MD5，使得MD5并不可信），在这种情况下，MD5 只能提供错误检查功能：“它会识别损坏或不完整的下载，这变成下载较大文件时更有可能。”&lt;/p&gt;
+&lt;h1 id=&#34;破解&#34;&gt;&lt;a href=&#34;#破解&#34; class=&#34;headerlink&#34; title=&#34;破解&#34;&gt;&lt;/a&gt;破解&lt;/h1&gt;&lt;h2 id=&#34;穷举法-amp-字典法&#34;&gt;&lt;a href=&#34;#穷举法-amp-字典法&#34; class=&#34;headerlink&#34; title=&#34;穷举法&amp;amp;字典法&#34;&gt;&lt;/a&gt;穷举法&amp;amp;字典法&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;穷举法非常简单，就是不停地尝试各种字符的排列组合，看哪一个组合的MD5码能对上。&lt;/strong&gt;可惜缺点是太耗费时间了。我们举个栗子，假设我们要破解一个6位大小写字母和数字混合的密码，那么一共有(26+26+10)&lt;sup&gt;6&lt;/sup&gt; 种组合。这个数的大小超过500亿。&lt;/p&gt;
+&lt;p&gt;既然计算如此费时，能不能考虑&lt;strong&gt;把计算结果以映射表的形式存放起来，一个萝卜一个坑&lt;/strong&gt;，一个原文对应着一个MD5码呢？可以呀！这就是传说中的“字典法”。将已知的MD5码查表，直接反查出原文。&lt;strong&gt;字典法体现了算法设计的“以空间换时间”的思想。&lt;/strong&gt;缺点是比较耗费空间。不过现在硬盘的价格变得白菜价了，空间开销不算什么。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cmd5.com/password.aspx&#34;&gt;CMD5 反查网站&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.somd5.com/&#34;&gt;SMD5 反查网站&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;哈希链表-amp-彩虹表法&#34;&gt;&lt;a href=&#34;#哈希链表-amp-彩虹表法&#34; class=&#34;headerlink&#34; title=&#34;哈希链表&amp;amp;彩虹表法&#34;&gt;&lt;/a&gt;哈希链表&amp;amp;彩虹表法&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  如果说穷举法太耗费时间，字典法太耗费存储空间的话，我们能不能考虑在时间消耗和空间消耗之间折中呢？我们可以考虑用链表将一系列有意义的原文和MD5码串起来。&lt;/p&gt;
+&lt;p&gt;  要构造这样的链表，我们需要两个函数：哈希函数H(x)和衰减函数（reduction function）R(x)。哈希函数可以是MD5，也可以是其他的消息摘要算法。H(x)的值域是R(x)的定义域，R(x)的值域是H(x)的定义域。&lt;strong&gt;R(x)不是H(x)的反函数。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  将一个原文不停地使用H(x)和R(x)交替进行运算k次，再将原文本身和运算结果以链表的形式串接起来，就可以得到结点个数为2k+1的链表。实际存放的时候只存放首端和末端两个原文即可。&lt;strong&gt;这种链表叫做“哈希链表”，体现了算法设计的“时空权衡”（Space and Time Tradeoffs）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  举个栗子，假设原文s&amp;#x3D;abcabc，经过2次交替运算，得到以下的链表：&lt;/p&gt;
+&lt;p&gt;  abcabc-&amp;gt;H(x)-&amp;gt;3C8B0D7A-&amp;gt;R(x)-&amp;gt;eopmca-&amp;gt;H(x)-&amp;gt;7E9F216C-&amp;gt;R(x)-&amp;gt;rapper&lt;/p&gt;
+&lt;p&gt;  以上数据均为举例编造的，仅为说明原理使用。那我们存放这个链表的时候，只需要记录abcabc和rapper两个原文即可。&lt;/p&gt;
+&lt;p&gt;  假设我们要破解的摘要值（哈希链表的H(x)不一定是MD5算法，这里用更准确的说法代替MD5码）是7E9F216C，经过R(x)运算得到rapper，说明我们要寻找的原文就在以rapper为末端的哈希链表中。从首端开始经过多次运算，我们发现eopmca的摘要值就是7E9F216C。于是就反查出7E9F216C对应的原文是eopmca。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;如果在生成哈希链表的时候依次使用多个不一样的R(x)，此时的哈希链表就是“彩虹表”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  这里有已经计算好的彩虹表：&lt;a href=&#34;https://link.zhihu.com/?target=http://project-rainbowcrack.com/table.htm&#34;&gt;http://project-rainbowcrack.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;差分攻击&#34;&gt;&lt;a href=&#34;#差分攻击&#34; class=&#34;headerlink&#34; title=&#34;差分攻击&#34;&gt;&lt;/a&gt;差分攻击&lt;/h2&gt;&lt;p&gt;上面介绍的穷举法、字典法和彩虹表法都是暴力破解，适用于任何的消息摘要算法。&lt;/p&gt;
+&lt;p&gt;真正意义上MD5算法的破解，是2004年山东大学王小云教授提出的MD5碰撞方法。她所用到的方法正是差分攻击。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sohu.com/a/501560600_121106869&#34;&gt;她是这样的“中国密码女神”！&lt;/a&gt; &lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/c65e1067/</guid>
+            <title>Tags Label Category</title>
+            <link>https://www.oikiou.top/2022/c65e1067/</link>
+            <category>tags</category>
+            <category>label</category>
+            <category>category</category>
+            <pubDate>Thu, 25 Aug 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;知乎  &lt;a href=&#34;https://www.zhihu.com/people/songvision&#34;&gt;千鸟&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  这问题要分两个层面来解读：&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;首先是Tag与Category的区别。&lt;/strong&gt;Category往往限制在一个维度里，当树状结构复杂到不可调和时，出现瓶颈是迟早的事。Category的问题在于，既不能完全满足用户需求，也不能完全表达创建者对内容属性的认知。而Tag反之都成立，完全互补。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;其次是Label与Tag的区别。&lt;/strong&gt;于对内容的概括出现偏差，但显然这种问题不是tag，在内容组织范畴那应该是什么？答案就是label，除产品描述，其应用范畴还涉及功能名称、模块名称、导航名称、引导文字等等场景。我认为tag与label之间有三个显著差异：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;label是本身的，tag是附加的；&lt;/li&gt;
+&lt;li&gt;label强调是一种标志，tag强调是一种记号；&lt;/li&gt;
+&lt;li&gt;label标明信息之间的归属，tag区别信息之间的差异。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;知乎 郑讯&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  Tag，标签，一般包含一段内容的属性，可以是分类，可以是话题，也可以是作者，地理信息等。&lt;/p&gt;
+&lt;p&gt;  Label，标记，是网页框架中一个区域的功能概括。比如知乎首页上的“浏览”、“问题”、“通知”就是label。选择不同的标记，相应区域的功能就会发生变化。&lt;/p&gt;
+&lt;p&gt;  category，分类，可以理解为种属概念。一段内容有且只有一个种属的分类。和Tag不同的是一段内容可以有多个tag，并且tag是未预先设定的，一段内容可以有多个Tag，也可以没有Tag。但caterory在一个分类标准下只有一个。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;知乎 李楠&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  &lt;strong&gt;Category&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  Category 是非常理想化和一根筋的分类方式。图书馆这种死板到头的地方用的多。但是他们也遇到了问题：“苏菲的世界”到底是“哲学”，还是“文学”？&lt;/p&gt;
+&lt;p&gt;  物理世界无力从根本上解决这种问题（但似乎不少讨论）。问过我们学校的图书馆，似乎他们方式还比较靠谱：&lt;strong&gt;买两本，两处放。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  分类对象数字化之后， Category 的影响还在（早期的门户找点跨界的东西就很悲剧）。直到 Web2.0 ， Tag 竟然才开始流行。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;Tag&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  Tag 是更好的分类方式的原因是：&lt;/p&gt;
+&lt;p&gt;  1&lt;/p&gt;
+&lt;p&gt;  “类别”本来就不应该事先定义：人不是上帝。&lt;/p&gt;
+&lt;p&gt;  从一个个具体对象的“属性”中，总结出“类别”是最自然的模式。也是“人”可以做到的事情。&lt;/p&gt;
+&lt;p&gt;  2&lt;/p&gt;
+&lt;p&gt;  “属性”本来就应该可以自然的表现为多个。&lt;/p&gt;
+&lt;p&gt;  苏菲的世界终于可以自然的打上“哲学”和“文学”的 Tag 了，或者再加个“少儿读物”。这种思考方式比 Category 优雅太多。&lt;/p&gt;
+&lt;p&gt;  Tag 最终普及，背后恐怕有&lt;a href=&#34;https://www.zhihu.com/search?q=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:12226710%7D&#34;&gt;软件工程&lt;/a&gt;上 OO 普及（面向对象）的因素。&lt;strong&gt;“面向对象”不仅仅是的程序构建方式，更是认识世界的方法论的进步。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  “属性”跟随“对象”，比“对象”属于“类别”更自然，不机械。 。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;Tag 的改进&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  Tag 本身也可以看作“对象”。&lt;/p&gt;
+&lt;p&gt;  那么就有针对 Tag 的操作，比如“搜索”，“排序”，“关联对象”。也有 Tag 本身的属性，比如“使用次数”，“关注人数”等等。&lt;/p&gt;
+&lt;p&gt;  如何能在使用 Tag 的系统中，根据这些数据，计算出最适合的对象，就要靠算法的优化和运营的调整了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;知乎 &lt;a href=&#34;https://www.zhihu.com/people/zheng-wei-42-9&#34;&gt;榆木脑袋&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  Catagory是逻辑清晰的。Tag是随意自由的。在看到一个信息的时候我们需要自由捕获自己头脑中的闪光。在重新审视或再利用我们收集的信息时，就需要清晰的逻辑条理。&lt;/p&gt;
+&lt;p&gt;  以文件管理为例：&lt;/p&gt;
+&lt;p&gt;  在标记Tag时需求有二：一是能够方便增加新的Tag，二是能够很方便的看到已有的Tag，并能同时把已有标签赋予当前信息。&lt;/p&gt;
+&lt;p&gt;  在查找文件时个人觉得需要有的功能是：一是有固定的几个入口，也就是根目录；二是可以增加根节点；三是根目录可以指定某几个Tag，也可以不是；三如果根目录不是Tag，需要定义关联到此根目录（分类）下的Tag；四（重点功能）根目录下不直接列出信息或文件（时间长了，某一Tag下文件会相当多），而是列出关联Tag的所有文件的其它Tag，显示为子目录，并标识出此子目录中的文件数量。五（作为管理功能）此时可以定义哪些Tag不在此根目录下出现。六设置某个Tag或某类Tag(文件数量大过一个数量)下仍不列出文件而是继续列出Tag；七子目录（Tag）下，上级目录Tag不再出现。&lt;/p&gt;
+&lt;p&gt;  我个人非常偏好使用树形目录结构，但苦恼于文件的多重分类和文件进行多重分类时的繁琐。经过多方搜索只找到三个比较符合的软件，一个是PinKM，一个是蓝码动力图片管理软件，一个是国外的Tabbles。但都因标签管理和整理的繁琐而放弃。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;个人理解&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Catagory 是属于严格的分类方法, 一个东西应当只属于一个Catagory内, 而且它是有层级关系的&lt;/li&gt;
+&lt;li&gt;Tags 是可有可无的, 一个东西可以有很多的Tags, 它是无层级关系的,&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/438d1de3/</guid>
+            <title>字符集和字符编码</title>
+            <link>https://www.oikiou.top/2022/438d1de3/</link>
+            <category>character encoding</category>
+            <category>gb2312</category>
+            <category>utf-8</category>
+            <pubDate>Sun, 14 Aug 2022 22:12:34 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;字符集和字符编码&#34;&gt;&lt;a href=&#34;#字符集和字符编码&#34; class=&#34;headerlink&#34; title=&#34;字符集和字符编码&#34;&gt;&lt;/a&gt;字符集和字符编码&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/skynet/archive/2011/05/03/2035105.html&#34;&gt;字符集和字符编码 (Charset &amp;amp; Encoding)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.knowsky.com/resource/gb2312tbl.htm&#34;&gt;GB2312简体中文编码表&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://tools.jb51.net/table/gb2312&#34;&gt;GB2312简体中文编码表&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.unicode.org/charts/&#34;&gt;Unicode码查询&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/Unicode%E5%AD%97%E7%AC%A6%E5%B9%B3%E9%9D%A2%E6%98%A0%E5%B0%84&#34;&gt;Unicode字符平面映射&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;概念&#34;&gt;&lt;a href=&#34;#概念&#34; class=&#34;headerlink&#34; title=&#34;概念&#34;&gt;&lt;/a&gt;概念&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;字符集（Charset）&lt;/strong&gt;：是一个系统支持的所有抽象字符的集合。字符是各种文字和符号的总称，包括各国家文字、标点符号、图形符号、数字等。&lt;/p&gt;
+&lt;p&gt;常见字符集：ASCII字符集、GB2312字符集、BIG5字符集、GB18030字符集、Unicode字符集等。计算机要准确的处理各种字符集文字，需要进行字符编码，以便计算机能够识别和存储各种文字。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;字符编码（Character Encoding）&lt;/strong&gt;：是一套法则，使用该法则能够对自然语言的字符的一个集合（如字母表或音节表），与其他东西的一个集合（如号码、数字或电脉冲）进行配对。即在符号集合与数字系统之间建立对应关系，它是信息处理的一项基本技术。通常人们用符号集合（一般情况下就是文字）来表达信息。而以计算机为基础的信息处理系统则是利用元件（硬件）不同状态的组合来存储和处理信息的。元件不同状态的组合能代表数字系统的数字，因此字符编码就是将符号转换为计算机可以接受的数字系统的数，称为数字代码。&lt;/p&gt;
+&lt;h2 id=&#34;ASCII&#34;&gt;&lt;a href=&#34;#ASCII&#34; class=&#34;headerlink&#34; title=&#34;ASCII&#34;&gt;&lt;/a&gt;ASCII&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;ASCII字符集&lt;/strong&gt;：主要包括控制字符（回车键、退格、换行键等）；可显示字符（英文大小写字符、阿拉伯数字和西文符号）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ASCII编码&lt;/strong&gt;：将ASCII字符集转换为计算机可以接受的数字系统的数的规则。使用7位（bits）表示一个字符，共128字符；但是7位编码的字符集只能支持128个字符，为了表示更多的常用字符欧洲对ASCII进行了扩展，ASCII扩展字符集使用8位（bits）表示一个字符，共256字符。ASCII字符集映射到数字编码规则如下图所示：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/438d1de3/2011050311372042.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/438d1de3/201105031137219627.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;GBxxx&#34;&gt;&lt;a href=&#34;#GBxxx&#34; class=&#34;headerlink&#34; title=&#34;GBxxx&#34;&gt;&lt;/a&gt;GBxxx&lt;/h2&gt;&lt;p&gt;中国把那些127号之后的奇异符号们（即EASCII、扩充ASCII）取消掉，规定：一个小于127的字符的意义与原来相同，但两个大于127的字符连在一起时，就表示一个汉字。前面的一个字节（他称之为高字节）从0xA1用到 0xF7，后面一个字节（低字节）从0xA1到0xFE，这样我们就可以组合出大约7000多个简体汉字了。在这些编码里，还把数学符号、罗马希腊的 字母、日文的假名们都编进去了，连在ASCII里本来就有的数字、标点、字母都统统重新编了两个字节长的编码，这就是常说的”全角”字符，而原来在127号以下的那些就叫”半角”字符了。&lt;/p&gt;
+&lt;p&gt;上述编码规则就是&lt;strong&gt;GB2312&lt;/strong&gt;。&lt;strong&gt;GB2312&lt;/strong&gt;或&lt;strong&gt;GB2312-80&lt;/strong&gt;是&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86&#34;&gt;中国国家标准&lt;/a&gt;&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87&#34;&gt;简体中文&lt;/a&gt;&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%AD%97%E7%AC%A6%E9%9B%86&#34;&gt;字符集&lt;/a&gt;，全称《&lt;strong&gt;信息交换用汉字编码字符集·基本集&lt;/strong&gt;》，又称&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E4%BB%A3%E7%A0%81&#34;&gt;&lt;strong&gt;GB0&lt;/strong&gt;&lt;/a&gt;，由&lt;a href=&#34;http://zh.wikipedia.org/w/index.php?title=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E6%80%BB%E5%B1%80&amp;action=edit&amp;redlink=1&#34;&gt;中国国家标准总局&lt;/a&gt;发布，&lt;a href=&#34;http://zh.wikipedia.org/wiki/1981%E5%B9%B4&#34;&gt;1981年&lt;/a&gt;&lt;a href=&#34;http://zh.wikipedia.org/wiki/5%E6%9C%881%E6%97%A5&#34;&gt;5月1日&lt;/a&gt;实施。GB2312编码通行于中国大陆；&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1&#34;&gt;新加坡&lt;/a&gt;等地也采用此编码。GB2312的出现，基本满足了汉字的计算机处理需要，它所收录的汉字已经覆盖中国大陆99.75%的使用频率。对于&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E4%BA%BA%E5%90%8D&#34;&gt;人名&lt;/a&gt;、&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%8F%A4%E6%B1%89%E8%AF%AD&#34;&gt;古汉语&lt;/a&gt;等方面出现的&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E7%BD%95%E7%94%A8%E5%AD%97&#34;&gt;罕用字&lt;/a&gt;，GB2312不能处理，这导致了后来&lt;a href=&#34;http://zh.wikipedia.org/wiki/GBK&#34;&gt;GBK&lt;/a&gt;及&lt;a href=&#34;http://zh.wikipedia.org/wiki/GB_18030&#34;&gt;GB 18030&lt;/a&gt;汉字字符集的出现。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.knowsky.com/resource/gb2312tbl.htm&#34;&gt;GB2312简体中文编码表&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://tools.jb51.net/table/gb2312&#34;&gt;GB2312简体中文编码表&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Unicode&#34;&gt;&lt;a href=&#34;#Unicode&#34; class=&#34;headerlink&#34; title=&#34;Unicode&#34;&gt;&lt;/a&gt;Unicode&lt;/h2&gt;&lt;p&gt;Unicode编码系统为表达任意语言的任意字符而设计。它使用4字节的数字来表达每个字母、符号，或者表意文字(ideograph)。每个字符对应一个数字，每个数字对应一个字符，即不存在二义性，不再需要记录”模式”了。U+0041总是代表’A’，即使这种语言没有’A’这个字符。&lt;/p&gt;
+&lt;p&gt;在计算机科学领域中，&lt;strong&gt;Unicode&lt;/strong&gt;（&lt;strong&gt;统一码&lt;/strong&gt;、&lt;strong&gt;万国码&lt;/strong&gt;、&lt;strong&gt;单一码&lt;/strong&gt;、&lt;strong&gt;标准万国码&lt;/strong&gt;）是业界的一种标准，它可以使电脑得以体现世界上数十种文字的系统。&lt;/p&gt;
+&lt;p&gt;（&lt;strong&gt;可以这样理解：Unicode是字符集，UTF-32&amp;#x2F; UTF-16&amp;#x2F; UTF-8是三种字符编码方案。&lt;/strong&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.unicode.org/charts/&#34;&gt;Unicode码查询&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/Unicode%E5%AD%97%E7%AC%A6%E5%B9%B3%E9%9D%A2%E6%98%A0%E5%B0%84&#34;&gt;Unicode字符平面映射&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;BOM&#34;&gt;&lt;a href=&#34;#BOM&#34; class=&#34;headerlink&#34; title=&#34;BOM&#34;&gt;&lt;/a&gt;BOM&lt;/h3&gt;&lt;p&gt;EF BB BF　　　 UTF-8&lt;br&gt;FE FF　　　　　UTF-16&amp;#x2F;UCS-2, little endian&lt;br&gt;FF FE　　　　　UTF-16&amp;#x2F;UCS-2, big endian&lt;br&gt;FF FE 00 00　　UTF-32&amp;#x2F;UCS-4, little endian.&lt;br&gt;00 00 FE FF　　UTF-32&amp;#x2F;UCS-4, big-endian.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;字符集和字符编码&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/438d1de3/v2-aee5ae604328ab912b285d03b6c62273_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;UTF-32&#34;&gt;&lt;a href=&#34;#UTF-32&#34; class=&#34;headerlink&#34; title=&#34;UTF-32&#34;&gt;&lt;/a&gt;UTF-32&lt;/h3&gt;&lt;p&gt;上述使用4字节的数字来表达每个字母、符号，或者表意文字(ideograph)，每个数字代表唯一的至少在某种语言中使用的符号的编码方案，称为UTF-32。UTF-32又称&lt;strong&gt;UCS-4&lt;/strong&gt;是一种将&lt;a href=&#34;http://zh.wikipedia.org/wiki/Unicode&#34;&gt;Unicode&lt;/a&gt;字符编码的协定，对每个字符都使用4字节。就空间而言，是非常没有效率的。&lt;/p&gt;
+&lt;p&gt;这种方法有其优点，最重要的一点就是可以在常数时间内定位字符串里的第N个字符，因为第N个字符从第4×Nth个字节开始。虽然每一个码位使用固定长定的字节看似方便，它并不如其它Unicode编码使用得广泛。&lt;/p&gt;
+&lt;h3 id=&#34;UTF-16&#34;&gt;&lt;a href=&#34;#UTF-16&#34; class=&#34;headerlink&#34; title=&#34;UTF-16&#34;&gt;&lt;/a&gt;UTF-16&lt;/h3&gt;&lt;p&gt;对于UTF-32和UTF-16编码方式还有一些其他不明显的缺点。不同的计算机系统会以不同的顺序保存字节。这意味着字符U+4E2D在UTF-16编码方式下可能被保存为4E 2D或者2D 4E，这取决于该系统使用的是大尾端(big-endian)还是小尾端(little-endian)。为了解决这个问题，多字节的Unicode编码方式定义了一个”字节顺序标记(Byte Order Mark)”，它是一个特殊的非打印字符，你可以把它包含在文档的开头来指示你所使用的字节顺序。对于UTF-16，字节顺序标记是U+FEFF。如果收到一个以字节FFFE开头的UTF-16编码的文档，你就能确定它的字节顺序是单向的(one way)的了；如果它以FEFF开头，则可以确定字节顺序反向了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;具体编码方式&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unicode范围&lt;code&gt;U+10000&lt;/code&gt;&lt;del&gt;&lt;code&gt;U+10FFFF&lt;/code&gt;：将Unicode值减去（0x10000），得到20bit长的值。再将Unicode分为高10位和低10位。&lt;a href=&#34;https://www.zhihu.com/search?q=UTF-16%E7%BC%96%E7%A0%81&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22:%22article%22,%22sourceId%22:106379925%7D&#34;&gt;UTF-16编码&lt;/a&gt;的高位是2 Byte，高10位Unicode范围为&lt;code&gt;0&lt;/code&gt;-&lt;code&gt;0x3FF&lt;/code&gt;，将Unicode值加上&lt;code&gt;0XD800&lt;/code&gt;，得到高位代理（或称为前导代理，存储高位）；低位也是2 Byte，低十位Unicode范围一样为&lt;code&gt;0&lt;/code&gt;&lt;/del&gt;&lt;code&gt;0x3FF&lt;/code&gt;，将Unicode值加上&lt;code&gt;0xDC00&lt;/code&gt;,得到低位代理（或称为后尾代理，存储低位）&lt;/p&gt;
+&lt;p&gt;根据上面的转换方式，我们就能够将Unicode码根据UTF-16的编码方式进行转换。下面我们仍然通过两个例子来看下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;U+0020&lt;/code&gt;，这个值的范围在第一部分，即经过UTF-16编码后，结果仍然为&lt;code&gt;U+0020&lt;/code&gt;，在内存中的顺序为&lt;code&gt;00 20&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;U+12345&lt;/code&gt;, 这个值的范围在第二部分，因此需要先减去&lt;code&gt;0x10000&lt;/code&gt;，得到&lt;code&gt;0x02345&lt;/code&gt;，拆分成高10位&lt;code&gt;00 0000 1000&lt;/code&gt;和低10位&lt;code&gt;11 0100 0101&lt;/code&gt;。根据上面规则加上特定值后，高位代理值为&lt;code&gt;D808&lt;/code&gt;，低位代理值为&lt;code&gt;DF45&lt;/code&gt;，最终内存中的顺序为&lt;code&gt;D8 08 DF 45&lt;/code&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;UTF-8&#34;&gt;&lt;a href=&#34;#UTF-8&#34; class=&#34;headerlink&#34; title=&#34;UTF-8&#34;&gt;&lt;/a&gt;UTF-8&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;UTF-8&lt;/strong&gt;（8-bit Unicode Transformation Format）是一种针对&lt;a href=&#34;http://zh.wikipedia.org/wiki/Unicode&#34;&gt;Unicode&lt;/a&gt;的可变长度&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81&#34;&gt;字符编码&lt;/a&gt;（&lt;a href=&#34;http://zh.wikipedia.org/w/index.php?title=%E5%AE%9A%E9%95%BF%E7%A0%81&amp;action=edit&amp;redlink=1&#34;&gt;定长码&lt;/a&gt;），也是一种&lt;a href=&#34;http://zh.wikipedia.org/w/index.php?title=%E5%89%8D%E7%BC%80%E7%A0%81&amp;action=edit&amp;redlink=1&#34;&gt;前缀码&lt;/a&gt;。它可以用来表示Unicode标准中的任何字符，且其编码中的第一个&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%AD%97%E8%8A%82&#34;&gt;字节&lt;/a&gt;仍与&lt;a href=&#34;http://zh.wikipedia.org/wiki/ASCII&#34;&gt;ASCII&lt;/a&gt;兼容，这使得原来处理ASCII字符的&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E8%BB%9F%E9%AB%94&#34;&gt;软件&lt;/a&gt;无须或只须做少部份修改，即可继续使用。因此，它逐渐成为&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BB%B6&#34;&gt;电子邮件&lt;/a&gt;、&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E7%B6%B2%E9%A0%81&#34;&gt;网页&lt;/a&gt;及其他&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%84%B2%E5%AD%98%E8%A3%9D%E7%BD%AE&#34;&gt;存储&lt;/a&gt;或传送文字的应用中，优先采用的编码。&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E5%B7%A5%E7%A8%8B%E5%B7%A5%E4%BD%9C%E5%B0%8F%E7%B5%84&#34;&gt;互联网工程工作小组&lt;/a&gt;（IETF）要求所有&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF&#34;&gt;互联网&lt;/a&gt;&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE&#34;&gt;协议&lt;/a&gt;都必须支持UTF-8编码。&lt;/p&gt;
+&lt;p&gt;UTF-8使用一至四个&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%AD%97%E8%8A%82&#34;&gt;字节&lt;/a&gt;为每个字符编码&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;具体编码方式&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/438d1de3/v2-121a14291638f0b28e1dde7c95d2d379_720w.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;根据上表，解读 UTF-8 编码非常简单。如果一个字节的第一位是&lt;code&gt;0&lt;/code&gt;，则这个字节单独就是一个字符；如果第一位是&lt;code&gt;1&lt;/code&gt;，则连续有多少个&lt;code&gt;1&lt;/code&gt;，就表示当前字符占用多少个字节。&lt;br&gt;下面，还是以汉字&lt;code&gt;严&lt;/code&gt;为例，演示如何实现 &lt;a href=&#34;https://www.zhihu.com/search?q=UTF-8+%E7%BC%96%E7%A0%81&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:790551384%7D&#34;&gt;UTF-8 编码&lt;/a&gt;。&lt;br&gt;&lt;code&gt;严&lt;/code&gt;的 Unicode 是&lt;code&gt;4E25&lt;/code&gt;（&lt;code&gt;100111000100101&lt;/code&gt;），根据上表，可以发现&lt;code&gt;4E25&lt;/code&gt;处在第三行的范围内（&lt;code&gt;0000 0800 - 0000 FFFF&lt;/code&gt;），因此&lt;code&gt;严&lt;/code&gt;的 UTF-8 编码需要三个字节，即格式是&lt;code&gt;1110xxxx 10xxxxxx 10xxxxxx&lt;/code&gt;。然后，从&lt;code&gt;严&lt;/code&gt;的最右边&lt;a href=&#34;https://www.zhihu.com/search?q=%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:790551384%7D&#34;&gt;二进制位&lt;/a&gt;开始，依次从右往左填入上边格式中的&lt;code&gt;x&lt;/code&gt;，多出的位补&lt;code&gt;0&lt;/code&gt;。这样就得到了，&lt;code&gt;严&lt;/code&gt;的 UTF-8 编码是&lt;code&gt;11100100 10111000 10100101&lt;/code&gt;，转换成&lt;a href=&#34;https://www.zhihu.com/search?q=%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:790551384%7D&#34;&gt;十六进制&lt;/a&gt;就是&lt;code&gt;E4 B8 A5&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优点&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UTF-8是ASCII的一个&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E8%B6%85%E9%9B%86&#34;&gt;超集&lt;/a&gt;。因为一个纯ASCII字符串也是一个合法的UTF-8字符串，所以现存的ASCII文本不需要转换。为传统的扩展ASCII字符集设计的软件通常可以不经修改或很少修改就能与UTF-8一起使用。&lt;/li&gt;
+&lt;li&gt;使用标准的面向字节的排序例程对UTF-8排序将产生与*于Unicode代码点排序相同的结果。（尽管这只有有限的有用性，因为在任何特定语言或文化下都不太可能有仍可接受的文字排列顺序。）&lt;/li&gt;
+&lt;li&gt;UTF-8和UTF-16都是&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%8F%AF%E6%89%A9%E5%B1%95%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80&#34;&gt;可扩展标记语言&lt;/a&gt;文档的标准编码。所有其它编码都必须通过显式或文本声明来指定。&lt;/li&gt;
+&lt;li&gt;任何&lt;a href=&#34;http://zh.wikipedia.org/w/index.php?title=%E9%9D%A2%E5%90%91%E5%AD%97%E8%8A%82&amp;action=edit&amp;redlink=1&#34;&gt;面向字节&lt;/a&gt;的&lt;a href=&#34;http://zh.wikipedia.org/wiki/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95&#34;&gt;字符串搜索算法&lt;/a&gt;都可以用于UTF-8的数据（只要输入仅由完整的UTF-8字符组成）。但是，对于包含字符记数的正则表达式或其它结构必须小心。&lt;/li&gt;
+&lt;li&gt;UTF-8字符串可以由一个简单的算法可靠地识别出来。就是，一个字符串在任何其它编码中表现为合法的UTF-8的可能性很低，并随字符串长度增长而减小。举例说，字符值C0,C1,F5至FF从来没有出现。为了更好的可靠性，可以使用正则表达式来统计非法过长和替代值（可以查看&lt;a href=&#34;http://www.w3.org/International/questions/qa-forms-utf-8&#34;&gt;W3 FAQ: Multilingual Forms&lt;/a&gt;上的验证UTF-8字符串的正则表达式）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;缺点&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因为每个字符使用不同数量的字节编码，所以寻找串中第N个字符是一个O(N)复杂度的操作 — 即，串越长，则需要更多的时间来定位特定的字符。同时，还需要位变换来把字符编码成字节，把字节解码成字符。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/3ef2a47d/</guid>
+            <title>搭建KMS</title>
+            <link>https://www.oikiou.top/2022/3ef2a47d/</link>
+            <category>kms</category>
+            <category>office</category>
+            <category>volume</category>
+            <pubDate>Sun, 24 Jul 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;KMS&#34;&gt;&lt;a href=&#34;#KMS&#34; class=&#34;headerlink&#34; title=&#34;KMS&#34;&gt;&lt;/a&gt;KMS&lt;/h1&gt;&lt;p&gt;KMS（Key Management Service），密钥管理服务&lt;/p&gt;
+&lt;p&gt;能够通过KMS进行激活的一般称为VL版,即VOLUME授权版，一般不会单独在零售市场进行发售，一般是直接向企业提供电子ISO映像进行批量授权安装，基于对KMS原理研究成果，我们可以自行搭建KMS激活服务器，实现每180天一次的自动激活，使得系统一直保持激活状态。&lt;/p&gt;
+&lt;p&gt;KMS可以激活VOL版本的windows系统和office软件&lt;/p&gt;
+&lt;h1 id=&#34;Docker-部署KMS服务器&#34;&gt;&lt;a href=&#34;#Docker-部署KMS服务器&#34; class=&#34;headerlink&#34; title=&#34;Docker 部署KMS服务器&#34;&gt;&lt;/a&gt;Docker 部署KMS服务器&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://registry.hub.docker.com/r/teddysun/kms&#34;&gt;https://registry.hub.docker.com/r/teddysun/kms&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Pull the image&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker pull teddysun/kms&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;This pulls the latest release of KMS server. It can be found at Docker Hub.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Start a container&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker run -d -p 1688:1688 --name kms --restart=always teddysun/kms&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;Note: The TCP port number &lt;code&gt;1688&lt;/code&gt; must be opened in firewall.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;激活&#34;&gt;&lt;a href=&#34;#激活&#34; class=&#34;headerlink&#34; title=&#34;激活&#34;&gt;&lt;/a&gt;激活&lt;/h1&gt;&lt;h2 id=&#34;激活windows&#34;&gt;&lt;a href=&#34;#激活windows&#34; class=&#34;headerlink&#34; title=&#34;激活windows&#34;&gt;&lt;/a&gt;激活windows&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 待激活的主机上指定KMS服务器&lt;/span&gt;&lt;br&gt;slmgr /skms service_address(你搭建的服务器的地址)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 手动激活&lt;/span&gt;&lt;br&gt;slmgr /ato&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 如果激活失败 尝试更改成GVLK KEY再次激活&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 运行以下命令查看系统版本 &lt;/span&gt;&lt;br&gt;wmic os get caption&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 访问下面的网址获取key&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# https://docs.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# https://technet.microsoft.com/en-us/library/jj612867.aspx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 得到对应key之后，使用管理员权限运行cmd执行安装key：&lt;/span&gt;&lt;br&gt;slmgr /ipk xxxxx-xxxxx-xxxxx-xxxxx&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 手动激活&lt;/span&gt;&lt;br&gt;slmgr /ato&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;激活office&#34;&gt;&lt;a href=&#34;#激活office&#34; class=&#34;headerlink&#34; title=&#34;激活office&#34;&gt;&lt;/a&gt;激活office&lt;/h2&gt;&lt;p&gt;首先你的OFFICE必须是VOL版本，否则无法激活。 找到你的office安装目录，比如&lt;/p&gt;
+&lt;figure class=&#34;highlight livescript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs livescript&#34;&gt;C:&lt;span class=&#34;hljs-string&#34;&gt;\Program&lt;/span&gt; Files (x86)&lt;span class=&#34;hljs-string&#34;&gt;\Microsoft&lt;/span&gt; Office&lt;span class=&#34;hljs-string&#34;&gt;\Office16&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;64位的就是&lt;/p&gt;
+&lt;figure class=&#34;highlight livescript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs livescript&#34;&gt;C:&lt;span class=&#34;hljs-string&#34;&gt;\Program&lt;/span&gt; Files&lt;span class=&#34;hljs-string&#34;&gt;\Microsoft&lt;/span&gt; Office&lt;span class=&#34;hljs-string&#34;&gt;\Office16&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;office16是office2016，office15就是2013，office14就是2010.&lt;/p&gt;
+&lt;p&gt;然后目录对的话，该目录下面应该有个OSPP.VBS。&lt;/p&gt;
+&lt;p&gt;直接输入下面的指令去指定KMS服务器&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;cscript &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;C:\Program Files (x86)\Microsoft Office\Office16\OSPP.VBS&amp;quot;&lt;/span&gt; sethst:service_address(你搭建的服务器的地址)&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# or&lt;/span&gt;&lt;br&gt;cscript &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;C:\Program Files\Microsoft Office\Office16\OSPP.VBS&amp;quot;&lt;/span&gt; /sethst:service_address(你搭建的服务器的地址)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;一般来说，“一句命令已经完成了”，但一般office不会马上连接kms服务器进行激活，所以我们额外补充一条手动激活命令：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;cscript ospp.vbs /act&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;如果遇到报错，请检查：&#34;&gt;&lt;a href=&#34;#如果遇到报错，请检查：&#34; class=&#34;headerlink&#34; title=&#34;如果遇到报错，请检查：&#34;&gt;&lt;/a&gt;如果遇到报错，请检查：&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;你的系统&amp;#x2F;OFFICE是否是批量VL版本&lt;/li&gt;
+&lt;li&gt;是否以管理员权限运行CMD&lt;/li&gt;
+&lt;li&gt;你的系统&amp;#x2F;OFFICE是否修改过KEY&amp;#x2F;未安装GVLK KEY&lt;/li&gt;
+&lt;li&gt;检查你的网络连接&lt;/li&gt;
+&lt;li&gt;服务器繁忙，多试试（点击检查KMS服务是否可用）&lt;/li&gt;
+&lt;li&gt;根据出错代码自己搜索出错原因&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;windows没有密钥&#34;&gt;&lt;a href=&#34;#windows没有密钥&#34; class=&#34;headerlink&#34; title=&#34;windows没有密钥&#34;&gt;&lt;/a&gt;windows没有密钥&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;windows VOL KEY&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys&#34;&gt;https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;检查windows版本&#34;&gt;&lt;a href=&#34;#检查windows版本&#34; class=&#34;headerlink&#34; title=&#34;检查windows版本&#34;&gt;&lt;/a&gt;检查windows版本&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;检查office是否是VOL版本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 命令提示符（管理员）执行：cd “office的安装目录”&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;C:\Program Files (x86)\Microsoft Office\Office16&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# or&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;C:\Program Files\Microsoft Office\Office16&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 执行：&lt;/span&gt;&lt;br&gt;cscript ospp.vbs /dstatus&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;在显示的信息中，如果有“VOLUME”字样就是VOL版，即支持KMS激活&lt;/p&gt;
+&lt;h2 id=&#34;office-密钥&#34;&gt;&lt;a href=&#34;#office-密钥&#34; class=&#34;headerlink&#34; title=&#34;office 密钥&#34;&gt;&lt;/a&gt;office 密钥&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;卸载office的密钥&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 命令提示符（管理员）执行：cd “office的安装目录”&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;C:\Program Files (x86)\Microsoft Office\Office16&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# or&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;C:\Program Files\Microsoft Office\Office16&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看当前状态&lt;/span&gt;&lt;br&gt;cscript ospp.vbs /dstatus&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 找到 Last 5 characters of installed product key:XXXXX 语句&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 卸载密钥&lt;/span&gt;&lt;br&gt;cscript ospp.vbs /unpkey:XXXXX&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;查找office的VOL KEY&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/zh-cn/DeployOffice/vlactivation/gvlks&#34;&gt;https://docs.microsoft.com/zh-cn/DeployOffice/vlactivation/gvlks&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;安装密钥&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;Office 专业增强版 2016&lt;/span&gt;&lt;br&gt;cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/82aca4fc/</guid>
+            <title>SSL证书的申请和自动续期</title>
+            <link>https://www.oikiou.top/2022/82aca4fc/</link>
+            <category>ssl</category>
+            <category>https</category>
+            <pubDate>Thu, 21 Jul 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;SSL证书的申请和自动续期&#34;&gt;&lt;a href=&#34;#SSL证书的申请和自动续期&#34; class=&#34;headerlink&#34; title=&#34;SSL证书的申请和自动续期&#34;&gt;&lt;/a&gt;SSL证书的申请和自动续期&lt;/h1&gt;&lt;p&gt;Let’s Encrypt 证书续期&lt;/p&gt;
+&lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.jianshu.com/p/a2d0209fa3f5&#34;&gt;https://www.jianshu.com/p/a2d0209fa3f5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/esofar/p/9291685.html&#34;&gt;快速签发 Let’s Encrypt 证书指南&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://certbot.eff.org/&#34;&gt;https://certbot.eff.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;acme-sh-申请&#34;&gt;&lt;a href=&#34;#acme-sh-申请&#34; class=&#34;headerlink&#34; title=&#34;acme.sh 申请&#34;&gt;&lt;/a&gt;acme.sh 申请&lt;/h1&gt;&lt;p&gt;用 acme.sh申请来自动续期ssl证书&lt;br&gt; acme说明：&lt;a href=&#34;https://links.jianshu.com/go?to=https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E&#34;&gt;https://github.com/Neilpang/acme.sh/wiki/说明&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载acme&lt;code&gt;curl https://get.acme.sh | sh&lt;/code&gt;  安装完成后必须关闭当前终端，重新开启一个以使acme.sh命令生效&lt;/li&gt;
+&lt;li&gt;执行生成和自动更新命令：&lt;code&gt;acme.sh --issue -d mydomain.com -d www.mydomain.com --webroot /var/www/mydomain.com/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;安装证书 &lt;code&gt;cd /etc/nginx; mkdir ssl&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs xml&#34;&gt;acme.sh  --installcert  -d  &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;domain&lt;/span&gt;&amp;gt;&lt;/span&gt;.com   \&lt;br&gt;        --key-file   /etc/nginx/ssl/&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;domain&lt;/span&gt;&amp;gt;&lt;/span&gt;.key \&lt;br&gt;        --fullchain-file /etc/nginx/ssl/fullchain.cer \&lt;br&gt;        --reloadcmd  &amp;quot;service nginx force-reload&amp;quot;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;配置nginx使用ssl&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;server &amp;#123;&lt;br&gt;    listen 80 default_server;&lt;br&gt;    listen 443 http2 ssl;&lt;br&gt;    listen [::]:80 default_server;&lt;br&gt;&lt;br&gt;    ssl_certificate /etc/nginx/ssl/fullchain.cer;&lt;br&gt;    ssl_certificate_key /etc/nginx/ssl/domain.key;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;#http转https&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (&lt;span class=&#34;hljs-variable&#34;&gt;$scheme&lt;/span&gt; = http ) &amp;#123;&lt;span class=&#34;hljs-built_in&#34;&gt;return&lt;/span&gt; 301 https://$host&lt;span class=&#34;hljs-variable&#34;&gt;$request_uri&lt;/span&gt;;&amp;#125;&lt;br&gt;    root /var/www/html;&lt;br&gt;&lt;br&gt;    index index.html index.htm index.nginx-debian.html;&lt;br&gt;    server_name _;&lt;br&gt;&lt;br&gt;    ssl_certificate /etc/nginx/ssl/fullchain.cer;&lt;br&gt;    ssl_certificate_key /etc/nginx/ssl/domain.key;&lt;br&gt;&lt;br&gt;    location /test &amp;#123;&lt;br&gt;          proxy_pass       http://127.0.0.1:3000;&lt;br&gt;          proxy_http_version 1.1;&lt;br&gt;          proxy_set_header Upgrade &lt;span class=&#34;hljs-variable&#34;&gt;$http_upgrade&lt;/span&gt;;&lt;br&gt;          proxy_set_header Connection &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;upgrade&amp;quot;&lt;/span&gt;;&lt;br&gt;    &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;前端的Upgrade请求发送给后端服务器，Upgrade和Connection的头信息必须被显式的设置。一旦我们完成以上设置，NGINX就可以处理WebSocket连接了。查看配置在哪里&lt;code&gt;ps -ef|grep nginx&lt;/code&gt;&lt;br&gt; 多个域名的话，配多个nginx.conf配置。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;查看是否有每日任务&lt;br&gt; &lt;code&gt;crontab -l #查看你的任务&lt;/code&gt;&lt;br&gt; 手动更新证书&lt;code&gt;acme.sh --renew -d domain.com&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;certbot&#34;&gt;&lt;a href=&#34;#certbot&#34; class=&#34;headerlink&#34; title=&#34;certbot&#34;&gt;&lt;/a&gt;certbot&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://certbot.eff.org/&#34;&gt;文档&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ubuntu + nginx &lt;a href=&#34;https://certbot.eff.org/instructions?ws=nginx&amp;os=ubuntufocal&#34;&gt;https://certbot.eff.org/instructions?ws=nginx&amp;amp;os=ubuntufocal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;用certbot来自动续期ssl证书&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;需要注意的是安装证书的时候最好把nginx关掉先&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/77d62815/</guid>
+            <title>Typora强制升级解决办法</title>
+            <link>https://www.oikiou.top/2022/77d62815/</link>
+            <category>typora</category>
+            <pubDate>Fri, 15 Jul 2022 17:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;问题描述&#34;&gt;&lt;a href=&#34;#问题描述&#34; class=&#34;headerlink&#34; title=&#34;问题描述&#34;&gt;&lt;/a&gt;问题描述&lt;/h1&gt;&lt;p&gt;This beta version of Typora is expired, please download and install a newer version.&lt;/p&gt;
+&lt;p&gt;解决typora强制升级问题&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This beta version of Typora is expired, please download and install a newer version.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;网上一堆的什么改时间改文件只读的办法都不太行, &lt;/p&gt;
+&lt;p&gt;最后找到了改&lt;code&gt;buildtime&lt;/code&gt;的办法成功解决了这个问题, &lt;/p&gt;
+&lt;p&gt;有能力的请支持正版.&lt;/p&gt;
+&lt;p&gt;测试环境是 &lt;code&gt;typora:0.11.18&lt;/code&gt; 成功&lt;/p&gt;
+&lt;h1 id=&#34;详细&#34;&gt;&lt;a href=&#34;#详细&#34; class=&#34;headerlink&#34; title=&#34;详细&#34;&gt;&lt;/a&gt;详细&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.52pojie.cn/thread-1646214-1-1.html&#34;&gt;https://www.52pojie.cn/thread-1646214-1-1.html&lt;/a&gt; (这里可以找到需要换掉的&lt;code&gt;app.asar&lt;/code&gt;文件)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.51cto.com/liangdongchang/5357264&#34;&gt;https://blog.51cto.com/liangdongchang/5357264&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;最简单的操作就是用破解&lt;code&gt;app.asar&lt;/code&gt;文件替换掉原来的文件&lt;/p&gt;
+&lt;p&gt;注意备份, 替换 &lt;code&gt;C:\Program Files\Typora\resources\app.asar&lt;/code&gt;即可&lt;/p&gt;
+&lt;h1 id=&#34;鸣谢&#34;&gt;&lt;a href=&#34;#鸣谢&#34; class=&#34;headerlink&#34; title=&#34;鸣谢&#34;&gt;&lt;/a&gt;鸣谢&lt;/h1&gt;&lt;p&gt;感谢先驱&lt;br&gt;&lt;a href=&#34;https://github.com/fossabot/typoraCracker&#34;&gt;https://github.com/fossabot/typoraCracker&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/714f1d49/</guid>
+            <title>Windows下使用Makefile</title>
+            <link>https://www.oikiou.top/2022/714f1d49/</link>
+            <category>windows</category>
+            <category>makefile</category>
+            <pubDate>Tue, 21 Jun 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;1-安装MinGW&#34;&gt;&lt;a href=&#34;#1-安装MinGW&#34; class=&#34;headerlink&#34; title=&#34;1.安装MinGW&#34;&gt;&lt;/a&gt;1.安装MinGW&lt;/h1&gt;&lt;p&gt;在MinGW的bin目录下有一个文件叫&lt;code&gt;mingw32-make.exe&lt;/code&gt; 运行它就跟&lt;code&gt;make&lt;/code&gt;指令类似&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/714f1d49/watermarkpic_center.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;2-CMD-终端运行Makefile-mingw32-make&#34;&gt;&lt;a href=&#34;#2-CMD-终端运行Makefile-mingw32-make&#34; class=&#34;headerlink&#34; title=&#34;2. CMD 终端运行Makefile (mingw32-make)&#34;&gt;&lt;/a&gt;2. CMD 终端运行Makefile (mingw32-make)&lt;/h1&gt;&lt;p&gt;在cmd终端下直接输入&lt;code&gt;mingw32-make&lt;/code&gt;然后回车就可以进行编译了：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;Microsoft Windows [版本 10.0.16299.967]&lt;br&gt;(c) 2017 Microsoft Corporation。保留所有权利。&lt;br&gt;&lt;br&gt;D:\Project\Code\C++\hello&amp;gt; mingw32-make.exe&lt;br&gt;g++    -c -o main.o main.cpp&lt;br&gt;g++ -std=c++17 -o main main.o&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/320cfc33/</guid>
+            <title>解决 Chrome由贵单位管理 惠普 谷歌浏览器 HP</title>
+            <link>https://www.oikiou.top/2021/320cfc33/</link>
+            <category>hp</category>
+            <category>chrome</category>
+            <pubDate>Sun, 19 Dec 2021 21:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;关键词:&lt;br&gt;Chrome由贵单位管理 惠普 HP 谷歌浏览器 浏览器由所属组织管理&lt;/p&gt;
+&lt;h1 id=&#34;环境&#34;&gt;&lt;a href=&#34;#环境&#34; class=&#34;headerlink&#34; title=&#34;环境&#34;&gt;&lt;/a&gt;环境&lt;/h1&gt;&lt;p&gt;惠普 HP ProBook 450 G8 Notebook PC&lt;br&gt;WIndows10 19042.1415&lt;br&gt;谷歌浏览器 版本 96.0.4664.45（正式版本） （64 位）&lt;/p&gt;
+&lt;h1 id=&#34;步骤&#34;&gt;&lt;a href=&#34;#步骤&#34; class=&#34;headerlink&#34; title=&#34;步骤&#34;&gt;&lt;/a&gt;步骤&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;网上说了很多删除注册表的答案,删除完了只是临时解决,重启后问题依旧,注册表被恢复&lt;br&gt; &lt;code&gt;\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;思路是找出谁访问修改了这一段注册表, 然后找到了 Process Monitor 软件, 发现注册表的修改是在开机的时候被修改的, 这个软件我也还不太会用, 不知道怎么样才能让他捕获到开机的修改, 随搜索相关文章, 最后发现居然是惠普的锅,简直离了个大谱.&lt;/li&gt;
+&lt;li&gt;把这个服务关掉, 就可以解决问题, 我当时把它文件也删掉了!&lt;br&gt;&lt;img src=&#34;/2021/320cfc33/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Li05rW355qE5Z-O,size_20,color_FFFFFF,t_70,g_se,x_16.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/li&gt;
+&lt;li&gt;批处理方案&lt;figure class=&#34;highlight dos&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dos&#34;&gt;@&lt;span class=&#34;hljs-built_in&#34;&gt;echo&lt;/span&gt; off&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;rem Automates instructions from google found here https://support.google.com/chrome/a/answer/9844476?hl=en&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;rem Removes the &amp;#x27;Managed by your organization&amp;#x27; from Google Chrome and prevents persistence&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;echo&lt;/span&gt; Make sure you have backed up your registry. Ready to go ahead?&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;pause&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;cls&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;echo&lt;/span&gt; Working...&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;echo&lt;/span&gt; Exiting Chrome (&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; running)&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;taskkill&lt;/span&gt; /f /im chrome.exe&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;exist&lt;/span&gt; &amp;quot;C:\Program Files (x86)\Google\Policies&amp;quot; &lt;span class=&#34;hljs-built_in&#34;&gt;RMDIR&lt;/span&gt; /S /Q &amp;quot;C:\Program Files (x86)\Google\Policies&amp;quot;&lt;br&gt;reg delete HKEY_CURRENT_USER\SOFTWARE\Google\Chrome /f /va &lt;br&gt;reg delete HKEY_LOCAL_MACHINE\SOFTWARE\Google\Chrome /f /va &lt;br&gt;reg delete HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome /f /va &lt;br&gt;reg delete HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Update\ClientState\&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;430&lt;/span&gt;FD4D0-B729-&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;F61-AA34-&lt;span class=&#34;hljs-number&#34;&gt;91526481799&lt;/span&gt;D&amp;#125; /f /va &lt;br&gt;reg delete HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist /f&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;echo&lt;/span&gt; Stopping and Disabling Sound Research Service&lt;br&gt;sc stop SECOMNService&lt;br&gt;sc config SECOMNService &lt;span class=&#34;hljs-built_in&#34;&gt;start&lt;/span&gt;= disabled&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;echo&lt;/span&gt; Complete!&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;pause&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;参考资料&#34;&gt;&lt;a href=&#34;#参考资料&#34; class=&#34;headerlink&#34; title=&#34;参考资料&#34;&gt;&lt;/a&gt;参考资料&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://cihansol.com/blog/index.php/2021/07/17/uncovering-hps-potentially-unwanted-applications&#34;&gt;Uncovering HP’s Potentially Unwanted Applications(主要参考)&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://support.google.com/chrome/a/answer/9844476?hl=en#zippy=,windows&#34;&gt;Stop managing Chrome browser&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://meta.appinn.net/t/topic/26165&#34;&gt;https://meta.appinn.net/t/topic/26165&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;吐槽&#34;&gt;&lt;a href=&#34;#吐槽&#34; class=&#34;headerlink&#34; title=&#34;吐槽&#34;&gt;&lt;/a&gt;吐槽&lt;/h1&gt;&lt;p&gt;&lt;del&gt;吐槽CSDN的Markdown好难用啊,为什么一删除换行把前面的也删除了? 写个github还被审核未通过? 是时候考虑一些别的方案了&lt;/del&gt; &lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/db5fa6fe/</guid>
+            <title>解决 Github 无法打开</title>
+            <link>https://www.oikiou.top/2021/db5fa6fe/</link>
+            <category>github</category>
+            <category>hosts</category>
+            <pubDate>Fri, 15 Oct 2021 23:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;解决-Github-无法打开&#34;&gt;&lt;a href=&#34;#解决-Github-无法打开&#34; class=&#34;headerlink&#34; title=&#34;解决 Github 无法打开&#34;&gt;&lt;/a&gt;解决 Github 无法打开&lt;/h1&gt;&lt;h2 id=&#34;SwitchHosts&#34;&gt;&lt;a href=&#34;#SwitchHosts&#34; class=&#34;headerlink&#34; title=&#34;SwitchHosts&#34;&gt;&lt;/a&gt;SwitchHosts&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;下载 SwitchHosts &lt;a href=&#34;https://github.com/oldj/SwitchHosts&#34;&gt;Github&lt;/a&gt; 下载要是太慢可以 用gitee镜像一下github的库 这里放一个别人镜像过的 &lt;a href=&#34;https://gitee.com/itas109/SwitchHosts?_from=gitee_search&#34;&gt;Gitee&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;安装后新建一个配置&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title: 随意  Type: Remote  URL:   Auto Refresh: 最好选 1 hour&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/db5fa6fe/image-20211015220230835.png&#34; alt=&#34;image-20211015220230835&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可选的URL：&lt;ul&gt;
+&lt;li&gt;520Github &lt;a href=&#34;https://raw.hellogithub.com/hosts&#34;&gt;https://raw.hellogithub.com/hosts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ineo6 &lt;a href=&#34;https://gitee.com/ineo6/hosts/raw/master/hosts&#34;&gt;https://gitee.com/ineo6/hosts/raw/master/hosts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;有看到网上还有多个网站同时更新的，但是看到更新速度不够快，也就放弃了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/ineo6/hosts&#34;&gt;https://github.com/ineo6/hosts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/521xueweihan/GitHub520&#34;&gt;https://github.com/521xueweihan/GitHub520&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Chrome-插件方式&#34;&gt;&lt;a href=&#34;#Chrome-插件方式&#34; class=&#34;headerlink&#34; title=&#34;Chrome 插件方式&#34;&gt;&lt;/a&gt;Chrome 插件方式&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/gauseen/faster-hosts&#34;&gt;FasterHosts&lt;/a&gt; 是个 Chrome 插件，主要原理是拦截浏览器的某些请求，将 &lt;code&gt;domain&lt;/code&gt; 替换成访问速度较快的那个。hosts 资源来自 &lt;a href=&#34;https://github.com/521xueweihan/GitHub520&#34;&gt;GitHub520&lt;/a&gt;，每 1 小时更新一次。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;下载 &lt;a href=&#34;https://github.com/gauseen/faster-hosts/archive/master.zip&#34;&gt;FasterHosts&lt;/a&gt; 然后解压，找到 &lt;code&gt;extension&lt;/code&gt; 子目录&lt;/li&gt;
+&lt;li&gt;打开 Chrome，输入: &lt;code&gt;chrome://extensions/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;打开「开发者模式」&lt;/li&gt;
+&lt;li&gt;选择「加载已解压的扩展程序」，然后定位到刚才解压的文件夹里面的 &lt;code&gt;extension&lt;/code&gt; 目录，确定&lt;/li&gt;
+&lt;li&gt;这就安装好了，关闭「开发者模式」&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/d3f98b78/</guid>
+            <title>Hex 文件格式解析</title>
+            <link>https://www.oikiou.top/2021/d3f98b78/</link>
+            <category>hex</category>
+            <pubDate>Fri, 24 Sep 2021 20:27:40 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;Hex-文件格式解析&#34;&gt;&lt;a href=&#34;#Hex-文件格式解析&#34; class=&#34;headerlink&#34; title=&#34;Hex 文件格式解析&#34;&gt;&lt;/a&gt;Hex 文件格式解析&lt;/h1&gt;&lt;h2 id=&#34;参考资料&#34;&gt;&lt;a href=&#34;#参考资料&#34; class=&#34;headerlink&#34; title=&#34;参考资料&#34;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://developer.arm.com/documentation/ka003292/1-0&#34;&gt;Intel HEX File Format Keil&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Intel_HEX&#34;&gt;Intel HEX Wiki&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;格式&#34;&gt;&lt;a href=&#34;#格式&#34; class=&#34;headerlink&#34; title=&#34;格式&#34;&gt;&lt;/a&gt;格式&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;以行为单位，每行以冒号开头，内容全部为16进制码（以ASCII码形式显示）&lt;/li&gt;
+&lt;li&gt;在HEX文件里面，每一行代表一个记录。记录的基本格式为如表所示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;冒号&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;本行数据长度&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;本行数据起始地址&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;数据类型&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;数据&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;校验码&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1 byte&lt;/td&gt;
+&lt;td&gt;2 bytes&lt;/td&gt;
+&lt;td&gt;1 byte&lt;/td&gt;
+&lt;td&gt;n byte&lt;/td&gt;
+&lt;td&gt;1 byte&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/d3f98b78/hex_format.jpg&#34; alt=&#34;Hex文件格式解析&#34;&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Start code&lt;/td&gt;
+&lt;td&gt;one character, an ASCII colon ‘:’&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Byte count&lt;/td&gt;
+&lt;td&gt;两个十六进制数字（一个十六进制数字对），表示数据字段中的字节数（十六进制数字对）。最大字节数为 255 (0xFF)。16 (0x10) 和 32 (0x20) 是常用的字节数。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Address&lt;/td&gt;
+&lt;td&gt;四位十六进制数字，表示数据的 16 位起始内存地址偏移量。数据的物理地址是通过将此偏移量添加到先前建立的基地址来计算的，从而允许内存寻址超出 16 位地址的 64 KB 限制。默认为零的基地址可以通过各种类型的记录进行更改。基地址和地址偏移量始终表示为&lt;a href=&#34;https://en.wikipedia.org/wiki/Big_endian&#34;&gt;大端&lt;/a&gt;值。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Record type&lt;/td&gt;
+&lt;td&gt;两个十六进制数字，&lt;em&gt;00&lt;/em&gt;到&lt;em&gt;05&lt;/em&gt;，定义数据字段的含义。参考下文&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Data&lt;/td&gt;
+&lt;td&gt;一个由&lt;em&gt;n&lt;/em&gt;个字节组成的数据序列，由 &lt;em&gt;2n&lt;/em&gt; 个十六进制数字表示。一些记录省略了这个字段（&lt;em&gt;n&lt;/em&gt;等于零）。数据字节的含义和解释取决于应用程序。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Checksum&lt;/td&gt;
+&lt;td&gt;two hex digits, a computed value that can be used to verify the record has no errors.计算校验和前所有16进制码的累加和。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;指令类型-Record-type&#34;&gt;&lt;a href=&#34;#指令类型-Record-type&#34; class=&#34;headerlink&#34; title=&#34;指令类型 Record type&#34;&gt;&lt;/a&gt;指令类型 Record type&lt;/h3&gt;&lt;p&gt;指令类型&lt;code&gt;Record type&lt;/code&gt;的值一般是&lt;code&gt;00~05&lt;/code&gt;，这表示了，当前这行&lt;code&gt;hex&lt;/code&gt;格式的数据，所代表的含义：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;十六进制代码&lt;/th&gt;
+&lt;th&gt;记录类型&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;描述&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Example&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;00&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;数据&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;包含数据和该数据的16位起始地址。字节计数指定记录中的数据字节数。右侧显示的示例为0B （十一）个数据字节（61， 64， 64， 72， 65， 73， 73， 20， 67， 61， 70）位于以地址开头的连续地址 0010。&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;code&gt;:0B 0010 00 6164647265737320676170 A7&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;01&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;文件结束&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;每个文件在文件的最后一行必须恰好发生一次。数据字段为空（因此字节数为00），并且地址字段通常为 0000。&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;code&gt;:00 0000 01 FF&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;02&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;扩展段地址&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;数据字段包含一个16位的段基址（因此字节数始终为02）与80x86实模式寻址兼容。地址字段（通常为0000）被忽略。最近的段地址02记录乘以16，然后加到每个后续数据记录地址，以形成数据的物理起始地址。这允许寻址多达1 MB的地址空间。&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;code&gt;:02 0000 02 1200 EA&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;03&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;起始段地址&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;对于80x86处理器，请指定CS：IP寄存器的初始内容（即起始执行地址）。地址字段是0000，字节数始终为04，前两个数据字节是CS值，后两个是IP值。&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;code&gt;:04 0000 03 00003800 C1&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;04&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;扩展线性地址&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;允许32位寻址（最大4GiB）。记录的地址字段将被忽略（通常是0000），其字节数始终为02。两个数据字节（大字节序）为所有后续类型指定32位绝对地址的高16位00记录; 这些高位地址位适用于下一个04记录。类型的绝对地址00 通过组合最近的高16位地址位形成记录 04 用低16位的地址记录 00记录。如果是类型00 记录之前没有任何类型 04 记录，然后其高16位地址位默认为0000。&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;code&gt;:02 0000 04 FFFF FC&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;05&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;起始线性地址&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;地址字段是 0000（未使用），字节数始终为04。四个数据字节代表一个32位地址值（big-endian）。对于80386和更高版本的CPU，此地址将加载到EIP寄存器中。&lt;br/&gt;&lt;strong&gt;（仅限 MDK-ARM）&lt;/strong&gt;起始线性地址记录指定应用程序的起始地址。这些记录包含完整的线性 32 位地址。&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;code&gt;:04 0000 05 000000CD 2A&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h5 id=&#34;扩展线性地址记录-HEX386&#34;&gt;&lt;a href=&#34;#扩展线性地址记录-HEX386&#34; class=&#34;headerlink&#34; title=&#34;扩展线性地址记录 (HEX386)&#34;&gt;&lt;/a&gt;扩展线性地址记录 (HEX386)&lt;/h5&gt;&lt;p&gt;扩展线性地址记录也称为 32 位地址记录和 HEX386 记录。这些记录包含数据地址的高 16 位（位 16-31）。扩展线性地址记录总是有两个数据字节，如下所示：&lt;/p&gt;
+&lt;figure class=&#34;highlight&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs&#34;&gt;:02000004FFFFFC&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;在哪里：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;02&lt;/strong&gt;是记录中的数据字节数。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;0000&lt;/strong&gt;是地址字段。对于扩展线性地址记录，此字段始终为 0000。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;04&lt;/strong&gt;是记录类型 04（扩展的线性地址记录）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FFFF&lt;/strong&gt;是地址的高 16 位。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FC&lt;/strong&gt;是记录的校验和，计算方式为&lt;br&gt;01h + NOT(02h + 00h + 00h + 04h + FFh + FFh)。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;读取扩展线性地址记录时，存储在数据字段中的扩展线性地址将被保存并应用于从 Intel HEX 文件读取的后续记录。线性地址保持有效，直到被另一个扩展地址记录改变。&lt;/p&gt;
+&lt;p&gt;数据记录的绝对内存地址是通过将记录中的地址字段与扩展线性地址记录的移位地址数据相加得到的。下面的例子说明了这个过程。&lt;/p&gt;
+&lt;figure class=&#34;highlight haskell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs haskell&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;Address&lt;/span&gt; from the &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;data&lt;/span&gt; record&amp;#x27;s address field      2462&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;Extended&lt;/span&gt; linear address record &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;data&lt;/span&gt; field     &lt;span class=&#34;hljs-type&#34;&gt;FFFF&lt;/span&gt;&lt;/span&gt;&lt;br&gt;                                              &lt;span class=&#34;hljs-comment&#34;&gt;--------&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;Absolute&lt;/span&gt;-memory address                       &lt;span class=&#34;hljs-type&#34;&gt;FFFF2462&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h5 id=&#34;扩展段地址记录-HEX86&#34;&gt;&lt;a href=&#34;#扩展段地址记录-HEX86&#34; class=&#34;headerlink&#34; title=&#34;扩展段地址记录 (HEX86)&#34;&gt;&lt;/a&gt;扩展段地址记录 (HEX86)&lt;/h5&gt;&lt;p&gt;扩展段地址记录（也称为 HEX86 记录）包含数据地址段的第 4-19 位。扩展段地址记录总是有两个数据字节，如下所示：&lt;/p&gt;
+&lt;figure class=&#34;highlight&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs&#34;&gt;:020000021200EA&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;在哪里：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;02&lt;/strong&gt;是记录中的数据字节数。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;0000&lt;/strong&gt;是地址字段。对于扩展段地址记录，该字段始终为 0000。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;02&lt;/strong&gt;是记录类型 02（扩展段地址记录）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1200&lt;/strong&gt;是地址段。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EA&lt;/strong&gt;是记录的校验和，计算方式为&lt;br&gt;01h + NOT(02h + 00h + 00h + 02h + 12h + 00h)。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;当读取扩展段地址记录时，存储在数据字段中的扩展段地址被保存并应用于从 Intel HEX 文件读取的后续记录。段地址保持有效，直到被另一个扩展地址记录改变。&lt;/p&gt;
+&lt;p&gt;数据记录的绝对内存地址是通过将记录中的地址字段添加到来自扩展段地址记录的移位地址数据中获得的。以下示例说明了此过程。&lt;/p&gt;
+&lt;figure class=&#34;highlight haskell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs haskell&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;Address&lt;/span&gt; from the &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;data&lt;/span&gt; record&amp;#x27;s address field     2462&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;Extended&lt;/span&gt; segment address record &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;data&lt;/span&gt; field      1200&lt;/span&gt;&lt;br&gt;                                             &lt;span class=&#34;hljs-comment&#34;&gt;--------&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;Absolute&lt;/span&gt; memory address                      &lt;span class=&#34;hljs-number&#34;&gt;00014462&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h5 id=&#34;起始线性地址记录（仅限-MDK-ARM）&#34;&gt;&lt;a href=&#34;#起始线性地址记录（仅限-MDK-ARM）&#34; class=&#34;headerlink&#34; title=&#34;起始线性地址记录（仅限 MDK-ARM）&#34;&gt;&lt;/a&gt;起始线性地址记录（仅限 MDK-ARM）&lt;/h5&gt;&lt;p&gt;起始线性地址记录指定应用程序的起始地址。这些记录包含完整的线性 32 位地址。起始线性地址记录总是有四个数据字节，如下所示：&lt;/p&gt;
+&lt;figure class=&#34;highlight&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs&#34;&gt;:04000005000000CD2A&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;在哪里：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;04&lt;/strong&gt;是记录中的数据字节数。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;0000&lt;/strong&gt;是地址字段。对于起始线性地址记录，该字段始终为 0000。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;05&lt;/strong&gt;是记录类型 05（起始线性地址记录）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;000000CD&lt;/strong&gt;是应用程序的 4 字节线性起始地址。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2A&lt;/strong&gt;是记录的校验和，计算方式为&lt;br&gt;01h + NOT(04h + 00h + 00h + 05h + 00h + 00h + 00h + CDh)。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Start Linear Address 指定了 __main（pre-main）函数的地址，而不是通常在调用 SystemInit() 之后调用 __main 的启动代码的地址。奇数线性起始地址指定 __main 是为 Thumb 指令集编译的。&lt;/p&gt;
+&lt;p&gt;起始线性地址记录可以出现在 hex 文件中的任何位置。在大多数情况下，可以忽略此记录，因为它不包含对闪存进行编程所需的信息。&lt;/p&gt;
+&lt;h5 id=&#34;文件结束-EOF-记录&#34;&gt;&lt;a href=&#34;#文件结束-EOF-记录&#34; class=&#34;headerlink&#34; title=&#34;文件结束 (EOF) 记录&#34;&gt;&lt;/a&gt;文件结束 (EOF) 记录&lt;/h5&gt;&lt;p&gt;英特尔 HEX 文件必须以文件结束 (EOF) 记录结尾。此记录在记录类型字段中必须具有值 01。EOF 记录始终如下所示：&lt;/p&gt;
+&lt;figure class=&#34;highlight&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs&#34;&gt;:00000001FF&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;在哪里：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;00&lt;/strong&gt;是记录中的数据字节数。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;0000&lt;/strong&gt;是数据在内存中的位置。文件尾记录中的地址是无意义的并且被忽略。地址 0000h 是典型的。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;01&lt;/strong&gt;是记录类型 01（文件结束记录）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FF&lt;/strong&gt;是记录的校验和，计算方式为&lt;br&gt;01h + NOT(00h + 00h + 00h + 01h)。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tip&#34;&gt;&lt;a href=&#34;#tip&#34; class=&#34;headerlink&#34; title=&#34;tip&#34;&gt;&lt;/a&gt;tip&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;用Notepad++打开hex文件，会自动上色、换行&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/2c1a46d6/</guid>
+            <title>XIP 片内执行 eXecute in Place</title>
+            <link>https://www.oikiou.top/2021/2c1a46d6/</link>
+            <category>xip</category>
+            <category>nor</category>
+            <category>nand</category>
+            <pubDate>Fri, 24 Sep 2021 20:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;XIP-eXecute-In-Place&#34;&gt;&lt;a href=&#34;#XIP-eXecute-In-Place&#34; class=&#34;headerlink&#34; title=&#34;XIP   eXecute In Place&#34;&gt;&lt;/a&gt;XIP   eXecute In Place&lt;/h1&gt;&lt;h2 id=&#34;含义&#34;&gt;&lt;a href=&#34;#含义&#34; class=&#34;headerlink&#34; title=&#34;含义&#34;&gt;&lt;/a&gt;含义&lt;/h2&gt;&lt;p&gt;eXecute In Place，即芯片内执行，是指CPU直接从存储器中读取程序代码执行。&lt;/p&gt;
+&lt;p&gt;应用程序可以直接在flash闪存内运行，不必再把代码读到系统RAM中。flash内执行是指nor flash不需要初始化，可以直接在flash内执行代码。但往往&lt;strong&gt;只执行部分代码&lt;/strong&gt;，比如&lt;strong&gt;初始化RAM&lt;/strong&gt;。好处即是程序代码无需占用内存，减少内存的要求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;所谓片内执行不是说程序在存储器内执行，CPU的基本功能是取指、译码、运行。Nor Flash能在芯片内执行，指的是CPU能够直接从Nor flash中取指令，供后面的译码器和执行器来使用。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为实现XIP，必须满足几个条件：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;存储器必须提供与内存相似的接口给CPU。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;该接口必须提供足够快的读取操作，并具有随机访问模式。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如有文件系统，则需要提供合适的映射功能&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;程序链接时需要知道存储器的地址或地址与位置无关。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;程序不能修改已加载映像中的数据。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;NOR Flash和EEPROM通常能满足上述要求。&lt;/p&gt;
+&lt;h2 id=&#34;Tip&#34;&gt;&lt;a href=&#34;#Tip&#34; class=&#34;headerlink&#34; title=&#34;Tip&#34;&gt;&lt;/a&gt;Tip&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;nandflash也可以实现XIP&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“所谓XIP,就是CODE是在FLASH上直接运行. NANDFLASH只是不适合做XIP,但并不是不能做XIP“要一段CODE能够正确的运行,要保证它的CODE是连续的,正确的.由于一些电气特性的原因,NOR FLASH能够做到这一点,不存在坏道或坏块,所以能够做XIP.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NOR Flash 和 NAND Flash&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;NOR Flash具备随机读取给一个地址就能读一个数据，NAND Flash是一次读一块数据，一个地址读出一块数据。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/aaef73f3/</guid>
+            <title>WS2812驱动 SPI+DMA 无需降频 一个灯占用9Byte的RAM</title>
+            <link>https://www.oikiou.top/2021/aaef73f3/</link>
+            <category>ws2812</category>
+            <category>spi</category>
+            <category>dma</category>
+            <pubDate>Sun, 31 Jan 2021 14:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;WS2812驱动-STM32F103-SPI-DMA-无需降频-一个灯占用9Byte的RAM&#34;&gt;&lt;a href=&#34;#WS2812驱动-STM32F103-SPI-DMA-无需降频-一个灯占用9Byte的RAM&#34; class=&#34;headerlink&#34; title=&#34;WS2812驱动 STM32F103 SPI+DMA 无需降频 一个灯占用9Byte的RAM&#34;&gt;&lt;/a&gt;WS2812驱动 STM32F103 SPI+DMA 无需降频 一个灯占用9Byte的RAM&lt;/h1&gt;&lt;p&gt;对于WS2812不了解的朋友可以先看一下这些&lt;br&gt;​&lt;a href=&#34;https://www.cnblogs.com/PureHeart/p/11349495.html&#34;&gt;【STM32】WS2812介绍、使用SPI+DMA发送数据&lt;/a&gt;&lt;br&gt;&lt;img src=&#34;/2021/aaef73f3/pic_center.png&#34; alt=&#34;ws812&#34;&gt;&lt;/p&gt;
+&lt;p&gt;WS2812的驱动我想到的主要有三种&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;延时&lt;/li&gt;
+&lt;li&gt;SPI&lt;/li&gt;
+&lt;li&gt;UART&lt;br&gt;&lt;strong&gt;三者区分：&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;延时，占用资源，需要用到ASM nop不然容易被优化，需要用示波器抓时间。&lt;/li&gt;
+&lt;li&gt;UART 起始位低，结束位高，如果要强行实现也是可以但是实现起来过于复杂，不够优美。&lt;/li&gt;
+&lt;li&gt;没有片选的功能，会占用一整个硬件SPI，觉得较为优美。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在网上看了很多SPI例子都是使用 SPI的8bit数据来模拟WS2812的一个bit颜色的数据，但是由于STM32F103主频72M，要凑出来这个SPI的频率我看某些做法是进行降频，吾不喜，要么还有就是和协议时序差异挺大但是有些WS2812能运行，但是考虑到可能有些ws2812会不能兼容，吾不喜。&lt;/p&gt;
+&lt;p&gt;STM32F103 设主频72M，SPI分频数设置为32，则SPI的通信频率为2.25M，传输一位数据的时间约为444纳秒（ns）444ns 888ns 符合WS281X芯片的通信时序。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//  __&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// |  |_|   0b110  high level&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//  _   &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// | |__|   0b100  low level&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;这个方式和协议时序更加接近，占用RAM应该是笔者认为最小的了&lt;/strong&gt;&lt;br&gt;一个灯24bit颜色，只需要24*3&amp;#x2F;8 &amp;#x3D; 9Byte的Buff。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;写代码的时候需要注意一下大小端的问题，尽量保持大小端的兼容性&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/**&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @brief 设置某一个WS2812&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @param num &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @param RGB &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;WS2812_OneSet&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;( &lt;span class=&#34;hljs-type&#34;&gt;uint8_t&lt;/span&gt; num, &lt;span class=&#34;hljs-type&#34;&gt;uint32_t&lt;/span&gt; RGB )&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;uint8_t&lt;/span&gt; i;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;uint32_t&lt;/span&gt; TempR = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, TempG = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, TempB = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;//MSB First&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt;( i = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;; i &amp;lt; &lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;; ++i,RGB&amp;gt;&amp;gt;=&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; )&lt;br&gt;    &amp;#123;&lt;br&gt;        (RGB &amp;amp; &lt;span class=&#34;hljs-number&#34;&gt;0x00010000&lt;/span&gt;) != &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; ? (TempR |= (WS2812_HIG&amp;lt;&amp;lt;(i*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;))) : (TempR |= (WS2812_LOW&amp;lt;&amp;lt;(i*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;)));&lt;br&gt;        (RGB &amp;amp; &lt;span class=&#34;hljs-number&#34;&gt;0x00000100&lt;/span&gt;) != &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; ? (TempG |= (WS2812_HIG&amp;lt;&amp;lt;(i*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;))) : (TempG |= (WS2812_LOW&amp;lt;&amp;lt;(i*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;)));&lt;br&gt;        (RGB &amp;amp; &lt;span class=&#34;hljs-number&#34;&gt;0x00000001&lt;/span&gt;) != &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; ? (TempB |= (WS2812_HIG&amp;lt;&amp;lt;(i*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;))) : (TempB |= (WS2812_LOW&amp;lt;&amp;lt;(i*&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;)));&lt;br&gt;    &amp;#125;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt;( i = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;; i &amp;lt; &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;; ++i )&lt;br&gt;    &amp;#123;&lt;br&gt;        g_ws2812.Col[num].RGB.R[i] = TempR &amp;gt;&amp;gt; (&lt;span class=&#34;hljs-number&#34;&gt;16&lt;/span&gt;&lt;span class=&#34;hljs-number&#34;&gt;-8&lt;/span&gt;*i);&lt;br&gt;        g_ws2812.Col[num].RGB.G[i] = TempG &amp;gt;&amp;gt; (&lt;span class=&#34;hljs-number&#34;&gt;16&lt;/span&gt;&lt;span class=&#34;hljs-number&#34;&gt;-8&lt;/span&gt;*i);&lt;br&gt;        g_ws2812.Col[num].RGB.B[i] = TempB &amp;gt;&amp;gt; (&lt;span class=&#34;hljs-number&#34;&gt;16&lt;/span&gt;&lt;span class=&#34;hljs-number&#34;&gt;-8&lt;/span&gt;*i);&lt;br&gt;    &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;这里有参考的代码，有积分的给点积分用吧，没积分的可以去Github下。&lt;br&gt;&lt;a href=&#34;https://github.com/Jack-InGitHub/WS2812&#34;&gt;Github&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://download.csdn.net/download/weixin_42078116/14975868&#34;&gt;CSDN下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;参考资料&lt;br&gt;&lt;a href=&#34;https://www.amobbs.com/thread-5697122-1-1.html?_dsign=01c8809d&#34;&gt;stm32和ws2812B相对较好的方案。SPI和UART &lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/60aa39b4/</guid>
+            <title>机智云通信</title>
+            <link>https://www.oikiou.top/2021/60aa39b4/</link>
+            <category>embedded</category>
+            <category>机智云</category>
+            <pubDate>Sat, 02 Jan 2021 14:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;包头(2B)&lt;/th&gt;
+&lt;th&gt;包长度(2B)&lt;/th&gt;
+&lt;th&gt;命令(1B)&lt;/th&gt;
+&lt;th&gt;包序号(1B)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0xFFFF&lt;/td&gt;
+&lt;td&gt;(包长度)后面的数据长度&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Flag(2B)&lt;/th&gt;
+&lt;th&gt;xxx&lt;/th&gt;
+&lt;th&gt;校验和(1B)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;和校验&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;因为包头为固定 0xFFFF，对于发送方，如检测到有出现 0xFF 的数据内容，需要在 0xFF 后添加 0x55。对于接收方，如检测到非包头部分出现 0xFF，需要把紧跟其后的 0x55 移除。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;命令&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0x01&lt;/td&gt;
+&lt;td&gt;设备向MCU请求信息&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0x02&lt;/td&gt;
+&lt;td&gt;MCU回复设备&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2020/1a11e44c/</guid>
+            <title>OSI</title>
+            <link>https://www.oikiou.top/2020/1a11e44c/</link>
+            <category>osi</category>
+            <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;OSI&#34;&gt;&lt;a href=&#34;#OSI&#34; class=&#34;headerlink&#34; title=&#34;OSI&#34;&gt;&lt;/a&gt;OSI&lt;/h1&gt;&lt;p&gt;开放系统互联参考模型(OSI Referenec Model)，即我们通常所说的网络互联的七层框架，它是国际标准组织(International Organization for Standization)于1977年提出的标准，又称为ISO&amp;#x2F;IEC 7498或X.200建议。值得注意的是，OSI并没有提供一个可以实现的方法，它不是一个标准而只是一个制定标准时使用的概念性的框架，更不是一个网络协议。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;物理层(Physical Layer)：主要功能为定义了网络的物理结构，传输的电磁标准，Bit流的编码及网络的时间原则，如分时复用及分频复用。决定了网络连接类型(端到端或多端连接)及物理拓扑结构。说的通俗一些，这一层主要负责实际的&lt;a href=&#34;https://product.pconline.com.cn/itbk/sjtx/sj/1203/2699254.html&#34;&gt;信号&lt;/a&gt;传输。&lt;/li&gt;
+&lt;li&gt;数据链路层(D&lt;a href=&#34;https://product.pconline.com.cn/itbk/diy/mb/1107/2474080.html&#34;&gt;ata&lt;/a&gt; Link eview)：在两个主机上建立数据链路连接，向物理层传输数据信号，并对信号进行处理使之无差错并合理的传输&lt;/li&gt;
+&lt;li&gt;网络层(Network Layer)：主要负责路由，选择合适的路径，进行阻塞控制等功能。&lt;/li&gt;
+&lt;li&gt;传输层(Transfer Layer)：最关键的一层，向拥护提供可靠的端到端(End-to-End)服务，它屏蔽了下层的数据通信细节，让用户及应用程序不需要考虑实际的通信方法。&lt;/li&gt;
+&lt;li&gt;会话层(Session Layer)：主要负责两个会话进程之间的通信，即两个会话层实体之间的信息交换，管理数据的交换。&lt;/li&gt;
+&lt;li&gt;表示层(Presentation Layer)：处理通信信号的表示方法，进行不同的格式之间的翻译，并负责数据的加密解密，数据的压缩与恢复&lt;/li&gt;
+&lt;li&gt;应用层(Application Layer)：保持应用程序之间建立连接所需要的数据记录，为用户服务。 三大协议NetBEUI和 IPX&amp;#x2F;SPX TCP&amp;#x2F;IP&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;应用层(Application Layer)&lt;/td&gt;
+&lt;td&gt;消息&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;表示层(Presentation Layer)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;会话层(Session Layer)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;传输层(Transfer Layer)&lt;/td&gt;
+&lt;td&gt;数据段(segment)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;网络层(Network Layer)&lt;/td&gt;
+&lt;td&gt;分组、数据包（packet）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;链路层(Data Link eview)&lt;/td&gt;
+&lt;td&gt;帧（frame）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;物理层(Physical Layer)&lt;/td&gt;
+&lt;td&gt;P-PDU（bit）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

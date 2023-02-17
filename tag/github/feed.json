@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"github\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2021/db5fa6fe/",
+            "url": "https://www.oikiou.top/2021/db5fa6fe/",
+            "title": "解决 Github 无法打开",
+            "date_published": "2021-10-15T15:23:05.000Z",
+            "content_html": "<h1 id=\"解决-Github-无法打开\"><a href=\"#解决-Github-无法打开\" class=\"headerlink\" title=\"解决 Github 无法打开\"></a>解决 Github 无法打开</h1><h2 id=\"SwitchHosts\"><a href=\"#SwitchHosts\" class=\"headerlink\" title=\"SwitchHosts\"></a>SwitchHosts</h2><ol>\n<li><p>下载 SwitchHosts <a href=\"https://github.com/oldj/SwitchHosts\">Github</a> 下载要是太慢可以 用gitee镜像一下github的库 这里放一个别人镜像过的 <a href=\"https://gitee.com/itas109/SwitchHosts?_from=gitee_search\">Gitee</a></p>\n</li>\n<li><p>安装后新建一个配置</p>\n<ul>\n<li>Title: 随意  Type: Remote  URL:   Auto Refresh: 最好选 1 hour</li>\n</ul>\n<p><img src=\"/2021/db5fa6fe/image-20211015220230835.png\" alt=\"image-20211015220230835\"></p>\n<ul>\n<li>可选的URL：<ul>\n<li>520Github <a href=\"https://raw.hellogithub.com/hosts\">https://raw.hellogithub.com/hosts</a></li>\n<li>ineo6 <a href=\"https://gitee.com/ineo6/hosts/raw/master/hosts\">https://gitee.com/ineo6/hosts/raw/master/hosts</a></li>\n<li>有看到网上还有多个网站同时更新的，但是看到更新速度不够快，也就放弃了。</li>\n</ul>\n</li>\n</ul>\n</li>\n</ol>\n<h3 id=\"参考\"><a href=\"#参考\" class=\"headerlink\" title=\"参考\"></a>参考</h3><p><a href=\"https://github.com/ineo6/hosts\">https://github.com/ineo6/hosts</a></p>\n<p><a href=\"https://github.com/521xueweihan/GitHub520\">https://github.com/521xueweihan/GitHub520</a></p>\n<h2 id=\"Chrome-插件方式\"><a href=\"#Chrome-插件方式\" class=\"headerlink\" title=\"Chrome 插件方式\"></a>Chrome 插件方式</h2><p><a href=\"https://github.com/gauseen/faster-hosts\">FasterHosts</a> 是个 Chrome 插件，主要原理是拦截浏览器的某些请求，将 <code>domain</code> 替换成访问速度较快的那个。hosts 资源来自 <a href=\"https://github.com/521xueweihan/GitHub520\">GitHub520</a>，每 1 小时更新一次。</p>\n<blockquote>\n<ol>\n<li>下载 <a href=\"https://github.com/gauseen/faster-hosts/archive/master.zip\">FasterHosts</a> 然后解压，找到 <code>extension</code> 子目录</li>\n<li>打开 Chrome，输入: <code>chrome://extensions/</code></li>\n<li>打开「开发者模式」</li>\n<li>选择「加载已解压的扩展程序」，然后定位到刚才解压的文件夹里面的 <code>extension</code> 目录，确定</li>\n<li>这就安装好了，关闭「开发者模式」</li>\n</ol>\n</blockquote>\n",
+            "tags": [
+                "github",
+                "hosts"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;nand&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 24 Sep 2021 20:23:05 +0800</pubDate>
+        <lastBuildDate>Fri, 24 Sep 2021 20:23:05 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2021/2c1a46d6/</guid>
+            <title>XIP 片内执行 eXecute in Place</title>
+            <link>https://www.oikiou.top/2021/2c1a46d6/</link>
+            <category>xip</category>
+            <category>nor</category>
+            <category>nand</category>
+            <pubDate>Fri, 24 Sep 2021 20:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;XIP-eXecute-In-Place&#34;&gt;&lt;a href=&#34;#XIP-eXecute-In-Place&#34; class=&#34;headerlink&#34; title=&#34;XIP   eXecute In Place&#34;&gt;&lt;/a&gt;XIP   eXecute In Place&lt;/h1&gt;&lt;h2 id=&#34;含义&#34;&gt;&lt;a href=&#34;#含义&#34; class=&#34;headerlink&#34; title=&#34;含义&#34;&gt;&lt;/a&gt;含义&lt;/h2&gt;&lt;p&gt;eXecute In Place，即芯片内执行，是指CPU直接从存储器中读取程序代码执行。&lt;/p&gt;
+&lt;p&gt;应用程序可以直接在flash闪存内运行，不必再把代码读到系统RAM中。flash内执行是指nor flash不需要初始化，可以直接在flash内执行代码。但往往&lt;strong&gt;只执行部分代码&lt;/strong&gt;，比如&lt;strong&gt;初始化RAM&lt;/strong&gt;。好处即是程序代码无需占用内存，减少内存的要求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;所谓片内执行不是说程序在存储器内执行，CPU的基本功能是取指、译码、运行。Nor Flash能在芯片内执行，指的是CPU能够直接从Nor flash中取指令，供后面的译码器和执行器来使用。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为实现XIP，必须满足几个条件：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;存储器必须提供与内存相似的接口给CPU。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;该接口必须提供足够快的读取操作，并具有随机访问模式。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如有文件系统，则需要提供合适的映射功能&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;程序链接时需要知道存储器的地址或地址与位置无关。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;程序不能修改已加载映像中的数据。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;NOR Flash和EEPROM通常能满足上述要求。&lt;/p&gt;
+&lt;h2 id=&#34;Tip&#34;&gt;&lt;a href=&#34;#Tip&#34; class=&#34;headerlink&#34; title=&#34;Tip&#34;&gt;&lt;/a&gt;Tip&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;nandflash也可以实现XIP&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“所谓XIP,就是CODE是在FLASH上直接运行. NANDFLASH只是不适合做XIP,但并不是不能做XIP“要一段CODE能够正确的运行,要保证它的CODE是连续的,正确的.由于一些电气特性的原因,NOR FLASH能够做到这一点,不存在坏道或坏块,所以能够做XIP.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NOR Flash 和 NAND Flash&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;NOR Flash具备随机读取给一个地址就能读一个数据，NAND Flash是一次读一块数据，一个地址读出一块数据。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

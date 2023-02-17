@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;zip&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2022-09-14T16:20:15.000Z</updated>
+    <category term="embedded" />
+    <category term="note" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="ms-dos" />
+    <category term="windows" />
+    <category term="c" />
+    <category term="c/c++" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="c++" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="sscanf" />
+    <category term="hex" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="osi" />
+    <category term="markdown" />
+    <category term="md5" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="makefile" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="机智云" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="ct117e-ex" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="life" />
+    <category term="workflow" />
+    <category term="人生" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="cad" />
+    <category term="心理学" />
+    <category term="cat_drive" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="software" />
+    <category term="synology" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="摄影" />
+    <category term="git" />
+    <category term="j-link" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="jlink" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="tmux" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="cortex-a7" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="cortex-m3" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <category term="rtx" />
+    <category term="rtos" />
+    <category term="keil" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="modbus" />
+    <category term="ucos" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="pwm" />
+    <category term="rt-thread" />
+    <category term="ap" />
+    <category term="wifi" />
+    <entry>
+        <id>https://www.oikiou.top/2022/613d8edd/</id>
+        <title>Zip Gzip Bzip2 Tar 的区别和差异</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/613d8edd/"/>
+        <content type="html">&lt;h1 id=&#34;zip-gzip-bzip2-tar-命令的区别和差异&#34;&gt;&lt;a href=&#34;#zip-gzip-bzip2-tar-命令的区别和差异&#34; class=&#34;headerlink&#34; title=&#34;zip gzip bzip2 tar 命令的区别和差异&#34;&gt;&lt;/a&gt;zip gzip bzip2 tar 命令的区别和差异&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;gzip&lt;/code&gt; 和 &lt;code&gt;bzip2&lt;/code&gt;用于压缩单个文件。bzip2 比 gzip 具有更高的压缩率，同样的也会需要&lt;strong&gt;更多更多更多&lt;/strong&gt;时间来进行压缩。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;tar&lt;/code&gt;格式的包只是将文件归档在一起, 并不会有任何压缩。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;zip&lt;/code&gt; 和 &lt;code&gt;tar&lt;/code&gt; 命令用于压缩和归档文件夹。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;zip&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.zip&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;可以压缩目录&lt;/td&gt;
+&lt;td&gt;源文件会保留&lt;/td&gt;
+&lt;td&gt;专门的压缩命令&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gzip&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.gz&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;只能压缩文件&lt;/td&gt;
+&lt;td&gt;压缩后源文件会被删除&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;bzip2&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.bz2&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;只能压缩文件&lt;/td&gt;
+&lt;td&gt;加&lt;code&gt;-k&lt;/code&gt;参数源文件可以保留&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;tar&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.tar&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;可以压缩目录&lt;/td&gt;
+&lt;td&gt;源文件会保留&lt;/td&gt;
+&lt;td&gt;linux包大多是这形态&lt;br&gt;将目录打包成一个文件&lt;code&gt;Tape archive&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;xz&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.xz&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;zip&#34;&gt;&lt;a href=&#34;#zip&#34; class=&#34;headerlink&#34; title=&#34;zip&#34;&gt;&lt;/a&gt;zip&lt;/h2&gt;&lt;h2 id=&#34;gzip&#34;&gt;&lt;a href=&#34;#gzip&#34; class=&#34;headerlink&#34; title=&#34;gzip&#34;&gt;&lt;/a&gt;gzip&lt;/h2&gt;&lt;p&gt;该&lt;code&gt;gzip&lt;/code&gt;程序用于压缩一个或多个文件。执行时，它将原始文件替换为原始文件的压缩版本。使用 gzip 压缩的文件具有扩展名&lt;code&gt;.gz&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;bzip2&#34;&gt;&lt;a href=&#34;#bzip2&#34; class=&#34;headerlink&#34; title=&#34;bzip2&#34;&gt;&lt;/a&gt;bzip2&lt;/h2&gt;&lt;p&gt;该&lt;code&gt;bzip2&lt;/code&gt;命令类似于 gzip，但使用不同的压缩算法，以牺牲压缩速度为代价归档更高级别的压缩。使用 bzip2 压缩的文件具有扩展名&lt;code&gt;.bz2&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tar&#34;&gt;&lt;a href=&#34;#tar&#34; class=&#34;headerlink&#34; title=&#34;tar&#34;&gt;&lt;/a&gt;tar&lt;/h2&gt;&lt;p&gt;&lt;code&gt;tar&lt;/code&gt;命令，首字母缩略词&lt;em&gt;&lt;strong&gt;Tape archive&lt;/strong&gt;&lt;/em&gt;用于创建存档文件。tar 存档可以由单独的文件、一个或多个目录层次结构或两者的混合组成。tar 文件有扩展名&lt;code&gt;.tar&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;xz&#34;&gt;&lt;a href=&#34;#xz&#34; class=&#34;headerlink&#34; title=&#34;xz&#34;&gt;&lt;/a&gt;xz&lt;/h2&gt;&lt;p&gt;&lt;code&gt;xz&lt;/code&gt;是一个通用的数据压缩工具，命令行语法类似于 gzip 和 bzip2 。它根据选择的操作模式压缩或解压缩每个文件。用 xz 压缩的文件具有扩展名&lt;code&gt;.xz&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;Zip-和-Unzip&#34;&gt;&lt;a href=&#34;#Zip-和-Unzip&#34; class=&#34;headerlink&#34; title=&#34;Zip 和 Unzip&#34;&gt;&lt;/a&gt;Zip 和 Unzip&lt;/h1&gt;&lt;h2 id=&#34;zip-1&#34;&gt;&lt;a href=&#34;#zip-1&#34; class=&#34;headerlink&#34; title=&#34;zip&#34;&gt;&lt;/a&gt;zip&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;zip [-r] [压缩后文件名] [文件或目录]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;zip&lt;/code&gt;命令用来对文件进行打包操作。zip是个使用广泛的压缩程序，文件经它压缩后会另外产生具有“.zip”扩展名的压缩文件；&lt;/li&gt;
+&lt;li&gt;在linux压缩后的文件，基本都可以在Windows系统中解压；Windows中压缩的文件，在Linux中不一定可用，但是zip格式的压缩文件，可以做到可用；&lt;/li&gt;
+&lt;li&gt;zip的压缩比不是很高；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 压缩文件&lt;/span&gt;&lt;br&gt;$ zip a.zip a.txt&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看压缩后的文件&lt;/span&gt;&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt  a.zip  &lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 2. -r：压缩文件夹&lt;/span&gt;&lt;br&gt;$ zip -r test.zip testDir/&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;testDir  test.zip&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 3. -x 排除文件&lt;/span&gt;&lt;br&gt;$ zip -r test2.zip testDir/ -x &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;testDir/hello*&amp;quot;&lt;/span&gt; -x &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;testDir/dir/*&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;unzip-解压&#34;&gt;&lt;a href=&#34;#unzip-解压&#34; class=&#34;headerlink&#34; title=&#34;unzip 解压&#34;&gt;&lt;/a&gt;unzip 解压&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;unzip [选项] 文件名&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;unzip&lt;/code&gt;命令用于解压缩由zip命令压缩的“.zip”压缩包。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;选项&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;-n：解压缩时不要覆盖原有的文件；&lt;/li&gt;
+&lt;li&gt;-o：不必先询问用户，unzip执行后覆盖原有的文件；&lt;/li&gt;
+&lt;li&gt;-d &amp;lt;目录&amp;gt;：指定文件解压缩后所要存储的目录(不指定目录，默认解压到当前目录)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 解压文件到家目录&lt;/span&gt;&lt;br&gt;$ unzip test.zip -d ~&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;Gzip-和-Gunzip&#34;&gt;&lt;a href=&#34;#Gzip-和-Gunzip&#34; class=&#34;headerlink&#34; title=&#34;Gzip 和 Gunzip&#34;&gt;&lt;/a&gt;Gzip 和 Gunzip&lt;/h1&gt;&lt;h2 id=&#34;gzip-1&#34;&gt;&lt;a href=&#34;#gzip-1&#34; class=&#34;headerlink&#34; title=&#34;gzip&#34;&gt;&lt;/a&gt;&lt;strong&gt;gzip&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;gzip [文件]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gzip&lt;/code&gt;命令 用来压缩文件。gzip是个使用广泛的压缩程序，文件经它压缩过后，其名称后面会多处“&lt;code&gt;.gz&lt;/code&gt;”扩展名。&lt;code&gt;gzip&lt;/code&gt;只能压缩文件，不能压缩文件夹，压缩后原文件会被删除&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gzip&lt;/code&gt;是在Linux系统中经常使用的一个对文件进行压缩和解压缩的命令，既方便又好用。gzip不仅可以用来压缩大的、较少使用的文件以节省磁盘空间，还可以和tar命令一起构成Linux操作系统中比较流行的压缩文件格式。据统计，gzip命令对文本文件有60%～70%的压缩率。减少文件大小有两个明显的好处，一是可以减少存储空间，二是通过网络传输文件时，可以减少传输的时间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 压缩文件&lt;/span&gt;&lt;br&gt;$ gzip a.txt&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看压缩后的文件，源文件被删除&lt;/span&gt;&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt.gz&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;gunzip-解压&#34;&gt;&lt;a href=&#34;#gunzip-解压&#34; class=&#34;headerlink&#34; title=&#34;gunzip 解压&#34;&gt;&lt;/a&gt;gunzip 解压&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;gzip [文件]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gunzip&lt;/code&gt;命令用来解压缩文件。gunzip是个使用广泛的解压缩程序，它用于解开被gzip压缩过的文件，这些压缩文件预设最后的扩展名为&lt;code&gt;.gz&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 解压文件，解压后压缩文件被删除&lt;/span&gt;&lt;br&gt;$ gunzip a.txt.gz&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;Bzip2&#34;&gt;&lt;a href=&#34;#Bzip2&#34; class=&#34;headerlink&#34; title=&#34;Bzip2&#34;&gt;&lt;/a&gt;Bzip2&lt;/h1&gt;&lt;h2 id=&#34;bzip2-1&#34;&gt;&lt;a href=&#34;#bzip2-1&#34; class=&#34;headerlink&#34; title=&#34;bzip2&#34;&gt;&lt;/a&gt;bzip2&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;bzip2 [选项] [文件]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bzip2命令用于压缩“&lt;code&gt;.bz2&lt;/code&gt;”格式的压缩包，是&lt;code&gt;gzip&lt;/code&gt;的升级版本，可以保留原文件；&lt;/li&gt;
+&lt;li&gt;bzip2的压缩比比较高，可用于压缩较大文件的压缩；&lt;/li&gt;
+&lt;li&gt;bzip2也是只对文件进行压缩，如果相对目录进行压缩的话，可以配合 &lt;code&gt;tar&lt;/code&gt;命令使用，使用 &lt;code&gt;tar -jcvf&lt;/code&gt; 文件名 完成打包压缩。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;选项&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-k（keep）：保留原文件（不删除原文件）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# bzip2 压缩文件&lt;/span&gt;&lt;br&gt;$ bzip2 -k a.txt&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt  a.txt.bz2&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 配合使用tar 命令，完成打包压缩&lt;/span&gt;&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;mkdir&lt;/span&gt; music&lt;br&gt;$ tar -jcvf music.tar.bz2 music/&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;music  music.tar.bz2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;bunzip2-解压&#34;&gt;&lt;a href=&#34;#bunzip2-解压&#34; class=&#34;headerlink&#34; title=&#34;bunzip2 解压&#34;&gt;&lt;/a&gt;bunzip2 解压&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;bunzip2 [选项] [文件]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;解压缩“&lt;code&gt;.bz2&lt;/code&gt;”格式的压缩文件；&lt;/li&gt;
+&lt;li&gt;gunzip的升级版，可以使用&lt;code&gt;-k&lt;/code&gt;保留原文件；&lt;/li&gt;
+&lt;li&gt;可以配合使用tar命令，完成解压缩解包： &lt;code&gt;tar -jxvf 文件名&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;选项&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-k（keep）：保留原文件（不删除原文件）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt.bz2  music.tar.bz2&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 解压缩文件&lt;/span&gt;&lt;br&gt;$ bunzip2 -k a.txt.bz2&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt  a.txt.bz2  music.tar.bz2&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 使用tar完成解压解包&lt;/span&gt;&lt;br&gt;$ tar -jxvf music.tar.bz2&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;a.txt  a.txt.bz2  music  music.tar.bz2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;tar-1&#34;&gt;&lt;a href=&#34;#tar-1&#34; class=&#34;headerlink&#34; title=&#34;tar&#34;&gt;&lt;/a&gt;tar&lt;/h1&gt;&lt;h2 id=&#34;tar-2&#34;&gt;&lt;a href=&#34;#tar-2&#34; class=&#34;headerlink&#34; title=&#34;tar&#34;&gt;&lt;/a&gt;tar&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;命令格式&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;tar [选项] [压缩后文件名] [目录]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;命令描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;打包目录，将目录打包成一个文件，同时可以压缩，压缩后的拓展名为&lt;code&gt;.tar.gz&lt;/code&gt;，这个拓展名在下载Linux相关安装包时很常见。&lt;/p&gt;
+&lt;p&gt;使用&lt;code&gt;tar&lt;/code&gt;命令时，如果想要打包并压缩一个目录，可以有两种方法进行：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;先利用tar命令打包目录为一个文件，然后使用gzip压缩&lt;/li&gt;
+&lt;li&gt;直接利用tar命令打包并压缩 (简单方便，推荐使用)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;解压时也有两种方式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;先使用gunzip解压缩，再使用tar解包&lt;/li&gt;
+&lt;li&gt;直接利用tar命令解压缩并解包 (简单方便，推荐使用)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;选项&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;-c：打包(将所有文件变成一个文件 Create  a new archive)&lt;/li&gt;
+&lt;li&gt;-x：解包&lt;/li&gt;
+&lt;li&gt;-v：显示详细信息&lt;/li&gt;
+&lt;li&gt;-f：指定文件名&lt;/li&gt;
+&lt;li&gt;-z：打包同时压缩&amp;#x2F;解压缩  ，gzip压缩&lt;/li&gt;
+&lt;li&gt;-j：生成压缩文件 ，bzip2压缩&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 压缩&lt;/span&gt;&lt;br&gt;tar -zcvf movie2.tar.gz movie&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 解压&lt;/span&gt;&lt;br&gt;tar -zxvf movie2.tar.gz&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 1、2为    打包压缩    的两种方法&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 1. 使用 tar -cvf 打包，然后使用gzip压缩&lt;/span&gt;&lt;br&gt;$ tar -cvf movie.tar movie/&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;movie  movie.tar&lt;br&gt;$ gzip movie.tar&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;movie  movie.tar.gz&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 2. 使用 tar -zcvf 打包并压缩&lt;/span&gt;&lt;br&gt;$ tar -zcvf movie2.tar.gz movie&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;movie  movie2.tar.gz&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 3、4为     解压缩并解包     的两种方法&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 3. 先使用gunzip解压缩，然后 tar -xvf解包&lt;/span&gt;&lt;br&gt;$ gunzip movie.tar.gz&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;movie2.tar.gz  movie.tar&lt;br&gt;$ tar -xvf movie.tar&lt;br&gt;movie/&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;movie  movie2.tar.gz  movie.tar&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 4. 使用tar -zxvf 解压缩并解包&lt;/span&gt;&lt;br&gt;$ tar -zxvf movie2.tar.gz&lt;br&gt;$ &lt;span class=&#34;hljs-built_in&#34;&gt;ls&lt;/span&gt;&lt;br&gt;movie  movie2.tar.gz  movie.tar&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://techviewleo.com/compress-uncompress-files-tar-gzip-bzip2-xz-linux/&#34;&gt;LPIC 101 – Compress and Uncompress Files Using tar, gzip, bzip2 and xz on Linux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_archive_formats#Comparison&#34;&gt;List of archive formats&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="zip" />
+        <category term="gzip" />
+        <category term="bzip" />
+        <category term="tar" />
+        <updated>2022-09-14T16:20:15.000Z</updated>
+    </entry>
+</feed>

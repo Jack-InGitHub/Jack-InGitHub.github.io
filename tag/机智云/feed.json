@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"机智云\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2021/60aa39b4/",
+            "url": "https://www.oikiou.top/2021/60aa39b4/",
+            "title": "机智云通信",
+            "date_published": "2021-01-02T06:23:05.000Z",
+            "content_html": "<table>\n<thead>\n<tr>\n<th>包头(2B)</th>\n<th>包长度(2B)</th>\n<th>命令(1B)</th>\n<th>包序号(1B)</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>0xFFFF</td>\n<td>(包长度)后面的数据长度</td>\n<td></td>\n<td></td>\n</tr>\n</tbody></table>\n<table>\n<thead>\n<tr>\n<th>Flag(2B)</th>\n<th>xxx</th>\n<th>校验和(1B)</th>\n</tr>\n</thead>\n<tbody><tr>\n<td></td>\n<td></td>\n<td>和校验</td>\n</tr>\n</tbody></table>\n<p>因为包头为固定 0xFFFF，对于发送方，如检测到有出现 0xFF 的数据内容，需要在 0xFF 后添加 0x55。对于接收方，如检测到非包头部分出现 0xFF，需要把紧跟其后的 0x55 移除。</p>\n<table>\n<thead>\n<tr>\n<th>命令</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>0x01</td>\n<td>设备向MCU请求信息</td>\n</tr>\n<tr>\n<td>0x02</td>\n<td>MCU回复设备</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n</tbody></table>\n",
+            "tags": [
+                "embedded",
+                "机智云"
+            ]
+        }
+    ]
+}

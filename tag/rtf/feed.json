@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"rtf\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2022/631793c8/",
+            "url": "https://www.oikiou.top/2022/631793c8/",
+            "title": "文件后缀与文件",
+            "date_published": "2022-09-15T09:47:15.000Z",
+            "content_html": "<h1 id=\"文件后缀与文件\"><a href=\"#文件后缀与文件\" class=\"headerlink\" title=\"文件后缀与文件\"></a>文件后缀与文件</h1><table>\n<thead>\n<tr>\n<th>后缀</th>\n<th>名称描述</th>\n<th>简述</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>.DS_Store</code></td>\n<td>Desktop Services Store</td>\n<td>Mac OS X操作系统所创造的隐藏文件，类似<code>desktop.ini</code></td>\n</tr>\n</tbody></table>\n<h2 id=\"编辑历史\"><a href=\"#编辑历史\" class=\"headerlink\" title=\"编辑历史\"></a>编辑历史</h2><table>\n<thead>\n<tr>\n<th>date</th>\n<th>note</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>2022.9.15</td>\n<td>First Version</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n</tbody></table>\n<h2 id=\"DS-Store\"><a href=\"#DS-Store\" class=\"headerlink\" title=\".DS_Store\"></a>.DS_Store</h2><blockquote>\n<p>  DS_Store，英文全称是 Desktop Services Store（桌面服务存储），开头的 DS 是 Desktop Services（桌面服务） 的缩写。它是一种由macOS系统自动创建的隐藏文件，存在于每一个用「Finder」打开过的文件夹下面。</p>\n<p>  <code>.DS_Store</code> 是一种由苹果公司的Mac OS X操作系统所创造的隐藏文件，目的在于存贮目录的自定义属性，例如文件们的图标位置或者是背景色的选择。该文件由<code>Finder</code>创建并维护，类似于<code>Microsoft Windows</code>中的<code>desktop.ini</code>文件。</p>\n</blockquote>\n<h2 id=\"RTF\"><a href=\"#RTF\" class=\"headerlink\" title=\".RTF\"></a>.RTF</h2><blockquote>\n<p>  <strong>富文本格式</strong>（<strong>Rich Text Format</strong>）即<strong>RTF格式</strong>，又称<strong>多文本格式</strong>，是由<a href=\"https://zh.wikipedia.org/wiki/%E5%BE%AE%E8%BD%AF\">微软</a>公司开发的跨平台<a href=\"https://zh.wikipedia.org/wiki/%E6%96%87%E6%A1%A3\">文档</a>格式。大多数的<a href=\"https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E5%A4%84%E7%90%86\">文字处理</a>软件都能读取和保存RTF文档。</p>\n<h2 id=\"支持软件\"><a href=\"#支持软件\" class=\"headerlink\" title=\"支持软件\"></a>支持软件</h2><ul>\n<li><a href=\"https://zh.wikipedia.org/wiki/WordPad\">WordPad</a>（<a href=\"https://zh.wikipedia.org/wiki/Microsoft_Windows\">Microsoft Windows</a>）&#x2F; <a href=\"https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E7%B7%A8%E8%BC%AF_(%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F)\">文本编辑</a>（<a href=\"https://zh.wikipedia.org/wiki/Mac_OS\">Mac OS</a>）</li>\n<li><a href=\"https://zh.wikipedia.org/wiki/Microsoft_Word\">Microsoft Word</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/Apache_OpenOffice\">Apache OpenOffice</a> &#x2F; <a href=\"https://zh.wikipedia.org/wiki/LibreOffice\">LibreOffice</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-cn/WPS_Office\">WPS Office</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/EIOffice\">EIOffice</a></li>\n</ul>\n</blockquote>\n",
+            "tags": [
+                "DS_Store",
+                "rtf",
+                "后缀"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,688 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;fluid&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 21 Aug 2022 22:57:15 +0800</pubDate>
+        <lastBuildDate>Sun, 21 Aug 2022 22:57:15 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/f96c3c41/</guid>
+            <title>静态网页 静态博客</title>
+            <link>https://www.oikiou.top/2022/f96c3c41/</link>
+            <category>hexo</category>
+            <category>jekyll</category>
+            <category>fluid</category>
+            <category>cusdis</category>
+            <category>twikoo</category>
+            <category>blog</category>
+            <category>gravatar</category>
+            <category>cravatar</category>
+            <pubDate>Sun, 21 Aug 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;静态网页&#34;&gt;&lt;a href=&#34;#静态网页&#34; class=&#34;headerlink&#34; title=&#34;静态网页&#34;&gt;&lt;/a&gt;静态网页&lt;/h1&gt;&lt;h1 id=&#34;静态网页生成器&#34;&gt;&lt;a href=&#34;#静态网页生成器&#34; class=&#34;headerlink&#34; title=&#34;静态网页生成器&#34;&gt;&lt;/a&gt;静态网页生成器&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;（由 Github 构建的用于为其 Github 页面提供支持的 Ruby 生成器）、&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;（构建在 Go 编程之上的极快静态生成器）语言）和&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;（基于 Node.js 的快速网站生成器）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;参考&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.techiediaries.com/jekyll-hugo-hexo/&#34;&gt;How to Choose the Right Static Generator: Jekyll vs. Hugo vs. Hexo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stackshare.io/stackups/hexo-vs-hugo-vs-jekyll&#34;&gt;StackShare&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Hexo&#34;&gt;&lt;a href=&#34;#Hexo&#34; class=&#34;headerlink&#34; title=&#34;Hexo&#34;&gt;&lt;/a&gt;Hexo&lt;/h2&gt;&lt;p&gt;TBD&lt;/p&gt;
+&lt;h2 id=&#34;Jekyll&#34;&gt;&lt;a href=&#34;#Jekyll&#34; class=&#34;headerlink&#34; title=&#34;Jekyll&#34;&gt;&lt;/a&gt;Jekyll&lt;/h2&gt;&lt;p&gt;TBD&lt;/p&gt;
+&lt;h2 id=&#34;Hugo&#34;&gt;&lt;a href=&#34;#Hugo&#34; class=&#34;headerlink&#34; title=&#34;Hugo&#34;&gt;&lt;/a&gt;Hugo&lt;/h2&gt;&lt;p&gt;TBD&lt;/p&gt;
+&lt;h1 id=&#34;Hexo-1&#34;&gt;&lt;a href=&#34;#Hexo-1&#34; class=&#34;headerlink&#34; title=&#34;Hexo&#34;&gt;&lt;/a&gt;Hexo&lt;/h1&gt;&lt;h2 id=&#34;Hexo-部署&#34;&gt;&lt;a href=&#34;#Hexo-部署&#34; class=&#34;headerlink&#34; title=&#34;Hexo 部署&#34;&gt;&lt;/a&gt;Hexo 部署&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://hexo.io/zh-cn/docs/&#34;&gt;HEXO文档_参考链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;要求:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;Node.js (Node.js 版本需不低于 10.13，建议使用 Node.js 12.0 及以上版本)&lt;br&gt;Git&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;部署:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;npm install hexo-cli -g&lt;br&gt;hexo init blog&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;cd&lt;/span&gt; blog&lt;br&gt;npm install&lt;br&gt;hexo server&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;Hexo-CMD&#34;&gt;&lt;a href=&#34;#Hexo-CMD&#34; class=&#34;headerlink&#34; title=&#34;Hexo CMD&#34;&gt;&lt;/a&gt;Hexo CMD&lt;/h2&gt;&lt;h3 id=&#34;Init-初始化&#34;&gt;&lt;a href=&#34;#Init-初始化&#34; class=&#34;headerlink&#34; title=&#34;Init 初始化&#34;&gt;&lt;/a&gt;Init 初始化&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;hexo init [folder]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;新建一个网站。如果没有设置 &lt;code&gt;folder&lt;/code&gt; ，Hexo 默认在目前的文件夹建立网站。&lt;/p&gt;
+&lt;h3 id=&#34;new-新建&#34;&gt;&lt;a href=&#34;#new-新建&#34; class=&#34;headerlink&#34; title=&#34;new 新建&#34;&gt;&lt;/a&gt;new 新建&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;hexo new [layout] &amp;lt;title&amp;gt;&lt;br&gt;hexo new &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;post title with whitespace&amp;quot;&lt;/span&gt;&lt;br&gt;hexo new page --path about/me &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;About me&amp;quot;&lt;/span&gt;&lt;br&gt;hexo new page -p     about/me &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;About me&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;参数&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;-p&lt;/code&gt;, &lt;code&gt;--path&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;自定义新文章的路径&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;-r&lt;/code&gt;, &lt;code&gt;--replace&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;如果存在同名文章，将其替换&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;-s&lt;/code&gt;, &lt;code&gt;--slug&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;文章的 Slug，作为新文章的文件名和发布后的 URL&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;generate-生成&#34;&gt;&lt;a href=&#34;#generate-生成&#34; class=&#34;headerlink&#34; title=&#34;generate 生成&#34;&gt;&lt;/a&gt;generate 生成&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 生成静态文件。&lt;/span&gt;&lt;br&gt;hexo generate&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 该命令可以简写为&lt;/span&gt;&lt;br&gt;hexo g&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;选项&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-d&lt;/td&gt;
+&lt;td&gt;–deploy&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;文件生成后立即部署网站&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-w&lt;/td&gt;
+&lt;td&gt;–watch&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;监视文件变动&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-b&lt;/td&gt;
+&lt;td&gt;–bail&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;生成过程中如果发生任何未处理的异常则抛出异常&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-f&lt;/td&gt;
+&lt;td&gt;–force&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;强制重新生成文件 Hexo 引入了差分机制，&lt;br&gt;如果 &lt;code&gt;public&lt;/code&gt; 目录存在，那么 &lt;code&gt;hexo g&lt;/code&gt; 只会重新生成改动的文件。&lt;br/&gt;使用该参数的效果接近 &lt;code&gt;hexo clean &amp;amp;&amp;amp; hexo generate&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;-c&lt;/td&gt;
+&lt;td&gt;–concurrency&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;最大同时生成文件的数量，默认无限制&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;publish-草稿&#34;&gt;&lt;a href=&#34;#publish-草稿&#34; class=&#34;headerlink&#34; title=&#34;publish 草稿&#34;&gt;&lt;/a&gt;publish 草稿&lt;/h3&gt;&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs xml&#34;&gt;hexo publish [layout] &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;filename&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;发表草稿。&lt;/p&gt;
+&lt;h3 id=&#34;server-服务器&#34;&gt;&lt;a href=&#34;#server-服务器&#34; class=&#34;headerlink&#34; title=&#34;server 服务器&#34;&gt;&lt;/a&gt;server 服务器&lt;/h3&gt;&lt;p&gt;在服务器启动期间，Hexo 会监视文件变动并自动更新，您无须重启服务器。&lt;/p&gt;
+&lt;figure class=&#34;highlight axapta&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs axapta&#34;&gt;hexo &lt;span class=&#34;hljs-keyword&#34;&gt;server&lt;/span&gt;&lt;br&gt;hexo s&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;启动服务器。默认情况下，访问网址为： &lt;code&gt;http://localhost:4000/&lt;/code&gt;。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;选项&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;-p&lt;/code&gt;, &lt;code&gt;--port&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;重设端口&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;-s&lt;/code&gt;, &lt;code&gt;--static&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;只使用静态文件(不会更新)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;-l&lt;/code&gt;, &lt;code&gt;--log&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;启动日记记录，使用覆盖记录格式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;-i&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;hexo server -i 192.168.1.1&lt;/code&gt; 指定监听的IP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;deploy-部署&#34;&gt;&lt;a href=&#34;#deploy-部署&#34; class=&#34;headerlink&#34; title=&#34;deploy 部署&#34;&gt;&lt;/a&gt;deploy 部署&lt;/h3&gt;&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs jboss-cli&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 部署网站。&lt;/span&gt;&lt;br&gt;hexo &lt;span class=&#34;hljs-keyword&#34;&gt;deploy&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 该命令可以简写为：&lt;/span&gt;&lt;br&gt;hexo d&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;参数&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;-g&lt;/code&gt;, &lt;code&gt;--generate&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;部署之前预先生成静态文件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;render&#34;&gt;&lt;a href=&#34;#render&#34; class=&#34;headerlink&#34; title=&#34;render&#34;&gt;&lt;/a&gt;render&lt;/h3&gt;&lt;figure class=&#34;highlight prolog&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs prolog&#34;&gt;hexo render &amp;lt;file1&amp;gt; [file2] ...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;渲染文件。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;参数&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;-o&lt;/code&gt;, &lt;code&gt;--output&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;设置输出路径&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;migrate&#34;&gt;&lt;a href=&#34;#migrate&#34; class=&#34;headerlink&#34; title=&#34;migrate&#34;&gt;&lt;/a&gt;migrate&lt;/h3&gt;&lt;figure class=&#34;highlight elm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs elm&#34;&gt;&lt;span class=&#34;hljs-title&#34;&gt;hexo&lt;/span&gt; migrate &amp;lt;&lt;span class=&#34;hljs-keyword&#34;&gt;type&lt;/span&gt;&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;从其他博客系统 &lt;a href=&#34;https://hexo.io/zh-cn/docs/migration&#34;&gt;迁移内容&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;clean-清理&#34;&gt;&lt;a href=&#34;#clean-清理&#34; class=&#34;headerlink&#34; title=&#34;clean 清理&#34;&gt;&lt;/a&gt;clean 清理&lt;/h3&gt;&lt;figure class=&#34;highlight crystal&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs crystal&#34;&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$ &lt;/span&gt;hexo clean&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;清除缓存文件 (&lt;code&gt;db.json&lt;/code&gt;) 和已生成的静态文件 (&lt;code&gt;public&lt;/code&gt;)。&lt;/p&gt;
+&lt;p&gt;在某些情况（尤其是更换主题后），如果发现您对站点的更改无论如何也不生效，您可能需要运行该命令。&lt;/p&gt;
+&lt;h3 id=&#34;list&#34;&gt;&lt;a href=&#34;#list&#34; class=&#34;headerlink&#34; title=&#34;list&#34;&gt;&lt;/a&gt;list&lt;/h3&gt;&lt;figure class=&#34;highlight crystal&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs crystal&#34;&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$ &lt;/span&gt;hexo list &amp;lt;&lt;span class=&#34;hljs-keyword&#34;&gt;type&lt;/span&gt;&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;列出网站资料。&lt;/p&gt;
+&lt;h2 id=&#34;Hexo-Config-yml&#34;&gt;&lt;a href=&#34;#Hexo-Config-yml&#34; class=&#34;headerlink&#34; title=&#34;Hexo _Config.yml&#34;&gt;&lt;/a&gt;Hexo _Config.yml&lt;/h2&gt;&lt;blockquote&gt;
+&lt;h3 id=&#34;Home-page-setting&#34;&gt;&lt;a href=&#34;#Home-page-setting&#34; class=&#34;headerlink&#34; title=&#34;Home page setting&#34;&gt;&lt;/a&gt;Home page setting&lt;/h3&gt;&lt;p&gt;  &lt;code&gt;index_generator.order_by&lt;/code&gt;  文章的顺序&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-date&lt;/code&gt; 默认情况下按日期降序排序(从新到旧)。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-update&lt;/code&gt; 按更新时间排序(&lt;code&gt;-&lt;/code&gt; &amp;#x3D; 从新到旧)。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;Hexo-Theme&#34;&gt;&lt;a href=&#34;#Hexo-Theme&#34; class=&#34;headerlink&#34; title=&#34;Hexo Theme&#34;&gt;&lt;/a&gt;Hexo Theme&lt;/h1&gt;&lt;p&gt;我是直接在github搜索 &lt;code&gt;hexo theme&lt;/code&gt;看到了几个 star 比较多而且比较活跃的 repository &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/ppoffice/hexo-theme-icarus&#34;&gt;icarus&lt;/a&gt;&lt;/strong&gt; 5.5K star&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/68747470733a2f2f70706f66666963652e6769746875622e696f2f6865786f2d7468656d652d6963617275732f67616c6c6572792f707265766965772e706e673f31.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fluid-dev/hexo-theme-fluid&#34;&gt;fluid&lt;/a&gt;&lt;/strong&gt; 4.8K star&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f666c7569642d6465762f737461746963406d61737465722f6865786f2d7468656d652d666c7569642f73637265656e73686f74732f696e6465782e706e67.png&#34; alt=&#34;ScreenShot&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/blinkfox/hexo-theme-matery&#34;&gt;matery&lt;/a&gt;(blinkfox) 4.5K star&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/687474703a2f2f7374617469632e626c696e6b666f782e636f6d2f6d61746572792d32303138313230322d312e706e67.png&#34; alt=&#34;首页&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/687474703a2f2f7374617469632e626c696e6b666f782e636f6d2f6d61746572792d32303138313230322d332e706e67.png&#34; alt=&#34;首页文章列表&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/jerryc127/hexo-theme-butterfly&#34;&gt;butterfly&lt;/a&gt;&lt;/strong&gt; 4.3K star&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a65727279633132372f43444e406d322f696d672f7468656d652d627574746572666c792d726561646d652e706e67.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/volantis-x/hexo-theme-volantis&#34;&gt;volantis&lt;/a&gt; 1.5k star&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30332f31382f663550516c576973766d397a62674b2e6a7067.jpeg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30332f31382f585742476639354532743162646e6c2e6a7067.jpeg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其中 &lt;code&gt;fluid&lt;/code&gt; 和 &lt;code&gt;volantis&lt;/code&gt; 最对我胃口, 最后选择的 &lt;code&gt;fluid&lt;/code&gt;, 后期可能会改成&lt;code&gt;volantis&lt;/code&gt;或者&lt;code&gt;icarus&lt;/code&gt;试试看, 主要是喜欢简洁些, 又能有一定的观赏性的.&lt;/p&gt;
+&lt;h2 id=&#34;Fluid&#34;&gt;&lt;a href=&#34;#Fluid&#34; class=&#34;headerlink&#34; title=&#34;Fluid&#34;&gt;&lt;/a&gt;Fluid&lt;/h2&gt;&lt;p&gt;参考文档&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hexo.fluid-dev.com/docs/guide/&#34;&gt;https://hexo.fluid-dev.com/docs/guide/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;theme 的 Github&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/fluid-dev/hexo-theme-fluid&#34;&gt;https://github.com/fluid-dev/hexo-theme-fluid&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;自带的内置图标库&#34;&gt;&lt;a href=&#34;#自带的内置图标库&#34; class=&#34;headerlink&#34; title=&#34;自带的内置图标库&#34;&gt;&lt;/a&gt;自带的内置图标库&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://hexo.fluid-dev.com/docs/icon/#%E5%86%85%E7%BD%AE%E7%A4%BE%E4%BA%A4%E5%9B%BE%E6%A0%87&#34;&gt;内置社交图标&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/iconfont.f8319467.png&#34; alt=&#34;内置图标&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;Hexo-Note&#34;&gt;&lt;a href=&#34;#Hexo-Note&#34; class=&#34;headerlink&#34; title=&#34;Hexo Note&#34;&gt;&lt;/a&gt;Hexo Note&lt;/h1&gt;&lt;h2 id=&#34;Hexo-Permalink简化&#34;&gt;&lt;a href=&#34;#Hexo-Permalink简化&#34; class=&#34;headerlink&#34; title=&#34;Hexo Permalink简化&#34;&gt;&lt;/a&gt;Hexo Permalink简化&lt;/h2&gt;&lt;p&gt;参考:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/Galahadzhou/article/details/105355733&#34;&gt;Hexo Permalink简化&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Note:&lt;/p&gt;
+&lt;p&gt;使用&lt;code&gt;hexo-abbrlink&lt;/code&gt;插件实现&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# install&lt;/span&gt;&lt;br&gt;npm install hexo-abbrlink --save&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# setting edit _config.yml&lt;/span&gt;&lt;br&gt;permalink: posts/:abbrlink.html&lt;br&gt;abbrlink:&lt;br&gt;  alg: crc32  &lt;span class=&#34;hljs-comment&#34;&gt;# 算法：crc16(default) and crc32&lt;/span&gt;&lt;br&gt;  rep: hex    &lt;span class=&#34;hljs-comment&#34;&gt;# 进制：dec(default) and hex&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;hexo-图片链接问题&#34;&gt;&lt;a href=&#34;#hexo-图片链接问题&#34; class=&#34;headerlink&#34; title=&#34;hexo 图片链接问题&#34;&gt;&lt;/a&gt;hexo 图片链接问题&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;hexo&lt;/code&gt;本地图片显示问题&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用&lt;code&gt;hexo&lt;/code&gt;生成静态资源后,由于&lt;code&gt;url&lt;/code&gt;的问题会出现图片加载的问题,现在网上的文章及官方的解决方案大概分为三种:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;将图片放入&lt;code&gt;source/images&lt;/code&gt;目录下,每次&lt;code&gt;generate&lt;/code&gt;都会生成图片,在使用相对或绝对路径进行引用&lt;/li&gt;
+&lt;li&gt;配置&lt;code&gt;hexo&lt;/code&gt;的&lt;code&gt;_config.yml&lt;/code&gt;文件, 将 &lt;code&gt;post_asset_folder&lt;/code&gt; 设置为&lt;code&gt;true&lt;/code&gt;, 这样每次new 生成一个文章时都会同步生成一个同名的文件夹,然后设置相对或绝对路径. &lt;/li&gt;
+&lt;li&gt;使用&lt;code&gt;hexo&lt;/code&gt;官方的解决方案,使用模版变量, &lt;code&gt;&amp;#123;% asset_img slug [title] %&amp;#125; &lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;!new!. &lt;code&gt;hexo init&lt;/code&gt;的时候会自动copy一个插件 &lt;code&gt;hexo-renderer-marked&lt;/code&gt; 这个插件可以开启相对路径的支持,但是需要改一些代码&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;但是在配置过程中发现这三种方式都多多少少存在一些问题,前两中首页跟内容页会有一个加载失败的问题,而第三种则失去了&lt;code&gt;markdown&lt;/code&gt;的意义.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;方法四:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;官方手册上提到过, &lt;a href=&#34;https://github.com/hexojs/hexo-renderer-marked&#34;&gt;hexo-renderer-marked&lt;/a&gt; 3.1.0已经开始支持相对路径了.但是可以看到它支持的路径似乎并不合理, 其他的md阅读器是不能识别这样的路径的.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/image-20220815153651988.png&#34; alt=&#34;image-20220815153651988&#34;&gt;&lt;/p&gt;
+&lt;p&gt;参考: &lt;a href=&#34;https://github.com/hexojs/hexo-renderer-marked/issues/216&#34;&gt;https://github.com/hexojs/hexo-renderer-marked/issues/216&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;修改&lt;code&gt;_config.yml&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs yaml&#34;&gt;&lt;span class=&#34;hljs-attr&#34;&gt;post_asset_folder:&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;marked:&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;prependRoot:&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;postAsset:&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;修改文件&lt;code&gt;node_modules\hexo-renderer-marked\lib\renderer.js&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs js&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (!&lt;span class=&#34;hljs-regexp&#34;&gt;/^(#|\/\/|http(s)?:)/&lt;/span&gt;.&lt;span class=&#34;hljs-title function_&#34;&gt;test&lt;/span&gt;(href) &amp;amp;&amp;amp; !relative_link &amp;amp;&amp;amp; prependRoot) &amp;#123;&lt;br&gt;  &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (!href.&lt;span class=&#34;hljs-title function_&#34;&gt;startsWith&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;/&amp;#x27;&lt;/span&gt;) &amp;amp;&amp;amp; !href.&lt;span class=&#34;hljs-title function_&#34;&gt;startsWith&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;\\&amp;#x27;&lt;/span&gt;) &amp;amp;&amp;amp; postPath) &amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-title class_&#34;&gt;PostAsset&lt;/span&gt; = hexo.&lt;span class=&#34;hljs-title function_&#34;&gt;model&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;PostAsset&amp;#x27;&lt;/span&gt;);&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// findById requires forward slash&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// ***************** Add the following code *******************&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;const&lt;/span&gt; fixPostPath = &lt;span class=&#34;hljs-title function_&#34;&gt;join&lt;/span&gt;(postPath, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;../&amp;#x27;&lt;/span&gt;);&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;const&lt;/span&gt; asset = &lt;span class=&#34;hljs-title class_&#34;&gt;PostAsset&lt;/span&gt;.&lt;span class=&#34;hljs-title function_&#34;&gt;findById&lt;/span&gt;(&lt;span class=&#34;hljs-title function_&#34;&gt;join&lt;/span&gt;(fixPostPath, href.&lt;span class=&#34;hljs-title function_&#34;&gt;replace&lt;/span&gt;(&lt;span class=&#34;hljs-regexp&#34;&gt;/\\/g&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;/&amp;#x27;&lt;/span&gt;)));&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// const asset = PostAsset.findById(join(postPath, href.replace(/\\/g, &amp;#x27;/&amp;#x27;)));&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// ************************** End *****************************&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// asset.path is backward slash in Windows&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (asset) href = asset.&lt;span class=&#34;hljs-property&#34;&gt;path&lt;/span&gt;.&lt;span class=&#34;hljs-title function_&#34;&gt;replace&lt;/span&gt;(&lt;span class=&#34;hljs-regexp&#34;&gt;/\\/g&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;/&amp;#x27;&lt;/span&gt;);&lt;br&gt;  &amp;#125;&lt;br&gt;  href = url_for.&lt;span class=&#34;hljs-title function_&#34;&gt;call&lt;/span&gt;(hexo, href);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;enjoy it&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;方法二:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs js&#34;&gt;# 设置&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;post_asset_folder&lt;/span&gt;:&lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;&lt;br&gt;# 安装插件 asset-image&lt;br&gt;npm install &lt;span class=&#34;hljs-attr&#34;&gt;https&lt;/span&gt;:&lt;span class=&#34;hljs-comment&#34;&gt;//github.com/CodeFalling/hexo-asset-image  --save&lt;/span&gt;&lt;br&gt;# typora中设置图片为相对路径 看下图&lt;br&gt;./$&amp;#123;filename&amp;#125;&lt;br&gt;# 运行查看&lt;br&gt;hexo clean &amp;amp;&amp;amp; hexo generate &amp;amp;&amp;amp; hexo s &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/image-20220815133503275.png&#34; alt=&#34;image-20220815133503275&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;注意&#34;&gt;&lt;a href=&#34;#注意&#34; class=&#34;headerlink&#34; title=&#34;注意&#34;&gt;&lt;/a&gt;注意&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;   Env:使用方法四&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;文件名不能带有空格, title 可以带空格 (&lt;code&gt;hexo new&lt;/code&gt;的时候需要注意这一点)&lt;ul&gt;
+&lt;li&gt;修改 &lt;code&gt;node_modules\hexo-renderer-marked\lib\renderer.js&lt;/code&gt;文件可能可以改善这点. -&amp;gt; TBD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;md文件名要和图片等等资源文件夹同名 -&amp;gt; 注定了不能使用 &lt;code&gt;./$&amp;#123;filename&amp;#125;.assets&lt;/code&gt;这种方案, 一定要改成&lt;code&gt;./$&amp;#123;filename&amp;#125;&lt;/code&gt;才行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;Hexo-跳过一些文件-不渲染某些文件&#34;&gt;&lt;a href=&#34;#Hexo-跳过一些文件-不渲染某些文件&#34; class=&#34;headerlink&#34; title=&#34;Hexo 跳过一些文件,不渲染某些文件&#34;&gt;&lt;/a&gt;Hexo 跳过一些文件,不渲染某些文件&lt;/h2&gt;&lt;p&gt;搜索引擎确认网站所有权时往往会提供一个html文件来进行验证，要是这个文件被渲染了，验证自然就会失败了。或者，有时候会写一些简单的html示例页面或&lt;code&gt;README.md&lt;/code&gt;，这也是不希望Hexo渲染的。因此有必要针对某个文件或者目录进行排除。&lt;/p&gt;
+&lt;p&gt;Hexo博客的基本内容是一些Markdown文件，放在&lt;code&gt;source/_post&lt;/code&gt;文件夹下，每个文件对应一篇文章。除此之外，放在&lt;code&gt;source&lt;/code&gt;文件夹下的所有开头不是下划线的文件，在&lt;code&gt;hexo generate&lt;/code&gt;的时候，都会被拷贝到&lt;code&gt;public&lt;/code&gt;文件夹下。但是，Hexo默认会渲染所有的HTML和Markdown文件，导致我的README.md直接转成html格式了。。。&lt;/p&gt;
+&lt;p&gt;怎么样避开这个坑呢？如果只有一个HTML文件的话，可以简单地在文件开头加上&lt;code&gt;layout: false&lt;/code&gt;一行即可：&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs yaml&#34;&gt;&lt;span class=&#34;hljs-attr&#34;&gt;layout:&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;...&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;如果有多个要避开渲染的md文件，显然是不可能使用这种方法的。这时候需要使用&lt;code&gt;skip_render&lt;/code&gt;配置。根据&lt;a href=&#34;https://hexo.io/zh-cn/docs/configuration.html&#34;&gt;Hexo文档&lt;/a&gt;中的说明，通过在&lt;code&gt;_config.yml&lt;/code&gt;配置文件中使用&lt;code&gt;skip_render&lt;/code&gt;参数，可以跳过指定文件的渲染。使用方式如下：&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;skip_render: [games&lt;span class=&#34;hljs-regexp&#34;&gt;/**, depview/&lt;/span&gt;**, knowledge/**]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;这里的路径匹配可以使用正则表达式。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意：&lt;code&gt;skip_render&lt;/code&gt;参数设置的路径是相对于&lt;code&gt;source&lt;/code&gt;目录的路径。&lt;/strong&gt;例如，需要跳过渲染source&amp;#x2F;README.md，只需要设置 &lt;code&gt;skip_render:README.md&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;在设置了跳过渲染之后，最好使用&lt;code&gt;hexo clean&lt;/code&gt;清除以前的编译结果，保证配置生效。&lt;/p&gt;
+&lt;h2 id=&#34;hexo-开启RSS订阅-feed-atom&#34;&gt;&lt;a href=&#34;#hexo-开启RSS订阅-feed-atom&#34; class=&#34;headerlink&#34; title=&#34;hexo 开启RSS订阅 feed atom&#34;&gt;&lt;/a&gt;hexo 开启RSS订阅 feed atom&lt;/h2&gt;&lt;p&gt;基于&lt;code&gt;hexo-generator-feed&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;先安装这个包:&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;npm install hexo-generator-feed&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;然后在在&lt;code&gt;_config.yml&lt;/code&gt;文件中配置该插件&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs yaml&#34;&gt;&lt;span class=&#34;hljs-attr&#34;&gt;feed:&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;type:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;atom&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;path:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;atom.xml&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;limit:&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;hub:&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;content:&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;content_limit:&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;content_limit_delim:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27; &amp;#x27;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;order_by:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;-date&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;icon:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/images/favicon.png&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  参数的含义：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;type&lt;/code&gt;: &lt;code&gt;RSS&lt;/code&gt;的类型(&lt;code&gt;atom/rss2&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;path&lt;/code&gt;: 文件路径,默认是&lt;code&gt;atom.xml/rss2.xml&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;limit&lt;/code&gt;: 展示文章的数量,使用&lt;strong&gt;0&lt;/strong&gt;或则&lt;strong&gt;false&lt;/strong&gt;代表展示全部&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hub&lt;/code&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;content&lt;/code&gt;: 在&lt;code&gt;RSS&lt;/code&gt;文件中是否包含内容 ,有3个值 &lt;code&gt;true/false&lt;/code&gt;默认不填为&lt;code&gt;false&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;content_limit&lt;/code&gt;: 指定内容的长度作为摘要,仅仅在上面&lt;code&gt;content&lt;/code&gt;设置为&lt;code&gt;false&lt;/code&gt;和&lt;code&gt;没有自定义的描述出现&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;content_limit_delim&lt;/code&gt;: 上面截取描述的分隔符,截取内容是以指定的这个分隔符作为截取结束的标志.在达到规定的内容长度之前最后出现的这个分隔符之前的内容,，防止从中间截断.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;order_by&lt;/code&gt;: 顺序排列方式&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;icon&lt;/code&gt;: 图标路径&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;配置好之后运行&lt;code&gt;hexo clean &amp;amp; hexo g&lt;/code&gt;就可以找到你博客的&lt;code&gt;pubilc&lt;/code&gt; 文件夹下发现&lt;code&gt;atom.xml&lt;/code&gt;文件了&lt;/p&gt;
+&lt;p&gt;我们可以在&lt;code&gt;关于(about)&lt;/code&gt;页面添加RSS源, 有些主题可以在头像下面自动开启, 这些都是后话了.&lt;/p&gt;
+&lt;p&gt;配置RSS的时候发现还有一些其他的推送方式, 比如邮件推送, 浏览器通知推送等等.&lt;/p&gt;
+&lt;h3 id=&#34;RSS阅读器&#34;&gt;&lt;a href=&#34;#RSS阅读器&#34; class=&#34;headerlink&#34; title=&#34;RSS阅读器&#34;&gt;&lt;/a&gt;RSS阅读器&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://feedly.com/&#34;&gt;Feedly.com&lt;/a&gt; 这个比较满意, 文章显示和界面都不错&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.inoreader.com/&#34;&gt;inoreader&lt;/a&gt;: 订阅的文章展示效果也还不错(卡片形式).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://theoldreader.com/&#34;&gt;the old reader&lt;/a&gt;: 这个是比较老牌的RSS阅读器了&lt;/p&gt;
+&lt;p&gt;参考链接:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://segmentfault.com/a/1190000012647294&#34;&gt;为hexo博客添加RSS订阅功能&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sean10.github.io/2020/06/27/hexo%E5%BC%80%E5%90%AFatom%E8%AE%A2%E9%98%85/&#34;&gt;hexo开启atom订阅&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;hexo-静态网页压缩&#34;&gt;&lt;a href=&#34;#hexo-静态网页压缩&#34; class=&#34;headerlink&#34; title=&#34;hexo 静态网页压缩&#34;&gt;&lt;/a&gt;hexo 静态网页压缩&lt;/h2&gt;&lt;p&gt;了解到有三个插件可以做到这个功能(&lt;code&gt;hexo-neat&lt;/code&gt;, &lt;code&gt;gulp&lt;/code&gt;, &lt;code&gt;Hexo-all-minifier&lt;/code&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gulp&lt;/code&gt;存在各种乱七八糟的依赖关系, 推荐直接用&lt;code&gt;Hexo-all-minifier&lt;/code&gt;一套走.&lt;/p&gt;
+&lt;h3 id=&#34;1-hexo-neat&#34;&gt;&lt;a href=&#34;#1-hexo-neat&#34; class=&#34;headerlink&#34; title=&#34;1. hexo-neat&#34;&gt;&lt;/a&gt;1. hexo-neat&lt;/h3&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;安装&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;$ &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;npm install hexo-neat --save&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;在 _config.yml 添加配置&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;博文压缩&lt;/span&gt;&lt;br&gt;neat_enable: true&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;压缩html&lt;/span&gt;&lt;br&gt;neat_html:&lt;br&gt;  enable: true&lt;br&gt;  exclude:&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;压缩css&lt;/span&gt;&lt;br&gt;neat_css:&lt;br&gt;  enable: true&lt;br&gt;  exclude:&lt;br&gt;    - &amp;#x27;**/*.min.css&amp;#x27;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;压缩js&lt;/span&gt;&lt;br&gt;neat_js:&lt;br&gt;  enable: true&lt;br&gt;  mangle: true&lt;br&gt;  output:&lt;br&gt;  compress:&lt;br&gt;  exclude:&lt;br&gt;    - &amp;#x27;**/*.min.js&amp;#x27;&lt;br&gt;    - &amp;#x27;**/jquery.fancybox.pack.js&amp;#x27;&lt;br&gt;    - &amp;#x27;**/index.js&amp;#x27;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;2-gulp&#34;&gt;&lt;a href=&#34;#2-gulp&#34; class=&#34;headerlink&#34; title=&#34;2. gulp&#34;&gt;&lt;/a&gt;2. gulp&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 安装gulp&lt;/span&gt;&lt;br&gt;npm install gulp --save&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 安装gulp依赖&lt;/span&gt;&lt;br&gt;npm install gulp-minify-css gulp-uglify gulp-htmlmin gulp-htmlclean gulp-imagemin --save&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;创建 gulpfile.js 文件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在&lt;code&gt;Hexo&lt;/code&gt;站点根目录下创建&lt;code&gt;gulpfile.js&lt;/code&gt;文件&lt;/p&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs js&#34;&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;var&lt;/span&gt; gulp = &lt;span class=&#34;hljs-built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;gulp&amp;#x27;&lt;/span&gt;);&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;var&lt;/span&gt; minifycss = &lt;span class=&#34;hljs-built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;gulp-minify-css&amp;#x27;&lt;/span&gt;);&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;var&lt;/span&gt; uglify = &lt;span class=&#34;hljs-built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;gulp-uglify&amp;#x27;&lt;/span&gt;);&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;var&lt;/span&gt; htmlmin = &lt;span class=&#34;hljs-built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;gulp-htmlmin&amp;#x27;&lt;/span&gt;);&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;var&lt;/span&gt; htmlclean = &lt;span class=&#34;hljs-built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;gulp-htmlclean&amp;#x27;&lt;/span&gt;);&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;var&lt;/span&gt; imagemin = &lt;span class=&#34;hljs-built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;gulp-imagemin&amp;#x27;&lt;/span&gt;);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 压缩css文件&lt;/span&gt;&lt;br&gt;gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-css&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;br&gt;  &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;src&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public/**/*.css&amp;#x27;&lt;/span&gt;)&lt;br&gt;  .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(&lt;span class=&#34;hljs-title function_&#34;&gt;minifycss&lt;/span&gt;())&lt;br&gt;  .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;dest&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public&amp;#x27;&lt;/span&gt;));&lt;br&gt;&amp;#125;);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 压缩html文件&lt;/span&gt;&lt;br&gt;gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-html&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;br&gt;  &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;src&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public/**/*.html&amp;#x27;&lt;/span&gt;)&lt;br&gt;  .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(&lt;span class=&#34;hljs-title function_&#34;&gt;htmlclean&lt;/span&gt;())&lt;br&gt;  .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(&lt;span class=&#34;hljs-title function_&#34;&gt;htmlmin&lt;/span&gt;(&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;removeComments&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;,&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;minifyJS&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;,&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;minifyCSS&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;,&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;minifyURLs&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;,&lt;br&gt;  &amp;#125;))&lt;br&gt;  .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;dest&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public&amp;#x27;&lt;/span&gt;))&lt;br&gt;&amp;#125;);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 压缩js文件&lt;/span&gt;&lt;br&gt;gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-js&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;src&lt;/span&gt;([&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public/**/.js&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;!./public/js/**/*min.js&amp;#x27;&lt;/span&gt;])&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(&lt;span class=&#34;hljs-title function_&#34;&gt;uglify&lt;/span&gt;())&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;dest&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public&amp;#x27;&lt;/span&gt;));&lt;br&gt;&amp;#125;);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 压缩 public/demo 目录内图片&lt;/span&gt;&lt;br&gt;gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-images&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;br&gt;    gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;src&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public/demo/**/*.*&amp;#x27;&lt;/span&gt;)&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(&lt;span class=&#34;hljs-title function_&#34;&gt;imagemin&lt;/span&gt;(&amp;#123;&lt;br&gt;           &lt;span class=&#34;hljs-attr&#34;&gt;optimizationLevel&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;//类型：Number  默认：3  取值范围：0-7（优化等级）&lt;/span&gt;&lt;br&gt;           &lt;span class=&#34;hljs-attr&#34;&gt;progressive&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;//类型：Boolean 默认：false 无损压缩jpg图片&lt;/span&gt;&lt;br&gt;           &lt;span class=&#34;hljs-attr&#34;&gt;interlaced&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;//类型：Boolean 默认：false 隔行扫描gif进行渲染&lt;/span&gt;&lt;br&gt;           &lt;span class=&#34;hljs-attr&#34;&gt;multipass&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;//类型：Boolean 默认：false 多次优化svg直到完全优化&lt;/span&gt;&lt;br&gt;        &amp;#125;))&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;dest&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public/uploads&amp;#x27;&lt;/span&gt;));&lt;br&gt;&amp;#125;);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 默认任务 gulp 4.0 适用的方式&lt;/span&gt;&lt;br&gt;gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;default&amp;#x27;&lt;/span&gt;, gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;parallel&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-html&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-css&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-js&amp;#x27;&lt;/span&gt;&lt;br&gt; &lt;span class=&#34;hljs-comment&#34;&gt;//build the website&lt;/span&gt;&lt;br&gt;));&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;只要每次在执行&lt;code&gt;hexo g&lt;/code&gt;命令后执行&lt;code&gt;gulp&lt;/code&gt;就可以进行静态资源压缩，压缩后再同步到github上&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;hexo cl &amp;amp; hexo g &amp;amp; gulp&lt;br&gt;hexo d&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h4 id=&#34;注意-这里部署的时候出了一个问题&#34;&gt;&lt;a href=&#34;#注意-这里部署的时候出了一个问题&#34; class=&#34;headerlink&#34; title=&#34;注意: 这里部署的时候出了一个问题&#34;&gt;&lt;/a&gt;&lt;strong&gt;注意: 这里部署的时候出了一个问题&lt;/strong&gt;&lt;/h4&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;Error [ERR_REQUIRE_ESM]: require() of ES Module xxx\hexo\node_modules\gulp-imagemin\index.js from xxx\hexo\gulpfile.js not supported.&lt;br&gt;Instead change the require of index.js &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt; xxx\hexo\gulpfile.js to a dynamic import() &lt;span class=&#34;hljs-built_in&#34;&gt;which&lt;/span&gt; is available &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt; all CommonJS modules.&lt;br&gt;    at Object.&amp;lt;anonymous&amp;gt; (xxx\hexo\gulpfile.js:6:16)&lt;br&gt;    at async Promise.all (index 0) &amp;#123;&lt;br&gt;  code: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;ERR_REQUIRE_ESM&amp;#x27;&lt;/span&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  gulp-imagemin 8.0.0 and above are now ESM only. You can downgrade gulp-imagemin to 7.1.0 which is commonjs and it should work fine.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  This package is now pure ESM. Please read this.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;  &lt;a href=&#34;https://github.com/sindresorhus/gulp-imagemin/releases/tag/v8.0.0&#34;&gt;https://github.com/sindresorhus/gulp-imagemin/releases/tag/v8.0.0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;最终找到说是包的版本太高导致的&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;重新安装特定版本的包&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 先卸载掉这些包&lt;/span&gt;&lt;br&gt;npm uninstall gulp&lt;br&gt;npm uninstall gulp-htmlclean gulp-htmlmin gulp-clean-css gulp-uglify gulp-imagemin&lt;br&gt;npm uninstall gulp-minify-css &lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 重新安装&lt;/span&gt;&lt;br&gt;npm install gulp@4.0.2 --save&lt;br&gt;npm install gulp-htmlclean@4.0.2 gulp-htmlmin@5.0.1 gulp-clean-css@4.2.0 gulp-uglify@3.0.2 gulp-imagemin@7.1.0 --save&lt;br&gt;npm install gulp-babel@8.0.0 babel-preset-env@1.7.0 babel-preset-mobx@2.0.0 --save&lt;br&gt;npm install gulp-miniify-css@1.2.4 -save&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  包的版本可以参考这个&lt;br&gt;  &lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs json&#34;&gt;&lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;babel-preset-env&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;^1.7.0&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;babel-preset-mobx&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;^2.0.0&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;gulp&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;^4.0.2&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;gulp-babel&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;^8.0.0&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;gulp-clean-css&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;^4.2.0&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;gulp-htmlclean&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;^2.7.22&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;gulp-htmlmin&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;^5.0.1&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;gulp-imagemin&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;^7.1.0&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;gulp-uglify&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;^3.0.2&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;gulp-minify-css&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;^1.2.4&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;,&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;把&lt;code&gt;gulpfile.js&lt;/code&gt;也改动了一下, &lt;/p&gt;
+&lt;p&gt;在&lt;code&gt;minify-images&lt;/code&gt;项里面我的图片是随文章存放的, 并不是全部存放在&lt;code&gt;img&lt;/code&gt;等文件夹下面, 所以只能用全文件匹配去做图片压缩, 代价就是速度很忙, 希望有大佬来指点一下如何更好的修改&lt;/p&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs js&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;let&lt;/span&gt; gulp      = &lt;span class=&#34;hljs-built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;gulp&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;let&lt;/span&gt; htmlmin   = &lt;span class=&#34;hljs-built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;gulp-htmlmin&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;let&lt;/span&gt; htmlclean = &lt;span class=&#34;hljs-built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;gulp-htmlclean&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;let&lt;/span&gt; uglify    = &lt;span class=&#34;hljs-built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;gulp-uglify&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;let&lt;/span&gt; imagemin  = &lt;span class=&#34;hljs-built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;gulp-imagemin&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;var&lt;/span&gt; minifycss = &lt;span class=&#34;hljs-built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;gulp-minify-css&amp;#x27;&lt;/span&gt;);&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 压缩html&lt;/span&gt;&lt;br&gt;gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-html&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt; (&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 匹配所有 .html结尾的文件&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;src&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public/**/*.html&amp;#x27;&lt;/span&gt;)&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(&lt;span class=&#34;hljs-title function_&#34;&gt;htmlclean&lt;/span&gt;())&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(&lt;span class=&#34;hljs-title function_&#34;&gt;htmlmin&lt;/span&gt;(&amp;#123;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;removeComments&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;,&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;minifyJS&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;,&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;minifyCSS&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;,&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;minifyURLs&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;,&lt;br&gt;        &amp;#125;))&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;dest&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public&amp;#x27;&lt;/span&gt;))&lt;br&gt;&amp;#125;);&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 压缩css&lt;/span&gt;&lt;br&gt;gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-css&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt; (&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;src&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public/**/*.css&amp;#x27;&lt;/span&gt;)&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(&lt;span class=&#34;hljs-title function_&#34;&gt;minifycss&lt;/span&gt;())&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;dest&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public&amp;#x27;&lt;/span&gt;));&lt;br&gt;&amp;#125;);&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 压缩js&lt;/span&gt;&lt;br&gt;gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-js&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt; (&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;src&lt;/span&gt;([&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public/**/.js&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;!./public/js/**/*min.js&amp;#x27;&lt;/span&gt;])&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(&lt;span class=&#34;hljs-title function_&#34;&gt;uglify&lt;/span&gt;())&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;dest&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public&amp;#x27;&lt;/span&gt;));&lt;br&gt;&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 压缩图片&lt;/span&gt;&lt;br&gt;gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-images&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt; (&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;src&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public/**/*.*&amp;#x27;&lt;/span&gt;)&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(&lt;span class=&#34;hljs-title function_&#34;&gt;imagemin&lt;/span&gt;(&amp;#123;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;optimizationLevel&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;//类型：Number  默认：3  取值范围：0-7（优化等级）&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;progressive&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;,    &lt;span class=&#34;hljs-comment&#34;&gt;//类型：Boolean 默认：false 无损压缩jpg图片&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;interlaced&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;,    &lt;span class=&#34;hljs-comment&#34;&gt;//类型：Boolean 默认：false 隔行扫描gif进行渲染&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-attr&#34;&gt;multipass&lt;/span&gt;: &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;,     &lt;span class=&#34;hljs-comment&#34;&gt;//类型：Boolean 默认：false 多次优化svg直到完全优化&lt;/span&gt;&lt;br&gt;        &amp;#125;))&lt;br&gt;        .&lt;span class=&#34;hljs-title function_&#34;&gt;pipe&lt;/span&gt;(gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;dest&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./public&amp;#x27;&lt;/span&gt;));&lt;br&gt;&amp;#125;)&lt;br&gt;&lt;br&gt;gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;default&amp;#x27;&lt;/span&gt;, gulp.&lt;span class=&#34;hljs-title function_&#34;&gt;series&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-html&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-css&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-js&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;minify-images&amp;#x27;&lt;/span&gt;))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;3-Hexo-all-minifier&#34;&gt;&lt;a href=&#34;#3-Hexo-all-minifier&#34; class=&#34;headerlink&#34; title=&#34;3. Hexo-all-minifier&#34;&gt;&lt;/a&gt;3. Hexo-all-minifier&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;  &lt;a href=&#34;https://github.com/chenzhutian/hexo-all-minifier&#34;&gt;https://github.com/chenzhutian/hexo-all-minifier&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  &lt;a href=&#34;https://archive.vincent0700.com/2019/12/31/034_Usage_of_hexo-all-minifier_copy/&#34;&gt;Hexo 资源压缩 | hexo-all-minifier&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 安装&lt;/span&gt;&lt;br&gt;npm install hexo-all-minifier --save&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 在_config.yml文件添加配置&lt;/span&gt;&lt;br&gt;all_minifier: &lt;span class=&#34;hljs-literal&#34;&gt;true&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# &lt;/span&gt;&lt;br&gt;hexo cl &amp;amp; hexo g &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;Hexo-Sitemap&#34;&gt;&lt;a href=&#34;#Hexo-Sitemap&#34; class=&#34;headerlink&#34; title=&#34;Hexo Sitemap&#34;&gt;&lt;/a&gt;Hexo Sitemap&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;   据网友所言: 谷歌就xx乱爬, 百度就xx乱删, 必应就xx不收录&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;为了让博文能够被google或百度检索，需要先将网站收录到他们的库里面，我们可以在谷歌的站长平台里面提交我们的sitemap文件，告诉浏览器应该我们的站点有哪些页面，这样他就会去爬取收录了。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  站点地图是一种文件，您可以在其中提供与您网站中的网页、视频或其他文件有关的信息，还可以说明这些内容之间的关系。Google 等搜索引擎会读取此文件，以便更高效地抓取您的网站。站点地图会告诉 Google 您认为网站中的哪些网页和文件比较重要，还会提供与这些文件有关的重要信息。例如，网页上次更新的时间和网页是否有任何备用的语言版本。&lt;/p&gt;
+&lt;p&gt;  您可以使用站点地图提供与特定类型的网页内容（包括&lt;a href=&#34;https://developers.google.com/search/docs/advanced/sitemaps/video-sitemaps&#34;&gt;视频&lt;/a&gt;、&lt;a href=&#34;https://developers.google.com/search/docs/advanced/sitemaps/image-sitemaps&#34;&gt;图片&lt;/a&gt;和&lt;a href=&#34;https://developers.google.com/search/docs/advanced/sitemaps/news-sitemap&#34;&gt;新闻&lt;/a&gt;内容）有关的信息。例如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;站点地图视频条目可以指定视频的时长、评分以及适合哪些年龄段的受众。&lt;/li&gt;
+&lt;li&gt;站点地图图片条目中可包含网页中所含图片的位置。&lt;/li&gt;
+&lt;li&gt;站点地图新闻条目中可包含报道标题和发布日期。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;  &lt;strong&gt;我需要站点地图吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  如果您网站上的网页链接得当，那么 Google 通常能够发现其中的大多数网页。链接得当是指您认为重要的所有网页都可以通过某些形式的导航（例如您网站的菜单，或您放入网页中的链接）抵达。即便如此，站点地图仍有助于我们更加高效地抓取规模更大、更复杂的网站或更特殊的文件。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;生成sitemap-xml&#34;&gt;&lt;a href=&#34;#生成sitemap-xml&#34; class=&#34;headerlink&#34; title=&#34;生成sitemap.xml&#34;&gt;&lt;/a&gt;生成&lt;code&gt;sitemap.xml&lt;/code&gt;&lt;/h3&gt;&lt;p&gt;首先我们安装生成sitemao的插件&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 谷歌的&lt;/span&gt;&lt;br&gt;npm install hexo-generator-sitemap --save&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 百度的&lt;/span&gt;&lt;br&gt;npm install hexo-generator-baidu-sitemap --save&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;修改配置文件&lt;code&gt;_config.yml&lt;/code&gt;增加下面这些内容&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;Plugins:&lt;br&gt;- hexo-generator-sitemap&lt;br&gt;- hexo-generator-baidu-sitemap&lt;br&gt;&lt;br&gt;baidusitemap:&lt;br&gt;  path: baidusitemap.xml&lt;br&gt;sitemap:&lt;br&gt;  path: sitemap.xml&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;生成&lt;code&gt;sitemap.xml&lt;/code&gt;文件, 重新生成网站, 在网站根目录就可以看到&lt;code&gt;sitemap.xml&lt;/code&gt;文件&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;hexo cl &amp;amp; hexo g &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;提交sitemap-xml&#34;&gt;&lt;a href=&#34;#提交sitemap-xml&#34; class=&#34;headerlink&#34; title=&#34;提交sitemap.xml&#34;&gt;&lt;/a&gt;提交&lt;code&gt;sitemap.xml&lt;/code&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.google.com/webmasters/tools&#34;&gt;GoogleSearchConsole&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bing.com/webmasters/&#34;&gt;BingWebMaster&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ziyuan.baidu.com/site/index&#34;&gt;百度资源平台&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下面讲一下谷歌的&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;登录&lt;a href=&#34;https://www.google.com/webmasters/tools&#34;&gt;GoogleSearchConsole&lt;/a&gt;, 按照提示验证站点的所有权&lt;/p&gt;
+&lt;p&gt;打开谷歌控制台选择-&amp;gt;&lt;strong&gt;索引&lt;/strong&gt;-&amp;gt;&lt;strong&gt;站点地图&lt;/strong&gt;，在添加新的站点地图中填入你的&lt;code&gt;sitemap.xml&lt;/code&gt;的路径, 这里直接写&lt;code&gt;sitemap.xml&lt;/code&gt;即可。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/image-20220918004138059.png&#34; alt=&#34;image-20220918004138059&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;   这个谷歌真是让我大无语, 一直显示无法获取, 一直没法解决这个问题, 网址检查显示没什么问题, 但是一直显示无法获取真是麻了.&lt;/p&gt;
+&lt;p&gt;  求助群友后他们推荐使用 Hexo-SEO-AutoPush&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;收录查询&#34;&gt;&lt;a href=&#34;#收录查询&#34; class=&#34;headerlink&#34; title=&#34;收录查询&#34;&gt;&lt;/a&gt;收录查询&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;通过网站管理平台的控制台去看数据&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;搜索引擎直接搜索&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight avrasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs avrasm&#34;&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;site:&lt;/span&gt;oikiou.top&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;手动生成Sitemap文件&#34;&gt;&lt;a href=&#34;#手动生成Sitemap文件&#34; class=&#34;headerlink&#34; title=&#34;手动生成Sitemap文件&#34;&gt;&lt;/a&gt;手动生成Sitemap文件&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.xml-sitemaps.com/&#34;&gt;https://www.xml-sitemaps.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Hexo-SEO-AutoPush的使用&#34;&gt;&lt;a href=&#34;#Hexo-SEO-AutoPush的使用&#34; class=&#34;headerlink&#34; title=&#34;Hexo-SEO-AutoPush的使用&#34;&gt;&lt;/a&gt;Hexo-SEO-AutoPush的使用&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/Lete114/Hexo-SEO-AutoPush&#34;&gt;https://github.com/Lete114/Hexo-SEO-AutoPush&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  注意以下几点: &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;由于生成的 actions 是在&lt;code&gt;.github/workflows/HexoSeoAutoPush.yml&lt;/code&gt;，点开头的文件或文件夹都会被视为隐藏文件，所以 hexo 不会将隐藏文件部署到 pages，需要新增配置&lt;code&gt;ignore_hidden&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;hljs&#34;&gt; &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;deploy:&lt;br&gt; ignore_hidden: &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt; &lt;span class=&#34;hljs-comment&#34;&gt;# 忽略隐藏文件及文件夹(目录)&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;p&gt;Bing的&lt;code&gt;API&lt;/code&gt;在登录控制台后的&lt;em&gt;右上角齿轮上&lt;/em&gt;可以找到, 如果找不到可能是界面更新导致的, 请参考官方文档&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;注意google的信息填写方式&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;google_private_key&lt;/code&gt;是填写Json内的 &lt;code&gt;private_key &lt;/code&gt; 不是&lt;code&gt;private_key_id &lt;/code&gt;注意区分. &lt;/p&gt;
+&lt;p&gt;而且&lt;code&gt;google_private_key &lt;/code&gt; 是带双引号的需要注意, 而&lt;code&gt;google_client_email&lt;/code&gt;填写的时候是不带双引号的.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名称&lt;/th&gt;
+&lt;th&gt;形似&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;google_client_email&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:&amp;#120;&amp;#x78;&amp;#120;&amp;#x40;&amp;#x78;&amp;#x78;&amp;#120;&amp;#46;&amp;#120;&amp;#120;&amp;#120;&amp;#x2e;&amp;#103;&amp;#115;&amp;#x65;&amp;#x72;&amp;#x76;&amp;#105;&amp;#x63;&amp;#101;&amp;#x61;&amp;#x63;&amp;#99;&amp;#111;&amp;#x75;&amp;#110;&amp;#116;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&#34;&gt;&amp;#120;&amp;#x78;&amp;#120;&amp;#x40;&amp;#x78;&amp;#x78;&amp;#120;&amp;#46;&amp;#120;&amp;#120;&amp;#120;&amp;#x2e;&amp;#103;&amp;#115;&amp;#x65;&amp;#x72;&amp;#x76;&amp;#105;&amp;#x63;&amp;#101;&amp;#x61;&amp;#x63;&amp;#99;&amp;#111;&amp;#x75;&amp;#110;&amp;#116;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;【必填】Value 输入谷歌的 client_email&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;google_private_key&lt;/td&gt;
+&lt;td&gt;“—–BEGIN PRIVATE KEY—–\nxxxxxx\n—–END PRIVATE KEY—–\n”&lt;/td&gt;
+&lt;td&gt;【必填】Value 输入谷歌的 private_key （注意：填写的时候需要使用&lt;strong&gt;双引号&lt;/strong&gt;包起来，如: &lt;code&gt;&amp;quot;private_key&amp;quot;&lt;/code&gt;）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在Github内点击Action-&amp;gt;Hexo SEO Auto Push -&amp;gt; 查看执行情况 没有报错就是执行的没问题, 稍等片刻刷新控制台就可以看到提交的信息.&lt;/p&gt;
+&lt;p&gt;打开&lt;a href=&#34;https://www.bing.com/webmasters/&#34;&gt;Home - Bing Webmaster Tools&lt;/a&gt;, &lt;code&gt;URL提交&lt;/code&gt;标签&lt;/p&gt;
+&lt;p&gt;在&lt;a href=&#34;https://console.cloud.google.com/apis/dashboard&#34;&gt;Google Cloud Platform&lt;/a&gt; 中查看.&lt;/p&gt;
+&lt;h3 id=&#34;注意-1&#34;&gt;&lt;a href=&#34;#注意-1&#34; class=&#34;headerlink&#34; title=&#34;注意:&#34;&gt;&lt;/a&gt;&lt;strong&gt;注意:&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;部署的时候报了下面这个错误, 当时弄这个东西的时候是半夜, 脑子不清醒(各位同学注意早睡早起, 熬夜效率是极其低下的), &lt;code&gt;private_key&lt;/code&gt;填写错了发生了这个错误, 有相似错误的同学可以看看是不是&lt;code&gt;private_key&lt;/code&gt;有问题.&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;Run npx hexoautopush *** ***&lt;br&gt;Error: error:&lt;span class=&#34;hljs-number&#34;&gt;0909006&lt;/span&gt;C:PEM routines:get_name:no start line&lt;br&gt;    at Sign.sign (internal&lt;span class=&#34;hljs-regexp&#34;&gt;/crypto/&lt;/span&gt;sig.js:&lt;span class=&#34;hljs-number&#34;&gt;110&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;29&lt;/span&gt;)&lt;br&gt;    at Object.sign (&lt;span class=&#34;hljs-regexp&#34;&gt;/xxx/&lt;/span&gt;node_modules&lt;span class=&#34;hljs-regexp&#34;&gt;/jwa/i&lt;/span&gt;ndex.js:&lt;span class=&#34;hljs-number&#34;&gt;152&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;45&lt;/span&gt;)&lt;br&gt;    at Object.jwsSign [as sign] (&lt;span class=&#34;hljs-regexp&#34;&gt;/xxx/&lt;/span&gt;node_modules&lt;span class=&#34;hljs-regexp&#34;&gt;/jws/&lt;/span&gt;lib/sign-stream.js:&lt;span class=&#34;hljs-number&#34;&gt;32&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;24&lt;/span&gt;)&lt;br&gt;    at GoogleToken.requestToken (&lt;span class=&#34;hljs-regexp&#34;&gt;/xxx/&lt;/span&gt;node_modules&lt;span class=&#34;hljs-regexp&#34;&gt;/gtoken/&lt;/span&gt;build&lt;span class=&#34;hljs-regexp&#34;&gt;/src/i&lt;/span&gt;ndex.js:&lt;span class=&#34;hljs-number&#34;&gt;225&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;31&lt;/span&gt;)&lt;br&gt;    at GoogleToken.getTokenAsyncInner (&lt;span class=&#34;hljs-regexp&#34;&gt;/xxx/&lt;/span&gt;node_modules&lt;span class=&#34;hljs-regexp&#34;&gt;/gtoken/&lt;/span&gt;build&lt;span class=&#34;hljs-regexp&#34;&gt;/src/i&lt;/span&gt;ndex.js:&lt;span class=&#34;hljs-number&#34;&gt;163&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;21&lt;/span&gt;)&lt;br&gt;    at GoogleToken.getTokenAsync (&lt;span class=&#34;hljs-regexp&#34;&gt;/xxx/&lt;/span&gt;node_modules&lt;span class=&#34;hljs-regexp&#34;&gt;/gtoken/&lt;/span&gt;build&lt;span class=&#34;hljs-regexp&#34;&gt;/src/i&lt;/span&gt;ndex.js:&lt;span class=&#34;hljs-number&#34;&gt;142&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;55&lt;/span&gt;)&lt;br&gt;    at GoogleToken.getToken (&lt;span class=&#34;hljs-regexp&#34;&gt;/xxx/&lt;/span&gt;node_modules&lt;span class=&#34;hljs-regexp&#34;&gt;/gtoken/&lt;/span&gt;build&lt;span class=&#34;hljs-regexp&#34;&gt;/src/i&lt;/span&gt;ndex.js:&lt;span class=&#34;hljs-number&#34;&gt;94&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;21&lt;/span&gt;)&lt;br&gt;    at JWT.refreshTokenNoCache (&lt;span class=&#34;hljs-regexp&#34;&gt;/xxx/&lt;/span&gt;node_modules&lt;span class=&#34;hljs-regexp&#34;&gt;/google-auth-library/&lt;/span&gt;build&lt;span class=&#34;hljs-regexp&#34;&gt;/src/&lt;/span&gt;auth/jwtclient.js:&lt;span class=&#34;hljs-number&#34;&gt;171&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;36&lt;/span&gt;)&lt;br&gt;    at JWT.refreshToken (&lt;span class=&#34;hljs-regexp&#34;&gt;/xxx/&lt;/span&gt;node_modules&lt;span class=&#34;hljs-regexp&#34;&gt;/google-auth-library/&lt;/span&gt;build&lt;span class=&#34;hljs-regexp&#34;&gt;/src/&lt;/span&gt;auth/oauth2client.js:&lt;span class=&#34;hljs-number&#34;&gt;145&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;25&lt;/span&gt;)&lt;br&gt;    at JWT.authorizeAsync (&lt;span class=&#34;hljs-regexp&#34;&gt;/xxx/&lt;/span&gt;node_modules&lt;span class=&#34;hljs-regexp&#34;&gt;/google-auth-library/&lt;/span&gt;build&lt;span class=&#34;hljs-regexp&#34;&gt;/src/&lt;/span&gt;auth/jwtclient.js:&lt;span class=&#34;hljs-number&#34;&gt;152&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;35&lt;/span&gt;) &amp;#123;&lt;br&gt;  library: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;PEM routines&amp;#x27;&lt;/span&gt;,&lt;br&gt;  &lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;get_name&amp;#x27;&lt;/span&gt;,&lt;br&gt;  reason: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;no start line&amp;#x27;&lt;/span&gt;,&lt;br&gt;  code: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;ERR_OSSL_PEM_NO_START_LINE&amp;#x27;&lt;/span&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;Hexo博客修改Archive页面显示文章数量&#34;&gt;&lt;a href=&#34;#Hexo博客修改Archive页面显示文章数量&#34; class=&#34;headerlink&#34; title=&#34;Hexo博客修改Archive页面显示文章数量&#34;&gt;&lt;/a&gt;Hexo博客修改Archive页面显示文章数量&lt;/h2&gt;&lt;p&gt;默认情况下，Hexo无法对主页、Archive页面、标签页面每页显示文章数量进行单独设置&lt;/p&gt;
+&lt;p&gt;这里我们借助&lt;code&gt;hexo-generator-archive&lt;/code&gt;来实现这个功能, 因为Archive分页的话看起来贼难受, 如果能将所有的文章全部显示那就舒服了.&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 先安装包&lt;/span&gt;&lt;br&gt;npm install hexo-generator-archive --save&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;编辑&lt;code&gt;_config.yml&lt;/code&gt;新增以下内容&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs yaml&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Pagination&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;## Set per_page to 0 to disable pagination&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;index_generator:&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;per_page:&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;index_generator:&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;per_page:&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;archive_generator:&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;per_page:&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt;  	&lt;span class=&#34;hljs-comment&#34;&gt;#为0时表示不分页全展示&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;yearly:&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;  	&lt;span class=&#34;hljs-comment&#34;&gt;#按年生成归档&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;monthly:&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt; 	&lt;span class=&#34;hljs-comment&#34;&gt;#按月生成归档&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;tag_generator:&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;per_page:&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;category_generator:&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;per_page:&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  注意:上面归档设置中的按年或者按月，需要修改模板给出对应的链接入口，对于没有兴趣修改模板的同学，可以将此处设为false，减少生成页面时的工作量。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;Comment-评论系统&#34;&gt;&lt;a href=&#34;#Comment-评论系统&#34; class=&#34;headerlink&#34; title=&#34;Comment 评论系统&#34;&gt;&lt;/a&gt;Comment 评论系统&lt;/h1&gt;&lt;h2 id=&#34;cusdis-系统&#34;&gt;&lt;a href=&#34;#cusdis-系统&#34; class=&#34;headerlink&#34; title=&#34;cusdis 系统&#34;&gt;&lt;/a&gt;cusdis 系统&lt;/h2&gt;&lt;p&gt;功能较少,看起来非常轻量, 也可以私有部署,正打算私有部署的时候看到了&lt;code&gt;twikoo&lt;/code&gt;所以就转入&lt;code&gt;twikoo&lt;/code&gt;了,因为cusdis现阶段功能确实有些少.&lt;/p&gt;
+&lt;h2 id=&#34;twikoo-系统&#34;&gt;&lt;a href=&#34;#twikoo-系统&#34; class=&#34;headerlink&#34; title=&#34;twikoo 系统&#34;&gt;&lt;/a&gt;twikoo 系统&lt;/h2&gt;&lt;p&gt;twikoo支持docker私有部署，这是它吸引我的一点，这也是我对比几个之后最终敲定下来选择的。&lt;/p&gt;
+&lt;h3 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h3&gt;&lt;p&gt;官网：&lt;a href=&#34;https://twikoo.js.org/&#34;&gt;https://twikoo.js.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Docker：&lt;a href=&#34;https://hub.docker.com/r/imaegoo/twikoo&#34;&gt;https://hub.docker.com/r/imaegoo/twikoo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;私有docker部署部署半天还是不成功, 看起来像是需要HTTPS才行.&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;功能挺丰富的,&lt;del&gt;就是半天没部署成功&lt;/del&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  部署后没有启用HTTPS&lt;br&gt;  fluid 配置里面又启动了强行使用HTTPS,&lt;br&gt;  F12,看consel发现,ERR_SSL_PROTOCOL_ERROR,被重定向到了HTTPS去了&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;Docker部署&#34;&gt;&lt;a href=&#34;#Docker部署&#34; class=&#34;headerlink&#34; title=&#34;Docker部署&#34;&gt;&lt;/a&gt;Docker部署&lt;/h3&gt;&lt;p&gt;安装好docker后直接运行下面的命令&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;在当前文件夹下创建Data文件用于存放 twikoo 的评论数据&lt;/span&gt;&lt;br&gt;docker run --name=&amp;quot;twikoo&amp;quot; -p 8080:8080 -v $&amp;#123;PWD&amp;#125;/data:/app/data -d imaegoo/twikoo&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;测试&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;curl http://localhost:8080/&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;看到有输出就表示正常部署了。&lt;/p&gt;
+&lt;h4 id=&#34;启用HTTPS&#34;&gt;&lt;a href=&#34;#启用HTTPS&#34; class=&#34;headerlink&#34; title=&#34;启用HTTPS&#34;&gt;&lt;/a&gt;启用HTTPS&lt;/h4&gt;&lt;p&gt;配置前置 Nginx 服务器或负载网关，以通过 HTTPS 访问 Twikoo，如下 Nginx 配置可供参考。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;service nginx status&lt;/code&gt; 我们可以找到nginx的配置文件在哪。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;http &amp;#123;&lt;br&gt;    server &amp;#123;&lt;br&gt;        listen       80;&lt;br&gt;        listen       [::]:80;&lt;br&gt;        # 重定向到https&lt;br&gt;        return       301 https://$server_name$request_uri;&lt;br&gt;    &amp;#125;&lt;br&gt;    server &amp;#123;&lt;br&gt;        listen       443 ssl;&lt;br&gt;        listen       [::]:443 ssl;&lt;br&gt;        # 下面两就是证书文件&lt;br&gt;        ssl_certificate      cert/fullchain.pem;&lt;br&gt;        ssl_certificate_key  cert/privkey.pem;&lt;br&gt;        # 连接到docker twikoo的端口&lt;br&gt;        location / &amp;#123;&lt;br&gt;            proxy_pass   http://127.0.0.1:8080;&lt;br&gt;        &amp;#125;&lt;br&gt;    &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h4 id=&#34;dockers-部署后升级&#34;&gt;&lt;a href=&#34;#dockers-部署后升级&#34; class=&#34;headerlink&#34; title=&#34;dockers 部署后升级&#34;&gt;&lt;/a&gt;dockers 部署后升级&lt;/h4&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;　拉取新版本&lt;/span&gt; &lt;br&gt;docker pull imaegoo/twikoo&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;停止旧版本容器&lt;/span&gt; &lt;br&gt;docker stop twikoo&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;　删除旧版本容器&lt;/span&gt; &lt;br&gt;docker rm twikoo&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;启动新版本容器&lt;/span&gt;&lt;br&gt;dockr run .......&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h3 id=&#34;关于设置面板的头像风格类型&#34;&gt;&lt;a href=&#34;#关于设置面板的头像风格类型&#34; class=&#34;headerlink&#34; title=&#34;关于设置面板的头像风格类型&#34;&gt;&lt;/a&gt;关于设置面板的头像风格类型&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;  头像风格类型&lt;br&gt;  404：如果没有任何图像与电子邮件哈希无关，则不加载任何图像，而是返回HTTP 404（找不到文件）响应&lt;br&gt;  mp：（神秘人物）一个人的简单卡通风格的轮廓（不随电子邮件哈希值而变化）&lt;br&gt;  identicon：基于电子邮件哈希的几何图案&lt;br&gt;  monsterid：生成的具有不同颜色，面孔等的“怪物”&lt;br&gt;  wavatar：生成的具有不同特征和背景的面孔&lt;br&gt;  retro：生成的令人敬畏的8位街机风格像素化面孔&lt;br&gt;  robohash：具有不同颜色，面部等的生成的机器人&lt;br&gt;  blank：透明的PNG图像（以下为演示目的添加到HTML的边框）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Twikoo我是用的docker,nginx和ssl配置可以参考&lt;a href=&#34;https://hub.docker.com/r/imaegoo/twikoo&#34;&gt;DockerHub&lt;/a&gt;, https的端口是可以更改的, 默认的443占用了换成别的就好.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;twikoo的即时推送尝试了几个譬如 Qmsq, server酱等等发现又一系列的问题 都不尽如人意  最后选择的是最简单的邮件通知.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;remark42&#34;&gt;&lt;a href=&#34;#remark42&#34; class=&#34;headerlink&#34; title=&#34;remark42&#34;&gt;&lt;/a&gt;remark42&lt;/h2&gt;&lt;h1 id=&#34;部署平台-托管平台&#34;&gt;&lt;a href=&#34;#部署平台-托管平台&#34; class=&#34;headerlink&#34; title=&#34;部署平台(托管平台)&#34;&gt;&lt;/a&gt;部署平台(托管平台)&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://i.vince.pub/p/hexo-static/&#34;&gt;常见静态网站托管平台使用及多节点部署方案&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/2fc062cb2.svg&#34; alt=&#34;节点&#34;&gt;&lt;/p&gt;
+&lt;p&gt;现阶段比较好的方案是&lt;code&gt;coding&lt;/code&gt;和&lt;code&gt;github+netlify&lt;/code&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;一些资源&#34;&gt;&lt;a href=&#34;#一些资源&#34; class=&#34;headerlink&#34; title=&#34;一些资源&#34;&gt;&lt;/a&gt;一些资源&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;字体族（&lt;code&gt;font-family&lt;/code&gt;）&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;   &lt;a href=&#34;https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-family&#34;&gt;https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-family&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;调色板灵感&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;   &lt;a href=&#34;https://www.webdesignrankings.com/resources/lolcolors/&#34;&gt;https://www.webdesignrankings.com/resources/lolcolors/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;ISO-8601 日期&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  &lt;a href=&#34;http://momentjs.cn/docs/#/parsing/string-format/&#34;&gt;http://momentjs.cn/docs/#/parsing/string-format/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;代码高亮风格&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  highlightjs:  &lt;a href=&#34;https://highlightjs.org/static/demo/&#34;&gt;https://highlightjs.org/static/demo/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  prismjs:  &lt;a href=&#34;https://prismjs.com/&#34;&gt;https://prismjs.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Logo生成器&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  adobe: &lt;a href=&#34;https://www.adobe.com/express/create/logo&#34;&gt;https://www.adobe.com/express/create/logo&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;图床&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  &lt;a href=&#34;https://postimg.cc/&#34;&gt;https://postimg.cc/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;壁纸&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  &lt;a href=&#34;https://wallpapercrafter.com/&#34;&gt;https://wallpapercrafter.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;实时获取网站的&lt;code&gt;Favicon.ion&lt;/code&gt;文件&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  &lt;a href=&#34;https://tools.ly522.com/ico/&#34;&gt;https://tools.ly522.com/ico/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  远程实时获取并显示网站的Favicon.ico文件，美化网站外链显示效果。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;bing壁纸接口&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://bing.img.run/uhd.php&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;alt&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Bing每日壁纸UHD超高清原图&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://bing.img.run/1920x1080.php&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;alt&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Bing每日壁纸1080P高清&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://bing.img.run/1366x768.php&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;alt&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Bing每日壁纸普清&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://bing.img.run/m.php&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;alt&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Bing每日壁纸手机版1080P高清&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://bing.img.run/rand_uhd.php&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;alt&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;随机获取Bing历史壁纸UHD超高清原图&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://bing.img.run/rand.php&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;alt&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;随机获取Bing历史壁纸1080P高清&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://bing.img.run/rand_1366x768.php&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;alt&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;随机获取Bing历史壁纸普清&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://bing.img.run/rand_m.php&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;alt&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;随机获取Bing历史壁纸手机版1080P高清&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;一些知识&#34;&gt;&lt;a href=&#34;#一些知识&#34; class=&#34;headerlink&#34; title=&#34;一些知识&#34;&gt;&lt;/a&gt;一些知识&lt;/h1&gt;&lt;h2 id=&#34;Creative-Commons-licenses&#34;&gt;&lt;a href=&#34;#Creative-Commons-licenses&#34; class=&#34;headerlink&#34; title=&#34;Creative Commons licenses&#34;&gt;&lt;/a&gt;Creative Commons licenses&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.wur.nl/en/article/What-are-Creative-Commons-licenses.htm&#34;&gt;What are Creative Commons licenses?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/f96c3c41/licences_3bf0e9af_670x502.jpg&#34; alt=&#34;知识共享许可.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Gravatar-amp-Cravatar&#34;&gt;&lt;a href=&#34;#Gravatar-amp-Cravatar&#34; class=&#34;headerlink&#34; title=&#34;Gravatar &amp;amp; Cravatar&#34;&gt;&lt;/a&gt;Gravatar &amp;amp; Cravatar&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://en.gravatar.com/&#34;&gt;Gravatar&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://cravatar.cn/&#34;&gt;Cravatar&lt;/a&gt;的差异&lt;/p&gt;
+&lt;h3 id=&#34;Gravatar&#34;&gt;&lt;a href=&#34;#Gravatar&#34; class=&#34;headerlink&#34; title=&#34;Gravatar&#34;&gt;&lt;/a&gt;Gravatar&lt;/h3&gt;&lt;p&gt;Gravatar是一项用于提供在全球范围内使用的头像服务。只要你在Gravatar的服务器上上传了你自己的头像，你便可以在其他任何支持Gravatar的博客、论坛等地方使用它。&lt;/p&gt;
+&lt;h3 id=&#34;Cravatar-cn&#34;&gt;&lt;a href=&#34;#Cravatar-cn&#34; class=&#34;headerlink&#34; title=&#34;Cravatar  (cn)&#34;&gt;&lt;/a&gt;Cravatar  (cn)&lt;/h3&gt;&lt;p&gt;Cravatar 是 Gravatar 在中国的完美替代方案,从此你可以自由的上传和分享头像。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与 Gravatar API 兼容&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为了降低你的使用成本，我们的 API 规范始终保持与 Gravatar 100% 兼容&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;独有的三级头像匹配机制&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当访客请求自己的头像时，我们会按此顺序分三级匹配头像：&lt;strong&gt;Cravatar-&amp;gt;Gravatar-&amp;gt;QQ 头像&lt;/strong&gt;，对于博客站，这平均可以为 70% 的访客提供准确的头像&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

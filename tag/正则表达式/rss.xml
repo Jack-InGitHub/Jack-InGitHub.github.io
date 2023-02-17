@@ -1,0 +1,557 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;正则表达式&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 21 Jan 2022 22:57:15 +0800</pubDate>
+        <lastBuildDate>Fri, 21 Jan 2022 22:57:15 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/2f57a694/</guid>
+            <title>正则表达式</title>
+            <link>https://www.oikiou.top/2022/2f57a694/</link>
+            <category>正则表达式</category>
+            <pubDate>Fri, 21 Jan 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;正则表达式&#34;&gt;&lt;a href=&#34;#正则表达式&#34; class=&#34;headerlink&#34; title=&#34;正则表达式&#34;&gt;&lt;/a&gt;正则表达式&lt;/h1&gt;&lt;h1 id=&#34;正则表达式-语法&#34;&gt;&lt;a href=&#34;#正则表达式-语法&#34; class=&#34;headerlink&#34; title=&#34;正则表达式 - 语法&#34;&gt;&lt;/a&gt;正则表达式 - 语法&lt;/h1&gt;&lt;h2 id=&#34;可打印普通字符匹配&#34;&gt;&lt;a href=&#34;#可打印普通字符匹配&#34; class=&#34;headerlink&#34; title=&#34;可打印普通字符匹配&#34;&gt;&lt;/a&gt;可打印普通字符匹配&lt;/h2&gt;&lt;p&gt;普通字符包括没有显式指定为元字符的所有可打印和不可打印字符。这包括所有大写和小写字母、所有数字、所有标点符号和一些其他符号。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;字符&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;.&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配除换行符（\n、\r）之外的任何单个字符，相等于 &lt;code&gt;[^\n\r]&lt;/code&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\w&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配字母、数字、下划线。等价于 [A-Za-z0-9_]&lt;br&gt;&lt;code&gt;\W 匹配任何非单词字符。等价于“[^A-Za-z0-9_]”。&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;[\s\S]&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配所有。&lt;code&gt;\s&lt;/code&gt; 是匹配所有空白符，包括换行，&lt;code&gt;\S&lt;/code&gt; 非空白符，不包括换行。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;[ABC]&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配 &lt;code&gt;[...]&lt;/code&gt; 中的所有字符，&lt;br/&gt;例如 &lt;code&gt;[aeiou]&lt;/code&gt; 匹配字符串 “google runoob taobao” 中所有的 e o u a 字母。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;[^ABC]&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配除了 &lt;code&gt;[...]&lt;/code&gt; 中字符的所有字符，&lt;br/&gt;例如 &lt;code&gt;[^aeiou]&lt;/code&gt; 匹配字符串 “google runoob taobao” 中除了 e o u a 字母的所有字母。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;[A-Z]&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;[A-Z]&lt;/code&gt; 表示一个区间，匹配所有大写字母，[a-z] 表示所有小写字母。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\d&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配一个数字字符。等价于&lt;code&gt;[0-9]&lt;/code&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\D&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配一个非数字字符。等价于&lt;code&gt;[^0-9]&lt;/code&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\xnn&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;十六进制转义字符序列。匹配两个十六进制数字&lt;em&gt;nn&lt;/em&gt;表示的字符。&lt;br/&gt;例如，“&lt;code&gt;\x41&lt;/code&gt;”匹配“&lt;code&gt;A&lt;/code&gt;”。“&lt;code&gt;\x041&lt;/code&gt;”则等价于“&lt;code&gt;\x04&amp;amp;1&lt;/code&gt;”。正则表达式中可以使用ASCII编码。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\num&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;向后引用（back-reference）一个子字符串（substring），该子字符串与正则表达式的第&lt;em&gt;num&lt;/em&gt;个用括号围起来的捕捉群（capture group）子表达式（subexpression）匹配。&lt;br/&gt;其中&lt;code&gt;num&lt;/code&gt;是从1开始的十进制正整数，其上限可能是9[&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F#cite_note-3&#34;&gt;注 2]&lt;/a&gt;、31[&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F#cite_note-4&#34;&gt;注 3]&lt;/a&gt;、99甚至无限[&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F#cite_note-5&#34;&gt;注 4]&lt;/a&gt;。&lt;br/&gt;例如：“&lt;code&gt;(.)\1&lt;/code&gt;”匹配两个连续的相同字符。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\n&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;标识一个八进制转义值或一个向后引用。&lt;br/&gt;如果&lt;code&gt;\n&lt;/code&gt;之前至少&lt;code&gt;n&lt;/code&gt;个获取的子表达式，则&lt;code&gt;n&lt;/code&gt;为向后引用。&lt;br/&gt;否则，如果&lt;code&gt;n&lt;/code&gt;为八进制数字（0-7），则&lt;code&gt;n&lt;/code&gt;为一个八进制转义值。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\nm&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;3位八进制数字，标识一个八进制转义值或一个向后引用。&lt;br/&gt;如果&lt;code&gt;\nm&lt;/code&gt;之前至少有&lt;code&gt;nm&lt;/code&gt;个获得子表达式，则&lt;em&gt;nm&lt;/em&gt;为向后引用。&lt;br/&gt;如果&lt;code&gt;\nm&lt;/code&gt;之前至少有&lt;code&gt;n&lt;/code&gt;个获取，则&lt;em&gt;n&lt;/em&gt;为一个后跟文字&lt;em&gt;m&lt;/em&gt;的向后引用。&lt;br/&gt;如果前面的条件都不满足，若&lt;code&gt;n&lt;/code&gt;和&lt;code&gt;m&lt;/code&gt;均为八进制数字（0-7），则&lt;code&gt;\nm&lt;/code&gt;将匹配八进制转义值&lt;em&gt;nm&lt;/em&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\nml&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;如果&lt;code&gt;n&lt;/code&gt;为八进制数字（0-3），且&lt;code&gt;m&lt;/code&gt;和&lt;code&gt;l&lt;/code&gt;均为八进制数字（0-7），则匹配八进制转义值&lt;code&gt;nml&lt;/code&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\un&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Unicode转义字符序列。其中&lt;code&gt;n&lt;/code&gt;是一个用四个十六进制数字表示的Unicode字符。&lt;br/&gt;例如，&lt;code&gt;\u00A9&lt;/code&gt;匹配著作权符号（©）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;非打印字符匹配&#34;&gt;&lt;a href=&#34;#非打印字符匹配&#34; class=&#34;headerlink&#34; title=&#34;非打印字符匹配&#34;&gt;&lt;/a&gt;非打印字符匹配&lt;/h2&gt;&lt;p&gt;非打印字符也可以是正则表达式的组成部分。下表列出了表示非打印字符的转义序列：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;字符&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\cx&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配由x指明的控制字符。&lt;br/&gt;例如， &lt;code&gt;\cM&lt;/code&gt; 匹配一个 Control-M 或回车符。x 的值必须为 A-Z 或 a-z 之一。否则，将 c 视为一个原义的 ‘c’ 字符。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\f&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配一个换页符。等价于 \x0c 和 \cL。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\n&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配一个换行符。等价于 \x0a 和 \cJ。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\r&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配一个回车符。等价于 \x0d 和 \cM。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\s&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配任何空白字符，包括空格、制表符、换页符等等。&lt;br/&gt;等价于&lt;code&gt; [\f\n\r\t\v]&lt;/code&gt;。注意 Unicode 正则表达式会匹配全角空格符。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\S&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配任何非空白字符。等价于 &lt;code&gt;[^ \f\n\r\t\v]&lt;/code&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\t&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配一个制表符。等价于 \x09 和 \cI。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\v&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配一个垂直制表符。等价于 \x0b 和 \cK。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\W&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配任何非单词字符。等价于“&lt;code&gt;[^A-Za-z0-9_]&lt;/code&gt;”。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;特殊字符&#34;&gt;&lt;a href=&#34;#特殊字符&#34; class=&#34;headerlink&#34; title=&#34;特殊字符&#34;&gt;&lt;/a&gt;特殊字符&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;特别字符&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;将下一个字符标记为或特殊字符、或原义字符、或向后引用、或八进制转义符。&lt;br&gt;例如， ‘n’ 匹配字符 ‘n’。’\n’ 匹配换行符。序列 &lt;code&gt;&amp;#39;\\&amp;#39;&lt;/code&gt; 匹配 &lt;code&gt;&amp;quot;\&amp;quot;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;^&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配输入字符串的开始位置，&lt;br&gt;当该符号在方括号表达式中使用时，表示不接受该方括号表达式中的字符集合。&lt;br&gt;要匹配 ^ 字符本身，请使用 &lt;code&gt;\^&lt;/code&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;$&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配输入字符串的结尾位置。&lt;br&gt;如果设置了 RegExp 对象的 Multiline 属性，则 $ 也匹配 ‘\n’ 或 ‘\r’。要匹配 $ 字符本身，请使用&lt;code&gt; \$&lt;/code&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;( )&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;标记一个子表达式的开始和结束位置。&lt;br&gt;子表达式可以获取供以后使用。要匹配这些字符，请使用&lt;code&gt;\(&lt;/code&gt;和&lt;code&gt; \)&lt;/code&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;*&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配前面的子表达式零次或多次。要匹配 &lt;code&gt;* &lt;/code&gt;字符，请使用&lt;code&gt; \*&lt;/code&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;+&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配前面的子表达式一次或多次。要匹配 &lt;code&gt;+&lt;/code&gt; 字符，请使用 &lt;code&gt;\+&lt;/code&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;?&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配前面的子表达式零次或一次，或指明一个非贪婪限定符。要匹配 ? 字符，请使用 ?。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;.&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配除换行符 &lt;code&gt;\n&lt;/code&gt; 之外的任何单字符。要匹配&lt;code&gt; .&lt;/code&gt; ，请使用 &lt;code&gt;\.&lt;/code&gt; 。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;[&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;标记一个中括号表达式的开始。要匹配 &lt;code&gt;[&lt;/code&gt;，请使用 &lt;code&gt;\[&lt;/code&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;#123;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;标记限定符表达式的开始。要匹配&lt;code&gt; &amp;#123;&lt;/code&gt;，请使用&lt;code&gt; \&amp;#123;&lt;/code&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&amp;#96;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&amp;#96;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;限定符-表达式匹配次数&#34;&gt;&lt;a href=&#34;#限定符-表达式匹配次数&#34; class=&#34;headerlink&#34; title=&#34;限定符(表达式匹配次数)&#34;&gt;&lt;/a&gt;限定符(表达式匹配次数)&lt;/h2&gt;&lt;p&gt;限定符用来指定正则表达式的一个给定组件必须要出现多少次才能满足匹配。&lt;/p&gt;
+&lt;p&gt;请注意，限定符出现在范围表达式之后。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;字符&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;*&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配前面的子表达式零次或多次。&lt;br/&gt;例如，&lt;strong&gt;zo*&lt;/strong&gt; 能匹配 &lt;strong&gt;“z”&lt;/strong&gt; 以及 &lt;strong&gt;“zoo”&lt;strong&gt;。&lt;/strong&gt;&lt;/strong&gt;* 等价于 **{0,}**。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;+&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配前面的子表达式一次或多次。&lt;br/&gt;例如，&lt;strong&gt;zo+&lt;/strong&gt; 能匹配 &lt;strong&gt;“zo”&lt;/strong&gt; 以及 “**zoo”**，但不能匹配 &lt;strong&gt;“z”&lt;strong&gt;。&lt;/strong&gt;+&lt;/strong&gt; 等价于 **{1,}**。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;? &lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配前面的子表达式零次或一次。&lt;br&gt;例如，&lt;strong&gt;do(es)?&lt;/strong&gt; 可以匹配 &lt;strong&gt;“do”&lt;/strong&gt; 、 &lt;strong&gt;“does”&lt;strong&gt;、 &lt;strong&gt;“doxy”&lt;/strong&gt; 中的 &lt;strong&gt;“do”&lt;/strong&gt; 。&lt;/strong&gt;?&lt;/strong&gt; 等价于 **{0,1}**。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;#123;n&amp;#125;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;n 是一个非负整数。匹配确定的 &lt;strong&gt;n&lt;/strong&gt; 次。&lt;br/&gt;例如，&lt;strong&gt;o{2}&lt;/strong&gt; 不能匹配 &lt;strong&gt;“Bob”&lt;/strong&gt; 中的 &lt;strong&gt;o&lt;/strong&gt;，但是能匹配 &lt;strong&gt;“food”&lt;/strong&gt; 中的两个 &lt;strong&gt;o&lt;/strong&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;#123;n,&amp;#125; &lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;n 是一个非负整数。至少匹配n 次。&lt;br/&gt;例如，&lt;strong&gt;o{2,}&lt;/strong&gt; 不能匹配 &lt;strong&gt;“Bob”&lt;/strong&gt; 中的 &lt;strong&gt;o&lt;/strong&gt;，但能匹配 &lt;strong&gt;“foooood”&lt;/strong&gt; 中的所有 &lt;strong&gt;o&lt;/strong&gt;。&lt;strong&gt;o{1,}&lt;/strong&gt; 等价于 &lt;strong&gt;o+&lt;strong&gt;。&lt;/strong&gt;o{0,}&lt;/strong&gt; 则等价于 **o***。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;#123;n,m&amp;#125;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;m 和 n 均为非负整数，其中 n &amp;lt;&amp;#x3D; m。最少匹配 n 次且最多匹配 m 次。&lt;br/&gt;例如，&lt;strong&gt;o{1,3}&lt;/strong&gt; 将匹配 &lt;strong&gt;“fooooood”&lt;/strong&gt; 中的前三个 &lt;strong&gt;o&lt;/strong&gt;。&lt;strong&gt;o{0,1}&lt;/strong&gt; 等价于 **o?**。&lt;br/&gt;请注意在逗号和两个数之间不能有空格。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;定位符-确定-固定位置&#34;&gt;&lt;a href=&#34;#定位符-确定-固定位置&#34; class=&#34;headerlink&#34; title=&#34;定位符(确定 固定位置)&#34;&gt;&lt;/a&gt;定位符(确定 固定位置)&lt;/h2&gt;&lt;p&gt;定位符使您能够将正则表达式固定到行首或行尾。它们还使您能够创建这样的正则表达式，这些正则表达式出现在一个单词内、在一个单词的开头或者一个单词的结尾。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;字符&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;^&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配输入字符串&lt;strong&gt;开始&lt;/strong&gt;的位置。&lt;br&gt;如果设置了 RegExp 对象的 Multiline 属性，^ 还会与 \n 或 \r 之后的位置匹配。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;$&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配输入字符串&lt;strong&gt;结尾&lt;/strong&gt;的位置。&lt;br/&gt;如果设置了 RegExp 对象的 Multiline 属性，$ 还会与 \n 或 \r 之前的位置匹配。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\b&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;匹配一个&lt;strong&gt;单词边界&lt;/strong&gt;，即字与空格间的位置。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;\B&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;非单词边界匹配。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;选择-捕获-保存&#34;&gt;&lt;a href=&#34;#选择-捕获-保存&#34; class=&#34;headerlink&#34; title=&#34;选择(捕获 保存)&#34;&gt;&lt;/a&gt;选择(捕获 保存)&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字符&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;(pattern)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;匹配pattern并获取这一匹配的子字符串。该子字符串用于向后引用。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;()&lt;/strong&gt; 表示捕获分组，**()** 会把每个分组里的匹配的值保存起来， 多个匹配值可以通过数字 n 来查看(&lt;strong&gt;n&lt;/strong&gt; 是一个数字，表示第 n 个捕获组的内容)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;缓冲区编号从 1 开始。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;每个缓冲区都可以使用 &lt;strong&gt;&lt;code&gt;$n&lt;/code&gt;&lt;/strong&gt; 访问，其中 n 为一个标识特定缓冲区的一位或两位十进制数。例如 &lt;code&gt;$1&lt;/code&gt;,&lt;code&gt;$2&lt;/code&gt; 等等&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;需要注意的是菜鸟教程里面写这里是用&lt;code&gt;/n&lt;/code&gt;匹配, 在notepad++里面这个没问题, 但是VSCode并不能识别这个&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;可以使用非捕获元字符 &lt;code&gt; ?:&lt;/code&gt; 、&lt;code&gt;?=&lt;/code&gt; 或 &lt;code&gt;?!&lt;/code&gt; 来重写捕获，忽略对相关匹配的保存。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 原始串&lt;/span&gt;&lt;br&gt;https://en.wikipedia.org/wiki/Regular_expression&lt;br&gt;$ (\w+)://(.+?)/(.+)&lt;br&gt;$  &lt;span class=&#34;hljs-variable&#34;&gt;$1&lt;/span&gt; \n &lt;span class=&#34;hljs-variable&#34;&gt;$2&lt;/span&gt; \n &lt;span class=&#34;hljs-variable&#34;&gt;$3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 替换后&lt;/span&gt;&lt;br&gt; https &lt;br&gt; en.wikipedia.org &lt;br&gt; wiki/Regular_expression&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;非捕获元-lt-lt&#34;&gt;&lt;a href=&#34;#非捕获元-lt-lt&#34; class=&#34;headerlink&#34; title=&#34;非捕获元 ?: ?= ?&amp;lt;= ?! ?&amp;lt;!&#34;&gt;&lt;/a&gt;非捕获元 &lt;code&gt;?: ?= ?&amp;lt;= ?! ?&amp;lt;!&lt;/code&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字符&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;(pattern)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;匹配pattern并获取这一匹配的子字符串。该子字符串用于向后引用。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;(?:pattern)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;匹配pattern&lt;strong&gt;但不获取&lt;/strong&gt;匹配的子字符串(shy groups)&lt;br&gt;也就是说这是一个非获取匹配，不存储匹配的子字符串用于向后引用。&lt;br&gt;这在使用或字符“&amp;#96;(&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;(?=pattern)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;正向肯定预查&lt;/strong&gt;（look ahead positive assert），在任何&lt;strong&gt;匹配&lt;/strong&gt;pattern的字符串开始处匹配查找字符串。&lt;br&gt;这是一个非获取匹配，也就是说，该匹配不需要获取供以后使用。&lt;br/&gt;例如，“&amp;#96;Windows(?&amp;#x3D;95&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;(?!pattern)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;正向否定预查&lt;/strong&gt;（negative assert），在任何&lt;strong&gt;不匹配&lt;/strong&gt;pattern的字符串开始处匹配查找字符串。&lt;br/&gt;这是一个非获取匹配，也就是说，该匹配不需要获取供以后使用。&lt;br/&gt;例如“&amp;#96;Windows(?!95&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;(?&amp;lt;=pattern)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;反向肯定预查&lt;/strong&gt;（look behind positive assert），与正向肯定预查类似，只是方向相反。&lt;br/&gt;例如，“&amp;#96;(?&amp;lt;&amp;#x3D;95&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;(?&amp;lt;!pattern)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;反向否定预查&lt;/strong&gt;，与正向否定预查类似，只是方向相反。&lt;br/&gt;例如“&amp;#96;(?&amp;lt;!95&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;正则表达式-修饰符&#34;&gt;&lt;a href=&#34;#正则表达式-修饰符&#34; class=&#34;headerlink&#34; title=&#34;正则表达式 - 修饰符&#34;&gt;&lt;/a&gt;正则表达式 - 修饰符&lt;/h1&gt;&lt;p&gt;标记也称为修饰符，正则表达式的标记用于指定额外的匹配策略。&lt;/p&gt;
+&lt;p&gt;标记不写在正则表达式里，标记位于表达式之外，格式如下：&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;&lt;span class=&#34;hljs-regexp&#34;&gt;/pattern/&lt;/span&gt;flags&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;下表列出了正则表达式常用的修饰符：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;修饰符&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;含义&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;i&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ignore - 不区分大小写&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;将匹配设置为不区分大小写，搜索时不区分大小写: A 和 a 没有区别。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;g&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;global - 全局匹配&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;查找所有的匹配项。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;m&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;multi line - 多行匹配&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;使边界字符 &lt;strong&gt;^&lt;/strong&gt; 和 &lt;strong&gt;$&lt;/strong&gt; 匹配每一行的开头和结尾，记住是多行，而不是整个字符串的开头和结尾。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;s&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;特殊字符圆点 &lt;strong&gt;.&lt;/strong&gt; 中包含换行符 &lt;strong&gt;\n&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;默认情况下的圆点 &lt;strong&gt;.&lt;/strong&gt; 是匹配除换行符 &lt;strong&gt;\n&lt;/strong&gt; 之外的任何字符，加上 &lt;strong&gt;s&lt;/strong&gt; 修饰符之后, &lt;strong&gt;.&lt;/strong&gt; 中包含换行符 \n。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;正则表达式-优先级&#34;&gt;&lt;a href=&#34;#正则表达式-优先级&#34; class=&#34;headerlink&#34; title=&#34;正则表达式 - 优先级&#34;&gt;&lt;/a&gt;正则表达式 - 优先级&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;优先权&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;符号&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;最高&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;code&gt;\&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;高&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;code&gt;()&lt;/code&gt;、&lt;code&gt;(?:)&lt;/code&gt;、&lt;code&gt;(?=)&lt;/code&gt;、&lt;code&gt;[]&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;中&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;code&gt;*&lt;/code&gt;、&lt;code&gt;+&lt;/code&gt;、&lt;code&gt;?&lt;/code&gt;、&lt;code&gt;&amp;#123;n&amp;#125;&lt;/code&gt;、&lt;code&gt;&amp;#123;n,&amp;#125;&lt;/code&gt;、&lt;code&gt;&amp;#123;n,m&amp;#125;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;低&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;code&gt;^&lt;/code&gt;、&lt;code&gt;$&lt;/code&gt;、中介字符&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;次最低&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;串接，即相邻字符连接在一起&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;最低&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&amp;#96;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;贪婪匹配-非贪婪匹配&#34;&gt;&lt;a href=&#34;#贪婪匹配-非贪婪匹配&#34; class=&#34;headerlink&#34; title=&#34;贪婪匹配 非贪婪匹配&#34;&gt;&lt;/a&gt;贪婪匹配 非贪婪匹配&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;贪婪：&lt;/strong&gt;下面的表达式匹配从开始小于符号 (&amp;lt;) 到关闭 h1 标记的大于符号 (&amp;gt;) 之间的所有内容。&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 原字符串&lt;/span&gt;&lt;br&gt;&amp;lt;h1&amp;gt;贪婪匹配 非贪婪匹配&amp;lt;/h1&amp;gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 贪婪匹配&lt;/span&gt;&lt;br&gt;$ &amp;lt;.*&amp;gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 匹配到的字符串&lt;/span&gt;&lt;br&gt;&amp;lt;h1&amp;gt;贪婪匹配 非贪婪匹配&amp;lt;/h1&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;非贪婪：&lt;/strong&gt;如果您只需要匹配开始和结束 &lt;code&gt;h1 &lt;/code&gt;标签，下面的非贪婪表达式只匹配&lt;code&gt; &amp;lt;h1&amp;gt;&lt;/code&gt;。&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 原字符串&lt;/span&gt;&lt;br&gt;&amp;lt;h1&amp;gt;贪婪匹配 非贪婪匹配&amp;lt;/h1&amp;gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 贪婪匹配&lt;/span&gt;&lt;br&gt;$ &amp;lt;.*?&amp;gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 匹配到的字符串&lt;/span&gt;&lt;br&gt;&amp;lt;h1&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;通过在 *&lt;strong&gt;&lt;strong&gt;、&lt;/strong&gt;+&lt;/strong&gt; 或 &lt;strong&gt;?&lt;/strong&gt; 限定符之后放置 **?**，该表达式从”贪婪”表达式转换为”非贪婪”表达式或者最小匹配。&lt;/p&gt;
+&lt;h2 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F&#34;&gt;正则表达式 Wiki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.runoob.com/regexp/regexp-syntax.html&#34;&gt;正则表达式 菜鸟教程&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;Example&#34;&gt;&lt;a href=&#34;#Example&#34; class=&#34;headerlink&#34; title=&#34;Example&#34;&gt;&lt;/a&gt;Example&lt;/h1&gt;&lt;h2 id=&#34;常用正则表达式匹配&#34;&gt;&lt;a href=&#34;#常用正则表达式匹配&#34; class=&#34;headerlink&#34; title=&#34;常用正则表达式匹配&#34;&gt;&lt;/a&gt;常用正则表达式匹配&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#用户名	&lt;/span&gt;&lt;br&gt;/^[a-z0-9_-]&amp;#123;3,16&amp;#125;$/&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#密码	&lt;/span&gt;&lt;br&gt;/^[a-z0-9_-]&amp;#123;6,18&amp;#125;$/&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#十六进制值	颜色 #ff02ff etc.&lt;/span&gt;&lt;br&gt;/^&lt;span class=&#34;hljs-comment&#34;&gt;#?([a-f0-9]&amp;#123;6&amp;#125;|[a-f0-9]&amp;#123;3&amp;#125;)$/&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#电子邮箱	&lt;/span&gt;&lt;br&gt;/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]&amp;#123;2,6&amp;#125;)$/&lt;br&gt;/^[a-z\d]+(\.[a-z\d]+)*@([\da-z](-[\da-z])?)+(\.&amp;#123;1,2&amp;#125;[a-z]+)+$/&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#URL	&lt;/span&gt;&lt;br&gt;/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]&amp;#123;2,6&amp;#125;)([\/\w \.-]*)*\/?$/&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#IP 地址	&lt;/span&gt;&lt;br&gt;/((&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;]\d|&lt;span class=&#34;hljs-number&#34;&gt;25&lt;/span&gt;[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;]|[&lt;span class=&#34;hljs-number&#34;&gt;01&lt;/span&gt;]?\d\d?)\.)&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;&amp;#125;(&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;]\d|&lt;span class=&#34;hljs-number&#34;&gt;25&lt;/span&gt;[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;]|[&lt;span class=&#34;hljs-number&#34;&gt;01&lt;/span&gt;]?\d\d?)/&lt;br&gt;/^(?:(?:&lt;span class=&#34;hljs-number&#34;&gt;25&lt;/span&gt;[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;]|&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;][&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;]|[&lt;span class=&#34;hljs-number&#34;&gt;01&lt;/span&gt;]?[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;][&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;]?)\.)&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;&amp;#125;(?:&lt;span class=&#34;hljs-number&#34;&gt;25&lt;/span&gt;[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;]|&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;][&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;]|[&lt;span class=&#34;hljs-number&#34;&gt;01&lt;/span&gt;]?[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;][&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;-&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;]?)$/&lt;br&gt;#HTML 标签	&lt;br&gt;/^&amp;lt;([a-z]+)([^&amp;lt;]+)*(?:&amp;gt;(.*)&amp;lt;\/\&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&amp;gt;|\s+\/&amp;gt;)$/&lt;br&gt;#删除代码\\注释	&lt;br&gt;(?&amp;lt;!http:|\S)//.*$&lt;br&gt;#Unicode编码中的汉字范围	&lt;br&gt;/^[\u2E80-\u9FFF]+$/&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;正则表达式替换&#34;&gt;&lt;a href=&#34;#正则表达式替换&#34; class=&#34;headerlink&#34; title=&#34;正则表达式替换&#34;&gt;&lt;/a&gt;正则表达式替换&lt;/h2&gt;&lt;figure class=&#34;highlight inform7&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs inform7&#34;&gt;原始串 &lt;br&gt;str&lt;span class=&#34;hljs-comment&#34;&gt;[1]&lt;/span&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[991]&lt;/span&gt;; &lt;br&gt;str&lt;span class=&#34;hljs-comment&#34;&gt;[2]&lt;/span&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[992]&lt;/span&gt;; &lt;br&gt;str&lt;span class=&#34;hljs-comment&#34;&gt;[11]&lt;/span&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[993]&lt;/span&gt;; &lt;br&gt;str&lt;span class=&#34;hljs-comment&#34;&gt;[22]&lt;/span&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[994]&lt;/span&gt;; &lt;br&gt;str&lt;span class=&#34;hljs-comment&#34;&gt;[111]&lt;/span&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[995]&lt;/span&gt;; &lt;br&gt;str&lt;span class=&#34;hljs-comment&#34;&gt;[222]&lt;/span&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[996]&lt;/span&gt;; &lt;br&gt;str&lt;span class=&#34;hljs-comment&#34;&gt;[1111]&lt;/span&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[997]&lt;/span&gt;; &lt;br&gt;str&lt;span class=&#34;hljs-comment&#34;&gt;[2222]&lt;/span&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[999]&lt;/span&gt;; &lt;br&gt;&lt;br&gt;目标串： &lt;br&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[1]&lt;/span&gt;; &lt;br&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[2]&lt;/span&gt;; &lt;br&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[11]&lt;/span&gt;; &lt;br&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[22]&lt;/span&gt;; &lt;br&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[111]&lt;/span&gt;; &lt;br&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[222]&lt;/span&gt;; &lt;br&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[1111]&lt;/span&gt;; &lt;br&gt;abc&lt;span class=&#34;hljs-comment&#34;&gt;[2222]&lt;/span&gt;; &lt;br&gt;&lt;br&gt;处理： &lt;br&gt;查找串：str/&lt;span class=&#34;hljs-comment&#34;&gt;[(&lt;span class=&#34;hljs-comment&#34;&gt;[0-9]&lt;/span&gt;+)/]&lt;/span&gt;abc/&lt;span class=&#34;hljs-comment&#34;&gt;[&lt;span class=&#34;hljs-comment&#34;&gt;[0-9]&lt;/span&gt;+/]&lt;/span&gt; &lt;br&gt;替换串：abc&lt;span class=&#34;hljs-comment&#34;&gt;[/1]&lt;/span&gt; &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;正则表达式示例&#34;&gt;&lt;a href=&#34;#正则表达式示例&#34; class=&#34;headerlink&#34; title=&#34;正则表达式示例&#34;&gt;&lt;/a&gt;正则表达式示例&lt;/h2&gt;&lt;p&gt;下面列出一些正则表达式示例：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 一个单词连续出现的位置。&lt;/span&gt;&lt;br&gt;/\b([a-z]+) \1\b/gi	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 匹配一个 URL 解析为协议、域、端口及相对路径。&lt;/span&gt;&lt;br&gt;/(\w+):\/\/([^/:]+)(:\d*)?([^&lt;span class=&#34;hljs-comment&#34;&gt;# ]*)/	&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 定位章节的位置。&lt;/span&gt;&lt;br&gt;/^(?:Chapter|Section) [1-9][0-9]&amp;#123;0,1&amp;#125;$/	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# a 至 z 共 26个 字母再加一个 - 号。&lt;/span&gt;&lt;br&gt;/[-a-z]/	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 可匹配 chapter，而不能匹配 terminal。&lt;/span&gt;&lt;br&gt;/ter\b/	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 可匹配 chapter，而不能匹配 aptitude。&lt;/span&gt;&lt;br&gt;/\Bapt/	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 可匹配 Windows95 或 Windows98 或 WindowsNT，当找到一个匹配后，从 Windows 后面开始进行下一次的检索匹配。&lt;/span&gt;&lt;br&gt;/Windows(?=95 |98 |NT )/	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 匹配空行。&lt;/span&gt;&lt;br&gt;/^\s*$/	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 验证由两位数字、一个连字符再加 5 位数字组成的 ID 号。&lt;/span&gt;&lt;br&gt;/\d&amp;#123;2&amp;#125;-\d&amp;#123;5&amp;#125;/	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 匹配 HTML 标签&lt;/span&gt;&lt;br&gt;&amp;lt;[a-zA-Z]+.*?&amp;gt;([\s\S]*?)&amp;lt;/[a-zA-Z]*?&amp;gt;	&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 匹配 &amp;#123;hello&amp;#125;&lt;/span&gt;&lt;br&gt;hello	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 匹配 &amp;#123;gray, grey&amp;#125;&lt;/span&gt;&lt;br&gt;gray|grey	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 匹配 &amp;#123;gray, grey&amp;#125;&lt;/span&gt;&lt;br&gt;gr(a|e)y	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;gray, grey&amp;#125;&lt;/span&gt;&lt;br&gt;gr[ae]y	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;babble, bebble, bibble, bobble, bubble&amp;#125;&lt;/span&gt;&lt;br&gt;b[aeiou]bble	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;bat, cat, hat, mat, nat, oat, pat, Pat, ot&amp;#125;&lt;/span&gt;&lt;br&gt;[b-chm-pP]at|ot	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;color, colour&amp;#125;&lt;/span&gt;&lt;br&gt;colou?r	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;regex, regexes, regexp, regexps&amp;#125;&lt;/span&gt;&lt;br&gt;rege(x(es)?|xps?)	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;ggle, gogle, google, gooogle, goooogle, ...&amp;#125;&lt;/span&gt;&lt;br&gt;go*gle	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;gogle, google, gooogle, goooogle, ...&amp;#125;&lt;/span&gt;&lt;br&gt;go+gle	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;google, googoogle, googoogoogle, googoogoogoogle, ...&amp;#125;&lt;/span&gt;&lt;br&gt;g(oog)+le	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;zzz&amp;#125;&lt;/span&gt;&lt;br&gt;z&amp;#123;3&amp;#125;	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;zzz, zzzz, zzzzz, zzzzzz&amp;#125;&lt;/span&gt;&lt;br&gt;z&amp;#123;3,6&amp;#125;	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;zzz, zzzz, zzzzz, ...&amp;#125;&lt;/span&gt;&lt;br&gt;z&amp;#123;3,&amp;#125;	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;Brainf**k, brainf**k&amp;#125;&lt;/span&gt;&lt;br&gt;[Bb]rainf\*\*k	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 &amp;#123;0,1,2,3,4,5,6,7,8,9&amp;#125;&lt;/span&gt;&lt;br&gt;\d	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 11 个数字，以 1 开头&lt;/span&gt;&lt;br&gt;1\d&amp;#123;10&amp;#125;	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 2 到 36 范围内的整数&lt;/span&gt;&lt;br&gt;[2-9]|[12]\d|3[0-6]	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 Hello 后跟换行符，后跟 world&lt;/span&gt;&lt;br&gt;Hello\nworld	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 包含一个正整数或包含两位小数位的浮点数。&lt;/span&gt;&lt;br&gt;\d+(\.\d\d)?	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 排除 *、@ 、# 三个特色符号&lt;/span&gt;&lt;br&gt;[^*@&lt;span class=&#34;hljs-comment&#34;&gt;#]	&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配 // 开头的注释&lt;/span&gt;&lt;br&gt;//[^\r\n]*[\r\n]	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配以 &amp;quot;dog&amp;quot; 开始&lt;/span&gt;&lt;br&gt;^dog	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#  匹配以 &amp;quot;dog&amp;quot; 结尾&lt;/span&gt;&lt;br&gt;dog$	&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# is exactly &amp;quot;dog&amp;quot;&lt;/span&gt;&lt;br&gt;^dog$	&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+ ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;markdown&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
+        <lastBuildDate>Sat, 08 Aug 2020 08:08:08 +0800</lastBuildDate>
+        <category>embedded</category>
+        <category>note</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>c</category>
+        <category>c/c++</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>c++</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>sscanf</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>md5</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>机智云</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>ct117e-ex</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>life</category>
+        <category>workflow</category>
+        <category>人生</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>cad</category>
+        <category>心理学</category>
+        <category>cat_drive</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>software</category>
+        <category>synology</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>摄影</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>cortex-m3</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>rt-thread</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2020/da7ed36c/</guid>
+            <title>MarkDown学习笔记</title>
+            <link>https://www.oikiou.top/2020/da7ed36c/</link>
+            <category>note</category>
+            <category>markdown</category>
+            <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;二级标题&#34;&gt;&lt;a href=&#34;#二级标题&#34; class=&#34;headerlink&#34; title=&#34;二级标题&#34;&gt;&lt;/a&gt;二级标题&lt;/h2&gt;&lt;h3 id=&#34;三级标题&#34;&gt;&lt;a href=&#34;#三级标题&#34; class=&#34;headerlink&#34; title=&#34;三级标题&#34;&gt;&lt;/a&gt;三级标题&lt;/h3&gt;&lt;h4 id=&#34;四级标题&#34;&gt;&lt;a href=&#34;#四级标题&#34; class=&#34;headerlink&#34; title=&#34;四级标题&#34;&gt;&lt;/a&gt;四级标题&lt;/h4&gt;&lt;h5 id=&#34;五级标题&#34;&gt;&lt;a href=&#34;#五级标题&#34; class=&#34;headerlink&#34; title=&#34;五级标题&#34;&gt;&lt;/a&gt;五级标题&lt;/h5&gt;&lt;h6 id=&#34;六级标题&#34;&gt;&lt;a href=&#34;#六级标题&#34; class=&#34;headerlink&#34; title=&#34;六级标题&#34;&gt;&lt;/a&gt;六级标题&lt;/h6&gt;&lt;p&gt;asdasdasdasdassdasdas&lt;/p&gt;
+&lt;h2 id=&#34;这是一段引用&#34;&gt;&lt;a href=&#34;#这是一段引用&#34; class=&#34;headerlink&#34; title=&#34;这是一段引用&#34;&gt;&lt;/a&gt;这是一段引用&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;这是一段引用&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;无序列表&#34;&gt;&lt;a href=&#34;#无序列表&#34; class=&#34;headerlink&#34; title=&#34;无序列表&#34;&gt;&lt;/a&gt;无序列表&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;阿斯大声&lt;/li&gt;
+&lt;li&gt;阿斯大声打&lt;/li&gt;
+&lt;li&gt;阿斯大声问请问恶&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;有序列表&#34;&gt;&lt;a href=&#34;#有序列表&#34; class=&#34;headerlink&#34; title=&#34;有序列表&#34;&gt;&lt;/a&gt;有序列表&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;阿斯大声打&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;阿斯大声阿斯大声&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;dasd阿斯dasdaaa&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;斜体-和-加粗-强调&#34;&gt;&lt;a href=&#34;#斜体-和-加粗-强调&#34; class=&#34;headerlink&#34; title=&#34;斜体 和 加粗 (强调)&#34;&gt;&lt;/a&gt;斜体 和 加粗 (强调)&lt;/h2&gt;&lt;p&gt;这是&lt;em&gt;斜体&lt;/em&gt;      这是&lt;strong&gt;加粗&lt;/strong&gt;   这是_什么呢_  好像也__是一样的__&lt;/p&gt;
+&lt;h2 id=&#34;这段是横线&#34;&gt;&lt;a href=&#34;#这段是横线&#34; class=&#34;headerlink&#34; title=&#34;这段是横线&#34;&gt;&lt;/a&gt;这段是横线&lt;/h2&gt;&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;超链接&#34;&gt;&lt;a href=&#34;#超链接&#34; class=&#34;headerlink&#34; title=&#34;超链接&#34;&gt;&lt;/a&gt;超链接&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;./assets/00.jpg&#34;&gt;这是超链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;.%5Cassets%5C00.jpg&#34;&gt;www.Baidu.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sigrok.org/wiki/Protocol_decoder_API&#34;&gt;这是一个超链接 （注意链接前后不要留空格）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is &lt;a href=&#34;http://example.com/&#34; title=&#34;Optional Title Here&#34;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
+&lt;h2 id=&#34;文章内的超链接&#34;&gt;&lt;a href=&#34;#文章内的超链接&#34; class=&#34;headerlink&#34; title=&#34;文章内的超链接&#34;&gt;&lt;/a&gt;&lt;a id=&#34;文章内的超链接&#34;&gt;文章内的超链接&lt;/a&gt;&lt;/h2&gt;&lt;p&gt; &lt;a href=&#34;##%E8%A1%A8%E6%A0%BC&#34;&gt;这是一个文章内部的超链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; Ctrl+左键  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#HTML跳转&#34;&gt;回到-&amp;gt;HTML 跳转&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Email-链接&#34;&gt;&lt;a href=&#34;#Email-链接&#34; class=&#34;headerlink&#34; title=&#34;Email 链接&#34;&gt;&lt;/a&gt;Email 链接&lt;/h2&gt;&lt;p&gt;作者的 Emal &lt;a href=&#34;mailto:&amp;#x78;&amp;#x78;&amp;#x40;&amp;#x78;&amp;#x78;&amp;#46;&amp;#x63;&amp;#111;&amp;#109;&#34;&gt;&amp;#x78;&amp;#x78;&amp;#x40;&amp;#x78;&amp;#x78;&amp;#46;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt; 链接&lt;/p&gt;
+&lt;h2 id=&#34;插入图片&#34;&gt;&lt;a href=&#34;#插入图片&#34; class=&#34;headerlink&#34; title=&#34;插入图片&#34;&gt;&lt;/a&gt;插入图片&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;内联风格&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1557132849466&amp;di=61258032fff80f7d4bfff0ad0b325b12&amp;imgtype=0&amp;src=http://s6.sinaimg.cn/middle/6dca756dhad5c3293f515&amp;690&#34; alt=&#34;iPhone&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;引用风格&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;一直没弄出来&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;xxx&lt;img src=&#34;/photo_id&#34; alt=&#34;photo_id&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;代码块-与-代码行&#34;&gt;&lt;a href=&#34;#代码块-与-代码行&#34; class=&#34;headerlink&#34; title=&#34;代码块 与 代码行&#34;&gt;&lt;/a&gt;代码块 与 代码行&lt;/h2&gt;&lt;p&gt;&lt;code&gt;  delay_init();	    	 //延时函数初始化	&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;	delay_init();	    	 &lt;span class=&#34;hljs-comment&#34;&gt;//延时函数初始化	&lt;/span&gt;&lt;br&gt;	TIM_ALL_Init();&lt;br&gt; 	LED_Init();			     &lt;span class=&#34;hljs-comment&#34;&gt;//LED端口初始化&lt;/span&gt;&lt;br&gt;	LCD_Init();&lt;br&gt;	POINT_COLOR=WHITE;&lt;br&gt;	BACK_COLOR = BLACK;&lt;br&gt;	LCD_Clear(BLACK);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;表格&#34;&gt;&lt;a href=&#34;#表格&#34; class=&#34;headerlink&#34; title=&#34;表格&#34;&gt;&lt;/a&gt;表格&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;name&lt;/th&gt;
+&lt;th&gt;age&lt;/th&gt;
+&lt;th&gt;sex&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Done&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jack&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Done&lt;br/&gt;这里换行了&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;删除线&#34;&gt;&lt;a href=&#34;#删除线&#34; class=&#34;headerlink&#34; title=&#34;删除线&#34;&gt;&lt;/a&gt;删除线&lt;/h2&gt;&lt;p&gt;&lt;del&gt;这是一条删除             线线线线线线线线线线线线线线线&lt;/del&gt;&lt;/p&gt;
+&lt;h2 id=&#34;下划线&#34;&gt;&lt;a href=&#34;#下划线&#34; class=&#34;headerlink&#34; title=&#34;下划线&#34;&gt;&lt;/a&gt;下划线&lt;/h2&gt;&lt;p&gt;&lt;u&gt;xiahuaxian&lt;/u&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs markdown&#34;&gt;&lt;span class=&#34;language-xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;u&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;xiahuaxian&lt;span class=&#34;language-xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;u&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h2 id=&#34;这是一个注释&#34;&gt;&lt;a href=&#34;#这是一个注释&#34; class=&#34;headerlink&#34; title=&#34;这是一个注释&#34;&gt;&lt;/a&gt;这是一个注释&lt;/h2&gt;&lt;p&gt;[注释] &lt;a href=&#34;%E8%BF%99%E6%98%AF%E6%B3%A8%E9%87%8A%E7%9A%84%E8%A7%A3%E9%87%8A&#34;&gt;^注释&lt;/a&gt;:Somebody that I used to know.&lt;/p&gt;
+&lt;h2 id=&#34;数学表达式&#34;&gt;&lt;a href=&#34;#数学表达式&#34; class=&#34;headerlink&#34; title=&#34;数学表达式&#34;&gt;&lt;/a&gt;数学表达式&lt;/h2&gt;&lt;p&gt;$ (h&amp;#x2F;2)&lt;em&gt;(a+9)&amp;#x2F;(b&lt;/em&gt;9))*L $&lt;/p&gt;
+&lt;p&gt;$lim_{x \to \infty} \ exp(-x)&amp;#x3D;0$&lt;/p&gt;
+&lt;h2 id=&#34;修改文字颜色-HTLML&#34;&gt;&lt;a href=&#34;#修改文字颜色-HTLML&#34; class=&#34;headerlink&#34; title=&#34;修改文字颜色 HTLML&#34;&gt;&lt;/a&gt;修改文字颜色 HTLML&lt;/h2&gt;&lt;p&gt;You can use HTML to style content what pure Markdown does not support.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;TEXT Style&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:#29b6f6&#34;&gt; &lt;strong&gt;TEXT Style&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:rgb(255, 255, 255)&#34;&gt;&lt;strong&gt;TEXT Style&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:LightPink&#34;&gt; &lt;strong&gt;TEXT Style&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Thistle&#34;&gt; &lt;strong&gt;TEXT Style&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Gold&#34;&gt; &lt;strong&gt;TEXT Style&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Tomato&#34;&gt; &lt;strong&gt;TEXT Style&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+ &lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;style&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;color:red&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;style&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;color:#29b6f6&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;style&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;color:rgb(255, 255, 255)&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;https://www.5tu.cn/colors/yansezhongwenming.html&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;For example, use &lt;code&gt;&amp;lt;span style=&amp;quot;color:red&amp;quot;&amp;gt;this text is red&amp;lt;/span&amp;gt;&lt;/code&gt; to add text with red color.&lt;/p&gt;
+&lt;h2 id=&#34;表情-Emoji-smile&#34;&gt;&lt;a href=&#34;#表情-Emoji-smile&#34; class=&#34;headerlink&#34; title=&#34;表情 Emoji :smile:&#34;&gt;&lt;/a&gt;表情 Emoji :smile:&lt;/h2&gt;&lt;p&gt;Input emoji with syntax &lt;code&gt;:smile:&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;User can trigger auto-complete suggestions for emoji by pressing &lt;code&gt;ESC&lt;/code&gt; key, or trigger it automatically after enabling it on preference panel. Also, inputting UTF-8 emoji characters directly is also supported by going to &lt;code&gt;Edit&lt;/code&gt; -&amp;gt; &lt;code&gt;Emoji &amp;amp; Symbols&lt;/code&gt; in the menu bar (macOS).&lt;/p&gt;
+&lt;h2 id=&#34;Task-List-带勾的计划任务-勾选框&#34;&gt;&lt;a href=&#34;#Task-List-带勾的计划任务-勾选框&#34; class=&#34;headerlink&#34; title=&#34;Task List 带勾的计划任务 勾选框&#34;&gt;&lt;/a&gt;Task List 带勾的计划任务 勾选框&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; a task list item&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; list syntax required &lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; completed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;注意    [内有一个空格] &lt;/p&gt;
+&lt;h2 id=&#34;Video&#34;&gt;&lt;a href=&#34;#Video&#34; class=&#34;headerlink&#34; title=&#34;Video&#34;&gt;&lt;/a&gt;Video&lt;/h2&gt;&lt;p&gt;You can use the &lt;code&gt;&amp;lt;video&amp;gt;&lt;/code&gt; HTML tag to embed videos. For example:&lt;/p&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs Markdown&#34;&gt;&lt;span class=&#34;language-xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;video&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;xxx.mp4&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;脚注&#34;&gt;&lt;a href=&#34;#脚注&#34; class=&#34;headerlink&#34; title=&#34;脚注&#34;&gt;&lt;/a&gt;脚注&lt;/h2&gt;&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs markdown&#34;&gt;文字[^脚注1]文字.&lt;br&gt;[&lt;span class=&#34;hljs-symbol&#34;&gt;^脚注1&lt;/span&gt;]:&lt;span class=&#34;hljs-link&#34;&gt;这是脚注1的内容&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;文字&lt;a href=&#34;%E8%BF%99%E6%98%AF%E8%84%9A%E6%B3%A81%E7%9A%84%E5%86%85%E5%AE%B9&#34;&gt;^脚注1&lt;/a&gt;文字.&lt;/p&gt;
+&lt;h2 id=&#34;上下标&#34;&gt;&lt;a href=&#34;#上下标&#34; class=&#34;headerlink&#34; title=&#34;上下标&#34;&gt;&lt;/a&gt;上下标&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1.实现下标与上标的三种方法：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;方法1（符号）：(这是Markdown的拓展语法)&lt;/p&gt;
+&lt;figure class=&#34;highlight parser3&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs parser3&#34;&gt;&lt;span class=&#34;language-xml&#34;&gt;下标 ：θ~&lt;/span&gt;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;language-xml&#34;&gt;~ &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-xml&#34;&gt;上标 ：θ&lt;/span&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;^2&lt;/span&gt;&lt;span class=&#34;language-xml&#34;&gt;^&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-xml&#34;&gt;&lt;/span&gt;&lt;span class=&#34;hljs-number&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;结果如下：&lt;br&gt;下标 ：θ&lt;del&gt;1&lt;/del&gt;&lt;br&gt;上标 ：θ^2^&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;方法2（HTML标签）：&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs xml&#34;&gt;下标 ：θ&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;sub&lt;/span&gt;&amp;gt;&lt;/span&gt;1&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;sub&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;上标 ：θ&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;sup&lt;/span&gt;&amp;gt;&lt;/span&gt;2&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;sup&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;12&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;结果如下：&lt;br&gt;下标 ：θ&lt;sub&gt;1&lt;/sub&gt;&lt;br&gt;上标 ：θ&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;方法3（公式块）：&lt;/p&gt;
+&lt;figure class=&#34;highlight gams&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs gams&#34;&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;$&lt;/span&gt;&lt;br&gt;下标 ：θ_1 ，上标 ：θ^&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;$&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;结果如下：&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;$$&lt;br&gt;下标 ：θ_1 ，上标 ：θ^2&lt;br&gt;$$&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;HTML-跳转&#34;&gt;&lt;a href=&#34;#HTML-跳转&#34; class=&#34;headerlink&#34; title=&#34;HTML 跳转&#34;&gt;&lt;/a&gt;&lt;a id=&#34;HTML跳转&#34;&gt;HTML 跳转&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;#文章内的超链接&#34;&gt;点击到达-&amp;gt;文章内的超链接&lt;/a&gt; &lt;/p&gt;
+&lt;figure class=&#34;highlight livecodeserver&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs livecodeserver&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-keyword&#34;&gt;a&lt;/span&gt; href=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;#demo&amp;quot;&lt;/span&gt;&amp;gt;点击到达跳转位置演示&amp;lt;/&lt;span class=&#34;hljs-keyword&#34;&gt;a&lt;/span&gt;&amp;gt; &lt;span class=&#34;hljs-comment&#34;&gt;# 在需要跳转的地方添加此代码。&lt;/span&gt;&lt;br&gt;&amp;lt;&lt;span class=&#34;hljs-keyword&#34;&gt;a&lt;/span&gt; id=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;demo&amp;quot;&lt;/span&gt;&amp;gt;跳转位置演示（跳转位置设置点）&amp;lt;/&lt;span class=&#34;hljs-keyword&#34;&gt;a&lt;/span&gt;&amp;gt; &lt;span class=&#34;hljs-comment&#34;&gt;# 在跳转位置添加次代码。&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+ ]]></description>
+        </item>
+    </channel>
+</rss>
