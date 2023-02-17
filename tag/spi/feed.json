@@ -13,9 +13,9 @@
             "tags": [
                 "spi",
                 "j-link",
+                "jlink",
                 "flash",
-                "j-tag",
-                "jlink"
+                "j-tag"
             ]
         },
         {

@@ -7,83 +7,85 @@
         <language>zh-CN</language>
         <pubDate>Mon, 29 Nov 2021 13:12:15 +0800</pubDate>
         <lastBuildDate>Mon, 29 Nov 2021 13:12:15 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>123</category>
         <category>embedded</category>
-        <category>note</category>
         <category>cc2530</category>
         <category>zigbee</category>
-        <category>hex</category>
-        <category>markdown</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
-        <category>osi</category>
-        <category>iap</category>
-        <category>bootloader</category>
-        <category>stm32</category>
+        <category>hex</category>
         <category>md5</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>osi</category>
         <category>ssl</category>
         <category>https</category>
+        <category>markdown</category>
+        <category>note</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
         <category>typora</category>
-        <category>xip</category>
-        <category>nor</category>
-        <category>nand</category>
-        <category>ws2812</category>
-        <category>spi</category>
-        <category>dma</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>windows</category>
+        <category>makefile</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
         <category>ip</category>
         <category>location</category>
         <category>api</category>
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
-        <category>windows</category>
-        <category>makefile</category>
         <category>zip</category>
         <category>gzip</category>
         <category>bzip</category>
         <category>tar</category>
-        <category>jpeg</category>
-        <category>webp</category>
-        <category>jpeg2000</category>
-        <category>image</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
-        <category>android</category>
-        <category>mtp</category>
-        <category>pc</category>
-        <category>driver</category>
-        <category>机智云</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>机智云</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
-        <category>ct117e-ex</category>
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
+        <category>ct117e-ex</category>
         <category>c</category>
         <category>c++</category>
+        <category>ms-dos</category>
+        <category>pid</category>
         <category>micropython</category>
         <category>python</category>
-        <category>pid</category>
-        <category>ms-dos</category>
         <category>qt</category>
         <category>pyqt</category>
+        <category>正则表达式</category>
         <category>数据结构</category>
         <category>堆栈</category>
         <category>队列</category>
@@ -91,48 +93,53 @@
         <category>树</category>
         <category>二叉树</category>
         <category>life</category>
-        <category>正则表达式</category>
+        <category>workflow</category>
         <category>人生</category>
-        <category>心理学</category>
-        <category>cad</category>
         <category>cat_drive</category>
+        <category>cad</category>
+        <category>心理学</category>
         <category>switch</category>
         <category>nintendo</category>
         <category>game</category>
+        <category>synology</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
         <category>software</category>
-        <category>workflow</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
         <category>摄影</category>
         <category>git</category>
-        <category>synology</category>
         <category>docker</category>
         <category>dockerfile</category>
         <category>namespace</category>
         <category>cgroup</category>
         <category>dockerhub</category>
-        <category>hardware</category>
-        <category>lenovo</category>
-        <category>disk</category>
         <category>j-link</category>
-        <category>flash</category>
-        <category>j-tag</category>
-        <category>jlink</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
-        <category>dslogic</category>
-        <category>逻辑分析仪</category>
-        <category>pyhton</category>
-        <category>decoder</category>
+        <category>jlink</category>
         <category>rdpwrap</category>
         <category>rdp</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
         <category>ps</category>
         <category>powershell</category>
+        <category>vscode</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
         <category>sourceinsigh</category>
         <category>si</category>
         <category>ide</category>
-        <category>spacedesk</category>
-        <category>投屏</category>
-        <category>vscode</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
         <category>unit</category>
         <category>m</category>
         <category>cm</category>
@@ -140,10 +147,7 @@
         <category>s</category>
         <category>us</category>
         <category>tmux</category>
-        <category>wordpress</category>
-        <category>web</category>
-        <category>mysql</category>
-        <category>nginx</category>
+        <category>cortex-m3</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -152,31 +156,28 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>rtos</category>
-        <category>rt-thread</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
-        <category>ucos</category>
         <category>cortex-a7</category>
-        <category>raspberry</category>
-        <category>wiringpi</category>
-        <category>ap</category>
-        <category>wifi</category>
-        <category>pwm</category>
-        <category>cortex-m3</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
-        <category>rtx</category>
-        <category>keil</category>
-        <category>modbus</category>
         <category>alpha_mini</category>
         <category>正点原子</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>ucos</category>
+        <category>rt-thread</category>
+        <category>raspberry</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>modbus</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2021/784ee20b/</guid>
             <title>WSL</title>
             <link>https://www.oikiou.top/2021/784ee20b/</link>
-            <category>linux</category>
             <category>windows</category>
+            <category>linux</category>
             <category>wsl</category>
             <pubDate>Mon, 29 Nov 2021 13:12:15 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;安装&#34;&gt;&lt;a href=&#34;#安装&#34; class=&#34;headerlink&#34; title=&#34;安装&#34;&gt;&lt;/a&gt;安装&lt;/h1&gt;&lt;p&gt;若要检查 Windows 版本及内部版本号，选择 Windows 徽标键 + R，然后键入“winver”，选择“确定”。更新到“设置”菜单中的&lt;a href=&#34;ms-settings:windowsupdate&#34;&gt;最新 Windows 版本&lt;/a&gt;。&lt;/p&gt;
@@ -490,11 +491,435 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://www.oikiou.top/2021/undefined/</guid>
-            <title>Linux 杂乱学习笔记</title>
-            <link>https://www.oikiou.top/2021/undefined/</link>
+            <guid isPermalink="true">https://www.oikiou.top/2021/9b4105ad/</guid>
+            <title>LinuxAlphaMini</title>
+            <link>https://www.oikiou.top/2021/9b4105ad/</link>
             <category>linux</category>
-            <pubDate>Fri, 29 Oct 2021 13:12:15 +0800</pubDate>
+            <category>alpha_mini</category>
+            <category>正点原子</category>
+            <pubDate>Wed, 07 Jul 2021 14:46:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;汇编基础&#34;&gt;&lt;a href=&#34;#汇编基础&#34; class=&#34;headerlink&#34; title=&#34;汇编基础&#34;&gt;&lt;/a&gt;汇编基础&lt;/h1&gt;&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs css&#34;&gt;&lt;span class=&#34;hljs-selector-tag&#34;&gt;label&lt;/span&gt;： instruction @ comment &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;label 即标号&lt;/strong&gt;，表示地址位置，有些指令前面可能会有标号，这样就可以通过这个标号得到指令的地址，标号也可以用来表示数据地址。注意 label 后面的“：”，任何以“：”结尾的标识符都会被识别为一个标号。&lt;br&gt;&lt;strong&gt;instruction 即指令&lt;/strong&gt;，也就是汇编指令或伪指令。&lt;br&gt;&lt;strong&gt;@符号&lt;/strong&gt;，表示后面的是注释&lt;br&gt;&lt;strong&gt;comment&lt;/strong&gt; 就是注释内容。&lt;/p&gt;
+&lt;p&gt;例:&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;add:&lt;br&gt;MOVS R0, #0X12 @设置 R0=0X12&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;注意！ ARM 中的指令、伪指令、伪操作、寄存器名等可以全部使用大写，也可以全部使用小写，但是不能大小写混用。&lt;/strong&gt;  &lt;/p&gt;
+&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs jboss-cli&#34;&gt;&lt;span class=&#34;hljs-string&#34;&gt;.section&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;.testsection&lt;/span&gt; @定义一个 testsetcion 段 &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;.text 表示代码段。  &lt;/li&gt;
+&lt;li&gt;.data 初始化的数据段。&lt;/li&gt;
+&lt;li&gt;.bss 未初始化的数据段。&lt;/li&gt;
+&lt;li&gt;.rodata 只读数据段。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;伪操作:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;.byte 定义单字节数据，比如.byte 0x12。&lt;/li&gt;
+&lt;li&gt;.short 定义双字节数据，比如.short 0x1234。&lt;/li&gt;
+&lt;li&gt;.long 定义一个 4 字节数据，比如.long 0x12345678。&lt;/li&gt;
+&lt;li&gt;.equ 赋值语句，格式为： .equ 变量名，表达式，比如.equ num, 0x12，表示 num&amp;#x3D;0x12。&lt;/li&gt;
+&lt;li&gt;.align 数据字节对齐，比如： .align 4 表示 4 字节对齐。&lt;/li&gt;
+&lt;li&gt;.end 表示源文件结束。&lt;/li&gt;
+&lt;li&gt;.global 定义一个全局符号，格式为： .global symbol，比如： .global _start(汇编程序的默认入口标号是_start  )。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;函数:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight makefile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs makefile&#34;&gt;&lt;span class=&#34;hljs-section&#34;&gt;函数名:&lt;/span&gt;&lt;br&gt;	函数体&lt;br&gt;	返回语句&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;/* SVC 中断 */&lt;br&gt;SVC_Handler:&lt;br&gt;    ldr r0, =SVC_Handler&lt;br&gt;    bx r0					@跳转&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;常用汇编指令&#34;&gt;&lt;a href=&#34;#常用汇编指令&#34; class=&#34;headerlink&#34; title=&#34;常用汇编指令&#34;&gt;&lt;/a&gt;常用汇编指令&lt;/h2&gt;&lt;h3 id=&#34;处理器内部数据传输指令-mov-mrs-msr&#34;&gt;&lt;a href=&#34;#处理器内部数据传输指令-mov-mrs-msr&#34; class=&#34;headerlink&#34; title=&#34;处理器内部数据传输指令 mov mrs msr&#34;&gt;&lt;/a&gt;处理器内部数据传输指令 mov mrs msr&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;指令&lt;/th&gt;
+&lt;th&gt;目的&lt;/th&gt;
+&lt;th&gt;源&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;MOV&lt;/td&gt;
+&lt;td&gt;R0&lt;/td&gt;
+&lt;td&gt;R1&lt;/td&gt;
+&lt;td&gt;将 R1 里面的数据复制到 R0 中。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MRS&lt;/td&gt;
+&lt;td&gt;R0&lt;/td&gt;
+&lt;td&gt;CPSR&lt;/td&gt;
+&lt;td&gt;将特殊寄存器 CPSR 里面的数据复制到 R0 中。&lt;br/&gt;&lt;strong&gt;(特殊寄存器只能由这个指令 读 )&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MSR&lt;/td&gt;
+&lt;td&gt;CPSR&lt;/td&gt;
+&lt;td&gt;R1&lt;/td&gt;
+&lt;td&gt;将 R1 里面的数据复制到特殊寄存器 CPSR 里中。&lt;br/&gt;&lt;strong&gt;(特殊寄存器只能由这个指令 写 )&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;存储器访问指令-ldr-str&#34;&gt;&lt;a href=&#34;#存储器访问指令-ldr-str&#34; class=&#34;headerlink&#34; title=&#34;存储器访问指令 ldr str&#34;&gt;&lt;/a&gt;存储器访问指令 ldr str&lt;/h3&gt;&lt;p&gt;I.MX6UL中的RAM,寄存器都需要这个指令访问。&lt;/p&gt;
+&lt;p&gt;LDR和STR是按照字进行读取和写入的，LDRB和STRB是按字节，LDRH和STRH是按半字操作。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;指令&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;LDR Rd, [Rn , #offset]&lt;/td&gt;
+&lt;td&gt;从存储器 Rn+offset 的位置读取数据存放到 Rd 中。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;STR Rd, [Rn, #offset]&lt;/td&gt;
+&lt;td&gt;将 Rd 中的数据写入到存储器中的 Rn+offset 位置。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h4 id=&#34;LDR&#34;&gt;&lt;a href=&#34;#LDR&#34; class=&#34;headerlink&#34; title=&#34;LDR&#34;&gt;&lt;/a&gt;LDR&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;读取寄存器值&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;加载立即数到寄存器&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;@加载立即数&lt;br&gt;LDR R0, =0X0209C004 @将寄存器地址 0X0209C004 加载到 R0 中，即 R0=0X0209C004&lt;br&gt;@读取寄存器值&lt;br&gt;LDR R1, [R0] @读取地址 0X0209C004 中的数据到 R1 寄存器中&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h4 id=&#34;STR&#34;&gt;&lt;a href=&#34;#STR&#34; class=&#34;headerlink&#34; title=&#34;STR&#34;&gt;&lt;/a&gt;STR&lt;/h4&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;LDR R0, =0X0209C004 @将寄存器地址 0X0209C004 加载到 R0 中，即 R0=0X0209C004&lt;br&gt;LDR R1, =0X12345678 @R1 保存要写入到寄存器的值，即 R1=0X12345678&lt;br&gt;STR R1, [R0] @将 R1 中的值写入到 R0 中的地址上&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;压栈出栈指令-push-pop&#34;&gt;&lt;a href=&#34;#压栈出栈指令-push-pop&#34; class=&#34;headerlink&#34; title=&#34;压栈出栈指令 push pop&#34;&gt;&lt;/a&gt;压栈出栈指令 push pop&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;指令&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;PUSH &amp;lt;reg list&amp;gt;&lt;/td&gt;
+&lt;td&gt;将寄存器列表存入栈中。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;POP &amp;lt;reg list&amp;gt;&lt;/td&gt;
+&lt;td&gt;从栈中恢复寄存器列表。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;@处理器的堆栈是向下增长的 见下图&lt;br&gt;PUSH &amp;#123;R0~R3, R12&amp;#125; @将 R0~R3 和 R12 压栈&lt;br&gt;PUSH &amp;#123;LR&amp;#125; @将 LR 进行压栈&lt;br&gt;&lt;br&gt;POP &amp;#123;LR&amp;#125; @先恢复 LR&lt;br&gt;POP &amp;#123;R0~R3,R12&amp;#125; @在恢复 R0~R3,R12&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&#34;/2021/9b4105ad/image-20210707144653945.png&#34; alt=&#34;image-20210707144653945&#34;&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;@这个和上面的是等同的&lt;br&gt;STMFD SP!,&amp;#123;R0~R3, R12&amp;#125; @R0~R3,R12 入栈&lt;br&gt;STMFD SP!,&amp;#123;LR&amp;#125; @LR 入栈&lt;br&gt;&lt;br&gt;LDMFD SP!, &amp;#123;LR&amp;#125; @先恢复 LR&lt;br&gt;LDMFD SP!, &amp;#123;R0~R3, R12&amp;#125; @再恢复 R0~R3, R12&lt;br&gt;&lt;br&gt;&lt;br&gt;LDMFD = LDM + FD&lt;br&gt;STMFD = STM + FD&lt;br&gt;LDM(多个) -&amp;gt; LDR(单个)&lt;br&gt;STM(多个) -&amp;gt; STR(单个)&lt;br&gt;FD = Full Descending 即满递减的意思(根据 ATPCS 规则,ARM 使用的 FD 类型的堆栈， SP 指向最后一个入栈的数值，堆栈是由高地址向下增长的，也就是前面说的向下增长的堆栈，)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;跳转指令-b-bx-bl-blx&#34;&gt;&lt;a href=&#34;#跳转指令-b-bx-bl-blx&#34; class=&#34;headerlink&#34; title=&#34;跳转指令 b bx bl blx&#34;&gt;&lt;/a&gt;跳转指令 b bx bl blx&lt;/h3&gt;&lt;p&gt;跳转操作的方法  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;直接使用跳转指令 B、 BL、 BX 等&lt;/li&gt;
+&lt;li&gt;直接向 PC 寄存器里面写入数据。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;指令&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;B &amp;lt;label&amp;gt;&lt;/td&gt;
+&lt;td&gt;跳转到 label，如果跳转范围超过了+&amp;#x2F;-2KB，&lt;br/&gt;可以指定 B.W &amp;lt;label&amp;gt;使用 32 位版本的跳转指令， 这样可以得到较大范围的 跳转&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;BX &amp;lt;Rm&amp;gt;&lt;/td&gt;
+&lt;td&gt;间接跳转，跳转到存放于 Rm 中的地址处，并且切换指令集&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;BL &amp;lt;label&amp;gt;&lt;/td&gt;
+&lt;td&gt;跳转到标号地址，并将返回地址保存在 LR 中。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;BLX &amp;lt;Rm&amp;gt;&lt;/td&gt;
+&lt;td&gt;结合 BX 和 BL 的特点，跳转到 Rm 指定的地址，并将返回地 址保存在 LR 中，切换指令集。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h4 id=&#34;B指令&#34;&gt;&lt;a href=&#34;#B指令&#34; class=&#34;headerlink&#34; title=&#34;B指令&#34;&gt;&lt;/a&gt;B指令&lt;/h4&gt;&lt;p&gt;这是最简单的跳转指令， B 指令会将 PC 寄存器的值设置为跳转目标地址， 一旦执行 B 指令， ARM 处理器就会立即跳转到指定的目标地址。&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;_start:&lt;br&gt;    ldr sp,=0X80200000 @设置栈指针&lt;br&gt;    b main @跳转到 main 函数&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;上述代码就是典型的在汇编中初始化 C 运行环境，然后跳转到 C 文件的 main 函数中运行 ，上述代码只是初始化了 SP 指针，有些处理器还需要做其他的初始化，比如初始化 DDR 等等。因为跳转到 C 文件以后再也不会回到汇编了，所以在第 4 行使用了 B 指令来完成跳转  。&lt;/p&gt;
+&lt;h4 id=&#34;BL指令&#34;&gt;&lt;a href=&#34;#BL指令&#34; class=&#34;headerlink&#34; title=&#34;BL指令&#34;&gt;&lt;/a&gt;BL指令&lt;/h4&gt;&lt;p&gt;BL 指令相比 B 指令，在跳转之前会在寄存器 LR(R14)中保存当前 PC 寄存器值，所以可以通过将 LR 寄存器中的值重新加载到 PC 中来继续从跳转之前的代码处运行，这是子程序调用一个基本但常用的手段。  &lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;push &amp;#123;r0, r1&amp;#125; 			@保存 r0,r1&lt;br&gt;cps #0x13 				@进入 SVC 模式，允许其他中断再次进去&lt;br&gt;&lt;br&gt;bl system_irqhandler	@加载 C 语言中断处理函数到 r2 寄存器中&lt;br&gt;&lt;br&gt;cps #0x12 				@进入 IRQ 模式&lt;br&gt;pop &amp;#123;r0, r1&amp;#125;&lt;br&gt;str r0, [r1, #0X10] 	@中断执行完成，写 EOIR&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;上述代码中第 5 行就是执行 C 语言版的中断处理函数，当处理完成以后是需要返回来继续执行下面的程序，所以使用了 BL 指令。  &lt;/p&gt;
+&lt;h3 id=&#34;算术运算指令&#34;&gt;&lt;a href=&#34;#算术运算指令&#34; class=&#34;headerlink&#34; title=&#34;算术运算指令&#34;&gt;&lt;/a&gt;算术运算指令&lt;/h3&gt;&lt;p&gt;汇编中也可以进行算术运算， 比如加减乘除，常用的运算指令用法如表 7.2.5.1 所示：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;指令&lt;/th&gt;
+&lt;th&gt;计算公式&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;ADD Rd, Rn, Rm&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn + Rm&lt;/td&gt;
+&lt;td&gt;加法运算，指令为 ADD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ADD Rd, Rn, #immed&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn + #immed&lt;/td&gt;
+&lt;td&gt;加法运算，指令为 ADD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ADC Rd, Rn, Rm&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn + Rm + 进位&lt;/td&gt;
+&lt;td&gt;带进位的加法运算，指令为 ADC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ADC Rd, Rn, #immed&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn + #immed +进位&lt;/td&gt;
+&lt;td&gt;带进位的加法运算，指令为 ADC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SUB Rd, Rn, Rm&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn – Rm&lt;/td&gt;
+&lt;td&gt;减法&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SUB Rd, #immed&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rd - #immed&lt;/td&gt;
+&lt;td&gt;减法&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SUB Rd, Rn, #immed&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn - #immed&lt;/td&gt;
+&lt;td&gt;减法&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SBC Rd, Rn, #immed&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn - #immed – 借位&lt;/td&gt;
+&lt;td&gt;带借位的减法&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SBC Rd, Rn ,Rm&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn – Rm – 借位&lt;/td&gt;
+&lt;td&gt;带借位的减法&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MUL Rd, Rn, Rm&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn * Rm&lt;/td&gt;
+&lt;td&gt;乘法(32 位)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;UDIV Rd, Rn, Rm&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn &amp;#x2F; Rm&lt;/td&gt;
+&lt;td&gt;无符号除法&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SDIV Rd, Rn, Rm&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn &amp;#x2F; Rm&lt;/td&gt;
+&lt;td&gt;有符号除法&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;逻辑运算指令&#34;&gt;&lt;a href=&#34;#逻辑运算指令&#34; class=&#34;headerlink&#34; title=&#34;逻辑运算指令&#34;&gt;&lt;/a&gt;逻辑运算指令&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;指令&lt;/th&gt;
+&lt;th&gt;计算公式&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;AND Rd, Rn&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rd &amp;amp;Rn&lt;/td&gt;
+&lt;td&gt;按位与&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AND Rd, Rn, #immed&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn &amp;amp;#immed&lt;/td&gt;
+&lt;td&gt;按位与&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AND Rd, Rn, Rm&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn &amp;amp; Rm&lt;/td&gt;
+&lt;td&gt;按位与&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ORR Rd, Rn&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rd | Rn&lt;/td&gt;
+&lt;td&gt;按位或&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ORR Rd, Rn, #immed&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn | #immed&lt;/td&gt;
+&lt;td&gt;按位或&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ORR Rd, Rn, Rm&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn | Rm&lt;/td&gt;
+&lt;td&gt;按位或&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;BIC Rd, Rn&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rd &amp;amp; (~Rn)&lt;/td&gt;
+&lt;td&gt;位清除&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;BIC Rd, Rn, #immed&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn &amp;amp; (~#immed)&lt;/td&gt;
+&lt;td&gt;位清除&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;BIC Rd, Rn , Rm&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn &amp;amp; (~Rm)&lt;/td&gt;
+&lt;td&gt;位清除&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ORN Rd, Rn, #immed&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn | (#immed)&lt;/td&gt;
+&lt;td&gt;按位或非&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ORN Rd, Rn, Rm&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn | (Rm)&lt;/td&gt;
+&lt;td&gt;按位或非&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;EOR Rd, Rn&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rd ^ Rn&lt;/td&gt;
+&lt;td&gt;按位异或&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;EOR Rd, Rn, #immed&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn ^ #immed&lt;/td&gt;
+&lt;td&gt;按位异或&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;EOR Rd, Rn, Rm&lt;/td&gt;
+&lt;td&gt;Rd &amp;#x3D; Rn ^ Rm&lt;/td&gt;
+&lt;td&gt;按位异或&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;启动方式&#34;&gt;&lt;a href=&#34;#启动方式&#34; class=&#34;headerlink&#34; title=&#34;启动方式&#34;&gt;&lt;/a&gt;启动方式&lt;/h1&gt;&lt;h2 id=&#34;BOOT&#34;&gt;&lt;a href=&#34;#BOOT&#34; class=&#34;headerlink&#34; title=&#34;BOOT&#34;&gt;&lt;/a&gt;BOOT&lt;/h2&gt;&lt;p&gt;OOT_MODE[1:0]的值是可以改变的，有两种方式，一种是改写 eFUSE(熔丝)，一种是修改相应的 GPIO 高低电平。  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BOOT_MODE1 和 BOOT_MODE0 在芯片内部是有 100KΩ下拉电阻的 ，所以默认是0。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;BOOT_MODE[1:0]&lt;/th&gt;
+&lt;th&gt;BOOT 类型&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;00&lt;/td&gt;
+&lt;td&gt;从 FUSE 启动&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;01&lt;/td&gt;
+&lt;td&gt;串行下载&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;内部 BOOT 模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;保留&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;串行下载&#34;&gt;&lt;a href=&#34;#串行下载&#34; class=&#34;headerlink&#34; title=&#34;串行下载&#34;&gt;&lt;/a&gt;串行下载&lt;/h3&gt;&lt;p&gt;串行下载的意思就是可以通过 USB 或者 UART 将代码下载到板子上的外置存储设备中，我们可以使用 OTG1 这个 USB口向开发板上的 SD&amp;#x2F;EMMC、 NAND 等存储设备下载代码。  &lt;/p&gt;
+&lt;h3 id=&#34;内部-BOOT-模式&#34;&gt;&lt;a href=&#34;#内部-BOOT-模式&#34; class=&#34;headerlink&#34; title=&#34;内部 BOOT 模式&#34;&gt;&lt;/a&gt;内部 BOOT 模式&lt;/h3&gt;&lt;p&gt;芯片会执行内部的 boot ROM 代码，代码会进行硬件初始化(一部分外设)，然后从 boot 设备(就是存放代码的设备、比如 SD&amp;#x2F;EMMC、 NAND)中&lt;strong&gt;将代码拷贝出来复制到指定的 RAM 中，一般是 DDR。&lt;/strong&gt;  &lt;/p&gt;
+&lt;h2 id=&#34;BOOT模式-启动设备&#34;&gt;&lt;a href=&#34;#BOOT模式-启动设备&#34; class=&#34;headerlink&#34; title=&#34;BOOT模式 启动设备&#34;&gt;&lt;/a&gt;BOOT模式 启动设备&lt;/h2&gt;&lt;p&gt;当 BOOT_MODE 设置为内部 BOOT 模式以后，可以从以下设备中启动：&lt;br&gt;①、接到 EIM 接口的 CS0 上的 16 位 NOR Flash。&lt;br&gt;②、接到 EIM 接口的 CS0 上的 OneNAND Flash。&lt;br&gt;③、接到 GPMI 接口上的 MLC&amp;#x2F;SLC NAND Flash， NAND Flash 页大小支持 2KByte、 4KByte和 8KByte， 8 位宽。&lt;br&gt;④、 Quad SPI Flash。&lt;br&gt;⑤、接到 USDHC 接口上的 SD&amp;#x2F;MMC&amp;#x2F;eSD&amp;#x2F;SDXC&amp;#x2F;eMMC 等设备。&lt;br&gt;⑥、 SPI 接口的 EEPROM。  &lt;/p&gt;
+&lt;p&gt;启动设备是通过  BOOT_CFG1[7:0]、 BOOT_CFG2[7:0]和 BOOT_CFG4[7:0]这 24 个配置 IO配置，这 24 个配置 IO 刚好对应着 LCD 的 24 根数据线 LCD_DATA0~LCDDATA23，&lt;strong&gt;当启动完成以后这 24 个 IO 就可以作为 LCD 的数据线使用。&lt;/strong&gt;  &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;boot1&lt;/th&gt;
+&lt;th&gt;boot0&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;启动设备&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;x&lt;/td&gt;
+&lt;td&gt;x&lt;/td&gt;
+&lt;td&gt;x&lt;/td&gt;
+&lt;td&gt;x&lt;/td&gt;
+&lt;td&gt;x&lt;/td&gt;
+&lt;td&gt;x&lt;/td&gt;
+&lt;td&gt;串行下载，可以通过 USB 烧写镜像文件。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;SD 卡启动。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;EMMC 启动。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;NAND FLASH 启动。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;烧写镜像&#34;&gt;&lt;a href=&#34;#烧写镜像&#34; class=&#34;headerlink&#34; title=&#34;烧写镜像&#34;&gt;&lt;/a&gt;烧写镜像&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;imxdownload 会在 led.bin前面添加一些头信息，重新生成一个叫做 load.imx 的文件，头部信息包含以下&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Image vector table，简称 IVT， IVT 里面包含了一系列的地址信息，这些地址信息在ROM 中按照固定的地址存放着。 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Boot data，启动数据，包含了镜像要拷贝到哪个地址，拷贝的大小是多少等等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Device configuration data，简称 DCD，设备配置信息，重点是 DDR3 的初始化配置。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;用户代码可执行文件，比如 led.bin。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;最终烧写到 I.MX6U 中的程序其组成为： IVT+Boot data+DCD+.bin 。(3KByte 的 IVT+Boot Data+DCD)&lt;/p&gt;
+&lt;p&gt;.bin是从0x87800000这个地方开始，往前推load.imx就是从0x877FF400开始的。&lt;/p&gt;
+&lt;h1 id=&#34;点灯&#34;&gt;&lt;a href=&#34;#点灯&#34; class=&#34;headerlink&#34; title=&#34;点灯&#34;&gt;&lt;/a&gt;点灯&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Makefile&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight makefile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs makefile&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 定义了一个变量 objs， objs 包含着要生成 ledc.bin 所需的材料： start.o 和 main.o&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 这里要注意 start.o 一定要放到最前面！因为在后面链接的时候 start.o 要在最前面，因为 start.o 是最先要执行的文件！&lt;/span&gt;&lt;br&gt;objs := start.o main.o&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 使用依赖文件(objs:=start.o main.o),生成目标可执行文件ledc.bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;ledc.bin:&lt;span class=&#34;hljs-variable&#34;&gt;$(objs)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# 使用编译器 arm-linux-gnueabihf-ld 进行连接,-Ttext指定起始地址是0X87800000&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# $^ 是所有依赖文件的集合,也就是变量objs的值(start.o main.o)&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# 展开等价 arm-linux-gnueabihf-ld -Ttext 0X87800000 -o ledc.elf start.o main.o&lt;/span&gt;&lt;br&gt;	arm-linux-gnueabihf-ld -Ttext 0X87800000 -o ledc.elf &lt;span class=&#34;hljs-variable&#34;&gt;$^&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# 将ledc.elf转换成ledc.bin文件&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# $@ 的意思是目标集合，在这里就是 ledc.bin&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# 展开等价 arm-linux-gnueabihf-objcopy -O binary -S ledc.elf ledc.bin&lt;/span&gt;&lt;br&gt;	arm-linux-gnueabihf-objcopy -O binary -S ledc.elf &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# 反汇编，生成 ledc.dis 文件&lt;/span&gt;&lt;br&gt;	arm-linux-gnueabihf-objdump -D -m arm ledc.elf &amp;gt; ledc.dis&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 下面规则展开等价 &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# start.o:start.s&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#	arm-linux-gnueabihf-gcc -Wall -nostdlib -c -O2 -o start.o start.s&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# %匹配任意字符&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;%.o:%.s&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# $@ 的意思是目标集合，在这里就是 %.o&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# $&amp;lt; 所有依赖文件的集合，在这就是 %.s&lt;/span&gt;&lt;br&gt;	arm-linux-gnueabihf-gcc -Wall -nostdlib -c -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;%.o:%.S&lt;/span&gt;&lt;br&gt;	arm-linux-gnueabihf-gcc -Wall -nostdlib -c -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;%.o:%.c&lt;/span&gt;&lt;br&gt;	arm-linux-gnueabihf-gcc -Wall -nostdlib -c -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;clean:&lt;/span&gt;&lt;br&gt;	rm -rf *.o ledc.bin ledc.elf ledc.dis&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Makefile&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight makefile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs makefile&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 类似于上面的只是用到了变量&lt;/span&gt;&lt;br&gt;CROSS_COMPILE	?= arm-linux-gnueabihf-&lt;br&gt;NAME 			?= ledc&lt;br&gt;&lt;br&gt;CC 				:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;gcc&lt;br&gt;LD 				:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;ld&lt;br&gt;OBJCOPY 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;objcopy&lt;br&gt;OBJDUMP 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;objdump&lt;br&gt;OBJS 			:= start.o main.o&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.bin:&lt;span class=&#34;hljs-variable&#34;&gt;$(OBJS)&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(LD)&lt;/span&gt; -Timx6ul.lds -o &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$^&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(OBJCOPY)&lt;/span&gt; -O binary -S &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(OBJDUMP)&lt;/span&gt; -D -m arm &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.elf &amp;gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.dis&lt;br&gt;    &lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;%.o:%.s&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(CC)&lt;/span&gt; -Wall -nostdlib -c -O2 -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;%.o:%.S&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(CC)&lt;/span&gt; -Wall -nostdlib -c -O2 -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;%.o:%.c&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(CC)&lt;/span&gt; -Wall -nostdlib -c -O2 -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;	&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;clean:&lt;/span&gt;&lt;br&gt;	rm -rf *.o &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.bin &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.dis&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Makefile&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight makefile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs makefile&#34;&gt;CROSS_COMPILE	?= arm-linux-gnueabihf-&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 编译后 目标名&lt;/span&gt;&lt;br&gt;TARGET			?= bsp&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 编译器相关&lt;/span&gt;&lt;br&gt;CC				:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;gcc&lt;br&gt;LD				:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;ld&lt;br&gt;OBJCOPY			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;objcopy&lt;br&gt;OBJDUMP			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;objdump&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# include dir&lt;/span&gt;&lt;br&gt;INCDIRS			:=  imx6ul  \&lt;br&gt;					bsp/clk \&lt;br&gt;					bsp/led \&lt;br&gt;					bsp/delay&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# sourc dir&lt;/span&gt;&lt;br&gt;SRCDIRS 		:=  project \&lt;br&gt;					bsp/clk \&lt;br&gt;					bsp/led \&lt;br&gt;					bsp/delay&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 这里用到了 patsubst 函数 通过这个函数给 INCDIRS 前面加了一个 -I&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 INCLUDE := -I imx6ul -I bsp/clk -I bsp/led -I bsp/delay&lt;/span&gt;&lt;br&gt;INCLUDE 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;patsubst&lt;/span&gt; %, -I %, &lt;span class=&#34;hljs-variable&#34;&gt;$(INCDIRS)&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 这里用到了 foreach 和 wildcard 函数&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 SFILES := project/start.S&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 CFILES := project/main.c bsp/clk/bsp_clk.c bsp/led/bsp_led.c bsp/delay/bsp_delay.c&lt;/span&gt;&lt;br&gt;SFILES 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;foreach&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;dir&lt;/span&gt;, &lt;span class=&#34;hljs-variable&#34;&gt;$(SRCDIRS)&lt;/span&gt;, $(&lt;span class=&#34;hljs-built_in&#34;&gt;wildcard&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(dir)&lt;/span&gt;/*.S)&lt;/span&gt;)&lt;br&gt;CFILES 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;foreach&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;dir&lt;/span&gt;, &lt;span class=&#34;hljs-variable&#34;&gt;$(SRCDIRS)&lt;/span&gt;, $(&lt;span class=&#34;hljs-built_in&#34;&gt;wildcard&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(dir)&lt;/span&gt;/*.c)&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 这里用到了 notdir 函数 除去路径函数&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 SFILENDIR := start.S&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 CFILENDIR := main.c bsp_clk.c bsp_led.c bsp_delay.c&lt;/span&gt;&lt;br&gt;SFILENDIR 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;notdir&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(SFILES)&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;CFILENDIR 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;notdir&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(CFILES)&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 SOBJS := obj/start.o&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 COBJS := obj/main.o obj/bsp_clk.o obj/bsp_led.o obj/bsp_delay.o&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 OBJS  := obj/start.o obj/main.o obj/bsp_clk.o obj/bsp_led.o obj/bsp_delay.o&lt;/span&gt;&lt;br&gt;SOBJS 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;patsubst&lt;/span&gt; %, obj/%, $(SFILENDIR:.S=.o)&lt;/span&gt;)&lt;br&gt;COBJS 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;patsubst&lt;/span&gt; %, obj/%, $(CFILENDIR:.c=.o)&lt;/span&gt;)&lt;br&gt;OBJS 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(SOBJS)&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(COBJS)&lt;/span&gt;&lt;br&gt;&lt;br&gt;VPATH 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(SRCDIRS)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;.PHONY&lt;/span&gt;: clean&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.bin : &lt;span class=&#34;hljs-variable&#34;&gt;$(OBJS)&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(LD)&lt;/span&gt; -Timx6ul.lds -o &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$^&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(OBJCOPY)&lt;/span&gt; -O binary -S &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(OBJDUMP)&lt;/span&gt; -D -m arm &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.elf &amp;gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.dis&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(SOBJS)&lt;/span&gt; : obj/%.o : %.S&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(CC)&lt;/span&gt; -Wall -nostdlib -c -O2 &lt;span class=&#34;hljs-variable&#34;&gt;$(INCLUDE)&lt;/span&gt; -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(COBJS)&lt;/span&gt; : obj/%.o : %.c&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(CC)&lt;/span&gt; -Wall -nostdlib -c -O2 &lt;span class=&#34;hljs-variable&#34;&gt;$(INCLUDE)&lt;/span&gt; -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;clean:&lt;/span&gt;&lt;br&gt;	rm -rf &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.dis &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.bin &lt;span class=&#34;hljs-variable&#34;&gt;$(COBJS)&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(SOBJS)&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2020/d4436089/</guid>
+            <title>Linux 杂乱学习笔记</title>
+            <link>https://www.oikiou.top/2020/d4436089/</link>
+            <category>linux</category>
+            <pubDate>Thu, 29 Oct 2020 13:12:15 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a href=&#34;#前言&#34; class=&#34;headerlink&#34; title=&#34;前言&#34;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;Uboot、根文件系统、Linux&lt;/li&gt;
 &lt;li&gt;Linux驱动分为三大类，字符设备驱动、块设备驱动、网络设备驱动&lt;/li&gt;
@@ -747,7 +1172,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;  &lt;strong&gt;用户名：密码：UID（用户ID）：GID（组ID）：描述性信息：主目录：默认Shell&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/63d0f703918fa0ece0691081209759ee3c6ddb94.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/63d0f703918fa0ece0691081209759ee3c6ddb94.jpg&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;  读者可能会问，Linux 系统中默认怎么会有这么多的用户？这些用户中的绝大多数是系统或服务正常运行所必需的用户，这种用户通常称为系统用户或伪用户。系统用户无法用来登录系统，但也不能删除，因为一旦删除，依赖这些用户运行的服务或程序就不能正常执行，会导致系统问题。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1070,16 +1495,16 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/123.png&#34; alt=&#34;操作系统：文件系统- 掘金&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/123.png&#34; alt=&#34;操作系统：文件系统- 掘金&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;  &lt;strong&gt;弊端&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;  该存储结构带来的问题是对于大型文件，我们需要多次调用才可以访问对应块的内容，因此访问速度较慢。为此，&lt;strong&gt;ext4&lt;/strong&gt;提出了新的解决方案：&lt;a href=&#34;https://en.wikipedia.org/wiki/Extent_(file_systems)&#34;&gt;Extents&lt;/a&gt;。简单的说，&lt;strong&gt;Extents以一个树形结构来连续存储文件块，从而提高访问速度，大致结构如下图所示。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;  &lt;img src=&#34;/2021/undefined/1-s2.0-S1742287617300270-gr2.jpg&#34; alt=&#34;AFEIC: Advanced forensic Ext4 inode carving - ScienceDirect&#34;&gt;&lt;/p&gt;
+&lt;p&gt;  &lt;img src=&#34;/2020/d4436089/1-s2.0-S1742287617300270-gr2.jpg&#34; alt=&#34;AFEIC: Advanced forensic Ext4 inode carving - ScienceDirect&#34;&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;  &lt;strong&gt;冷知识:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;  同一个文件在磁盘上的物理位置可能不会是连续的, 大概率都是分散开的, 散落在磁盘的各个位置.&lt;/p&gt;
-&lt;p&gt;  &lt;img src=&#34;/2021/undefined/image-20230107231700676.png&#34; alt=&#34;image-20230107231700676&#34;&gt;&lt;/p&gt;
+&lt;p&gt;  &lt;img src=&#34;/2020/d4436089/image-20230107231700676.png&#34; alt=&#34;image-20230107231700676&#34;&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;使用&#34;&gt;&lt;a href=&#34;#使用&#34; class=&#34;headerlink&#34; title=&#34;使用&#34;&gt;&lt;/a&gt;使用&lt;/h3&gt;&lt;h4 id=&#34;df&#34;&gt;&lt;a href=&#34;#df&#34; class=&#34;headerlink&#34; title=&#34;df&#34;&gt;&lt;/a&gt;df&lt;/h4&gt;&lt;p&gt;我们可以通过&lt;code&gt;df&lt;/code&gt;命令查看所有已挂载的文件系统中已使用的 inode 的数目，以及文件系统中总体使用情况的百分比。&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;❯ df -i&lt;br&gt;Filesystem       Inodes   IUsed    IFree IUse% Mounted on&lt;br&gt;/dev/sdc       67108864  556871 66551993    1% /&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -1092,9 +1517,9 @@
 
 &lt;h2 id=&#34;硬链接-和-软连接-符号链接&#34;&gt;&lt;a href=&#34;#硬链接-和-软连接-符号链接&#34; class=&#34;headerlink&#34; title=&#34;硬链接 和 软连接(符号链接)&#34;&gt;&lt;/a&gt;硬链接 和 软连接(符号链接)&lt;/h2&gt;&lt;p&gt;参考:&lt;a href=&#34;https://www.cnblogs.com/Peter2014/p/7594504.html&#34;&gt;Linux硬链接和软连接的区别与总结&lt;/a&gt;,&lt;a href=&#34;https://www.cnblogs.com/sanjun/p/9971993.html&#34;&gt;硬链接和软连接（符号链接）的区别&lt;/a&gt;,&lt;a href=&#34;https://www.zhihu.com/question/443459832/answer/1723706381&#34;&gt;linux中软链接和硬链接是什么意思？&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;硬链接（Hard Link） 和软链接（Symbolic Link）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/1192583-20170925225909964-1496152149.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/1192583-20170925225909964-1496152149.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;硬链接（Hard-Link）&#34;&gt;&lt;a href=&#34;#硬链接（Hard-Link）&#34; class=&#34;headerlink&#34; title=&#34;硬链接（Hard Link）&#34;&gt;&lt;/a&gt;硬链接（Hard Link）&lt;/h3&gt;&lt;p&gt;硬链接是多个目录项中的「索引节点」指向一个文件，也就是&lt;strong&gt;指向同一个 inode&lt;/strong&gt;，但是 inode 是不可能跨越文件系统的，每个文件系统都有各自的 inode 数据结构和列表，所以硬链接是不可用于跨文件系统的。由于多个目录项都是指向一个 inode，那么只有删除文件的所有硬链接以及源文件时，系统才会彻底删除该文件。 &lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/v2-7cf8cec396a66dca2dd1fcd6dadab537_720w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/v2-7cf8cec396a66dca2dd1fcd6dadab537_720w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;h3 id=&#34;有关硬链接的总结&#34;&gt;&lt;a href=&#34;#有关硬链接的总结&#34; class=&#34;headerlink&#34; title=&#34;有关硬链接的总结&#34;&gt;&lt;/a&gt;有关硬链接的总结&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;不可以在不同文件系统的文件间建立链接&lt;/strong&gt;(Inode范围问题)&lt;/li&gt;
@@ -1109,7 +1534,7 @@
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;软链接（Symbolic-Link）&#34;&gt;&lt;a href=&#34;#软链接（Symbolic-Link）&#34; class=&#34;headerlink&#34; title=&#34;软链接（Symbolic Link）&#34;&gt;&lt;/a&gt;软链接（Symbolic Link）&lt;/h3&gt;&lt;p&gt;软链接相当于重新创建一个文件，这个文件&lt;strong&gt;有独立的 inode&lt;/strong&gt;，但是这个&lt;strong&gt;文件的内容是另外一个文件的路径&lt;/strong&gt;，所以访问软链接的时候，&lt;strong&gt;实际上相当于访问到了另外一个文件&lt;/strong&gt;，所以软链接是可以跨文件系统的，甚至目标文件被删除了，链接文件还是在的，只不过指向的文件找不到了而已。 &lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/v2-5606413e1b5d2c727399711d347617a2_720w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/v2-5606413e1b5d2c727399711d347617a2_720w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;h3 id=&#34;有关软链接的总结&#34;&gt;&lt;a href=&#34;#有关软链接的总结&#34; class=&#34;headerlink&#34; title=&#34;有关软链接的总结&#34;&gt;&lt;/a&gt;有关软链接的总结&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;软链接类似windows系统的快捷方式；&lt;/li&gt;
@@ -2115,7 +2540,7 @@
 &lt;p&gt;在 12 月内, 每天的早上 6 点到 12 点，每隔 3 个小时 0 分钟执行一次 &amp;#x2F;usr&amp;#x2F;bin&amp;#x2F;backup：&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;0 6-12/3 * 12 * /usr/bin/backup&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;周一到周五每天下午 5:00 寄一封信给 &lt;a href=&#34;mailto:&amp;#97;&amp;#x6c;&amp;#101;&amp;#x78;&amp;#x40;&amp;#100;&amp;#x6f;&amp;#x6d;&amp;#97;&amp;#105;&amp;#110;&amp;#46;&amp;#110;&amp;#x61;&amp;#x6d;&amp;#x65;&#34;&gt;&amp;#97;&amp;#x6c;&amp;#101;&amp;#x78;&amp;#x40;&amp;#100;&amp;#x6f;&amp;#x6d;&amp;#97;&amp;#105;&amp;#110;&amp;#46;&amp;#110;&amp;#x61;&amp;#x6d;&amp;#x65;&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;周一到周五每天下午 5:00 寄一封信给 &lt;a href=&#34;mailto:&amp;#97;&amp;#x6c;&amp;#101;&amp;#120;&amp;#x40;&amp;#100;&amp;#x6f;&amp;#109;&amp;#97;&amp;#105;&amp;#x6e;&amp;#x2e;&amp;#x6e;&amp;#x61;&amp;#109;&amp;#101;&#34;&gt;&amp;#97;&amp;#x6c;&amp;#101;&amp;#120;&amp;#x40;&amp;#100;&amp;#x6f;&amp;#109;&amp;#97;&amp;#105;&amp;#x6e;&amp;#x2e;&amp;#x6e;&amp;#x61;&amp;#109;&amp;#101;&lt;/a&gt;：&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;0 17 * * 1-5 mail -s &amp;quot;hi&amp;quot; alex@domain.name &amp;lt; /tmp/maildata&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;每月每天的午夜 0 点 20 分, 2 点 20 分, 4 点 20 分….执行 echo “haha”：&lt;/p&gt;
@@ -2217,7 +2642,7 @@
 &lt;p&gt;执行命令：&lt;code&gt;vi /etc/init.d/zerotier&lt;/code&gt;，在“add_join() {”上方插入两行代码：&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;mkdir&lt;/span&gt; -p &lt;span class=&#34;hljs-variable&#34;&gt;$CONFIG_PATH&lt;/span&gt;/moons.d&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;cp&lt;/span&gt; /home/moons.d/* &lt;span class=&#34;hljs-variable&#34;&gt;$CONFIG_PATH&lt;/span&gt;/moons.d/&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/5e3e5278d08a31313.png_e1080.jpg&#34; alt=&#34;修改OpenWrt中ZeroTier的启动脚本&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/5e3e5278d08a31313.png_e1080.jpg&#34; alt=&#34;修改OpenWrt中ZeroTier的启动脚本&#34;&gt;&lt;/p&gt;
 &lt;p&gt;脚本修改完成后，在&amp;#x2F;home目录下新建一个moons.d文件夹，将000000xxxx.moon文件上传到该文件夹，在Web页面上重启ZeroTier即可。&lt;/p&gt;
 &lt;h2 id=&#34;添加sudo管理员权限&#34;&gt;&lt;a href=&#34;#添加sudo管理员权限&#34; class=&#34;headerlink&#34; title=&#34;添加sudo管理员权限&#34;&gt;&lt;/a&gt;添加sudo管理员权限&lt;/h2&gt;&lt;p&gt;1.切换到root用户下&lt;br&gt;2.添加sudo文件的写权限,命令是:&lt;/p&gt;
 &lt;p&gt;sudo chmod u+w &amp;#x2F;etc&amp;#x2F;sudoers&lt;br&gt;3.编辑sudoers文件&lt;/p&gt;
@@ -2486,7 +2911,7 @@
 &lt;h2 id=&#34;查看支持的shell&#34;&gt;&lt;a href=&#34;#查看支持的shell&#34; class=&#34;headerlink&#34; title=&#34;查看支持的shell&#34;&gt;&lt;/a&gt;查看支持的shell&lt;/h2&gt;&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;cat &lt;span class=&#34;hljs-regexp&#34;&gt;/etc/&lt;/span&gt;shells&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;uninx-资源管理器&#34;&gt;&lt;a href=&#34;#uninx-资源管理器&#34; class=&#34;headerlink&#34; title=&#34;uninx 资源管理器&#34;&gt;&lt;/a&gt;uninx 资源管理器&lt;/h2&gt;&lt;h3 id=&#34;Glances&#34;&gt;&lt;a href=&#34;#Glances&#34; class=&#34;headerlink&#34; title=&#34;Glances&#34;&gt;&lt;/a&gt;Glances&lt;/h3&gt;&lt;p&gt;适合运维、云端开发人员或命令行爱好者&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/webp.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/webp.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;安装：&lt;/p&gt;
 &lt;figure class=&#34;highlight ruby&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs ruby&#34;&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$ &lt;/span&gt;sudo pip3 install glances&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -2494,7 +2919,7 @@
 &lt;figure class=&#34;highlight ruby&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs ruby&#34;&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$ &lt;/span&gt;sudo glances&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;Sysmontask&#34;&gt;&lt;a href=&#34;#Sysmontask&#34; class=&#34;headerlink&#34; title=&#34;Sysmontask&#34;&gt;&lt;/a&gt;Sysmontask&lt;/h3&gt;&lt;p&gt;适合桌面端用户，界面仿照 &lt;code&gt;Win10&lt;/code&gt; 资源管理器，提供更多信息更直观&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/webp-16552860429952.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/webp-16552860429952.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;安装：&lt;/p&gt;
 &lt;figure class=&#34;highlight ruby&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs ruby&#34;&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$ &lt;/span&gt;sudo pip3 install sysmontask&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -2502,7 +2927,7 @@
 &lt;figure class=&#34;highlight ruby&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs ruby&#34;&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$ &lt;/span&gt;sudo sysmontask&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;bpytop&#34;&gt;&lt;a href=&#34;#bpytop&#34; class=&#34;headerlink&#34; title=&#34;bpytop&#34;&gt;&lt;/a&gt;bpytop&lt;/h3&gt;&lt;p&gt;github: &lt;a href=&#34;https://github.com/aristocratos/bpytop&#34;&gt;https://github.com/aristocratos/bpytop&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/main-16552870928465.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/main-16552870928465.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 安装&lt;/span&gt;&lt;br&gt;git &lt;span class=&#34;hljs-built_in&#34;&gt;clone&lt;/span&gt; https://github.com/aristocratos/bpytop.git&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;cd&lt;/span&gt; bpytop&lt;br&gt;sudo make install&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;清理RAM-Cache&#34;&gt;&lt;a href=&#34;#清理RAM-Cache&#34; class=&#34;headerlink&#34; title=&#34;清理RAM Cache&#34;&gt;&lt;/a&gt;清理RAM Cache&lt;/h2&gt;&lt;hr&gt;
@@ -2540,7 +2965,7 @@
 &lt;tbody&gt;&lt;tr&gt;
 &lt;td align=&#34;left&#34;&gt;http_proxy&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;为http变量设置代理；默认不填开头以http协议传输&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;10.0.0.51:8080 user:&lt;a href=&#34;mailto:&amp;#x70;&amp;#x61;&amp;#x73;&amp;#x73;&amp;#64;&amp;#49;&amp;#x30;&amp;#46;&amp;#x30;&amp;#46;&amp;#48;&amp;#x2e;&amp;#49;&amp;#x30;&#34;&gt;&amp;#x70;&amp;#x61;&amp;#x73;&amp;#x73;&amp;#64;&amp;#49;&amp;#x30;&amp;#46;&amp;#x30;&amp;#46;&amp;#48;&amp;#x2e;&amp;#49;&amp;#x30;&lt;/a&gt;:8080 socks4:&amp;#x2F;&amp;#x2F;10.0.0.51:1080 socks5:&amp;#x2F;&amp;#x2F;192.168.1.1:1080&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;10.0.0.51:8080 user:&lt;a href=&#34;mailto:&amp;#112;&amp;#97;&amp;#115;&amp;#x73;&amp;#64;&amp;#49;&amp;#48;&amp;#46;&amp;#48;&amp;#x2e;&amp;#48;&amp;#x2e;&amp;#49;&amp;#x30;&#34;&gt;&amp;#112;&amp;#97;&amp;#115;&amp;#x73;&amp;#64;&amp;#49;&amp;#48;&amp;#46;&amp;#48;&amp;#x2e;&amp;#48;&amp;#x2e;&amp;#49;&amp;#x30;&lt;/a&gt;:8080 socks4:&amp;#x2F;&amp;#x2F;10.0.0.51:1080 socks5:&amp;#x2F;&amp;#x2F;192.168.1.1:1080&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;left&#34;&gt;https_proxy&lt;/td&gt;
@@ -2776,34 +3201,34 @@
 
 &lt;h3 id=&#34;安全重启：&#34;&gt;&lt;a href=&#34;#安全重启：&#34; class=&#34;headerlink&#34; title=&#34;安全重启：&#34;&gt;&lt;/a&gt;安全重启：&lt;/h3&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;sudo reboot&lt;br&gt;shutdown -r now&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;h2 id=&#34;GPIO&#34;&gt;&lt;a href=&#34;#GPIO&#34; class=&#34;headerlink&#34; title=&#34;GPIO&#34;&gt;&lt;/a&gt;GPIO&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2021/undefined/GPIO1.png&#34; alt=&#34;GPIO1&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/image-20210801204738591.png&#34; alt=&#34;image-20210801204738591&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;GPIO&#34;&gt;&lt;a href=&#34;#GPIO&#34; class=&#34;headerlink&#34; title=&#34;GPIO&#34;&gt;&lt;/a&gt;GPIO&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2020/d4436089/GPIO1.png&#34; alt=&#34;GPIO1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/image-20210801204738591.png&#34; alt=&#34;image-20210801204738591&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;RaspberryPI-Note&#34;&gt;&lt;a href=&#34;#RaspberryPI-Note&#34; class=&#34;headerlink&#34; title=&#34;RaspberryPI Note&#34;&gt;&lt;/a&gt;RaspberryPI Note&lt;/h1&gt;&lt;h2 id=&#34;wiringPi-GPIO库&#34;&gt;&lt;a href=&#34;#wiringPi-GPIO库&#34; class=&#34;headerlink&#34; title=&#34;wiringPi GPIO库&#34;&gt;&lt;/a&gt;wiringPi GPIO库&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;cd /tmp&lt;br&gt;wget https://project-downloads.drogon.net/wiringpi-latest.deb&lt;br&gt;sudo dpkg -i wiringpi-latest.deb&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;查看GPIO编码&lt;/span&gt;&lt;br&gt;gpio readall&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;树莓派4b 需要版本大于2.52&lt;/span&gt;&lt;br&gt;gpio -v&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;shell操作&#34;&gt;&lt;a href=&#34;#shell操作&#34; class=&#34;headerlink&#34; title=&#34;shell操作&#34;&gt;&lt;/a&gt;shell操作&lt;/h3&gt;&lt;h4 id=&#34;创建&#34;&gt;&lt;a href=&#34;#创建&#34; class=&#34;headerlink&#34; title=&#34;创建&#34;&gt;&lt;/a&gt;创建&lt;/h4&gt;&lt;p&gt;进入&lt;code&gt;/sys/class/gpio/&lt;/code&gt;目录并查看文件&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;cd /sys/class/gpio/&lt;br&gt;ls&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/1889022-20200410121643886-1233996502.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/1889022-20200410121643886-1233996502.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;目录&lt;code&gt;export&lt;/code&gt;为创建，&lt;code&gt;unexport&lt;/code&gt;为删除&lt;/p&gt;
 &lt;p&gt;将gpio18重定向用户定义设备，生成gpio18目录&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;sudo echo 18 &amp;gt; export&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/1889022-20200410132825370-786913267.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/1889022-20200410132825370-786913267.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;进入&lt;code&gt;gpio18&lt;/code&gt;目录并查看文件&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/1889022-20200410134354086-537662427.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/1889022-20200410134354086-537662427.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;direction&lt;/code&gt;设置引脚方向，输入还是输出&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;value&lt;/code&gt;设置引脚状态，高电平还是低电平&lt;/p&gt;
 &lt;h4 id=&#34;输入状态&#34;&gt;&lt;a href=&#34;#输入状态&#34; class=&#34;headerlink&#34; title=&#34;输入状态&#34;&gt;&lt;/a&gt;输入状态&lt;/h4&gt;&lt;p&gt;设置引脚状态为输入状态&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;sudo echo in &amp;gt; direction&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/1889022-20200410134655161-2081521744.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/1889022-20200410134655161-2081521744.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;查看引脚高低电平&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;cat value &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h4 id=&#34;输出状态&#34;&gt;&lt;a href=&#34;#输出状态&#34; class=&#34;headerlink&#34; title=&#34;输出状态&#34;&gt;&lt;/a&gt;输出状态&lt;/h4&gt;&lt;p&gt;设置引脚状态为输出状态&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;sudo echo out &amp;gt; direction&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&#34;/2021/undefined/1889022-20200410134856417-744239525.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/d4436089/1889022-20200410134856417-744239525.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;设置输出高电平&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;sudo echo 1 &amp;gt; value&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -2840,430 +3265,6 @@
 &lt;p&gt;查找包含“&lt;code&gt;dtparam=i2c_arm=on&lt;/code&gt;”的行，添加“&lt;code&gt;i2c_arm_baudrate=400000&lt;/code&gt;”，其中&lt;code&gt;400000&lt;/code&gt;是新设置的速度(400kbit &amp;#x2F;s)，注意i2c前面的逗号。完整代码如下：&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;dtparam=i2c_arm=on,i2c_arm_baudrate=400000&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;这样可以启用I2C总线的同时，也完成了新波特率的设置。编辑完成后，使用CTRL-X，然后选择Y，保存文件并退出，&lt;strong&gt;并重新启动&lt;/strong&gt;。&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://www.oikiou.top/2021/9b4105ad/</guid>
-            <title>LinuxAlphaMini</title>
-            <link>https://www.oikiou.top/2021/9b4105ad/</link>
-            <category>linux</category>
-            <category>alpha_mini</category>
-            <category>正点原子</category>
-            <pubDate>Wed, 07 Jul 2021 14:46:15 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;汇编基础&#34;&gt;&lt;a href=&#34;#汇编基础&#34; class=&#34;headerlink&#34; title=&#34;汇编基础&#34;&gt;&lt;/a&gt;汇编基础&lt;/h1&gt;&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs css&#34;&gt;&lt;span class=&#34;hljs-selector-tag&#34;&gt;label&lt;/span&gt;： instruction @ comment &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;label 即标号&lt;/strong&gt;，表示地址位置，有些指令前面可能会有标号，这样就可以通过这个标号得到指令的地址，标号也可以用来表示数据地址。注意 label 后面的“：”，任何以“：”结尾的标识符都会被识别为一个标号。&lt;br&gt;&lt;strong&gt;instruction 即指令&lt;/strong&gt;，也就是汇编指令或伪指令。&lt;br&gt;&lt;strong&gt;@符号&lt;/strong&gt;，表示后面的是注释&lt;br&gt;&lt;strong&gt;comment&lt;/strong&gt; 就是注释内容。&lt;/p&gt;
-&lt;p&gt;例:&lt;/p&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;add:&lt;br&gt;MOVS R0, #0X12 @设置 R0=0X12&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;注意！ ARM 中的指令、伪指令、伪操作、寄存器名等可以全部使用大写，也可以全部使用小写，但是不能大小写混用。&lt;/strong&gt;  &lt;/p&gt;
-&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs jboss-cli&#34;&gt;&lt;span class=&#34;hljs-string&#34;&gt;.section&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;.testsection&lt;/span&gt; @定义一个 testsetcion 段 &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-&lt;li&gt;.text 表示代码段。  &lt;/li&gt;
-&lt;li&gt;.data 初始化的数据段。&lt;/li&gt;
-&lt;li&gt;.bss 未初始化的数据段。&lt;/li&gt;
-&lt;li&gt;.rodata 只读数据段。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;伪操作:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;.byte 定义单字节数据，比如.byte 0x12。&lt;/li&gt;
-&lt;li&gt;.short 定义双字节数据，比如.short 0x1234。&lt;/li&gt;
-&lt;li&gt;.long 定义一个 4 字节数据，比如.long 0x12345678。&lt;/li&gt;
-&lt;li&gt;.equ 赋值语句，格式为： .equ 变量名，表达式，比如.equ num, 0x12，表示 num&amp;#x3D;0x12。&lt;/li&gt;
-&lt;li&gt;.align 数据字节对齐，比如： .align 4 表示 4 字节对齐。&lt;/li&gt;
-&lt;li&gt;.end 表示源文件结束。&lt;/li&gt;
-&lt;li&gt;.global 定义一个全局符号，格式为： .global symbol，比如： .global _start(汇编程序的默认入口标号是_start  )。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;函数:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight makefile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs makefile&#34;&gt;&lt;span class=&#34;hljs-section&#34;&gt;函数名:&lt;/span&gt;&lt;br&gt;	函数体&lt;br&gt;	返回语句&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;/* SVC 中断 */&lt;br&gt;SVC_Handler:&lt;br&gt;    ldr r0, =SVC_Handler&lt;br&gt;    bx r0					@跳转&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 id=&#34;常用汇编指令&#34;&gt;&lt;a href=&#34;#常用汇编指令&#34; class=&#34;headerlink&#34; title=&#34;常用汇编指令&#34;&gt;&lt;/a&gt;常用汇编指令&lt;/h2&gt;&lt;h3 id=&#34;处理器内部数据传输指令-mov-mrs-msr&#34;&gt;&lt;a href=&#34;#处理器内部数据传输指令-mov-mrs-msr&#34; class=&#34;headerlink&#34; title=&#34;处理器内部数据传输指令 mov mrs msr&#34;&gt;&lt;/a&gt;处理器内部数据传输指令 mov mrs msr&lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;指令&lt;/th&gt;
-&lt;th&gt;目的&lt;/th&gt;
-&lt;th&gt;源&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;MOV&lt;/td&gt;
-&lt;td&gt;R0&lt;/td&gt;
-&lt;td&gt;R1&lt;/td&gt;
-&lt;td&gt;将 R1 里面的数据复制到 R0 中。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;MRS&lt;/td&gt;
-&lt;td&gt;R0&lt;/td&gt;
-&lt;td&gt;CPSR&lt;/td&gt;
-&lt;td&gt;将特殊寄存器 CPSR 里面的数据复制到 R0 中。&lt;br/&gt;&lt;strong&gt;(特殊寄存器只能由这个指令 读 )&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;MSR&lt;/td&gt;
-&lt;td&gt;CPSR&lt;/td&gt;
-&lt;td&gt;R1&lt;/td&gt;
-&lt;td&gt;将 R1 里面的数据复制到特殊寄存器 CPSR 里中。&lt;br/&gt;&lt;strong&gt;(特殊寄存器只能由这个指令 写 )&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;h3 id=&#34;存储器访问指令-ldr-str&#34;&gt;&lt;a href=&#34;#存储器访问指令-ldr-str&#34; class=&#34;headerlink&#34; title=&#34;存储器访问指令 ldr str&#34;&gt;&lt;/a&gt;存储器访问指令 ldr str&lt;/h3&gt;&lt;p&gt;I.MX6UL中的RAM,寄存器都需要这个指令访问。&lt;/p&gt;
-&lt;p&gt;LDR和STR是按照字进行读取和写入的，LDRB和STRB是按字节，LDRH和STRH是按半字操作。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;指令&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;LDR Rd, [Rn , #offset]&lt;/td&gt;
-&lt;td&gt;从存储器 Rn+offset 的位置读取数据存放到 Rd 中。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;STR Rd, [Rn, #offset]&lt;/td&gt;
-&lt;td&gt;将 Rd 中的数据写入到存储器中的 Rn+offset 位置。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;h4 id=&#34;LDR&#34;&gt;&lt;a href=&#34;#LDR&#34; class=&#34;headerlink&#34; title=&#34;LDR&#34;&gt;&lt;/a&gt;LDR&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;读取寄存器值&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;加载立即数到寄存器&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;@加载立即数&lt;br&gt;LDR R0, =0X0209C004 @将寄存器地址 0X0209C004 加载到 R0 中，即 R0=0X0209C004&lt;br&gt;@读取寄存器值&lt;br&gt;LDR R1, [R0] @读取地址 0X0209C004 中的数据到 R1 寄存器中&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;h4 id=&#34;STR&#34;&gt;&lt;a href=&#34;#STR&#34; class=&#34;headerlink&#34; title=&#34;STR&#34;&gt;&lt;/a&gt;STR&lt;/h4&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;LDR R0, =0X0209C004 @将寄存器地址 0X0209C004 加载到 R0 中，即 R0=0X0209C004&lt;br&gt;LDR R1, =0X12345678 @R1 保存要写入到寄存器的值，即 R1=0X12345678&lt;br&gt;STR R1, [R0] @将 R1 中的值写入到 R0 中的地址上&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
-&lt;h3 id=&#34;压栈出栈指令-push-pop&#34;&gt;&lt;a href=&#34;#压栈出栈指令-push-pop&#34; class=&#34;headerlink&#34; title=&#34;压栈出栈指令 push pop&#34;&gt;&lt;/a&gt;压栈出栈指令 push pop&lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;指令&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;PUSH &amp;lt;reg list&amp;gt;&lt;/td&gt;
-&lt;td&gt;将寄存器列表存入栈中。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;POP &amp;lt;reg list&amp;gt;&lt;/td&gt;
-&lt;td&gt;从栈中恢复寄存器列表。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;@处理器的堆栈是向下增长的 见下图&lt;br&gt;PUSH &amp;#123;R0~R3, R12&amp;#125; @将 R0~R3 和 R12 压栈&lt;br&gt;PUSH &amp;#123;LR&amp;#125; @将 LR 进行压栈&lt;br&gt;&lt;br&gt;POP &amp;#123;LR&amp;#125; @先恢复 LR&lt;br&gt;POP &amp;#123;R0~R3,R12&amp;#125; @在恢复 R0~R3,R12&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&#34;/2021/9b4105ad/image-20210707144653945.png&#34; alt=&#34;image-20210707144653945&#34;&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;@这个和上面的是等同的&lt;br&gt;STMFD SP!,&amp;#123;R0~R3, R12&amp;#125; @R0~R3,R12 入栈&lt;br&gt;STMFD SP!,&amp;#123;LR&amp;#125; @LR 入栈&lt;br&gt;&lt;br&gt;LDMFD SP!, &amp;#123;LR&amp;#125; @先恢复 LR&lt;br&gt;LDMFD SP!, &amp;#123;R0~R3, R12&amp;#125; @再恢复 R0~R3, R12&lt;br&gt;&lt;br&gt;&lt;br&gt;LDMFD = LDM + FD&lt;br&gt;STMFD = STM + FD&lt;br&gt;LDM(多个) -&amp;gt; LDR(单个)&lt;br&gt;STM(多个) -&amp;gt; STR(单个)&lt;br&gt;FD = Full Descending 即满递减的意思(根据 ATPCS 规则,ARM 使用的 FD 类型的堆栈， SP 指向最后一个入栈的数值，堆栈是由高地址向下增长的，也就是前面说的向下增长的堆栈，)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
-&lt;h3 id=&#34;跳转指令-b-bx-bl-blx&#34;&gt;&lt;a href=&#34;#跳转指令-b-bx-bl-blx&#34; class=&#34;headerlink&#34; title=&#34;跳转指令 b bx bl blx&#34;&gt;&lt;/a&gt;跳转指令 b bx bl blx&lt;/h3&gt;&lt;p&gt;跳转操作的方法  &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;直接使用跳转指令 B、 BL、 BX 等&lt;/li&gt;
-&lt;li&gt;直接向 PC 寄存器里面写入数据。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;指令&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;B &amp;lt;label&amp;gt;&lt;/td&gt;
-&lt;td&gt;跳转到 label，如果跳转范围超过了+&amp;#x2F;-2KB，&lt;br/&gt;可以指定 B.W &amp;lt;label&amp;gt;使用 32 位版本的跳转指令， 这样可以得到较大范围的 跳转&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;BX &amp;lt;Rm&amp;gt;&lt;/td&gt;
-&lt;td&gt;间接跳转，跳转到存放于 Rm 中的地址处，并且切换指令集&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;BL &amp;lt;label&amp;gt;&lt;/td&gt;
-&lt;td&gt;跳转到标号地址，并将返回地址保存在 LR 中。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;BLX &amp;lt;Rm&amp;gt;&lt;/td&gt;
-&lt;td&gt;结合 BX 和 BL 的特点，跳转到 Rm 指定的地址，并将返回地 址保存在 LR 中，切换指令集。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;h4 id=&#34;B指令&#34;&gt;&lt;a href=&#34;#B指令&#34; class=&#34;headerlink&#34; title=&#34;B指令&#34;&gt;&lt;/a&gt;B指令&lt;/h4&gt;&lt;p&gt;这是最简单的跳转指令， B 指令会将 PC 寄存器的值设置为跳转目标地址， 一旦执行 B 指令， ARM 处理器就会立即跳转到指定的目标地址。&lt;/p&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;_start:&lt;br&gt;    ldr sp,=0X80200000 @设置栈指针&lt;br&gt;    b main @跳转到 main 函数&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;上述代码就是典型的在汇编中初始化 C 运行环境，然后跳转到 C 文件的 main 函数中运行 ，上述代码只是初始化了 SP 指针，有些处理器还需要做其他的初始化，比如初始化 DDR 等等。因为跳转到 C 文件以后再也不会回到汇编了，所以在第 4 行使用了 B 指令来完成跳转  。&lt;/p&gt;
-&lt;h4 id=&#34;BL指令&#34;&gt;&lt;a href=&#34;#BL指令&#34; class=&#34;headerlink&#34; title=&#34;BL指令&#34;&gt;&lt;/a&gt;BL指令&lt;/h4&gt;&lt;p&gt;BL 指令相比 B 指令，在跳转之前会在寄存器 LR(R14)中保存当前 PC 寄存器值，所以可以通过将 LR 寄存器中的值重新加载到 PC 中来继续从跳转之前的代码处运行，这是子程序调用一个基本但常用的手段。  &lt;/p&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;push &amp;#123;r0, r1&amp;#125; 			@保存 r0,r1&lt;br&gt;cps #0x13 				@进入 SVC 模式，允许其他中断再次进去&lt;br&gt;&lt;br&gt;bl system_irqhandler	@加载 C 语言中断处理函数到 r2 寄存器中&lt;br&gt;&lt;br&gt;cps #0x12 				@进入 IRQ 模式&lt;br&gt;pop &amp;#123;r0, r1&amp;#125;&lt;br&gt;str r0, [r1, #0X10] 	@中断执行完成，写 EOIR&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;上述代码中第 5 行就是执行 C 语言版的中断处理函数，当处理完成以后是需要返回来继续执行下面的程序，所以使用了 BL 指令。  &lt;/p&gt;
-&lt;h3 id=&#34;算术运算指令&#34;&gt;&lt;a href=&#34;#算术运算指令&#34; class=&#34;headerlink&#34; title=&#34;算术运算指令&#34;&gt;&lt;/a&gt;算术运算指令&lt;/h3&gt;&lt;p&gt;汇编中也可以进行算术运算， 比如加减乘除，常用的运算指令用法如表 7.2.5.1 所示：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;指令&lt;/th&gt;
-&lt;th&gt;计算公式&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;ADD Rd, Rn, Rm&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn + Rm&lt;/td&gt;
-&lt;td&gt;加法运算，指令为 ADD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ADD Rd, Rn, #immed&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn + #immed&lt;/td&gt;
-&lt;td&gt;加法运算，指令为 ADD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ADC Rd, Rn, Rm&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn + Rm + 进位&lt;/td&gt;
-&lt;td&gt;带进位的加法运算，指令为 ADC&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ADC Rd, Rn, #immed&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn + #immed +进位&lt;/td&gt;
-&lt;td&gt;带进位的加法运算，指令为 ADC&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SUB Rd, Rn, Rm&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn – Rm&lt;/td&gt;
-&lt;td&gt;减法&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SUB Rd, #immed&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rd - #immed&lt;/td&gt;
-&lt;td&gt;减法&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SUB Rd, Rn, #immed&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn - #immed&lt;/td&gt;
-&lt;td&gt;减法&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SBC Rd, Rn, #immed&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn - #immed – 借位&lt;/td&gt;
-&lt;td&gt;带借位的减法&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SBC Rd, Rn ,Rm&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn – Rm – 借位&lt;/td&gt;
-&lt;td&gt;带借位的减法&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;MUL Rd, Rn, Rm&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn * Rm&lt;/td&gt;
-&lt;td&gt;乘法(32 位)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;UDIV Rd, Rn, Rm&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn &amp;#x2F; Rm&lt;/td&gt;
-&lt;td&gt;无符号除法&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SDIV Rd, Rn, Rm&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn &amp;#x2F; Rm&lt;/td&gt;
-&lt;td&gt;有符号除法&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;h3 id=&#34;逻辑运算指令&#34;&gt;&lt;a href=&#34;#逻辑运算指令&#34; class=&#34;headerlink&#34; title=&#34;逻辑运算指令&#34;&gt;&lt;/a&gt;逻辑运算指令&lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;指令&lt;/th&gt;
-&lt;th&gt;计算公式&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;AND Rd, Rn&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rd &amp;amp;Rn&lt;/td&gt;
-&lt;td&gt;按位与&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;AND Rd, Rn, #immed&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn &amp;amp;#immed&lt;/td&gt;
-&lt;td&gt;按位与&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;AND Rd, Rn, Rm&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn &amp;amp; Rm&lt;/td&gt;
-&lt;td&gt;按位与&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ORR Rd, Rn&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rd | Rn&lt;/td&gt;
-&lt;td&gt;按位或&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ORR Rd, Rn, #immed&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn | #immed&lt;/td&gt;
-&lt;td&gt;按位或&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ORR Rd, Rn, Rm&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn | Rm&lt;/td&gt;
-&lt;td&gt;按位或&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;BIC Rd, Rn&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rd &amp;amp; (~Rn)&lt;/td&gt;
-&lt;td&gt;位清除&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;BIC Rd, Rn, #immed&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn &amp;amp; (~#immed)&lt;/td&gt;
-&lt;td&gt;位清除&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;BIC Rd, Rn , Rm&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn &amp;amp; (~Rm)&lt;/td&gt;
-&lt;td&gt;位清除&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ORN Rd, Rn, #immed&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn | (#immed)&lt;/td&gt;
-&lt;td&gt;按位或非&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ORN Rd, Rn, Rm&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn | (Rm)&lt;/td&gt;
-&lt;td&gt;按位或非&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;EOR Rd, Rn&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rd ^ Rn&lt;/td&gt;
-&lt;td&gt;按位异或&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;EOR Rd, Rn, #immed&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn ^ #immed&lt;/td&gt;
-&lt;td&gt;按位异或&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;EOR Rd, Rn, Rm&lt;/td&gt;
-&lt;td&gt;Rd &amp;#x3D; Rn ^ Rm&lt;/td&gt;
-&lt;td&gt;按位异或&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;h1 id=&#34;启动方式&#34;&gt;&lt;a href=&#34;#启动方式&#34; class=&#34;headerlink&#34; title=&#34;启动方式&#34;&gt;&lt;/a&gt;启动方式&lt;/h1&gt;&lt;h2 id=&#34;BOOT&#34;&gt;&lt;a href=&#34;#BOOT&#34; class=&#34;headerlink&#34; title=&#34;BOOT&#34;&gt;&lt;/a&gt;BOOT&lt;/h2&gt;&lt;p&gt;OOT_MODE[1:0]的值是可以改变的，有两种方式，一种是改写 eFUSE(熔丝)，一种是修改相应的 GPIO 高低电平。  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;BOOT_MODE1 和 BOOT_MODE0 在芯片内部是有 100KΩ下拉电阻的 ，所以默认是0。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;BOOT_MODE[1:0]&lt;/th&gt;
-&lt;th&gt;BOOT 类型&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;00&lt;/td&gt;
-&lt;td&gt;从 FUSE 启动&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;01&lt;/td&gt;
-&lt;td&gt;串行下载&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;内部 BOOT 模式&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11&lt;/td&gt;
-&lt;td&gt;保留&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;h3 id=&#34;串行下载&#34;&gt;&lt;a href=&#34;#串行下载&#34; class=&#34;headerlink&#34; title=&#34;串行下载&#34;&gt;&lt;/a&gt;串行下载&lt;/h3&gt;&lt;p&gt;串行下载的意思就是可以通过 USB 或者 UART 将代码下载到板子上的外置存储设备中，我们可以使用 OTG1 这个 USB口向开发板上的 SD&amp;#x2F;EMMC、 NAND 等存储设备下载代码。  &lt;/p&gt;
-&lt;h3 id=&#34;内部-BOOT-模式&#34;&gt;&lt;a href=&#34;#内部-BOOT-模式&#34; class=&#34;headerlink&#34; title=&#34;内部 BOOT 模式&#34;&gt;&lt;/a&gt;内部 BOOT 模式&lt;/h3&gt;&lt;p&gt;芯片会执行内部的 boot ROM 代码，代码会进行硬件初始化(一部分外设)，然后从 boot 设备(就是存放代码的设备、比如 SD&amp;#x2F;EMMC、 NAND)中&lt;strong&gt;将代码拷贝出来复制到指定的 RAM 中，一般是 DDR。&lt;/strong&gt;  &lt;/p&gt;
-&lt;h2 id=&#34;BOOT模式-启动设备&#34;&gt;&lt;a href=&#34;#BOOT模式-启动设备&#34; class=&#34;headerlink&#34; title=&#34;BOOT模式 启动设备&#34;&gt;&lt;/a&gt;BOOT模式 启动设备&lt;/h2&gt;&lt;p&gt;当 BOOT_MODE 设置为内部 BOOT 模式以后，可以从以下设备中启动：&lt;br&gt;①、接到 EIM 接口的 CS0 上的 16 位 NOR Flash。&lt;br&gt;②、接到 EIM 接口的 CS0 上的 OneNAND Flash。&lt;br&gt;③、接到 GPMI 接口上的 MLC&amp;#x2F;SLC NAND Flash， NAND Flash 页大小支持 2KByte、 4KByte和 8KByte， 8 位宽。&lt;br&gt;④、 Quad SPI Flash。&lt;br&gt;⑤、接到 USDHC 接口上的 SD&amp;#x2F;MMC&amp;#x2F;eSD&amp;#x2F;SDXC&amp;#x2F;eMMC 等设备。&lt;br&gt;⑥、 SPI 接口的 EEPROM。  &lt;/p&gt;
-&lt;p&gt;启动设备是通过  BOOT_CFG1[7:0]、 BOOT_CFG2[7:0]和 BOOT_CFG4[7:0]这 24 个配置 IO配置，这 24 个配置 IO 刚好对应着 LCD 的 24 根数据线 LCD_DATA0~LCDDATA23，&lt;strong&gt;当启动完成以后这 24 个 IO 就可以作为 LCD 的数据线使用。&lt;/strong&gt;  &lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;boot1&lt;/th&gt;
-&lt;th&gt;boot0&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;启动设备&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;x&lt;/td&gt;
-&lt;td&gt;x&lt;/td&gt;
-&lt;td&gt;x&lt;/td&gt;
-&lt;td&gt;x&lt;/td&gt;
-&lt;td&gt;x&lt;/td&gt;
-&lt;td&gt;x&lt;/td&gt;
-&lt;td&gt;串行下载，可以通过 USB 烧写镜像文件。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;SD 卡启动。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;EMMC 启动。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;NAND FLASH 启动。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;h2 id=&#34;烧写镜像&#34;&gt;&lt;a href=&#34;#烧写镜像&#34; class=&#34;headerlink&#34; title=&#34;烧写镜像&#34;&gt;&lt;/a&gt;烧写镜像&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;imxdownload 会在 led.bin前面添加一些头信息，重新生成一个叫做 load.imx 的文件，头部信息包含以下&lt;/strong&gt;  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Image vector table，简称 IVT， IVT 里面包含了一系列的地址信息，这些地址信息在ROM 中按照固定的地址存放着。 &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Boot data，启动数据，包含了镜像要拷贝到哪个地址，拷贝的大小是多少等等。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Device configuration data，简称 DCD，设备配置信息，重点是 DDR3 的初始化配置。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;用户代码可执行文件，比如 led.bin。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;最终烧写到 I.MX6U 中的程序其组成为： IVT+Boot data+DCD+.bin 。(3KByte 的 IVT+Boot Data+DCD)&lt;/p&gt;
-&lt;p&gt;.bin是从0x87800000这个地方开始，往前推load.imx就是从0x877FF400开始的。&lt;/p&gt;
-&lt;h1 id=&#34;点灯&#34;&gt;&lt;a href=&#34;#点灯&#34; class=&#34;headerlink&#34; title=&#34;点灯&#34;&gt;&lt;/a&gt;点灯&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Makefile&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight makefile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs makefile&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 定义了一个变量 objs， objs 包含着要生成 ledc.bin 所需的材料： start.o 和 main.o&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 这里要注意 start.o 一定要放到最前面！因为在后面链接的时候 start.o 要在最前面，因为 start.o 是最先要执行的文件！&lt;/span&gt;&lt;br&gt;objs := start.o main.o&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 使用依赖文件(objs:=start.o main.o),生成目标可执行文件ledc.bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;ledc.bin:&lt;span class=&#34;hljs-variable&#34;&gt;$(objs)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# 使用编译器 arm-linux-gnueabihf-ld 进行连接,-Ttext指定起始地址是0X87800000&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# $^ 是所有依赖文件的集合,也就是变量objs的值(start.o main.o)&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# 展开等价 arm-linux-gnueabihf-ld -Ttext 0X87800000 -o ledc.elf start.o main.o&lt;/span&gt;&lt;br&gt;	arm-linux-gnueabihf-ld -Ttext 0X87800000 -o ledc.elf &lt;span class=&#34;hljs-variable&#34;&gt;$^&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# 将ledc.elf转换成ledc.bin文件&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# $@ 的意思是目标集合，在这里就是 ledc.bin&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# 展开等价 arm-linux-gnueabihf-objcopy -O binary -S ledc.elf ledc.bin&lt;/span&gt;&lt;br&gt;	arm-linux-gnueabihf-objcopy -O binary -S ledc.elf &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# 反汇编，生成 ledc.dis 文件&lt;/span&gt;&lt;br&gt;	arm-linux-gnueabihf-objdump -D -m arm ledc.elf &amp;gt; ledc.dis&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 下面规则展开等价 &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# start.o:start.s&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#	arm-linux-gnueabihf-gcc -Wall -nostdlib -c -O2 -o start.o start.s&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# %匹配任意字符&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;%.o:%.s&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# $@ 的意思是目标集合，在这里就是 %.o&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;# $&amp;lt; 所有依赖文件的集合，在这就是 %.s&lt;/span&gt;&lt;br&gt;	arm-linux-gnueabihf-gcc -Wall -nostdlib -c -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;%.o:%.S&lt;/span&gt;&lt;br&gt;	arm-linux-gnueabihf-gcc -Wall -nostdlib -c -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;%.o:%.c&lt;/span&gt;&lt;br&gt;	arm-linux-gnueabihf-gcc -Wall -nostdlib -c -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;clean:&lt;/span&gt;&lt;br&gt;	rm -rf *.o ledc.bin ledc.elf ledc.dis&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Makefile&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight makefile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs makefile&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 类似于上面的只是用到了变量&lt;/span&gt;&lt;br&gt;CROSS_COMPILE	?= arm-linux-gnueabihf-&lt;br&gt;NAME 			?= ledc&lt;br&gt;&lt;br&gt;CC 				:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;gcc&lt;br&gt;LD 				:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;ld&lt;br&gt;OBJCOPY 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;objcopy&lt;br&gt;OBJDUMP 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;objdump&lt;br&gt;OBJS 			:= start.o main.o&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.bin:&lt;span class=&#34;hljs-variable&#34;&gt;$(OBJS)&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(LD)&lt;/span&gt; -Timx6ul.lds -o &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$^&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(OBJCOPY)&lt;/span&gt; -O binary -S &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(OBJDUMP)&lt;/span&gt; -D -m arm &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.elf &amp;gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.dis&lt;br&gt;    &lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;%.o:%.s&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(CC)&lt;/span&gt; -Wall -nostdlib -c -O2 -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;%.o:%.S&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(CC)&lt;/span&gt; -Wall -nostdlib -c -O2 -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;%.o:%.c&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(CC)&lt;/span&gt; -Wall -nostdlib -c -O2 -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;	&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;clean:&lt;/span&gt;&lt;br&gt;	rm -rf *.o &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.bin &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$(NAME)&lt;/span&gt;.dis&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Makefile&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight makefile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs makefile&#34;&gt;CROSS_COMPILE	?= arm-linux-gnueabihf-&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 编译后 目标名&lt;/span&gt;&lt;br&gt;TARGET			?= bsp&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 编译器相关&lt;/span&gt;&lt;br&gt;CC				:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;gcc&lt;br&gt;LD				:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;ld&lt;br&gt;OBJCOPY			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;objcopy&lt;br&gt;OBJDUMP			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;objdump&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# include dir&lt;/span&gt;&lt;br&gt;INCDIRS			:=  imx6ul  \&lt;br&gt;					bsp/clk \&lt;br&gt;					bsp/led \&lt;br&gt;					bsp/delay&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# sourc dir&lt;/span&gt;&lt;br&gt;SRCDIRS 		:=  project \&lt;br&gt;					bsp/clk \&lt;br&gt;					bsp/led \&lt;br&gt;					bsp/delay&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 这里用到了 patsubst 函数 通过这个函数给 INCDIRS 前面加了一个 -I&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 INCLUDE := -I imx6ul -I bsp/clk -I bsp/led -I bsp/delay&lt;/span&gt;&lt;br&gt;INCLUDE 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;patsubst&lt;/span&gt; %, -I %, &lt;span class=&#34;hljs-variable&#34;&gt;$(INCDIRS)&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 这里用到了 foreach 和 wildcard 函数&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 SFILES := project/start.S&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 CFILES := project/main.c bsp/clk/bsp_clk.c bsp/led/bsp_led.c bsp/delay/bsp_delay.c&lt;/span&gt;&lt;br&gt;SFILES 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;foreach&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;dir&lt;/span&gt;, &lt;span class=&#34;hljs-variable&#34;&gt;$(SRCDIRS)&lt;/span&gt;, $(&lt;span class=&#34;hljs-built_in&#34;&gt;wildcard&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(dir)&lt;/span&gt;/*.S)&lt;/span&gt;)&lt;br&gt;CFILES 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;foreach&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;dir&lt;/span&gt;, &lt;span class=&#34;hljs-variable&#34;&gt;$(SRCDIRS)&lt;/span&gt;, $(&lt;span class=&#34;hljs-built_in&#34;&gt;wildcard&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(dir)&lt;/span&gt;/*.c)&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 这里用到了 notdir 函数 除去路径函数&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 SFILENDIR := start.S&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 CFILENDIR := main.c bsp_clk.c bsp_led.c bsp_delay.c&lt;/span&gt;&lt;br&gt;SFILENDIR 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;notdir&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(SFILES)&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;CFILENDIR 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;notdir&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(CFILES)&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 SOBJS := obj/start.o&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 COBJS := obj/main.o obj/bsp_clk.o obj/bsp_led.o obj/bsp_delay.o&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 OBJS  := obj/start.o obj/main.o obj/bsp_clk.o obj/bsp_led.o obj/bsp_delay.o&lt;/span&gt;&lt;br&gt;SOBJS 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;patsubst&lt;/span&gt; %, obj/%, $(SFILENDIR:.S=.o)&lt;/span&gt;)&lt;br&gt;COBJS 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;patsubst&lt;/span&gt; %, obj/%, $(CFILENDIR:.c=.o)&lt;/span&gt;)&lt;br&gt;OBJS 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(SOBJS)&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(COBJS)&lt;/span&gt;&lt;br&gt;&lt;br&gt;VPATH 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(SRCDIRS)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;.PHONY&lt;/span&gt;: clean&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.bin : &lt;span class=&#34;hljs-variable&#34;&gt;$(OBJS)&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(LD)&lt;/span&gt; -Timx6ul.lds -o &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$^&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(OBJCOPY)&lt;/span&gt; -O binary -S &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(OBJDUMP)&lt;/span&gt; -D -m arm &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.elf &amp;gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.dis&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(SOBJS)&lt;/span&gt; : obj/%.o : %.S&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(CC)&lt;/span&gt; -Wall -nostdlib -c -O2 &lt;span class=&#34;hljs-variable&#34;&gt;$(INCLUDE)&lt;/span&gt; -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(COBJS)&lt;/span&gt; : obj/%.o : %.c&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(CC)&lt;/span&gt; -Wall -nostdlib -c -O2 &lt;span class=&#34;hljs-variable&#34;&gt;$(INCLUDE)&lt;/span&gt; -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;clean:&lt;/span&gt;&lt;br&gt;	rm -rf &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.dis &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.bin &lt;span class=&#34;hljs-variable&#34;&gt;$(COBJS)&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(SOBJS)&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
  ]]></description>
         </item>
     </channel>
