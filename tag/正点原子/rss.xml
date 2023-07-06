@@ -7,146 +7,133 @@
         <language>zh-CN</language>
         <pubDate>Wed, 07 Jul 2021 14:46:15 +0800</pubDate>
         <lastBuildDate>Wed, 07 Jul 2021 14:46:15 +0800</lastBuildDate>
-        <category>embedded</category>
-        <category>note</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>ms-dos</category>
+        <category>pc</category>
+        <category>software</category>
         <category>windows</category>
-        <category>c</category>
-        <category>c/c++</category>
-        <category>pid</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>c++</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>cat_drive</category>
+        <category>linux</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>摄影</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>cad</category>
+        <category>embedded</category>
+        <category>stm32</category>
+        <category>note</category>
+        <category>synology</category>
+        <category>life</category>
+        <category>人生</category>
+        <category>蓝桥杯</category>
+        <category>心理学</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
+        <category>c/c++</category>
+        <category>workflow</category>
         <category>hex</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
+        <category>license</category>
+        <category>md5</category>
         <category>osi</category>
         <category>markdown</category>
-        <category>md5</category>
+        <category>iap</category>
+        <category>bootloader</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
-        <category>iap</category>
-        <category>bootloader</category>
-        <category>stm32</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
-        <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
         <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>driver</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>makefile</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
         <category>ip</category>
         <category>location</category>
         <category>api</category>
-        <category>机智云</category>
-        <category>android</category>
-        <category>mtp</category>
-        <category>pc</category>
-        <category>driver</category>
+        <category>zsh</category>
+        <category>shell</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
-        <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>超声波</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>ct117e-ex</category>
-        <category>zip</category>
-        <category>gzip</category>
-        <category>bzip</category>
-        <category>tar</category>
-        <category>life</category>
-        <category>workflow</category>
-        <category>人生</category>
         <category>github</category>
         <category>hosts</category>
-        <category>cad</category>
-        <category>心理学</category>
-        <category>cat_drive</category>
-        <category>hardware</category>
-        <category>lenovo</category>
-        <category>disk</category>
-        <category>switch</category>
-        <category>nintendo</category>
-        <category>game</category>
-        <category>software</category>
-        <category>synology</category>
+        <category>ct117e-ex</category>
+        <category>机智云</category>
+        <category>超声波</category>
+        <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
-        <category>摄影</category>
-        <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
         <category>spacedesk</category>
         <category>投屏</category>
         <category>vscode</category>
-        <category>flash</category>
-        <category>j-tag</category>
+        <category>ide</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
         <category>commenttranslate</category>
         <category>wsl</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>tmux</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>tmux</category>
         <category>unit</category>
         <category>m</category>
         <category>cm</category>
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>cortex-a7</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -155,22 +142,44 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>cortex-m3</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>git</category>
+        <category>pid</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
-        <category>modbus</category>
         <category>ucos</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
         <category>raspberry</category>
-        <category>wiringpi</category>
-        <category>pwm</category>
-        <category>rt-thread</category>
         <category>ap</category>
         <category>wifi</category>
+        <category>rt-thread</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>modbus</category>
+        <category>zlib</category>
+        <category>minizip</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2021/9b4105ad/</guid>
             <title>LinuxAlphaMini</title>
@@ -179,7 +188,7 @@
             <category>alpha_mini</category>
             <category>正点原子</category>
             <pubDate>Wed, 07 Jul 2021 14:46:15 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;汇编基础&#34;&gt;&lt;a href=&#34;#汇编基础&#34; class=&#34;headerlink&#34; title=&#34;汇编基础&#34;&gt;&lt;/a&gt;汇编基础&lt;/h1&gt;&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs css&#34;&gt;&lt;span class=&#34;hljs-selector-tag&#34;&gt;label&lt;/span&gt;： instruction @ comment &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;开发环境搭建&#34;&gt;&lt;a href=&#34;#开发环境搭建&#34; class=&#34;headerlink&#34; title=&#34;开发环境搭建&#34;&gt;&lt;/a&gt;开发环境搭建&lt;/h1&gt;&lt;h2 id=&#34;Ubuntu-交叉编译工具链安装&#34;&gt;&lt;a href=&#34;#Ubuntu-交叉编译工具链安装&#34; class=&#34;headerlink&#34; title=&#34;Ubuntu 交叉编译工具链安装&#34;&gt;&lt;/a&gt;Ubuntu 交叉编译工具链安装&lt;/h2&gt;&lt;h1 id=&#34;Cortex-A7-MPCore架构&#34;&gt;&lt;a href=&#34;#Cortex-A7-MPCore架构&#34; class=&#34;headerlink&#34; title=&#34;Cortex-A7 MPCore架构&#34;&gt;&lt;/a&gt;Cortex-A7 MPCore架构&lt;/h1&gt;&lt;h1 id=&#34;汇编基础&#34;&gt;&lt;a href=&#34;#汇编基础&#34; class=&#34;headerlink&#34; title=&#34;汇编基础&#34;&gt;&lt;/a&gt;汇编基础&lt;/h1&gt;&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs css&#34;&gt;&lt;span class=&#34;hljs-selector-tag&#34;&gt;label&lt;/span&gt;： instruction @ comment &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;label 即标号&lt;/strong&gt;，表示地址位置，有些指令前面可能会有标号，这样就可以通过这个标号得到指令的地址，标号也可以用来表示数据地址。注意 label 后面的“：”，任何以“：”结尾的标识符都会被识别为一个标号。&lt;br&gt;&lt;strong&gt;instruction 即指令&lt;/strong&gt;，也就是汇编指令或伪指令。&lt;br&gt;&lt;strong&gt;@符号&lt;/strong&gt;，表示后面的是注释&lt;br&gt;&lt;strong&gt;comment&lt;/strong&gt; 就是注释内容。&lt;/p&gt;
 &lt;p&gt;例:&lt;/p&gt;
@@ -593,7 +602,47 @@
 &lt;p&gt;&lt;strong&gt;Makefile&lt;/strong&gt;&lt;/p&gt;
 &lt;figure class=&#34;highlight makefile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs makefile&#34;&gt;CROSS_COMPILE	?= arm-linux-gnueabihf-&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 编译后 目标名&lt;/span&gt;&lt;br&gt;TARGET			?= bsp&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 编译器相关&lt;/span&gt;&lt;br&gt;CC				:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;gcc&lt;br&gt;LD				:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;ld&lt;br&gt;OBJCOPY			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;objcopy&lt;br&gt;OBJDUMP			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(CROSS_COMPILE)&lt;/span&gt;objdump&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# include dir&lt;/span&gt;&lt;br&gt;INCDIRS			:=  imx6ul  \&lt;br&gt;					bsp/clk \&lt;br&gt;					bsp/led \&lt;br&gt;					bsp/delay&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# sourc dir&lt;/span&gt;&lt;br&gt;SRCDIRS 		:=  project \&lt;br&gt;					bsp/clk \&lt;br&gt;					bsp/led \&lt;br&gt;					bsp/delay&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 这里用到了 patsubst 函数 通过这个函数给 INCDIRS 前面加了一个 -I&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 INCLUDE := -I imx6ul -I bsp/clk -I bsp/led -I bsp/delay&lt;/span&gt;&lt;br&gt;INCLUDE 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;patsubst&lt;/span&gt; %, -I %, &lt;span class=&#34;hljs-variable&#34;&gt;$(INCDIRS)&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 这里用到了 foreach 和 wildcard 函数&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 SFILES := project/start.S&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 CFILES := project/main.c bsp/clk/bsp_clk.c bsp/led/bsp_led.c bsp/delay/bsp_delay.c&lt;/span&gt;&lt;br&gt;SFILES 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;foreach&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;dir&lt;/span&gt;, &lt;span class=&#34;hljs-variable&#34;&gt;$(SRCDIRS)&lt;/span&gt;, $(&lt;span class=&#34;hljs-built_in&#34;&gt;wildcard&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(dir)&lt;/span&gt;/*.S)&lt;/span&gt;)&lt;br&gt;CFILES 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;foreach&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;dir&lt;/span&gt;, &lt;span class=&#34;hljs-variable&#34;&gt;$(SRCDIRS)&lt;/span&gt;, $(&lt;span class=&#34;hljs-built_in&#34;&gt;wildcard&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(dir)&lt;/span&gt;/*.c)&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 这里用到了 notdir 函数 除去路径函数&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 SFILENDIR := start.S&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 CFILENDIR := main.c bsp_clk.c bsp_led.c bsp_delay.c&lt;/span&gt;&lt;br&gt;SFILENDIR 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;notdir&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(SFILES)&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;CFILENDIR 		:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;notdir&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(CFILES)&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 SOBJS := obj/start.o&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 COBJS := obj/main.o obj/bsp_clk.o obj/bsp_led.o obj/bsp_delay.o&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 展开 OBJS  := obj/start.o obj/main.o obj/bsp_clk.o obj/bsp_led.o obj/bsp_delay.o&lt;/span&gt;&lt;br&gt;SOBJS 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;patsubst&lt;/span&gt; %, obj/%, $(SFILENDIR:.S=.o)&lt;/span&gt;)&lt;br&gt;COBJS 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;span class=&#34;hljs-built_in&#34;&gt;patsubst&lt;/span&gt; %, obj/%, $(CFILENDIR:.c=.o)&lt;/span&gt;)&lt;br&gt;OBJS 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(SOBJS)&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(COBJS)&lt;/span&gt;&lt;br&gt;&lt;br&gt;VPATH 			:= &lt;span class=&#34;hljs-variable&#34;&gt;$(SRCDIRS)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;.PHONY&lt;/span&gt;: clean&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.bin : &lt;span class=&#34;hljs-variable&#34;&gt;$(OBJS)&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(LD)&lt;/span&gt; -Timx6ul.lds -o &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$^&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(OBJCOPY)&lt;/span&gt; -O binary -S &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(OBJDUMP)&lt;/span&gt; -D -m arm &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.elf &amp;gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.dis&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(SOBJS)&lt;/span&gt; : obj/%.o : %.S&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(CC)&lt;/span&gt; -Wall -nostdlib -c -O2 &lt;span class=&#34;hljs-variable&#34;&gt;$(INCLUDE)&lt;/span&gt; -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(COBJS)&lt;/span&gt; : obj/%.o : %.c&lt;br&gt;	&lt;span class=&#34;hljs-variable&#34;&gt;$(CC)&lt;/span&gt; -Wall -nostdlib -c -O2 &lt;span class=&#34;hljs-variable&#34;&gt;$(INCLUDE)&lt;/span&gt; -o &lt;span class=&#34;hljs-variable&#34;&gt;$@&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-section&#34;&gt;clean:&lt;/span&gt;&lt;br&gt;	rm -rf &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.elf &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.dis &lt;span class=&#34;hljs-variable&#34;&gt;$(TARGET)&lt;/span&gt;.bin &lt;span class=&#34;hljs-variable&#34;&gt;$(COBJS)&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;$(SOBJS)&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
- ]]></description>
+
+
+
+
+&lt;h1 id=&#34;Uboot&#34;&gt;&lt;a href=&#34;#Uboot&#34; class=&#34;headerlink&#34; title=&#34;Uboot&#34;&gt;&lt;/a&gt;Uboot&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;ipaddr&lt;/td&gt;
+&lt;td&gt;开发板 ip 地址，可以不设置，使用 dhcp 命令来从路由器获取 IP 地址。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ethaddr&lt;/td&gt;
+&lt;td&gt;开发板的 MAC 地址，一定要设置。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gatewayip&lt;/td&gt;
+&lt;td&gt;网关地址。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;netmask&lt;/td&gt;
+&lt;td&gt;子网掩码。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;serverip&lt;/td&gt;
+&lt;td&gt;服务器 IP 地址，也就是 Ubuntu 主机 IP 地址，用于调试代码。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;setenv ipaddr 192.168.1.50&lt;br&gt;setenv ethaddr b8:ae:1d:01:00:00&lt;br&gt;setenv gatewayip 192.168.1.1&lt;br&gt;setenv netmask 255.255.255.0&lt;br&gt;setenv serverip 192.168.1.253&lt;br&gt;saveenv&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;NFS&#34;&gt;&lt;a href=&#34;#NFS&#34; class=&#34;headerlink&#34; title=&#34;NFS&#34;&gt;&lt;/a&gt;NFS&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;nfs 80800000 192.168.222.100:/home/frank/linuxMini/nfs_dir/zImage&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;Linux-Kernel&#34;&gt;&lt;a href=&#34;#Linux-Kernel&#34; class=&#34;headerlink&#34; title=&#34;Linux Kernel&#34;&gt;&lt;/a&gt;Linux Kernel&lt;/h1&gt; ]]></description>
         </item>
     </channel>
 </rss>

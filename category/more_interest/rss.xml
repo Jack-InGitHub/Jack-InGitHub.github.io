@@ -7,146 +7,133 @@
         <language>zh-CN</language>
         <pubDate>Thu, 21 Jul 2022 22:57:15 +0800</pubDate>
         <lastBuildDate>Thu, 21 Jul 2022 22:57:15 +0800</lastBuildDate>
-        <category>embedded</category>
-        <category>note</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>ms-dos</category>
+        <category>pc</category>
+        <category>software</category>
         <category>windows</category>
-        <category>c</category>
-        <category>c/c++</category>
-        <category>pid</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>c++</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>cat_drive</category>
+        <category>linux</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>摄影</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>cad</category>
+        <category>embedded</category>
+        <category>stm32</category>
+        <category>note</category>
+        <category>synology</category>
+        <category>life</category>
+        <category>人生</category>
+        <category>蓝桥杯</category>
+        <category>心理学</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
+        <category>c/c++</category>
+        <category>workflow</category>
         <category>hex</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
+        <category>license</category>
+        <category>md5</category>
         <category>osi</category>
         <category>markdown</category>
-        <category>md5</category>
+        <category>iap</category>
+        <category>bootloader</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
-        <category>iap</category>
-        <category>bootloader</category>
-        <category>stm32</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
-        <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
         <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>driver</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>makefile</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
         <category>ip</category>
         <category>location</category>
         <category>api</category>
-        <category>机智云</category>
-        <category>android</category>
-        <category>mtp</category>
-        <category>pc</category>
-        <category>driver</category>
+        <category>zsh</category>
+        <category>shell</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
-        <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>超声波</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>ct117e-ex</category>
-        <category>zip</category>
-        <category>gzip</category>
-        <category>bzip</category>
-        <category>tar</category>
-        <category>life</category>
-        <category>workflow</category>
-        <category>人生</category>
         <category>github</category>
         <category>hosts</category>
-        <category>cad</category>
-        <category>心理学</category>
-        <category>cat_drive</category>
-        <category>hardware</category>
-        <category>lenovo</category>
-        <category>disk</category>
-        <category>switch</category>
-        <category>nintendo</category>
-        <category>game</category>
-        <category>software</category>
-        <category>synology</category>
+        <category>ct117e-ex</category>
+        <category>机智云</category>
+        <category>超声波</category>
+        <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
-        <category>摄影</category>
-        <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
         <category>spacedesk</category>
         <category>投屏</category>
         <category>vscode</category>
-        <category>flash</category>
-        <category>j-tag</category>
+        <category>ide</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
         <category>commenttranslate</category>
         <category>wsl</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>tmux</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>tmux</category>
         <category>unit</category>
         <category>m</category>
         <category>cm</category>
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>cortex-a7</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -155,22 +142,44 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>cortex-m3</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>git</category>
+        <category>pid</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
-        <category>modbus</category>
         <category>ucos</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
         <category>raspberry</category>
-        <category>wiringpi</category>
-        <category>pwm</category>
-        <category>rt-thread</category>
         <category>ap</category>
         <category>wifi</category>
+        <category>rt-thread</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>modbus</category>
+        <category>zlib</category>
+        <category>minizip</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/f15ac6f4/</guid>
             <title>Nintendo Switch</title>
@@ -248,84 +257,16 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://www.oikiou.top/2022/eae787f0/</guid>
-            <title>CatDrive猫盘</title>
-            <link>https://www.oikiou.top/2022/eae787f0/</link>
-            <category>linux</category>
-            <category>cat_drive</category>
-            <pubDate>Fri, 21 Jan 2022 22:57:15 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;刷机&#34;&gt;&lt;a href=&#34;#刷机&#34; class=&#34;headerlink&#34; title=&#34;刷机&#34;&gt;&lt;/a&gt;刷机&lt;/h1&gt;&lt;p&gt;刷机教程很多很多，这边就不赘述了&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.jianshu.com/p/77e529fb35f9&#34;&gt;https://www.jianshu.com/p/77e529fb35f9&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.huakings.cn/post/283.html&#34;&gt;https://www.huakings.cn/post/283.html&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;建议备好串口刷砖必备&lt;/li&gt;
-&lt;li&gt;猫盘ssh 用户名 &lt;strong&gt;root&lt;/strong&gt; 密码 &lt;strong&gt;Etech12&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;变砖刷机&#34;&gt;&lt;a href=&#34;#变砖刷机&#34; class=&#34;headerlink&#34; title=&#34;变砖刷机&#34;&gt;&lt;/a&gt;变砖刷机&lt;/h1&gt;&lt;h2 id=&#34;参考资料&#34;&gt;&lt;a href=&#34;#参考资料&#34; class=&#34;headerlink&#34; title=&#34;参考资料&#34;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/av73492887&#34;&gt;https://www.bilibili.com/video/av73492887&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.huakings.cn/post/186.html&#34;&gt;https://www.huakings.cn/post/186.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://wiki.espressobin.net/tiki-index.php?page=Bootloader+recovery+via+UART&#34;&gt;http://wiki.espressobin.net/tiki-index.php?page=Bootloader+recovery+via+UART&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;背景知识&#34;&gt;&lt;a href=&#34;#背景知识&#34; class=&#34;headerlink&#34; title=&#34;背景知识&#34;&gt;&lt;/a&gt;背景知识&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;猫盘引导过程&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2022/eae787f0/image-20211225204417854.png&#34; alt=&#34;image-20211225204417854&#34;&gt;&lt;/p&gt;
-&lt;p&gt;从 A3720 机器引导，再到SPI FLASH引导，再到SATA硬盘或者EMMC启动&lt;/p&gt;
-&lt;p&gt;出现&lt;code&gt;&amp;gt;E&lt;/code&gt;就是SPI引导没了，需要用厂商工具把SPI引导刷一遍。&lt;/p&gt;
-&lt;h2 id=&#34;步骤&#34;&gt;&lt;a href=&#34;#步骤&#34; class=&#34;headerlink&#34; title=&#34;步骤&#34;&gt;&lt;/a&gt;步骤&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/eae787f0/image-20211225203501999.png&#34; alt=&#34;image-20211225203501999&#34;&gt;&lt;/p&gt;
-&lt;p&gt;发现出现&lt;code&gt;&amp;gt;E&lt;/code&gt;，这就说明猫盘SPI引导没了，需要重新刷入uboot，进行救砖。&lt;/p&gt;
-&lt;p&gt;首先，需要预装VM启用厂商的Linux环境(ezremaster.iso)，安装VM这步跳过。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;创建虚拟机的时候操作系统可以选择Linux 2.2.x内核，&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;串口的USB设备加到VM内，然后开机。&lt;/p&gt;
-&lt;p&gt;输入如下代码，回车运行后会让输入port，&lt;code&gt;/dev/ttyUSB0&lt;/code&gt;一般是&lt;code&gt;0&lt;/code&gt;输入0回车就会开始刷SPI，然后会出现++++++++，在此期间可以按几下回车。&lt;/p&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;sudo sh /wtpd/shua.sh&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&#34;/2022/eae787f0/image-20211225204613427.png&#34; alt=&#34;image-20211225204613427&#34;&gt;&lt;/p&gt;
-&lt;p&gt;等一段时间就会出现&lt;code&gt;marvell&amp;gt;&amp;gt;&lt;/code&gt;，至此就已经救砖成功。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2022/eae787f0/image-20211225205017895.png&#34; alt=&#34;image-20211225205017895&#34;&gt;&lt;/p&gt;
-&lt;p&gt;接下来就可以用&lt;code&gt;bubt&lt;/code&gt;命令正常刷SPI引导了。&lt;/p&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;bubt full.bin spi usb&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
-&lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;LED-FAN-控制脚本&#34;&gt;&lt;a href=&#34;#LED-FAN-控制脚本&#34; class=&#34;headerlink&#34; title=&#34;LED FAN 控制脚本&#34;&gt;&lt;/a&gt;LED FAN 控制脚本&lt;/h2&gt;&lt;p&gt;参考: &lt;a href=&#34;https://bbs.nas66.com/thread-9007-1-1.html&#34;&gt;https://bbs.nas66.com/thread-9007-1-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;参考: &lt;a href=&#34;https://bbs.nas66.com/thread-13810-1-1.html&#34;&gt;https://bbs.nas66.com/thread-13810-1-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;mkdir -p /a_usr&lt;br&gt;cat &amp;gt; /a_usr/ledfan.sh &amp;lt;&amp;lt;EOF&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;!/bin/sh&lt;/span&gt;&lt;br&gt;if [ ! -d /sys/class/gpio/gpio450 ] ; then&lt;br&gt;echo 450 &amp;gt; /sys/class/gpio/export&lt;br&gt;fi&lt;br&gt;echo out &amp;gt; /sys/class/gpio/gpio450/direction&lt;br&gt;i2cset -y -f 0 0x45 0x00 0x55&lt;br&gt;i2cset -y -f 0 0x45 0x01 0x01&lt;br&gt;i2cset -y -f 0 0x45 0x30 0x07 &lt;br&gt;rm -r /tmp/led/&lt;br&gt;mkdir /tmp/led/&lt;br&gt;echo 1 &amp;gt; /tmp/led/leds.flag&lt;br&gt;while true&lt;br&gt;do&lt;br&gt;sata_temp=&amp;quot;\$(smartctl -a /dev/hda -d ata | sed -n &amp;#x27;/Temperature_Celsius/p&amp;#x27; | awk &amp;#x27;&amp;#123;print $10&amp;#125;&amp;#x27;)&amp;quot;&lt;br&gt;sata=&amp;quot;\$(hdparm -C /dev/sda |grep &amp;#x27;drive&amp;#x27;|awk &amp;#x27;&amp;#123;print \$4&amp;#125;&amp;#x27;)&amp;quot;&lt;br&gt;ledss=&amp;quot;\$(cat /tmp/led/leds.flag)&amp;quot;&lt;br&gt;if [ \$sata = standby ];then&lt;br&gt;led=&amp;quot;0x03&amp;quot;&lt;br&gt;leds=&amp;quot;0&amp;quot;&lt;br&gt;fi&lt;br&gt;if [ \$sata = active/idle ];then&lt;br&gt;led=&amp;quot;0x73&amp;quot;&lt;br&gt;leds=&amp;quot;1&amp;quot;&lt;br&gt;fi&lt;br&gt;if [ \$sata_temp -ge 55 ];then&lt;br&gt;if [ -f &amp;quot;/tmp/led/led31.flag&amp;quot; ] &amp;amp;&amp;amp; [ \$ledss = \$leds ];then &lt;br&gt;sleep 15&lt;br&gt;continue&lt;br&gt;fi&lt;br&gt;i2cset -y -f 0 0x45 0x32 0x00&lt;br&gt;i2cset -y -f 0 0x45 0x33 0x00&lt;br&gt;i2cset -y -f 0 0x45 0x31 \$&amp;#123;led&amp;#125;&lt;br&gt;i2cset -y -f 0 0x45 0x34 255&lt;br&gt;echo 1 &amp;gt; /sys/class/gpio/gpio450/value&lt;br&gt;rm -rf /tmp/led/led*.flag&lt;br&gt;touch /tmp/led/led31.flag&lt;br&gt;echo \$&amp;#123;leds&amp;#125; &amp;gt; /tmp/led/leds.flag&lt;br&gt;fi&lt;br&gt;if [ \$sata_temp -ge 45 ] &amp;amp;&amp;amp; [ \$sata_temp -lt 55 ];then&lt;br&gt;if [ -f &amp;quot;/tmp/led/led33.flag&amp;quot; ] &amp;amp;&amp;amp; [ \$ledss = \$leds ];then&lt;br&gt;sleep 15 &lt;br&gt;continue&lt;br&gt;fi&lt;br&gt;i2cset -y -f 0 0x45 0x31 0x00&lt;br&gt;i2cset -y -f 0 0x45 0x32 0x00&lt;br&gt;i2cset -y -f 0 0x45 0x33 \$&amp;#123;led&amp;#125;&lt;br&gt;i2cset -y -f 0 0x45 0x36 255&lt;br&gt;echo 1 &amp;gt; /sys/class/gpio/gpio450/value&lt;br&gt;rm -rf /tmp/led/led*.flag&lt;br&gt;touch /tmp/led/led33.flag&lt;br&gt;echo \$&amp;#123;leds&amp;#125; &amp;gt; /tmp/led/leds.flag&lt;br&gt;fi&lt;br&gt;if [ \$sata_temp -lt 45 ];then&lt;br&gt;if [ -f &amp;quot;/tmp/led/led32.flag&amp;quot; ] &amp;amp;&amp;amp; [ \$ledss = \$leds ];then&lt;br&gt;sleep 15 &lt;br&gt;continue&lt;br&gt;fi&lt;br&gt;i2cset -y -f 0 0x45 0x31 0x00&lt;br&gt;i2cset -y -f 0 0x45 0x33 0x00&lt;br&gt;i2cset -y -f 0 0x45 0x32 \$&amp;#123;led&amp;#125;&lt;br&gt;i2cset -y -f 0 0x45 0x35 255&lt;br&gt;echo 0 &amp;gt; /sys/class/gpio/gpio450/value&lt;br&gt;rm -rf /tmp/led/led*.flag&lt;br&gt;touch /tmp/led/led32.flag&lt;br&gt;echo \$&amp;#123;leds&amp;#125; &amp;gt; /tmp/led/leds.flag&lt;br&gt;fi&lt;br&gt;sleep 15&lt;br&gt;done&lt;br&gt;EOF&lt;br&gt;bash /a_usr/ledfan.sh&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 id=&#34;修改SN半白脚本&#34;&gt;&lt;a href=&#34;#修改SN半白脚本&#34; class=&#34;headerlink&#34; title=&#34;修改SN半白脚本&#34;&gt;&lt;/a&gt;修改SN半白脚本&lt;/h2&gt;&lt;p&gt;下面的&lt;code&gt;00:11:32:12:34:56&lt;/code&gt;最好改成壳子上自己的MAC&lt;/p&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;cd ~ &amp;amp;&amp;amp; wget -N --no-check-certificate https://www.huakings.cn/mp202003/macsn.sh &amp;amp;&amp;amp; chmod +x macsn.sh &amp;amp;&amp;amp; bash macsn.sh 00:11:32:12:34:56 1860ABCDE1860 &amp;amp;&amp;amp; rm -f /root/macsn.sh&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;macsn.sh脚本详细内容如下&lt;/p&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;73&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;74&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;75&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;76&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;77&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;78&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;79&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;80&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;81&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;82&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;83&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;84&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;85&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;86&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;87&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;macstr=$1&lt;br&gt;sn=$2&lt;br&gt;mac=($&amp;#123;macstr//:/ &amp;#125;)&lt;br&gt;if [ $&amp;#123;#mac[@]&amp;#125; != 6 ];&lt;br&gt;then&lt;br&gt;echo mac address error!&lt;br&gt;exit&lt;br&gt;fi&lt;br&gt;for var in $&amp;#123;mac[@]&amp;#125;&lt;br&gt;do&lt;br&gt;if echo $var | grep -q &amp;#x27;[^0-9A-F]&amp;#x27;&lt;br&gt;then &lt;br&gt;echo mac address error!&lt;br&gt;exit&lt;br&gt;fi &lt;br&gt;if  [[ $&amp;#123;#var&amp;#125; != 2  ]] &lt;br&gt;then&lt;br&gt;echo mac address error!!&lt;br&gt;exit&lt;br&gt;fi&lt;br&gt;done&lt;br&gt;if  [[ $&amp;#123;#sn&amp;#125; != 13  ]] &lt;br&gt;then&lt;br&gt;echo sn error:The SN Length must be 13&lt;br&gt;exit&lt;br&gt;fi&lt;br&gt;&lt;br&gt;for((i=0;i&amp;lt;6;i++));&lt;br&gt;do &lt;br&gt;declare -i macchecksum+=0x$&amp;#123;mac[i]&amp;#125;&lt;br&gt;done&lt;br&gt;declare -i macchecksum=$macchecksum%256&lt;br&gt;for((i=0;i&amp;lt;13;i++));&lt;br&gt;do &lt;br&gt;declare -i checksum+=$(printf &amp;#x27;%d&amp;#x27; &amp;quot;&amp;#x27;$&amp;#123;sn:$i:1&amp;#125;&amp;quot;)&lt;br&gt;done&lt;br&gt;if [ $&amp;#123;#checksum&amp;#125; == 3 ];&lt;br&gt;then&lt;br&gt;echo -e -n &amp;quot;\x$&amp;#123;mac[0]&amp;#125;\x$&amp;#123;mac[1]&amp;#125;\x$&amp;#123;mac[2]&amp;#125;\x$&amp;#123;mac[3]&amp;#125;\x$&amp;#123;mac[4]&amp;#125;\x$&amp;#123;mac[5]&amp;#125;\&lt;br&gt;\x$(printf &amp;#x27;%x&amp;#x27; $macchecksum)\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0&amp;quot;\&lt;br&gt;\SN=$sn&amp;quot;,CHK=&amp;quot;$checksum\&lt;br&gt;&amp;quot;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x3C\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x1\x1\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x1\x1\x1\x1\&lt;br&gt;\x0\x1\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x1\x1\x1\x1\&lt;br&gt;\x1\x0\x1\x1\x1\x1\x1\x0\&lt;br&gt;\x1\x1\x1\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x1\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0&amp;quot; &amp;gt; vender.bin&lt;br&gt;else&lt;br&gt;echo -e -n &amp;quot;\x$&amp;#123;mac[0]&amp;#125;\x$&amp;#123;mac[1]&amp;#125;\x$&amp;#123;mac[2]&amp;#125;\x$&amp;#123;mac[3]&amp;#125;\x$&amp;#123;mac[4]&amp;#125;\x$&amp;#123;mac[5]&amp;#125;\&lt;br&gt;\x$(printf &amp;#x27;%x&amp;#x27; $macchecksum)\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0&amp;quot;\&lt;br&gt;\SN=$sn&amp;quot;,CHK=&amp;quot;$checksum\&lt;br&gt;&amp;quot;\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x3C\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x1\x1\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x1\x1\x1\x1\&lt;br&gt;\x0\x1\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x1\x1\x1\x1\&lt;br&gt;\x1\x0\x1\x1\x1\x1\x1\x0\&lt;br&gt;\x1\x1\x1\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x1\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0&amp;quot; &amp;gt; vender.bin&lt;br&gt;fi&lt;br&gt;dd if=vender.bin of=/dev/mtdblock3&lt;br&gt;rm vender.bin&lt;br&gt;echo Update Success! MAC:$macstr SN:$sn&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
-
-
-&lt;h2 id=&#34;解决猫盘掉ip问题&#34;&gt;&lt;a href=&#34;#解决猫盘掉ip问题&#34; class=&#34;headerlink&#34; title=&#34;解决猫盘掉ip问题&#34;&gt;&lt;/a&gt;解决猫盘掉ip问题&lt;/h2&gt;&lt;h3 id=&#34;最蠢的办法，检查无IP重启&#34;&gt;&lt;a href=&#34;#最蠢的办法，检查无IP重启&#34; class=&#34;headerlink&#34; title=&#34;最蠢的办法，检查无IP重启&#34;&gt;&lt;/a&gt;最蠢的办法，检查无IP重启&lt;/h3&gt;&lt;p&gt;将下面脚本添加到，群晖的开机启动&lt;/p&gt;
-&lt;p&gt;控制面板-任务计划-新增-触发的任务-用户自定义脚本-开机启动&lt;/p&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;!/bin/bash&lt;/span&gt;&lt;br&gt;dt=`date &amp;#x27;+%d/%m/%Y %H:%M:%S&amp;#x27;`&lt;br&gt;echo &amp;quot;$dt&amp;quot;&lt;br&gt;sleep 60&lt;br&gt;num=`ping -c20 223.5.5.5 | tail -2 | head -1 | cut -f 3 -d&amp;quot;,&amp;quot; | cut -f 1 -d&amp;quot;%&amp;quot; | cut -f 2 -d&amp;quot; &amp;quot;`&lt;br&gt;echo $num&lt;br&gt;echo $?&lt;br&gt;if [ $? -eq 0 -a $num -eq 0 ]; then&lt;br&gt;echo &amp;quot;$dt ok&amp;quot; &amp;gt;&amp;gt; /result.txt&lt;br&gt;else&lt;br&gt;echo &amp;quot;$dt noip loss $num reboot&amp;quot; &amp;gt;&amp;gt; /result.txt&lt;br&gt;reboot&lt;br&gt;fi&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;h3 id=&#34;其它办法&#34;&gt;&lt;a href=&#34;#其它办法&#34; class=&#34;headerlink&#34; title=&#34;其它办法&#34;&gt;&lt;/a&gt;其它办法&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://bbs.nas66.com/thread-17505-1-1.html&#34;&gt;https://bbs.nas66.com/thread-17505-1-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://bbs.nas66.com/thread-16639-1-1.html&#34;&gt;https://bbs.nas66.com/thread-16639-1-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://bbs.nas66.com/thread-7843-1-1.html&#34;&gt;https://bbs.nas66.com/thread-7843-1-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://bbs.nas66.com/thread-9350-1-1.html&#34;&gt;https://bbs.nas66.com/thread-9350-1-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://bbs.nas66.com/thread-4593-5-3.html&#34;&gt;https://bbs.nas66.com/thread-4593-5-3.html&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;群晖回退x3p&#34;&gt;&lt;a href=&#34;#群晖回退x3p&#34; class=&#34;headerlink&#34; title=&#34;群晖回退x3p&#34;&gt;&lt;/a&gt;群晖回退x3p&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://bbs.nas66.com/forum.php?mod=viewthread&amp;tid=2661&#34;&gt;https://bbs.nas66.com/forum.php?mod=viewthread&amp;amp;tid=2661&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;主要就是刷x3p的UBOOT，插U盘，U盘放x3p的自动安装镜像&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/fc18738/</guid>
             <title>PC Software</title>
             <link>https://www.oikiou.top/2022/fc18738/</link>
-            <category>windows</category>
             <category>pc</category>
             <category>software</category>
+            <category>windows</category>
             <pubDate>Fri, 21 Jan 2022 22:57:15 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;PC-Windows&#34;&gt;&lt;a href=&#34;#PC-Windows&#34; class=&#34;headerlink&#34; title=&#34;PC Windows&#34;&gt;&lt;/a&gt;PC Windows&lt;/h1&gt;&lt;h1 id=&#34;扫描修复系统&#34;&gt;&lt;a href=&#34;#扫描修复系统&#34; class=&#34;headerlink&#34; title=&#34;扫描修复系统&#34;&gt;&lt;/a&gt;扫描修复系统&lt;/h1&gt;&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs jboss-cli&#34;&gt;sfc &lt;span class=&#34;hljs-string&#34;&gt;/SCANNOW&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;h1 id=&#34;DNS&#34;&gt;&lt;a href=&#34;#DNS&#34; class=&#34;headerlink&#34; title=&#34;DNS&#34;&gt;&lt;/a&gt;DNS&lt;/h1&gt;&lt;h3 id=&#34;刷新DNS&#34;&gt;&lt;a href=&#34;#刷新DNS&#34; class=&#34;headerlink&#34; title=&#34;刷新DNS&#34;&gt;&lt;/a&gt;刷新DNS&lt;/h3&gt;&lt;p&gt;&lt;code&gt;ipconfig /flushdns&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;DNS解析&#34;&gt;&lt;a href=&#34;#DNS解析&#34; class=&#34;headerlink&#34; title=&#34;DNS解析&#34;&gt;&lt;/a&gt;DNS解析&lt;/h1&gt;&lt;h3 id=&#34;刷新DNS&#34;&gt;&lt;a href=&#34;#刷新DNS&#34; class=&#34;headerlink&#34; title=&#34;刷新DNS&#34;&gt;&lt;/a&gt;刷新DNS&lt;/h3&gt;&lt;p&gt;&lt;code&gt;ipconfig /flushdns&lt;/code&gt;&lt;/p&gt;
 &lt;h3 id=&#34;nslookup&#34;&gt;&lt;a href=&#34;#nslookup&#34; class=&#34;headerlink&#34; title=&#34;nslookup&#34;&gt;&lt;/a&gt;nslookup&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2022/fc18738/image-20220402175405670.png&#34; alt=&#34;image-20220402175405670&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2022/fc18738/image-20220402175432533.png&#34; alt=&#34;image-20220402175432533&#34;&gt;&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;nslookup&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置查询类型 name server&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;=ns&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查询根服务器&lt;/span&gt;&lt;br&gt;.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Non-authoritative 代表非权威应答 一般是缓存来的&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# authoritative 表权威应答 根服务器直接返回的&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置查询类型 a ipv4地址&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;=a&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查询根服务器的ipv4地址&lt;/span&gt;&lt;br&gt;.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置dns服务器地址&lt;/span&gt;&lt;br&gt;server 198.41.0.4&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置查询类型 name server&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;=ns&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查询cf域名服务器&lt;/span&gt;&lt;br&gt;cf.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置查询类型 a ipv4地址&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;type&lt;/span&gt;=a&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查询cf域名服务器的ipv4地址&lt;/span&gt;&lt;br&gt;cf.&lt;br&gt;&lt;br&gt;..........&lt;br&gt;&lt;br&gt;&lt;br&gt;lager.cf.&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -465,6 +406,74 @@
 &lt;p&gt;&lt;code&gt;Windows&lt;/code&gt;键+&lt;code&gt;R&lt;/code&gt;，输入&lt;code&gt;regedit&lt;/code&gt;打开注册列表，在地址栏输入&lt;code&gt;计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run&lt;/code&gt;定位到对应注册表位置，右键新建一个字符串值，键入&lt;code&gt;init-wsl.bat&lt;/code&gt;脚本绝对路径即可，如下图！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2022/fc18738/regedit-add-init-wsl.png&#34; alt=&#34;set regedit service&#34;&gt;&lt;/p&gt;
 &lt;p&gt;重启计算机即可发现，&lt;code&gt;WSL&lt;/code&gt;中的&lt;code&gt;Docker&lt;/code&gt;服务已经被启动，通过&lt;code&gt;192.168.33.10&lt;/code&gt;可以直接访问到&lt;code&gt;WSL&lt;/code&gt;内部的网络！&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/eae787f0/</guid>
+            <title>CatDrive猫盘</title>
+            <link>https://www.oikiou.top/2022/eae787f0/</link>
+            <category>cat_drive</category>
+            <category>linux</category>
+            <pubDate>Fri, 21 Jan 2022 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;刷机&#34;&gt;&lt;a href=&#34;#刷机&#34; class=&#34;headerlink&#34; title=&#34;刷机&#34;&gt;&lt;/a&gt;刷机&lt;/h1&gt;&lt;p&gt;刷机教程很多很多，这边就不赘述了&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jianshu.com/p/77e529fb35f9&#34;&gt;https://www.jianshu.com/p/77e529fb35f9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.huakings.cn/post/283.html&#34;&gt;https://www.huakings.cn/post/283.html&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;建议备好串口刷砖必备&lt;/li&gt;
+&lt;li&gt;猫盘ssh 用户名 &lt;strong&gt;root&lt;/strong&gt; 密码 &lt;strong&gt;Etech12&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;变砖刷机&#34;&gt;&lt;a href=&#34;#变砖刷机&#34; class=&#34;headerlink&#34; title=&#34;变砖刷机&#34;&gt;&lt;/a&gt;变砖刷机&lt;/h1&gt;&lt;h2 id=&#34;参考资料&#34;&gt;&lt;a href=&#34;#参考资料&#34; class=&#34;headerlink&#34; title=&#34;参考资料&#34;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/av73492887&#34;&gt;https://www.bilibili.com/video/av73492887&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.huakings.cn/post/186.html&#34;&gt;https://www.huakings.cn/post/186.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wiki.espressobin.net/tiki-index.php?page=Bootloader+recovery+via+UART&#34;&gt;http://wiki.espressobin.net/tiki-index.php?page=Bootloader+recovery+via+UART&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;背景知识&#34;&gt;&lt;a href=&#34;#背景知识&#34; class=&#34;headerlink&#34; title=&#34;背景知识&#34;&gt;&lt;/a&gt;背景知识&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;猫盘引导过程&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/eae787f0/image-20211225204417854.png&#34; alt=&#34;image-20211225204417854&#34;&gt;&lt;/p&gt;
+&lt;p&gt;从 A3720 机器引导，再到SPI FLASH引导，再到SATA硬盘或者EMMC启动&lt;/p&gt;
+&lt;p&gt;出现&lt;code&gt;&amp;gt;E&lt;/code&gt;就是SPI引导没了，需要用厂商工具把SPI引导刷一遍。&lt;/p&gt;
+&lt;h2 id=&#34;步骤&#34;&gt;&lt;a href=&#34;#步骤&#34; class=&#34;headerlink&#34; title=&#34;步骤&#34;&gt;&lt;/a&gt;步骤&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/eae787f0/image-20211225203501999.png&#34; alt=&#34;image-20211225203501999&#34;&gt;&lt;/p&gt;
+&lt;p&gt;发现出现&lt;code&gt;&amp;gt;E&lt;/code&gt;，这就说明猫盘SPI引导没了，需要重新刷入uboot，进行救砖。&lt;/p&gt;
+&lt;p&gt;首先，需要预装VM启用厂商的Linux环境(ezremaster.iso)，安装VM这步跳过。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;创建虚拟机的时候操作系统可以选择Linux 2.2.x内核，&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;串口的USB设备加到VM内，然后开机。&lt;/p&gt;
+&lt;p&gt;输入如下代码，回车运行后会让输入port，&lt;code&gt;/dev/ttyUSB0&lt;/code&gt;一般是&lt;code&gt;0&lt;/code&gt;输入0回车就会开始刷SPI，然后会出现++++++++，在此期间可以按几下回车。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;sudo sh /wtpd/shua.sh&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&#34;/2022/eae787f0/image-20211225204613427.png&#34; alt=&#34;image-20211225204613427&#34;&gt;&lt;/p&gt;
+&lt;p&gt;等一段时间就会出现&lt;code&gt;marvell&amp;gt;&amp;gt;&lt;/code&gt;，至此就已经救砖成功。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2022/eae787f0/image-20211225205017895.png&#34; alt=&#34;image-20211225205017895&#34;&gt;&lt;/p&gt;
+&lt;p&gt;接下来就可以用&lt;code&gt;bubt&lt;/code&gt;命令正常刷SPI引导了。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;bubt full.bin spi usb&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;LED-FAN-控制脚本&#34;&gt;&lt;a href=&#34;#LED-FAN-控制脚本&#34; class=&#34;headerlink&#34; title=&#34;LED FAN 控制脚本&#34;&gt;&lt;/a&gt;LED FAN 控制脚本&lt;/h2&gt;&lt;p&gt;参考: &lt;a href=&#34;https://bbs.nas66.com/thread-9007-1-1.html&#34;&gt;https://bbs.nas66.com/thread-9007-1-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;参考: &lt;a href=&#34;https://bbs.nas66.com/thread-13810-1-1.html&#34;&gt;https://bbs.nas66.com/thread-13810-1-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;mkdir -p /a_usr&lt;br&gt;cat &amp;gt; /a_usr/ledfan.sh &amp;lt;&amp;lt;EOF&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;!/bin/sh&lt;/span&gt;&lt;br&gt;if [ ! -d /sys/class/gpio/gpio450 ] ; then&lt;br&gt;echo 450 &amp;gt; /sys/class/gpio/export&lt;br&gt;fi&lt;br&gt;echo out &amp;gt; /sys/class/gpio/gpio450/direction&lt;br&gt;i2cset -y -f 0 0x45 0x00 0x55&lt;br&gt;i2cset -y -f 0 0x45 0x01 0x01&lt;br&gt;i2cset -y -f 0 0x45 0x30 0x07 &lt;br&gt;rm -r /tmp/led/&lt;br&gt;mkdir /tmp/led/&lt;br&gt;echo 1 &amp;gt; /tmp/led/leds.flag&lt;br&gt;while true&lt;br&gt;do&lt;br&gt;sata_temp=&amp;quot;\$(smartctl -a /dev/hda -d ata | sed -n &amp;#x27;/Temperature_Celsius/p&amp;#x27; | awk &amp;#x27;&amp;#123;print $10&amp;#125;&amp;#x27;)&amp;quot;&lt;br&gt;sata=&amp;quot;\$(hdparm -C /dev/sda |grep &amp;#x27;drive&amp;#x27;|awk &amp;#x27;&amp;#123;print \$4&amp;#125;&amp;#x27;)&amp;quot;&lt;br&gt;ledss=&amp;quot;\$(cat /tmp/led/leds.flag)&amp;quot;&lt;br&gt;if [ \$sata = standby ];then&lt;br&gt;led=&amp;quot;0x03&amp;quot;&lt;br&gt;leds=&amp;quot;0&amp;quot;&lt;br&gt;fi&lt;br&gt;if [ \$sata = active/idle ];then&lt;br&gt;led=&amp;quot;0x73&amp;quot;&lt;br&gt;leds=&amp;quot;1&amp;quot;&lt;br&gt;fi&lt;br&gt;if [ \$sata_temp -ge 55 ];then&lt;br&gt;if [ -f &amp;quot;/tmp/led/led31.flag&amp;quot; ] &amp;amp;&amp;amp; [ \$ledss = \$leds ];then &lt;br&gt;sleep 15&lt;br&gt;continue&lt;br&gt;fi&lt;br&gt;i2cset -y -f 0 0x45 0x32 0x00&lt;br&gt;i2cset -y -f 0 0x45 0x33 0x00&lt;br&gt;i2cset -y -f 0 0x45 0x31 \$&amp;#123;led&amp;#125;&lt;br&gt;i2cset -y -f 0 0x45 0x34 255&lt;br&gt;echo 1 &amp;gt; /sys/class/gpio/gpio450/value&lt;br&gt;rm -rf /tmp/led/led*.flag&lt;br&gt;touch /tmp/led/led31.flag&lt;br&gt;echo \$&amp;#123;leds&amp;#125; &amp;gt; /tmp/led/leds.flag&lt;br&gt;fi&lt;br&gt;if [ \$sata_temp -ge 45 ] &amp;amp;&amp;amp; [ \$sata_temp -lt 55 ];then&lt;br&gt;if [ -f &amp;quot;/tmp/led/led33.flag&amp;quot; ] &amp;amp;&amp;amp; [ \$ledss = \$leds ];then&lt;br&gt;sleep 15 &lt;br&gt;continue&lt;br&gt;fi&lt;br&gt;i2cset -y -f 0 0x45 0x31 0x00&lt;br&gt;i2cset -y -f 0 0x45 0x32 0x00&lt;br&gt;i2cset -y -f 0 0x45 0x33 \$&amp;#123;led&amp;#125;&lt;br&gt;i2cset -y -f 0 0x45 0x36 255&lt;br&gt;echo 1 &amp;gt; /sys/class/gpio/gpio450/value&lt;br&gt;rm -rf /tmp/led/led*.flag&lt;br&gt;touch /tmp/led/led33.flag&lt;br&gt;echo \$&amp;#123;leds&amp;#125; &amp;gt; /tmp/led/leds.flag&lt;br&gt;fi&lt;br&gt;if [ \$sata_temp -lt 45 ];then&lt;br&gt;if [ -f &amp;quot;/tmp/led/led32.flag&amp;quot; ] &amp;amp;&amp;amp; [ \$ledss = \$leds ];then&lt;br&gt;sleep 15 &lt;br&gt;continue&lt;br&gt;fi&lt;br&gt;i2cset -y -f 0 0x45 0x31 0x00&lt;br&gt;i2cset -y -f 0 0x45 0x33 0x00&lt;br&gt;i2cset -y -f 0 0x45 0x32 \$&amp;#123;led&amp;#125;&lt;br&gt;i2cset -y -f 0 0x45 0x35 255&lt;br&gt;echo 0 &amp;gt; /sys/class/gpio/gpio450/value&lt;br&gt;rm -rf /tmp/led/led*.flag&lt;br&gt;touch /tmp/led/led32.flag&lt;br&gt;echo \$&amp;#123;leds&amp;#125; &amp;gt; /tmp/led/leds.flag&lt;br&gt;fi&lt;br&gt;sleep 15&lt;br&gt;done&lt;br&gt;EOF&lt;br&gt;bash /a_usr/ledfan.sh&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;修改SN半白脚本&#34;&gt;&lt;a href=&#34;#修改SN半白脚本&#34; class=&#34;headerlink&#34; title=&#34;修改SN半白脚本&#34;&gt;&lt;/a&gt;修改SN半白脚本&lt;/h2&gt;&lt;p&gt;下面的&lt;code&gt;00:11:32:12:34:56&lt;/code&gt;最好改成壳子上自己的MAC&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;cd ~ &amp;amp;&amp;amp; wget -N --no-check-certificate https://www.huakings.cn/mp202003/macsn.sh &amp;amp;&amp;amp; chmod +x macsn.sh &amp;amp;&amp;amp; bash macsn.sh 00:11:32:12:34:56 1860ABCDE1860 &amp;amp;&amp;amp; rm -f /root/macsn.sh&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;macsn.sh脚本详细内容如下&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;73&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;74&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;75&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;76&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;77&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;78&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;79&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;80&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;81&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;82&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;83&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;84&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;85&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;86&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;87&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;macstr=$1&lt;br&gt;sn=$2&lt;br&gt;mac=($&amp;#123;macstr//:/ &amp;#125;)&lt;br&gt;if [ $&amp;#123;#mac[@]&amp;#125; != 6 ];&lt;br&gt;then&lt;br&gt;echo mac address error!&lt;br&gt;exit&lt;br&gt;fi&lt;br&gt;for var in $&amp;#123;mac[@]&amp;#125;&lt;br&gt;do&lt;br&gt;if echo $var | grep -q &amp;#x27;[^0-9A-F]&amp;#x27;&lt;br&gt;then &lt;br&gt;echo mac address error!&lt;br&gt;exit&lt;br&gt;fi &lt;br&gt;if  [[ $&amp;#123;#var&amp;#125; != 2  ]] &lt;br&gt;then&lt;br&gt;echo mac address error!!&lt;br&gt;exit&lt;br&gt;fi&lt;br&gt;done&lt;br&gt;if  [[ $&amp;#123;#sn&amp;#125; != 13  ]] &lt;br&gt;then&lt;br&gt;echo sn error:The SN Length must be 13&lt;br&gt;exit&lt;br&gt;fi&lt;br&gt;&lt;br&gt;for((i=0;i&amp;lt;6;i++));&lt;br&gt;do &lt;br&gt;declare -i macchecksum+=0x$&amp;#123;mac[i]&amp;#125;&lt;br&gt;done&lt;br&gt;declare -i macchecksum=$macchecksum%256&lt;br&gt;for((i=0;i&amp;lt;13;i++));&lt;br&gt;do &lt;br&gt;declare -i checksum+=$(printf &amp;#x27;%d&amp;#x27; &amp;quot;&amp;#x27;$&amp;#123;sn:$i:1&amp;#125;&amp;quot;)&lt;br&gt;done&lt;br&gt;if [ $&amp;#123;#checksum&amp;#125; == 3 ];&lt;br&gt;then&lt;br&gt;echo -e -n &amp;quot;\x$&amp;#123;mac[0]&amp;#125;\x$&amp;#123;mac[1]&amp;#125;\x$&amp;#123;mac[2]&amp;#125;\x$&amp;#123;mac[3]&amp;#125;\x$&amp;#123;mac[4]&amp;#125;\x$&amp;#123;mac[5]&amp;#125;\&lt;br&gt;\x$(printf &amp;#x27;%x&amp;#x27; $macchecksum)\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0&amp;quot;\&lt;br&gt;\SN=$sn&amp;quot;,CHK=&amp;quot;$checksum\&lt;br&gt;&amp;quot;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x3C\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x1\x1\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x1\x1\x1\x1\&lt;br&gt;\x0\x1\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x1\x1\x1\x1\&lt;br&gt;\x1\x0\x1\x1\x1\x1\x1\x0\&lt;br&gt;\x1\x1\x1\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x1\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0&amp;quot; &amp;gt; vender.bin&lt;br&gt;else&lt;br&gt;echo -e -n &amp;quot;\x$&amp;#123;mac[0]&amp;#125;\x$&amp;#123;mac[1]&amp;#125;\x$&amp;#123;mac[2]&amp;#125;\x$&amp;#123;mac[3]&amp;#125;\x$&amp;#123;mac[4]&amp;#125;\x$&amp;#123;mac[5]&amp;#125;\&lt;br&gt;\x$(printf &amp;#x27;%x&amp;#x27; $macchecksum)\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0&amp;quot;\&lt;br&gt;\SN=$sn&amp;quot;,CHK=&amp;quot;$checksum\&lt;br&gt;&amp;quot;\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x3C\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x1\x1\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x1\x1\x1\x1\&lt;br&gt;\x0\x1\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x1\x1\x1\x1\&lt;br&gt;\x1\x0\x1\x1\x1\x1\x1\x0\&lt;br&gt;\x1\x1\x1\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x1\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\&lt;br&gt;\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0&amp;quot; &amp;gt; vender.bin&lt;br&gt;fi&lt;br&gt;dd if=vender.bin of=/dev/mtdblock3&lt;br&gt;rm vender.bin&lt;br&gt;echo Update Success! MAC:$macstr SN:$sn&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h2 id=&#34;解决猫盘掉ip问题&#34;&gt;&lt;a href=&#34;#解决猫盘掉ip问题&#34; class=&#34;headerlink&#34; title=&#34;解决猫盘掉ip问题&#34;&gt;&lt;/a&gt;解决猫盘掉ip问题&lt;/h2&gt;&lt;h3 id=&#34;最蠢的办法，检查无IP重启&#34;&gt;&lt;a href=&#34;#最蠢的办法，检查无IP重启&#34; class=&#34;headerlink&#34; title=&#34;最蠢的办法，检查无IP重启&#34;&gt;&lt;/a&gt;最蠢的办法，检查无IP重启&lt;/h3&gt;&lt;p&gt;将下面脚本添加到，群晖的开机启动&lt;/p&gt;
+&lt;p&gt;控制面板-任务计划-新增-触发的任务-用户自定义脚本-开机启动&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;!/bin/bash&lt;/span&gt;&lt;br&gt;dt=`date &amp;#x27;+%d/%m/%Y %H:%M:%S&amp;#x27;`&lt;br&gt;echo &amp;quot;$dt&amp;quot;&lt;br&gt;sleep 60&lt;br&gt;num=`ping -c20 223.5.5.5 | tail -2 | head -1 | cut -f 3 -d&amp;quot;,&amp;quot; | cut -f 1 -d&amp;quot;%&amp;quot; | cut -f 2 -d&amp;quot; &amp;quot;`&lt;br&gt;echo $num&lt;br&gt;echo $?&lt;br&gt;if [ $? -eq 0 -a $num -eq 0 ]; then&lt;br&gt;echo &amp;quot;$dt ok&amp;quot; &amp;gt;&amp;gt; /result.txt&lt;br&gt;else&lt;br&gt;echo &amp;quot;$dt noip loss $num reboot&amp;quot; &amp;gt;&amp;gt; /result.txt&lt;br&gt;reboot&lt;br&gt;fi&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;其它办法&#34;&gt;&lt;a href=&#34;#其它办法&#34; class=&#34;headerlink&#34; title=&#34;其它办法&#34;&gt;&lt;/a&gt;其它办法&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://bbs.nas66.com/thread-17505-1-1.html&#34;&gt;https://bbs.nas66.com/thread-17505-1-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bbs.nas66.com/thread-16639-1-1.html&#34;&gt;https://bbs.nas66.com/thread-16639-1-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bbs.nas66.com/thread-7843-1-1.html&#34;&gt;https://bbs.nas66.com/thread-7843-1-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bbs.nas66.com/thread-9350-1-1.html&#34;&gt;https://bbs.nas66.com/thread-9350-1-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bbs.nas66.com/thread-4593-5-3.html&#34;&gt;https://bbs.nas66.com/thread-4593-5-3.html&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;群晖回退x3p&#34;&gt;&lt;a href=&#34;#群晖回退x3p&#34; class=&#34;headerlink&#34; title=&#34;群晖回退x3p&#34;&gt;&lt;/a&gt;群晖回退x3p&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://bbs.nas66.com/forum.php?mod=viewthread&amp;tid=2661&#34;&gt;https://bbs.nas66.com/forum.php?mod=viewthread&amp;amp;tid=2661&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;主要就是刷x3p的UBOOT，插U盘，U盘放x3p的自动安装镜像&lt;/p&gt;
  ]]></description>
         </item>
         <item>

@@ -7,146 +7,133 @@
         <language>zh-CN</language>
         <pubDate>Wed, 21 Jul 2021 22:57:15 +0800</pubDate>
         <lastBuildDate>Wed, 21 Jul 2021 22:57:15 +0800</lastBuildDate>
-        <category>embedded</category>
-        <category>note</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>ms-dos</category>
+        <category>pc</category>
+        <category>software</category>
         <category>windows</category>
-        <category>c</category>
-        <category>c/c++</category>
-        <category>pid</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>c++</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>cat_drive</category>
+        <category>linux</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>摄影</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>cad</category>
+        <category>embedded</category>
+        <category>stm32</category>
+        <category>note</category>
+        <category>synology</category>
+        <category>life</category>
+        <category>人生</category>
+        <category>蓝桥杯</category>
+        <category>心理学</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
+        <category>c/c++</category>
+        <category>workflow</category>
         <category>hex</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
+        <category>license</category>
+        <category>md5</category>
         <category>osi</category>
         <category>markdown</category>
-        <category>md5</category>
+        <category>iap</category>
+        <category>bootloader</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
-        <category>iap</category>
-        <category>bootloader</category>
-        <category>stm32</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
-        <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
         <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>driver</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>makefile</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
         <category>ip</category>
         <category>location</category>
         <category>api</category>
-        <category>机智云</category>
-        <category>android</category>
-        <category>mtp</category>
-        <category>pc</category>
-        <category>driver</category>
+        <category>zsh</category>
+        <category>shell</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
-        <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>超声波</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>ct117e-ex</category>
-        <category>zip</category>
-        <category>gzip</category>
-        <category>bzip</category>
-        <category>tar</category>
-        <category>life</category>
-        <category>workflow</category>
-        <category>人生</category>
         <category>github</category>
         <category>hosts</category>
-        <category>cad</category>
-        <category>心理学</category>
-        <category>cat_drive</category>
-        <category>hardware</category>
-        <category>lenovo</category>
-        <category>disk</category>
-        <category>switch</category>
-        <category>nintendo</category>
-        <category>game</category>
-        <category>software</category>
-        <category>synology</category>
+        <category>ct117e-ex</category>
+        <category>机智云</category>
+        <category>超声波</category>
+        <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
-        <category>摄影</category>
-        <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
         <category>spacedesk</category>
         <category>投屏</category>
         <category>vscode</category>
-        <category>flash</category>
-        <category>j-tag</category>
+        <category>ide</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
         <category>commenttranslate</category>
         <category>wsl</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>tmux</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>tmux</category>
         <category>unit</category>
         <category>m</category>
         <category>cm</category>
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>cortex-a7</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -155,22 +142,44 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>cortex-m3</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>git</category>
+        <category>pid</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
-        <category>modbus</category>
         <category>ucos</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
         <category>raspberry</category>
-        <category>wiringpi</category>
-        <category>pwm</category>
-        <category>rt-thread</category>
         <category>ap</category>
         <category>wifi</category>
+        <category>rt-thread</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>modbus</category>
+        <category>zlib</category>
+        <category>minizip</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2021/42e53028/</guid>
             <title>RT-Thread</title>
@@ -2153,7 +2162,7 @@
 &lt;p&gt;仿真运行结果如下：&lt;/p&gt;
 &lt;figure class=&#34;highlight vbnet&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs vbnet&#34;&gt;\ | /&lt;br&gt;- RT -     Thread Operating System&lt;br&gt; / | \     &lt;span class=&#34;hljs-number&#34;&gt;3.1&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; build Aug &lt;span class=&#34;hljs-number&#34;&gt;24&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;2018&lt;/span&gt;&lt;br&gt; &lt;span class=&#34;hljs-number&#34;&gt;2006&lt;/span&gt; - &lt;span class=&#34;hljs-number&#34;&gt;2018&lt;/span&gt; Copyright &lt;span class=&#34;hljs-keyword&#34;&gt;by&lt;/span&gt; rt-thread team&lt;br&gt;msh &amp;gt; msgq_sample&lt;br&gt;msh &amp;gt;thread2: send message - A&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread1:&lt;/span&gt; recv msg &lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; msg queue, the content:A&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - B&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - C&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - D&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - E&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread1:&lt;/span&gt; recv msg &lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; msg queue, the content:B&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - F&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - G&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - H&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send urgent message - I&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - J&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread1:&lt;/span&gt; recv msg &lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; msg queue, the content:I&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - K&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - L&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - M&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - N&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - O&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread1:&lt;/span&gt; recv msg &lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; msg queue, the content:C&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - P&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - Q&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - R&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - S&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread2:&lt;/span&gt; send message - T&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread1:&lt;/span&gt; recv msg &lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; msg queue, the content:D&lt;br&gt;message queue &lt;span class=&#34;hljs-keyword&#34;&gt;stop&lt;/span&gt; send, thread2 quit&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread1:&lt;/span&gt; recv msg &lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; msg queue, the content:E&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread1:&lt;/span&gt; recv msg &lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; msg queue, the content:F&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread1:&lt;/span&gt; recv msg &lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; msg queue, the content:G&lt;br&gt;…&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread1:&lt;/span&gt; recv msg &lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; msg queue, the content:T&lt;br&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;thread1:&lt;/span&gt; detach mq&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;h2 id=&#34;信号Sigset&#34;&gt;&lt;a href=&#34;#信号Sigset&#34; class=&#34;headerlink&#34; title=&#34;信号Sigset&#34;&gt;&lt;/a&gt;信号Sigset&lt;/h2&gt;&lt;p&gt;信号（又称为软中断信号），在软件层次上是对中断机制的一种模拟，在原理上，一个线程收到一个信号与处理器收到一个中断请求可以说是类似的。&lt;/p&gt;
+&lt;h2 id=&#34;信号Signal&#34;&gt;&lt;a href=&#34;#信号Signal&#34; class=&#34;headerlink&#34; title=&#34;信号Signal&#34;&gt;&lt;/a&gt;信号Signal&lt;/h2&gt;&lt;p&gt;信号（又称为软中断信号），在软件层次上是对中断机制的一种模拟，在原理上，一个线程收到一个信号与处理器收到一个中断请求可以说是类似的。&lt;/p&gt;
 &lt;p&gt;应用程序(用户)能够使用的信号为 SIGUSR1（10）和 SIGUSR2（12）。&lt;/p&gt;
 &lt;p&gt;信号本质是&lt;strong&gt;软中断&lt;/strong&gt;，用来通知线程发生了异步事件，用做线程之间的异常通知、应急处理。一个线程不必通过任何操作来等待信号的到达，事实上，线程也不知道信号到底什么时候到达，线程之间可以互相通过调用 rt_thread_kill() 发送软中断信号。&lt;/p&gt;
 &lt;p&gt;收到信号的线程对各种信号有不同的处理方法，在信号安装时设定 handler 参数，处理方法可以分为三类：&lt;/p&gt;
@@ -2322,7 +2331,8 @@
 &lt;p&gt;&lt;img src=&#34;/2021/42e53028/08Memory_distribution.png&#34; alt=&#34;RT-Thread 内存分布&#34;&gt;&lt;/p&gt;
 &lt;p&gt;内存堆可以在当前资源满足的情况下，根据用户的需求分配任意大小的内存块。而当用户不需要再使用这些内存块时，又可以释放回堆中供其他应用分配使用。RT-Thread 系统为了满足不同的需求，提供了不同的内存管理算法，分别是&lt;strong&gt;小内存管理算法&lt;/strong&gt;、&lt;strong&gt;Slab&lt;/strong&gt; 管理算法和 &lt;strong&gt;memheap 管理算法&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;小内存管理算法&lt;/strong&gt;主要针对系统资源比较少，一般用于小于 2MB 内存空间的系统；&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;slab 内存管理算法&lt;/strong&gt;则主要是在系统资源比较丰富时，提供了一种近似多内存池管理算法的快速算法。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;slab 内存管理算法&lt;/strong&gt;则主要是0&lt;/p&gt;
+&lt;p&gt;在系统资源比较丰富时，提供了一种近似多内存池管理算法的快速算法。&lt;/p&gt;
 &lt;p&gt; &lt;strong&gt;memheap 管理算法&lt;/strong&gt;。memheap 方法适用于系统存在多个内存堆的情况，它可以将多个内存 “粘贴” 在一起，形成一个大的内存堆，用户使用起来会非常方便。&lt;/p&gt;
 &lt;h3 id=&#34;小内存管理算法&#34;&gt;&lt;a href=&#34;#小内存管理算法&#34; class=&#34;headerlink&#34; title=&#34;小内存管理算法&#34;&gt;&lt;/a&gt;小内存管理算法&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2021/42e53028/08smem_work.png&#34; alt=&#34;小内存管理工作机制图&#34;&gt;&lt;/p&gt;
 &lt;p&gt;每个内存块（不管是已分配的内存块还是空闲的内存块）都包含一个数据头，其中包括：&lt;/p&gt;

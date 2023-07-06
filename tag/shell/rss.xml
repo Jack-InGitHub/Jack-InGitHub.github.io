@@ -7,146 +7,133 @@
         <language>zh-CN</language>
         <pubDate>Mon, 12 Dec 2022 22:57:15 +0800</pubDate>
         <lastBuildDate>Mon, 12 Dec 2022 22:57:15 +0800</lastBuildDate>
-        <category>embedded</category>
-        <category>note</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>ms-dos</category>
+        <category>pc</category>
+        <category>software</category>
         <category>windows</category>
-        <category>c</category>
-        <category>c/c++</category>
-        <category>pid</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>c++</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>cat_drive</category>
+        <category>linux</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>摄影</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>cad</category>
+        <category>embedded</category>
+        <category>stm32</category>
+        <category>note</category>
+        <category>synology</category>
+        <category>life</category>
+        <category>人生</category>
+        <category>蓝桥杯</category>
+        <category>心理学</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
+        <category>c/c++</category>
+        <category>workflow</category>
         <category>hex</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
+        <category>license</category>
+        <category>md5</category>
         <category>osi</category>
         <category>markdown</category>
-        <category>md5</category>
+        <category>iap</category>
+        <category>bootloader</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
-        <category>iap</category>
-        <category>bootloader</category>
-        <category>stm32</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
-        <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
         <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>driver</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>makefile</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
         <category>ip</category>
         <category>location</category>
         <category>api</category>
-        <category>机智云</category>
-        <category>android</category>
-        <category>mtp</category>
-        <category>pc</category>
-        <category>driver</category>
+        <category>zsh</category>
+        <category>shell</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
-        <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>超声波</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>ct117e-ex</category>
-        <category>zip</category>
-        <category>gzip</category>
-        <category>bzip</category>
-        <category>tar</category>
-        <category>life</category>
-        <category>workflow</category>
-        <category>人生</category>
         <category>github</category>
         <category>hosts</category>
-        <category>cad</category>
-        <category>心理学</category>
-        <category>cat_drive</category>
-        <category>hardware</category>
-        <category>lenovo</category>
-        <category>disk</category>
-        <category>switch</category>
-        <category>nintendo</category>
-        <category>game</category>
-        <category>software</category>
-        <category>synology</category>
+        <category>ct117e-ex</category>
+        <category>机智云</category>
+        <category>超声波</category>
+        <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
-        <category>摄影</category>
-        <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
         <category>spacedesk</category>
         <category>投屏</category>
         <category>vscode</category>
-        <category>flash</category>
-        <category>j-tag</category>
+        <category>ide</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
         <category>commenttranslate</category>
         <category>wsl</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>tmux</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>tmux</category>
         <category>unit</category>
         <category>m</category>
         <category>cm</category>
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>cortex-a7</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -155,31 +142,87 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>cortex-m3</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>git</category>
+        <category>pid</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
-        <category>modbus</category>
         <category>ucos</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
         <category>raspberry</category>
-        <category>wiringpi</category>
-        <category>pwm</category>
-        <category>rt-thread</category>
         <category>ap</category>
         <category>wifi</category>
+        <category>rt-thread</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>modbus</category>
+        <category>zlib</category>
+        <category>minizip</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/d911b12b/</guid>
-            <title>Zsh</title>
+            <title>Zsh 安装 配置</title>
             <link>https://www.oikiou.top/2022/d911b12b/</link>
+            <category>linux</category>
             <category>zsh</category>
             <category>shell</category>
-            <category>linux</category>
             <pubDate>Mon, 12 Dec 2022 22:57:15 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;Powerlevel10k&#34;&gt;&lt;a href=&#34;#Powerlevel10k&#34; class=&#34;headerlink&#34; title=&#34;Powerlevel10k&#34;&gt;&lt;/a&gt;Powerlevel10k&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/romkatv/powerlevel10k&#34;&gt;https://github.com/romkatv/powerlevel10k&lt;/a&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;zsh&#34;&gt;&lt;a href=&#34;#zsh&#34; class=&#34;headerlink&#34; title=&#34;zsh&#34;&gt;&lt;/a&gt;zsh&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Zsh&lt;/strong&gt;是一个为交互使用而设计的shell，它也是一种强大的脚本语言。&lt;em&gt;bash&lt;/em&gt;、ksh 和 &lt;em&gt;tcsh&lt;/em&gt; 的许多有用特性都被合并到 &lt;em&gt;zsh&lt;/em&gt; 中; 添加了许多原始功能。&lt;/p&gt;
+&lt;h2 id=&#34;安装&#34;&gt;&lt;a href=&#34;#安装&#34; class=&#34;headerlink&#34; title=&#34;安装&#34;&gt;&lt;/a&gt;安装&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;Ubuntu&lt;/span&gt; &lt;br&gt;sudo apt-get install zsh&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  zsh非常强大，同时它的配置也是较为繁杂，所以我们使用“oh my zsh”这个框架来简化我们的配置流程。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;cat /etc/shells&lt;/code&gt; 查看当前系统有哪些shell版本&lt;br&gt;&lt;code&gt;echo @SHELL&lt;/code&gt; 查看当前使用的shell版本&lt;/p&gt;
+&lt;p&gt;安装完成后会在&lt;code&gt;~&lt;/code&gt;目录下产生一个&lt;code&gt;.zshrc&lt;/code&gt;这个跟&lt;code&gt;.bashrc&lt;/code&gt;是一样的文件，只是配置的对象不一样。&lt;code&gt;rc&lt;/code&gt;就是启动的意思，启动zsh读取的配置就是这个文件。&lt;/p&gt;
+&lt;h1 id=&#34;Oh-My-Zsh&#34;&gt;&lt;a href=&#34;#Oh-My-Zsh&#34; class=&#34;headerlink&#34; title=&#34;Oh My Zsh&#34;&gt;&lt;/a&gt;Oh My Zsh&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://ohmyz.sh/&#34;&gt;官网&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Oh My Zsh 是一个令人愉快的、开源的、社区驱动的框架，用于管理你的 Zsh 配置。它捆绑了数千个有用的功能、助手、插件、主题和一些东西 让你大喊大叫… “Oh My ZSH!”&lt;/p&gt;
+&lt;h2 id=&#34;安装-1&#34;&gt;&lt;a href=&#34;#安装-1&#34; class=&#34;headerlink&#34; title=&#34;安装&#34;&gt;&lt;/a&gt;安装&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;sh -c &amp;quot;$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)&amp;quot;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;安装完成后发现&lt;code&gt;~&lt;/code&gt;目录下会有一个&lt;code&gt;.oh-my-zsh&lt;/code&gt;文件夹，文件夹内的一些文件主要用处&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;themes&lt;/code&gt; 一些主题文件&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;plugins&lt;/code&gt; 插件，我们的插件就下载放在这个文件夹里面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Powerlevel10k 是用于 Zsh 美化的一个非常酷的主题，它强调速度、 灵活性和开箱即用的体验。&lt;/p&gt;
+&lt;h2 id=&#34;插件&#34;&gt;&lt;a href=&#34;#插件&#34; class=&#34;headerlink&#34; title=&#34;插件&#34;&gt;&lt;/a&gt;插件&lt;/h2&gt;&lt;h3 id=&#34;zsh-syntax-highlighting-语法高亮&#34;&gt;&lt;a href=&#34;#zsh-syntax-highlighting-语法高亮&#34; class=&#34;headerlink&#34; title=&#34;zsh-syntax-highlighting 语法高亮&#34;&gt;&lt;/a&gt;zsh-syntax-highlighting 语法高亮&lt;/h3&gt;&lt;p&gt;插件功能：这个包为&lt;code&gt;shell zsh&lt;/code&gt;提供语法突出显示。它允许高亮显示在&lt;code&gt;zsh&lt;/code&gt;提示符下输入到交互式终端的命令。这有助于在运行命令之前检查它们，特别是在捕获语法错误方面。&lt;br&gt;例：在你输入某个命令时，如果该命令不存在，那么它显示为红色；否则，它会变成绿色。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $&amp;#123;ZSH_CUSTOM:-~/.oh-my-zsh/custom&amp;#125;/plugins/zsh-syntax-highlighting&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;将 &lt;code&gt;zsh-syntax-highlighting&lt;/code&gt; 添加到 &lt;code&gt;~/.zshrc&lt;/code&gt; 中&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;plugins=(--other-- zsh-syntax-highlighting)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;zsh-autosuggestions-自动补全&#34;&gt;&lt;a href=&#34;#zsh-autosuggestions-自动补全&#34; class=&#34;headerlink&#34; title=&#34;zsh-autosuggestions 自动补全&#34;&gt;&lt;/a&gt;zsh-autosuggestions 自动补全&lt;/h3&gt;&lt;p&gt;插件功能：输入命令时可提示自动补全（灰色部分），按tab键（→ ）即可补全。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;git clone https://github.com/zsh-users/zsh-autosuggestions $&amp;#123;ZSH_CUSTOM:-~/.oh-my-zsh/custom&amp;#125;/plugins/zsh-autosuggestions&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;将 &lt;code&gt;zsh-autosuggestions&lt;/code&gt; 添加到 &lt;code&gt;~/.zshrc&lt;/code&gt; 中&lt;/p&gt;
+&lt;figure class=&#34;highlight abnf&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs abnf&#34;&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;plugins&lt;/span&gt;&lt;span class=&#34;hljs-operator&#34;&gt;=&lt;/span&gt;(--other-- zsh-autosuggestions)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;Powerlevel10k&#34;&gt;&lt;a href=&#34;#Powerlevel10k&#34; class=&#34;headerlink&#34; title=&#34;Powerlevel10k&#34;&gt;&lt;/a&gt;Powerlevel10k&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/romkatv/powerlevel10k&#34;&gt;https://github.com/romkatv/powerlevel10k&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装-2&#34;&gt;&lt;a href=&#34;#安装-2&#34; class=&#34;headerlink&#34; title=&#34;安装&#34;&gt;&lt;/a&gt;安装&lt;/h2&gt;&lt;h3 id=&#34;安装字体&#34;&gt;&lt;a href=&#34;#安装字体&#34; class=&#34;headerlink&#34; title=&#34;安装字体&#34;&gt;&lt;/a&gt;安装字体&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;  powerlevel10k里面使用了很多的图标，而这些图标只有一些特定的字体才能显示，所以我们需要安装这些字体这样才能正常显示，我们称这些有很多图标的字体为&lt;code&gt;Nerd Fonts&lt;/code&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;首先我们需要先安装一下字体，我们先下载官方推荐的&lt;code&gt;MesloLGS NF&lt;/code&gt;字体来配置。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Download these four ttf files:&lt;ul&gt;
 &lt;li&gt;[MesloLGS NF Regular.ttf](&lt;a href=&#34;https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS&#34;&gt;https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS&lt;/a&gt; NF Regular.ttf)&lt;/li&gt;
@@ -190,6 +233,27 @@
 &lt;/li&gt;
 &lt;li&gt;Double-click on each file and click “Install”. This will make &lt;code&gt;MesloLGS NF&lt;/code&gt; font available to all applications on your system.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  我们如果是在ssh配置远程主机的时候，是在本地的主机上安装这个字体。&lt;/p&gt;
+&lt;p&gt;  字体影响的是显示，ssh显示是在本地渲染的，所以肯定是在本地主机上安装字体。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;其他的Nerd-Fonts字体&#34;&gt;&lt;a href=&#34;#其他的Nerd-Fonts字体&#34; class=&#34;headerlink&#34; title=&#34;其他的Nerd Fonts字体&#34;&gt;&lt;/a&gt;其他的&lt;code&gt;Nerd Fonts&lt;/code&gt;字体&lt;/h4&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/ryanoasis/nerd-fonts&#34;&gt;https://github.com/ryanoasis/nerd-fonts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我们可以在这里下载一些打过补丁的热门字体。&lt;/p&gt;
+&lt;h3 id=&#34;安装Powerlevel10k&#34;&gt;&lt;a href=&#34;#安装Powerlevel10k&#34; class=&#34;headerlink&#34; title=&#34;安装Powerlevel10k&#34;&gt;&lt;/a&gt;安装Powerlevel10k&lt;/h3&gt;&lt;p&gt;官方的README文档提出了几种安装方式，它推荐使用手动安装方式。&lt;/p&gt;
+&lt;h4 id=&#34;Manual&#34;&gt;&lt;a href=&#34;#Manual&#34; class=&#34;headerlink&#34; title=&#34;Manual&#34;&gt;&lt;/a&gt;Manual&lt;/h4&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k&lt;br&gt;echo &amp;#x27;source ~/powerlevel10k/powerlevel10k.zsh-theme&amp;#x27; &amp;gt;&amp;gt;~/.zshrc&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h4 id=&#34;Oh-My-Zsh-1&#34;&gt;&lt;a href=&#34;#Oh-My-Zsh-1&#34; class=&#34;headerlink&#34; title=&#34;Oh My Zsh&#34;&gt;&lt;/a&gt;Oh My Zsh&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Clone the repository:&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $&amp;#123;ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom&amp;#125;/themes/powerlevel10k&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在&lt;code&gt;~/.zshrc&lt;/code&gt;文件中，设置&lt;code&gt;ZSH_THEME=&amp;quot;powerlevel10k/powerlevel10k&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;配置&#34;&gt;&lt;a href=&#34;#配置&#34; class=&#34;headerlink&#34; title=&#34;配置&#34;&gt;&lt;/a&gt;配置&lt;/h3&gt;&lt;p&gt;安装好后我们启动zsh，在zsh环境下输入&lt;code&gt;p10k configure&lt;/code&gt;用于配置p10k&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  这一步我在&lt;code&gt;MobaXterm&lt;/code&gt;下进行，发现可配置的选项缺失很多，后面在&lt;code&gt;Windows Terminal&lt;/code&gt;重新配置发现显示是正常的。&lt;/p&gt;
+&lt;p&gt;  &lt;code&gt;MobaXterm&lt;/code&gt;下&lt;code&gt;Fira Code&lt;/code&gt;字体似乎显示也有些问题，&lt;code&gt;MesloLGS NF&lt;/code&gt;就是正常的。&lt;/p&gt;
+&lt;/blockquote&gt;
  ]]></description>
         </item>
     </channel>

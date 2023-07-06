@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"tools\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2023/efa34a49/",
+            "url": "https://www.oikiou.top/2023/efa34a49/",
+            "title": "speedtest.net 测速",
+            "date_published": "2023-03-26T07:39:31.000Z",
+            "content_html": "<h1 id=\"安装\"><a href=\"#安装\" class=\"headerlink\" title=\"安装\"></a>安装</h1><h2 id=\"Ubuntu\"><a href=\"#Ubuntu\" class=\"headerlink\" title=\"Ubuntu\"></a>Ubuntu</h2><p>对于以前安装过<code>speedtest-cli</code>版本用户来说，需要先卸载原来的版本</p>\n<figure class=\"highlight shell\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br></pre></td><td class=\"code\"><pre><code class=\"hljs shell\">sudo apt-get install curl<br>curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo bash<br>sudo apt-get install speedtest<br></code></pre></td></tr></table></figure>\n\n<h1 id=\"Service-ID-List\"><a href=\"#Service-ID-List\" class=\"headerlink\" title=\"Service ID List\"></a>Service ID List</h1><p><a href=\"https://williamyaps.github.io/wlmjavascript/servercli.html\">Speedtest Server List (williamyaps.github.io)</a></p>\n<blockquote>\n<p>  我们可以在<code>www.speedtest.net</code>可以看到当前所选节点的ID，鼠标停留在当前节点名字上，浏览器会显示这个节点的链接，这个链接最后面的字段<code>id=xxxx</code>就是这个节点的ID。</p>\n</blockquote>\n<p>现在有很多节点已经不能用了，下面的是2023.3.26测试可用的。</p>\n<ul>\n<li>中国电信</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th align=\"center\">节点位置</th>\n<th align=\"center\">服务器id</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"center\">上海</td>\n<td align=\"center\">3633</td>\n</tr>\n<tr>\n<td align=\"center\">广东广州5G</td>\n<td align=\"center\">27594</td>\n</tr>\n<tr>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n</tr>\n</tbody></table>\n<ul>\n<li>中国联通</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th align=\"center\">节点位置</th>\n<th align=\"center\">服务器id</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"center\">上海</td>\n<td align=\"center\">24447</td>\n</tr>\n<tr>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n</tr>\n</tbody></table>\n<ul>\n<li>中国移动</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th align=\"center\">节点位置</th>\n<th align=\"center\">服务器id</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"center\">浙江 杭州 5G</td>\n<td align=\"center\">54312</td>\n</tr>\n<tr>\n<td align=\"center\">北京</td>\n<td align=\"center\">25858</td>\n</tr>\n</tbody></table>\n<ul>\n<li>其他</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th>节点位置</th>\n<th>服务器id</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>福州</td>\n<td>56354</td>\n</tr>\n</tbody></table>\n",
+            "tags": [
+                "speedtest",
+                "tools"
+            ]
+        }
+    ]
+}
