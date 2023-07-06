@@ -7,146 +7,133 @@
         <language>zh-CN</language>
         <pubDate>Tue, 21 Jun 2022 22:57:15 +0800</pubDate>
         <lastBuildDate>Tue, 21 Jun 2022 22:57:15 +0800</lastBuildDate>
-        <category>embedded</category>
-        <category>note</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>ms-dos</category>
+        <category>pc</category>
+        <category>software</category>
         <category>windows</category>
-        <category>c</category>
-        <category>c/c++</category>
-        <category>pid</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>c++</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>cat_drive</category>
+        <category>linux</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>摄影</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>cad</category>
+        <category>embedded</category>
+        <category>stm32</category>
+        <category>note</category>
+        <category>synology</category>
+        <category>life</category>
+        <category>人生</category>
+        <category>蓝桥杯</category>
+        <category>心理学</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
+        <category>c/c++</category>
+        <category>workflow</category>
         <category>hex</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
+        <category>license</category>
+        <category>md5</category>
         <category>osi</category>
         <category>markdown</category>
-        <category>md5</category>
+        <category>iap</category>
+        <category>bootloader</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
-        <category>iap</category>
-        <category>bootloader</category>
-        <category>stm32</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
-        <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
         <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>driver</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>makefile</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
         <category>ip</category>
         <category>location</category>
         <category>api</category>
-        <category>机智云</category>
-        <category>android</category>
-        <category>mtp</category>
-        <category>pc</category>
-        <category>driver</category>
+        <category>zsh</category>
+        <category>shell</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
-        <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>超声波</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>ct117e-ex</category>
-        <category>zip</category>
-        <category>gzip</category>
-        <category>bzip</category>
-        <category>tar</category>
-        <category>life</category>
-        <category>workflow</category>
-        <category>人生</category>
         <category>github</category>
         <category>hosts</category>
-        <category>cad</category>
-        <category>心理学</category>
-        <category>cat_drive</category>
-        <category>hardware</category>
-        <category>lenovo</category>
-        <category>disk</category>
-        <category>switch</category>
-        <category>nintendo</category>
-        <category>game</category>
-        <category>software</category>
-        <category>synology</category>
+        <category>ct117e-ex</category>
+        <category>机智云</category>
+        <category>超声波</category>
+        <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
-        <category>摄影</category>
-        <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
         <category>spacedesk</category>
         <category>投屏</category>
         <category>vscode</category>
-        <category>flash</category>
-        <category>j-tag</category>
+        <category>ide</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
         <category>commenttranslate</category>
         <category>wsl</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>tmux</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>tmux</category>
         <category>unit</category>
         <category>m</category>
         <category>cm</category>
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>cortex-a7</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -155,28 +142,50 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>cortex-m3</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>git</category>
+        <category>pid</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
-        <category>modbus</category>
         <category>ucos</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
         <category>raspberry</category>
-        <category>wiringpi</category>
-        <category>pwm</category>
-        <category>rt-thread</category>
         <category>ap</category>
         <category>wifi</category>
+        <category>rt-thread</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>modbus</category>
+        <category>zlib</category>
+        <category>minizip</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/ddff0c71/</guid>
             <title>MS-DOS</title>
             <link>https://www.oikiou.top/2022/ddff0c71/</link>
-            <category>ms-dos</category>
             <category>windows</category>
+            <category>ms-dos</category>
             <pubDate>Tue, 21 Jun 2022 22:57:15 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;MS-DOS&#34;&gt;&lt;a href=&#34;#MS-DOS&#34; class=&#34;headerlink&#34; title=&#34;MS-DOS&#34;&gt;&lt;/a&gt;MS-DOS&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;CMD(windows-commands)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands&#34;&gt;Windowscommands&lt;/a&gt;&lt;/p&gt;
@@ -1342,34 +1351,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://www.oikiou.top/2020/bf76c113/</guid>
-            <title>MicroPython</title>
-            <link>https://www.oikiou.top/2020/bf76c113/</link>
-            <category>embedded</category>
-            <category>micropython</category>
-            <category>python</category>
-            <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;MicroPython&#34;&gt;&lt;a href=&#34;#MicroPython&#34; class=&#34;headerlink&#34; title=&#34;MicroPython&#34;&gt;&lt;/a&gt;MicroPython&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.cirmall.com/articles/301308/p1&#34;&gt;简单、方便、快速开发嵌入式实时系统——MicroPytho&lt;/a&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; pyb &lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; uart&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; pyb &lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; I2C &lt;span class=&#34;hljs-comment&#34;&gt;#工程师将从pyb库导入I2C&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#这里的PYB库提供了接入到微控制器外围功能，如SPI，I2C以及UART&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#在使用任何外设之前，工程师必须实例化外设类以创建可用于控制外设的对象。一旦外设类被初始化，工程师可以执行任何其他操作，例如在进入主应用程序循环之前验证设备是否存在，主要应用程序代码将会每秒采样一次传感器。&lt;/span&gt;&lt;br&gt;&lt;br&gt;GlobalTemp = &lt;span class=&#34;hljs-number&#34;&gt;0.0&lt;/span&gt;&lt;br&gt;&lt;br&gt;GlobalBarometer = &lt;span class=&#34;hljs-number&#34;&gt;0.0&lt;/span&gt;&lt;br&gt;&lt;br&gt;＃初始化和实例化I2C外设&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;I2C2 = I2C（&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;，I2C.MASTER，波特率= &lt;span class=&#34;hljs-number&#34;&gt;100000&lt;/span&gt;）&lt;br&gt;&lt;br&gt;＃配置Uart1进行通信&lt;br&gt;&lt;br&gt;Uart1 = pyb.UART（&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;115200&lt;/span&gt;）&lt;br&gt;&lt;br&gt;Uart1.init（&lt;span class=&#34;hljs-number&#34;&gt;115200&lt;/span&gt;，bits = &lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;，parity = &lt;span class=&#34;hljs-literal&#34;&gt;None&lt;/span&gt;，stop = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;）&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;:&lt;br&gt;&lt;br&gt;SampleSensor（）&lt;br&gt;&lt;br&gt;pyb.delay（&lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt;）&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;SensorSample&lt;/span&gt;（）：&lt;br&gt;&lt;br&gt;＃读取温度数据&lt;br&gt;&lt;br&gt;TempSample = I2C2.readfrom_mem（&lt;span class=&#34;hljs-number&#34;&gt;119&lt;/span&gt;，&lt;span class=&#34;hljs-number&#34;&gt;0xFA&lt;/span&gt;，&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;）&lt;br&gt;&lt;br&gt;＃读取压力数据&lt;br&gt;&lt;br&gt;PressureSample = I2C2.readfrom_mem（&lt;span class=&#34;hljs-number&#34;&gt;119&lt;/span&gt;，&lt;span class=&#34;hljs-number&#34;&gt;0xF7&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;）&lt;br&gt;&lt;br&gt;将样本数据转换为字符串&lt;br&gt;&lt;br&gt;data =“＃，temperature =”&lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;（TempSample）+“，pressure”+ &lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;（PressureSample）+“，＃，\ n \ r”&lt;br&gt;&lt;br&gt;＃将数据写入蓝牙&lt;br&gt;&lt;br&gt;Uart1.write（data）&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://www.oikiou.top/2020/3dd7ffa7/</guid>
             <title>C</title>
             <link>https://www.oikiou.top/2020/3dd7ffa7/</link>
-            <category>c</category>
             <category>c/c++</category>
+            <category>c</category>
             <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;标准库函数&#34;&gt;&lt;a href=&#34;#标准库函数&#34; class=&#34;headerlink&#34; title=&#34;标准库函数&#34;&gt;&lt;/a&gt;标准库函数&lt;/h1&gt;&lt;h2 id=&#34;fprintf-输出到流中&#34;&gt;&lt;a href=&#34;#fprintf-输出到流中&#34; class=&#34;headerlink&#34; title=&#34;fprintf 输出到流中&#34;&gt;&lt;/a&gt;fprintf 输出到流中&lt;/h2&gt;&lt;h3 id=&#34;描述&#34;&gt;&lt;a href=&#34;#描述&#34; class=&#34;headerlink&#34; title=&#34;描述&#34;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;p&gt;C 库函数 &lt;strong&gt;int fprintf(FILE *stream, const char *format, …)&lt;/strong&gt; 发送格式化输出到流 stream 中。&lt;/p&gt;
 &lt;h3 id=&#34;声明&#34;&gt;&lt;a href=&#34;#声明&#34; class=&#34;headerlink&#34; title=&#34;声明&#34;&gt;&lt;/a&gt;声明&lt;/h3&gt;&lt;p&gt;下面是 fprintf() 函数的声明。&lt;/p&gt;
@@ -1704,6 +1690,29 @@
 &lt;/blockquote&gt;
 &lt;p&gt;在默认情况下，stdout是行缓冲的，他的输出会放在一个buffer里面，只有到换行的时候，才会输出到屏幕。而stderr是无缓冲的，会直接输出。&lt;/p&gt;
 &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;fprintf&lt;/span&gt;(&lt;span class=&#34;hljs-built_in&#34;&gt;stdout&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Group&amp;quot;&lt;/span&gt;);&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;fprintf&lt;/span&gt;(&lt;span class=&#34;hljs-built_in&#34;&gt;stderr&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;XiyouLinux&amp;quot;&lt;/span&gt;);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/*&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;linux下，第一次会输出XiYouLinuxGroup,是因为stdout将输出的Group放到了缓冲区当中直到程序结束在将缓冲区中的数据刷新出来。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;*/&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2020/bf76c113/</guid>
+            <title>MicroPython</title>
+            <link>https://www.oikiou.top/2020/bf76c113/</link>
+            <category>embedded</category>
+            <category>micropython</category>
+            <category>python</category>
+            <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;MicroPython&#34;&gt;&lt;a href=&#34;#MicroPython&#34; class=&#34;headerlink&#34; title=&#34;MicroPython&#34;&gt;&lt;/a&gt;MicroPython&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.cirmall.com/articles/301308/p1&#34;&gt;简单、方便、快速开发嵌入式实时系统——MicroPytho&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; pyb &lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; uart&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; pyb &lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; I2C &lt;span class=&#34;hljs-comment&#34;&gt;#工程师将从pyb库导入I2C&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#这里的PYB库提供了接入到微控制器外围功能，如SPI，I2C以及UART&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#在使用任何外设之前，工程师必须实例化外设类以创建可用于控制外设的对象。一旦外设类被初始化，工程师可以执行任何其他操作，例如在进入主应用程序循环之前验证设备是否存在，主要应用程序代码将会每秒采样一次传感器。&lt;/span&gt;&lt;br&gt;&lt;br&gt;GlobalTemp = &lt;span class=&#34;hljs-number&#34;&gt;0.0&lt;/span&gt;&lt;br&gt;&lt;br&gt;GlobalBarometer = &lt;span class=&#34;hljs-number&#34;&gt;0.0&lt;/span&gt;&lt;br&gt;&lt;br&gt;＃初始化和实例化I2C外设&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;I2C2 = I2C（&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;，I2C.MASTER，波特率= &lt;span class=&#34;hljs-number&#34;&gt;100000&lt;/span&gt;）&lt;br&gt;&lt;br&gt;＃配置Uart1进行通信&lt;br&gt;&lt;br&gt;Uart1 = pyb.UART（&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;115200&lt;/span&gt;）&lt;br&gt;&lt;br&gt;Uart1.init（&lt;span class=&#34;hljs-number&#34;&gt;115200&lt;/span&gt;，bits = &lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;，parity = &lt;span class=&#34;hljs-literal&#34;&gt;None&lt;/span&gt;，stop = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;）&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;:&lt;br&gt;&lt;br&gt;SampleSensor（）&lt;br&gt;&lt;br&gt;pyb.delay（&lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt;）&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;SensorSample&lt;/span&gt;（）：&lt;br&gt;&lt;br&gt;＃读取温度数据&lt;br&gt;&lt;br&gt;TempSample = I2C2.readfrom_mem（&lt;span class=&#34;hljs-number&#34;&gt;119&lt;/span&gt;，&lt;span class=&#34;hljs-number&#34;&gt;0xFA&lt;/span&gt;，&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;）&lt;br&gt;&lt;br&gt;＃读取压力数据&lt;br&gt;&lt;br&gt;PressureSample = I2C2.readfrom_mem（&lt;span class=&#34;hljs-number&#34;&gt;119&lt;/span&gt;，&lt;span class=&#34;hljs-number&#34;&gt;0xF7&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;）&lt;br&gt;&lt;br&gt;将样本数据转换为字符串&lt;br&gt;&lt;br&gt;data =“＃，temperature =”&lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;（TempSample）+“，pressure”+ &lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;（PressureSample）+“，＃，\ n \ r”&lt;br&gt;&lt;br&gt;＃将数据写入蓝牙&lt;br&gt;&lt;br&gt;Uart1.write（data）&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
 
  ]]></description>
         </item>

@@ -4,146 +4,133 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;osi&#34; tag</title>
     <link href="https://www.oikiou.top" />
     <updated>2020-08-08T00:08:08.000Z</updated>
-    <category term="embedded" />
-    <category term="note" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="ms-dos" />
+    <category term="pc" />
+    <category term="software" />
     <category term="windows" />
-    <category term="c" />
-    <category term="c/c++" />
-    <category term="pid" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="c++" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="hp" />
-    <category term="chrome" />
+    <category term="cat_drive" />
+    <category term="linux" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="摄影" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="cad" />
+    <category term="embedded" />
+    <category term="stm32" />
+    <category term="note" />
+    <category term="synology" />
+    <category term="life" />
+    <category term="人生" />
+    <category term="蓝桥杯" />
+    <category term="心理学" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="workflow" />
     <category term="hex" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
+    <category term="license" />
+    <category term="md5" />
     <category term="osi" />
     <category term="markdown" />
-    <category term="md5" />
+    <category term="iap" />
+    <category term="bootloader" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
-    <category term="iap" />
-    <category term="bootloader" />
-    <category term="stm32" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
-    <category term="makefile" />
     <category term="xip" />
     <category term="nor" />
     <category term="nand" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="driver" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="makefile" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
     <category term="ip" />
     <category term="location" />
     <category term="api" />
-    <category term="机智云" />
-    <category term="android" />
-    <category term="mtp" />
-    <category term="pc" />
-    <category term="driver" />
+    <category term="zsh" />
+    <category term="shell" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
     <category term="DS_Store" />
     <category term="rtf" />
     <category term="后缀" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
-    <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="超声波" />
-    <category term="zsh" />
-    <category term="shell" />
-    <category term="linux" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="ct117e-ex" />
-    <category term="zip" />
-    <category term="gzip" />
-    <category term="bzip" />
-    <category term="tar" />
-    <category term="life" />
-    <category term="workflow" />
-    <category term="人生" />
     <category term="github" />
     <category term="hosts" />
-    <category term="cad" />
-    <category term="心理学" />
-    <category term="cat_drive" />
-    <category term="hardware" />
-    <category term="lenovo" />
-    <category term="disk" />
-    <category term="switch" />
-    <category term="nintendo" />
-    <category term="game" />
-    <category term="software" />
-    <category term="synology" />
+    <category term="ct117e-ex" />
+    <category term="机智云" />
+    <category term="超声波" />
+    <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
-    <category term="摄影" />
-    <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
     <category term="spacedesk" />
     <category term="投屏" />
     <category term="vscode" />
-    <category term="flash" />
-    <category term="j-tag" />
+    <category term="ide" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
     <category term="commenttranslate" />
     <category term="wsl" />
+    <category term="speedtest" />
+    <category term="tools" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="tmux" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="tmux" />
     <category term="unit" />
     <category term="m" />
     <category term="cm" />
     <category term="mm" />
     <category term="s" />
     <category term="us" />
-    <category term="cortex-a7" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -152,27 +139,49 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
-    <category term="cortex-m3" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="c++" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="git" />
+    <category term="pid" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
-    <category term="bluetooth" />
-    <category term="蓝牙" />
-    <category term="modbus" />
     <category term="ucos" />
+    <category term="正则表达式" />
+    <category term="cortex-a7" />
     <category term="raspberry" />
-    <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="rt-thread" />
     <category term="ap" />
     <category term="wifi" />
+    <category term="rt-thread" />
+    <category term="cortex-m3" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="wiringpi" />
+    <category term="pwm" />
+    <category term="linuxapp" />
+    <category term="curl" />
+    <category term="libcurl" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <category term="modbus" />
+    <category term="zlib" />
+    <category term="minizip" />
     <entry>
         <id>https://www.oikiou.top/2020/1a11e44c/</id>
         <title>OSI</title>
         <link rel="alternate" href="https://www.oikiou.top/2020/1a11e44c/"/>
-        <content type="html">&lt;h1 id=&#34;OSI&#34;&gt;&lt;a href=&#34;#OSI&#34; class=&#34;headerlink&#34; title=&#34;OSI&#34;&gt;&lt;/a&gt;OSI&lt;/h1&gt;&lt;p&gt;开放系统互联参考模型(OSI Referenec Model)，即我们通常所说的网络互联的七层框架，它是国际标准组织(International Organization for Standization)于1977年提出的标准，又称为ISO&amp;#x2F;IEC 7498或X.200建议。值得注意的是，OSI并没有提供一个可以实现的方法，它不是一个标准而只是一个制定标准时使用的概念性的框架，更不是一个网络协议。&lt;/p&gt;
+        <content type="html">&lt;h1 id=&#34;OSI&#34;&gt;&lt;a href=&#34;#OSI&#34; class=&#34;headerlink&#34; title=&#34;OSI&#34;&gt;&lt;/a&gt;OSI&lt;/h1&gt;&lt;p&gt;开放系统互联参考模型(Open System Interconnection Reference Model)，即我们通常所说的网络互联的七层框架，它是国际标准组织(International Organization for Standization)于1977年提出的标准，又称为ISO&amp;#x2F;IEC 7498或X.200建议。值得注意的是，OSI并没有提供一个可以实现的方法，它不是一个标准而只是一个制定标准时使用的&lt;strong&gt;概念性的框架&lt;/strong&gt;，更不是一个网络协议。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;物理层(Physical Layer)：主要功能为定义了网络的物理结构，传输的电磁标准，Bit流的编码及网络的时间原则，如分时复用及分频复用。决定了网络连接类型(端到端或多端连接)及物理拓扑结构。说的通俗一些，这一层主要负责实际的&lt;a href=&#34;https://product.pconline.com.cn/itbk/sjtx/sj/1203/2699254.html&#34;&gt;信号&lt;/a&gt;传输。&lt;/li&gt;
 &lt;li&gt;数据链路层(D&lt;a href=&#34;https://product.pconline.com.cn/itbk/diy/mb/1107/2474080.html&#34;&gt;ata&lt;/a&gt; Link eview)：在两个主机上建立数据链路连接，向物理层传输数据信号，并对信号进行处理使之无差错并合理的传输&lt;/li&gt;
@@ -187,41 +196,63 @@
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
 &lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;应用层(Application Layer)&lt;/td&gt;
 &lt;td&gt;消息&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;表示层(Presentation Layer)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;编码解码(文件类型)，加密解密，压缩解压缩&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;会话层(Session Layer)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;管理控制登录状态，实现同步服务&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;传输层(Transfer Layer)&lt;/td&gt;
 &lt;td&gt;数据段(segment)&lt;/td&gt;
+&lt;td&gt;段数据的生成，通过端口号定位进程，负责TCP&amp;#x2F;UDP传输 QUIC&lt;br&gt;流量控制(确保传输速度)，错误控制(数据完整接收)&lt;br&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;网络层(Network Layer)&lt;/td&gt;
 &lt;td&gt;分组、数据包（packet）&lt;/td&gt;
+&lt;td&gt;段数据封装成包，通过IP地址转发，核心是地址管理和路由管理，&lt;br/&gt;端到端传输&lt;br&gt;&lt;strong&gt;由路由器&lt;/strong&gt;实现端到端传输&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;链路层(Data Link eview)&lt;/td&gt;
 &lt;td&gt;帧（frame）&lt;/td&gt;
+&lt;td&gt;包封装成帧，通过MAC地址传输，指定数据的方向&lt;br/&gt;差错纠正，流控制&lt;br/&gt;&lt;strong&gt;由二层交换机&lt;/strong&gt;实现跳到跳传输&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;物理层(Physical Layer)&lt;/td&gt;
 &lt;td&gt;P-PDU（bit）&lt;/td&gt;
+&lt;td&gt;帧数据的比特流传输，通过不同的介质传输&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  OSI七层模型和实际模型的对比。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/1a11e44c/image-20230301230822078.png&#34; alt=&#34;image-20230301230822078&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  数据 段 包 帧 之间的关系。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/1a11e44c/image-20230301231548203.png&#34; alt=&#34;image-20230301231548203&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  不同类型的归类方法。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/1a11e44c/image-20230301233137428.png&#34; alt=&#34;image-20230301233137428&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;【互联网数据传输原理 ｜OSI七层网络参考模型】 &lt;a href=&#34;https://www.bilibili.com/video/BV1EU4y1v7ju/?share_source=copy_web&amp;vd_source=d601b4c192e3ada70b5ef4d27f972720&#34;&gt;https://www.bilibili.com/video/BV1EU4y1v7ju/?share_source=copy_web&amp;amp;vd_source=d601b4c192e3ada70b5ef4d27f972720&lt;/a&gt;&lt;/p&gt;
 </content>
         <category term="osi" />
         <updated>2020-08-08T00:08:08.000Z</updated>

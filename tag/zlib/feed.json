@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"zlib\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2023/bb8e62be/",
+            "url": "https://www.oikiou.top/2023/bb8e62be/",
+            "title": "Linux 应用编程 Zlib Minizip",
+            "date_published": "2023-03-25T09:26:15.000Z",
+            "content_html": "<h1 id=\"linux-下-zlib-的c语言开发\"><a href=\"#linux-下-zlib-的c语言开发\" class=\"headerlink\" title=\"linux 下 zlib 的c语言开发\"></a>linux 下 zlib 的c语言开发</h1><h1 id=\"安装\"><a href=\"#安装\" class=\"headerlink\" title=\"安装\"></a>安装</h1><figure class=\"highlight shell\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br></pre></td><td class=\"code\"><pre><code class=\"hljs shell\"><span class=\"hljs-meta prompt_\"># </span><span class=\"language-bash\">安装库 注意其中名称中是 1g 不是 lg   dev是就Development</span> <br>sudo apt install zlib1g-dev<br><span class=\"hljs-meta prompt_\"></span><br><span class=\"hljs-meta prompt_\"># </span><span class=\"language-bash\">编译需要添加 -lz 参数</span><br>gcc ... -lz<br></code></pre></td></tr></table></figure>\n\n\n\n<h1 id=\"使用\"><a href=\"#使用\" class=\"headerlink\" title=\"使用\"></a>使用</h1><p><a href=\"https://www.zlib.net/zlib_how.html\">zlib Usage Example</a></p>\n",
+            "tags": [
+                "linuxapp",
+                "zlib",
+                "minizip"
+            ]
+        }
+    ]
+}

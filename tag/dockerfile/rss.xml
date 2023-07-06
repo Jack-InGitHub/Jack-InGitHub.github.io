@@ -7,146 +7,133 @@
         <language>zh-CN</language>
         <pubDate>Thu, 21 Jul 2022 21:38:15 +0800</pubDate>
         <lastBuildDate>Thu, 21 Jul 2022 21:38:15 +0800</lastBuildDate>
-        <category>embedded</category>
-        <category>note</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>ms-dos</category>
+        <category>pc</category>
+        <category>software</category>
         <category>windows</category>
-        <category>c</category>
-        <category>c/c++</category>
-        <category>pid</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>c++</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>cat_drive</category>
+        <category>linux</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>摄影</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>cad</category>
+        <category>embedded</category>
+        <category>stm32</category>
+        <category>note</category>
+        <category>synology</category>
+        <category>life</category>
+        <category>人生</category>
+        <category>蓝桥杯</category>
+        <category>心理学</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
+        <category>c/c++</category>
+        <category>workflow</category>
         <category>hex</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
+        <category>license</category>
+        <category>md5</category>
         <category>osi</category>
         <category>markdown</category>
-        <category>md5</category>
+        <category>iap</category>
+        <category>bootloader</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
-        <category>iap</category>
-        <category>bootloader</category>
-        <category>stm32</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
-        <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
         <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>driver</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>makefile</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
         <category>ip</category>
         <category>location</category>
         <category>api</category>
-        <category>机智云</category>
-        <category>android</category>
-        <category>mtp</category>
-        <category>pc</category>
-        <category>driver</category>
+        <category>zsh</category>
+        <category>shell</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
-        <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>超声波</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>ct117e-ex</category>
-        <category>zip</category>
-        <category>gzip</category>
-        <category>bzip</category>
-        <category>tar</category>
-        <category>life</category>
-        <category>workflow</category>
-        <category>人生</category>
         <category>github</category>
         <category>hosts</category>
-        <category>cad</category>
-        <category>心理学</category>
-        <category>cat_drive</category>
-        <category>hardware</category>
-        <category>lenovo</category>
-        <category>disk</category>
-        <category>switch</category>
-        <category>nintendo</category>
-        <category>game</category>
-        <category>software</category>
-        <category>synology</category>
+        <category>ct117e-ex</category>
+        <category>机智云</category>
+        <category>超声波</category>
+        <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
-        <category>摄影</category>
-        <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
         <category>spacedesk</category>
         <category>投屏</category>
         <category>vscode</category>
-        <category>flash</category>
-        <category>j-tag</category>
+        <category>ide</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
         <category>commenttranslate</category>
         <category>wsl</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>tmux</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>tmux</category>
         <category>unit</category>
         <category>m</category>
         <category>cm</category>
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>cortex-a7</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -155,22 +142,44 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>cortex-m3</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>git</category>
+        <category>pid</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
-        <category>modbus</category>
         <category>ucos</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
         <category>raspberry</category>
-        <category>wiringpi</category>
-        <category>pwm</category>
-        <category>rt-thread</category>
         <category>ap</category>
         <category>wifi</category>
+        <category>rt-thread</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>modbus</category>
+        <category>zlib</category>
+        <category>minizip</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/f5f9fa9b/</guid>
             <title>Docker</title>
@@ -246,7 +255,7 @@
 &lt;p&gt;OPTIONS说明：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;-a stdin&lt;/code&gt;: 指定标准输入输出内容类型，可选 STDIN&amp;#x2F;STDOUT&amp;#x2F;STDERR 三项；&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-d&lt;/code&gt;: 后台运行容器，并返回容器ID；&lt;/li&gt;
+&lt;li&gt;☆&lt;code&gt;-d&lt;/code&gt;: 后台运行容器，并返回容器ID；&lt;/li&gt;
 &lt;li&gt;☆&lt;code&gt;-i&lt;/code&gt;: 以交互模式运行容器，通常与 -t 同时使用；&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-P&lt;/code&gt;: 随机端口映射，容器内部端口&lt;strong&gt;随机&lt;/strong&gt;映射到主机的端口&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-p&lt;/code&gt;: 指定端口映射，格式为：&lt;strong&gt;主机(宿主)端口:容器端口&lt;/strong&gt;&lt;/li&gt;
@@ -263,6 +272,7 @@
 &lt;li&gt;&lt;code&gt;--link=[]&lt;/code&gt;: 添加链接到另一个容器；&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;--expose=[]&lt;/code&gt;: 开放一个端口或一组端口；&lt;/li&gt;
 &lt;li&gt;☆&lt;code&gt;--volume , -v&lt;/code&gt;: 绑定一个卷, (或者称作&lt;strong&gt;映射文件夹&lt;/strong&gt;，将特定文件夹映射到特定目录)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;–rm&lt;/code&gt;: 容器退出时自动删除&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;设置工作目录-w&#34;&gt;&lt;a href=&#34;#设置工作目录-w&#34; class=&#34;headerlink&#34; title=&#34;设置工作目录 (-w)&#34;&gt;&lt;/a&gt;设置工作目录 (-w)&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ docker  run -w /path/to/dir/ -i -t  ubuntu &lt;span class=&#34;hljs-built_in&#34;&gt;pwd&lt;/span&gt;&lt;br&gt;/path/to/dir&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -466,6 +476,98 @@
 
 &lt;p&gt;查看所有运行容器的进程信息。&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt;  `docker ps |grep Up|awk &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&amp;#123;print $1&amp;#125;&amp;#x27;&lt;/span&gt;`;&lt;span class=&#34;hljs-keyword&#34;&gt;do&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;echo&lt;/span&gt; \ &amp;amp;&amp;amp;docker top &lt;span class=&#34;hljs-variable&#34;&gt;$i&lt;/span&gt;; &lt;span class=&#34;hljs-keyword&#34;&gt;done&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;☆-docker-update-动态更新容器配置&#34;&gt;&lt;a href=&#34;#☆-docker-update-动态更新容器配置&#34; class=&#34;headerlink&#34; title=&#34;☆ docker update 动态更新容器配置&#34;&gt;&lt;/a&gt;☆ docker update 动态更新容器配置&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker update [OPTIONS] CONTAINER [CONTAINER...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;The &lt;code&gt;docker update&lt;/code&gt; and &lt;code&gt;docker container update&lt;/code&gt; commands are not supported for Windows containers.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名称、简写&lt;/th&gt;
+&lt;th&gt;默认&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;--blkio-weight&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;块 IO（相对权重），介于 10 到 1000 之间，或 0 禁用（默认 0）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;--cpu-period&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;限制CPU CFS（完全公平调度程序）周期&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;--cpu-quota&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;限制CPU CFS（完全公平调度程序）配额&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;--cpu-rt-period&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;限制CPU实时周期（以微秒为单位）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;--cpu-rt-runtime&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;将CPU实时运行时间限制在微秒级&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/update/#cpu-shares&#34;&gt;&lt;code&gt;--cpu-shares&lt;/code&gt;&lt;/a&gt;,&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/update/#cpu-shares&#34;&gt;&lt;code&gt;-c&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;CPU 份额（相对权重）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;--cpus&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;CPU数量&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;--cpuset-cpus&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;允许执行的 CPU (0-3, 0,1)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;--cpuset-mems&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;允许执行的 MEM (0-3, 0,1)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/update/#memory&#34;&gt;&lt;code&gt;--memory&lt;/code&gt;&lt;/a&gt;,&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/update/#memory&#34;&gt;&lt;code&gt;-m&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;内存限制&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;--memory-reservation&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;内存软限制&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;--memory-swap&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;交换限制等于内存加交换：-1 启用无限制交换&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;--pids-limit&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://docs.docker.com/engine/api/v1.40/&#34;&gt;&lt;strong&gt;API 1.40+&lt;/strong&gt;&lt;/a&gt; 调整容器 pid 限制（设置 -1 表示无限制）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/update/#restart&#34;&gt;&lt;code&gt;--restart&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;容器退出时应用的重新启动策略&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h4 id=&#34;restart&#34;&gt;&lt;a href=&#34;#restart&#34; class=&#34;headerlink&#34; title=&#34;restart&#34;&gt;&lt;/a&gt;restart&lt;/h4&gt;&lt;p&gt;–restart具体参数值详细信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;no - 容器退出时，不重启容器；&lt;/li&gt;
+&lt;li&gt;on-failure - 只有在非0状态退出时才从新启动容器；&lt;/li&gt;
+&lt;li&gt;always - 无论退出状态是如何，都重启容器；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;还可以在使用on-failure策略时，指定&lt;a href=&#34;https://pythonjishu.com/tag/docker/&#34;&gt;Docker&lt;/a&gt;将尝试重新启动容器的最大次数。默认情况下，Docker将尝试永远重新启动容器。&lt;/p&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs routeros&#34;&gt;docker &lt;span class=&#34;hljs-built_in&#34;&gt;run&lt;/span&gt; &lt;span class=&#34;hljs-attribute&#34;&gt;--restart&lt;/span&gt;=on-failure:10 &amp;lt;CONTAINER ID&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;docker-attach-附着容器&#34;&gt;&lt;a href=&#34;#docker-attach-附着容器&#34; class=&#34;headerlink&#34; title=&#34;docker attach 附着容器&#34;&gt;&lt;/a&gt;docker attach 附着容器&lt;/h2&gt;&lt;p&gt;**docker attach :**附着到正在运行中的容器。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;

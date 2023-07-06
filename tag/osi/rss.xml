@@ -7,146 +7,133 @@
         <language>zh-CN</language>
         <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
         <lastBuildDate>Sat, 08 Aug 2020 08:08:08 +0800</lastBuildDate>
-        <category>embedded</category>
-        <category>note</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>ms-dos</category>
+        <category>pc</category>
+        <category>software</category>
         <category>windows</category>
-        <category>c</category>
-        <category>c/c++</category>
-        <category>pid</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>c++</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>cat_drive</category>
+        <category>linux</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>摄影</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>cad</category>
+        <category>embedded</category>
+        <category>stm32</category>
+        <category>note</category>
+        <category>synology</category>
+        <category>life</category>
+        <category>人生</category>
+        <category>蓝桥杯</category>
+        <category>心理学</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
+        <category>c/c++</category>
+        <category>workflow</category>
         <category>hex</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
+        <category>license</category>
+        <category>md5</category>
         <category>osi</category>
         <category>markdown</category>
-        <category>md5</category>
+        <category>iap</category>
+        <category>bootloader</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
-        <category>iap</category>
-        <category>bootloader</category>
-        <category>stm32</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
-        <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
         <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>driver</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>makefile</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
         <category>ip</category>
         <category>location</category>
         <category>api</category>
-        <category>机智云</category>
-        <category>android</category>
-        <category>mtp</category>
-        <category>pc</category>
-        <category>driver</category>
+        <category>zsh</category>
+        <category>shell</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
-        <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>超声波</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>ct117e-ex</category>
-        <category>zip</category>
-        <category>gzip</category>
-        <category>bzip</category>
-        <category>tar</category>
-        <category>life</category>
-        <category>workflow</category>
-        <category>人生</category>
         <category>github</category>
         <category>hosts</category>
-        <category>cad</category>
-        <category>心理学</category>
-        <category>cat_drive</category>
-        <category>hardware</category>
-        <category>lenovo</category>
-        <category>disk</category>
-        <category>switch</category>
-        <category>nintendo</category>
-        <category>game</category>
-        <category>software</category>
-        <category>synology</category>
+        <category>ct117e-ex</category>
+        <category>机智云</category>
+        <category>超声波</category>
+        <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
-        <category>摄影</category>
-        <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
         <category>spacedesk</category>
         <category>投屏</category>
         <category>vscode</category>
-        <category>flash</category>
-        <category>j-tag</category>
+        <category>ide</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
         <category>commenttranslate</category>
         <category>wsl</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>tmux</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>tmux</category>
         <category>unit</category>
         <category>m</category>
         <category>cm</category>
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>cortex-a7</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -155,29 +142,51 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>cortex-m3</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>git</category>
+        <category>pid</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
-        <category>modbus</category>
         <category>ucos</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
         <category>raspberry</category>
-        <category>wiringpi</category>
-        <category>pwm</category>
-        <category>rt-thread</category>
         <category>ap</category>
         <category>wifi</category>
+        <category>rt-thread</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>modbus</category>
+        <category>zlib</category>
+        <category>minizip</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2020/1a11e44c/</guid>
             <title>OSI</title>
             <link>https://www.oikiou.top/2020/1a11e44c/</link>
             <category>osi</category>
             <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;OSI&#34;&gt;&lt;a href=&#34;#OSI&#34; class=&#34;headerlink&#34; title=&#34;OSI&#34;&gt;&lt;/a&gt;OSI&lt;/h1&gt;&lt;p&gt;开放系统互联参考模型(OSI Referenec Model)，即我们通常所说的网络互联的七层框架，它是国际标准组织(International Organization for Standization)于1977年提出的标准，又称为ISO&amp;#x2F;IEC 7498或X.200建议。值得注意的是，OSI并没有提供一个可以实现的方法，它不是一个标准而只是一个制定标准时使用的概念性的框架，更不是一个网络协议。&lt;/p&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;OSI&#34;&gt;&lt;a href=&#34;#OSI&#34; class=&#34;headerlink&#34; title=&#34;OSI&#34;&gt;&lt;/a&gt;OSI&lt;/h1&gt;&lt;p&gt;开放系统互联参考模型(Open System Interconnection Reference Model)，即我们通常所说的网络互联的七层框架，它是国际标准组织(International Organization for Standization)于1977年提出的标准，又称为ISO&amp;#x2F;IEC 7498或X.200建议。值得注意的是，OSI并没有提供一个可以实现的方法，它不是一个标准而只是一个制定标准时使用的&lt;strong&gt;概念性的框架&lt;/strong&gt;，更不是一个网络协议。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;物理层(Physical Layer)：主要功能为定义了网络的物理结构，传输的电磁标准，Bit流的编码及网络的时间原则，如分时复用及分频复用。决定了网络连接类型(端到端或多端连接)及物理拓扑结构。说的通俗一些，这一层主要负责实际的&lt;a href=&#34;https://product.pconline.com.cn/itbk/sjtx/sj/1203/2699254.html&#34;&gt;信号&lt;/a&gt;传输。&lt;/li&gt;
 &lt;li&gt;数据链路层(D&lt;a href=&#34;https://product.pconline.com.cn/itbk/diy/mb/1107/2474080.html&#34;&gt;ata&lt;/a&gt; Link eview)：在两个主机上建立数据链路连接，向物理层传输数据信号，并对信号进行处理使之无差错并合理的传输&lt;/li&gt;
@@ -192,41 +201,63 @@
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
 &lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;应用层(Application Layer)&lt;/td&gt;
 &lt;td&gt;消息&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;表示层(Presentation Layer)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;编码解码(文件类型)，加密解密，压缩解压缩&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;会话层(Session Layer)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;管理控制登录状态，实现同步服务&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;传输层(Transfer Layer)&lt;/td&gt;
 &lt;td&gt;数据段(segment)&lt;/td&gt;
+&lt;td&gt;段数据的生成，通过端口号定位进程，负责TCP&amp;#x2F;UDP传输 QUIC&lt;br&gt;流量控制(确保传输速度)，错误控制(数据完整接收)&lt;br&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;网络层(Network Layer)&lt;/td&gt;
 &lt;td&gt;分组、数据包（packet）&lt;/td&gt;
+&lt;td&gt;段数据封装成包，通过IP地址转发，核心是地址管理和路由管理，&lt;br/&gt;端到端传输&lt;br&gt;&lt;strong&gt;由路由器&lt;/strong&gt;实现端到端传输&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;链路层(Data Link eview)&lt;/td&gt;
 &lt;td&gt;帧（frame）&lt;/td&gt;
+&lt;td&gt;包封装成帧，通过MAC地址传输，指定数据的方向&lt;br/&gt;差错纠正，流控制&lt;br/&gt;&lt;strong&gt;由二层交换机&lt;/strong&gt;实现跳到跳传输&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;物理层(Physical Layer)&lt;/td&gt;
 &lt;td&gt;P-PDU（bit）&lt;/td&gt;
+&lt;td&gt;帧数据的比特流传输，通过不同的介质传输&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  OSI七层模型和实际模型的对比。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/1a11e44c/image-20230301230822078.png&#34; alt=&#34;image-20230301230822078&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  数据 段 包 帧 之间的关系。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/1a11e44c/image-20230301231548203.png&#34; alt=&#34;image-20230301231548203&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  不同类型的归类方法。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/1a11e44c/image-20230301233137428.png&#34; alt=&#34;image-20230301233137428&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;【互联网数据传输原理 ｜OSI七层网络参考模型】 &lt;a href=&#34;https://www.bilibili.com/video/BV1EU4y1v7ju/?share_source=copy_web&amp;vd_source=d601b4c192e3ada70b5ef4d27f972720&#34;&gt;https://www.bilibili.com/video/BV1EU4y1v7ju/?share_source=copy_web&amp;amp;vd_source=d601b4c192e3ada70b5ef4d27f972720&lt;/a&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

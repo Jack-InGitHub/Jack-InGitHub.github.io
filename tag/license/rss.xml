@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;license&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 02 Feb 2023 14:23:05 +0800</pubDate>
+        <lastBuildDate>Thu, 02 Feb 2023 14:23:05 +0800</lastBuildDate>
+        <category>pc</category>
+        <category>software</category>
+        <category>windows</category>
+        <category>cat_drive</category>
+        <category>linux</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>摄影</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>cad</category>
+        <category>embedded</category>
+        <category>stm32</category>
+        <category>note</category>
+        <category>synology</category>
+        <category>life</category>
+        <category>人生</category>
+        <category>蓝桥杯</category>
+        <category>心理学</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>sscanf</category>
+        <category>c/c++</category>
+        <category>workflow</category>
+        <category>hex</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>license</category>
+        <category>md5</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>typora</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>driver</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>makefile</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>ct117e-ex</category>
+        <category>机智云</category>
+        <category>超声波</category>
+        <category>cmake</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>tmux</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>git</category>
+        <category>pid</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>ucos</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
+        <category>raspberry</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>rt-thread</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>modbus</category>
+        <category>zlib</category>
+        <category>minizip</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2023/79891ac1/</guid>
+            <title>License差异对比</title>
+            <link>https://www.oikiou.top/2023/79891ac1/</link>
+            <category>license</category>
+            <pubDate>Thu, 02 Feb 2023 14:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://spdx.org/licenses/&#34;&gt;SPDX License List&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;使用 &lt;strong&gt;SPDX 短格式标识符&lt;/strong&gt; 以简单、高效、便携和机器可读的方式 传达 FOSS 许可证信息&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt; SPDX-License-Identifier: MIT&lt;br&gt;&lt;span class=&#34;hljs-regexp&#34;&gt;/* SPDX-License-Identifier: MIT OR Apache-2.0 */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# SPDX-License-Identifier: GPL-2.0-or-later&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;术语&#34;&gt;&lt;a href=&#34;#术语&#34; class=&#34;headerlink&#34; title=&#34;术语&#34;&gt;&lt;/a&gt;术语&lt;/h1&gt;&lt;h2 id=&#34;什么是“分发”？&#34;&gt;&lt;a href=&#34;#什么是“分发”？&#34; class=&#34;headerlink&#34; title=&#34;什么是“分发”？&#34;&gt;&lt;/a&gt;什么是“分发”？&lt;/h2&gt;&lt;p&gt;许可证授予的权利，允许你自由使用、修改、复制，但是&lt;strong&gt;在“分发”时就必须遵守许可证的约束&lt;/strong&gt;。换言之，如果不”分发”，就不需要遵守。&lt;/p&gt;
+&lt;p&gt;分发就是指将版权作品从一个人转移到另一个人。这意味着，如果你是自己使用，不提供给他人，就没有分发。另外，这里的”人”也指”法人”，因此如果使用方是公司，且只在公司内部使用，也不需要遵守许可证[]。&lt;/p&gt;
+&lt;p&gt;其中AGPL有个特例：AGPL定义，如果你使用开源软件&lt;strong&gt;提供网络交互服务，那么该行为也定义为“分发”&lt;/strong&gt;，即图中的“网络使用即分发”&lt;/p&gt;
+&lt;h2 id=&#34;什么是“传染性”？&#34;&gt;&lt;a href=&#34;#什么是“传染性”？&#34; class=&#34;headerlink&#34; title=&#34;什么是“传染性”？&#34;&gt;&lt;/a&gt;什么是“传染性”？&lt;/h2&gt;&lt;p&gt;传染性来源于GPL，GPL的支持者确信自由软件世界应具有自我保护能力和可持续发展性——为了确保自由软件的演绎作品同样“自由”，所以要求只要使用了GPL的代码，那么整个项目都必须以GPL方式公开源代码&lt;/p&gt;
+&lt;p&gt;LGPL 在这方面要求就没GPL那么严格，如果只是子系统&amp;#x2F;模块用了，那么只需要子系统&amp;#x2F;模块开源，整个工程不用开源；如果是以动态链接调用LGPL许可证的库，那么项目也不用开源。&lt;/p&gt;
+&lt;p&gt;MPL 在这个方面就更宽松，哪个文件用了该许可证的代码，只需要这些文件开源即可，其他文件不受影响&lt;/p&gt;
+&lt;p&gt;所以，GPL v2&amp;#x2F;v3、AGPL 属于工程级别的强传染性；LGPL属于库级别的若传染性；MPL 就是文件级别的，传染性可以忽略不计了&lt;/p&gt;
+&lt;h2 id=&#34;GPL-系列的协议有何区别？&#34;&gt;&lt;a href=&#34;#GPL-系列的协议有何区别？&#34; class=&#34;headerlink&#34; title=&#34;GPL 系列的协议有何区别？&#34;&gt;&lt;/a&gt;GPL 系列的协议有何区别？&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;AGPL 和 GPL 的区别：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGPL明确了GPL 2.0&amp;#x2F;3.0关于提供网络服务也属于分发限制的说明：使用GPL的自由软件，但是并不发布与网络之中，则可以自由的使用GPL协议确不开源自己私有的解决方案。AGPL则增加了对此做法的约束。比如使用了AGPL代码的软件是一个网络应用，那么这个软件的所有源码和修改代码也必须开源&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GPL v2 和 GPL v3的主要差异：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;a) GPLv3包含了明确的专利许可&lt;/p&gt;
+&lt;p&gt;b) 添加了对数字版权管理和加密签名的限制，不仅要求用户公开源码，还要求公布相关硬件及必要的安装信息。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GPL 和LGPL的区别：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;主要区别在于传染性方面，GPL是工程级别的强传染，LGPL是库级别的弱传染&lt;/p&gt;
+&lt;h2 id=&#34;违反开源项目许可有何风险？&#34;&gt;&lt;a href=&#34;#违反开源项目许可有何风险？&#34; class=&#34;headerlink&#34; title=&#34;违反开源项目许可有何风险？&#34;&gt;&lt;/a&gt;违反开源项目许可有何风险？&lt;/h2&gt;&lt;p&gt;1.被许可人在违反许可证设定的义务时会构成合同违约&lt;/p&gt;
+&lt;p&gt;2.开源软件受著作权保护，著作权法著作权法，但是开源许可证本质却是走在了版权保护的对立面，所以其法律效力并没有被明确认可，是否侵权可能需要法院视具体情况而定&lt;/p&gt;
+&lt;p&gt;3.在中国，侵权责任和违约责任不能同时主张&lt;/p&gt;
+&lt;p&gt;4.在中国，过往的判例都没有涉及开源软件许可证本身&lt;/p&gt;
+&lt;p&gt;5.除了面临法律诉讼风险，违反许可证的行为会导致自由软件者和开源社区的排斥，某种程度上会影响违约公司的商业信誉&lt;/p&gt;
+&lt;h1 id=&#34;差异&#34;&gt;&lt;a href=&#34;#差异&#34; class=&#34;headerlink&#34; title=&#34;差异&#34;&gt;&lt;/a&gt;差异&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/2023/79891ac1/v2-3a460a2dad345fe0c2e0e79b626aacc9_720w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

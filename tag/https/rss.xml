@@ -5,148 +5,135 @@
         <link>https://www.oikiou.top</link>
         <description>Blog</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 21 Jul 2022 22:57:15 +0800</pubDate>
-        <lastBuildDate>Thu, 21 Jul 2022 22:57:15 +0800</lastBuildDate>
-        <category>embedded</category>
-        <category>note</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>ms-dos</category>
+        <pubDate>Thu, 12 Jan 2023 12:08:08 +0800</pubDate>
+        <lastBuildDate>Thu, 12 Jan 2023 12:08:08 +0800</lastBuildDate>
+        <category>pc</category>
+        <category>software</category>
         <category>windows</category>
-        <category>c</category>
-        <category>c/c++</category>
-        <category>pid</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>c++</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>cat_drive</category>
+        <category>linux</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>摄影</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>cad</category>
+        <category>embedded</category>
+        <category>stm32</category>
+        <category>note</category>
+        <category>synology</category>
+        <category>life</category>
+        <category>人生</category>
+        <category>蓝桥杯</category>
+        <category>心理学</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
+        <category>c/c++</category>
+        <category>workflow</category>
         <category>hex</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
+        <category>license</category>
+        <category>md5</category>
         <category>osi</category>
         <category>markdown</category>
-        <category>md5</category>
+        <category>iap</category>
+        <category>bootloader</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
-        <category>iap</category>
-        <category>bootloader</category>
-        <category>stm32</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
-        <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
         <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>driver</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>makefile</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
         <category>ip</category>
         <category>location</category>
         <category>api</category>
-        <category>机智云</category>
-        <category>android</category>
-        <category>mtp</category>
-        <category>pc</category>
-        <category>driver</category>
+        <category>zsh</category>
+        <category>shell</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
-        <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>超声波</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>ct117e-ex</category>
-        <category>zip</category>
-        <category>gzip</category>
-        <category>bzip</category>
-        <category>tar</category>
-        <category>life</category>
-        <category>workflow</category>
-        <category>人生</category>
         <category>github</category>
         <category>hosts</category>
-        <category>cad</category>
-        <category>心理学</category>
-        <category>cat_drive</category>
-        <category>hardware</category>
-        <category>lenovo</category>
-        <category>disk</category>
-        <category>switch</category>
-        <category>nintendo</category>
-        <category>game</category>
-        <category>software</category>
-        <category>synology</category>
+        <category>ct117e-ex</category>
+        <category>机智云</category>
+        <category>超声波</category>
+        <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
-        <category>摄影</category>
-        <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
         <category>spacedesk</category>
         <category>投屏</category>
         <category>vscode</category>
-        <category>flash</category>
-        <category>j-tag</category>
+        <category>ide</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
         <category>commenttranslate</category>
         <category>wsl</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>tmux</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>tmux</category>
         <category>unit</category>
         <category>m</category>
         <category>cm</category>
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>cortex-a7</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -155,22 +142,222 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>cortex-m3</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>git</category>
+        <category>pid</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
-        <category>modbus</category>
         <category>ucos</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
         <category>raspberry</category>
-        <category>wiringpi</category>
-        <category>pwm</category>
-        <category>rt-thread</category>
         <category>ap</category>
         <category>wifi</category>
+        <category>rt-thread</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>modbus</category>
+        <category>zlib</category>
+        <category>minizip</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2023/e7fefe87/</guid>
+            <title>Let’s Encrypt SSL 证书申请</title>
+            <link>https://www.oikiou.top/2023/e7fefe87/</link>
+            <category>ssl</category>
+            <category>https</category>
+            <pubDate>Thu, 12 Jan 2023 12:08:08 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;Let’s-Encrypt-SSL-证书申请&#34;&gt;&lt;a href=&#34;#Let’s-Encrypt-SSL-证书申请&#34; class=&#34;headerlink&#34; title=&#34;Let’s Encrypt SSL 证书申请&#34;&gt;&lt;/a&gt;Let’s Encrypt SSL 证书申请&lt;/h1&gt;&lt;h1 id=&#34;为什么申请？&#34;&gt;&lt;a href=&#34;#为什么申请？&#34; class=&#34;headerlink&#34; title=&#34;为什么申请？&#34;&gt;&lt;/a&gt;为什么申请？&lt;/h1&gt;&lt;blockquote&gt;
+&lt;h2 id=&#34;HTTP：未实施数据加密&#34;&gt;&lt;a href=&#34;#HTTP：未实施数据加密&#34; class=&#34;headerlink&#34; title=&#34;HTTP：未实施数据加密&#34;&gt;&lt;/a&gt;HTTP：未实施数据加密&lt;/h2&gt;&lt;p&gt;  每个以 HTTP 开头的 URL 链接都使用一种基本类型的“超文本传输协议”。由 Tim Berners-Lee 于 1990 年代初创建，当时互联网仍处于起步阶段，该网络协议标准允许 Web 浏览器和服务器通过数据交换进行通信。&lt;/p&gt;
+&lt;p&gt;  HTTP 也被称为“无状态系统”，这意味着它可以按需连接。您单击一个链接，请求连接，您的 Web 浏览器将此请求发送到服务器，服务器通过打开页面进行响应。连接越快，数据呈现给您的速度就越快。&lt;/p&gt;
+&lt;p&gt;  作为一种“应用层协议”，HTTP 仍然专注于呈现信息，但不太关心这些信息从一个地方传播到另一个地方的方式。不幸的是，这意味着 HTTP 可能会&lt;a href=&#34;https://www.globalsign.com/en/blog/what-is-a-man-in-the-middle-attack&#34;&gt;被拦截并可能被更改&lt;/a&gt;，从而使信息和信息接收者（即您）都容易受到攻击。&lt;/p&gt;
+&lt;h2 id=&#34;HTTPS：加密连接&#34;&gt;&lt;a href=&#34;#HTTPS：加密连接&#34; class=&#34;headerlink&#34; title=&#34;HTTPS：加密连接&#34;&gt;&lt;/a&gt;HTTPS：加密连接&lt;/h2&gt;&lt;p&gt;  HTTPS 不是 HTTP 的对立面，而是它的表弟。两者本质上是相同的，因为它们都指的是相同的“超文本传输协议”，该协议使请求的 Web 数据能够显示在您的屏幕上。但是，HTTPS 仍然略有不同，更先进，也更安全。&lt;/p&gt;
+&lt;p&gt;  简单的说，HTTPS协议是HTTP的扩展。缩写中的“S”来自 Secure 一词，它由传输层安全性 (TLS) [&lt;a href=&#34;https://www.globalsign.com/en/ssl-information-center/what-is-ssl/&#34;&gt;安全套接字层 (SSL)&lt;/a&gt;的后继者] 提供支持，这是一种在 Web 服务器和服务器之间建立加密连接的标准安全技术。浏览器。&lt;/p&gt;
+&lt;p&gt;  如果没有 HTTPS，您输入网站的任何数据（例如您的用户名&amp;#x2F;密码、信用卡或银行详细信息、任何其他表单提交数据等）都将以明文形式发送，因此容易被拦截或窃听。因此，在输入任何信息之前，您应该始终检查站点是否使用 HTTPS。&lt;/p&gt;
+&lt;p&gt;  除了加密服务器和您的浏览器之间传输的数据外，TLS 还验证您正在连接的服务器并保护传输的数据不被篡改。&lt;/p&gt;
+&lt;p&gt;  这有助于我这样思考——HTTPS 中的 HTTP 相当于一个目的地，而 SSL 相当于一个旅程。第一个负责将数据显示到屏幕上，第二个负责管理数据到达那里的方式。通过联合力量，他们以安全的方式移动数据。  &lt;/p&gt;
+&lt;p&gt;  &lt;a href=&#34;https://www.globalsign.com/en/blog/the-difference-between-http-and-https&#34;&gt;What’s the difference between HTTP and HTTPS?&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;HTTPS 有助于确保网络安全。毫无疑问，它是比 HTTP 更好的网络协议解决方案。&lt;/p&gt;
+&lt;p&gt;将网站开启HTTPS的服务是需要SSL的证书的，我们来看一下如何在Let’s Encrypt上申请免费的SSL证书。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  Let’s Encrypt 是免费、开放和自动化的证书颁发机构。由非盈利组织&lt;a href=&#34;https://www.abetterinternet.org/&#34;&gt;互联网安全研究小组（ISRG）&lt;/a&gt;运营。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;申请的前提条件&#34;&gt;&lt;a href=&#34;#申请的前提条件&#34; class=&#34;headerlink&#34; title=&#34;申请的前提条件&#34;&gt;&lt;/a&gt;申请的前提条件&lt;/h1&gt;&lt;p&gt;我们申请SSL证书的前提条件有下面这几个&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;拥有域名，能够自主配置DNS。或者提供Web服务器做验证，在网站目录下放一个文件。&lt;/li&gt;
+&lt;li&gt;获取证书的环境要能访问DNS服务器，因为会需要做DNS解析校验。&lt;/li&gt;
+&lt;li&gt;需要有远程主机的权限，会需要更新和安装组件。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;申请步骤&#34;&gt;&lt;a href=&#34;#申请步骤&#34; class=&#34;headerlink&#34; title=&#34;申请步骤&#34;&gt;&lt;/a&gt;申请步骤&lt;/h1&gt;&lt;p&gt;Let’s Encrypt 的证书申请除去手动申请常见的主要有下面这几种&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;acme.sh&lt;/code&gt;的方式&lt;em&gt;（我当时选取了这个方式）&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;docker 镜像获取&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;certbot&lt;/code&gt;方式获取证书&lt;em&gt;（官网建议使用这种方式获取证书，可以在不下线的状态下自动执行证书颁发和安装）&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acme-sh脚本&#34;&gt;&lt;a href=&#34;#acme-sh脚本&#34; class=&#34;headerlink&#34; title=&#34;acme.sh脚本&#34;&gt;&lt;/a&gt;&lt;code&gt;acme.sh&lt;/code&gt;脚本&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/acmesh-official/acme.sh&#34;&gt;Github链接：An ACME Shell script: acme.sh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Github的README其实介绍的其实很全面，这里copy一下。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  &lt;strong&gt;acme.sh&lt;/strong&gt; 实现了 &lt;code&gt;acme&lt;/code&gt; 协议, 可以从 letsencrypt 生成免费的证书.&lt;/p&gt;
+&lt;p&gt;  主要步骤:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;安装 &lt;strong&gt;acme.sh&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;生成证书&lt;/li&gt;
+&lt;li&gt;copy 证书到 nginx&amp;#x2F;apache 或者其他服务&lt;/li&gt;
+&lt;li&gt;更新证书&lt;/li&gt;
+&lt;li&gt;更新 &lt;strong&gt;acme.sh&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;出错怎么办, 如何调试&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;  下面详细介绍.&lt;/p&gt;
+&lt;h1 id=&#34;1-安装-acme-sh&#34;&gt;&lt;a href=&#34;#1-安装-acme-sh&#34; class=&#34;headerlink&#34; title=&#34;1. 安装 acme.sh&#34;&gt;&lt;/a&gt;1. 安装 &lt;strong&gt;acme.sh&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;  安装很简单, 一个命令:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  这里输入你的邮箱，这个邮箱有什么用倒是不太清楚&lt;/p&gt;
+&lt;/blockquote&gt;
+  &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;curl https://get.acme.sh | sh -s email=my@example.com&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  普通用户和 root 用户都可以安装使用. 安装过程进行了以下几步:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;把 acme.sh 安装到你的 &lt;strong&gt;home&lt;/strong&gt; 目录下:&lt;/li&gt;
+&lt;/ol&gt;
+  &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;~/.acme.sh/&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  并创建 一个 shell 的 alias, 例如 .bashrc，方便你的使用: &lt;code&gt;alias acme.sh=~/.acme.sh/acme.sh&lt;/code&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;自动为你创建 cronjob, 每天 0:00 点自动检测所有的证书, 如果快过期了, 需要更新, 则会自动更新证书.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;  更高级的安装选项请参考: &lt;a href=&#34;https://github.com/Neilpang/acme.sh/wiki/How-to-install&#34;&gt;https://github.com/Neilpang/acme.sh/wiki/How-to-install&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;安装过程不会污染已有的系统任何功能和文件&lt;/strong&gt;, 所有的修改都限制在安装目录中: &lt;code&gt;~/.acme.sh/&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;2-生成证书&#34;&gt;&lt;a href=&#34;#2-生成证书&#34; class=&#34;headerlink&#34; title=&#34;2. 生成证书&#34;&gt;&lt;/a&gt;2. 生成证书&lt;/h1&gt;&lt;p&gt;  &lt;strong&gt;acme.sh&lt;/strong&gt; 实现了 &lt;strong&gt;acme&lt;/strong&gt; 协议支持的所有验证协议. 一般有两种方式验证: http 和 dns 验证.&lt;/p&gt;
+&lt;h3 id=&#34;1-http-方式需要在你的网站根目录下放置一个文件-来验证你的域名所有权-完成验证-然后就可以生成证书了&#34;&gt;&lt;a href=&#34;#1-http-方式需要在你的网站根目录下放置一个文件-来验证你的域名所有权-完成验证-然后就可以生成证书了&#34; class=&#34;headerlink&#34; title=&#34;1. http 方式需要在你的网站根目录下放置一个文件, 来验证你的域名所有权,完成验证. 然后就可以生成证书了.&#34;&gt;&lt;/a&gt;1. http 方式需要在你的网站根目录下放置一个文件, 来验证你的域名所有权,完成验证. 然后就可以生成证书了.&lt;/h3&gt;  &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;acme.sh --issue -d mydomain.com -d www.mydomain.com --webroot /home/wwwroot/mydomain.com/&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  只需要指定域名, 并指定域名所在的网站根目录. &lt;strong&gt;acme.sh&lt;/strong&gt; 会全自动的生成验证文件, 并放到网站的根目录, 然后自动完成验证. 最后会聪明的删除验证文件. 整个过程没有任何副作用.&lt;/p&gt;
+&lt;p&gt;  如果你用的 &lt;strong&gt;apache&lt;/strong&gt;服务器, &lt;strong&gt;acme.sh&lt;/strong&gt; 还可以智能的从 &lt;strong&gt;apache&lt;/strong&gt;的配置中自动完成验证, 你不需要指定网站根目录:&lt;/p&gt;
+  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--issue&lt;/span&gt; -d mydomain&lt;span class=&#34;hljs-selector-class&#34;&gt;.com&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--apache&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  如果你用的 &lt;strong&gt;nginx&lt;/strong&gt;服务器, 或者反代, &lt;strong&gt;acme.sh&lt;/strong&gt; 还可以智能的从 &lt;strong&gt;nginx&lt;/strong&gt;的配置中自动完成验证, 你不需要指定网站根目录:&lt;/p&gt;
+  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--issue&lt;/span&gt; -d mydomain&lt;span class=&#34;hljs-selector-class&#34;&gt;.com&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--nginx&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  &lt;strong&gt;注意, 无论是 apache 还是 nginx 模式, acme.sh在完成验证之后, 会恢复到之前的状态, 都不会私自更改你本身的配置. 好处是你不用担心配置被搞坏, 也有一个缺点, 你需要自己配置 ssl 的配置, 否则只能成功生成证书, 你的网站还是无法访问https. 但是为了安全, 你还是自己手动改配置吧.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  如果你还没有运行任何 web 服务, &lt;strong&gt;80&lt;/strong&gt; 端口是空闲的, 那么 &lt;strong&gt;acme.sh&lt;/strong&gt; 还能假装自己是一个webserver, 临时听在&lt;strong&gt;80&lt;/strong&gt; 端口, 完成验证:&lt;/p&gt;
+  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--issue&lt;/span&gt; -d mydomain&lt;span class=&#34;hljs-selector-class&#34;&gt;.com&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--standalone&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  更高级的用法请参考: &lt;a href=&#34;https://github.com/Neilpang/acme.sh/wiki/How-to-issue-a-cert&#34;&gt;https://github.com/Neilpang/acme.sh/wiki/How-to-issue-a-cert&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-手动-dns-方式-手动在域名上添加一条-txt-解析记录-验证域名所有权&#34;&gt;&lt;a href=&#34;#2-手动-dns-方式-手动在域名上添加一条-txt-解析记录-验证域名所有权&#34; class=&#34;headerlink&#34; title=&#34;2. 手动 dns 方式, 手动在域名上添加一条 txt 解析记录, 验证域名所有权.&#34;&gt;&lt;/a&gt;2. 手动 dns 方式, 手动在域名上添加一条 txt 解析记录, 验证域名所有权.&lt;/h3&gt;&lt;p&gt;  这种方式的好处是, 你不需要任何服务器, 不需要任何公网 ip, 只需要 dns 的解析记录即可完成验证. 坏处是，如果不同时配置 Automatic DNS API，使用这种方式 acme.sh 将无法自动更新证书，每次都需要手动再次重新解析验证域名所有权。&lt;/p&gt;
+  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--issue&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--dns&lt;/span&gt; -d mydomain&lt;span class=&#34;hljs-selector-class&#34;&gt;.com&lt;/span&gt; \&lt;br&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--yes-I-know-dns-manual-mode-enough-go-ahead-please&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  然后, &lt;strong&gt;acme.sh&lt;/strong&gt; 会生成相应的解析记录显示出来, 你只需要在你的域名管理面板中添加这条 txt 记录即可.&lt;/p&gt;
+&lt;p&gt;  等待解析完成之后, 重新生成证书:&lt;/p&gt;
+  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--renew&lt;/span&gt; -d mydomain&lt;span class=&#34;hljs-selector-class&#34;&gt;.com&lt;/span&gt; \&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;--yes-I-know-dns-manual-mode-enough-go-ahead-please&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  注意第二次这里用的是 &lt;code&gt;--renew&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;  dns 方式的真正强大之处在于可以使用域名解析商提供的 api 自动添加 txt 记录完成验证.&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;acme.sh&lt;/strong&gt; 目前支持 cloudflare, dnspod, cloudxns, godaddy 以及 ovh 等数十种解析商的自动集成.&lt;/p&gt;
+&lt;p&gt;  以 dnspod 为例, 你需要先登录到 dnspod 账号, 生成你的 api id 和 api key, 都是免费的. 然后:&lt;/p&gt;
+  &lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs routeros&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;hljs-attribute&#34;&gt;DP_Id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;1234&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;hljs-attribute&#34;&gt;DP_Key&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;sADDsdasdgdsf&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;acme.sh --issue --dns dns_dp -d aa.com -d www.aa.com&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  证书就会自动生成了. 这里给出的 api id 和 api key 会被自动记录下来, 将来你在使用 dnspod api 的时候, 就不需要再次指定了. 直接生成就好了:&lt;/p&gt;
+  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--issue&lt;/span&gt; -d mydomain2&lt;span class=&#34;hljs-selector-class&#34;&gt;.com&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--dns&lt;/span&gt;  dns_dp&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  更详细的 api 用法: &lt;a href=&#34;https://github.com/Neilpang/acme.sh/blob/master/dnsapi/README.md&#34;&gt;https://github.com/Neilpang/acme.sh/blob/master/dnsapi/README.md&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;3-copy-x2F-安装-证书&#34;&gt;&lt;a href=&#34;#3-copy-x2F-安装-证书&#34; class=&#34;headerlink&#34; title=&#34;3. copy&amp;#x2F;安装 证书&#34;&gt;&lt;/a&gt;3. copy&amp;#x2F;安装 证书&lt;/h1&gt;&lt;p&gt;  前面证书生成以后, 接下来需要把证书 copy 到真正需要用它的地方.&lt;/p&gt;
+&lt;p&gt;  注意, 默认生成的证书都放在安装目录下: &lt;code&gt;~/.acme.sh/&lt;/code&gt;, &lt;strong&gt;请不要直接使用此目录下的文件,&lt;/strong&gt; 例如: 不要直接让 nginx&amp;#x2F;apache 的配置文件使用这下面的文件. 这里面的文件都是内部使用, 而且目录结构可能会变化.&lt;/p&gt;
+&lt;p&gt;  正确的使用方法是使用 &lt;code&gt;--install-cert&lt;/code&gt; 命令,并指定目标位置, 然后证书文件会被copy到相应的位置, 例如:&lt;/p&gt;
+&lt;h2 id=&#34;Apache-example&#34;&gt;&lt;a href=&#34;#Apache-example&#34; class=&#34;headerlink&#34; title=&#34;Apache example:&#34;&gt;&lt;/a&gt;Apache example:&lt;/h2&gt;  &lt;figure class=&#34;highlight gradle&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs gradle&#34;&gt;acme.sh --install-cert -d example.com \&lt;br&gt;--cert-&lt;span class=&#34;hljs-keyword&#34;&gt;file&lt;/span&gt;      &lt;span class=&#34;hljs-regexp&#34;&gt;/path/&lt;/span&gt;to&lt;span class=&#34;hljs-regexp&#34;&gt;/certfile/i&lt;/span&gt;n&lt;span class=&#34;hljs-regexp&#34;&gt;/apache/&lt;/span&gt;cert.pem  \&lt;br&gt;--key-&lt;span class=&#34;hljs-keyword&#34;&gt;file&lt;/span&gt;       &lt;span class=&#34;hljs-regexp&#34;&gt;/path/&lt;/span&gt;to&lt;span class=&#34;hljs-regexp&#34;&gt;/keyfile/i&lt;/span&gt;n&lt;span class=&#34;hljs-regexp&#34;&gt;/apache/&lt;/span&gt;key.pem  \&lt;br&gt;--fullchain-&lt;span class=&#34;hljs-keyword&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;hljs-regexp&#34;&gt;/path/&lt;/span&gt;to&lt;span class=&#34;hljs-regexp&#34;&gt;/fullchain/&lt;/span&gt;certfile&lt;span class=&#34;hljs-regexp&#34;&gt;/apache/&lt;/span&gt;fullchain.pem \&lt;br&gt;--reloadcmd     &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;service apache2 force-reload&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;Nginx-example&#34;&gt;&lt;a href=&#34;#Nginx-example&#34; class=&#34;headerlink&#34; title=&#34;Nginx example:&#34;&gt;&lt;/a&gt;Nginx example:&lt;/h2&gt;  &lt;figure class=&#34;highlight gradle&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs gradle&#34;&gt;acme.sh --install-cert -d example.com \&lt;br&gt;--key-&lt;span class=&#34;hljs-keyword&#34;&gt;file&lt;/span&gt;       &lt;span class=&#34;hljs-regexp&#34;&gt;/path/&lt;/span&gt;to&lt;span class=&#34;hljs-regexp&#34;&gt;/keyfile/i&lt;/span&gt;n&lt;span class=&#34;hljs-regexp&#34;&gt;/nginx/&lt;/span&gt;key.pem  \&lt;br&gt;--fullchain-&lt;span class=&#34;hljs-keyword&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;hljs-regexp&#34;&gt;/path/&lt;/span&gt;to&lt;span class=&#34;hljs-regexp&#34;&gt;/fullchain/&lt;/span&gt;nginx/cert.pem \&lt;br&gt;--reloadcmd     &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;service nginx force-reload&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  (一个小提醒, 这里用的是 &lt;code&gt;service nginx force-reload&lt;/code&gt;, 不是 &lt;code&gt;service nginx reload&lt;/code&gt;, 据测试, &lt;code&gt;reload&lt;/code&gt; 并不会重新加载证书, 所以用的 &lt;code&gt;force-reload&lt;/code&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  我当时使用这个命令的时候发现用 &lt;code&gt;service nginx force-reload&lt;/code&gt;  报没有权限，然后是将当前用户&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;  Nginx 的配置 &lt;code&gt;ssl_certificate&lt;/code&gt; 使用 &lt;code&gt;/etc/nginx/ssl/fullchain.cer&lt;/code&gt; ，而非 &lt;code&gt;/etc/nginx/ssl/&amp;lt;domain&amp;gt;.cer&lt;/code&gt; ，否则 &lt;a href=&#34;https://www.ssllabs.com/ssltest/&#34;&gt;SSL Labs&lt;/a&gt; 的测试会报 &lt;code&gt;Chain issues Incomplete&lt;/code&gt; 错误。&lt;/p&gt;
+&lt;p&gt;  &lt;code&gt;--install-cert&lt;/code&gt;命令可以携带很多参数, 来指定目标文件. 并且可以指定 reloadcmd, 当证书更新以后, reloadcmd会被自动调用,让服务器生效.&lt;/p&gt;
+&lt;p&gt;  详细参数请参考: &lt;a href=&#34;https://github.com/Neilpang/acme.sh#3-install-the-issued-cert-to-apachenginx-etc&#34;&gt;https://github.com/Neilpang/acme.sh#3-install-the-issued-cert-to-apachenginx-etc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  值得注意的是, 这里指定的所有参数都会被自动记录下来, 并在将来证书自动更新以后, 被再次自动调用.&lt;/p&gt;
+&lt;h1 id=&#34;4-查看已安装证书信息&#34;&gt;&lt;a href=&#34;#4-查看已安装证书信息&#34; class=&#34;headerlink&#34; title=&#34;4. 查看已安装证书信息&#34;&gt;&lt;/a&gt;4. 查看已安装证书信息&lt;/h1&gt;  &lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs routeros&#34;&gt;acme.sh --&lt;span class=&#34;hljs-built_in&#34;&gt;info&lt;/span&gt; -d example.com&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 会输出如下内容：&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;DOMAIN_CONF&lt;/span&gt;=/root/.acme.sh/example.com/example.com.conf&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_Domain&lt;/span&gt;=example.com&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_Alt&lt;/span&gt;=&lt;span class=&#34;hljs-literal&#34;&gt;no&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_Webroot&lt;/span&gt;=dns_ali&lt;br&gt;Le_PreHook=&lt;br&gt;Le_PostHook=&lt;br&gt;Le_RenewHook=&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_API&lt;/span&gt;=https://acme-v02.api.letsencrypt.org/directory&lt;br&gt;Le_Keylength=&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_OrderFinalize&lt;/span&gt;=https://acme-v02.api.letsencrypt.org/acme/finalize/23xxxx150/781xxxx4310&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_LinkOrder&lt;/span&gt;=https://acme-v02.api.letsencrypt.org/acme/order/233xxx150/781xxxx4310&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_LinkCert&lt;/span&gt;=https://acme-v02.api.letsencrypt.org/acme/cert/04cbd28xxxxxx349ecaea8d07&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_CertCreateTime&lt;/span&gt;=1649358725&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_CertCreateTimeStr&lt;/span&gt;=Thu Apr  7 19:12:05 UTC 2022&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_NextRenewTimeStr&lt;/span&gt;=Mon Jun  6 19:12:05 UTC 2022&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_NextRenewTime&lt;/span&gt;=1654456325&lt;br&gt;Le_RealCertPath=&lt;br&gt;Le_RealCACertPath=&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_RealKeyPath&lt;/span&gt;=/etc/acme/example.com/privkey.pem&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_ReloadCmd&lt;/span&gt;=service nginx force-reload&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Le_RealFullChainPath&lt;/span&gt;=/etc/acme/example.com/chain.pem&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;5-更新证书&#34;&gt;&lt;a href=&#34;#5-更新证书&#34; class=&#34;headerlink&#34; title=&#34;5. 更新证书&#34;&gt;&lt;/a&gt;5. 更新证书&lt;/h1&gt;&lt;p&gt;  目前证书在 60 天以后会自动更新, 你无需任何操作. 今后有可能会缩短这个时间, 不过都是自动的, 你不用关心.&lt;/p&gt;
+&lt;p&gt;  请确保 cronjob 正确安装, 看起来是类似这样的:&lt;/p&gt;
+  &lt;figure class=&#34;highlight gradle&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs gradle&#34;&gt;crontab  -l&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;56&lt;/span&gt; * * * * &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;/root/.acme.sh&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-regexp&#34;&gt;/acme.sh --cron --home &amp;quot;/&lt;/span&gt;root&lt;span class=&#34;hljs-regexp&#34;&gt;/.acme.sh&amp;quot; &amp;gt; /&lt;/span&gt;dev/&lt;span class=&#34;hljs-keyword&#34;&gt;null&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;6-关于修改ReloadCmd&#34;&gt;&lt;a href=&#34;#6-关于修改ReloadCmd&#34; class=&#34;headerlink&#34; title=&#34;6. 关于修改ReloadCmd&#34;&gt;&lt;/a&gt;6. 关于修改ReloadCmd&lt;/h1&gt;&lt;p&gt;  目前修改&lt;code&gt;ReloadCmd&lt;/code&gt;没有专门的命令，可以通过重新安装证书来实现修改&lt;code&gt;reloadCmd&lt;/code&gt;的目的。 此外，安装证书后，相关信息是保存在&lt;code&gt;~/.acme.sh/example.com/example.conf&lt;/code&gt;文件下的，内容就是&lt;code&gt;acme.sh --info -d example.com&lt;/code&gt;输出的信息，不过&lt;code&gt;ReloadCmd&lt;/code&gt;在文件中使用了Base64编码。理论上可以通过直接修改该文件来修改&lt;code&gt;ReloadCmd&lt;/code&gt;，且修改时，无需Base64编码，直接写命令原文&lt;code&gt;acme.sh&lt;/code&gt;也可以识别。 不过，&lt;code&gt;example.conf&lt;/code&gt;文件的位置和内容格式以后可能会改变！&lt;code&gt;example.conf&lt;/code&gt;一直都是内部使用, 后面有可能会改为用 sqlite 或者mysql 格式存储. 所以一般不建议自己修改。&lt;/p&gt;
+&lt;h1 id=&#34;7-更新-acme-sh&#34;&gt;&lt;a href=&#34;#7-更新-acme-sh&#34; class=&#34;headerlink&#34; title=&#34;7. 更新 acme.sh&#34;&gt;&lt;/a&gt;7. 更新 acme.sh&lt;/h1&gt;&lt;p&gt;  目前由于 acme 协议和 letsencrypt CA 都在频繁的更新, 因此 acme.sh 也经常更新以保持同步.&lt;/p&gt;
+&lt;p&gt;  升级 acme.sh 到最新版 :&lt;/p&gt;
+  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--upgrade&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  如果你不想手动升级, 可以开启自动升级:&lt;/p&gt;
+  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--upgrade&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--auto-upgrade&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  之后, acme.sh 就会自动保持更新了.&lt;/p&gt;
+&lt;p&gt;  你也可以随时关闭自动更新:&lt;/p&gt;
+  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--upgrade&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--auto-upgrade&lt;/span&gt;  &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;8-出错怎么办：&#34;&gt;&lt;a href=&#34;#8-出错怎么办：&#34; class=&#34;headerlink&#34; title=&#34;8. 出错怎么办：&#34;&gt;&lt;/a&gt;8. 出错怎么办：&lt;/h1&gt;&lt;p&gt;  如果出错, 请添加 debug log：&lt;/p&gt;
+  &lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs jboss-cli&#34;&gt;acme.sh &lt;span class=&#34;hljs-params&#34;&gt;--issue&lt;/span&gt;  &lt;span class=&#34;hljs-string&#34;&gt;.....&lt;/span&gt;  &lt;span class=&#34;hljs-params&#34;&gt;--debug&lt;/span&gt; &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  或者：&lt;/p&gt;
+  &lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs jboss-cli&#34;&gt;acme.sh &lt;span class=&#34;hljs-params&#34;&gt;--issue&lt;/span&gt;  &lt;span class=&#34;hljs-string&#34;&gt;.....&lt;/span&gt;  &lt;span class=&#34;hljs-params&#34;&gt;--debug&lt;/span&gt;  2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  请参考： &lt;a href=&#34;https://github.com/Neilpang/acme.sh/wiki/How-to-debug-acme.sh&#34;&gt;https://github.com/Neilpang/acme.sh/wiki/How-to-debug-acme.sh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  最后, 本文并非完全的使用说明, 还有很多高级的功能, 更高级的用法请参看其他 wiki 页面.&lt;/p&gt;
+&lt;p&gt;  &lt;a href=&#34;https://github.com/Neilpang/acme.sh/wiki&#34;&gt;https://github.com/Neilpang/acme.sh/wiki&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;Docker&#34;&gt;&lt;a href=&#34;#Docker&#34; class=&#34;headerlink&#34; title=&#34;Docker&#34;&gt;&lt;/a&gt;Docker&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker run --rm  -itd  \&lt;br&gt;  -v &amp;quot;$(pwd)/out&amp;quot;:/acme.sh  \&lt;br&gt;  -e Ali_Key=&amp;quot;xxxxxx&amp;quot; \&lt;br&gt;  -e Ali_Secret=&amp;quot;xxxx&amp;quot; \&lt;br&gt;  neilpang/acme.sh  --issue --dns dns_ali -d domain.cn -d *.domain.cn&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;详细用法，可以参考：&lt;a href=&#34;https://github.com/Neilpang/acme.sh/wiki/Run-acme.sh-in-docker&#34;&gt;传送门&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1 id=&#34;acme-sh-💕-docker&#34;&gt;&lt;a href=&#34;#acme-sh-💕-docker&#34; class=&#34;headerlink&#34; title=&#34;acme.sh 💕 docker&#34;&gt;&lt;/a&gt;acme.sh 💕 docker&lt;/h1&gt;&lt;p&gt;  作为 docker 的忠实粉丝之一，我知道我们讨厌在 docker 主机上安装任何东西，即使它只是复制一个 shell 脚本。&lt;/p&gt;
+&lt;p&gt;  用于 letsencrypt ssl 证书的带有 acme.sh 的自动化 nginx 反向代理 docker 图像： https: &lt;a href=&#34;https://github.com/Neilpang/letsproxy&#34;&gt;&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;Neilpang&amp;#x2F;letsproxy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  部署到 docker 容器并重新加载它：&lt;a href=&#34;https://github.com/Neilpang/acme.sh/wiki/deploy-to-docker-containers&#34;&gt;https :&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;Neilpang&amp;#x2F;acme.sh&amp;#x2F;wiki&amp;#x2F;deploy-to-docker-containers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  所以，这里出现了“docker 中的 acme.sh”。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;基于&lt;strong&gt;alpine&lt;/strong&gt;，只有 5MB 大小。&lt;/li&gt;
+&lt;li&gt;作为可执行文件运行或作为守护进程运行&lt;/li&gt;
+&lt;li&gt;支持所有命令行参数。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;1-说“Hello-World”&#34;&gt;&lt;a href=&#34;#1-说“Hello-World”&#34; class=&#34;headerlink&#34; title=&#34;1.说“Hello World”&#34;&gt;&lt;/a&gt;1.说“Hello World”&lt;/h1&gt;  &lt;figure class=&#34;highlight dockerfile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs dockerfile&#34;&gt;docker &lt;span class=&#34;hljs-keyword&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; --&lt;span class=&#34;hljs-built_in&#34;&gt;rm&lt;/span&gt; neilpang/acme.sh&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;2-用作可执行文件：&#34;&gt;&lt;a href=&#34;#2-用作可执行文件：&#34; class=&#34;headerlink&#34; title=&#34;2.用作可执行文件：&#34;&gt;&lt;/a&gt;2.用作可执行文件：&lt;/h1&gt;  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;docker run &lt;span class=&#34;hljs-attr&#34;&gt;--rm&lt;/span&gt;  -it  \&lt;br&gt;  -v &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;$(pwd)/out&amp;quot;&lt;/span&gt;:/acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt;  \&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;--net&lt;/span&gt;=host \&lt;br&gt;  neilpang/acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;--issue&lt;/span&gt; -d example&lt;span class=&#34;hljs-selector-class&#34;&gt;.com&lt;/span&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;--standalone&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  您可以在此处使用&lt;strong&gt;acme.sh&lt;/strong&gt;支持的&lt;strong&gt;任何命令&lt;/strong&gt;，其他示例：&lt;/p&gt;
+  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;&lt;span class=&#34;hljs-selector-id&#34;&gt;#revoke&lt;/span&gt; &lt;span class=&#34;hljs-selector-tag&#34;&gt;a&lt;/span&gt; cert&lt;br&gt;docker run &lt;span class=&#34;hljs-attr&#34;&gt;--rm&lt;/span&gt;  -it  \&lt;br&gt;  -v &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;$(pwd)/out&amp;quot;&lt;/span&gt;:/acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt;  \&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;--net&lt;/span&gt;=host \&lt;br&gt;  neilpang/acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;--revoke&lt;/span&gt; -d example&lt;span class=&#34;hljs-selector-class&#34;&gt;.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-selector-id&#34;&gt;#use&lt;/span&gt; dns mode&lt;br&gt;docker run &lt;span class=&#34;hljs-attr&#34;&gt;--rm&lt;/span&gt;  -it  \&lt;br&gt;  -v &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;$(pwd)/out&amp;quot;&lt;/span&gt;:/acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt;  \&lt;br&gt;  neilpang/acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;--issue&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--dns&lt;/span&gt; -d example&lt;span class=&#34;hljs-selector-class&#34;&gt;.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-selector-id&#34;&gt;#run&lt;/span&gt; cron job&lt;br&gt;docker run &lt;span class=&#34;hljs-attr&#34;&gt;--rm&lt;/span&gt;  -it  \&lt;br&gt;  -v &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;$(pwd)/out&amp;quot;&lt;/span&gt;:/acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt;  \&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;--net&lt;/span&gt;=host \&lt;br&gt;  neilpang/acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;--cron&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  无论如何，您可以像调用真正的 shell 脚本一样调用&lt;strong&gt;neilpang&amp;#x2F;acme.sh。&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;3-将-acme-sh-作为-docker-守护进程运行。&#34;&gt;&lt;a href=&#34;#3-将-acme-sh-作为-docker-守护进程运行。&#34; class=&#34;headerlink&#34; title=&#34;3. 将 acme.sh 作为 docker 守护进程运行。&#34;&gt;&lt;/a&gt;3. 将 acme.sh 作为 docker 守护进程运行。&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;将 acme.sh 作为 docker 守护进程运行，以便它可以自动处理更新 cronjob。&lt;/li&gt;
+&lt;/ol&gt;
+  &lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs routeros&#34;&gt;docker &lt;span class=&#34;hljs-built_in&#34;&gt;run&lt;/span&gt; --rm  -itd  \&lt;br&gt;  -v &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&lt;span class=&#34;hljs-variable&#34;&gt;$(pwd)&lt;/span&gt;/out&amp;quot;&lt;/span&gt;:/acme.sh  \&lt;br&gt;  &lt;span class=&#34;hljs-attribute&#34;&gt;--net&lt;/span&gt;=host \&lt;br&gt;  &lt;span class=&#34;hljs-attribute&#34;&gt;--name&lt;/span&gt;=acme.sh \&lt;br&gt;  neilpang/acme.sh daemon&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;然后你就可以使用&lt;code&gt;docker exec&lt;/code&gt;来执行任何acme.sh 命令了。&lt;/li&gt;
+&lt;/ol&gt;
+  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;docker  exec  acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--help&lt;/span&gt;&lt;br&gt;docker  exec  acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--issue&lt;/span&gt; -d example&lt;span class=&#34;hljs-selector-class&#34;&gt;.com&lt;/span&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;--standalone&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  是的，再次强调，您可以在此处使用&lt;strong&gt;acme.sh&lt;/strong&gt;支持的&lt;strong&gt;任何命令&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;Certbot&#34;&gt;&lt;a href=&#34;#Certbot&#34; class=&#34;headerlink&#34; title=&#34;Certbot&#34;&gt;&lt;/a&gt;Certbot&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://certbot.eff.org/&#34;&gt;https://certbot.eff.org/&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/82aca4fc/</guid>
             <title>SSL证书的申请和自动续期</title>
@@ -183,10 +370,18 @@
 &lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/esofar/p/9291685.html&#34;&gt;快速签发 Let’s Encrypt 证书指南&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://certbot.eff.org/&#34;&gt;https://certbot.eff.org/&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;acme-sh-申请&#34;&gt;&lt;a href=&#34;#acme-sh-申请&#34; class=&#34;headerlink&#34; title=&#34;acme.sh 申请&#34;&gt;&lt;/a&gt;acme.sh 申请&lt;/h1&gt;&lt;p&gt;用 acme.sh申请来自动续期ssl证书&lt;br&gt; acme说明：&lt;a href=&#34;https://links.jianshu.com/go?to=https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E&#34;&gt;https://github.com/Neilpang/acme.sh/wiki/说明&lt;/a&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载acme&lt;code&gt;curl https://get.acme.sh | sh&lt;/code&gt;  安装完成后必须关闭当前终端，重新开启一个以使acme.sh命令生效&lt;/li&gt;
-&lt;li&gt;执行生成和自动更新命令：&lt;code&gt;acme.sh --issue -d mydomain.com -d www.mydomain.com --webroot /var/www/mydomain.com/&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;安装证书 &lt;code&gt;cd /etc/nginx; mkdir ssl&lt;/code&gt;&lt;/li&gt;
+&lt;h2 id=&#34;通过在网站根目录存放文件来验证域名&#34;&gt;&lt;a href=&#34;#通过在网站根目录存放文件来验证域名&#34; class=&#34;headerlink&#34; title=&#34;通过在网站根目录存放文件来验证域名&#34;&gt;&lt;/a&gt;通过在网站根目录存放文件来验证域名&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;下载acme&lt;code&gt;curl https://get.acme.sh | sh&lt;/code&gt;  安装完成后必须关闭当前终端，重新开启一个以使acme.sh命令生效&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;执行生成和自动更新命令：&lt;code&gt;acme.sh --issue -d mydomain.com -d www.mydomain.com --webroot /var/www/mydomain.com/&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&#34;通过在网站根目录存放文件来验证域名-1&#34;&gt;&lt;a href=&#34;#通过在网站根目录存放文件来验证域名-1&#34; class=&#34;headerlink&#34; title=&#34;通过在网站根目录存放文件来验证域名&#34;&gt;&lt;/a&gt;通过在网站根目录存放文件来验证域名&lt;/h2&gt;  &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;acme.sh --issue -d mydomain.com -d www.mydomain.com --webroot /home/wwwroot/mydomain.com/&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;如果你用的 nginx服务器, 或者反代, acme.sh 还可以智能的从 nginx的配置中自动完成验证, 你不需要指定网站根目录:&lt;/span&gt;&lt;br&gt;acme.sh --issue -d mydomain.com --nginx&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;通过DNS解析添加TXT解析记录验证&#34;&gt;&lt;a href=&#34;#通过DNS解析添加TXT解析记录验证&#34; class=&#34;headerlink&#34; title=&#34;通过DNS解析添加TXT解析记录验证&#34;&gt;&lt;/a&gt;通过DNS解析添加TXT解析记录验证&lt;/h2&gt;  &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;acme.sh --issue --dns -d mydomain.com \&lt;br&gt; --yes-I-know-dns-manual-mode-enough-go-ahead-please&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;然后, acme.sh 会生成相应的解析记录显示出来, 你只需要在你的域名管理面板中添加这条 txt 记录即可.等待解析完成之后, 重新生成证书:&lt;/span&gt;&lt;br&gt;&lt;br&gt;acme.sh --renew -d mydomain.com \&lt;br&gt;  --yes-I-know-dns-manual-mode-enough-go-ahead-please&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;注意第二次这里用的是 --renew&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;安装证书 &lt;code&gt;cd /etc/nginx; mkdir ssl&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs xml&#34;&gt;acme.sh  --installcert  -d  &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;domain&lt;/span&gt;&amp;gt;&lt;/span&gt;.com   \&lt;br&gt;        --key-file   /etc/nginx/ssl/&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;domain&lt;/span&gt;&amp;gt;&lt;/span&gt;.key \&lt;br&gt;        --fullchain-file /etc/nginx/ssl/fullchain.cer \&lt;br&gt;        --reloadcmd  &amp;quot;service nginx force-reload&amp;quot;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 

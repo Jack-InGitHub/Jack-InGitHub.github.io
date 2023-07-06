@@ -4,146 +4,133 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;life&#34; category</title>
     <link href="https://www.oikiou.top" />
     <updated>2022-09-19T12:54:03.000Z</updated>
-    <category term="embedded" />
-    <category term="note" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="ms-dos" />
+    <category term="pc" />
+    <category term="software" />
     <category term="windows" />
-    <category term="c" />
-    <category term="c/c++" />
-    <category term="pid" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="c++" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="hp" />
-    <category term="chrome" />
+    <category term="cat_drive" />
+    <category term="linux" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="摄影" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="cad" />
+    <category term="embedded" />
+    <category term="stm32" />
+    <category term="note" />
+    <category term="synology" />
+    <category term="life" />
+    <category term="人生" />
+    <category term="蓝桥杯" />
+    <category term="心理学" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="workflow" />
     <category term="hex" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
+    <category term="license" />
+    <category term="md5" />
     <category term="osi" />
     <category term="markdown" />
-    <category term="md5" />
+    <category term="iap" />
+    <category term="bootloader" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
-    <category term="iap" />
-    <category term="bootloader" />
-    <category term="stm32" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
-    <category term="makefile" />
     <category term="xip" />
     <category term="nor" />
     <category term="nand" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="driver" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="makefile" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
     <category term="ip" />
     <category term="location" />
     <category term="api" />
-    <category term="机智云" />
-    <category term="android" />
-    <category term="mtp" />
-    <category term="pc" />
-    <category term="driver" />
+    <category term="zsh" />
+    <category term="shell" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
     <category term="DS_Store" />
     <category term="rtf" />
     <category term="后缀" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
-    <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="超声波" />
-    <category term="zsh" />
-    <category term="shell" />
-    <category term="linux" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="ct117e-ex" />
-    <category term="zip" />
-    <category term="gzip" />
-    <category term="bzip" />
-    <category term="tar" />
-    <category term="life" />
-    <category term="workflow" />
-    <category term="人生" />
     <category term="github" />
     <category term="hosts" />
-    <category term="cad" />
-    <category term="心理学" />
-    <category term="cat_drive" />
-    <category term="hardware" />
-    <category term="lenovo" />
-    <category term="disk" />
-    <category term="switch" />
-    <category term="nintendo" />
-    <category term="game" />
-    <category term="software" />
-    <category term="synology" />
+    <category term="ct117e-ex" />
+    <category term="机智云" />
+    <category term="超声波" />
+    <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
-    <category term="摄影" />
-    <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
     <category term="spacedesk" />
     <category term="投屏" />
     <category term="vscode" />
-    <category term="flash" />
-    <category term="j-tag" />
+    <category term="ide" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
     <category term="commenttranslate" />
     <category term="wsl" />
+    <category term="speedtest" />
+    <category term="tools" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="tmux" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="tmux" />
     <category term="unit" />
     <category term="m" />
     <category term="cm" />
     <category term="mm" />
     <category term="s" />
     <category term="us" />
-    <category term="cortex-a7" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -152,22 +139,44 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
-    <category term="cortex-m3" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="c++" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="git" />
+    <category term="pid" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
-    <category term="bluetooth" />
-    <category term="蓝牙" />
-    <category term="modbus" />
     <category term="ucos" />
+    <category term="正则表达式" />
+    <category term="cortex-a7" />
     <category term="raspberry" />
-    <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="rt-thread" />
     <category term="ap" />
     <category term="wifi" />
+    <category term="rt-thread" />
+    <category term="cortex-m3" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="wiringpi" />
+    <category term="pwm" />
+    <category term="linuxapp" />
+    <category term="curl" />
+    <category term="libcurl" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <category term="modbus" />
+    <category term="zlib" />
+    <category term="minizip" />
     <entry>
         <id>https://www.oikiou.top/2022/a1ed3941/</id>
         <title>我的工作法</title>
@@ -198,9 +207,21 @@
         <title>为人处世</title>
         <link rel="alternate" href="https://www.oikiou.top/2022/d2bd881e/"/>
         <content type="html">&lt;ul&gt;
-&lt;li&gt;知道自己在某个领域的无知，就不会对那个领域的人指手画脚；&lt;br&gt;知道自己在某项能力上的无知，就不会变得自大妄为；&lt;br&gt;&lt;strong&gt;知道自己对恋人某种内心活动的无知，就不会因为误会而说出伤害对方的话语。&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;每个人的内心是怎样的，他就将自己内心的感受投射到外部世界，于是他眼中的世界就会是满足自己想象的那个世界，而不是真实的世界。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;“人生究竟如何，取决于我们如何去看它。”&lt;/strong&gt;&lt;br&gt;当我们戴上黑白的眼镜，人生便是黑白的；反之，如果希望自己的人生是彩色的，最重要的就是要戴上彩色的眼镜。&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;知道自己在某个领域的无知，就不会对那个领域的人指手画脚；&lt;br&gt;知道自己在某项能力上的无知，就不会变得自大妄为；&lt;br&gt;&lt;strong&gt;知道自己对恋人某种内心活动的无知，就不会因为误会而说出伤害对方的话语。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;每个人的内心是怎样的，他就将自己内心的感受投射到外部世界，于是他眼中的世界就会是满足自己想象的那个世界，而不是真实的世界。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;“人生究竟如何，取决于我们如何去看它。”&lt;/strong&gt;&lt;br&gt;当我们戴上黑白的眼镜，人生便是黑白的；反之，如果希望自己的人生是彩色的，最重要的就是要戴上彩色的眼镜。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;情感性回应，是婚姻生机的来源&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;那些拥有丰盛饱满人际关系的人，总是鲜活热情、有感染力。&lt;/p&gt;
+&lt;p&gt;而人际关系匮乏的人，生命力也匮乏干瘪，缺乏活力。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  当你跟伴侣说“我昨晚做了个噩梦”时，对方如果回答“这有什么关系，不就是一个梦吗”，然后不耐烦地听下去，这就是没有情感的回应。&lt;/p&gt;
+&lt;p&gt;  而如果对方给的回应是，耐心地听你描述梦境，甚至和你展开讨论……这就是有意义的情感性回应。&lt;/p&gt;
+&lt;p&gt;  这个故事可以拓展很多，比如看&lt;strong&gt;综艺、看剧、玩游戏、钓鱼、拍照…&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
@@ -265,21 +286,10 @@
         <updated>2022-04-26T17:06:03.000Z</updated>
     </entry>
     <entry>
-        <id>https://www.oikiou.top/2021/2d3de033/</id>
-        <title>2021年12月6日_屠龙者终成恶龙</title>
-        <link rel="alternate" href="https://www.oikiou.top/2021/2d3de033/"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/2021/2d3de033/image-20220918233723182.png&#34; alt=&#34;image-20220918233723182&#34;&gt;&lt;/p&gt;
-&lt;p&gt;图：浦东张江晚上的雾霾&lt;/p&gt;
-&lt;p&gt;今晚从公司回家比较晚，已经有十点半了，回来的路上在天桥下看到一个阿姨推着电动车，上海冬天室外还是比较冷的，电动车自然续航也大打折扣了，待我走近看她骑得是专门载货的大号电动车，车上载着一个大纸壳箱子，看起来像是载着货物去哪儿，我从她身边经过的时候才看清她的脸，甚是忧愁，她还嘀咕了一句什么，估计发牢骚吧，靠近她之后我不知怎么的放慢了速度，尽量骑得慢一些了，我在犹豫要不要上去帮帮她的时候，我已经走出去好远，等我回头后面就只有她一个人推着车，奋力前行，载着货的电动车很大只，她看起来就显得有些弱小了，当我回过头的时候，就这样离开了，如果是以前的我肯定会上去帮忙的吧。屠龙少年终成恶龙。&lt;/p&gt;
-</content>
-        <category term="life" />
-        <updated>2021-12-05T17:54:03.000Z</updated>
-    </entry>
-    <entry>
         <id>https://www.oikiou.top/2021/1ee3369/</id>
         <title>碎句杂字摘录</title>
         <link rel="alternate" href="https://www.oikiou.top/2021/1ee3369/"/>
-        <content type="html">&lt;ul&gt;
+        <content type="html">&lt;h1 id=&#34;World&#34;&gt;&lt;a href=&#34;#World&#34; class=&#34;headerlink&#34; title=&#34;World&#34;&gt;&lt;/a&gt;World&lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;不论你的生活如何卑微，面对它，活下去，不要逃避，也不要恶语相向。&lt;br&gt;However mean your life is, meet it and live it; do not shun it and call it hard times.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;i love you as who you are&lt;br&gt;我爱你如你所是&lt;/p&gt;
@@ -338,7 +348,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;当着心爱男人的面，每个女人都有返老还童的绝技。&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;其实不用在乎别人的生活方式的。说到底谁也不知道生活是怎么回事，即使你的答案和别人不一样，也算不上是什么错误，索性轻松点，就像之前说的：喜欢独自慢走的人，从来都不需要跟着人群跑。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;其实不用在乎别人的生活方式的。说到底谁也不知道生活是怎么回事，即使你的答案和别人一样，也算不上是什么错误，索性轻松点，就像之前说的：喜欢独自慢走的人，从来都不需要跟着人群跑。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;人这一辈子，你得信这一条：留得住的不需用力，留不住的不必费力，来去随缘，强求不得。&lt;/p&gt;
 &lt;/li&gt;
@@ -356,7 +366,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;世上的事情都经不起推敲，一推敲，哪一件都藏着委屈。&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;相爱容易，因为五官，相处不易，因为三观。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;相爱容易因为五官，相处不易因为三观。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;这世上最孤独的事，不是孤身一人，而是漫长的一生，没有人能理解你说的。&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -367,11 +377,41 @@
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;拼命工作的人最懒惰, 因为他从不思考如何工作.&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;当你做一件事第一反应是没空，并不代表你真的没空，你只是没有把它放在首要位置上。–《要忙就忙的有意义》&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如果让你今天做一件需要花费2小时的事，你可能会回答你没空，但是当你电脑坏了你需要花2小时修电脑，你生活的一切并不会因为这两个小时而改变。（在某些计划机枪，排期很满的人身上这可能不是一个恰当的例子，但是我们很多人都不是这样的人）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;当你能量越来越高的时候，你开始真正理解每一个人，没有好坏，没有对错，只是他处在不同的能量频率，呈现出了不同的状态，做了不同的选择。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;言慢者贵，性柔者富，德厚者旺。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;如果让你今天做一件需要花费2小时的事，你可能会回答你没空，但是当你电脑坏了你需要花2小时修电脑，你生活的一切并不会因为这两个小时而改变。（在某些计划机枪，排期很满的人身上这可能不是一个恰当的例子，但是我们很多人都不是这样的人）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;智者，用脑子说话；愚者，用嘴巴说话。&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;强压，得到的只是屈服；柔和，得到的却是信服。&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;柔，从来不是懦弱，反而是一种穿透人心的力量，是一种胸襟、一种格局。&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;柔，从来不是懦弱，反而是一种穿透人心的力量，是一种胸襟、一种格局。&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;人生在世，如长河入海，决定胜负的，从来都不是一关一隘的得失和一时一地的亏盈，而是百川聚来的洪沛。&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;请允许自己做自己，也允许别人做别人，你会活得更洒脱。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;《运气的诱饵》，讲的是赌徒，老虎机伎俩，与当前互联网几乎无异。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;这个世界缺的不是完美的人，缺的是从心底里给出的真心，正义，无畏和同情。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;弄瞎我的眼睛，我依然会看见你。&lt;/p&gt;
+&lt;p&gt;塞住我的耳朵，我依然会听见你。&lt;/p&gt;
+&lt;p&gt;即使没有脚，我也能找到路走向你。&lt;/p&gt;
+&lt;p&gt;即使没有嘴，我也能苦苦地哀求你。&lt;/p&gt;
+&lt;p&gt;卸下我的手臂，我也会抓住你。&lt;/p&gt;
+&lt;p&gt;我将用我的心抓住你，就像用我自己的手掏出我的心。&lt;/p&gt;
+&lt;p&gt;我的脑筋会围着你转动不停，&lt;/p&gt;
+&lt;p&gt;如果你把一支火炬扔进我的脑海，&lt;/p&gt;
+&lt;p&gt;我也会用血液把你负载。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;Name&#34;&gt;&lt;a href=&#34;#Name&#34; class=&#34;headerlink&#34; title=&#34;Name&#34;&gt;&lt;/a&gt;Name&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Okioga Meaning, Pronunciation and Origin&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Okiou Meaning, Pronunciation and Origin&lt;/strong&gt;&lt;/p&gt;
 </content>
         <category term="life" />
         <updated>2021-09-15T13:54:03.000Z</updated>
@@ -383,7 +423,7 @@
         <content type="html">&lt;h1 id=&#34;前言：&#34;&gt;&lt;a href=&#34;#前言：&#34; class=&#34;headerlink&#34; title=&#34;前言：&#34;&gt;&lt;/a&gt;前言：&lt;/h1&gt;&lt;p&gt;以前参加过单片机和嵌入式的蓝桥，比赛虽然水但是还是可以锻炼个人能力的。&lt;br&gt;个人是在大二接触到这个比赛的，当时因为种种原因没能进入我们学校的电子协会，所以全程比赛都是一个人在准备，四处碰壁无比艰辛。学校报名结束了我才知道这个比赛(已经快寒假了我才了解到有这个比赛)，最后是以个人名义(比赛分为学校统一报名和个人报名，都一样的，只是谁给你交报名费的区别)自己交钱报名参赛的。也挺感谢这个比赛的，能力的提升我自己感觉还是有的，xxx不是经常说以赛促学么不是，哈哈哈哈。&lt;br&gt;在CSDN里面写了些准备比赛的笔记，还有一些自己做赛题的时候码的代码，贴出来给大家一个参考，也算为后来者提供一丝的帮助吧。&lt;br&gt;对了我是参加的第&lt;strong&gt;九届单片机组&lt;/strong&gt;，第十届嵌入式的，这些往后届的赛题我也没做，哈哈哈。&lt;/p&gt;
 &lt;h1 id=&#34;关于代码：&#34;&gt;&lt;a href=&#34;#关于代码：&#34; class=&#34;headerlink&#34; title=&#34;关于代码：&#34;&gt;&lt;/a&gt;关于代码：&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;代码都是准备比赛的时候写的，代码风格不一定很好但是代码都把该实现的功能都实现了，也还请见谅吧。&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id=&#34;关于准备比赛：&#34;&gt;&lt;a href=&#34;#关于准备比赛：&#34; class=&#34;headerlink&#34; title=&#34;关于准备比赛：&#34;&gt;&lt;/a&gt;关于准备比赛：&lt;/h1&gt;&lt;p&gt;准备比赛的话，其实没什么诀窍的。我本人的话“上去就是码”，代码要多写！一定要多码，一定要多码，一定要多码。多码代码，多想其他实现方法，做多了速度就上去了，套路也摸清了，&lt;br&gt;自然也能取得自己满意的成绩。&lt;/p&gt;
-&lt;h1 id=&#34;联系：&#34;&gt;&lt;a href=&#34;#联系：&#34; class=&#34;headerlink&#34; title=&#34;联系：&#34;&gt;&lt;/a&gt;联系：&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;mailto:&amp;#x6f;&amp;#x69;&amp;#107;&amp;#105;&amp;#x6f;&amp;#117;&amp;#64;&amp;#x6f;&amp;#117;&amp;#116;&amp;#x6c;&amp;#111;&amp;#111;&amp;#x6b;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&#34;&gt;&amp;#x6f;&amp;#x69;&amp;#107;&amp;#105;&amp;#x6f;&amp;#117;&amp;#64;&amp;#x6f;&amp;#117;&amp;#116;&amp;#x6c;&amp;#111;&amp;#111;&amp;#x6b;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt;&lt;br&gt;虽然我已经工作了。如果你有问题的话，也欢迎来找我，虽然我可能也不太会了。希望能对看本文的你有所帮助，最后祝大家都能从比赛中提高自己的能力！&lt;/p&gt;
+&lt;h1 id=&#34;联系：&#34;&gt;&lt;a href=&#34;#联系：&#34; class=&#34;headerlink&#34; title=&#34;联系：&#34;&gt;&lt;/a&gt;联系：&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;mailto:&amp;#111;&amp;#105;&amp;#107;&amp;#x69;&amp;#x6f;&amp;#117;&amp;#x40;&amp;#x6f;&amp;#117;&amp;#x74;&amp;#108;&amp;#111;&amp;#111;&amp;#x6b;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&#34;&gt;&amp;#111;&amp;#105;&amp;#107;&amp;#x69;&amp;#x6f;&amp;#117;&amp;#x40;&amp;#x6f;&amp;#117;&amp;#x74;&amp;#108;&amp;#111;&amp;#111;&amp;#x6b;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;br&gt;虽然我已经工作了。如果你有问题的话，也欢迎来找我，虽然我可能也不太会了。希望能对看本文的你有所帮助，最后祝大家都能从比赛中提高自己的能力！&lt;/p&gt;
 &lt;h1 id=&#34;笔记：&#34;&gt;&lt;a href=&#34;#笔记：&#34; class=&#34;headerlink&#34; title=&#34;笔记：&#34;&gt;&lt;/a&gt;笔记：&lt;/h1&gt;&lt;p&gt;蓝桥杯嵌入式入门学习笔记    &lt;a href=&#34;https://blog.csdn.net/weixin_42078116/article/details/87890491&#34;&gt;https://blog.csdn.net/weixin_42078116/article/details/87890491&lt;/a&gt;&lt;br&gt;蓝桥杯单片机组 比赛笔记    &lt;a href=&#34;https://blog.csdn.net/weixin_42078116/article/details/80165089&#34;&gt;https://blog.csdn.net/weixin_42078116/article/details/80165089&lt;/a&gt;&lt;br&gt;蓝桥杯嵌入式国赛扩展板 CT117E-EX 学习笔记    &lt;a href=&#34;https://blog.csdn.net/weixin_42078116/article/details/90905706&#34;&gt;https://blog.csdn.net/weixin_42078116/article/details/90905706&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;代码：&#34;&gt;&lt;a href=&#34;#代码：&#34; class=&#34;headerlink&#34; title=&#34;代码：&#34;&gt;&lt;/a&gt;代码：&lt;/h1&gt;&lt;p&gt;单片机的好像忘记了传，我待会传一下，可以去我的下载里面找。&lt;br&gt;蓝桥杯嵌入式省赛所有赛题代码.7z    &lt;a href=&#34;https://download.csdn.net/download/weixin_42078116/11227537&#34;&gt;https://download.csdn.net/download/weixin_42078116/11227537&lt;/a&gt;&lt;br&gt;蓝桥杯嵌入式省赛及国赛所有赛题代码.7z    &lt;a href=&#34;https://download.csdn.net/download/weixin_42078116/11227496&#34;&gt;https://download.csdn.net/download/weixin_42078116/11227496&lt;/a&gt;    &lt;/p&gt;
 </content>

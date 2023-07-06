@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;cmake&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 30 Mar 2023 10:23:15 +0800</pubDate>
+        <lastBuildDate>Thu, 30 Mar 2023 10:23:15 +0800</lastBuildDate>
+        <category>pc</category>
+        <category>software</category>
+        <category>windows</category>
+        <category>cat_drive</category>
+        <category>linux</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>摄影</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>cad</category>
+        <category>embedded</category>
+        <category>stm32</category>
+        <category>note</category>
+        <category>synology</category>
+        <category>life</category>
+        <category>人生</category>
+        <category>蓝桥杯</category>
+        <category>心理学</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>sscanf</category>
+        <category>c/c++</category>
+        <category>workflow</category>
+        <category>hex</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>license</category>
+        <category>md5</category>
+        <category>osi</category>
+        <category>markdown</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>typora</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>driver</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>makefile</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>ct117e-ex</category>
+        <category>机智云</category>
+        <category>超声波</category>
+        <category>cmake</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>flash</category>
+        <category>j-tag</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>tmux</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>c++</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>git</category>
+        <category>pid</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>ucos</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
+        <category>raspberry</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>rt-thread</category>
+        <category>cortex-m3</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <category>modbus</category>
+        <category>zlib</category>
+        <category>minizip</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2023/3c5e47f1/</guid>
+            <title>CMake的使用</title>
+            <link>https://www.oikiou.top/2023/3c5e47f1/</link>
+            <category>linux</category>
+            <category>cmake</category>
+            <pubDate>Thu, 30 Mar 2023 10:23:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;LVGL&#34;&gt;&lt;a href=&#34;#LVGL&#34; class=&#34;headerlink&#34; title=&#34;LVGL&#34;&gt;&lt;/a&gt;LVGL&lt;/h1&gt;&lt;p&gt;Github：&lt;a href=&#34;https://github.com/lvgl/lvgl/&#34;&gt;https://github.com/lvgl/lvgl/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LVGL：&lt;a href=&#34;https://lvgl.io/&#34;&gt;https://lvgl.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LVGL（轻巧多功能图形库）是一个免费的开源图形库，提供创建具有易于使用的图形元素、精美的视觉效果和低内存占用的嵌入式 GUI 所需的一切。&lt;/p&gt;
+&lt;h3 id=&#34;特性&#34;&gt;&lt;a href=&#34;#特性&#34; class=&#34;headerlink&#34; title=&#34;特性&#34;&gt;&lt;/a&gt;特性&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;丰富且强大的模块化&lt;a href=&#34;https://docs.lvgl.io/master/widgets/index.html&#34;&gt;图形组件&lt;/a&gt;：按钮 (buttons)、图表 (charts)、列表 (lists)、滑动条 (sliders)、图片 (images) 等&lt;/li&gt;
+&lt;li&gt;高级的图形引擎：动画、抗锯齿、透明度、平滑滚动、图层混合等效果&lt;/li&gt;
+&lt;li&gt;支持多种&lt;a href=&#34;https://docs.lvgl.io/master/overview/indev.html&#34;&gt;输入设备&lt;/a&gt;：触摸屏、 键盘、编码器、按键等&lt;/li&gt;
+&lt;li&gt;支持&lt;a href=&#34;https://docs.lvgl.io/master/overview/display.html&#34;&gt;多显示设备&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;不依赖特定的硬件平台，可以在任何显示屏上运行&lt;/li&gt;
+&lt;li&gt;配置可裁剪（最低资源占用：64 kB Flash，16 kB RAM）&lt;/li&gt;
+&lt;li&gt;基于UTF-8的多语种支持，例如中文、日文、韩文、阿拉伯文等&lt;/li&gt;
+&lt;li&gt;可以通过&lt;a href=&#34;https://docs.lvgl.io/master/overview/style.html&#34;&gt;类CSS&lt;/a&gt;的方式来设计、布局图形界面（例如：&lt;a href=&#34;https://docs.lvgl.io/master/layouts/flex.html&#34;&gt;Flexbox&lt;/a&gt;、&lt;a href=&#34;https://docs.lvgl.io/master/layouts/grid.html&#34;&gt;Grid&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;支持操作系统、外置内存、以及硬件加速（LVGL已内建支持STM32 DMA2D、SWM341 DMA2D、NXP PXP和VGLite）&lt;/li&gt;
+&lt;li&gt;即便仅有&lt;a href=&#34;https://docs.lvgl.io/master/porting/display.html&#34;&gt;单缓冲区(frame buffer)&lt;/a&gt;的情况下，也可保证渲染如丝般顺滑&lt;/li&gt;
+&lt;li&gt;全部由C编写完成，并支持C++调用&lt;/li&gt;
+&lt;li&gt;支持Micropython编程，参见：&lt;a href=&#34;https://blog.lvgl.io/2019-02-20/micropython-bindings&#34;&gt;LVGL API in Micropython&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;支持&lt;a href=&#34;https://docs.lvgl.io/master/get-started/platforms/pc-simulator.html&#34;&gt;模拟器&lt;/a&gt;仿真，可以无硬件依托进行开发&lt;/li&gt;
+&lt;li&gt;丰富详实的&lt;a href=&#34;https://github.com/lvgl/lvgl/tree/master/examples&#34;&gt;例程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;详尽的&lt;a href=&#34;http://docs.lvgl.io/&#34;&gt;文档&lt;/a&gt;以及API参考手册，可线上查阅或可下载为PDF格式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;硬件要求&#34;&gt;&lt;a href=&#34;#硬件要求&#34; class=&#34;headerlink&#34; title=&#34;硬件要求&#34;&gt;&lt;/a&gt;硬件要求&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;要求&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;最低要求&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;建议要求&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;架构&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;16、32、64位微控制器或微处理器&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;时钟&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;gt; 16 MHz&lt;/td&gt;
+&lt;td&gt;&amp;gt; 48 MHz&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Flash&amp;#x2F;ROM&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;gt; 64 kB&lt;/td&gt;
+&lt;td&gt;&amp;gt; 180 kB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Static RAM&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;gt; 16 kB&lt;/td&gt;
+&lt;td&gt;&amp;gt; 48 kB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Draw buffer&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;gt; 1 × &lt;em&gt;hor. res.&lt;/em&gt; pixels&lt;/td&gt;
+&lt;td&gt;&amp;gt; 1&amp;#x2F;10屏幕大小&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;编译器&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;C99或更新&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;注意：资源占用情况与具体硬件平台、编译器等因素有关，上表中仅给出参考值&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;如何入门&#34;&gt;&lt;a href=&#34;#如何入门&#34; class=&#34;headerlink&#34; title=&#34;如何入门&#34;&gt;&lt;/a&gt;如何入门&lt;/h1&gt;&lt;p&gt;请按照如下顺序来学习LVGL：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;使用&lt;a href=&#34;https://lvgl.io/demos&#34;&gt;网页在线例程&lt;/a&gt;来体验LVGL&lt;/li&gt;
+&lt;li&gt;阅读文档&lt;a href=&#34;https://docs.lvgl.io/master/intro/index.html&#34;&gt;简介&lt;/a&gt;章节来初步了解LVGL&lt;/li&gt;
+&lt;li&gt;再来阅读一下文档快速&lt;a href=&#34;https://docs.lvgl.io/master/get-started/quick-overview.html&#34;&gt;快速概览&lt;/a&gt;章节来了解LVGL的基本知识&lt;/li&gt;
+&lt;li&gt;学习如何使用&lt;a href=&#34;https://docs.lvgl.io/master/get-started/platforms/pc-simulator.html&#34;&gt;模拟器&lt;/a&gt;来在电脑上仿真LVGL&lt;/li&gt;
+&lt;li&gt;试着动手实践一些&lt;a href=&#34;https://github.com/lvgl/lvgl/tree/master/examples&#34;&gt;例程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;参考&lt;a href=&#34;https://docs.lvgl.io/master/porting/index.html&#34;&gt;移植指南&lt;/a&gt;尝试将LVGL移植到一块开发板上，LVGL也已经提供了一些移植好的&lt;a href=&#34;https://github.com/lvgl?q=lv_port_&#34;&gt;工程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;仔细阅读文档&lt;a href=&#34;https://docs.lvgl.io/master/overview/index.html&#34;&gt;总览&lt;/a&gt;章节来更加深入的了解和熟悉LVGL&lt;/li&gt;
+&lt;li&gt;浏览文档&lt;a href=&#34;https://docs.lvgl.io/master/widgets/index.html&#34;&gt;组件(Widgets)&lt;/a&gt;章节来了解如何使用它们&lt;/li&gt;
+&lt;li&gt;如果你有问题可以到LVGL&lt;a href=&#34;http://forum.lvgl.io/&#34;&gt;论坛&lt;/a&gt;提问&lt;/li&gt;
+&lt;li&gt;阅读文档&lt;a href=&#34;https://docs.lvgl.io/master/CONTRIBUTING.html&#34;&gt;如何向社区贡献&lt;/a&gt;章节来看看你能帮LVGL社区做些什么，以促进LVGL软件质量的不断提高&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;模拟器入门&#34;&gt;&lt;a href=&#34;#模拟器入门&#34; class=&#34;headerlink&#34; title=&#34;模拟器入门&#34;&gt;&lt;/a&gt;模拟器入门&lt;/h1&gt;&lt;p&gt;您可以&lt;strong&gt;仅使用PC试用&lt;/strong&gt;LVGL（即没有任何开发板）。LVGL将在PC上的模拟器环境中运行，任何人都可以编写和试验真正的LVGL应用程序。&lt;/p&gt;
+&lt;p&gt;在PC上使用模拟器具有以下优点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;硬件独立 - 编写代码，在PC上运行它，并在显示器上查看结果。&lt;/li&gt;
+&lt;li&gt;跨平台 - 任何Windows，Linux或macOS系统都可以运行PC模拟器。&lt;/li&gt;
+&lt;li&gt;可移植性 - 编写的代码是可移植的，这意味着您可以在迁移到嵌入式硬件时简单地复制它。&lt;/li&gt;
+&lt;li&gt;易于验证 - 模拟器对于报告错误也非常有用，因为它为每个用户提供了一个通用平台。因此，最好在模拟器中重现错误并在&lt;a href=&#34;https://forum.lvgl.io/&#34;&gt;论坛&lt;/a&gt;中使用该代码片段。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.lvgl.io/master/get-started/platforms/pc-simulator.html&#34;&gt;PC 上的模拟器 — LVGL 文档&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2023/3c5e47f1/</guid>
+            <title>CMake的使用</title>
+            <link>https://www.oikiou.top/2023/3c5e47f1/</link>
+            <category>linux</category>
+            <category>cmake</category>
+            <pubDate>Wed, 29 Mar 2023 21:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;CMake&#34;&gt;&lt;a href=&#34;#CMake&#34; class=&#34;headerlink&#34; title=&#34;CMake&#34;&gt;&lt;/a&gt;CMake&lt;/h1&gt;&lt;p&gt;CMake是开源、跨平台的构建工具，可以让我们通过编写简单的配置文件去生成本地的Makefile，这个配置文件是&lt;strong&gt;独立于运行平台和编译器&lt;/strong&gt;的，这样就不用亲自去编写Makefile了，而且配置文件可以直接拿到其它平台上使用，无需修改，非常方便。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/whahu1989/article/details/82078563&#34;&gt;Linux下CMake简明教程_linux中cmake_爱就是恒久忍耐的博客-CSDN博客&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;CMake-的安装&#34;&gt;&lt;a href=&#34;#CMake-的安装&#34; class=&#34;headerlink&#34; title=&#34;CMake 的安装&#34;&gt;&lt;/a&gt;CMake 的安装&lt;/h1&gt;&lt;h2 id=&#34;Ubuntu下的安装&#34;&gt;&lt;a href=&#34;#Ubuntu下的安装&#34; class=&#34;headerlink&#34; title=&#34;Ubuntu下的安装&#34;&gt;&lt;/a&gt;Ubuntu下的安装&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;$ &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;sudo apt-get install cmake&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;$ &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;cmake --version&lt;/span&gt;&lt;br&gt;cmake version 3.16.3&lt;br&gt;.....&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;这样就安装好了&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;CMake语法&#34;&gt;&lt;a href=&#34;#CMake语法&#34; class=&#34;headerlink&#34; title=&#34;CMake语法&#34;&gt;&lt;/a&gt;CMake语法&lt;/h1&gt;&lt;h2 id=&#34;最简单的版本&#34;&gt;&lt;a href=&#34;#最简单的版本&#34; class=&#34;headerlink&#34; title=&#34;最简单的版本&#34;&gt;&lt;/a&gt;最简单的版本&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  环境：只有一个main.c的&lt;code&gt;hello world&lt;/code&gt;文件，没有任何依赖。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在&lt;code&gt;main.c&lt;/code&gt;的同级目录下建立一个文件，文件名叫&lt;code&gt;CMakeFileLists.txt&lt;/code&gt;，这个文件名不能变更，只能是这个形式。&lt;/p&gt;
+&lt;p&gt;文件内容如下：&lt;/p&gt;
+&lt;figure class=&#34;highlight cmake&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs cmake&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# cmake的最低版本要求是2.8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;cmake_minimum_required&lt;/span&gt;(VERSION &lt;span class=&#34;hljs-number&#34;&gt;2.8&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 工程名&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;project&lt;/span&gt;(download)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 使用main.c这个源文件 生成elf文件 生成的文件名字叫main&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;add_executable&lt;/span&gt;(main, main.c)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;我们在当前目录（&lt;code&gt;main.c&lt;/code&gt;和&lt;code&gt;CMakeFileLists.txt&lt;/code&gt;的目录下）运行&lt;code&gt;cmake .&lt;/code&gt;，含义就是在当前目录下执行cmake。执行成功后会生成&lt;code&gt;Makefils&lt;/code&gt;以及一些cmake运行时自动生成的文件。&lt;/p&gt;
+&lt;p&gt;这个时候我们使用命令&lt;code&gt;make&lt;/code&gt;就可以看到正确编译了。&lt;/p&gt;
+&lt;h2 id=&#34;一个目录下的多个源文件&#34;&gt;&lt;a href=&#34;#一个目录下的多个源文件&#34; class=&#34;headerlink&#34; title=&#34;一个目录下的多个源文件&#34;&gt;&lt;/a&gt;一个目录下的多个源文件&lt;/h2&gt;&lt;figure class=&#34;highlight cmake&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs cmake&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;cmake_minimum_required&lt;/span&gt; (VERSION &lt;span class=&#34;hljs-number&#34;&gt;2.8&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;project&lt;/span&gt; (demo)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 当前目录下的源文件存列表存放到变量SRC_LIST里&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;aux_source_directory&lt;/span&gt;(. SRC_LIST)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 在add_executable里调用SRC_LIST（注意调用变量时的写法）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;add_executable&lt;/span&gt;(main &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;SRC_LIST&amp;#125;&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;code&gt;aux_source_directory()&lt;/code&gt;也存在弊端，它&lt;strong&gt;会把指定目录下的所有源文件都加进来&lt;/strong&gt;，可能会加入一些我们不需要的文件，此时我们可以使用&lt;strong&gt;set命令&lt;/strong&gt;去新建变量来存放需要的源文件&lt;/p&gt;
+&lt;figure class=&#34;highlight cmake&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs cmake&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;cmake_minimum_required&lt;/span&gt; (VERSION &lt;span class=&#34;hljs-number&#34;&gt;2.8&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;project&lt;/span&gt; (demo)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# set 命令设置变量存放源文件&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;set&lt;/span&gt;( SRC_LIST&lt;br&gt;	 ./main.c&lt;br&gt;	 ./testFunc1.c&lt;br&gt;	 ./testFunc.c)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;add_executable&lt;/span&gt;(main &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;SRC_LIST&amp;#125;&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;不同目录下的多个源文件&#34;&gt;&lt;a href=&#34;#不同目录下的多个源文件&#34; class=&#34;headerlink&#34; title=&#34;不同目录下的多个源文件&#34;&gt;&lt;/a&gt;不同目录下的多个源文件&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  文件结构&lt;/p&gt;
+  &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;./bin&lt;br&gt;./build&lt;br&gt;./include&lt;br&gt;	xx.h&lt;br&gt;	xxx.h&lt;br&gt;./src&lt;br&gt;	xxx.c&lt;br&gt;	xx.c&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight cmake&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs cmake&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;cmake_minimum_required&lt;/span&gt; (VERSION &lt;span class=&#34;hljs-number&#34;&gt;2.8&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;project&lt;/span&gt; (demo)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 修改输出位置&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# EXECUTABLE_OUT_PATH和PROJECT_SOURCE_DIR是CMake自带的预定义变量&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# EXECUTABLE_OUTPUT_PATH ：目标二进制可执行文件的存放位置&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# PROJECT_SOURCE_DIR：工程的根目录&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;set&lt;/span&gt; (EXECUTABLE_OUTPUT_PATH &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;PROJECT_SOURCE_DIR&amp;#125;&lt;/span&gt;/bin)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 当前src目录下的源文件存列表存放到变量SRC_LIST里&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;aux_source_directory&lt;/span&gt; (src SRC_LIST)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 将include文件夹设定为头文件搜索路径&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 该命令是用来向工程添加多个指定头文件的搜索路径，路径之间用空格分隔。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;include_directories&lt;/span&gt; (&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 生成elf文件&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;add_executable&lt;/span&gt; (main &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;SRC_LIST&amp;#125;&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;静态库和动态库的编译&#34;&gt;&lt;a href=&#34;#静态库和动态库的编译&#34; class=&#34;headerlink&#34; title=&#34;静态库和动态库的编译&#34;&gt;&lt;/a&gt;静态库和动态库的编译&lt;/h2&gt;&lt;p&gt;编译出动态库和静态库，然后等着让其它程序去使用。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  文件结构&lt;/p&gt;
+  &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;./bin&lt;br&gt;./build&lt;br&gt;./lib&lt;br&gt;./include&lt;br&gt;	xx.h&lt;br&gt;	xxx.h&lt;br&gt;./src&lt;br&gt;	xxx.c&lt;br&gt;	xx.c&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight cmake&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs cmake&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;cmake_minimum_required&lt;/span&gt; (VERSION &lt;span class=&#34;hljs-number&#34;&gt;3.5&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;project&lt;/span&gt; (demo)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;set&lt;/span&gt; (SRC_LIST &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;PROJECT_SOURCE_DIR&amp;#125;&lt;/span&gt;/src/xxx.c)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 生成动态库或静态库&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 第1个参数指定库的名字；&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 第2个参数决定是动态还是静态，如果没有就默认静态；&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 第3个参数指定生成库的源文件&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;add_library&lt;/span&gt; (testFunc_shared SHARED &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;SRC_LIST&amp;#125;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;add_library&lt;/span&gt; (testFunc_static STATIC &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;SRC_LIST&amp;#125;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 设置最终生成的库的名称，还有其它功能，如设置库的版本号等等&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;set_target_properties&lt;/span&gt; (testFunc_shared PROPERTIES OUTPUT_NAME &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;testFunc&amp;quot;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;set_target_properties&lt;/span&gt; (testFunc_static PROPERTIES OUTPUT_NAME &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;testFunc&amp;quot;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;set&lt;/span&gt; (LIBRARY_OUTPUT_PATH &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;PROJECT_SOURCE_DIR&amp;#125;&lt;/span&gt;/lib)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;对库进行链接&#34;&gt;&lt;a href=&#34;#对库进行链接&#34; class=&#34;headerlink&#34; title=&#34;对库进行链接&#34;&gt;&lt;/a&gt;对库进行链接&lt;/h2&gt;&lt;figure class=&#34;highlight cmake&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs cmake&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;find_library&lt;/span&gt;(TESTFUNC_LIB testFunc HINTS &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;PROJECT_SOURCE_DIR&amp;#125;&lt;/span&gt;/testFunc/lib)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;target_link_libraries&lt;/span&gt; (main &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;TESTFUNC_LIB&amp;#125;&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;find_library: 在指定目录下查找指定库，并把&lt;strong&gt;库的绝对路径&lt;/strong&gt;存放到变量里，其第一个参数是变量名称，第二个参数是库名称，第三个参数是HINTS，第4个参数是路径，其它用法可以参考cmake文档&lt;/li&gt;
+&lt;li&gt;target_link_libraries: 把目标文件与库文件进行链接&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ps：在lib目录下有testFunc的静态库和动态库，find_library(TESTFUNC_LIB testFunc …默认是查找动态库，如果想直接指定使用动态库还是静态库，可以写成find_library(TESTFUNC_LIB libtestFunc.so …或者find_library(TESTFUNC_LIB libtestFunc.a …&lt;/p&gt;
+&lt;p&gt;ps： 查看elf文件使用了哪些库，可以使用readelf -d .&amp;#x2F;xx来查看&lt;/p&gt;
+&lt;p&gt;之前本节教程使用的是库查找方法是link_directories，但是很多读者反映运行时有问题，本人去官方文档上查了下，发现不建议使用了，推荐使用find_library或者find_package&lt;/p&gt;
+&lt;h2 id=&#34;添加编译选项&#34;&gt;&lt;a href=&#34;#添加编译选项&#34; class=&#34;headerlink&#34; title=&#34;添加编译选项&#34;&gt;&lt;/a&gt;添加编译选项&lt;/h2&gt;&lt;p&gt;有时编译程序时想添加一些编译选项，如-Wall，-std&amp;#x3D;c++11等，就可以使用add_compile_options来进行操作。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;add_compile_options(-std=c++11 -Wall) &lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更加完善的目录结构及编译选项&#34;&gt;&lt;a href=&#34;#更加完善的目录结构及编译选项&#34; class=&#34;headerlink&#34; title=&#34;更加完善的目录结构及编译选项&#34;&gt;&lt;/a&gt;更加完善的目录结构及编译选项&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  文件结构&lt;/p&gt;
+&lt;p&gt;  构建的时候我们需要先&lt;code&gt;cd build&lt;/code&gt;，然后再&lt;code&gt;cmake ..&lt;/code&gt;构建，最后&lt;code&gt;make -j8&lt;/code&gt;编译即可。&lt;/p&gt;
+  &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;.&lt;br&gt;├── build&lt;br&gt;├── CMakeLists.txt&lt;br&gt;├── libzip&lt;br&gt;│   ├── ioapi.c&lt;br&gt;│   ├── ioapi.h&lt;br&gt;│   ├── unzip.c&lt;br&gt;│   └── unzip.h&lt;br&gt;├── main&lt;br&gt;│   └── curl_zip.c&lt;br&gt;├── tools&lt;br&gt;    └── log&lt;br&gt;        └── log.h&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;cmake_minimum_required(VERSION 3.0)&lt;br&gt;project(curl_zip)&lt;br&gt;&lt;br&gt;set(Target down)&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;设置语言标准&lt;/span&gt;&lt;br&gt;set(CMAKE_C_STANDARD 11)&lt;br&gt;set(CMAKE_CXX_STANDARD 17)&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;为当前路径以及子目录的源文件加入由-D预编译定义&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;add_definitions(-DFOO -DDEBUG ...)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;设置C++编译参数(CMAKE_CXX_FLAGS是全局变量)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt;(CMAKE_CXX_FLAGS &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;-Wall std=c++11 -Wextra -fPIC -g&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;设置指定的C++编译器版本是必须的，如果不设置，或者为OFF，则指定版本不可用时，会使用上一版本。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt;(CMAKE_CXX_STANDARD_REQUIRED ON)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;设置编译器选项&lt;/span&gt;&lt;br&gt;add_compile_options(-O3 -Wall) &lt;br&gt;&lt;br&gt;&lt;br&gt;message(&amp;quot;Target=&amp;quot; $&amp;#123;Target&amp;#125;)&lt;br&gt;message(&amp;quot;---------- Start building ----------&amp;quot;)&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;设置包含路径&lt;/span&gt;&lt;br&gt;include_directories(    $&amp;#123;PROJECT_SOURCE_DIR&amp;#125;/libzip&lt;br&gt;                        $&amp;#123;PROJECT_SOURCE_DIR&amp;#125;/tools/log&lt;br&gt;)&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;把xxx目录下所有源文件写入变量SRC_LIST&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;aux_source_directory($&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&amp;#123;PROJECT_SOURCE_DIR&amp;#125;/libzip           SRC_LIST)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;aux_source_directory($&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&amp;#123;PROJECT_SOURCE_DIR&amp;#125;/src/curl         SRC_LIST)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;aux_source_directory($&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&amp;#123;PROJECT_SOURCE_DIR&amp;#125;/main             SRC_LIST)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;以SRC_LIST为源文件生成目标文件xxx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;add_executable($&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&amp;#123;Target&amp;#125; &lt;span class=&#34;hljs-variable&#34;&gt;$&amp;#123;SRC_LIST&amp;#125;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;创建库文件&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;add_library(&amp;lt;name&amp;gt; [STATIC | SHARED | MODULE] [EXCLUDE_FROM_ALL] source1 source2 ... sourceN)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;目标文件链接的库&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;target_link_libraries() 总是指明 PRIVATE、PUBLIC 、INTERFACE&lt;/span&gt;&lt;br&gt;target_link_libraries( $&amp;#123;Target&amp;#125;&lt;br&gt;    pthread&lt;br&gt;    curl&lt;br&gt;    z&lt;br&gt;)&lt;br&gt;&lt;br&gt;message(&amp;quot;---------- Stop  building ----------&amp;quot;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ]]></description>
+        </item>
+    </channel>
+</rss>

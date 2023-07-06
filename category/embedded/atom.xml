@@ -4,146 +4,133 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;embedded&#34; category</title>
     <link href="https://www.oikiou.top" />
     <updated>2018-03-11T14:57:15.000Z</updated>
-    <category term="embedded" />
-    <category term="note" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="ms-dos" />
+    <category term="pc" />
+    <category term="software" />
     <category term="windows" />
-    <category term="c" />
-    <category term="c/c++" />
-    <category term="pid" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="c++" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="hp" />
-    <category term="chrome" />
+    <category term="cat_drive" />
+    <category term="linux" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="摄影" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="cad" />
+    <category term="embedded" />
+    <category term="stm32" />
+    <category term="note" />
+    <category term="synology" />
+    <category term="life" />
+    <category term="人生" />
+    <category term="蓝桥杯" />
+    <category term="心理学" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="workflow" />
     <category term="hex" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
+    <category term="license" />
+    <category term="md5" />
     <category term="osi" />
     <category term="markdown" />
-    <category term="md5" />
+    <category term="iap" />
+    <category term="bootloader" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
-    <category term="iap" />
-    <category term="bootloader" />
-    <category term="stm32" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
-    <category term="makefile" />
     <category term="xip" />
     <category term="nor" />
     <category term="nand" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="driver" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="makefile" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
     <category term="ip" />
     <category term="location" />
     <category term="api" />
-    <category term="机智云" />
-    <category term="android" />
-    <category term="mtp" />
-    <category term="pc" />
-    <category term="driver" />
+    <category term="zsh" />
+    <category term="shell" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
     <category term="DS_Store" />
     <category term="rtf" />
     <category term="后缀" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
-    <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="超声波" />
-    <category term="zsh" />
-    <category term="shell" />
-    <category term="linux" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="ct117e-ex" />
-    <category term="zip" />
-    <category term="gzip" />
-    <category term="bzip" />
-    <category term="tar" />
-    <category term="life" />
-    <category term="workflow" />
-    <category term="人生" />
     <category term="github" />
     <category term="hosts" />
-    <category term="cad" />
-    <category term="心理学" />
-    <category term="cat_drive" />
-    <category term="hardware" />
-    <category term="lenovo" />
-    <category term="disk" />
-    <category term="switch" />
-    <category term="nintendo" />
-    <category term="game" />
-    <category term="software" />
-    <category term="synology" />
+    <category term="ct117e-ex" />
+    <category term="机智云" />
+    <category term="超声波" />
+    <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
-    <category term="摄影" />
-    <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
+    <category term="flash" />
+    <category term="j-tag" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
     <category term="spacedesk" />
     <category term="投屏" />
     <category term="vscode" />
-    <category term="flash" />
-    <category term="j-tag" />
+    <category term="ide" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
     <category term="commenttranslate" />
     <category term="wsl" />
+    <category term="speedtest" />
+    <category term="tools" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="tmux" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="tmux" />
     <category term="unit" />
     <category term="m" />
     <category term="cm" />
     <category term="mm" />
     <category term="s" />
     <category term="us" />
-    <category term="cortex-a7" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -152,22 +139,44 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
-    <category term="cortex-m3" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="c++" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="git" />
+    <category term="pid" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
-    <category term="bluetooth" />
-    <category term="蓝牙" />
-    <category term="modbus" />
     <category term="ucos" />
+    <category term="正则表达式" />
+    <category term="cortex-a7" />
     <category term="raspberry" />
-    <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="rt-thread" />
     <category term="ap" />
     <category term="wifi" />
+    <category term="rt-thread" />
+    <category term="cortex-m3" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="wiringpi" />
+    <category term="pwm" />
+    <category term="linuxapp" />
+    <category term="curl" />
+    <category term="libcurl" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <category term="modbus" />
+    <category term="zlib" />
+    <category term="minizip" />
     <entry>
         <id>https://www.oikiou.top/2018/ef667962/</id>
         <title>嵌入式编程杂乱笔记</title>
@@ -245,6 +254,187 @@
 &lt;/blockquote&gt;
 &lt;h6 id=&#34;NOR-和-NAND-的对比&#34;&gt;&lt;a href=&#34;#NOR-和-NAND-的对比&#34; class=&#34;headerlink&#34; title=&#34;NOR 和 NAND 的对比&#34;&gt;&lt;/a&gt;NOR 和 NAND 的对比&lt;/h6&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/20200311_10_Nor_FLASH_vs_NAND_FLASH.png&#34; alt=&#34;Nor FLASH和NAND FLASH基本结构和特点的异同&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2018/ef667962/20200311_11_Nor_FLASH_vs_NAND_FLASH.png&#34; alt=&#34;Nor FLASH和NAND FLASH基本结构和特点的异同&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;eMMC&#34;&gt;&lt;a href=&#34;#eMMC&#34; class=&#34;headerlink&#34; title=&#34;eMMC&#34;&gt;&lt;/a&gt;eMMC&lt;/h2&gt;&lt;p&gt;eMMC (Embedded Multi Media Card) 为MMC协会所订立的主要针对手机或平板电脑等产品的内嵌式存储器标准规格。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;eMMC&lt;/strong&gt; 是 **flash(一般是NAND flash)&lt;strong&gt;加&lt;/strong&gt;主控IC(坏块处理 ECC纠错 和数据管理)**，封装相对比较标准，并对外提供标准接口，类似于SD卡。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  Flash的生产厂家主要有： Samsung, Toshiba,Hynix, Intel, Micron,&lt;/p&gt;
+&lt;p&gt;  flash控制IC主要有：Phison（群联）, SMI（慧荣）, SiliconGo(硅格半导体）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;几乎所有的手机和平板电脑都使用这种形式的闪存作为主存储，直到 2016 年&lt;a href=&#34;https://en.wikipedia.org/wiki/Universal_Flash_Storage&#34;&gt;通用闪存&lt;/a&gt;(UFS) 开始控制市场。&lt;/p&gt;
+&lt;p&gt;eMMC 不支持&lt;a href=&#34;https://en.wikipedia.org/wiki/Serial_Peripheral_Interface&#34;&gt;SPI-bus&lt;/a&gt;协议，一般使用 MLC NAND flash。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Sequential Read(MB&amp;#x2F;s)&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Sequential Write(MB&amp;#x2F;s)&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Random Read(IO&amp;#x2F;s)&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Random Write(IO&amp;#x2F;s)&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Clock Frequency(Mhz)&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Used in&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;eMMC 4.3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;eMMC 4.4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;eMMC 4.41&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;52[&lt;a href=&#34;https://en.wikipedia.org/wiki/MultiMediaCard#cite_note-11&#34;&gt;11]&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;eMMC 4.5&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;140[&lt;a href=&#34;https://en.wikipedia.org/wiki/MultiMediaCard#cite_note-12&#34;&gt;12]&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;50&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;7000&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2000&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;200&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Snapdragon_800&#34;&gt;Snapdragon 800&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;eMMC 5.0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;250&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;90&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;7000&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;13000&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Snapdragon 801&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;eMMC 5.1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;250&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;125&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;11000&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;13000&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Snapdragon 820&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;UFS&#34;&gt;&lt;a href=&#34;#UFS&#34; class=&#34;headerlink&#34; title=&#34;UFS&#34;&gt;&lt;/a&gt;UFS&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;UFS&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;1.0&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;1.1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;2.0&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;2.1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;2.2&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;3.0&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;3.1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;4.0&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Introduced&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2011-02&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2012-06&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2013-09&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2016-04&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2020-08&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2018-01&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2020-01&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2022-08&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Bandwidth per lane&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;300 MB&amp;#x2F;s&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;600 MB&amp;#x2F;s&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1450 MB&amp;#x2F;s&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2900 MB&amp;#x2F;s&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Max. number of lanes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Max. total bandwidth&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;300 MB&amp;#x2F;s&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1200 MB&amp;#x2F;s&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2900 MB&amp;#x2F;s&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5800 MB&amp;#x2F;s&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/M-PHY&#34;&gt;M-PHY&lt;/a&gt; version&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;?&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;?&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3.0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;?&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4.1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5.0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/UniPro&#34;&gt;UniPro&lt;/a&gt; version&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;?&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;?&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1.6&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;?&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1.8&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2.0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;NFC&#34;&gt;&lt;a href=&#34;#NFC&#34; class=&#34;headerlink&#34; title=&#34;NFC&#34;&gt;&lt;/a&gt;NFC&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;近场通信&lt;/strong&gt;（英语：Near-field communication，NFC），又称&lt;strong&gt;近距离无线通信&lt;/strong&gt;、&lt;strong&gt;近距离通信&lt;/strong&gt;，是一套&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E9%80%9A%E8%A8%8A%E5%8D%94%E5%AE%9A&#34;&gt;通信协议&lt;/a&gt;，让两个电子设备（其中一个通常是移动设备，例如&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F&#34;&gt;智能手机&lt;/a&gt;）在相距几厘米之内进行&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%B3%87%E6%96%99%E5%82%B3%E8%BC%B8&#34;&gt;通信&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;近场通信是一种短距高频的无线电技术，在&lt;strong&gt;13.56MHz&lt;/strong&gt;频率运行于20厘米距离内[&lt;a href=&#34;https://zh.wikipedia.org/zh-cn/%E8%BF%91%E5%A0%B4%E9%80%9A%E8%A8%8A#cite_note-Ortiz_2008-5&#34;&gt;5]&lt;/a&gt;。其传输速度有106 Kbit&amp;#x2F;秒、212 Kbit&amp;#x2F;秒或者424 Kbit&amp;#x2F;秒三种。&lt;/p&gt;
+&lt;p&gt;NFC的工作模式有&lt;strong&gt;卡模式&lt;/strong&gt;、&lt;strong&gt;读写器模式&lt;/strong&gt;和&lt;strong&gt;点对点模式&lt;/strong&gt;三种&lt;/p&gt;
+&lt;h2 id=&#34;RFID&#34;&gt;&lt;a href=&#34;#RFID&#34; class=&#34;headerlink&#34; title=&#34;RFID&#34;&gt;&lt;/a&gt;RFID&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;射频识别&lt;/strong&gt;（英语：&lt;strong&gt;R&lt;/strong&gt;adio &lt;strong&gt;F&lt;/strong&gt;requency &lt;strong&gt;ID&lt;/strong&gt;entification，&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%B8%AE%E5%AF%AB&#34;&gt;缩写&lt;/a&gt;：&lt;strong&gt;RFID&lt;/strong&gt;）是一种&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%84%A1%E7%B7%9A&#34;&gt;无线&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF&#34;&gt;通信技术&lt;/a&gt;，可以通过&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%97%A0%E7%BA%BF%E7%94%B5&#34;&gt;无线电&lt;/a&gt;信号识别特定目标并读写相关数据，而无需识别系统与特定目标之间建立&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%9C%BA%E6%A2%B0&#34;&gt;机械&lt;/a&gt;或者&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%85%89%E5%AD%A6&#34;&gt;光学&lt;/a&gt;接触。&lt;/p&gt;
+&lt;p&gt;某些标签在识别时从识别器发出的电磁场中就可以得到能量，&lt;strong&gt;并不需要电池&lt;/strong&gt;；&lt;strong&gt;也有标签本身拥有电源&lt;/strong&gt;，并可以主动发出无线电波（调成无线电频率的电磁场）。&lt;/p&gt;
+&lt;p&gt;无源 RFID 标签主要在三个频率范围内运行：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.atlasrfidstore.com/low-frequency-rfid-and-animal-identification&#34;&gt;低频&lt;/a&gt;(LF) 125 -134 kHz&lt;/li&gt;
+&lt;li&gt;高频 (HF)13.56 MHz&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.atlasrfidstore.com/what-is-rfid&#34;&gt;超高频&lt;/a&gt;(UHF) 856 MHz 至 960 MHz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  &lt;strong&gt;NFC 与 RFID 有什么区别？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  简而言之：&lt;/p&gt;
+&lt;p&gt;  RFID 代表射频识别，一种在不同距离的非接触式单向&lt;strong&gt;通信方法&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;  NFC 近场通信，允许双向通信并需要用户操作，从特性上来看NFC的功能会更强，&lt;strong&gt;NFC是RFID的一个子集&lt;/strong&gt;。 &lt;/p&gt;
+&lt;p&gt;  RFID 是使用无线电波唯一识别物品的过程，而 NFC 是 RFID 技术系列中的一个专门子集。具体来说，NFC 是高频 (HF) RFID 的一个分支，均工作在 13.56 MHz 频率。NFC 旨在成为一种安全的数据交换形式，NFC 设备既可以作为 NFC 阅读器，也可以作为 &lt;a href=&#34;https://www.atlasrfidstore.com/near-field-communication/&#34;&gt;NFC 标签&lt;/a&gt;。这种独特的功能允许 NFC 设备进行点对点通信。&lt;/p&gt;
+&lt;p&gt;  归根结底，&lt;strong&gt;NFC 建立在 HF RFID 的标准之上&lt;/strong&gt;，并将其工作频率的局限性转化为近场通信的独特功能。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;范围和应用&lt;/strong&gt;——NFC 的作用范围非常短，一般工作范围在 0.1 米以内。它是一种用户交互技术，需要用户的特殊参与才能保证支付或访问等功能的完成。NFC技术在门禁、公共交通、移动支付等领域发挥着巨大的作用。&lt;/li&gt;
+&lt;li&gt;另一方面，RFID 扫描器可以同时读取大量标签，这在仓库库存中很常见。RFID 在数百英尺的距离内工作。 &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;通信&lt;/strong&gt;——RFID 通常只能进行单向通信（从标签到阅读器），而 NFC 则能够进行双向通信。 &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据存储——NFC&lt;/strong&gt;可以存储比简单识别信息更复杂的数据。NFC 标签最多可以存储 4KB 的数据。这些数据可以采用多种格式，包括文本、URL 和媒体。虽然 RFID 标签通常需要昂贵的读取器来提取数据，但大多数现代智能手机都配备了 NFC 读取功能。这大大降低了实施 NFC 标签的成本，因为用户可以简单地使用他们的智能手机读取数据。智能手机可以在标签或卡上读取和写入数据，获取详细的元数据，在扫描标签时启动应用程序或 URL，还可以使用 NFC（点对点 (P2P) 通信）在手机之间共享数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;h1 id=&#34;编译器相关&#34;&gt;&lt;a href=&#34;#编译器相关&#34; class=&#34;headerlink&#34; title=&#34;编译器相关&#34;&gt;&lt;/a&gt;编译器相关&lt;/h1&gt;&lt;h2 id=&#34;Keil仿真准确测量运行时间&#34;&gt;&lt;a href=&#34;#Keil仿真准确测量运行时间&#34; class=&#34;headerlink&#34; title=&#34;Keil仿真准确测量运行时间&#34;&gt;&lt;/a&gt;Keil仿真准确测量运行时间&lt;/h2&gt;&lt;p&gt;Debug-&amp;gt;Setting-&amp;gt;Trsce-&amp;gt;Core 修改好核心时钟频率即可准确测量函数运行时间&lt;/p&gt;
 &lt;h2 id=&#34;程序内存位置分配&#34;&gt;&lt;a href=&#34;#程序内存位置分配&#34; class=&#34;headerlink&#34; title=&#34;程序内存位置分配&#34;&gt;&lt;/a&gt;程序内存位置分配&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;bss段：&lt;/p&gt;
@@ -413,6 +603,10 @@
 &lt;li&gt;&lt;p&gt;Zero Initial&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  编译器插入一个小的引导程序代码，该代码从编译好的image中获取具有初始化数据初始值的块，并将其复制到 RAM（这是 RW 区域）中。然后它将剩余的已用 RAM（ZI 区域）清零。然后控制权转移到程序员编写的实际代码中。&lt;/p&gt;
+  &lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs apache&#34;&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Total&lt;/span&gt; RO Size (Code+Ro data)                &lt;span class=&#34;hljs-number&#34;&gt;36732&lt;/span&gt; (&lt;span class=&#34;hljs-number&#34;&gt;35&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;87&lt;/span&gt;kB)&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Total&lt;/span&gt; RW Size (RW Data + ZI Data)           &lt;span class=&#34;hljs-number&#34;&gt;27348&lt;/span&gt; (&lt;span class=&#34;hljs-number&#34;&gt;26&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;71&lt;/span&gt;kB&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Total&lt;/span&gt; ROM Size (Code + RO Data + RW Data)   &lt;span class=&#34;hljs-number&#34;&gt;36812&lt;/span&gt; (&lt;span class=&#34;hljs-number&#34;&gt;35&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;95&lt;/span&gt;kB&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;汇编延时-不受优化影响&#34;&gt;&lt;a href=&#34;#汇编延时-不受优化影响&#34; class=&#34;headerlink&#34; title=&#34;汇编延时 不受优化影响&#34;&gt;&lt;/a&gt;汇编延时 不受优化影响&lt;/h2&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/**&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @brief 汇编延时&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @attention us延时不是很准确&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @details 三个汇编指令理论应该是三个时钟周期&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * 则 理论上&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * ms AsmDelay( n*(SystemCoreClock/3000) )&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * 实际有所差异 在STM32F105上&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * ms AsmDelay( n*(SystemCoreClock/6000) )&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; defined (__CC_ARM)              &lt;span class=&#34;hljs-comment&#34;&gt;// ARM Compiler&lt;/span&gt;&lt;/span&gt;&lt;br&gt;__attribute__((always_inline)) __ASM &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;AsmDelay&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;uint32_t&lt;/span&gt; t)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    subs    r0, #&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;;&lt;br&gt;    bne     AsmDelay;&lt;br&gt;    bx      lr;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; defined (__ICCARM__)         &lt;span class=&#34;hljs-comment&#34;&gt;// IAR Compiler&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;AsmDelay&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;uint32_t&lt;/span&gt; t)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    __asm(&lt;br&gt;    &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;subs  r0, #1\n&amp;quot;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;bne.n AsmDelay\n&amp;quot;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;bx    lr&amp;quot;&lt;/span&gt;&lt;br&gt;    );&lt;br&gt;&amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; (__GUNC__)            &lt;span class=&#34;hljs-comment&#34;&gt;// GUN Compiler&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; __attribute__((naked)) AsmDelay(&lt;span class=&#34;hljs-type&#34;&gt;uint32_t&lt;/span&gt; t)&lt;br&gt;&amp;#123;&lt;br&gt;    __asm(&lt;br&gt;    &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;subs  r0, #1\n&amp;quot;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;bne   AsmDelay\n&amp;quot;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;bx    lr&amp;quot;&lt;/span&gt;&lt;br&gt;    );&lt;br&gt;&amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;endif&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
@@ -495,10 +689,14 @@
 
 &lt;h3 id=&#34;参量的命名&#34;&gt;&lt;a href=&#34;#参量的命名&#34; class=&#34;headerlink&#34; title=&#34;参量的命名&#34;&gt;&lt;/a&gt;参量的命名&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;对常量来说，应该用它所代表的抽象实体而不是数值来命名。&lt;/strong&gt;&lt;br&gt;FIVE是一个很不恰当的常量名称（不管它代表的数值是否是5.0）；CYCLES_NEEDED则是个恰当的名称，CYCLES_NEEDED可以等于5.0也可以等于6.0，而Five &amp;#x3D; 6.0则是个荒唐的语句。&lt;/p&gt;
 &lt;h2 id=&#34;运算符优先级&#34;&gt;&lt;a href=&#34;#运算符优先级&#34; class=&#34;headerlink&#34; title=&#34;运算符优先级&#34;&gt;&lt;/a&gt;运算符优先级&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/00.jpeg&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  简记&lt;/p&gt;
+&lt;p&gt;  算术运算符 &amp;gt; 关系运算符  &amp;gt; 位运算符 &amp;gt; 逻辑运算符 &amp;gt; 赋值运算符&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;坑&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//编译报错&lt;/span&gt;&lt;br&gt;(DS18B20_DQ_IN != &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;) ? data_temp|=&lt;span class=&#34;hljs-number&#34;&gt;0x80&lt;/span&gt; : data_temp&amp;amp;=&lt;span class=&#34;hljs-number&#34;&gt;0x7f&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//规范写法&lt;/span&gt;&lt;br&gt;(DS18B20_DQ_IN!=&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;) ? (data_temp|=&lt;span class=&#34;hljs-number&#34;&gt;0x80&lt;/span&gt;):(data_temp&amp;amp;=&lt;span class=&#34;hljs-number&#34;&gt;0x7f&lt;/span&gt;);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//编译报错 ！赋值运算符优先级最低！&lt;/span&gt;&lt;br&gt;(DS18B20_DQ_IN != &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;) ? data_temp|=&lt;span class=&#34;hljs-number&#34;&gt;0x80&lt;/span&gt; : data_temp&amp;amp;=&lt;span class=&#34;hljs-number&#34;&gt;0x7f&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//规范写法&lt;/span&gt;&lt;br&gt;(DS18B20_DQ_IN!=&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;) ? (data_temp|=&lt;span class=&#34;hljs-number&#34;&gt;0x80&lt;/span&gt;):(data_temp&amp;amp;=&lt;span class=&#34;hljs-number&#34;&gt;0x7f&lt;/span&gt;);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;ul&gt;
 &lt;li&gt;！！！极注意！！！  请小心有位运算时打上括号            &amp;lt;&amp;lt;  比  +-  要低 &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;u16 temp;&lt;br&gt;u8 h,l;&lt;br&gt;temp = (u16)(h&amp;lt;&amp;lt;&lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;) + l;&lt;span class=&#34;hljs-comment&#34;&gt;// 正确语法&lt;/span&gt;&lt;br&gt;temp = h&amp;lt;&amp;lt;&lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt; + l;&lt;span class=&#34;hljs-comment&#34;&gt;// 错误语法！！！！！&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -709,25 +907,58 @@
 &lt;li&gt;注意节约内存，小数据全部写在前面方便对齐。&lt;/li&gt;
 &lt;li&gt;结构体内的结构体因为已经是对其了的，所以，可以建议放在最前、最后。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;匿名-union-struct&#34;&gt;&lt;a href=&#34;#匿名-union-struct&#34; class=&#34;headerlink&#34; title=&#34;匿名 union struct&#34;&gt;&lt;/a&gt;匿名 union struct&lt;/h2&gt;&lt;p&gt;可以在&lt;strong&gt;结构体&lt;/strong&gt;中声明某个联合体（或结构体）而不用指出它的名字，如此之后就可以像使用结构体成员一样直接使用其中联合体（或结构体）的成员。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  Anonymous unions are a GNU extension, not part of any standard version of the C language. &lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;Anonymous unions were added in C11, so they are now a standard part of the language. Presumably GCC’s &lt;code&gt;-std=c11&lt;/code&gt; lets you use them.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// union 普通联合&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; title[&lt;span class=&#34;hljs-number&#34;&gt;50&lt;/span&gt;];&lt;br&gt;  &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; author[&lt;span class=&#34;hljs-number&#34;&gt;50&lt;/span&gt;];&lt;br&gt;  &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;union&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;float&lt;/span&gt; dollars;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; yen;&lt;br&gt;  &amp;#125; price;&lt;br&gt;&amp;#125; book;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// anonymous union 匿名联合&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; title[&lt;span class=&#34;hljs-number&#34;&gt;50&lt;/span&gt;];&lt;br&gt;  &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; author[&lt;span class=&#34;hljs-number&#34;&gt;50&lt;/span&gt;];&lt;br&gt;  &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;union&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;float&lt;/span&gt; dollars;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; yen;&lt;br&gt;  &amp;#125;;&lt;br&gt;&amp;#125; book;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 在前一种定义的情况下，需要使用：&lt;/span&gt;&lt;br&gt;book.price.dollars;&lt;br&gt;book.price.yen;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 而在后面一种定义下，我们直接使用：&lt;/span&gt;&lt;br&gt;book.dollars;&lt;br&gt;book.yen;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; _&lt;span class=&#34;hljs-title&#34;&gt;person_jim_t&lt;/span&gt;&amp;#123;&lt;/span&gt;  &lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;    *name;  &lt;br&gt;    &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt;&amp;#123;&lt;/span&gt;  &lt;br&gt;        &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;  area_code;  &lt;br&gt;        &lt;span class=&#34;hljs-type&#34;&gt;long&lt;/span&gt; phone_number;  &lt;br&gt;    &amp;#125;; &lt;br&gt;&amp;#125;&lt;span class=&#34;hljs-type&#34;&gt;person_jim_t&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; _&lt;span class=&#34;hljs-title&#34;&gt;person_tim_t&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;    *name;&lt;br&gt;    &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;union&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; gender;&lt;br&gt;        &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;  id;&lt;br&gt;    &amp;#125;;&lt;br&gt;&amp;#125;&lt;span class=&#34;hljs-type&#34;&gt;person_tim_t&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;union&lt;/span&gt; _&lt;span class=&#34;hljs-title&#34;&gt;net_info_t&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;uint32_t&lt;/span&gt;                val[&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;];&lt;br&gt;    &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-type&#34;&gt;uint8_t&lt;/span&gt;             ip[&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;];          &lt;span class=&#34;hljs-comment&#34;&gt;// int ip address&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-type&#34;&gt;uint8_t&lt;/span&gt;             mask[&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;];        &lt;span class=&#34;hljs-comment&#34;&gt;// &lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-type&#34;&gt;uint8_t&lt;/span&gt;             gateway[&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;];     &lt;span class=&#34;hljs-comment&#34;&gt;// &lt;/span&gt;&lt;br&gt;    &amp;#125;;&lt;br&gt;&amp;#125; &lt;span class=&#34;hljs-type&#34;&gt;net_info_t&lt;/span&gt;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;keil&#34;&gt;&lt;a href=&#34;#keil&#34; class=&#34;headerlink&#34; title=&#34;keil&#34;&gt;&lt;/a&gt;keil&lt;/h3&gt;&lt;p&gt;keil也支持匿名结构体、联合体 需要使用编译器参数&lt;code&gt;#pragma anon_unions&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs cpp&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;pragma&lt;/span&gt; anon_unions&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;union&lt;/span&gt; &amp;#123;&lt;br&gt;	&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; num;&lt;br&gt;	&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &amp;#123;&lt;br&gt;		&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; nLow        :&lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;;&lt;br&gt;		&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; nHigh         :&lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;;&lt;br&gt;	&amp;#125;;&lt;br&gt;&amp;#125;kkTypedef;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
 &lt;h2 id=&#34;register&#34;&gt;&lt;a href=&#34;#register&#34; class=&#34;headerlink&#34; title=&#34;register&#34;&gt;&lt;/a&gt;register&lt;/h2&gt;&lt;p&gt;　　这个关键字&lt;strong&gt;请求&lt;/strong&gt;（只是请求，最终看编译器）编译器尽可能的将变量存在CPU内部寄存器中，而不是通过内存寻址访问，以提高效率。注意是尽可能，不是绝对。你想想，一个CPU 的寄存器也就那么几个或几十个，你要是定义了很多很多register 变量，它累死也可能不能全部把这些变量放入寄存器吧。&lt;/p&gt;
 &lt;h2 id=&#34;volatile&#34;&gt;&lt;a href=&#34;#volatile&#34; class=&#34;headerlink&#34; title=&#34;volatile&#34;&gt;&lt;/a&gt;volatile&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;并行设备的硬件寄存器（如：状态寄存器）&lt;ul&gt;
-&lt;li&gt;延伸 const  volatile&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;并行设备的硬件寄存器（如：状态寄存器）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;延伸 const  volatile&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;  两者同时修饰一个对象的典型情况，是用于驱动中访问外部设备的只读寄存器。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;本程序段中不能对a作修改，任何修改都是非法的，或者至少是粗心，编译器应该报错，防止这种粗心；&lt;/li&gt;
+&lt;li&gt;另一个程序段则完全有可能修改，因此编译器最好不要做太激进的优化。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;一个中断服务子程序中会访问到的&lt;strong&gt;非自动变量&lt;/strong&gt;(Non-automatic variables)&lt;ul&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;一个中断服务子程序中会访问到的&lt;strong&gt;非自动变量&lt;/strong&gt;(Non-automatic variables)&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;自动变量&lt;/strong&gt;：是在函数内部定义和使用的变量，它是&lt;strong&gt;局部变量&lt;/strong&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;非自动变量&lt;/strong&gt;：有两种，一种是&lt;strong&gt;全局变量&lt;/strong&gt;，一种是&lt;strong&gt;静态变量&lt;/strong&gt;。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;多线程应用中被几个任务共享的变量&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;多线程应用中被几个任务共享的变量&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;static&#34;&gt;&lt;a href=&#34;#static&#34; class=&#34;headerlink&#34; title=&#34;static&#34;&gt;&lt;/a&gt;static&lt;/h2&gt;&lt;h2 id=&#34;const&#34;&gt;&lt;a href=&#34;#const&#34; class=&#34;headerlink&#34; title=&#34;const&#34;&gt;&lt;/a&gt;const&lt;/h2&gt;&lt;h3 id=&#34;关于Const指针&#34;&gt;&lt;a href=&#34;#关于Const指针&#34; class=&#34;headerlink&#34; title=&#34;关于Const指针&#34;&gt;&lt;/a&gt;关于Const指针&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *p1;		&lt;span class=&#34;hljs-comment&#34;&gt;//指向常量的指针 (const int) *p1，指向的值不能修改，指针本身可以修改&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; p2;    	&lt;span class=&#34;hljs-comment&#34;&gt;//指针是常量 int *(const p2) 不能指向别的变量，但是指向的变量可以修改		因为不能被修改所以必须要被初始化。&lt;/span&gt;&lt;br&gt;   &lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; p3;&lt;span class=&#34;hljs-comment&#34;&gt;//不能指向别的变量，也不能修改指向变量的值&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//注意   这个等同于第一个   容易产生误解尽量不要使用这个表达&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; *p;		&lt;span class=&#34;hljs-comment&#34;&gt;//指向常量的指针&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;Const常量可以被修改&#34;&gt;&lt;a href=&#34;#Const常量可以被修改&#34; class=&#34;headerlink&#34; title=&#34;Const常量可以被修改&#34;&gt;&lt;/a&gt;Const常量可以被修改&lt;/h3&gt;&lt;p&gt;对于一个Cont常量，实际上你访问的是它的&lt;strong&gt;内存拷贝&lt;/strong&gt;，你仍然可以去用指针去修改它。&lt;/p&gt;
+&lt;h3 id=&#34;const-局部变量&#34;&gt;&lt;a href=&#34;#const-局部变量&#34; class=&#34;headerlink&#34; title=&#34;const 局部变量&#34;&gt;&lt;/a&gt;const 局部变量&lt;/h3&gt;&lt;p&gt;const 局部变量居然定义在stack上，用指针居然可以修改其值&lt;/p&gt;
 &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;	&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; const_val=&lt;span class=&#34;hljs-number&#34;&gt;66&lt;/span&gt;;&lt;br&gt;	&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *p = &amp;amp;const_val;&lt;br&gt;    &lt;br&gt;	*p = &lt;span class=&#34;hljs-number&#34;&gt;33&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;const_val=%d \r\n&amp;quot;&lt;/span&gt;, const_val );		&lt;span class=&#34;hljs-comment&#34;&gt;//const_val=33&lt;/span&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;h3 id=&#34;const-局部变量&#34;&gt;&lt;a href=&#34;#const-局部变量&#34; class=&#34;headerlink&#34; title=&#34;const 局部变量&#34;&gt;&lt;/a&gt;const 局部变量&lt;/h3&gt;&lt;p&gt;const 局部变量居然定义在stack上，用指针居然可以修改其值&lt;/p&gt;
+&lt;h3 id=&#34;const-volatile&#34;&gt;&lt;a href=&#34;#const-volatile&#34; class=&#34;headerlink&#34; title=&#34;const volatile&#34;&gt;&lt;/a&gt;const volatile&lt;/h3&gt;&lt;p&gt;见 volatile 相关内容&lt;/p&gt;
 &lt;h2 id=&#34;指针&#34;&gt;&lt;a href=&#34;#指针&#34; class=&#34;headerlink&#34; title=&#34;指针&#34;&gt;&lt;/a&gt;指针&lt;/h2&gt;&lt;h3 id=&#34;const-指针&#34;&gt;&lt;a href=&#34;#const-指针&#34; class=&#34;headerlink&#34; title=&#34;const 指针&#34;&gt;&lt;/a&gt;const 指针&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;###%E5%85%B3%E4%BA%8EConst%E6%8C%87%E9%92%88&#34;&gt;关于Const指针&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;有x个指针的数组&#34;&gt;&lt;a href=&#34;#有x个指针的数组&#34; class=&#34;headerlink&#34; title=&#34;有x个指针的数组&#34;&gt;&lt;/a&gt;有x个指针的数组&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *p2[&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;]&lt;span class=&#34;hljs-comment&#34;&gt;//这是有三个指针的数组&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -889,11 +1120,17 @@
 
 &lt;h2 id=&#34;内存分配相关&#34;&gt;&lt;a href=&#34;#内存分配相关&#34; class=&#34;headerlink&#34; title=&#34;内存分配相关&#34;&gt;&lt;/a&gt;内存分配相关&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/806053-20170722131756261-1095755633.png&#34; alt=&#34;806053-20170722131756261-1095755633&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;code-代码区&#34;&gt;&lt;a href=&#34;#code-代码区&#34; class=&#34;headerlink&#34; title=&#34;.code 代码区&#34;&gt;&lt;/a&gt;.code 代码区&lt;/h3&gt;&lt;p&gt;代码段（code segment&amp;#x2F;text segment ）通常是指用来存放程序执行代码的一块内存区域。这部分区域的大小在程序运行前就已经确定，并且内存区域通常属于只读, 某些架构也允许代码段为可写，即允许修改程序。在代码段中，也有可能包含一些只读的常数变量，例如字符串常量等。&lt;/p&gt;
-&lt;h3 id=&#34;data-已初始化区&#34;&gt;&lt;a href=&#34;#data-已初始化区&#34; class=&#34;headerlink&#34; title=&#34;.data 已初始化区&#34;&gt;&lt;/a&gt;.data 已初始化区&lt;/h3&gt;&lt;h3 id=&#34;bss-未初始化区&#34;&gt;&lt;a href=&#34;#bss-未初始化区&#34; class=&#34;headerlink&#34; title=&#34;.bss 未初始化区&#34;&gt;&lt;/a&gt;.bss 未初始化区&lt;/h3&gt;&lt;h3 id=&#34;stack-栈区&#34;&gt;&lt;a href=&#34;#stack-栈区&#34; class=&#34;headerlink&#34; title=&#34;stack 栈区&#34;&gt;&lt;/a&gt;stack 栈区&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/686215-20151218231826459-500964006.png&#34; alt=&#34;686215-20151218231826459-500964006&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  STM32 在上电启动之后默认从 Flash 启动, 在STM32里面Code部分不会被搬运到RAM内&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;data-已初始化区&#34;&gt;&lt;a href=&#34;#data-已初始化区&#34; class=&#34;headerlink&#34; title=&#34;.data 已初始化区&#34;&gt;&lt;/a&gt;.data 已初始化区&lt;/h3&gt;&lt;h3 id=&#34;bss-未初始化区&#34;&gt;&lt;a href=&#34;#bss-未初始化区&#34; class=&#34;headerlink&#34; title=&#34;.bss 未初始化区&#34;&gt;&lt;/a&gt;.bss 未初始化区&lt;/h3&gt;&lt;h3 id=&#34;heap-堆区&#34;&gt;&lt;a href=&#34;#heap-堆区&#34; class=&#34;headerlink&#34; title=&#34;heap 堆区&#34;&gt;&lt;/a&gt;heap 堆区&lt;/h3&gt;&lt;h3 id=&#34;stack-栈区&#34;&gt;&lt;a href=&#34;#stack-栈区&#34; class=&#34;headerlink&#34; title=&#34;stack 栈区&#34;&gt;&lt;/a&gt;stack 栈区&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/686215-20151218231826459-500964006.png&#34; alt=&#34;686215-20151218231826459-500964006&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;在C语言中，函数参数的入栈顺序是从右到左&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;heap-堆区&#34;&gt;&lt;a href=&#34;#heap-堆区&#34; class=&#34;headerlink&#34; title=&#34;heap 堆区&#34;&gt;&lt;/a&gt;heap 堆区&lt;/h3&gt;&lt;h2 id=&#34;new-delete-malloc-free&#34;&gt;&lt;a href=&#34;#new-delete-malloc-free&#34; class=&#34;headerlink&#34; title=&#34;new delete malloc free&#34;&gt;&lt;/a&gt;new delete malloc free&lt;/h2&gt;&lt;h3 id=&#34;new-x2F-delete&#34;&gt;&lt;a href=&#34;#new-x2F-delete&#34; class=&#34;headerlink&#34; title=&#34;new &amp;#x2F; delete&#34;&gt;&lt;/a&gt;new &amp;#x2F; delete&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;new-delete-malloc-free&#34;&gt;&lt;a href=&#34;#new-delete-malloc-free&#34; class=&#34;headerlink&#34; title=&#34;new delete malloc free&#34;&gt;&lt;/a&gt;new delete malloc free&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  free两次有时可能是极其严重的安全漏洞，将一个指针释放两次是非常危险的行为，它可能造成任意代码执行。 &lt;a href=&#34;https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/&#34;&gt;参考&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;new-x2F-delete&#34;&gt;&lt;a href=&#34;#new-x2F-delete&#34; class=&#34;headerlink&#34; title=&#34;new &amp;#x2F; delete&#34;&gt;&lt;/a&gt;new &amp;#x2F; delete&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Allocate &amp;#x2F; release memory 分配&amp;#x2F;释放&lt;ol&gt;
 &lt;li&gt;Memory allocated from ‘Free Store’.   这个FreeStore和Heap不一定一样 似乎取决于它的具体实现方式&lt;/li&gt;
 &lt;li&gt;Returns a fully typed pointer.&lt;/li&gt;
@@ -997,6 +1234,37 @@
 &lt;p&gt;&lt;code&gt;malloc&lt;/code&gt;&amp;amp;&lt;code&gt;free&lt;/code&gt;只是分配和释放原始内存。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;复合字面量（Compound-Literals）&#34;&gt;&lt;a href=&#34;#复合字面量（Compound-Literals）&#34; class=&#34;headerlink&#34; title=&#34;复合字面量（Compound Literals）&#34;&gt;&lt;/a&gt;复合字面量（Compound Literals）&lt;/h2&gt;&lt;p&gt;字面量是&lt;strong&gt;除了符号常量之外的常量&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;如，1是int型字面量，3.14是float型字面量，’C’是char型字面量，’Yudao’是字符串字面量。&lt;/p&gt;
+&lt;p&gt;那么，数组和结构体是否也能有字面量来表示呢？&lt;/p&gt;
+&lt;p&gt;因此，C99标准委员会就新增了复合字面量(compound literals)。&lt;/p&gt;
+&lt;h3 id=&#34;语法&#34;&gt;&lt;a href=&#34;#语法&#34; class=&#34;headerlink&#34; title=&#34;语法&#34;&gt;&lt;/a&gt;语法&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;  ( type-name ) { initializer-list }&lt;/p&gt;
+&lt;p&gt;  ( type-name ) { initializer-list , }&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;约束&#34;&gt;&lt;a href=&#34;#约束&#34; class=&#34;headerlink&#34; title=&#34;约束&#34;&gt;&lt;/a&gt;约束&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;  The type name shall specify an object type or an array of unknown size, but not a variable length array type.&lt;br&gt;  type name指定了数组类型或结构体类型，数组长度不能是可变的。&lt;/p&gt;
+&lt;p&gt;  No initializer shall attempt to provide a value for an object not contained within the entire unnamed object specified by the compound literal.&lt;br&gt;  匿名”对象”的初始化必须在在复合字面量的大括号中。&lt;/p&gt;
+&lt;p&gt;  If the compound literal occurs outside the body of a function, the initializer list shall consist of constant expressions.&lt;br&gt;  如果复合字面量是文件作用域，initializer list的表达式必须是常量表达式。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;使用&#34;&gt;&lt;a href=&#34;#使用&#34; class=&#34;headerlink&#34; title=&#34;使用&#34;&gt;&lt;/a&gt;使用&lt;/h3&gt;&lt;p&gt;例如下面是一个普通的数组声明。&lt;/p&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs apache&#34;&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;int&lt;/span&gt; age[&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;]=[&lt;span class=&#34;hljs-number&#34;&gt;19&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt;];&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;下面创建了一个和age数组相同的匿名数组，也有两个int类型值&lt;/p&gt;
+&lt;figure class=&#34;highlight angelscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs angelscript&#34;&gt;(&lt;span class=&#34;hljs-built_in&#34;&gt;int&lt;/span&gt; [&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;])&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;19&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt;&amp;#125;; &lt;span class=&#34;hljs-comment&#34;&gt;//内含2个元素的复合字面量&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;注意去掉申明中的数组名，留下的&lt;code&gt;int[2]&lt;/code&gt;就是复合字面量的类型名。&lt;/p&gt;
+&lt;p&gt;因为复合字面量是匿名的，所以不能先创建然后再使用它，必须在创建的同时使用它。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一般需要这样定义使用：&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 简单用法       ***&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *pt1;&lt;br&gt;pt1=(&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;[&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;])&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;19&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt;&amp;#125;;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 对于多维数组   ***&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; (*pt2)[&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;];&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//申明一个指向二维数组的指针，该数组内有2个数组元素&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//每个元素是内含4个int类型值的数组&lt;/span&gt;&lt;br&gt;pt2 = (&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; [&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;][&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;]) &amp;#123;&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;,&amp;#125;,&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;6&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;7&lt;/span&gt;,&lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;,&amp;#125;&amp;#125;;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 对于结构体     ***&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;foo&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; a; &lt;br&gt;  &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; b[&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;];&lt;br&gt;&amp;#125; structure;&lt;br&gt;structure = ((&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; foo) &amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;a&amp;#x27;&lt;/span&gt;&amp;#125;);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;一些应用&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; AV_FOURCC_MAX_STRING_SIZE 32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; av_fourcc2str(fourcc) av_fourcc_make_string((char[AV_FOURCC_MAX_STRING_SIZE])&amp;#123;0&amp;#125;, fourcc)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *&lt;span class=&#34;hljs-title function_&#34;&gt;av_fourcc_make_string&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *buf, &lt;span class=&#34;hljs-type&#34;&gt;uint32_t&lt;/span&gt; fourcc)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;uint32_t&lt;/span&gt; type = &lt;span class=&#34;hljs-number&#34;&gt;1024&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, av_fourcc2str(type));&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 匿名构建了一块内存地址 (char[AV_FOURCC_MAX_STRING_SIZE])&amp;#123;0&amp;#125; &lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;* data;&lt;br&gt;	&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;   length;&lt;br&gt;&amp;#125; Array;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;foo&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(Array* arr)&lt;/span&gt; &amp;#123; &amp;#125;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 曾经的写法&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;   data[]  = &amp;#123; &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; &amp;#125;;&lt;br&gt;Array arr [&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;] = &amp;#123;data, &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&amp;#125;;&lt;br&gt;foo(arr);&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 现在的写法&lt;/span&gt;&lt;br&gt;foo( (Array[]) &amp;#123; (&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;[]) &amp;#123; &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; &amp;#125;, &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; &amp;#125; );&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
 &lt;h1 id=&#34;STM32相关&#34;&gt;&lt;a href=&#34;#STM32相关&#34; class=&#34;headerlink&#34; title=&#34;STM32相关&#34;&gt;&lt;/a&gt;STM32相关&lt;/h1&gt;&lt;h2 id=&#34;ADC-与-通道映射关系&#34;&gt;&lt;a href=&#34;#ADC-与-通道映射关系&#34; class=&#34;headerlink&#34; title=&#34;ADC 与 通道映射关系&#34;&gt;&lt;/a&gt;ADC 与 通道映射关系&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/ADC%E9%80%9A%E9%81%93%E4%B8%8E%E5%BC%95%E8%84%9A%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB.png&#34; alt=&#34;ADC通道与引脚对应关系&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;Printf第一个字符丢失&#34;&gt;&lt;a href=&#34;#Printf第一个字符丢失&#34; class=&#34;headerlink&#34; title=&#34;Printf第一个字符丢失&#34;&gt;&lt;/a&gt;Printf第一个字符丢失&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;将发送放在等待标志位后面即可解决问题&lt;/li&gt;
@@ -1068,19 +1336,68 @@
 &lt;p&gt;SysTick-&amp;gt;CTRL        类似控制及状态位寄存器&lt;br&gt;SysTick-&amp;gt;LOAD	   到时间自动重装的重装载寄存器&lt;br&gt;SysTick-&amp;gt;VAL	      当前数值寄存器&lt;br&gt;SysTick-&amp;gt;CALIB      校准数值寄存器（暂时没有用到）&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;RTOS相关&#34;&gt;&lt;a href=&#34;#RTOS相关&#34; class=&#34;headerlink&#34; title=&#34;RTOS相关&#34;&gt;&lt;/a&gt;RTOS相关&lt;/h1&gt;&lt;h2 id=&#34;线程进程&#34;&gt;&lt;a href=&#34;#线程进程&#34; class=&#34;headerlink&#34; title=&#34;线程进程&#34;&gt;&lt;/a&gt;线程进程&lt;/h2&gt;&lt;h3 id=&#34;进程&#34;&gt;&lt;a href=&#34;#进程&#34; class=&#34;headerlink&#34; title=&#34;进程&#34;&gt;&lt;/a&gt;进程&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;资源分配的最小单位(拥有独立的地址空间，同一个进程内的线程共享进程地址空间)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;进程是程序执行的实例&lt;/p&gt;
-&lt;/li&gt;
+&lt;h1 id=&#34;RTOS相关&#34;&gt;&lt;a href=&#34;#RTOS相关&#34; class=&#34;headerlink&#34; title=&#34;RTOS相关&#34;&gt;&lt;/a&gt;RTOS相关&lt;/h1&gt;&lt;h2 id=&#34;进程-线程-协程&#34;&gt;&lt;a href=&#34;#进程-线程-协程&#34; class=&#34;headerlink&#34; title=&#34;进程 线程 协程&#34;&gt;&lt;/a&gt;进程 线程 协程&lt;/h2&gt;&lt;p&gt;参考：&lt;a href=&#34;https://www.cnblogs.com/Survivalist/p/11527949.html&#34;&gt;一文读懂什么是进程、线程、协程&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;进程&#34;&gt;&lt;a href=&#34;#进程&#34; class=&#34;headerlink&#34; title=&#34;进程&#34;&gt;&lt;/a&gt;进程&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;  &lt;strong&gt;进程的概念&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  进程 – 是现代操作系统的一个基本概念，是并发程序出现后出现的一个重要概念，它是指 程序在一个数据集合上运行的过程，是系统进行资源分配和调度运行的一个独立单位，有时 也称为活动、路径或任务。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;资源分配的最小单位(拥有独立的地址空间，同一个进程内的线程共享进程地址空间)&lt;/li&gt;
+&lt;li&gt;进程是程序执行的实例&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;我的理解是在windows里面每一个程序启动都会有一个进程的存在，这个进程会有一个虚拟的地址空间。&lt;/strong&gt;（而在STM32一类芯片内是没有虚拟地址空间的，如果跑了RTOS，系统所调度的其实是&lt;strong&gt;进程的子项线程&lt;/strong&gt;）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;线程&#34;&gt;&lt;a href=&#34;#线程&#34; class=&#34;headerlink&#34; title=&#34;线程&#34;&gt;&lt;/a&gt;线程&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;程序执行的最小单位&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;CPU调度最小单位，一个进程并发多个线程&lt;/p&gt;
-&lt;/li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  我们都知道计算机的核心是CPU，它承担了所有的计算任务；而操作系统是计算机的管理者，它负责任务的调度、资源的分配和管理，统领整个计算机硬件；应用程序则是具有某种功能的程序，程序是运行于操作系统之上的。&lt;/p&gt;
+&lt;p&gt;    进程是一个具有一定独立功能的程序在一个数据集上的一次动态执行的过程，是操作系统进行资源分配和调度的一个独立单位，是应用程序运行的载体。进程是一种抽象的概念，从来没有统一的标准定义。&lt;/p&gt;
+&lt;p&gt;  进程一般由程序、数据集合和进程控制块三部分组成。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;程序用于描述进程要完成的功能，是控制进程执行的指令集；&lt;/li&gt;
+&lt;li&gt;数据集合是程序在执行时所需要的数据和工作区；&lt;/li&gt;
+&lt;li&gt;程序控制块(Program Control Block，简称PCB)，包含进程的描述信息和控制信息，是进程存在的唯一标志。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;关系&#34;&gt;&lt;a href=&#34;#关系&#34; class=&#34;headerlink&#34; title=&#34;关系&#34;&gt;&lt;/a&gt;关系&lt;/h3&gt;&lt;ul&gt;
+&lt;p&gt;  进程具有的特征：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;动态性：进程是程序的一次执行过程，是临时的，有生命期的，是动态产生，动态消亡的；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;并发性：任何进程都可以同其他进程一起并发执行；&lt;/li&gt;
+&lt;li&gt;独立性：进程是系统进行资源分配和调度的一个独立单位；&lt;/li&gt;
+&lt;li&gt;结构性：进程由程序、数据和进程控制块三部分组成。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;线程&#34;&gt;&lt;a href=&#34;#线程&#34; class=&#34;headerlink&#34; title=&#34;线程&#34;&gt;&lt;/a&gt;线程&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;  &lt;strong&gt;线程的概念&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  线程– &lt;strong&gt;是进程中的一个实体,是被系统调度和分配的基本单元&lt;/strong&gt;。 每个程序至少包含一个线 程，那就是主线程。 线程自己只拥有很少的系统资源（如程序计数器、一组寄存器和栈）， 但它可与同属一个进程的其他线程共享所属进程所拥有的全部资源，同一进程中的多个线程 之间可以并发执行，从而更好地改善了系统资源的利用率。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;程序执行的最小单位&lt;/li&gt;
+&lt;li&gt;CPU调度最小单位，一个进程并发多个线程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  线程是程序执行流的最小单元，是处理器调度和分派的基本单位。一个&lt;strong&gt;进程&lt;/strong&gt;可以有一个或多个&lt;strong&gt;线程&lt;/strong&gt;，各个线程之间共享程序的内存空间(也就是所在进程的内存空间)。&lt;/p&gt;
+&lt;p&gt;  一个标准的&lt;strong&gt;线程&lt;/strong&gt;由线程ID、当前指令指针(PC)、寄存器和堆栈组成。&lt;/p&gt;
+&lt;p&gt;  而&lt;strong&gt;进程&lt;/strong&gt;由内存空间(代码、数据、进程空间、打开的文件)和一个或多个线程组成。&lt;/p&gt;
+&lt;p&gt;  &lt;img src=&#34;/2018/ef667962/process.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;  如上图，在任务管理器的进程一栏里，有道词典和有道云笔记就是&lt;strong&gt;进程&lt;/strong&gt;，而在进程下又有着多个执行不同任务的&lt;strong&gt;线程&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;协程&#34;&gt;&lt;a href=&#34;#协程&#34; class=&#34;headerlink&#34; title=&#34;协程&#34;&gt;&lt;/a&gt;协程&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;它是基于线程的，一个线程内有多个协程&lt;/li&gt;
+&lt;li&gt;由程序员自行管理的更加轻量的线程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&#34;协程-1&#34;&gt;&lt;a href=&#34;#协程-1&#34; class=&#34;headerlink&#34; title=&#34;协程&#34;&gt;&lt;/a&gt;协程&lt;/h2&gt;&lt;p&gt;  协程，英文Coroutines，是一种基于线程之上，但又比线程更加轻量级的存在，这种由程序员自己写程序来管理的轻量级线程叫做『用户空间线程』，具有对内核来说不可见的特性。&lt;/p&gt;
+&lt;p&gt;  因为是自主开辟的异步任务，所以很多人也更喜欢叫它们纤程（Fiber），或者绿色线程（GreenThread）。正如一个进程可以拥有多个线程一样，一个线程也可以拥有多个协程。&lt;/p&gt;
+&lt;p&gt;  &lt;img src=&#34;/2018/ef667962/6765e36cc4604fba897976638af03524.jpeg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;协程的目的&#34;&gt;&lt;a href=&#34;#协程的目的&#34; class=&#34;headerlink&#34; title=&#34;协程的目的&#34;&gt;&lt;/a&gt;协程的目的&lt;/h2&gt;&lt;p&gt;  在传统的J2EE系统中都是基于每个请求占用一个线程去完成完整的业务逻辑（包括事务）。所以系统的吞吐能力取决于每个线程的操作耗时。如果遇到很耗时的I&amp;#x2F;O行为，则整个系统的吞吐立刻下降，因为这个时候线程一直处于阻塞状态，如果线程很多的时候，会存在很多线程处于空闲状态（等待该线程执行完才能执行），造成了资源应用不彻底。&lt;/p&gt;
+&lt;p&gt;  最常见的例子就是JDBC（它是同步阻塞的），这也是为什么很多人都说数据库是瓶颈的原因。这里的耗时其实是让CPU一直在等待I&amp;#x2F;O返回，说白了线程根本没有利用CPU去做运算，而是处于空转状态。而另外过多的线程，也会带来更多的ContextSwitch开销。&lt;/p&gt;
+&lt;p&gt;  对于上述问题，现阶段行业里的比较流行的解决方案之一就是单线程加上异步回调。其代表派是node.js以及Java里的新秀Vert.x。&lt;/p&gt;
+&lt;p&gt;  而协程的目的就是当出现长时间的I&amp;#x2F;O操作时，通过让出目前的协程调度，执行下一个任务的方式，来消除ContextSwitch上的开销。&lt;/p&gt;
+&lt;h2 id=&#34;协程的特点&#34;&gt;&lt;a href=&#34;#协程的特点&#34; class=&#34;headerlink&#34; title=&#34;协程的特点&#34;&gt;&lt;/a&gt;协程的特点&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;线程的切换由操作系统负责调度，协程由用户自己进行调度，因此减少了上下文切换，提高了效率。&lt;/li&gt;
+&lt;li&gt;线程的默认Stack大小是1M，而协程更轻量，接近1K。因此可以在相同的内存中开启更多的协程。&lt;/li&gt;
+&lt;li&gt;由于在同一个线程上，因此可以避免竞争关系而使用锁。&lt;/li&gt;
+&lt;li&gt;适用于被阻塞的，且需要大量并发的场景。但不适用于大量计算的多线程，遇到此种情况，更好实用线程去解决。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;进程和线程关系&#34;&gt;&lt;a href=&#34;#进程和线程关系&#34; class=&#34;headerlink&#34; title=&#34;进程和线程关系&#34;&gt;&lt;/a&gt;进程和线程关系&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;资源分配给进程，同一进程内的所有线程共享该进程的所有资源；&lt;/li&gt;
 &lt;li&gt;同一个进程的线程之间可以直接交流；两个进程想通信，必须通过一个中间代理来实现；&lt;/li&gt;
 &lt;li&gt;处理机分配给线程，即真正在处理机上运行的是线程；&lt;/li&gt;
@@ -1088,7 +1405,24 @@
 &lt;li&gt;系统开销：在创建和撤销进程的时候，系统都要分配和回收资源，导致系统的明显大于创建和撤销线程时的开销。但进程有独立的地址空间，进程崩溃后，在保护模式的下不会对其他进程造成影响，而线程只是进程中的不同执行路径。线程有自己的堆栈和局部变量，但线程之间没有独立的地址空间，一个线程死后就等于整个进程死掉，所以多进程程序要比多线程程序健壮，但是在进程切换的时候消耗的资源较大，效率差。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;多线程执行效率高; 多进程耗资源，安全。&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;外设&#34;&gt;&lt;a href=&#34;#外设&#34; class=&#34;headerlink&#34; title=&#34;外设&#34;&gt;&lt;/a&gt;外设&lt;/h1&gt;&lt;h2 id=&#34;IIC&#34;&gt;&lt;a href=&#34;#IIC&#34; class=&#34;headerlink&#34; title=&#34;IIC&#34;&gt;&lt;/a&gt;IIC&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;双向通信速度（模式）：&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;互斥量和信号量的区别&#34;&gt;&lt;a href=&#34;#互斥量和信号量的区别&#34; class=&#34;headerlink&#34; title=&#34;互斥量和信号量的区别&#34;&gt;&lt;/a&gt;&lt;strong&gt;互斥量和信号量的区别&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1. 互斥量用于线程的互斥，信号量用于线程的同步。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这是互斥量和信号量的根本区别，也就是互斥和同步之间的区别。&lt;/p&gt;
+&lt;p&gt;互斥：是指某一资源同时只允许一个访问者对其进行访问，具有唯一性和排它性。但互斥无法限制访问者对资源的访问顺序，即访问是无序的。&lt;/p&gt;
+&lt;p&gt;同步：是指在互斥的基础上（大多数情况），通过其它机制实现访问者对资源的有序访问。在大多数情况下，同步已经实现了互斥，特别是所有写入资源的情况必定是互斥的。少数情况是指可以允许多个访问者同时访问资源&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 互斥量值只能为0&amp;#x2F;1，信号量值可以为非负整数。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;也就是说，一个互斥量只能用于一个资源的互斥访问，它不能实现多个资源的多线程互斥问题。信号量可以实现多个同类资源的多线程互斥和同步。当信号量为单值信号量是，也可以完成一个资源的互斥访问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 互斥量的加锁和解锁必须由同一线程分别对应使用，信号量可以由一个线程释放，另一个线程得到。&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;外设&#34;&gt;&lt;a href=&#34;#外设&#34; class=&#34;headerlink&#34; title=&#34;外设&#34;&gt;&lt;/a&gt;外设&lt;/h1&gt;&lt;h2 id=&#34;IIC&#34;&gt;&lt;a href=&#34;#IIC&#34; class=&#34;headerlink&#34; title=&#34;IIC&#34;&gt;&lt;/a&gt;IIC&lt;/h2&gt;&lt;p&gt;IIC从机地址有7位、8位、10位不同的模式，一般来说7位比较常见。&lt;/p&gt;
+&lt;p&gt;I²C的参考设计使用一个7比特长度的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BD%8D%E5%9D%80%E7%A9%BA%E9%96%93&#34;&gt;地址空间&lt;/a&gt;但保留了16个地址，所以在一组总线最多可和112个节点通信[&lt;a href=&#34;https://zh.wikipedia.org/zh-cn/I%C2%B2C#cite_note-3&#34;&gt;a]&lt;/a&gt;。在7位寻址过程中，从机地址在启动信号后的第一个字节开始传输，该字节的前7位为从机地址，第8位为读写位，其中0表示写，1表示读。&lt;/p&gt;
+&lt;p&gt;虽然最大的节点数目是被地址空间所限制住，但实际上也会被总线上的总&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AE%B9&#34;&gt;电容&lt;/a&gt;所限制住，一般而言为400 pF。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2018/ef667962/I2C_data_transfer.svg&#34; alt=&#34;Data transfer sequence&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  参考上面的图像我们可以看到，&lt;/p&gt;
+&lt;p&gt;  START：在SCL信号为H的时候，SDA由H变L是START信号。&lt;/p&gt;
+&lt;p&gt;  DATA TRANSMISSION：在数据传输阶段，SCL为H阶段，SDA的电平不允许变化。&lt;/p&gt;
+&lt;p&gt;  STOP：在SCL信号为H的时候，SDA由L变H是STOP信号。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;通信速率&#34;&gt;&lt;a href=&#34;#通信速率&#34; class=&#34;headerlink&#34; title=&#34;通信速率&#34;&gt;&lt;/a&gt;通信速率&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;双向通信速度（模式）：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;100 kbit&amp;#x2F;s：标准模式，Standard-mode (Sm)；&lt;/p&gt;
 &lt;p&gt;400 kbit&amp;#x2F;s：快速模式，Fast-mode (Fm)；&lt;/p&gt;
 &lt;p&gt;1 Mbit&amp;#x2F;s：快速模式+，Fast-mode Plus (Fm+)；&lt;/p&gt;
@@ -1351,6 +1685,7 @@
 &lt;/ul&gt;
 </content>
         <category term="embedded" />
+        <category term="stm32" />
         <category term="note" />
         <updated>2018-03-11T14:57:15.000Z</updated>
     </entry>

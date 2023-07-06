@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"license\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2023/79891ac1/",
+            "url": "https://www.oikiou.top/2023/79891ac1/",
+            "title": "License差异对比",
+            "date_published": "2023-02-02T06:23:05.000Z",
+            "content_html": "<h1 id=\"参考\"><a href=\"#参考\" class=\"headerlink\" title=\"参考\"></a>参考</h1><p><a href=\"https://spdx.org/licenses/\">SPDX License List</a></p>\n<p>使用 <strong>SPDX 短格式标识符</strong> 以简单、高效、便携和机器可读的方式 传达 FOSS 许可证信息</p>\n<figure class=\"highlight awk\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br></pre></td><td class=\"code\"><pre><code class=\"hljs awk\"><span class=\"hljs-regexp\">//</span> SPDX-License-Identifier: MIT<br><span class=\"hljs-regexp\">/* SPDX-License-Identifier: MIT OR Apache-2.0 */</span><br><span class=\"hljs-comment\"># SPDX-License-Identifier: GPL-2.0-or-later</span><br></code></pre></td></tr></table></figure>\n\n\n\n<h1 id=\"术语\"><a href=\"#术语\" class=\"headerlink\" title=\"术语\"></a>术语</h1><h2 id=\"什么是“分发”？\"><a href=\"#什么是“分发”？\" class=\"headerlink\" title=\"什么是“分发”？\"></a>什么是“分发”？</h2><p>许可证授予的权利，允许你自由使用、修改、复制，但是<strong>在“分发”时就必须遵守许可证的约束</strong>。换言之，如果不”分发”，就不需要遵守。</p>\n<p>分发就是指将版权作品从一个人转移到另一个人。这意味着，如果你是自己使用，不提供给他人，就没有分发。另外，这里的”人”也指”法人”，因此如果使用方是公司，且只在公司内部使用，也不需要遵守许可证[]。</p>\n<p>其中AGPL有个特例：AGPL定义，如果你使用开源软件<strong>提供网络交互服务，那么该行为也定义为“分发”</strong>，即图中的“网络使用即分发”</p>\n<h2 id=\"什么是“传染性”？\"><a href=\"#什么是“传染性”？\" class=\"headerlink\" title=\"什么是“传染性”？\"></a>什么是“传染性”？</h2><p>传染性来源于GPL，GPL的支持者确信自由软件世界应具有自我保护能力和可持续发展性——为了确保自由软件的演绎作品同样“自由”，所以要求只要使用了GPL的代码，那么整个项目都必须以GPL方式公开源代码</p>\n<p>LGPL 在这方面要求就没GPL那么严格，如果只是子系统&#x2F;模块用了，那么只需要子系统&#x2F;模块开源，整个工程不用开源；如果是以动态链接调用LGPL许可证的库，那么项目也不用开源。</p>\n<p>MPL 在这个方面就更宽松，哪个文件用了该许可证的代码，只需要这些文件开源即可，其他文件不受影响</p>\n<p>所以，GPL v2&#x2F;v3、AGPL 属于工程级别的强传染性；LGPL属于库级别的若传染性；MPL 就是文件级别的，传染性可以忽略不计了</p>\n<h2 id=\"GPL-系列的协议有何区别？\"><a href=\"#GPL-系列的协议有何区别？\" class=\"headerlink\" title=\"GPL 系列的协议有何区别？\"></a>GPL 系列的协议有何区别？</h2><p><strong>AGPL 和 GPL 的区别：</strong></p>\n<p>AGPL明确了GPL 2.0&#x2F;3.0关于提供网络服务也属于分发限制的说明：使用GPL的自由软件，但是并不发布与网络之中，则可以自由的使用GPL协议确不开源自己私有的解决方案。AGPL则增加了对此做法的约束。比如使用了AGPL代码的软件是一个网络应用，那么这个软件的所有源码和修改代码也必须开源</p>\n<p><strong>GPL v2 和 GPL v3的主要差异：</strong></p>\n<p>a) GPLv3包含了明确的专利许可</p>\n<p>b) 添加了对数字版权管理和加密签名的限制，不仅要求用户公开源码，还要求公布相关硬件及必要的安装信息。</p>\n<p><strong>GPL 和LGPL的区别：</strong></p>\n<p>主要区别在于传染性方面，GPL是工程级别的强传染，LGPL是库级别的弱传染</p>\n<h2 id=\"违反开源项目许可有何风险？\"><a href=\"#违反开源项目许可有何风险？\" class=\"headerlink\" title=\"违反开源项目许可有何风险？\"></a>违反开源项目许可有何风险？</h2><p>1.被许可人在违反许可证设定的义务时会构成合同违约</p>\n<p>2.开源软件受著作权保护，著作权法著作权法，但是开源许可证本质却是走在了版权保护的对立面，所以其法律效力并没有被明确认可，是否侵权可能需要法院视具体情况而定</p>\n<p>3.在中国，侵权责任和违约责任不能同时主张</p>\n<p>4.在中国，过往的判例都没有涉及开源软件许可证本身</p>\n<p>5.除了面临法律诉讼风险，违反许可证的行为会导致自由软件者和开源社区的排斥，某种程度上会影响违约公司的商业信誉</p>\n<h1 id=\"差异\"><a href=\"#差异\" class=\"headerlink\" title=\"差异\"></a>差异</h1><p><img src=\"/2023/79891ac1/v2-3a460a2dad345fe0c2e0e79b626aacc9_720w.webp\" alt=\"img\"></p>\n",
+            "tags": [
+                "license"
+            ]
+        }
+    ]
+}
