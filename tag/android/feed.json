@@ -11,10 +11,10 @@
             "date_published": "2022-10-10T14:57:15.000Z",
             "content_html": "<h1 id=\"android-文件传输模式-电脑无法识别\"><a href=\"#android-文件传输模式-电脑无法识别\" class=\"headerlink\" title=\"android 文件传输模式 电脑无法识别\"></a>android 文件传输模式 电脑无法识别</h1><p>最近android手机连接电脑选择传输文件模式，电脑不再识别手机。选择照片模式就没有问题。</p>\n<p>手机选择文件传输模式后 选择自动搜索驱动程序 安装后会 提示“这个inf中的服务安装段落无效”。</p>\n<h2 id=\"步骤\"><a href=\"#步骤\" class=\"headerlink\" title=\"步骤\"></a>步骤</h2><ol>\n<li><p>按“Win+X” 点击 “设备管理器”</p>\n</li>\n<li><p>在设备管理器中找到你的手机，名字可能是你的手机型号，可能是未知设备 ，</p>\n</li>\n<li><p>右键选择更新驱动程序.</p>\n</li>\n<li><p>选择 “浏览计算机以查找驱动程序软件”</p>\n</li>\n<li><p>选择 “让我从计算机上的可用驱动程序列表中选取”</p>\n</li>\n<li><p>在列表里面找到“便携设备” (可能没有这一步操作)</p>\n</li>\n<li><p>选择 “MTP USB 设备”</p>\n<p><img src=\"/2022/3db44d04/1636599848857.png\" alt=\"win10系统识别不了USB设备解决方法介绍-Win10系统识别不了USB设备怎么办-53系统之家\"></p>\n</li>\n<li><p>点击 “下一步”</p>\n</li>\n<li><p>回到设备管理器看到设备已经可用正确运作了</p>\n</li>\n</ol>\n<h2 id=\"参考\"><a href=\"#参考\" class=\"headerlink\" title=\"参考\"></a>参考</h2><p><a href=\"https://developer.android.com/studio/run/oem-usb\">安装原始设备制造商 (OEM) USB 驱动程序</a></p>\n<p><a href=\"https://developer.android.com/studio/run/win-usb\">获取 Google USB 驱动程序</a></p>\n",
             "tags": [
-                "pc",
                 "windows",
                 "android",
                 "mtp",
+                "pc",
                 "driver"
             ]
         }
