@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;hyperv&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 16 Aug 2022 13:12:15 +0800</pubDate>
+        <lastBuildDate>Tue, 16 Aug 2022 13:12:15 +0800</lastBuildDate>
+        <category>autosar</category>
+        <category>aes</category>
+        <category>embedded</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>sscanf</category>
+        <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>md5</category>
+        <category>major</category>
+        <category>markdown</category>
+        <category>note</category>
+        <category>osi</category>
+        <category>RustDesk</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>typora</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>windows</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>机智云</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
+        <category>超声波</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>audio</category>
+        <category>video</category>
+        <category>cad</category>
+        <category>cat_drive</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>pve</category>
+        <category>virtual</category>
+        <category>software</category>
+        <category>摄影</category>
+        <category>synology</category>
+        <category>cmake</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>j-tag</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>obsidian</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>v2ray</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
+        <category>cortex-m3</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>pwm</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>modbus</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>zlib</category>
+        <category>minizip</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2022/c6d84d87/</guid>
+            <title>Hyper-V</title>
+            <link>https://www.oikiou.top/2022/c6d84d87/</link>
+            <category>hyperv</category>
+            <pubDate>Tue, 16 Aug 2022 13:12:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;家庭版启用Hyper-V&#34;&gt;&lt;a href=&#34;#家庭版启用Hyper-V&#34; class=&#34;headerlink&#34; title=&#34;家庭版启用Hyper-V&#34;&gt;&lt;/a&gt;家庭版启用Hyper-V&lt;/h1&gt;&lt;p&gt;若要检查 Windows 版本及内部版本号，选择 Windows 徽标键 + R，然后键入“winver”，选择“确定”。更新到“设置”菜单中的&lt;a href=&#34;ms-settings:windowsupdate&#34;&gt;最新 Windows 版本&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;将下面代码改成&lt;code&gt;.bat&lt;/code&gt;文件，管理员运行&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;pushd &amp;quot;%~dp0&amp;quot;&lt;br&gt;dir /b %SystemRoot%\servicing\Packages\*Hyper-V*.mum &amp;gt;hv.txt&lt;br&gt;for /f %%i in (&amp;#x27;findstr /i . hv.txt 2^&amp;gt;nul&amp;#x27;) do dism /online /norestart /add-package:&amp;quot;%SystemRoot%\servicing\Packages\%%i&amp;quot;&lt;br&gt;del hv.txt&lt;br&gt;Dism /online /enable-feature /featurename:Microsoft-Hyper-V -All /LimitAccess /ALL&lt;br&gt;Pause&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;重启后在控制面板-&amp;gt;程序和功能-&amp;gt;启用或关闭Windows功能-&amp;gt;勾选Hyper-V复选框&lt;/p&gt;
+&lt;h2 id=&#34;卸载-禁用&#34;&gt;&lt;a href=&#34;#卸载-禁用&#34; class=&#34;headerlink&#34; title=&#34;卸载 &amp;amp; 禁用&#34;&gt;&lt;/a&gt;卸载 &amp;amp; 禁用&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;在控制面板中禁用 Hyper-V&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在“控制面板”中，打开“程序和功能”。&lt;/li&gt;
+&lt;li&gt;选择“启用或关闭 Windows 功能”。&lt;/li&gt;
+&lt;li&gt;展开 &lt;strong&gt;Hyper-V&lt;/strong&gt;，展开 &lt;strong&gt;Hyper-V 平台&lt;/strong&gt;，然后清除“Hyper-V 虚拟机监控程序”复选框。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在 PowerShell 中禁用 Hyper-V&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;打开提升权限的 PowerShell 窗口。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;运行以下命令：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-Hypervisor&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

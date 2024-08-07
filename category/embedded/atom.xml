@@ -3,38 +3,43 @@
     <id>https://www.oikiou.top</id>
     <title>Oikiou&#39;s Blog • Posts by &#34;embedded&#34; category</title>
     <link href="https://www.oikiou.top" />
-    <updated>2018-03-11T14:57:15.000Z</updated>
-    <category term="hp" />
-    <category term="chrome" />
+    <updated>2024-08-01T10:12:15.000Z</updated>
+    <category term="autosar" />
+    <category term="aes" />
     <category term="embedded" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
     <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
-    <category term="hex" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="license" />
     <category term="md5" />
+    <category term="major" />
     <category term="markdown" />
     <category term="note" />
     <category term="osi" />
+    <category term="RustDesk" />
     <category term="iap" />
     <category term="bootloader" />
     <category term="stm32" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
@@ -57,6 +62,11 @@
     <category term="zsh" />
     <category term="shell" />
     <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
@@ -67,32 +77,14 @@
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
     <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
     <category term="超声波" />
     <category term="github" />
     <category term="hosts" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="pid" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="life" />
-    <category term="人生" />
-    <category term="workflow" />
-    <category term="心理学" />
+    <category term="audio" />
+    <category term="video" />
     <category term="cad" />
     <category term="cat_drive" />
     <category term="switch" />
@@ -101,45 +93,49 @@
     <category term="hardware" />
     <category term="lenovo" />
     <category term="disk" />
-    <category term="摄影" />
+    <category term="pve" />
+    <category term="virtual" />
     <category term="software" />
+    <category term="摄影" />
     <category term="synology" />
     <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
     <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="flash" />
     <category term="j-tag" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
-    <category term="vscode" />
+    <category term="obsidian" />
     <category term="spacedesk" />
     <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="speedtest" />
-    <category term="tools" />
-    <category term="commenttranslate" />
-    <category term="wsl" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -147,6 +143,7 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
+    <category term="v2ray" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -155,28 +152,675 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
     <category term="cortex-a7" />
     <category term="cortex-m3" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="ucos" />
     <category term="bluetooth" />
     <category term="蓝牙" />
+    <category term="pwm" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
     <category term="modbus" />
     <category term="linuxapp" />
     <category term="curl" />
     <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
-    <category term="rt-thread" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2024/9bf1668d/</id>
+        <title>一些优秀的开源项目</title>
+        <link rel="alternate" href="https://www.oikiou.top/2024/9bf1668d/"/>
+        <content type="html">&lt;h1 id=&#34;OS&#34;&gt;&lt;a href=&#34;#OS&#34; class=&#34;headerlink&#34; title=&#34;OS&#34;&gt;&lt;/a&gt;OS&lt;/h1&gt;&lt;h1 id=&#34;Net&#34;&gt;&lt;a href=&#34;#Net&#34; class=&#34;headerlink&#34; title=&#34;Net&#34;&gt;&lt;/a&gt;Net&lt;/h1&gt;&lt;h3 id=&#34;Tinyhttpd（示例代码）&#34;&gt;&lt;a href=&#34;#Tinyhttpd（示例代码）&#34; class=&#34;headerlink&#34; title=&#34;Tinyhttpd（示例代码）&#34;&gt;&lt;/a&gt;Tinyhttpd（示例代码）&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;tinyhttpd&lt;/strong&gt;是一个超轻量型Http Server，使用C语言开发，全部代码只有 502 行（包括注释），附带一个简单的 Client 可以通过阅读这段代码理解一个 Http Server 的本质。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;tinyhttpd 是我为学校项目编写的一个相对简单的网络服务器。虽然非常简单，但 tinyhttpd 是线程化的，可以处理基本的 CGI 脚本！这是一个用于演示 http 背后概念的教育工具。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;项目地址&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;http://sourceforge.net/projects/tinyhttpd/&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+&lt;h1 id=&#34;Tools&#34;&gt;&lt;a href=&#34;#Tools&#34; class=&#34;headerlink&#34; title=&#34;Tools&#34;&gt;&lt;/a&gt;Tools&lt;/h1&gt;&lt;h2 id=&#34;CRC&#34;&gt;&lt;a href=&#34;#CRC&#34; class=&#34;headerlink&#34; title=&#34;CRC&#34;&gt;&lt;/a&gt;CRC&lt;/h2&gt;&lt;h3 id=&#34;libcrc&#34;&gt;&lt;a href=&#34;#libcrc&#34; class=&#34;headerlink&#34; title=&#34;libcrc&#34;&gt;&lt;/a&gt;libcrc&lt;/h3&gt;&lt;p&gt;Libcrc - C 语言多平台 MIT 许可 CRC 库&lt;br&gt;&lt;a href=&#34;https://github.com/lammertb/libcrc&#34;&gt;https://github.com/lammertb/libcrc&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;cJSON&#34;&gt;&lt;a href=&#34;#cJSON&#34; class=&#34;headerlink&#34; title=&#34;cJSON&#34;&gt;&lt;/a&gt;cJSON&lt;/h2&gt;&lt;p&gt;Ultralightweight JSON parser in ANSI C.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/DaveGamble/cJSON&#34;&gt;https://github.com/DaveGamble/cJSON&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;单元测试&#34;&gt;&lt;a href=&#34;#单元测试&#34; class=&#34;headerlink&#34; title=&#34;单元测试&#34;&gt;&lt;/a&gt;单元测试&lt;/h2&gt;&lt;h3 id=&#34;Cmockery-单元测试框架&#34;&gt;&lt;a href=&#34;#Cmockery-单元测试框架&#34; class=&#34;headerlink&#34; title=&#34;Cmockery 单元测试框架&#34;&gt;&lt;/a&gt;Cmockery 单元测试框架&lt;/h3&gt;&lt;p&gt;Cmockery 是一个轻量级库，用于编写 C 单元测试。google 开发。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/google/cmockery&#34;&gt;https://github.com/google/cmockery&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;libev&#34;&gt;&lt;a href=&#34;#libev&#34; class=&#34;headerlink&#34; title=&#34;libev&#34;&gt;&lt;/a&gt;libev&lt;/h3&gt;&lt;p&gt;libev是一个全功能和高性能的事件循环库，libev 参考并模仿了libevent和perl模块Event。它用于GNU虚拟专用以太网、rxvt-unicode、auditd、Deliantra MORPG服务器和客户端以及许多其他程序。node.js曾经嵌入了libev，现在更换为了libuv。&lt;/p&gt;
+&lt;p&gt;其以高效出名，它可以将 IO 事件、定时器、和信号统一起来，统一放在事件处理这一套框架下处理。&lt;/p&gt;
+&lt;p&gt;基于 Reactor 模式，效率较高，并且代码精简（4.15 版本 8000 多行），是学习事件驱动编程的很好的资源。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://libev.schmorp.de/&#34;&gt;http://libev.schmorp.de/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://github.com/enki/libev&#34;&gt;https://github.com/enki/libev&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="embedded" />
+        <updated>2024-08-01T10:12:15.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.oikiou.top/2023/9c721b62/</id>
+        <title>USB</title>
+        <link rel="alternate" href="https://www.oikiou.top/2023/9c721b62/"/>
+        <content type="html">&lt;h1 id=&#34;USB-版本及发展历史&#34;&gt;&lt;a href=&#34;#USB-版本及发展历史&#34; class=&#34;headerlink&#34; title=&#34;USB 版本及发展历史&#34;&gt;&lt;/a&gt;USB 版本及发展历史&lt;/h1&gt;&lt;p&gt;USB接口自1994年推出以来，经过26年的发展，经过USB1.0&amp;#x2F;1.1、USB2.0、USB3.x，最终发展到了现在的USB4；传输速率也从最开始的1.5Mbps，大幅提高到了最新的40Gbps。&lt;br&gt;&lt;img src=&#34;/2023/9c721b62/image-20240621114302408.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;USB1-0&#34;&gt;&lt;a href=&#34;#USB1-0&#34; class=&#34;headerlink&#34; title=&#34;USB1.0&#34;&gt;&lt;/a&gt;USB1.0&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;1996年1月15日推出USB1.0接口规范&lt;/li&gt;
+&lt;li&gt;规定低速传输速率为1.5Mbit&amp;#x2F;s&lt;/li&gt;
+&lt;li&gt;对外提供供电电压为5V，最大电流500mA&lt;/li&gt;
+&lt;li&gt;一般适用于鼠标、键盘等低速HID设备。&lt;/li&gt;
+&lt;li&gt;支持热插拨&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;USB1-1&#34;&gt;&lt;a href=&#34;#USB1-1&#34; class=&#34;headerlink&#34; title=&#34;USB1.1&#34;&gt;&lt;/a&gt;USB1.1&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;1998年9月23日对原来的USB1.0进行升级，提出了USB1.1&lt;/li&gt;
+&lt;li&gt;USB1.1规定了全速传输速率为12Mbit&amp;#x2F;s,并兼容USB1.0的1.5Mbit&amp;#x2F;s&lt;/li&gt;
+&lt;li&gt;传输线缆最大度度3m&lt;/li&gt;
+&lt;li&gt;对外提供供电电压为5V，最大电流500mA&lt;/li&gt;
+&lt;li&gt;一般适用于鼠标、键盘、U盘，光驱等。&lt;/li&gt;
+&lt;li&gt;一个USB接口理论上可以支持127个设备。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;USB2-0&#34;&gt;&lt;a href=&#34;#USB2-0&#34; class=&#34;headerlink&#34; title=&#34;USB2.0&#34;&gt;&lt;/a&gt;USB2.0&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;2000年4月27日由USB-IF组织提出了USB2.0总线协议规范&lt;/li&gt;
+&lt;li&gt;具备480Mbit&amp;#x2F;s的高速传输速率，向下兼容低速1.5Mbit&amp;#x2F;s和全速12Mit&amp;#x2F;s&lt;/li&gt;
+&lt;li&gt;传输线缆最大度度5m&lt;/li&gt;
+&lt;li&gt;对外提供供电电压为5V，最大电流500mA&lt;/li&gt;
+&lt;li&gt;通过HUB级联的方式，一个USB接口理论上可以扩展127个USB设备&lt;/li&gt;
+&lt;li&gt;支持 4种传输方式：控制传输、中断传输、同步传输和块传输。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;USB3 的名字有些多&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;版本&lt;/th&gt;
+&lt;th&gt;时间&lt;/th&gt;
+&lt;th&gt;带宽&lt;/th&gt;
+&lt;th&gt;别名，指的是同一种&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;USB3.0&lt;/td&gt;
+&lt;td&gt;2008年11月17&lt;/td&gt;
+&lt;td&gt;5Gbps&lt;/td&gt;
+&lt;td&gt;SuperSpeed USB、USB 3.2 Gen 1、USB 3.1 Gen 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;USB3.1&lt;/td&gt;
+&lt;td&gt;2013年7月&lt;/td&gt;
+&lt;td&gt;10Gbps&lt;/td&gt;
+&lt;td&gt;SuperSpeed USB 10Gbps、USB 3.2 Gen 2、USB 3.1 Gen 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;USB3.2&lt;/td&gt;
+&lt;td&gt;2017年9月份&lt;/td&gt;
+&lt;td&gt;20Gbps&lt;/td&gt;
+&lt;td&gt;SuperSpeed USB 20Gbps、USB 3.2 Gen 2x2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;USB3-0-USB-3-2-Gen-1-USB-3-1-Gen-1&#34;&gt;&lt;a href=&#34;#USB3-0-USB-3-2-Gen-1-USB-3-1-Gen-1&#34; class=&#34;headerlink&#34; title=&#34;USB3.0 &amp;#x2F; USB 3.2 Gen 1 &amp;#x2F; USB 3.1 Gen 1&#34;&gt;&lt;/a&gt;USB3.0 &amp;#x2F; USB 3.2 Gen 1 &amp;#x2F; USB 3.1 Gen 1&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;超高速USB3.0规范于2008年11月17日出USB-IF组织推出。&lt;/li&gt;
+&lt;li&gt;提供更高的5.0Gbit&amp;#x2F;s的超高速传输速度，并向下兼容低速1.5Mbits&amp;#x2F;s、全速12Mbit&amp;#x2F;s和高速480Mbit&amp;#x2F;s传输速率&lt;/li&gt;
+&lt;li&gt;对外提供供电电压为5V，最大电流900mA&lt;/li&gt;
+&lt;li&gt;传输线缆最大度度3m&lt;/li&gt;
+&lt;li&gt;增加了新的电源管理功能，支持待机、睡眠以及暂定模式，更加省电。&lt;/li&gt;
+&lt;li&gt;全双工通讯。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;USB3-1-USB-3-2-Gen-2-USB-3-1-Gen-2&#34;&gt;&lt;a href=&#34;#USB3-1-USB-3-2-Gen-2-USB-3-1-Gen-2&#34; class=&#34;headerlink&#34; title=&#34;USB3.1 &amp;#x2F; USB 3.2 Gen 2 &amp;#x2F; USB 3.1 Gen 2&#34;&gt;&lt;/a&gt;USB3.1 &amp;#x2F; USB 3.2 Gen 2 &amp;#x2F; USB 3.1 Gen 2&lt;/h2&gt;&lt;p&gt;2013年7月份，USB 3.1发布，速度翻番至10Gbps，同时USB-IF就把USB 3.0改名为USB 3.1 Gen 1，新的USB 3.1则叫做USB 3.1 Gen 2。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2013年7月份发布&lt;/li&gt;
+&lt;li&gt;速度翻番至10Gbps&lt;/li&gt;
+&lt;li&gt;新增USB A&amp;#x2F;V影音传输。以更适合作为移动设备的输出接口，尤其是可逆的Type-C。&lt;/li&gt;
+&lt;li&gt;将供电的最高允许标准提高到了20V&amp;#x2F;5A，供电100W。&lt;/li&gt;
+&lt;li&gt;必须使用USB Type-C接口才能达到10Gbps的速度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;USB3-2-USB-3-2-Gen-2x2&#34;&gt;&lt;a href=&#34;#USB3-2-USB-3-2-Gen-2x2&#34; class=&#34;headerlink&#34; title=&#34;USB3.2 &amp;#x2F; USB 3.2 Gen 2x2&#34;&gt;&lt;/a&gt;USB3.2 &amp;#x2F; USB 3.2 Gen 2x2&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;2017年9月份，USB 3.2发布。&lt;/li&gt;
+&lt;li&gt;据最新公布的规范，USB 3.0、USB 3.1的版本命名都将彻底消失，统一被划入USB 3.2的序列，三者分别再次改名叫做USB 3.2 Gen 1、USB 3.2 Gen 2、USB 3.2 Gen 2x2。&lt;/li&gt;
+&lt;li&gt;它们还各自有一个市场推广命名，分别是SuperSpeed USB、SuperSpeed USB 10Gbps、SuperSpeed USB 20Gbps。&lt;br&gt;  之所以想出USB 3.2 Gen2x2这样的名字，大概是因为它使用了USB Type-C接口的上下两端全部针脚，速度得以翻番。&lt;/li&gt;
+&lt;li&gt;必须使用USB Type-C接口才能达到20Gbps的速度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;USB-描述符&#34;&gt;&lt;a href=&#34;#USB-描述符&#34; class=&#34;headerlink&#34; title=&#34;USB 描述符&#34;&gt;&lt;/a&gt;USB 描述符&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;  USB是个通用的总线，端口都是统一的。但是USB设备却各种各样，例如USB鼠标，USB键盘，U盘等等，那么USB主机是如何识别出不同的设备的呢？这就要依赖于描述符了。&lt;/p&gt;
+&lt;p&gt;  USB的描述符主要有&lt;strong&gt;设备描述符，配置描述符，接口描述符，端点描述符，字符串描述符，HID描述符，报告描述符&lt;/strong&gt;等等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;USB各个描述符之间的关系&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  一个USB设备有一个&lt;strong&gt;设备描述符&lt;/strong&gt;，设备描述符里面决定了该设备有&lt;strong&gt;多少种配置&lt;/strong&gt;，每种配置描述符对应着配置描述符；&lt;/p&gt;
+&lt;p&gt;  而在&lt;strong&gt;配置描述符&lt;/strong&gt;中又定义了该配置里面有&lt;strong&gt;多少个接口&lt;/strong&gt;，每个接口有对应的接口描述符；&lt;/p&gt;
+&lt;p&gt;  在&lt;strong&gt;接口描述符&lt;/strong&gt;里面又定义了该接口有&lt;strong&gt;多少个端点&lt;/strong&gt;，每个端点对应一个端点描述符；&lt;/p&gt;
+&lt;p&gt;  在&lt;strong&gt;端点描述符&lt;/strong&gt;定义了端点的大小，类型等等。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  由此我们可以看出，USB的描述符之间的关系是一层一层的，最上一层是设备描述符，下面是配置描述符，再下面是接口描述符，再下面是端点描述符。&lt;/p&gt;
+&lt;p&gt;  在获取描述符时，先获取设备描述符，然后再获取配置描述符，根据配置描述符中的配置集合长度，一次将配置描述符、接口描述符、端点描述符一起一次读回。&lt;/p&gt;
+&lt;p&gt;  其中可能还会有获取设备序列号，厂商字符串，产品字符串等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;各个描述符的编号&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; DEVICE_DESCRIPTOR               0x01  &lt;span class=&#34;hljs-comment&#34;&gt;//设备描述符   &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; CONFIGURATION_DESCRIPTOR        0x02  &lt;span class=&#34;hljs-comment&#34;&gt;//配置描述符   &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; STRING_DESCRIPTOR               0x03  &lt;span class=&#34;hljs-comment&#34;&gt;//字符串描述符   &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; INTERFACE_DESCRIPTOR            0x04  &lt;span class=&#34;hljs-comment&#34;&gt;//接口描述符   &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; ENDPOINT_DESCRIPTOR             0x05  &lt;span class=&#34;hljs-comment&#34;&gt;//端点描述符  &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;img src=&#34;/2023/9c721b62/v2-43379ad330f4acd76ce885f2e1359458_720w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2023/9c721b62/usbdes.jpeg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2023/9c721b62/image-20240620151939825.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;设备描述符-0x01-Device-Descriptor&#34;&gt;&lt;a href=&#34;#设备描述符-0x01-Device-Descriptor&#34; class=&#34;headerlink&#34; title=&#34;设备描述符 0x01 Device Descriptor&#34;&gt;&lt;/a&gt;设备描述符 0x01 Device Descriptor&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2023/9c721b62/dev.png&#34; alt=&#34;设备描述符&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;代码&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 定义标准的设备描述符结构&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; _&lt;span class=&#34;hljs-title&#34;&gt;DEVICE_DCESCRIPTOR_STRUCT&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;    BYTE blength;            &lt;span class=&#34;hljs-comment&#34;&gt;// 设备描述符的字节数大小&lt;/span&gt;&lt;br&gt;    BYTE bDescriptorType;    &lt;span class=&#34;hljs-comment&#34;&gt;// 设备描述符类型编号&lt;/span&gt;&lt;br&gt;    WORD bcdUSB;             &lt;span class=&#34;hljs-comment&#34;&gt;// USB版本号&lt;/span&gt;&lt;br&gt;    BYTE bDeviceClass;       &lt;span class=&#34;hljs-comment&#34;&gt;// USB分配的设备类代码&lt;/span&gt;&lt;br&gt;    BYTE bDeviceSubClass;    &lt;span class=&#34;hljs-comment&#34;&gt;// USB分配的子类代码&lt;/span&gt;&lt;br&gt;    BYTE bDeviceProtocol;    &lt;span class=&#34;hljs-comment&#34;&gt;// USB分配的设备协议代码&lt;/span&gt;&lt;br&gt;    BYTE bMaxPacketSize0;    &lt;span class=&#34;hljs-comment&#34;&gt;// 端点0的最大包大小&lt;/span&gt;&lt;br&gt;    WORD idVendor;           &lt;span class=&#34;hljs-comment&#34;&gt;// 厂商编号&lt;/span&gt;&lt;br&gt;    WORD idProduct;          &lt;span class=&#34;hljs-comment&#34;&gt;// 产品编号&lt;/span&gt;&lt;br&gt;    WORD bcdDevice;          &lt;span class=&#34;hljs-comment&#34;&gt;// 设备出厂编号&lt;/span&gt;&lt;br&gt;    BYTE iManufacturer;      &lt;span class=&#34;hljs-comment&#34;&gt;// 设备厂商字符串的索引&lt;/span&gt;&lt;br&gt;    BYTE iProduct;           &lt;span class=&#34;hljs-comment&#34;&gt;// 描述产品字符串的索引&lt;/span&gt;&lt;br&gt;    BYTE iSerialNumber;      &lt;span class=&#34;hljs-comment&#34;&gt;// 描述设备序列号字符串的索引&lt;/span&gt;&lt;br&gt;    BYTE bNumConfigurations; &lt;span class=&#34;hljs-comment&#34;&gt;// 可能的配置数量&lt;/span&gt;&lt;br&gt;&amp;#125; DEVICE_DESCRIPTOR_STRUCT, *pDEVICE_DESCRIPTOR_STRUCT;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 实际的设备描述符示例&lt;/span&gt;&lt;br&gt;DEVICE_DESCRIPTOR_STRUCT device_descriptor = &amp;#123;&lt;br&gt;.blength           =&lt;span class=&#34;hljs-keyword&#34;&gt;sizeof&lt;/span&gt;(DEVICE_DESCRIPTOR_STRUCT),&lt;span class=&#34;hljs-comment&#34;&gt;// 设备描述符的字节数大小，这里是18字节&lt;/span&gt;&lt;br&gt;.bDescriptorType   =DEVICE_DESCRIPTOR,  &lt;span class=&#34;hljs-comment&#34;&gt;// 设备描述符类型编号，设备描述符是01&lt;/span&gt;&lt;br&gt;.bcdUSB            =&lt;span class=&#34;hljs-number&#34;&gt;0x1001&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;// USB版本号，这里是USB01.10，即USB1.1。由于51是大端模式，所以高低字节交换&lt;/span&gt;&lt;br&gt;.bDeviceClass      =&lt;span class=&#34;hljs-number&#34;&gt;0x00&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// USB分配的设备类代码，0表示类型在接口描述符中定义&lt;/span&gt;&lt;br&gt;.bDeviceSubClass   =&lt;span class=&#34;hljs-number&#34;&gt;0x00&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// USB分配的子类代码，上面一项为0时，本项也要设置为0&lt;/span&gt;&lt;br&gt;.bDeviceProtocol   =&lt;span class=&#34;hljs-number&#34;&gt;0x00&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// USB分配的设备协议代码，上面一项为0时，本项也要设置为0&lt;/span&gt;&lt;br&gt;.bMaxPacketSize0   =&lt;span class=&#34;hljs-number&#34;&gt;0x10&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// 端点0的最大包大小，这里为16字节&lt;/span&gt;&lt;br&gt;.idVendor          =&lt;span class=&#34;hljs-number&#34;&gt;0x7104&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;// 厂商编号，这个是需要跟USB组织申请的ID号，表示厂商代号。&lt;/span&gt;&lt;br&gt;.idProduct         =&lt;span class=&#34;hljs-number&#34;&gt;0xf0ff&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;// 该产品的编号，跟厂商编号一起配合使用，让主机注册该设备并加载相应的驱动程序&lt;/span&gt;&lt;br&gt;.bcdDevice         =&lt;span class=&#34;hljs-number&#34;&gt;0x0100&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;// 设备出厂编号&lt;/span&gt;&lt;br&gt;.iManufacturer     =&lt;span class=&#34;hljs-number&#34;&gt;0x01&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// 设备厂商字符串的索引，在获取字符串描述符时，使用该索引号来识别不同的字符串&lt;/span&gt;&lt;br&gt;.iProduct          =&lt;span class=&#34;hljs-number&#34;&gt;0x02&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// 描述产品字符串的索引，同上&lt;/span&gt;&lt;br&gt;.iSerialNumber     =&lt;span class=&#34;hljs-number&#34;&gt;0x03&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// 描述设备序列号字符串的索引，同上&lt;/span&gt;&lt;br&gt;.bNumConfigurations=&lt;span class=&#34;hljs-number&#34;&gt;0x01&lt;/span&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 可能的配置数为1，即该设备只有一个配置&lt;/span&gt;&lt;br&gt;&amp;#125;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bLength&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;是设备描述符的总长度，以字节为单位。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bDescriptorType&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代表了本描述符的类型。&lt;/li&gt;
+&lt;li&gt;用于描述设备的描述符 是0x01。&lt;ul&gt;
+&lt;li&gt;其他描述符的数值及含义&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;/2023/9c721b62/d976ff82852a45ea8fc59183689cbd5b.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bcdUSB&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;显示了设备支持的USB版本，通常是最新版本。&lt;/li&gt;
+&lt;li&gt;这是一个&lt;a href=&#34;https://so.csdn.net/so/search?q=%E4%BA%8C%E8%BF%9B%E5%88%B6&amp;spm=1001.2101.3001.7020&#34;&gt;二进制&lt;/a&gt;代码形式的十进制数据，采用0xAABC的形式，其中A是主版本号，B是次版本号，C是子次版本号。&lt;/li&gt;
+&lt;li&gt;例如，USB2.0设备拥有0x0200值，USB1.1设备拥有0x0110值。通常，主机将使用bcdUSB以确定需要加载的USB驱动器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bDeviceClass&lt;/strong&gt;、&lt;strong&gt;bDeviceSubClass&lt;/strong&gt;、&lt;strong&gt;bDeviceProtocol&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;分别代表&lt;strong&gt;设备类型&lt;/strong&gt;，&lt;strong&gt;子类型&lt;/strong&gt;，&lt;strong&gt;设备使用的协议&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;USB-IF区分设备类分了三个等级（类-子类-协议码）其中，&lt;ul&gt;
+&lt;li&gt;类包含人机交互类、图像类、无线类、音频类等等，&lt;/li&gt;
+&lt;li&gt;子类比如音频类的音频控制、音频流等等，&lt;/li&gt;
+&lt;li&gt;协议比如人机接口类中的鼠标、键盘、&lt;a href=&#34;https://so.csdn.net/so/search?q=%E8%A7%A6%E6%91%B8%E5%B1%8F&amp;spm=1001.2101.3001.7020&#34;&gt;触摸屏&lt;/a&gt;等，&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;  为何会有这么多USB的Class分类，子分类，设备协议。&lt;br&gt;  我们要知道，USB协议设计的目的，就是为实现通用，用单一的USB接口取代之前种类繁多的各种其他接口。而为了取代其他各种接口，那意味着就要实现各种设备所对应的各种功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bMaxPackeSize0&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;端点一次最大传多少个字节。&lt;/li&gt;
+&lt;li&gt;根据设备，数据包的大小可以为 8 个字节、 16 个字节、 32 个字节和 64 个字节。&lt;/li&gt;
+&lt;li&gt;USB协议里有规定，端点0最低8字节，端点的最大传输大小和USB速度等级以及传输类型有关，&lt;strong&gt;控制传输一般使用端点0&lt;/strong&gt;，低速最大8字节，全速和高速最大传输64字节：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;idVendor&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代表着设备的生产商ID,由USB设备生产商向USB-IF官方来统一管理和申请。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;idProduct&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代表着该生产商生产的产品编号，同一厂商下的不同idProduct代表着该公司不同的产品系列。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bcdDevice&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;是一个BCD编码格式，代表着设备的出产编号，或者同一产品的版本更新迭代。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;iManufacturer&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;描述厂商的字符串的索引，为0则表示没有。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;iProduct&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;描述产品的字符串的索引，为0则表示没有。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;iSerialNumber&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;产品序列号字符串的索引，为0则表示没有。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bNumConfigurations&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;指示设备有多少个配置，前面提到过，一个USB可能有多个配置，一般USB产品都是1个配置。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;配置描述符-0x02-Configuration-Descriptor&#34;&gt;&lt;a href=&#34;#配置描述符-0x02-Configuration-Descriptor&#34; class=&#34;headerlink&#34; title=&#34;配置描述符 0x02 Configuration Descriptor&#34;&gt;&lt;/a&gt;配置描述符 0x02 Configuration Descriptor&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;偏移&lt;/th&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;大小&lt;br&gt;Byte&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;bLength&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该描述符的长度 &amp;#x3D; 9 个字节&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;bDescriptorType&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;描述符类型 &amp;#x3D; 配置（02h）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;wTotalLength&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;总长度包括接口和端点描述符在内&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;bNumInterfaces&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;本配置中接口的数量&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;bConfigurationValue&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;SET_CONFIGURATION 请求所使用的配置值，用于选择该配置&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;iConfiguration&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;描述该配置的字符串索引&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;bmAttributes&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;位 7：预留（设置为 1） &lt;br&gt;位 6：自供电 &lt;br&gt;位 5：远程唤醒&lt;br&gt;位 4:0：保留&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;bMaxPower&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;本配置所需的最大功耗（单位为 2 mA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bLength&lt;/strong&gt; 1字节，表示配置描述符的长度，配置描述符的长度是9字节。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bDescriptor&lt;/strong&gt; 1字节，表示描述符的类型，配置描述符的类型编码为 0x02。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;wTotalLength&lt;/strong&gt; 2字节，是整个配置描述符集合的总长度。包括配置描述符，接口描述符，端点描述符和类特殊描述符（如果有）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bNumInterfaces&lt;/strong&gt; 1字节，则定义了在该指定配置中接口总数。最小为 1 个接口，通常功能单一的设备只有一个接口（如鼠标），而复合设备具有多个接口（如音频设备）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bConfigurationValue&lt;/strong&gt; 1字节，表示该配置的值，设置配置请求时会发送一个配置值，如果某个配置的bConfigurationValue和它相匹配，就表示该配置被激活。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;iConfiguration&lt;/strong&gt; 1字节，描述该配置的字符串的索引，如果该值为0，表示没有字符串来描述它。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bmAttributes&lt;/strong&gt; 1字节，定义了 USB 设备的一些特性。 位7保留，必须设置为1，位6表示供电方式，设置为 0表示设备由总线供电，设置为 1 表示设备自供电。位5表示是否支持远程唤醒，设置为 1表示支持远程唤醒，设置为 0 表示不支持远程唤醒。位4~位0设置为0。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bMaxPower&lt;/strong&gt; 1字节，表示设备需要从总线获取的最大电流量，以 2 mA 为单位。如需要200mA的最大电流，则该字段的值为100。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;字符串描述符-0x03&#34;&gt;&lt;a href=&#34;#字符串描述符-0x03&#34; class=&#34;headerlink&#34; title=&#34;字符串描述符 0x03&#34;&gt;&lt;/a&gt;字符串描述符 0x03&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;偏移&lt;/th&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;大小（字节）&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;bLength&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该描述符的长度 &amp;#x3D; 7 个字节&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;bDescriptorType&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;描述符类型 &amp;#x3D; STRING （03h）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2..n&lt;/td&gt;
+&lt;td&gt;bString 或 wLangID&lt;/td&gt;
+&lt;td&gt;变化&lt;/td&gt;
+&lt;td&gt;Unicode 编码字符串 或 LANGID 代码&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;字符串描述符是可选的，字符串描述符用于描述一些方便人们阅读的信息，比如制造商、设备名称啥的。如果一个设备没有字符串描述符，那么其他描述符中和字符串有关的索引值都必须为 0。&lt;/p&gt;
+&lt;h2 id=&#34;接口描述符-0x04-Interface-Descriptor&#34;&gt;&lt;a href=&#34;#接口描述符-0x04-Interface-Descriptor&#34; class=&#34;headerlink&#34; title=&#34;接口描述符 0x04 Interface Descriptor&#34;&gt;&lt;/a&gt;接口描述符 0x04 Interface Descriptor&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;偏移&lt;/th&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;大小（字节）&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;bLength&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该描述符的长度 &amp;#x3D; 9 个字节&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;bDescriptorType&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;描述符类型 &amp;#x3D; 接口（04h）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;bInterfaceNumber&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该接口基于零的索引&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;bAlternateSetting&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;备用设置值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;bNumEndpoints&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该接口所使用的端点数量（不包含 EP0）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;bInterfaceClass&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;接口类别&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;bInterfaceSubclass&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;接口子类别&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;bInterfaceProtocol&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;接口协议&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;iInterface&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该接口字符串描述符索引&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;bLength&lt;/strong&gt; 1字节，表示接口描述符的长度，标准的接口描述符的长度为9字节。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bDescriptorType&lt;/strong&gt; 1字节，表示描述符的类型，接口描述符的类型编码为 0x04。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bInterfaceNumber&lt;/strong&gt; 1字节，表示该接口的编号，如果一个配置具有多个接口，每个接口的编号都不相同，从0开始依次递增对一个配置的接口进行编号。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bAlternateSetting&lt;/strong&gt; 1字节，接口的备用编号，很少用到，设置为0。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bNumEndpoints&lt;/strong&gt; 1字节，表示该接口的端点数（不包括0端点）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bInterfaceClass、bInterfaceSubClass、bInterfaceProtocol&lt;/strong&gt; 均为1字节，分别表示接口所使用的类，子类以及协议，由USB协会规定。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iInterface&lt;/strong&gt; 1字节，描述该接口的字符串的索引值，如果为0，表示没有字符串。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;bInterfaceClass&lt;/strong&gt;、&lt;strong&gt;bDeviceClass&lt;/strong&gt;：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Base Class&lt;/th&gt;
+&lt;th&gt;Descriptor Usage&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;00h&lt;/td&gt;
+&lt;td&gt;Device&lt;/td&gt;
+&lt;td&gt;Use class information in the Interface Descriptors&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;01h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Audio USB音频，参见UAC规范&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;02h&lt;/td&gt;
+&lt;td&gt;Both&lt;/td&gt;
+&lt;td&gt;Communications and &lt;a href=&#34;https://www.usbzh.com/article/detail-842.html&#34;&gt;CDC&lt;/a&gt; Control 网卡、调制解调器、串列端口&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;03h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.usbzh.com/article/detail-76.html&#34;&gt;HID&lt;/a&gt; (Human Interface Device)，键盘、鼠标 参见&lt;a href=&#34;https://www.usbzh.com/article/detail-76.html&#34;&gt;HID&lt;/a&gt;规范&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;05h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Physical 控制杆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;06h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Image 影像扫描仪、Picture Transfer Protocol&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;07h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Printer 打印机&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;08h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Mass Storage U盘、移动硬盘、存储卡读卡器、数字相机&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09h&lt;/td&gt;
+&lt;td&gt;Device&lt;/td&gt;
+&lt;td&gt;Hub &lt;a href=&#34;https://www.usbzh.com/article/detail-25.html&#34;&gt;集线器&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0Ah&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.usbzh.com/article/detail-842.html&#34;&gt;CDC&lt;/a&gt;-Data 调制解调器、网络卡、ISDN、传真&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0Bh&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Smart Card 读卡器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0Dh&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Content Security&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0Eh&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Video USB视频，&lt;a href=&#34;https://www.usbzh.com/article/detail-80.html&#34;&gt;UVC&lt;/a&gt;摄像头，参见&lt;a href=&#34;https://www.usbzh.com/article/detail-80.html&#34;&gt;UVC&lt;/a&gt;规范&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0Fh&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Personal Healthcare&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Audio&amp;#x2F;Video Devices&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11h&lt;/td&gt;
+&lt;td&gt;Device&lt;/td&gt;
+&lt;td&gt;Billboard Device Class&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;USB Type-C Bridge Class&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DCh&lt;/td&gt;
+&lt;td&gt;Both&lt;/td&gt;
+&lt;td&gt;Diagnostic Device&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;E0h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Wireless Controller 蓝牙&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;EFh&lt;/td&gt;
+&lt;td&gt;Both&lt;/td&gt;
+&lt;td&gt;Miscellaneous&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FEh&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Application Specific 红外线资料桥接器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FFh&lt;/td&gt;
+&lt;td&gt;Both&lt;/td&gt;
+&lt;td&gt;Vendor Specific 自定义USB设备&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;更多信息参考 &lt;a href=&#34;https://www.usb.org/defined-class-codes&#34;&gt;USB.org&lt;/a&gt; 的部分章节&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;端点描述符-0x05-Endpoint-Descriptor&#34;&gt;&lt;a href=&#34;#端点描述符-0x05-Endpoint-Descriptor&#34; class=&#34;headerlink&#34; title=&#34;端点描述符 0x05 Endpoint Descriptor&#34;&gt;&lt;/a&gt;端点描述符 0x05 Endpoint Descriptor&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;偏移&lt;/th&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;大小&lt;br&gt;Byte&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;bLength&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该描述符长度 &amp;#x3D; 7 个字节&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;bDescriptorType&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;描述符类型 &amp;#x3D; 端点（05h）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;bEndpointAddress&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;位 3…0&lt;/strong&gt;：端点数量 &lt;br/&gt;&lt;strong&gt;位 6…4&lt;/strong&gt;：预留，复位为零 &lt;br/&gt;&lt;strong&gt;位 7&lt;/strong&gt;：端点的方向。控制端点可以忽略该位。 &lt;br/&gt;0 &amp;#x3D; OUT 端点 (主机到设备) &lt;br/&gt;1 &amp;#x3D; IN 端点 (设备到主机)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;bmAttributes&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;位 1…0&lt;/strong&gt;：传输类型 &lt;br/&gt;00 &amp;#x3D; 控制传输 &lt;br/&gt;01 &amp;#x3D; 同步传输 &lt;br/&gt;10 &amp;#x3D; 批量传输 &lt;br/&gt;11 &amp;#x3D; 中断传输 &lt;br/&gt;如果该端点不是同步端点，那么位 5 到位 2 将被预留，必须将这些位设置为零。如果该端点是同步的，这些位将按如下内容定义： &lt;br/&gt;&lt;strong&gt;位 3…2&lt;/strong&gt;：同步类型 &lt;br/&gt;00 &amp;#x3D; 无同步 &lt;br/&gt;01 &amp;#x3D; 异步 &lt;br/&gt;10 &amp;#x3D; 自适应 &lt;br/&gt;11 &amp;#x3D; 同步 &lt;br/&gt;&lt;strong&gt;位 5…4&lt;/strong&gt;：用途类型 &lt;br/&gt;00 &amp;#x3D; 数据端点 &lt;br/&gt;01 &amp;#x3D; 反馈端点 &lt;br/&gt;10 &amp;#x3D; 隐式反馈数据端点 &lt;br/&gt;数值 11 表示保留&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;wMaxPacketSize&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该端点的数据包最大尺寸&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;bInterval&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;中断端点的轮询间隔，单位为 ms（对于同步端点，该间隔为 1 ms；控制或批量端点可能忽略该字段）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;bLength&lt;/strong&gt; 1字节，表示端点描述符的长度，标准的端点描述符的长度为7字节。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bDescriptorType&lt;/strong&gt; 1字节，表示描述符的类型，端点描述符的类型编码为 0x05。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bEndpointAddress&lt;/strong&gt; 1字节，表示该端点的地址和方向。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bmAttributes&lt;/strong&gt; 1字节，表示该端点的属性，详细看上表。&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transfer Type&lt;/strong&gt; &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;控制CONTROL&lt;/strong&gt; 控制端点被用来控制对 USB 设备的不同部分访问。&lt;em&gt;通常用作配置设备、获取设备信息、发送命令到设备或获取设备状态报告&lt;/em&gt;。这些端点通常较小。&lt;em&gt;每个 USB 设备都有一个控制端点称为”端点 0”, 被 USB 核心用来在插入时配置设备&lt;/em&gt;。USB协议保证总有足够的带宽留给控制端点传送数据到设备.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;中断INTERRUPT&lt;/strong&gt;每当 USB 主机向设备请求数据时，中断端点以固定的速率传送&lt;em&gt;小量的数据&lt;/em&gt;。此为USB 键盘和鼠标的主要的数据传送方法。它还用以传送数据到 USB 设备来控制设备。&lt;em&gt;通常不用来传送大量数据&lt;/em&gt;。USB协议保证总有足够的带宽留给中断端点传送数据到设备.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;批量BULK&lt;/strong&gt;  批量端点用以传送大量数据。这些端点常比中断端点大得多. 它们普遍用于&lt;em&gt;不能有任何数据丢失的数据&lt;/em&gt;。USB 协议&lt;em&gt;不保证传输在特定时间范围内完成&lt;/em&gt;。如果总线上没有足够的空间来发送整个BULK包，它被分为多个包进行传输。这些端点普遍用于打印机、USB Mass Storage和USB网络设备上。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;等时ISOCHRONOUS&lt;/strong&gt; 等时端点也批量传送大量数据, 但是这个数据&lt;em&gt;不被保证能送达&lt;/em&gt;。这些端点用在可以处理数据丢失的设备中，并且更多依赖于保持持续的数据流。如音频和视频设备等等。&lt;/li&gt;
+&lt;li&gt;对比总结：&lt;em&gt;控制&lt;/em&gt;和&lt;em&gt;批量&lt;/em&gt;端点用于异步数据传送，而&lt;em&gt;中断&lt;/em&gt;和&lt;em&gt;同步&lt;/em&gt;端点是周期性的。这意味着这些端点被设置来在固定的时间连续传送数据，USB 核心为它们保留了相应的带宽。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;wMaxPacketSize&lt;/strong&gt; 2字节，表示该端点的数据包最大长度。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bInterval&lt;/strong&gt; 1字节&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;每个端点描述符都规定了该端点所支持的最大数据包长 (wMaxPacketSize)，主机每次发送数据包，都不能超过端点的最大包长，各种端点的最大包长如下表：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;端点类型&lt;/th&gt;
+&lt;th&gt;最大包长 (低速)&lt;/th&gt;
+&lt;th&gt;最大包长 (全速)&lt;/th&gt;
+&lt;th&gt;最大包长 (高)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;控制端点&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;8&amp;#x2F;16&amp;#x2F;32&amp;#x2F;64&lt;/td&gt;
+&lt;td&gt;64&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;实时端点&lt;/td&gt;
+&lt;td&gt;不支持&lt;/td&gt;
+&lt;td&gt;1023&lt;/td&gt;
+&lt;td&gt;1024&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;中断端点&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;64&lt;/td&gt;
+&lt;td&gt;1024&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;批量端点&lt;/td&gt;
+&lt;td&gt;不支持&lt;/td&gt;
+&lt;td&gt;8&amp;#x2F;16&amp;#x2F;32&amp;#x2F;64&lt;/td&gt;
+&lt;td&gt;512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;HID&#34;&gt;&lt;a href=&#34;#HID&#34; class=&#34;headerlink&#34; title=&#34;HID&#34;&gt;&lt;/a&gt;HID&lt;/h1&gt;&lt;h1 id=&#34;UVC&#34;&gt;&lt;a href=&#34;#UVC&#34; class=&#34;headerlink&#34; title=&#34;UVC&#34;&gt;&lt;/a&gt;UVC&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;UVC，全称为：USB video(device) class,是微软与另外几家设备厂商联合推出的为USB视频捕获设备定义的协议标准，目前已成为USB org标准之一。&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="embedded" />
+        <category term="usb" />
+        <updated>2023-12-01T10:12:15.000Z</updated>
+    </entry>
     <entry>
         <id>https://www.oikiou.top/2018/ef667962/</id>
         <title>嵌入式编程杂乱笔记</title>
@@ -893,7 +1537,7 @@
 &lt;p&gt;buffer 			  存储的数据&lt;br&gt;format 			窗体控件字符串。 有关详细信息，请参阅”格式规范”。&lt;br&gt;argument	    可选自变量&lt;br&gt;locale			   要使用的区域设置&lt;/p&gt;
 &lt;h3 id=&#34;说明&#34;&gt;&lt;a href=&#34;#说明&#34; class=&#34;headerlink&#34; title=&#34;说明&#34;&gt;&lt;/a&gt;说明&lt;/h3&gt;&lt;p&gt;sscanf与scanf类似，都是用于输入的，只是后者以键盘(stdin)为输入源，前者以&lt;strong&gt;固定字符串&lt;/strong&gt;为输入源。&lt;/p&gt;
 &lt;h4 id=&#34;控制字符说明&#34;&gt;&lt;a href=&#34;#控制字符说明&#34; class=&#34;headerlink&#34; title=&#34;控制字符说明&#34;&gt;&lt;/a&gt;控制字符说明&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;%c  一个单一的字符&lt;br&gt;%d  一个十进制整数&lt;br&gt;%i  一个整数&lt;br&gt;%e, %f, %g 一个浮点数&lt;br&gt;%o  一个八进制数&lt;br&gt;%s  一个字符串&lt;br&gt;%x  一个十六进制数&lt;br&gt;%p  一个指针&lt;br&gt;%n  一个等于读取字符数量的整数&lt;br&gt;%u  一个无符号整数&lt;br&gt;%[]  一个字符集&lt;br&gt;%%  一个精度符&lt;/p&gt;
+&lt;figure class=&#34;highlight txt&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs txt&#34;&gt;%c  一个单一的字符 &lt;br&gt;%d  一个十进制整数 &lt;br&gt;%i  一个整数 &lt;br&gt;%e, %f, %g 一个浮点数 &lt;br&gt;%o  一个八进制数 &lt;br&gt;%s  一个字符串 &lt;br&gt;%x  一个十六进制数 &lt;br&gt;%p  一个指针 &lt;br&gt;%n  一个等于读取字符数量的整数&lt;br&gt;%u  一个无符号整数&lt;br&gt;%[]  一个字符集 &lt;br&gt;\%\%  一个精度符&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;函数返回值&#34;&gt;&lt;a href=&#34;#函数返回值&#34; class=&#34;headerlink&#34; title=&#34;函数返回值&#34;&gt;&lt;/a&gt;函数返回值&lt;/h3&gt;&lt;p&gt;函数将返回成功赋值的字段个数；返回值不包括已读取但未赋值的字段个数。 返回值为 0 表示没有将任何字段赋值。 如果在第一次读取之前到达字符串结尾，则返回EOF。&lt;/p&gt;
 &lt;h3 id=&#34;例程&#34;&gt;&lt;a href=&#34;#例程&#34; class=&#34;headerlink&#34; title=&#34;例程&#34;&gt;&lt;/a&gt;例程&lt;/h3&gt;&lt;h4 id=&#34;代码&#34;&gt;&lt;a href=&#34;#代码&#34; class=&#34;headerlink&#34; title=&#34;代码&#34;&gt;&lt;/a&gt;代码&lt;/h4&gt;&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; buf[&lt;span class=&#34;hljs-number&#34;&gt;512&lt;/span&gt;];&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;123456 &amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：123456&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//取指定长度的字符串。如在下例中，取最大长度为4字节的字符串。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;123456 &amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%4s&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：1234&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//取到指定字符为止的字符串。如在下例中，取遇到空格为止字符串。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;123456 abcdedf&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%[^ ]&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：123456&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//取仅包含指定字符集的字符串。如在下例中，取仅包含1到9和小写字母的字符串。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;123456abcdedfBCDEF&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%[1-9a-z]&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：123456abcdedf&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//取到指定字符集为止的字符串。如在下例中，取遇到大写字母为止的字符串。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;123456abcdedfBCDEF&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%[^A-Z]&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：123456abcdedf&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//给定一个字符串iios/12DDWDFF@122，获取 / 和 @ 之间的字符串，先将 &amp;quot;iios/&amp;quot;过滤掉，再将非&amp;#x27;@&amp;#x27;的一串内容送到buf中&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;iios/12DDWDFF@122&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%*[^/]/%[^@]&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：12DDWDFF&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//给定一个字符串&amp;quot;hello, world&amp;quot;，仅保留&amp;quot;world&amp;quot;。（注意：“，”之后有一空格）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sscanf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;hello, world&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%*s%s&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s\n&amp;quot;&lt;/span&gt;, buf);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//结果为：world&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -926,7 +1570,28 @@
 
 
 &lt;h2 id=&#34;register&#34;&gt;&lt;a href=&#34;#register&#34; class=&#34;headerlink&#34; title=&#34;register&#34;&gt;&lt;/a&gt;register&lt;/h2&gt;&lt;p&gt;　　这个关键字&lt;strong&gt;请求&lt;/strong&gt;（只是请求，最终看编译器）编译器尽可能的将变量存在CPU内部寄存器中，而不是通过内存寻址访问，以提高效率。注意是尽可能，不是绝对。你想想，一个CPU 的寄存器也就那么几个或几十个，你要是定义了很多很多register 变量，它累死也可能不能全部把这些变量放入寄存器吧。&lt;/p&gt;
-&lt;h2 id=&#34;volatile&#34;&gt;&lt;a href=&#34;#volatile&#34; class=&#34;headerlink&#34; title=&#34;volatile&#34;&gt;&lt;/a&gt;volatile&lt;/h2&gt;&lt;ol&gt;
+&lt;p&gt;register是一个C语言的关键字，用来声明寄存器变量，即存放在CPU的寄存器里的变量。寄存器变量的访问速度比内存变量快得多，因为寄存器是CPU内部的组成部分，而内存是外部的设备。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;寄存器变量只能用于基本数据类型，如int, char, float等，不能用于数组、结构体、联合等复合类型&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%AF%84%E5%AD%98%E5%99%A8&#34;&gt;1&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;寄存器变量的作用域和自动变量相同，即只在定义它的函数或代码块内有效&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%AF%84%E5%AD%98%E5%99%A8&#34;&gt;1&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;寄存器变量不能取地址，因为它们没有固定的内存位置。&lt;/li&gt;
+&lt;li&gt;寄存器变量的数量受到CPU寄存器的限制，如果声明过多的寄存器变量，编译器可能会忽略register关键字，将它们当作普通的自动变量处理。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;volatile&#34;&gt;&lt;a href=&#34;#volatile&#34; class=&#34;headerlink&#34; title=&#34;volatile&#34;&gt;&lt;/a&gt;volatile&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;典型用处&lt;ul&gt;
+&lt;li&gt;寄存器的访问&lt;/li&gt;
+&lt;li&gt;全局变量被中断修改&lt;/li&gt;
+&lt;li&gt;多线程共享的变量&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;const volatile&lt;ul&gt;
+&lt;li&gt;两者同时修饰一个对象的典型情况，是用于驱动中访问外部设备的只读寄存器。&lt;/li&gt;
+&lt;li&gt;（1）本程序段中不能对a作修改，任何修改都是非法的，或者至少是粗心，编译器应该报错，防止这种粗心；&lt;/li&gt;
+&lt;li&gt;（2）另一个程序段则完全有可能修改，因此编译器最好不要做太激进的优化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;并行设备的硬件寄存器（如：状态寄存器）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;延伸 const  volatile&lt;/p&gt;
@@ -952,7 +1617,33 @@
 &lt;li&gt;&lt;p&gt;多线程应用中被几个任务共享的变量&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;static&#34;&gt;&lt;a href=&#34;#static&#34; class=&#34;headerlink&#34; title=&#34;static&#34;&gt;&lt;/a&gt;static&lt;/h2&gt;&lt;h2 id=&#34;const&#34;&gt;&lt;a href=&#34;#const&#34; class=&#34;headerlink&#34; title=&#34;const&#34;&gt;&lt;/a&gt;const&lt;/h2&gt;&lt;h3 id=&#34;关于Const指针&#34;&gt;&lt;a href=&#34;#关于Const指针&#34; class=&#34;headerlink&#34; title=&#34;关于Const指针&#34;&gt;&lt;/a&gt;关于Const指针&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *p1;		&lt;span class=&#34;hljs-comment&#34;&gt;//指向常量的指针 (const int) *p1，指向的值不能修改，指针本身可以修改&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; p2;    	&lt;span class=&#34;hljs-comment&#34;&gt;//指针是常量 int *(const p2) 不能指向别的变量，但是指向的变量可以修改		因为不能被修改所以必须要被初始化。&lt;/span&gt;&lt;br&gt;   &lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; p3;&lt;span class=&#34;hljs-comment&#34;&gt;//不能指向别的变量，也不能修改指向变量的值&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//注意   这个等同于第一个   容易产生误解尽量不要使用这个表达&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; *p;		&lt;span class=&#34;hljs-comment&#34;&gt;//指向常量的指针&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;static&#34;&gt;&lt;a href=&#34;#static&#34; class=&#34;headerlink&#34; title=&#34;static&#34;&gt;&lt;/a&gt;static&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;提高程序鲁棒性（Robust）稳健性&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;主要有两种用法&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修饰全局变量也就是文件上定义的变量，防止被extern，污染命名空间（命名冲突）&lt;/li&gt;
+&lt;li&gt;修饰函数内定义的变量，保持变量的持久性（函数体内定义）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;优化代码结构和程序性能&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;内存放在静态数据区，这样可以提高数据的局部性，提高缓存的利用效率&lt;/li&gt;
+&lt;li&gt;多次调用不会多次分配内存，节省内存分配时间&lt;/li&gt;
+&lt;li&gt;显示的声明作用域和生命周期，提高代码可读性和可维护性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;默认初始化为0，不需要显式的初始化为0，存放在静态数据区（类似于全局变量的位置）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;模块内不对外开放的变量都应该使用static修饰&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;const&#34;&gt;&lt;a href=&#34;#const&#34; class=&#34;headerlink&#34; title=&#34;const&#34;&gt;&lt;/a&gt;const&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;不可变&lt;/li&gt;
+&lt;li&gt;提高程序鲁棒性（Robust）稳健性&lt;/li&gt;
+&lt;li&gt;没有修改需求的指针都应该被const修饰&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;关于Const指针&#34;&gt;&lt;a href=&#34;#关于Const指针&#34; class=&#34;headerlink&#34; title=&#34;关于Const指针&#34;&gt;&lt;/a&gt;关于Const指针&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *p1;		&lt;span class=&#34;hljs-comment&#34;&gt;//指向常量的指针 (const int) *p1，指向的值不能修改，指针本身可以修改&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; p2;    	&lt;span class=&#34;hljs-comment&#34;&gt;//指针是常量 int *(const p2) 不能指向别的变量，但是指向的变量可以修改		因为不能被修改所以必须要被初始化。&lt;/span&gt;&lt;br&gt;   &lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; *&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; p3;&lt;span class=&#34;hljs-comment&#34;&gt;//不能指向别的变量，也不能修改指向变量的值&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//注意   这个等同于第一个   容易产生误解尽量不要使用这个表达&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; *p;		&lt;span class=&#34;hljs-comment&#34;&gt;//指向常量的指针&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;Const常量可以被修改&#34;&gt;&lt;a href=&#34;#Const常量可以被修改&#34; class=&#34;headerlink&#34; title=&#34;Const常量可以被修改&#34;&gt;&lt;/a&gt;Const常量可以被修改&lt;/h3&gt;&lt;p&gt;对于一个Cont常量，实际上你访问的是它的&lt;strong&gt;内存拷贝&lt;/strong&gt;，你仍然可以去用指针去修改它。&lt;/p&gt;
 &lt;h3 id=&#34;const-局部变量&#34;&gt;&lt;a href=&#34;#const-局部变量&#34; class=&#34;headerlink&#34; title=&#34;const 局部变量&#34;&gt;&lt;/a&gt;const 局部变量&lt;/h3&gt;&lt;p&gt;const 局部变量居然定义在stack上，用指针居然可以修改其值&lt;/p&gt;
@@ -1052,6 +1743,9 @@
 &lt;li&gt;&lt;p&gt;可变参数&lt;/p&gt;
  &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; DEBUGP(format, ...) printk(format, ## __VA_ARGS__)&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;在C语言中，未定义的宏默认值为0。&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; CONFIG_CHARGE_OUT_SHUTDOWN != 0&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;CONFIG_CHARGE_OUT_SHUTDOWN is not equal to zero.\n&amp;quot;&lt;/span&gt;);&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt;&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;CONFIG_CHARGE_OUT_SHUTDOWN is not defined or equal to zero.\n&amp;quot;&lt;/span&gt;);&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;endif&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 在上述代码中，由于 `CONFIG_CHARGE_OUT_SHUTDOWN` 没有被定义，`#if` 指令的条件不成立，所以第一个 `printf` 语句不会被编译。相反，由于存在 `#else` 部分，第二个 `printf` 语句会被编译并执行，输出 &amp;quot;CONFIG_CHARGE_OUT_SHUTDOWN is not defined or equal to zero.&amp;quot;。&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;宏展开的顺序&#34;&gt;&lt;a href=&#34;#宏展开的顺序&#34; class=&#34;headerlink&#34; title=&#34;宏展开的顺序&#34;&gt;&lt;/a&gt;宏展开的顺序&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;带#和带##的运算符不需要进行参数的展开！！除了带#和##运算符的参数之外，其它参数在替换之前要对实参本身做充分的展开，所以应该先把sub_z展开成26再替换到alt[x]中x的位置。&lt;/p&gt;
   &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; sh(x) printf(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;n&amp;quot;&lt;/span&gt; #x &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;=%d, or %d\n&amp;quot;&lt;/span&gt;,n##x,alt[x])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; sub_z 26&lt;/span&gt;&lt;br&gt;&lt;br&gt;sh(sub_z)&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//展开成了printf(&amp;quot;n&amp;quot; &amp;quot;sub_z&amp;quot; &amp;quot;=%d, or %d\n&amp;quot;,nsub_z,alt[26])&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
@@ -1118,7 +1812,8 @@
 
 
 
-&lt;h2 id=&#34;内存分配相关&#34;&gt;&lt;a href=&#34;#内存分配相关&#34; class=&#34;headerlink&#34; title=&#34;内存分配相关&#34;&gt;&lt;/a&gt;内存分配相关&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/806053-20170722131756261-1095755633.png&#34; alt=&#34;806053-20170722131756261-1095755633&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;内存分配相关&#34;&gt;&lt;a href=&#34;#内存分配相关&#34; class=&#34;headerlink&#34; title=&#34;内存分配相关&#34;&gt;&lt;/a&gt;内存分配相关&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/215103893_2_20210208091156224-16901904300991.png&#34; alt=&#34;Stm32RAM布局&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2018/ef667962/806053-20170722131756261-1095755633.png&#34; alt=&#34;806053-20170722131756261-1095755633&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;code-代码区&#34;&gt;&lt;a href=&#34;#code-代码区&#34; class=&#34;headerlink&#34; title=&#34;.code 代码区&#34;&gt;&lt;/a&gt;.code 代码区&lt;/h3&gt;&lt;p&gt;代码段（code segment&amp;#x2F;text segment ）通常是指用来存放程序执行代码的一块内存区域。这部分区域的大小在程序运行前就已经确定，并且内存区域通常属于只读, 某些架构也允许代码段为可写，即允许修改程序。在代码段中，也有可能包含一些只读的常数变量，例如字符串常量等。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;  STM32 在上电启动之后默认从 Flash 启动, 在STM32里面Code部分不会被搬运到RAM内&lt;/p&gt;
@@ -1130,7 +1825,7 @@
 &lt;h2 id=&#34;new-delete-malloc-free&#34;&gt;&lt;a href=&#34;#new-delete-malloc-free&#34; class=&#34;headerlink&#34; title=&#34;new delete malloc free&#34;&gt;&lt;/a&gt;new delete malloc free&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;  free两次有时可能是极其严重的安全漏洞，将一个指针释放两次是非常危险的行为，它可能造成任意代码执行。 &lt;a href=&#34;https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/&#34;&gt;参考&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&#34;new-x2F-delete&#34;&gt;&lt;a href=&#34;#new-x2F-delete&#34; class=&#34;headerlink&#34; title=&#34;new &amp;#x2F; delete&#34;&gt;&lt;/a&gt;new &amp;#x2F; delete&lt;/h3&gt;&lt;ul&gt;
+&lt;h3 id=&#34;new-delete&#34;&gt;&lt;a href=&#34;#new-delete&#34; class=&#34;headerlink&#34; title=&#34;new &amp;#x2F; delete&#34;&gt;&lt;/a&gt;new &amp;#x2F; delete&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Allocate &amp;#x2F; release memory 分配&amp;#x2F;释放&lt;ol&gt;
 &lt;li&gt;Memory allocated from ‘Free Store’.   这个FreeStore和Heap不一定一样 似乎取决于它的具体实现方式&lt;/li&gt;
 &lt;li&gt;Returns a fully typed pointer.&lt;/li&gt;
@@ -1145,7 +1840,7 @@
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;malloc-x2F-free&#34;&gt;&lt;a href=&#34;#malloc-x2F-free&#34; class=&#34;headerlink&#34; title=&#34;malloc &amp;#x2F; free&#34;&gt;&lt;/a&gt;malloc &amp;#x2F; free&lt;/h3&gt;&lt;ul&gt;
+&lt;h3 id=&#34;malloc-free&#34;&gt;&lt;a href=&#34;#malloc-free&#34; class=&#34;headerlink&#34; title=&#34;malloc &amp;#x2F; free&#34;&gt;&lt;/a&gt;malloc &amp;#x2F; free&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Allocate &amp;#x2F; release memory&lt;ol&gt;
 &lt;li&gt;Memory allocated from ‘Heap’.&lt;/li&gt;
 &lt;li&gt;Returns a &lt;code&gt;void*&lt;/code&gt;.&lt;/li&gt;
@@ -1263,9 +1958,7 @@
 
 &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;* data;&lt;br&gt;	&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;   length;&lt;br&gt;&amp;#125; Array;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;foo&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(Array* arr)&lt;/span&gt; &amp;#123; &amp;#125;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 曾经的写法&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;   data[]  = &amp;#123; &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; &amp;#125;;&lt;br&gt;Array arr [&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;] = &amp;#123;data, &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&amp;#125;;&lt;br&gt;foo(arr);&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 现在的写法&lt;/span&gt;&lt;br&gt;foo( (Array[]) &amp;#123; (&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt;[]) &amp;#123; &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; &amp;#125;, &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; &amp;#125; );&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-
-
-&lt;h1 id=&#34;STM32相关&#34;&gt;&lt;a href=&#34;#STM32相关&#34; class=&#34;headerlink&#34; title=&#34;STM32相关&#34;&gt;&lt;/a&gt;STM32相关&lt;/h1&gt;&lt;h2 id=&#34;ADC-与-通道映射关系&#34;&gt;&lt;a href=&#34;#ADC-与-通道映射关系&#34; class=&#34;headerlink&#34; title=&#34;ADC 与 通道映射关系&#34;&gt;&lt;/a&gt;ADC 与 通道映射关系&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/ADC%E9%80%9A%E9%81%93%E4%B8%8E%E5%BC%95%E8%84%9A%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB.png&#34; alt=&#34;ADC通道与引脚对应关系&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;内建函数&#34;&gt;&lt;a href=&#34;#内建函数&#34; class=&#34;headerlink&#34; title=&#34;内建函数&#34;&gt;&lt;/a&gt;内建函数&lt;/h2&gt;&lt;h1 id=&#34;STM32相关&#34;&gt;&lt;a href=&#34;#STM32相关&#34; class=&#34;headerlink&#34; title=&#34;STM32相关&#34;&gt;&lt;/a&gt;STM32相关&lt;/h1&gt;&lt;h2 id=&#34;ADC-与-通道映射关系&#34;&gt;&lt;a href=&#34;#ADC-与-通道映射关系&#34; class=&#34;headerlink&#34; title=&#34;ADC 与 通道映射关系&#34;&gt;&lt;/a&gt;ADC 与 通道映射关系&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/ADC%E9%80%9A%E9%81%93%E4%B8%8E%E5%BC%95%E8%84%9A%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB.png&#34; alt=&#34;ADC通道与引脚对应关系&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;Printf第一个字符丢失&#34;&gt;&lt;a href=&#34;#Printf第一个字符丢失&#34; class=&#34;headerlink&#34; title=&#34;Printf第一个字符丢失&#34;&gt;&lt;/a&gt;Printf第一个字符丢失&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;将发送放在等待标志位后面即可解决问题&lt;/li&gt;
 &lt;/ul&gt;
@@ -1405,38 +2098,236 @@
 &lt;li&gt;系统开销：在创建和撤销进程的时候，系统都要分配和回收资源，导致系统的明显大于创建和撤销线程时的开销。但进程有独立的地址空间，进程崩溃后，在保护模式的下不会对其他进程造成影响，而线程只是进程中的不同执行路径。线程有自己的堆栈和局部变量，但线程之间没有独立的地址空间，一个线程死后就等于整个进程死掉，所以多进程程序要比多线程程序健壮，但是在进程切换的时候消耗的资源较大，效率差。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;多线程执行效率高; 多进程耗资源，安全。&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;互斥量和信号量的区别&#34;&gt;&lt;a href=&#34;#互斥量和信号量的区别&#34; class=&#34;headerlink&#34; title=&#34;互斥量和信号量的区别&#34;&gt;&lt;/a&gt;&lt;strong&gt;互斥量和信号量的区别&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1. 互斥量用于线程的互斥，信号量用于线程的同步。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;互斥量和信号量的区别&#34;&gt;&lt;a href=&#34;#互斥量和信号量的区别&#34; class=&#34;headerlink&#34; title=&#34;互斥量和信号量的区别&#34;&gt;&lt;/a&gt;互斥量和信号量的区别&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1. 互斥量用于线程的互斥，信号量用于线程的同步。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这是互斥量和信号量的根本区别，也就是互斥和同步之间的区别。&lt;/p&gt;
 &lt;p&gt;互斥：是指某一资源同时只允许一个访问者对其进行访问，具有唯一性和排它性。但互斥无法限制访问者对资源的访问顺序，即访问是无序的。&lt;/p&gt;
 &lt;p&gt;同步：是指在互斥的基础上（大多数情况），通过其它机制实现访问者对资源的有序访问。在大多数情况下，同步已经实现了互斥，特别是所有写入资源的情况必定是互斥的。少数情况是指可以允许多个访问者同时访问资源&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. 互斥量值只能为0&amp;#x2F;1，信号量值可以为非负整数。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;也就是说，一个互斥量只能用于一个资源的互斥访问，它不能实现多个资源的多线程互斥问题。信号量可以实现多个同类资源的多线程互斥和同步。当信号量为单值信号量是，也可以完成一个资源的互斥访问。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;3. 互斥量的加锁和解锁必须由同一线程分别对应使用，信号量可以由一个线程释放，另一个线程得到。&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&#34;外设&#34;&gt;&lt;a href=&#34;#外设&#34; class=&#34;headerlink&#34; title=&#34;外设&#34;&gt;&lt;/a&gt;外设&lt;/h1&gt;&lt;h2 id=&#34;IIC&#34;&gt;&lt;a href=&#34;#IIC&#34; class=&#34;headerlink&#34; title=&#34;IIC&#34;&gt;&lt;/a&gt;IIC&lt;/h2&gt;&lt;p&gt;IIC从机地址有7位、8位、10位不同的模式，一般来说7位比较常见。&lt;/p&gt;
+&lt;h1 id=&#34;外设&#34;&gt;&lt;a href=&#34;#外设&#34; class=&#34;headerlink&#34; title=&#34;外设&#34;&gt;&lt;/a&gt;外设&lt;/h1&gt;&lt;h2 id=&#34;I2C&#34;&gt;&lt;a href=&#34;#I2C&#34; class=&#34;headerlink&#34; title=&#34;I2C&#34;&gt;&lt;/a&gt;I2C&lt;/h2&gt;&lt;p&gt;I2C，也称为 &lt;strong&gt;I2C&lt;/strong&gt; 或 &lt;strong&gt;IIC&lt;/strong&gt;，是飞利浦半导体于 1982 年发明的&lt;strong&gt;同步&lt;/strong&gt;、&lt;strong&gt;多主&amp;#x2F;多从&lt;/strong&gt;（控制器&amp;#x2F;目标）、&lt;strong&gt;分组交换&lt;/strong&gt;、&lt;strong&gt;单端&lt;/strong&gt;串行&lt;strong&gt;通信&lt;/strong&gt;总线。&lt;/p&gt;
+&lt;p&gt;I2C仅使用两条双向&lt;a href=&#34;https://en.wikipedia.org/wiki/Open-collector&#34;&gt;集电极开&lt;/a&gt;路或&lt;a href=&#34;https://en.wikipedia.org/wiki/Open-drain&#34;&gt;漏极开&lt;/a&gt;路线路：串行数据线（SDA）和串行时钟线（SCL），由&lt;a href=&#34;https://en.wikipedia.org/wiki/Resistor&#34;&gt;电阻&lt;/a&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pull-up_resistor&#34;&gt;上拉&lt;/a&gt;。使用的典型电压为+5 V或+3.3 V，但允许使用其他电压的系统。&lt;/p&gt;
+&lt;p&gt;I2C从机地址有7位、8位、10位不同的地址空间，一般来说7位比较常见。&lt;/p&gt;
 &lt;p&gt;I²C的参考设计使用一个7比特长度的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BD%8D%E5%9D%80%E7%A9%BA%E9%96%93&#34;&gt;地址空间&lt;/a&gt;但保留了16个地址，所以在一组总线最多可和112个节点通信[&lt;a href=&#34;https://zh.wikipedia.org/zh-cn/I%C2%B2C#cite_note-3&#34;&gt;a]&lt;/a&gt;。在7位寻址过程中，从机地址在启动信号后的第一个字节开始传输，该字节的前7位为从机地址，第8位为读写位，其中0表示写，1表示读。&lt;/p&gt;
 &lt;p&gt;虽然最大的节点数目是被地址空间所限制住，但实际上也会被总线上的总&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AE%B9&#34;&gt;电容&lt;/a&gt;所限制住，一般而言为400 pF。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2018/ef667962/I2C_data_transfer.svg&#34; alt=&#34;Data transfer sequence&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;  参考上面的图像我们可以看到，&lt;/p&gt;
-&lt;p&gt;  START：在SCL信号为H的时候，SDA由H变L是START信号。&lt;/p&gt;
-&lt;p&gt;  DATA TRANSMISSION：在数据传输阶段，SCL为H阶段，SDA的电平不允许变化。&lt;/p&gt;
-&lt;p&gt;  STOP：在SCL信号为H的时候，SDA由L变H是STOP信号。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;参考上面的图像我们可以看到，&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  START：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在SCL信号为 &lt;strong&gt;高&lt;/strong&gt; 的时候，SDA由 &lt;strong&gt;高&lt;/strong&gt; 变 &lt;strong&gt;低&lt;/strong&gt; 是START信号。&lt;/li&gt;
+&lt;li&gt;（助记，SCL的高电平状态下SDA不允许变化，除非是start信号或者stop信号。空闲状态SCL和SDA都是高电平，start和stop都是由SDA产生的信号）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;  DATA TRANSMISSION：在数据传输阶段，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;蓝色阶段：SCL被拉低，此时SDA变成特定电平。&lt;/li&gt;
+&lt;li&gt;绿色阶段：SCL被拉 &lt;strong&gt;高&lt;/strong&gt; (图中B1)，SDA的电平不允许变化。&lt;em&gt;数据在SCL的 &lt;strong&gt;上升沿&lt;/strong&gt; 进行采样。&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;  STOP：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在SCL信号为H的时候，SDA由L变H是STOP信号。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;通信速率&#34;&gt;&lt;a href=&#34;#通信速率&#34; class=&#34;headerlink&#34; title=&#34;通信速率&#34;&gt;&lt;/a&gt;通信速率&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;双向通信速度（模式）：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;允许任意低的时钟频率&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;10 kbit&amp;#x2F;s：低速模式&lt;/p&gt;
 &lt;p&gt;100 kbit&amp;#x2F;s：标准模式，Standard-mode (Sm)；&lt;/p&gt;
 &lt;p&gt;400 kbit&amp;#x2F;s：快速模式，Fast-mode (Fm)；&lt;/p&gt;
 &lt;p&gt;1 Mbit&amp;#x2F;s：快速模式+，Fast-mode Plus (Fm+)；&lt;/p&gt;
 &lt;p&gt;3.4Mbit&amp;#x2F;s：高速模式，High-speed mode (Hs-mode)；&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;单向通信速度（模式）：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;5 Mbit&amp;#x2F;s：超快模式，UItra Fast-mode (UFm)。&lt;/p&gt;
-&lt;h2 id=&#34;SPI&#34;&gt;&lt;a href=&#34;#SPI&#34; class=&#34;headerlink&#34; title=&#34;SPI&#34;&gt;&lt;/a&gt;SPI&lt;/h2&gt;&lt;p&gt;CKPOL (Clock Polarity) &amp;#x3D; CPOL &amp;#x3D; POL &amp;#x3D; Polarity &amp;#x3D; （时钟）极性&lt;br&gt;CKPHA (Clock Phase)  &amp;#x3D; CPHA &amp;#x3D; PHA &amp;#x3D; Phase &amp;#x3D; （时钟）相位&lt;/p&gt;
-&lt;h3 id=&#34;CPOL极性&#34;&gt;&lt;a href=&#34;#CPOL极性&#34; class=&#34;headerlink&#34; title=&#34;CPOL极性&#34;&gt;&lt;/a&gt;CPOL极性&lt;/h3&gt;&lt;p&gt;先说什么是SCLK时钟的空闲时刻，其就是当SCLK在发送8个bit比特数据之前和之后的状态，于此对应的，SCLK在发送数据的时候，就是正常的工作的时候，有效active的时刻了。其英文精简解释为：Clock Polarity &amp;#x3D; IDLE state of SCK。&lt;/p&gt;
-&lt;p&gt;SPI的CPOL，&lt;span style=&#34;color:#29b6f6&#34;&gt;&lt;strong&gt;表示当SCLK空闲idle的时候，其电平的值是低电平0还是高电平1&lt;/strong&gt;&lt;/span&gt;：&lt;br&gt;CPOL&amp;#x3D;0，时钟空闲idle时候的电平是低电平，所以当SCLK有效的时候，就是高电平，就是所谓的active-high；&lt;br&gt;CPOL&amp;#x3D;1，时钟空闲idle时候的电平是高电平，所以当SCLK有效的时候，就是低电平，就是所谓的active-low；&lt;br&gt;&lt;img src=&#34;/2018/ef667962/231416549884871.gif&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
-&lt;p&gt;从上图中可以看出，(CPOL&amp;#x3D;0)的SCK 波形，它有（传输）8 个脉冲，而在脉冲传输前和完成后都保持在【低电平状态】。&lt;br&gt;此时的状态就是时钟的空闲状态或无效状态，因为此时没有脉冲，也就不会有数据传输。同理得出，（CPOL&amp;#x3D;）1 的图，时钟的空闲状态或无效状态时SCK 是保持【高电平的】。&lt;/p&gt;
-&lt;h3 id=&#34;CPHA相位&#34;&gt;&lt;a href=&#34;#CPHA相位&#34; class=&#34;headerlink&#34; title=&#34;CPHA相位&#34;&gt;&lt;/a&gt;CPHA相位&lt;/h3&gt;&lt;p&gt;首先说明一点，capture strobe &amp;#x3D; latch &amp;#x3D; read &amp;#x3D; sample，都是表示数据采样，数据有效的时刻。&lt;br&gt;相位，对应着数据采样是在第几个边沿（edge），是第一个边沿还是第二个边沿，0对应着第一个边沿，1对应着第二个边沿。对于：&lt;/p&gt;
-&lt;p&gt;CPHA&amp;#x3D;0，表示第一个边沿：&lt;br&gt;对于CPOL&amp;#x3D;0，idle时候的是低电平，第一个边沿就是从低变到高，所以是上升沿；&lt;br&gt;对于CPOL&amp;#x3D;1，idle时候的是高电平，第一个边沿就是从高变到低，所以是下降沿；&lt;/p&gt;
-&lt;p&gt;CPHA&amp;#x3D;1，表示第二个边沿：&lt;br&gt;对于CPOL&amp;#x3D;0，idle时候的是低电平，第二个边沿就是从高变到低，所以是下降沿；&lt;br&gt;对于CPOL&amp;#x3D;1，idle时候的是高电平，第一个边沿就是从低变到高，所以是上升沿；&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;color:#29b6f6&#34;&gt;&lt;strong&gt;数据是在SCK的第一个时钟边沿保持稳定【数据被采样捕获】，在下一个边沿改变【SCK 的下降沿数据改变】&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;SPI&#34;&gt;&lt;a href=&#34;#SPI&#34; class=&#34;headerlink&#34; title=&#34;SPI&#34;&gt;&lt;/a&gt;SPI&lt;/h2&gt;&lt;p&gt;串行外设接口（SPI）是一种&lt;strong&gt;同步串行&lt;/strong&gt;通信规范，主要用于嵌入式系统，用于芯片（电子设备）之间的短距离有线通信。摩托罗拉在 1980 年代中期开发了该规范，该规范已成为具有许多变体的事实标准。&lt;/p&gt;
+&lt;p&gt;SPI有四个逻辑信号&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SCLK : Serial Clock (clock signal from main)&lt;/li&gt;
+&lt;li&gt;MOSI : Main Out Sub In (data output from main)&lt;/li&gt;
+&lt;li&gt;MISO : Main In Sub Out (data output from sub)&lt;/li&gt;
+&lt;li&gt;CS : Chip Select (&lt;strong&gt;active low signal&lt;/strong&gt; from main to address devices and initiate transmission　从主设备到寻址设备并启动传输的低电平有效信号)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;一对一SPI&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  &lt;img src=&#34;/2018/ef667962/SPI_basic_operation,_single_Main_&amp;_Sub.svg.png&#34; alt=&#34;SPI_basic_operation,_single_Main_&amp;amp;_Sub.svg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;  使用单个主器件和单个子器件的基本 SPI 配置。每个器件在内部使用&lt;a href=&#34;https://en.wikipedia.org/wiki/Shift_register&#34;&gt;移位寄存&lt;/a&gt;器进行串行通信，它们共同构成一个片间&lt;a href=&#34;https://en.wikipedia.org/wiki/Circular_buffer&#34;&gt;循环缓冲器&lt;/a&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;多点SPI&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  Multidrop SPI bus (多点SPI总线)&lt;/p&gt;
+&lt;p&gt;  &lt;img src=&#34;/2018/ef667962/SPI_main_sub_multidrop.svg.png&#34; alt=&#34;SPI_main_sub_multidrop.svg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;  Daisy-chained SPI (菊花链式 SPI)&lt;/p&gt;
+&lt;p&gt;  &lt;img src=&#34;/2018/ef667962/SPI_main_sub_daisychain.svg.png&#34; alt=&#34;SPI_main_sub_daisychain.svg&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;优缺点&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  　&lt;strong&gt;优势&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;此协议默认全双工通信&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Push-pull_output&#34;&gt;推挽式驱动器&lt;/a&gt;（与漏极开路相反）提供良好的信号完整性和高速度&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Throughput&#34;&gt;吞吐量高于&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/I%C2%B2C&#34;&gt;I²C&lt;/a&gt; 或 &lt;a href=&#34;https://en.wikipedia.org/wiki/System_Management_Bus&#34;&gt;SMBus&lt;/a&gt;。不限于任何最大时钟速度，可实现高速运行&lt;/li&gt;
+&lt;li&gt;传输位的完全协议灵活性&lt;ul&gt;
+&lt;li&gt;不限于 8 位符号&lt;/li&gt;
+&lt;li&gt;任意选择消息大小、内容和用途&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;极其简单的硬件接口&lt;ul&gt;
+&lt;li&gt;由于电路（包括上拉电阻）较少，因此功耗通常低于&lt;a href=&#34;https://en.wikipedia.org/wiki/I%C2%B2C&#34;&gt;I²C&lt;/a&gt;或SMBus&lt;/li&gt;
+&lt;li&gt;无仲裁或相关故障模式 - 与 &lt;a href=&#34;https://en.wikipedia.org/wiki/CAN-bus&#34;&gt;CAN 总线&lt;/a&gt;不同&lt;/li&gt;
+&lt;li&gt;从机使用主时钟，不需要精密振荡器&lt;/li&gt;
+&lt;li&gt;从机不需要唯一的&lt;a href=&#34;https://en.wikipedia.org/wiki/Address_space&#34;&gt;地址&lt;/a&gt; – 与 &lt;a href=&#34;https://en.wikipedia.org/wiki/I%C2%B2C&#34;&gt;I²C&lt;/a&gt; 或 &lt;a href=&#34;https://en.wikipedia.org/wiki/GPIB&#34;&gt;GPIB&lt;/a&gt; 或 &lt;a href=&#34;https://en.wikipedia.org/wiki/SCSI&#34;&gt;SCSI&lt;/a&gt; 不同&lt;/li&gt;
+&lt;li&gt;不需要收发器 - 与 &lt;a href=&#34;https://en.wikipedia.org/wiki/CAN-bus&#34;&gt;CAN 总线&lt;/a&gt;不同&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;IC封装上仅使用4个引脚，比并行接口少得多&lt;/li&gt;
+&lt;li&gt;每个器件最多一独特信号（芯片选择）;所有其他信号是共享的&lt;/li&gt;
+&lt;li&gt;信号是单向的，便于&lt;a href=&#34;https://en.wikipedia.org/wiki/Galvanic_isolation&#34;&gt;电气隔离&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;简单的软件实施&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;  &lt;strong&gt;缺点&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;即使是三线式SPI，也需要比&lt;a href=&#34;https://zh.wikipedia.org/wiki/I%C2%B2C&#34;&gt;I²C&lt;/a&gt;更多的IC线路&lt;/li&gt;
+&lt;li&gt;无带内寻址;共享总线上需要带外芯片选择信号&lt;/li&gt;
+&lt;li&gt;子没有硬件&lt;a href=&#34;https://en.wikipedia.org/wiki/Flow_control_(data)&#34;&gt;流控制&lt;/a&gt;（但主可以延迟下一个时钟边沿以降低传输速率）&lt;/li&gt;
+&lt;li&gt;不支持动态添加节点（热插拔）&lt;ul&gt;
+&lt;li&gt;没有从机检测机制，主机无法检测是否与从机断开。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;通常仅支持一个主设备（取决于设备的硬件实现）&lt;/li&gt;
+&lt;li&gt;未定义错误检查协议&lt;/li&gt;
+&lt;li&gt;无法进行数据检验，不定义额外的协议时（如CRC）无法保证数据正确性。&lt;/li&gt;
+&lt;li&gt;与&lt;a href=&#34;https://en.wikipedia.org/wiki/RS-232&#34;&gt;RS-232&lt;/a&gt;、&lt;a href=&#34;https://en.wikipedia.org/wiki/RS-485&#34;&gt;RS-485&lt;/a&gt;或&lt;a href=&#34;https://en.wikipedia.org/wiki/CAN-bus&#34;&gt;CAN总线&lt;/a&gt;相比，只能处理短距离。（通过使用&lt;a href=&#34;https://en.wikipedia.org/wiki/RS-422&#34;&gt;RS-422&lt;/a&gt;等收发器可以延长其距离。&lt;/li&gt;
+&lt;li&gt;信号路径中的光隔离器限制了MISO传输的时钟速度，因为时钟和数据之间增加了延迟&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;双通道 SPI(Dual SPI)&lt;strong&gt;、&lt;/strong&gt;四通道 SPI(Quad SPI)&lt;/strong&gt; 和&lt;strong&gt;三线串行总线&lt;/strong&gt;等一些变体是半双工的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  CKPOL (Clock Polarity) &amp;#x3D; CPOL &amp;#x3D; POL &amp;#x3D; Polarity &amp;#x3D; （时钟）极性&lt;br&gt;  CKPHA (Clock Phase)  &amp;#x3D; CPHA &amp;#x3D; PHA &amp;#x3D; Phase &amp;#x3D; （时钟）相位&lt;/p&gt;
+&lt;h3 id=&#34;CPOL极性&#34;&gt;&lt;a href=&#34;#CPOL极性&#34; class=&#34;headerlink&#34; title=&#34;CPOL极性&#34;&gt;&lt;/a&gt;CPOL极性&lt;/h3&gt;&lt;p&gt;  先说什么是SCLK时钟的空闲时刻，其就是当SCLK在发送8个bit比特数据之前和之后的状态，于此对应的，SCLK在发送数据的时候，就是正常的工作的时候，有效active的时刻了。其英文精简解释为：Clock Polarity &amp;#x3D; IDLE state of SCK。&lt;/p&gt;
+&lt;p&gt;  SPI的CPOL，&lt;span style=&#34;color:#29b6f6&#34;&gt;&lt;strong&gt;表示当SCLK空闲idle的时候，其电平的值是低电平0还是高电平1&lt;/strong&gt;&lt;/span&gt;：&lt;br&gt;  CPOL&amp;#x3D;0，时钟空闲idle时候的电平是低电平，所以当SCLK有效的时候，就是高电平，就是所谓的active-high；&lt;br&gt;  CPOL&amp;#x3D;1，时钟空闲idle时候的电平是高电平，所以当SCLK有效的时候，就是低电平，就是所谓的active-low；&lt;br&gt;  &lt;img src=&#34;/2018/ef667962/231416549884871.gif&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;  从上图中可以看出，(CPOL&amp;#x3D;0)的SCK 波形，它有（传输）8 个脉冲，而在脉冲传输前和完成后都保持在【低电平状态】。&lt;br&gt;  此时的状态就是时钟的空闲状态或无效状态，因为此时没有脉冲，也就不会有数据传输。同理得出，（CPOL&amp;#x3D;）1 的图，时钟的空闲状态或无效状态时SCK 是保持【高电平的】。&lt;/p&gt;
+&lt;h3 id=&#34;CPHA相位&#34;&gt;&lt;a href=&#34;#CPHA相位&#34; class=&#34;headerlink&#34; title=&#34;CPHA相位&#34;&gt;&lt;/a&gt;CPHA相位&lt;/h3&gt;&lt;p&gt;  首先说明一点，capture strobe &amp;#x3D; latch &amp;#x3D; read &amp;#x3D; sample，都是表示数据采样，数据有效的时刻。&lt;br&gt;  相位，对应着数据采样是在第几个边沿（edge），是第一个边沿还是第二个边沿，0对应着第一个边沿，1对应着第二个边沿。对于：&lt;/p&gt;
+&lt;p&gt;  CPHA&amp;#x3D;0，表示第一个边沿：&lt;br&gt;  对于CPOL&amp;#x3D;0，idle时候的是低电平，第一个边沿就是从低变到高，所以是上升沿；&lt;br&gt;  对于CPOL&amp;#x3D;1，idle时候的是高电平，第一个边沿就是从高变到低，所以是下降沿；&lt;/p&gt;
+&lt;p&gt;  CPHA&amp;#x3D;1，表示第二个边沿：&lt;br&gt;  对于CPOL&amp;#x3D;0，idle时候的是低电平，第二个边沿就是从高变到低，所以是下降沿；&lt;br&gt;  对于CPOL&amp;#x3D;1，idle时候的是高电平，第一个边沿就是从低变到高，所以是上升沿；&lt;/p&gt;
+&lt;p&gt;  &lt;span style=&#34;color:#29b6f6&#34;&gt;&lt;strong&gt;数据是在SCK的第一个时钟边沿保持稳定【数据被采样捕获】，在下一个边沿改变【SCK 的下降沿数据改变】&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;SPI mode&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Clock polarity (CPOL) 极性&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Clock phase (CPHA) 相位&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Data is shifted out on&lt;br&gt;数据移出&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Data is sampled on&lt;br&gt;数据采样&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;falling SCLK, and when CS activates&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;rising SCLK&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;rising SCLK, and when CS activates&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;falling SCLK&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;falling SCLK&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;rising SCLK&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;rising SCLK&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;falling SCLK&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;SPI-变种-SingleSPI-DualSPI-QuadSPI-OctoSPI&#34;&gt;&lt;a href=&#34;#SPI-变种-SingleSPI-DualSPI-QuadSPI-OctoSPI&#34; class=&#34;headerlink&#34; title=&#34;SPI 变种 SingleSPI DualSPI QuadSPI OctoSPI&#34;&gt;&lt;/a&gt;SPI 变种 SingleSPI DualSPI QuadSPI OctoSPI&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Single SPI&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  SPI 适用于大多数用例，例如快速原型设计、设备编程和自动化测试。SPI 速度很快，大多数Single SPI串行吞吐率达到 10 Mbps 左右。然而，单条数据线将无法以SPI最快的速度发送数据。 多 I&amp;#x2F;O SPI能够支持单个设备增加吞吐量。&lt;/p&gt;
+&lt;p&gt;  SPI 本身是全双工的。&lt;strong&gt;Dual SPI Quad SPI都是半双工&lt;/strong&gt;，因为使用 2-4 个引脚来发送和接收。&lt;strong&gt;切换到双 SPI 或四 SPI 是通过在单 SPI 模式下发送命令字节来完成的&lt;/strong&gt;。命令字节将在Dual SPI或Quad SPI下请求响应。 &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Dual SPI&lt;/strong&gt; &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;   Dual SPI 具有双 I&amp;#x2F;O 接口，与标准串行闪存设备相比，传输速率提高了一倍。MISO 和 MOSI 数据引脚以&lt;strong&gt;半双工&lt;/strong&gt;模式运行，每个时钟周期发送两位。MOSI 线变为 IO0，MISO 线变为 IO1。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Quad SPI&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  Quad SPI 与 Dual SPI 类似，以&lt;strong&gt;半双工&lt;/strong&gt;模式运行，但吞吐量提高了四倍。添加了两条额外的数据线，每个时钟周期传输 4 位。数据线现在为 IO0、IO1、IO2 和 IO3。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Octo SPI&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  与 Dual SPI 类似，以&lt;strong&gt;半双工&lt;/strong&gt;模式运行，但吞吐量提高了八倍。每个时钟周期传输 8 位。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;Camera&#34;&gt;&lt;a href=&#34;#Camera&#34; class=&#34;headerlink&#34; title=&#34;Camera&#34;&gt;&lt;/a&gt;Camera&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  VGA，即分辨率为 640 * 480 的输出模式；&lt;br&gt;  QVGA，即分辨率为 320 * 240 的输出模式；&lt;br&gt;  QQVGA，即分辨率为 160 * 120 的输出模式&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;SCCB&#34;&gt;&lt;a href=&#34;#SCCB&#34; class=&#34;headerlink&#34; title=&#34;SCCB&#34;&gt;&lt;/a&gt;SCCB&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;  SCCB 全称是：Serial Camera Control Bus 即串行摄像头控制总线，是由 OV（OmniVision 的简称）公司定义和发展的三线式串行总线。不过，OV 公司为了减少传感器引脚的封装，现在SCCB 总线大多采用两线式接口总线。&lt;/p&gt;
+&lt;p&gt;  SCCB 与 I2C极其相似。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;SD卡&#34;&gt;&lt;a href=&#34;#SD卡&#34; class=&#34;headerlink&#34; title=&#34;SD卡&#34;&gt;&lt;/a&gt;SD卡&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SD_card&#34;&gt;WIki&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  SD 卡主要有 SD、Mini SD 和 microSD(原名 TF 卡，2004 年正式更名为 Micro SD Card)&lt;/p&gt;
+&lt;p&gt;  Mini SD 已经被 microSD 取代，使用得不多。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;/2018/ef667962/image-20231017181152917.png&#34; alt=&#34;image-20231017181152917&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;容量&#34;&gt;&lt;a href=&#34;#容量&#34; class=&#34;headerlink&#34; title=&#34;容量&#34;&gt;&lt;/a&gt;容量&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/image-20231017175051870.png&#34; alt=&#34;image-20231017175051870&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;速度&#34;&gt;&lt;a href=&#34;#速度&#34; class=&#34;headerlink&#34; title=&#34;速度&#34;&gt;&lt;/a&gt;速度&lt;/h3&gt;&lt;h4 id=&#34;Bus-speed&#34;&gt;&lt;a href=&#34;#Bus-speed&#34; class=&#34;headerlink&#34; title=&#34;Bus speed&#34;&gt;&lt;/a&gt;Bus speed&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/image-20231017175127898.png&#34; alt=&#34;image-20231017175127898&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;Video-Speed-Class&#34;&gt;&lt;a href=&#34;#Video-Speed-Class&#34; class=&#34;headerlink&#34; title=&#34;Video Speed Class&#34;&gt;&lt;/a&gt;Video Speed Class&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/image-20231017175323166.png&#34; alt=&#34;image-20231017175323166&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;Application-Performance-Class&#34;&gt;&lt;a href=&#34;#Application-Performance-Class&#34; class=&#34;headerlink&#34; title=&#34;Application Performance Class&#34;&gt;&lt;/a&gt;Application Performance Class&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/image-20231017175505941.png&#34; alt=&#34;image-20231017175505941&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;“×”-Class&#34;&gt;&lt;a href=&#34;#“×”-Class&#34; class=&#34;headerlink&#34; title=&#34;“×” Class&#34;&gt;&lt;/a&gt;“×” Class&lt;/h4&gt;&lt;p&gt;“×” Class是标准CD-ROM驱动器速度 150 &lt;a href=&#34;https://en.wikipedia.org/wiki/KB/s&#34;&gt;KB&amp;#x2F;s &lt;/a&gt;（大约 1.23 &lt;a href=&#34;https://en.wikipedia.org/wiki/Mbit/s&#34;&gt;Mbit&amp;#x2F;s&lt;/a&gt;）的倍数，由一些卡制造商使用，并因速度等级而被废弃。基本卡传输数据的速度高达 CD-ROM 速度的六倍 (6×)；即 900 kbit&amp;#x2F;s 或 7.37 Mbit&amp;#x2F;s。&lt;/p&gt;
+&lt;p&gt;制造商可能会报告&lt;strong&gt;最佳情况的速度&lt;/strong&gt;，也可能会报告卡的&lt;strong&gt;最快读取速度&lt;/strong&gt;，该速度通常比写入速度更快。&lt;/p&gt;
+&lt;p&gt;当卡同时列出 speed class 和 “×” Class时，后者可以被假定为仅读取速度。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2018/ef667962/image-20231017180039726.png&#34; alt=&#34;image-20231017180039726&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;SDIO-接口&#34;&gt;&lt;a href=&#34;#SDIO-接口&#34; class=&#34;headerlink&#34; title=&#34;SDIO 接口&#34;&gt;&lt;/a&gt;SDIO 接口&lt;/h3&gt;&lt;h4 id=&#34;Pin&#34;&gt;&lt;a href=&#34;#Pin&#34; class=&#34;headerlink&#34; title=&#34;Pin&#34;&gt;&lt;/a&gt;Pin&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/image-20231017184426226.png&#34; alt=&#34;image-20231017184426226&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;Reg&#34;&gt;&lt;a href=&#34;#Reg&#34; class=&#34;headerlink&#34; title=&#34;Reg&#34;&gt;&lt;/a&gt;Reg&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;/2018/ef667962/image-20231017184510884.png&#34; alt=&#34;image-20231017184510884&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;Instruction-set-architecture-指令集架构&#34;&gt;&lt;a href=&#34;#Instruction-set-architecture-指令集架构&#34; class=&#34;headerlink&#34; title=&#34;Instruction set architecture 指令集架构&#34;&gt;&lt;/a&gt;Instruction set architecture 指令集架构&lt;/h1&gt;&lt;p&gt;Instruction set architecture(&lt;strong&gt;ISA&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;一般来说，市场上流通的ISA有两种类型。它们是 RISC 和 CISC 架构。RISC 代表精简指令集计算机(Reduced Instruction Set Computer)，而 CISC 代表复杂指令集计算机(Complex Instruction Set Computer)。&lt;/p&gt;
+&lt;p&gt;这两种架构如今都很流行，x86（英特尔和 AMD 处理器）是顶级处理器，而 ARM（高通和联发科处理器）是最流行的 RISC 架构。&lt;/p&gt;
+&lt;p&gt;RISC 架构中使用的&lt;strong&gt;较少指令&lt;/strong&gt;和其他优化技术使这些类型的处理器使用&lt;strong&gt;更少的功耗&lt;/strong&gt;，使其成为智能手机、相机、智能手表和各种物联网设备的理想选择。&lt;/p&gt;
+&lt;h2 id=&#34;RISC-V&#34;&gt;&lt;a href=&#34;#RISC-V&#34; class=&#34;headerlink&#34; title=&#34;RISC-V&#34;&gt;&lt;/a&gt;RISC-V&lt;/h2&gt;&lt;p&gt;RISC-V是一种基于RISC的开放标准ISA，任何人都可以使用它来设计自己的芯片，而无需支付许可费。其开源特性允许对 RISC-V ISA 进行进一步修改和扩展，以制造用于特定任务的专用芯片。&lt;/p&gt;
+&lt;h2 id=&#34;ARM&#34;&gt;&lt;a href=&#34;#ARM&#34; class=&#34;headerlink&#34; title=&#34;ARM&#34;&gt;&lt;/a&gt;ARM&lt;/h2&gt;&lt;p&gt;ARM 是一种基于 RISC 的闭源 ISA，授权给公司使用其处理器和 SoC。&lt;/p&gt;
+&lt;h2 id=&#34;x86&#34;&gt;&lt;a href=&#34;#x86&#34; class=&#34;headerlink&#34; title=&#34;x86&#34;&gt;&lt;/a&gt;x86&lt;/h2&gt;&lt;h1 id=&#34;内建函数-builtin&#34;&gt;&lt;a href=&#34;#内建函数-builtin&#34; class=&#34;headerlink&#34; title=&#34;内建函数 builtin&#34;&gt;&lt;/a&gt;内建函数 builtin&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html&#34;&gt;Other Built-in Functions Provided by GCC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;内建函数的函数命名，通常以 &lt;code&gt;__builtin&lt;/code&gt; 开头。这些函数主要在编译器内部使用，主要是为编译器服务的。&lt;br&gt;GCC 还提供了大量内置函数。其中一些是用于处理异常或可变长度参数列表的内部用途，这里不再赘述，因为它们可能会随时更改；我们不建议广泛使用这些函数。&lt;br&gt;其余函数是为了优化目的而提供的。&lt;/p&gt;
+&lt;h2 id=&#34;builtin-expect&#34;&gt;&lt;a href=&#34;#builtin-expect&#34; class=&#34;headerlink&#34; title=&#34;__builtin_expect&#34;&gt;&lt;/a&gt;&lt;code&gt;__builtin_expect&lt;/code&gt;&lt;/h2&gt;&lt;p&gt;您可以使用&lt;code&gt;__builtin_expect&lt;/code&gt;来为编译器提供分支预测信息。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 表示大部分情况下 ptr 都不等于 NULL&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (__builtin_expect (ptr != &lt;span class=&#34;hljs-literal&#34;&gt;NULL&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;))&lt;br&gt;  foo (*ptr);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;builtin-bswap32-64&#34;&gt;&lt;a href=&#34;#builtin-bswap32-64&#34; class=&#34;headerlink&#34; title=&#34;__builtin_bswap32 64&#34;&gt;&lt;/a&gt;&lt;code&gt;__builtin_bswap32 64&lt;/code&gt;&lt;/h2&gt;&lt;p&gt;— 内置函数：int32_t &lt;strong&gt;__builtin_bswap32&lt;/strong&gt; ( int32_t x )  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;返回按字节顺序反转的 x&lt;code&gt;0xaabbccdd&lt;/code&gt; ；例如，变为&lt;code&gt;0xddccbbaa&lt;/code&gt;。此处的字节始终表示正好 8 位。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;— 内置函数：int64_t &lt;strong&gt;__builtin_bswap64&lt;/strong&gt; ( int64_t x )  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;与 类似&lt;code&gt;__builtin_bswap32&lt;/code&gt;，只是参数和返回类型是 64 位。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;builtin-return-address&#34;&gt;&lt;a href=&#34;#builtin-return-address&#34; class=&#34;headerlink&#34; title=&#34;__builtin_return_address&#34;&gt;&lt;/a&gt;&lt;code&gt;__builtin_return_address&lt;/code&gt;&lt;/h2&gt;&lt;p&gt;获取当前函数调用的返回地址。这个函数通常用于调试和分析程序的调用栈。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 函数原型&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; *__builtin_return_address(&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; level);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;level&lt;/code&gt; 参数是一个无符号整型值，表示调用栈的深度。&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;level&lt;/code&gt; 为 0 时，返回当前函数的返回地址；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;level&lt;/code&gt; 为 1 时，返回调用当前函数的函数的返回地址；&lt;/li&gt;
+&lt;li&gt;以此类推。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;builtin-frame-address&#34;&gt;&lt;a href=&#34;#builtin-frame-address&#34; class=&#34;headerlink&#34; title=&#34;__builtin_frame_address&#34;&gt;&lt;/a&gt;&lt;code&gt;__builtin_frame_address&lt;/code&gt;&lt;/h2&gt;&lt;p&gt;在函数调用过程中，还有一个“栈帧”的概念。函数每调用一次，都会将当前函数的现场（返回地址、寄存器等）保存在栈中，每一层函数调用都会将各自的现场信息都保存在各自的栈中。&lt;br&gt;这个栈也就是当前函数的栈帧，每一个栈帧有起始地址和结束地址，表示当前函数的堆栈信息。多层函数调用就会有多个栈帧，每个栈帧里会保存上一层栈帧的起始地址，这样各个栈帧就形成了一个调用链。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; *__builtin_frame_address(&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; level);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;level&lt;/code&gt; 参数是一个无符号整型值，表示调用栈的深度。&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;level&lt;/code&gt; 为 0 时，返回当前函数的返回地址；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;level&lt;/code&gt; 为 1 时，返回调用当前函数的函数的返回地址；&lt;/li&gt;
+&lt;li&gt;以此类推。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;嵌入式高效位算法&#34;&gt;&lt;a href=&#34;#嵌入式高效位算法&#34; class=&#34;headerlink&#34; title=&#34;嵌入式高效位算法&#34;&gt;&lt;/a&gt;嵌入式高效位算法&lt;/h1&gt;&lt;p&gt;参考资料：&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://aggregate.org/MAGIC/#Bit%20Reversal&#34;&gt;The Aggregate Magic Algorithms&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://graphics.stanford.edu/~seander/bithacks.html&#34;&gt;Bit Twiddling Hacks&lt;/a&gt;&lt;/p&gt;
@@ -1472,9 +2363,8 @@
 &lt;li&gt;&lt;p&gt;原理&lt;/p&gt;
 &lt;p&gt;((x-y)&amp;gt;&amp;gt;(WORDBITS-1)) 相当于取出符号位&lt;/p&gt;
 &lt;p&gt;当x&amp;gt;y时结果是0&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt; 注意！ 当x&amp;lt;y时结果是全1，，比如WORDBITS是8那么这个式子运算结果是0xFF&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;注意！ 负数的移位似乎不太一样（当有符号整数右移时，最左边的位的值被复制到其他位）,（ 不幸的是，这种行为是特定于体系结构的）&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;p style=&#34;color:red&#34;&gt; 注意！ 当x&lt;y时结果是全1，比如WORDBITS是8那么这个式子运算结果是0xFF &lt;/p&gt;
+&lt;p style=&#34;color:red&#34;&gt;注意！ 负数的移位似乎不太一样（当有符号整数右移时，最左边的位的值被复制到其他位）,（ 不幸的是，这种行为是特定于体系结构的）&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;同样的可以利用这一点应用到其他算法中：&lt;a href=&#34;#%E6%95%B4%E6%95%B0%E9%80%89%E6%8B%A9%E8%B5%8B%E5%80%BC&#34;&gt;整数选择赋值&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;整数选择赋值&#34;&gt;&lt;a href=&#34;#整数选择赋值&#34; class=&#34;headerlink&#34; title=&#34;整数选择赋值&#34;&gt;&lt;/a&gt;整数选择赋值&lt;/h2&gt; &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (a&amp;lt;b) x=c; &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt; x=d; 					&lt;span class=&#34;hljs-comment&#34;&gt;//都是整数&lt;/span&gt;&lt;br&gt;&lt;br&gt;x=((((a-b) &amp;gt;&amp;gt; (WORDBITS&lt;span class=&#34;hljs-number&#34;&gt;-1&lt;/span&gt;)) &amp;amp; (c^d)) ^ d) 	&lt;span class=&#34;hljs-comment&#34;&gt;//优化后&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -1517,6 +2407,45 @@
 
 &lt;p&gt;这样最后得到的00000000 00000111即7即34520二进制中1的个数。&lt;/p&gt;
 &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;numbits&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; i)&lt;/span&gt; &amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; MASK1  = &lt;span class=&#34;hljs-number&#34;&gt;0x55555555&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; MASK2  = &lt;span class=&#34;hljs-number&#34;&gt;0x33333333&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; MASK4  = &lt;span class=&#34;hljs-number&#34;&gt;0x0f0f0f0f&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; MASK8  = &lt;span class=&#34;hljs-number&#34;&gt;0x00ff00ff&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; MASK16 = &lt;span class=&#34;hljs-number&#34;&gt;0x0000ffff&lt;/span&gt;;&lt;br&gt;    i = (i&amp;amp;MASK1 ) + (i&amp;gt;&amp;gt;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; &amp;amp;MASK1 );&lt;br&gt;    i = (i&amp;amp;MASK2 ) + (i&amp;gt;&amp;gt;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt; &amp;amp;MASK2 );&lt;br&gt;    i = (i&amp;amp;MASK4 ) + (i&amp;gt;&amp;gt;&lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt; &amp;amp;MASK4 );&lt;br&gt;    i = (i&amp;amp;MASK8 ) + (i&amp;gt;&amp;gt;&lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt; &amp;amp;MASK8 );&lt;br&gt;    i = (i&amp;amp;MASK16) + (i&amp;gt;&amp;gt;&lt;span class=&#34;hljs-number&#34;&gt;16&lt;/span&gt;&amp;amp;MASK16);&lt;br&gt;	&lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; i;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 另外一种实现&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; TWO(c)       	(0x1u &amp;lt;&amp;lt; (c))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; MASK(c)      	(((unsigned int)(-1)) / (TWO(TWO(c)) + 1u))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; COUNT(x,c) 		((x) &amp;amp; MASK(c)) + (((x) &amp;gt;&amp;gt; (TWO(c))) &amp;amp; MASK(c))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;bitcount&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; n)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    n = COUNT(n, &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;) ;&lt;br&gt;    n = COUNT(n, &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;) ;&lt;br&gt;    n = COUNT(n, &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;) ;&lt;br&gt;    n = COUNT(n, &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;) ;&lt;br&gt;    n = COUNT(n, &lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;) ;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;/* n = COUNT(n, 5) ;      for 64-bit integers */&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; n ;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;builtin-ctz&#34;&gt;&lt;a href=&#34;#builtin-ctz&#34; class=&#34;headerlink&#34; title=&#34;__builtin_ctz&#34;&gt;&lt;/a&gt;&lt;code&gt;__builtin_ctz&lt;/code&gt;&lt;/h2&gt;&lt;p&gt;这个函数作用是返回输入数二进制表示从&lt;strong&gt;最低位开始(右起)的连续的0的个数&lt;/strong&gt;；即 尾随 0 的位数&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; __builtin_ctz (&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; x)&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; __builtin_ctzl (&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;long&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; __builtin_ctzll (&lt;span class=&#34;hljs-type&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;long&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;long&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;builtin-clz&#34;&gt;&lt;a href=&#34;#builtin-clz&#34; class=&#34;headerlink&#34; title=&#34;__builtin_clz&#34;&gt;&lt;/a&gt;&lt;code&gt;__builtin_clz&lt;/code&gt;&lt;/h2&gt;&lt;p&gt;这个函数作用是返回输入数二进制表示从&lt;strong&gt;最高位开始(左起)的连续的0的个数&lt;/strong&gt;；即 前导 0 位数&lt;/p&gt;
+&lt;h2 id=&#34;builtin-ffs&#34;&gt;&lt;a href=&#34;#builtin-ffs&#34; class=&#34;headerlink&#34; title=&#34;__builtin_ffs&#34;&gt;&lt;/a&gt;&lt;code&gt;__builtin_ffs&lt;/code&gt;&lt;/h2&gt;&lt;p&gt;这个函数作用是返回输入数二进制表示的&lt;strong&gt;最低非0位的下标&lt;/strong&gt;，下标从1开始计数；如果传入0则返回0。&lt;/p&gt;
+&lt;h2 id=&#34;bulitin-popcount&#34;&gt;&lt;a href=&#34;#bulitin-popcount&#34; class=&#34;headerlink&#34; title=&#34;__bulitin_popcount&#34;&gt;&lt;/a&gt;&lt;code&gt;__bulitin_popcount&lt;/code&gt;&lt;/h2&gt;&lt;p&gt;这个函数作用是返回输入的二进制表示中&lt;strong&gt;1的个数&lt;/strong&gt;；如果传入0则返回 0 。&lt;/p&gt;
+&lt;h2 id=&#34;builtin-parity&#34;&gt;&lt;a href=&#34;#builtin-parity&#34; class=&#34;headerlink&#34; title=&#34;__builtin_parity&#34;&gt;&lt;/a&gt;&lt;code&gt;__builtin_parity&lt;/code&gt;&lt;/h2&gt;&lt;p&gt;这个函数作用是返回输入的二进制表示中&lt;strong&gt;1的个数的奇偶&lt;/strong&gt;,也就是输入的二进制中1的个数对2取模的结果。&lt;/p&gt;
+&lt;h1 id=&#34;性能优化&#34;&gt;&lt;a href=&#34;#性能优化&#34; class=&#34;headerlink&#34; title=&#34;性能优化&#34;&gt;&lt;/a&gt;性能优化&lt;/h1&gt;&lt;h2 id=&#34;Duff’s-device&#34;&gt;&lt;a href=&#34;#Duff’s-device&#34; class=&#34;headerlink&#34; title=&#34;Duff’s device&#34;&gt;&lt;/a&gt;Duff’s device&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  循环展开尝试通过每次迭代执行一批循环体来减少检查循环是否完成所需的条件分支的开销。&lt;/p&gt;
+&lt;p&gt;  为了处理迭代次数不能被展开循环增量整除的情况，汇编语言程序员的常用技术是直接跳转到展开循环体的中间来处理余数。&lt;/p&gt;
+&lt;p&gt;  Duff 在 C 中通过使用 C 的case label drop-through功能跳转到展开的正文中来实现此技术。&lt;/p&gt;
+&lt;p&gt;  Duff’s device 利用了C语言的一些特性：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;case语句后面的break语句不是必须的。&lt;/li&gt;
+&lt;li&gt;在switch语句内，case标号可以出现在任意的子语句之前，甚至运行出现在if、for、while等语句内。(在这个设备发明之前，c语言是初版，switch语句的规范较为宽松)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;  尽管在 C 语言中有效，&lt;strong&gt;但 Duff 的设备违反了常见的 C 准则&lt;/strong&gt;，例如&lt;a href=&#34;https://en.wikipedia.org/wiki/MISRA_C&#34;&gt;MISRA 准则&lt;/a&gt;。某些编译器仅限于此类准则，因此可能会拒绝 Duff 的设备。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;C语言示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;send&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;uint8_t&lt;/span&gt;* to, &lt;span class=&#34;hljs-type&#34;&gt;uint8_t&lt;/span&gt;* from, &lt;span class=&#34;hljs-type&#34;&gt;uint32_t&lt;/span&gt; count)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (count &amp;lt;= &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;) &amp;#123;&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt;;&lt;br&gt;    &amp;#125;&lt;br&gt;    &lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;uint32_t&lt;/span&gt; n = (count + &lt;span class=&#34;hljs-number&#34;&gt;7&lt;/span&gt;) &amp;gt;&amp;gt; &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;;&lt;br&gt;    &lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;switch&lt;/span&gt; (count % &lt;span class=&#34;hljs-number&#34;&gt;8&lt;/span&gt;)&lt;br&gt;    &amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;: &lt;span class=&#34;hljs-keyword&#34;&gt;do&lt;/span&gt; &amp;#123; *to = *from++;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;7&lt;/span&gt;:      *to = *from++;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;6&lt;/span&gt;:      *to = *from++;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;:      *to = *from++;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;:      *to = *from++;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;:      *to = *from++;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;:      *to = *from++;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;:      *to = *from++;&lt;br&gt;            &amp;#125; &lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; (--n &amp;gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;);&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;break&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;default&lt;/span&gt;:&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;break&lt;/span&gt;;&lt;br&gt;    &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;描述语言示例&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs pdl&#34;&gt;send(to, from, count)&lt;br&gt;register short *to, *from;&lt;br&gt;register count;&lt;br&gt;&amp;#123;&lt;br&gt;    register n = (count + 7) / 8;&lt;br&gt;    switch (count % 8) &amp;#123;&lt;br&gt;    case 0: do &amp;#123; *to = *from++;&lt;br&gt;    case 7:      *to = *from++;&lt;br&gt;    case 6:      *to = *from++;&lt;br&gt;    case 5:      *to = *from++;&lt;br&gt;    case 4:      *to = *from++;&lt;br&gt;    case 3:      *to = *from++;&lt;br&gt;    case 2:      *to = *from++;&lt;br&gt;    case 1:      *to = *from++;&lt;br&gt;            &amp;#125; while (--n &amp;gt; 0);&lt;br&gt;    &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;功能一致的等效展开&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs pdl&#34;&gt;send(to, from, count)&lt;br&gt;register short *to, *from;&lt;br&gt;register count;&lt;br&gt;&amp;#123;&lt;br&gt;    register n = (count + 7) / 8;&lt;br&gt;    switch (count % 8) &amp;#123;&lt;br&gt;        case 0: *to = *from++;&lt;br&gt;        case 7: *to = *from++;&lt;br&gt;        case 6: *to = *from++;&lt;br&gt;        case 5: *to = *from++;&lt;br&gt;        case 4: *to = *from++;&lt;br&gt;        case 3: *to = *from++;&lt;br&gt;        case 2: *to = *from++;&lt;br&gt;        case 1: *to = *from++;&lt;br&gt;    &amp;#125;&lt;br&gt;    while (--n &amp;gt; 0) &amp;#123;&lt;br&gt;        *to = *from++;&lt;br&gt;        *to = *from++;&lt;br&gt;        *to = *from++;&lt;br&gt;        *to = *from++;&lt;br&gt;        *to = *from++;&lt;br&gt;        *to = *from++;&lt;br&gt;        *to = *from++;&lt;br&gt;        *to = *from++;&lt;br&gt;    &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;memcpy&#34;&gt;&lt;a href=&#34;#memcpy&#34; class=&#34;headerlink&#34; title=&#34;memcpy&#34;&gt;&lt;/a&gt;memcpy&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  他主要的思路是将文件分块尽量大些，让总线一次读取的数据全部可用。并一次拷贝多个数据，避免if等待。&lt;/p&gt;
+&lt;p&gt;  这个程序的性能经过对比可以比直接赋值的情况下高8倍以上，count值较大的情况下。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/**&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @brief  This function will copy memory content from source address to destination address.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; *&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @param  dst is the address of destination memory, points to the copied content.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; *&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @param  src  is the address of source memory, pointing to the data source to be copied.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; *&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @param  count is the copied length.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; *&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; * @return The address of destination memory&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt; */&lt;/span&gt;&lt;br&gt;rt_weak &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; *&lt;span class=&#34;hljs-title function_&#34;&gt;rt_memcpy&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; *dst, &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; *src, &lt;span class=&#34;hljs-type&#34;&gt;rt_ubase_t&lt;/span&gt; count)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; UNALIGNED(X, Y) \&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;    (((long)X &amp;amp; (sizeof (long) - 1)) | ((long)Y &amp;amp; (sizeof (long) - 1)))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; BIGBLOCKSIZE    (sizeof (long) &amp;lt;&amp;lt; 2)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; LITTLEBLOCKSIZE (sizeof (long))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; TOO_SMALL(LEN)  ((LEN) &amp;lt; BIGBLOCKSIZE)&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *dst_ptr = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *)dst;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *src_ptr = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *)src;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;long&lt;/span&gt; *aligned_dst = RT_NULL;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;long&lt;/span&gt; *aligned_src = RT_NULL;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;rt_ubase_t&lt;/span&gt; len = count;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;/* If the size is small, or either SRC or DST is unaligned,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;    then punt into the byte copy loop.  This should be rare. */&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (!TOO_SMALL(len) &amp;amp;&amp;amp; !UNALIGNED(src_ptr, dst_ptr))&lt;br&gt;    &amp;#123;&lt;br&gt;        aligned_dst = (&lt;span class=&#34;hljs-type&#34;&gt;long&lt;/span&gt; *)dst_ptr;&lt;br&gt;        aligned_src = (&lt;span class=&#34;hljs-type&#34;&gt;long&lt;/span&gt; *)src_ptr;&lt;br&gt;&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;/* Copy 4X long words at a time if possible. */&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; (len &amp;gt;= BIGBLOCKSIZE)&lt;br&gt;        &amp;#123;&lt;br&gt;            *aligned_dst++ = *aligned_src++;&lt;br&gt;            *aligned_dst++ = *aligned_src++;&lt;br&gt;            *aligned_dst++ = *aligned_src++;&lt;br&gt;            *aligned_dst++ = *aligned_src++;&lt;br&gt;            len -= BIGBLOCKSIZE;&lt;br&gt;        &amp;#125;&lt;br&gt;&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;/* Copy one long word at a time if possible. */&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; (len &amp;gt;= LITTLEBLOCKSIZE)&lt;br&gt;        &amp;#123;&lt;br&gt;            *aligned_dst++ = *aligned_src++;&lt;br&gt;            len -= LITTLEBLOCKSIZE;&lt;br&gt;        &amp;#125;&lt;br&gt;&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;/* Pick up any residual with a byte copier. */&lt;/span&gt;&lt;br&gt;        dst_ptr = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *)aligned_dst;&lt;br&gt;        src_ptr = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; *)aligned_src;&lt;br&gt;    &amp;#125;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; (len--)&lt;br&gt;        *dst_ptr++ = *src_ptr++;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; dst;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;undef&lt;/span&gt; UNALIGNED&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;undef&lt;/span&gt; BIGBLOCKSIZE&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;undef&lt;/span&gt; LITTLEBLOCKSIZE&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;undef&lt;/span&gt; TOO_SMALL&lt;/span&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
 
 
 
@@ -1682,6 +2611,12 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;printf 内字符串问题&lt;/p&gt;
   &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;# &lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; DC_LOG_ERROR    &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x11&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 没有逗号 这是正常想要表达的逻辑, 前面的DC_LOG_ERROR 和 &amp;quot;%s:%d check SID Stasrt&amp;quot; 合并成一个表达式&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(DC_LOG_ERROR  &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s:%d check SID Stasrt&amp;quot;&lt;/span&gt;,__func__, __LINE__);&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 有逗号 只会识别前面一个字符串 后面的都没了&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;printf&lt;/span&gt;(DC_LOG_ERROR, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s:%d check SID Stasrt&amp;quot;&lt;/span&gt;,__func__, __LINE__);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;在 RSIC-V 的一个系统里面，系统会异常死机，报HardFault，报各种不一样的异常，排查后发现是32.768KHz的晶振所致，甚是奇怪！&lt;ul&gt;
+&lt;li&gt;系统异常一定要优先检查 系统各大件是否运行正常 &lt;strong&gt;SoC、Flash、晶振(主晶振、RTC晶振)、当然还有最重要的电源&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <category term="embedded" />

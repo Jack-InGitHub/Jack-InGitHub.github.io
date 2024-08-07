@@ -7,37 +7,42 @@
         <language>zh-CN</language>
         <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
         <lastBuildDate>Sat, 08 Aug 2020 08:08:08 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,28 +155,48 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2020/3dd7ffa7/</guid>
             <title>C</title>
@@ -520,6 +537,15 @@
 &lt;/blockquote&gt;
 &lt;p&gt;在默认情况下，stdout是行缓冲的，他的输出会放在一个buffer里面，只有到换行的时候，才会输出到屏幕。而stderr是无缓冲的，会直接输出。&lt;/p&gt;
 &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;fprintf&lt;/span&gt;(&lt;span class=&#34;hljs-built_in&#34;&gt;stdout&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Group&amp;quot;&lt;/span&gt;);&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;fprintf&lt;/span&gt;(&lt;span class=&#34;hljs-built_in&#34;&gt;stderr&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;XiyouLinux&amp;quot;&lt;/span&gt;);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/*&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;linux下，第一次会输出XiYouLinuxGroup,是因为stdout将输出的Group放到了缓冲区当中直到程序结束在将缓冲区中的数据刷新出来。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;*/&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h1 id=&#34;Show-me-you-code&#34;&gt;&lt;a href=&#34;#Show-me-you-code&#34; class=&#34;headerlink&#34; title=&#34;Show me you code&#34;&gt;&lt;/a&gt;Show me you code&lt;/h1&gt;&lt;h2 id=&#34;全局变量会默认被设置成0&#34;&gt;&lt;a href=&#34;#全局变量会默认被设置成0&#34; class=&#34;headerlink&#34; title=&#34;全局变量会默认被设置成0&#34;&gt;&lt;/a&gt;全局变量会默认被设置成0&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;include &amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;include &amp;lt;stdlib.h&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;int ga=0;&lt;br&gt;int gb;&lt;br&gt;&lt;br&gt;void testFun(void) &amp;#123;&lt;br&gt;    int a=0;&lt;br&gt;    int b;&lt;br&gt;&lt;br&gt;    printf(&amp;quot;%d %d %d %d \r\n&amp;quot;, a, b, ga, gb);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;int main()&lt;br&gt;&amp;#123;&lt;br&gt;    printf(&amp;quot;Hello world!\n&amp;quot;);&lt;br&gt;    &lt;br&gt;    for (int i = 0; i &amp;lt; 10; i++)&lt;br&gt;    &amp;#123;&lt;br&gt;        testFun();&lt;br&gt;    &amp;#125;&lt;br&gt;&lt;br&gt;    return 0;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;output:&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;Hello world!&lt;br&gt;0 16 0 0&lt;br&gt;0 16 0 0&lt;br&gt;0 16 0 0&lt;br&gt;0 16 0 0&lt;br&gt;0 16 0 0&lt;br&gt;0 16 0 0&lt;br&gt;0 16 0 0&lt;br&gt;0 16 0 0&lt;br&gt;0 16 0 0&lt;br&gt;0 16 0 0&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
  ]]></description>
         </item>

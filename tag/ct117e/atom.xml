@@ -4,37 +4,42 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;ct117e&#34; tag</title>
     <link href="https://www.oikiou.top" />
     <updated>2019-06-04T09:23:05.000Z</updated>
-    <category term="hp" />
-    <category term="chrome" />
+    <category term="autosar" />
+    <category term="aes" />
     <category term="embedded" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
     <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
-    <category term="hex" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="license" />
     <category term="md5" />
+    <category term="major" />
     <category term="markdown" />
     <category term="note" />
     <category term="osi" />
+    <category term="RustDesk" />
     <category term="iap" />
     <category term="bootloader" />
     <category term="stm32" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
@@ -57,6 +62,11 @@
     <category term="zsh" />
     <category term="shell" />
     <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
@@ -67,32 +77,14 @@
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
     <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
     <category term="超声波" />
     <category term="github" />
     <category term="hosts" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="pid" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="life" />
-    <category term="人生" />
-    <category term="workflow" />
-    <category term="心理学" />
+    <category term="audio" />
+    <category term="video" />
     <category term="cad" />
     <category term="cat_drive" />
     <category term="switch" />
@@ -101,45 +93,49 @@
     <category term="hardware" />
     <category term="lenovo" />
     <category term="disk" />
-    <category term="摄影" />
+    <category term="pve" />
+    <category term="virtual" />
     <category term="software" />
+    <category term="摄影" />
     <category term="synology" />
     <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
     <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="flash" />
     <category term="j-tag" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
-    <category term="vscode" />
+    <category term="obsidian" />
     <category term="spacedesk" />
     <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="speedtest" />
-    <category term="tools" />
-    <category term="commenttranslate" />
-    <category term="wsl" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -147,6 +143,7 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
+    <category term="v2ray" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -155,28 +152,48 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
     <category term="cortex-a7" />
     <category term="cortex-m3" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="ucos" />
     <category term="bluetooth" />
     <category term="蓝牙" />
+    <category term="pwm" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
     <category term="modbus" />
     <category term="linuxapp" />
     <category term="curl" />
     <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
-    <category term="rt-thread" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
     <entry>
         <id>https://www.oikiou.top/2019/b9b15cd2/</id>
         <title>蓝桥杯STM32国赛笔记</title>
@@ -283,7 +300,7 @@
 &lt;li&gt;主机输出&lt;/li&gt;
 &lt;li&gt;主机拉高&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;技巧-amp-TIP&#34;&gt;&lt;a href=&#34;#技巧-amp-TIP&#34; class=&#34;headerlink&#34; title=&#34;技巧&amp;amp;TIP&#34;&gt;&lt;/a&gt;技巧&amp;amp;TIP&lt;/h3&gt;&lt;ul&gt;
+&lt;h3 id=&#34;技巧-TIP&#34;&gt;&lt;a href=&#34;#技巧-TIP&#34; class=&#34;headerlink&#34; title=&#34;技巧&amp;amp;TIP&#34;&gt;&lt;/a&gt;技巧&amp;amp;TIP&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;DHT11分辨率都是整数级别的&lt;strong&gt;读取小数的数据部分没有意义&lt;/strong&gt;。（全为0）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;读取间隔建议大于100ms（采样 1S 过高的读取频率没有意义）&lt;/p&gt;
@@ -310,14 +327,14 @@
 &lt;li&gt;&lt;p&gt;读出来的温度先是  &lt;strong&gt;LSM 8bit&lt;/strong&gt;  然后是 MSB 8bit&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;总线协议-amp-时序&#34;&gt;&lt;a href=&#34;#总线协议-amp-时序&#34; class=&#34;headerlink&#34; title=&#34;总线协议&amp;amp;时序&#34;&gt;&lt;/a&gt;总线协议&amp;amp;时序&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;/2019/b9b15cd2/01-1557625836489.png&#34; alt=&#34;复位时序&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;总线协议-时序&#34;&gt;&lt;a href=&#34;#总线协议-时序&#34; class=&#34;headerlink&#34; title=&#34;总线协议&amp;amp;时序&#34;&gt;&lt;/a&gt;总线协议&amp;amp;时序&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;/2019/b9b15cd2/01-1557625836489.png&#34; alt=&#34;复位时序&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2019/b9b15cd2/02.png&#34; alt=&#34;读写时序&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;编程思路-1&#34;&gt;&lt;a href=&#34;#编程思路-1&#34; class=&#34;headerlink&#34; title=&#34;编程思路&#34;&gt;&lt;/a&gt;编程思路&lt;/h3&gt;&lt;p&gt;0xCC	OW_SKIP_ROM&lt;/p&gt;
 &lt;p&gt;0x44	DS18B20_CONVERT&lt;/p&gt;
 &lt;p&gt;0xCC	OW_SKIP_ROM&lt;/p&gt;
 &lt;p&gt;0xBE	DS18B20_READ&lt;/p&gt;
 &lt;h2 id=&#34;LIS302DL&#34;&gt;&lt;a href=&#34;#LIS302DL&#34; class=&#34;headerlink&#34; title=&#34;LIS302DL&#34;&gt;&lt;/a&gt;LIS302DL&lt;/h2&gt;&lt;p&gt;NULL&lt;/p&gt;
-&lt;h2 id=&#34;光敏-D-amp-A&#34;&gt;&lt;a href=&#34;#光敏-D-amp-A&#34; class=&#34;headerlink&#34; title=&#34;光敏 D&amp;amp;A&#34;&gt;&lt;/a&gt;光敏 D&amp;amp;A&lt;/h2&gt;&lt;h3 id=&#34;光敏D&#34;&gt;&lt;a href=&#34;#光敏D&#34; class=&#34;headerlink&#34; title=&#34;光敏D&#34;&gt;&lt;/a&gt;光敏D&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;光敏-D-A&#34;&gt;&lt;a href=&#34;#光敏-D-A&#34; class=&#34;headerlink&#34; title=&#34;光敏 D&amp;amp;A&#34;&gt;&lt;/a&gt;光敏 D&amp;amp;A&lt;/h2&gt;&lt;h3 id=&#34;光敏D&#34;&gt;&lt;a href=&#34;#光敏D&#34; class=&#34;headerlink&#34; title=&#34;光敏D&#34;&gt;&lt;/a&gt;光敏D&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;GPIOA_Pin_3 &lt;/li&gt;
 &lt;li&gt;GPIO_Mode_IPU&lt;/li&gt;
 &lt;/ul&gt;
@@ -330,7 +347,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;电位器&#34;&gt;&lt;a href=&#34;#电位器&#34; class=&#34;headerlink&#34; title=&#34;电位器&#34;&gt;&lt;/a&gt;电位器&lt;/h2&gt;&lt;p&gt;NULL&lt;/p&gt;
-&lt;h2 id=&#34;PULS-amp-PWM&#34;&gt;&lt;a href=&#34;#PULS-amp-PWM&#34; class=&#34;headerlink&#34; title=&#34;PULS&amp;amp;PWM&#34;&gt;&lt;/a&gt;PULS&amp;amp;PWM&lt;/h2&gt;&lt;p&gt;PA1        TIM2_CH2&lt;/p&gt;
+&lt;h2 id=&#34;PULS-PWM&#34;&gt;&lt;a href=&#34;#PULS-PWM&#34; class=&#34;headerlink&#34; title=&#34;PULS&amp;amp;PWM&#34;&gt;&lt;/a&gt;PULS&amp;amp;PWM&lt;/h2&gt;&lt;p&gt;PA1        TIM2_CH2&lt;/p&gt;
 &lt;p&gt;PA2        TIM2_CH3&lt;/p&gt;
 &lt;p&gt;PA6        TIM3_CH1&lt;/p&gt;
 &lt;p&gt;PA7        TIM3_CH2&lt;/p&gt;

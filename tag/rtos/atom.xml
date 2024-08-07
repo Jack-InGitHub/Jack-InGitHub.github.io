@@ -3,38 +3,43 @@
     <id>https://www.oikiou.top</id>
     <title>Oikiou&#39;s Blog • Posts by &#34;rtos&#34; tag</title>
     <link href="https://www.oikiou.top" />
-    <updated>2021-07-21T14:57:15.000Z</updated>
-    <category term="hp" />
-    <category term="chrome" />
+    <updated>2024-06-04T14:57:15.000Z</updated>
+    <category term="autosar" />
+    <category term="aes" />
     <category term="embedded" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
     <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
-    <category term="hex" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="license" />
     <category term="md5" />
+    <category term="major" />
     <category term="markdown" />
     <category term="note" />
     <category term="osi" />
+    <category term="RustDesk" />
     <category term="iap" />
     <category term="bootloader" />
     <category term="stm32" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
@@ -57,6 +62,11 @@
     <category term="zsh" />
     <category term="shell" />
     <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
@@ -67,32 +77,14 @@
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
     <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
     <category term="超声波" />
     <category term="github" />
     <category term="hosts" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="pid" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="life" />
-    <category term="人生" />
-    <category term="workflow" />
-    <category term="心理学" />
+    <category term="audio" />
+    <category term="video" />
     <category term="cad" />
     <category term="cat_drive" />
     <category term="switch" />
@@ -101,45 +93,49 @@
     <category term="hardware" />
     <category term="lenovo" />
     <category term="disk" />
-    <category term="摄影" />
+    <category term="pve" />
+    <category term="virtual" />
     <category term="software" />
+    <category term="摄影" />
     <category term="synology" />
     <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
     <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="flash" />
     <category term="j-tag" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
-    <category term="vscode" />
+    <category term="obsidian" />
     <category term="spacedesk" />
     <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="speedtest" />
-    <category term="tools" />
-    <category term="commenttranslate" />
-    <category term="wsl" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -147,6 +143,7 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
+    <category term="v2ray" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -155,28 +152,88 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
     <category term="cortex-a7" />
     <category term="cortex-m3" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="ucos" />
     <category term="bluetooth" />
     <category term="蓝牙" />
+    <category term="pwm" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
     <category term="modbus" />
     <category term="linuxapp" />
     <category term="curl" />
     <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
-    <category term="rt-thread" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2024/5b8b4de/</id>
+        <title>RT-Thread 宝藏之Ringblk组件</title>
+        <link rel="alternate" href="https://www.oikiou.top/2024/5b8b4de/"/>
+        <content type="html">&lt;h1 id=&#34;RT-Thread-宝藏之ringblk组件&#34;&gt;&lt;a href=&#34;#RT-Thread-宝藏之ringblk组件&#34; class=&#34;headerlink&#34; title=&#34;RT-Thread 宝藏之ringblk组件&#34;&gt;&lt;/a&gt;RT-Thread 宝藏之ringblk组件&lt;/h1&gt;&lt;h1 id=&#34;序言&#34;&gt;&lt;a href=&#34;#序言&#34; class=&#34;headerlink&#34; title=&#34;序言&#34;&gt;&lt;/a&gt;序言&lt;/h1&gt;&lt;p&gt;ringblk是什么？&lt;br&gt;ringblk &amp;#x3D; ring block(环形块缓冲区)，它的缓冲区的单位是一个 &lt;code&gt;block&lt;/code&gt; , 每次对数据的操作都是以 &lt;code&gt;block&lt;/code&gt; 为单位。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;还有一个更加常见的 &lt;code&gt;ringbuf&lt;/code&gt;(环形缓冲区，一种数据结构)。&lt;code&gt;ringbuf&lt;/code&gt;就是比较常见的先入先出（FIFO，First-In-First-Out）的环形缓冲区。&lt;/p&gt;
+&lt;p&gt;下面是两者的一些对比：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;数据存储方式&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ringbuf&lt;/code&gt;：传统的环形缓冲区，通常由固定大小的单字节组成，数据以连续的方式存储。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ringblk&lt;/code&gt;：环形块缓冲区，由多个大小不一的数据块组成，每个块可以包含多个字节。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;内存效率&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ringbuf&lt;/code&gt;：可能需要更多的内存拷贝操作，因为它通常以单字节为单位操作数据。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ringblk&lt;/code&gt;：设计用于减少内存拷贝，通过块操作可以提高内存使用效率。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;适用场景&lt;/strong&gt;：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ringbuf&lt;/code&gt;：适用于简单的数据流处理，如字符设备驱动程序。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ringblk&lt;/code&gt;：适用于需要高效处理大块数据的场景，如DMA传输、通信帧的接收与发送、网络通信等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;性能&lt;/strong&gt;：  &lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ringbuf&lt;/code&gt;：在处理小数据或字符流时可能表现良好。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ringblk&lt;/code&gt;：由于减少了内存拷贝（零字节拷贝zero-copy），可能在处理大块数据时提供更好的性能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;ringblk&lt;/code&gt;提供了更高级的特性，特别是在处理大块数据和需要高效率数据传输的场景中。&lt;br&gt;而&lt;code&gt;ringbuf&lt;/code&gt;则适用于对简单连续数据流的处理。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.rt-thread.org/document/api/group__ring__block__buffer.html&#34;&gt;RT-Thread 环形块状缓冲区 参考资料&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="rtos" />
+        <category term="rt-thread" />
+        <updated>2024-06-04T14:57:15.000Z</updated>
+    </entry>
     <entry>
         <id>https://www.oikiou.top/2021/42e53028/</id>
         <title>RT-Thread</title>
@@ -2325,8 +2382,7 @@
 &lt;p&gt;&lt;img src=&#34;/2021/42e53028/08Memory_distribution.png&#34; alt=&#34;RT-Thread 内存分布&#34;&gt;&lt;/p&gt;
 &lt;p&gt;内存堆可以在当前资源满足的情况下，根据用户的需求分配任意大小的内存块。而当用户不需要再使用这些内存块时，又可以释放回堆中供其他应用分配使用。RT-Thread 系统为了满足不同的需求，提供了不同的内存管理算法，分别是&lt;strong&gt;小内存管理算法&lt;/strong&gt;、&lt;strong&gt;Slab&lt;/strong&gt; 管理算法和 &lt;strong&gt;memheap 管理算法&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;小内存管理算法&lt;/strong&gt;主要针对系统资源比较少，一般用于小于 2MB 内存空间的系统；&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;slab 内存管理算法&lt;/strong&gt;则主要是0&lt;/p&gt;
-&lt;p&gt;在系统资源比较丰富时，提供了一种近似多内存池管理算法的快速算法。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;slab 内存管理算法&lt;/strong&gt;则主要是在系统资源比较丰富时，提供了一种近似多内存池管理算法的快速算法。&lt;/p&gt;
 &lt;p&gt; &lt;strong&gt;memheap 管理算法&lt;/strong&gt;。memheap 方法适用于系统存在多个内存堆的情况，它可以将多个内存 “粘贴” 在一起，形成一个大的内存堆，用户使用起来会非常方便。&lt;/p&gt;
 &lt;h3 id=&#34;小内存管理算法&#34;&gt;&lt;a href=&#34;#小内存管理算法&#34; class=&#34;headerlink&#34; title=&#34;小内存管理算法&#34;&gt;&lt;/a&gt;小内存管理算法&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2021/42e53028/08smem_work.png&#34; alt=&#34;小内存管理工作机制图&#34;&gt;&lt;/p&gt;
 &lt;p&gt;每个内存块（不管是已分配的内存块还是空闲的内存块）都包含一个数据头，其中包括：&lt;/p&gt;
@@ -2371,7 +2427,7 @@
 &lt;td&gt;rt_mp_delete()&amp;#x2F;rt_mp_detach()&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
-&lt;h3 id=&#34;创建-x2F-删除-create&#34;&gt;&lt;a href=&#34;#创建-x2F-删除-create&#34; class=&#34;headerlink&#34; title=&#34;创建&amp;#x2F;删除-create&#34;&gt;&lt;/a&gt;创建&amp;#x2F;删除-create&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;rt_mp_t&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;rt_mp_create&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;* name,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                         &lt;span class=&#34;hljs-type&#34;&gt;rt_size_t&lt;/span&gt; block_count,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                         &lt;span class=&#34;hljs-type&#34;&gt;rt_size_t&lt;/span&gt; block_size)&lt;/span&gt;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;创建-删除-create&#34;&gt;&lt;a href=&#34;#创建-删除-create&#34; class=&#34;headerlink&#34; title=&#34;创建&amp;#x2F;删除-create&#34;&gt;&lt;/a&gt;创建&amp;#x2F;删除-create&lt;/h3&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;rt_mp_t&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;rt_mp_create&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;* name,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                         &lt;span class=&#34;hljs-type&#34;&gt;rt_size_t&lt;/span&gt; block_count,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                         &lt;span class=&#34;hljs-type&#34;&gt;rt_size_t&lt;/span&gt; block_size)&lt;/span&gt;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -2427,7 +2483,7 @@
 &lt;td&gt;删除成功&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
-&lt;h3 id=&#34;初始化-x2F-剥离-init&#34;&gt;&lt;a href=&#34;#初始化-x2F-剥离-init&#34; class=&#34;headerlink&#34; title=&#34;初始化&amp;#x2F;剥离-init&#34;&gt;&lt;/a&gt;初始化&amp;#x2F;剥离-init&lt;/h3&gt;&lt;p&gt;内存池块个数 &amp;#x3D; size &amp;#x2F; (block_size + 4 链表指针大小)，计算结果取整数。&lt;/p&gt;
+&lt;h3 id=&#34;初始化-剥离-init&#34;&gt;&lt;a href=&#34;#初始化-剥离-init&#34; class=&#34;headerlink&#34; title=&#34;初始化&amp;#x2F;剥离-init&#34;&gt;&lt;/a&gt;初始化&amp;#x2F;剥离-init&lt;/h3&gt;&lt;p&gt;内存池块个数 &amp;#x3D; size &amp;#x2F; (block_size + 4 链表指针大小)，计算结果取整数。&lt;/p&gt;
 &lt;p&gt;例如：内存池数据区总大小 size 设为 4096 字节，内存块大小 block_size 设为 80 字节；则申请的内存块个数为 4096&amp;#x2F; (80+4)&amp;#x3D; 48 个。&lt;/p&gt;
 &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;rt_err_t&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;rt_mp_init&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;rt_mp_t&lt;/span&gt; mp,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                        &lt;span class=&#34;hljs-type&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;* name,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                        &lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; *start, &lt;span class=&#34;hljs-type&#34;&gt;rt_size_t&lt;/span&gt; size,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-params&#34;&gt;                        &lt;span class=&#34;hljs-type&#34;&gt;rt_size_t&lt;/span&gt; block size)&lt;/span&gt;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -2721,7 +2777,8 @@
 &lt;p&gt;2）必要情况下更改中断模式为轮询模式。同时为了解决轮询方式一直抢占处理机，其他低优先级线程得不到运行的情况，可以把轮询线程的优先级适当降低。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;内核移植&#34;&gt;&lt;a href=&#34;#内核移植&#34; class=&#34;headerlink&#34; title=&#34;内核移植&#34;&gt;&lt;/a&gt;内核移植&lt;/h1&gt;&lt;p&gt;参考官方文档&lt;/p&gt;
-&lt;h2 id=&#34;CPU架构移植&#34;&gt;&lt;a href=&#34;#CPU架构移植&#34; class=&#34;headerlink&#34; title=&#34;CPU架构移植&#34;&gt;&lt;/a&gt;CPU架构移植&lt;/h2&gt;&lt;h2 id=&#34;BSP移植&#34;&gt;&lt;a href=&#34;#BSP移植&#34; class=&#34;headerlink&#34; title=&#34;BSP移植&#34;&gt;&lt;/a&gt;BSP移植&lt;/h2&gt;</content>
+&lt;h2 id=&#34;CPU架构移植&#34;&gt;&lt;a href=&#34;#CPU架构移植&#34; class=&#34;headerlink&#34; title=&#34;CPU架构移植&#34;&gt;&lt;/a&gt;CPU架构移植&lt;/h2&gt;&lt;h2 id=&#34;BSP移植&#34;&gt;&lt;a href=&#34;#BSP移植&#34; class=&#34;headerlink&#34; title=&#34;BSP移植&#34;&gt;&lt;/a&gt;BSP移植&lt;/h2&gt;&lt;h1 id=&#34;线程切换&#34;&gt;&lt;a href=&#34;#线程切换&#34; class=&#34;headerlink&#34; title=&#34;线程切换&#34;&gt;&lt;/a&gt;线程切换&lt;/h1&gt;&lt;p&gt;cortex-m3中上下文切换统一是使用PendSV来实现的。&lt;/p&gt;
+</content>
         <category term="rtos" />
         <category term="rt-thread" />
         <updated>2021-07-21T14:57:15.000Z</updated>

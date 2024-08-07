@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;major&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 19 Jan 2024 22:57:15 +0800</pubDate>
+        <lastBuildDate>Fri, 19 Jan 2024 22:57:15 +0800</lastBuildDate>
+        <category>autosar</category>
+        <category>aes</category>
+        <category>embedded</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>sscanf</category>
+        <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>md5</category>
+        <category>major</category>
+        <category>markdown</category>
+        <category>note</category>
+        <category>osi</category>
+        <category>RustDesk</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>typora</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>windows</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>机智云</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
+        <category>超声波</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>audio</category>
+        <category>video</category>
+        <category>cad</category>
+        <category>cat_drive</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>pve</category>
+        <category>virtual</category>
+        <category>software</category>
+        <category>摄影</category>
+        <category>synology</category>
+        <category>cmake</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>j-tag</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>obsidian</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>v2ray</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
+        <category>cortex-m3</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>pwm</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>modbus</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>zlib</category>
+        <category>minizip</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2024/f0099803/</guid>
+            <title>语义化版本编号 Major、Minor、Patch</title>
+            <link>https://www.oikiou.top/2024/f0099803/</link>
+            <category>major</category>
+            <pubDate>Fri, 19 Jan 2024 22:57:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;语义化版本（Semantic-Versioning）：Major、Minor-和-Patch-版本号解析&#34;&gt;&lt;a href=&#34;#语义化版本（Semantic-Versioning）：Major、Minor-和-Patch-版本号解析&#34; class=&#34;headerlink&#34; title=&#34;语义化版本（Semantic Versioning）：Major、Minor 和 Patch 版本号解析&#34;&gt;&lt;/a&gt;语义化版本（Semantic Versioning）：Major、Minor 和 Patch 版本号解析&lt;/h2&gt;&lt;p&gt;语义化版本，通常简称为SemVer，是一种软件版本号的标准化方案，旨在使软件版本号的管理更加透明和可预测。它主要由三个部分组成：Major（主版本号）、Minor（次版本号）和Patch（修订版本号）。在这篇文章中，我们将深入解释这三个部分的含义，并提供详细的示例来说明它们的用途和变更规则。&lt;/p&gt;
+&lt;p&gt;在RT-Thread内有如下代码段：&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/* RT-Thread version information */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RT_VERSION_MAJOR                5               &lt;span class=&#34;hljs-comment&#34;&gt;/**&amp;lt; Major version number (X.x.x) */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RT_VERSION_MINOR                1               &lt;span class=&#34;hljs-comment&#34;&gt;/**&amp;lt; Minor version number (x.X.x) */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RT_VERSION_PATCH                0               &lt;span class=&#34;hljs-comment&#34;&gt;/**&amp;lt; Patch version number (x.x.X) */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/* e.g. #if (RTTHREAD_VERSION &amp;gt;= RT_VERSION_CHECK(4, 1, 0) */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RT_VERSION_CHECK(major, minor, revise)          ((major * 10000) + (minor * 100) + revise)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/* RT-Thread version */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTTHREAD_VERSION                RT_VERSION_CHECK(RT_VERSION_MAJOR, RT_VERSION_MINOR, RT_VERSION_PATCH)&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;Major（主版本号）&#34;&gt;&lt;a href=&#34;#Major（主版本号）&#34; class=&#34;headerlink&#34; title=&#34;Major（主版本号）&#34;&gt;&lt;/a&gt;Major（主版本号）&lt;/h3&gt;&lt;p&gt;Major版本号是语义化版本中的第一个数字，用于表示软件的主要版本变更。当进行大规模的、不兼容的变更时，应该增加Major版本号。主要变更包括：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;不兼容的API更改&lt;/strong&gt;：当你修改了软件的API，以至于旧版本的代码无法与新版本一起正常工作时，应该升级Major版本号。这可能包括删除、更改或添加API端点、参数或行为。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;重大功能新增&lt;/strong&gt;：如果你引入了重要的新功能，这可能会改变用户的工作流程或提供新的能力，也应该升级Major版本号。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;废弃旧功能&lt;/strong&gt;：当你计划废弃或删除旧的功能时，通常需要增加Major版本号，以提醒用户进行迁移。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;示例： 假设有一个虚构的图形处理库，当前版本号为1.0.0。如果开发团队决定删除现有API中的一个核心功能，这将导致现有的用户无法升级到新版本而不修改其代码，那么新版本的版本号应该升级到2.0.0。&lt;/p&gt;
+&lt;h3 id=&#34;Minor（次版本号）&#34;&gt;&lt;a href=&#34;#Minor（次版本号）&#34; class=&#34;headerlink&#34; title=&#34;Minor（次版本号）&#34;&gt;&lt;/a&gt;Minor（次版本号）&lt;/h3&gt;&lt;p&gt;Minor版本号是语义化版本中的第二个数字，用于表示向后兼容的新功能添加。Minor版本号的变更包括：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;新增功能&lt;/strong&gt;：当你向软件添加新的功能，但这些功能不会破坏现有的API或功能，应该增加Minor版本号。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;改进现有功能&lt;/strong&gt;：如果你对现有功能进行了改进，但这些改进不会导致现有用户的代码无法工作，也应该升级Minor版本号。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;向后兼容的API增强&lt;/strong&gt;：如果你增加了现有API的参数、选项或能力，而这不会破坏已有的使用方式，也应该升级Minor版本号。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;示例： 继续以图形处理库为例，当前版本号为1.2.0。开发团队决定在库中添加一个全新的图像滤镜功能，但这不会破坏任何现有功能或API。在这种情况下，版本号应升级到1.3.0。&lt;/p&gt;
+&lt;h3 id=&#34;Patch（修订版本号）&#34;&gt;&lt;a href=&#34;#Patch（修订版本号）&#34; class=&#34;headerlink&#34; title=&#34;Patch（修订版本号）&#34;&gt;&lt;/a&gt;Patch（修订版本号）&lt;/h3&gt;&lt;p&gt;Patch版本号是语义化版本中的第三个数字，用于表示向后兼容的错误修复或小的改进。Patch版本号的变更包括：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;错误修复&lt;/strong&gt;：当你解决现有功能或API中的错误时，应该升级Patch版本号。这些修复不应引入新的功能或改变现有的行为。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;性能优化&lt;/strong&gt;：如果你对现有功能进行性能优化，而不会改变其行为，也应该升级Patch版本号。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;小的改进或修改&lt;/strong&gt;：如果你进行了一些小的改进，但它们不会破坏向后兼容性，应该升级Patch版本号。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;示例： 继续以图形处理库为例，当前版本号为1.2.3。在测试中发现一个重要的Bug，它导致图像处理不正确。开发团队修复了这个问题，没有引入新的功能或改变现有功能，版本号应该升级到1.2.4。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

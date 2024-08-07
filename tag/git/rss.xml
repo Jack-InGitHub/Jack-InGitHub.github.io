@@ -7,37 +7,42 @@
         <language>zh-CN</language>
         <pubDate>Sun, 15 Aug 2021 16:23:05 +0800</pubDate>
         <lastBuildDate>Sun, 15 Aug 2021 16:23:05 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,28 +155,48 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2021/69c3279c/</guid>
             <title>Git</title>
@@ -209,6 +226,34 @@
 &lt;p&gt;&lt;img src=&#34;/2021/69c3279c/git-model@2x.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2021/69c3279c/04-Hotfix-branches.svg&#34; alt=&#34;Git 流程工作流 - 修补程序分支&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;Forking-分叉&#34;&gt;&lt;a href=&#34;#Forking-分叉&#34; class=&#34;headerlink&#34; title=&#34;Forking 分叉&#34;&gt;&lt;/a&gt;Forking 分叉&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow&#34;&gt;Forking Workflow&lt;/a&gt;通常遵循基于&lt;a href=&#34;https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow&#34;&gt;Gitflow Workflow&lt;/a&gt;的分支模型。这意味着完整的功能分支将用于合并到原始项目维护者的存储库中。结果是一个分布式工作流，它为大型有机团队（包括不受信任的第三方）安全地协作提供了一种灵活的方式。这也使其成为开源项目的理想工作流程。&lt;/p&gt;
+&lt;h2 id=&#34;Git-commit-规范&#34;&gt;&lt;a href=&#34;#Git-commit-规范&#34; class=&#34;headerlink&#34; title=&#34;Git commit 规范&#34;&gt;&lt;/a&gt;Git commit 规范&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.uyo6cb12dt6w&#34;&gt;参考链接&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://gitmoji.dev/&#34;&gt;参考gitmoji&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;格式&#34;&gt;&lt;a href=&#34;#格式&#34; class=&#34;headerlink&#34; title=&#34;格式&#34;&gt;&lt;/a&gt;格式&lt;/h3&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs git&#34;&gt;&amp;lt;type&amp;gt;(&amp;lt;scope&amp;gt;): &amp;lt;subject&amp;gt;&lt;br&gt;&amp;lt;BLANK LINE&amp;gt;&lt;br&gt;&amp;lt;body&amp;gt;&lt;br&gt;&amp;lt;BLANK LINE&amp;gt;&lt;br&gt;&amp;lt;footer&amp;gt;&lt;br&gt;&lt;br&gt;&amp;lt;类型&amp;gt;(&amp;lt;范围&amp;gt;)：&amp;lt;主题&amp;gt;&lt;br&gt;&amp;lt;空行&amp;gt;&lt;br&gt;&amp;lt;正文&amp;gt;&lt;br&gt;&amp;lt;空行&amp;gt;&lt;br&gt;&amp;lt;页脚&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;subject、type是&lt;strong&gt;必须的&lt;/strong&gt;，scope是&lt;strong&gt;可选的&lt;/strong&gt;。&lt;br&gt;提交消息的任何一行都不能太多字符（72、100）！这是为了让消息更美观、容易阅读。&lt;/p&gt;
+&lt;h4 id=&#34;Allowed-type-类型&#34;&gt;&lt;a href=&#34;#Allowed-type-类型&#34; class=&#34;headerlink&#34; title=&#34;Allowed [type] 类型&#34;&gt;&lt;/a&gt;Allowed [type] 类型&lt;/h4&gt;&lt;h2 id=&#34;This-describes-the-kind-of-change-that-this-commit-is-providing-每个类型值都表示了不同的含义，类型值必须是以下的其中一个：-feat-feature-提交新功能-fix-bug-fix-修复了bug-docs-documentation-只修改了文档-style-formatting-missing-semi-colons-…-调整代码格式-refactor-Code-refactoring-no-new-or-deleted-functions-代码重构-perf-Performance-optimization-性能优化-test-when-adding-missing-tests-添加或修改代码测试-chore-maintain-对构建流程或辅助工具和依赖库（如文档生成等）的更改-revet-revert-change-恢复更改-wip-Work-In-Progress-开发中-release-release-version-版本发布&#34;&gt;&lt;a href=&#34;#This-describes-the-kind-of-change-that-this-commit-is-providing-每个类型值都表示了不同的含义，类型值必须是以下的其中一个：-feat-feature-提交新功能-fix-bug-fix-修复了bug-docs-documentation-只修改了文档-style-formatting-missing-semi-colons-…-调整代码格式-refactor-Code-refactoring-no-new-or-deleted-functions-代码重构-perf-Performance-optimization-性能优化-test-when-adding-missing-tests-添加或修改代码测试-chore-maintain-对构建流程或辅助工具和依赖库（如文档生成等）的更改-revet-revert-change-恢复更改-wip-Work-In-Progress-开发中-release-release-version-版本发布&#34; class=&#34;headerlink&#34; title=&#34;This describes the kind of change that this commit is providing.每个类型值都表示了不同的含义，类型值必须是以下的其中一个：- feat (feature) 提交新功能- fix (bug fix) 修复了bug- docs (documentation) 只修改了文档- style (formatting, missing semi colons, …) 调整代码格式- refactor (Code refactoring, no new or deleted functions.) 代码重构- perf (Performance optimization.) 性能优化- test (when adding missing tests) 添加或修改代码测试- chore (maintain) 对构建流程或辅助工具和依赖库（如文档生成等）的更改- revet (revert change) 恢复更改- wip (Work In Progress) 开发中- release (release version) 版本发布&#34;&gt;&lt;/a&gt;This describes the kind of change that this commit is providing.&lt;br&gt;每个类型值都表示了不同的含义，类型值必须是以下的其中一个：&lt;br&gt;- feat (feature) &lt;code&gt;提交新功能&lt;/code&gt;&lt;br&gt;- fix (bug fix) &lt;code&gt;修复了bug&lt;/code&gt;&lt;br&gt;- docs (documentation) &lt;code&gt;只修改了文档&lt;/code&gt;&lt;br&gt;- style (formatting, missing semi colons, …) &lt;code&gt;调整代码格式&lt;/code&gt;&lt;br&gt;- refactor (Code refactoring, no new or deleted functions.) &lt;code&gt;代码重构&lt;/code&gt;&lt;br&gt;- perf (Performance optimization.) &lt;code&gt;性能优化&lt;/code&gt;&lt;br&gt;- test (when adding missing tests) &lt;code&gt;添加或修改代码测试&lt;/code&gt;&lt;br&gt;- chore (maintain) &lt;code&gt;对构建流程或辅助工具和依赖库（如文档生成等）的更改&lt;/code&gt;&lt;br&gt;- revet (revert change) &lt;code&gt;恢复更改&lt;/code&gt;&lt;br&gt;- wip (Work In Progress) &lt;code&gt;开发中&lt;/code&gt;&lt;br&gt;- release (release version) &lt;code&gt;版本发布&lt;/code&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Revert&lt;/strong&gt;&lt;br&gt;如果需要revert先前的提交，那提交消息应该以“revert:”开头，后跟要恢复到的那个提交的标题。然后在消息正文中，写上 &lt;code&gt;This reverts commit &amp;lt;hash&amp;gt;.&lt;/code&gt;。&lt;/p&gt;
+&lt;h4 id=&#34;Allowed-scope-影响范围&#34;&gt;&lt;a href=&#34;#Allowed-scope-影响范围&#34; class=&#34;headerlink&#34; title=&#34;Allowed [scope] 影响范围&#34;&gt;&lt;/a&gt;Allowed [scope] 影响范围&lt;/h4&gt;&lt;p&gt;Scope can be anything specifying place of the commit change. For example $location, $browser, $compile, $rootScope, ngHref, ngClick, ngView, etc…&lt;br&gt;You can use * if there isn’t a more fitting scope. &lt;code&gt;您可以使用*如果没有更合适的范围。&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;subject-text-标题&#34;&gt;&lt;a href=&#34;#subject-text-标题&#34; class=&#34;headerlink&#34; title=&#34;[subject] text 标题&#34;&gt;&lt;/a&gt;[subject] text 标题&lt;/h4&gt;&lt;p&gt;This is a very short description of the change.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;use imperative, present tense: “change” not “changed” nor “changes”&lt;code&gt;使用命令式、现在时：“change”而不是“changed”或“changes”&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;don’t capitalize first letter &lt;code&gt;不要将第一个字母大写&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;no dot (.) at the end &lt;code&gt;末尾没有点 (.)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;Message-body-内容-正文&#34;&gt;&lt;a href=&#34;#Message-body-内容-正文&#34; class=&#34;headerlink&#34; title=&#34;Message [body] 内容 正文&#34;&gt;&lt;/a&gt;Message [body] 内容 正文&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;just as in [subject] use imperative, present tense: “change” not “changed” nor “changes”&lt;code&gt;使用命令式、现在时：“change”而不是“changed”或“changes”&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;includes motivation for the change and contrasts with previous behavior &lt;code&gt;包括改变的动机以及与之前行为的对比&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;Message-footer-页脚&#34;&gt;&lt;a href=&#34;#Message-footer-页脚&#34; class=&#34;headerlink&#34; title=&#34;Message [footer] 页脚&#34;&gt;&lt;/a&gt;Message [footer] 页脚&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Breaking changes 破坏性变更 不向下兼容&lt;/strong&gt;&lt;br&gt;All breaking changes have to be mentioned as a breaking change block in the footer, which should start with the word BREAKING CHANGE: with a space or two newlines. The rest of the commit message is then the description of the change, justification and migration notes.&lt;br&gt;所有Breaking changes都必须在页脚中提及，这应该以&lt;code&gt;BREAKING CHANGE&lt;/code&gt;一词开头：带有一个空格或两个换行符。提交消息的其余部分是更改的描述、理由和修改说明。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Referencing issues 参考文献&lt;/strong&gt;&lt;br&gt;已关闭的错误应在页脚中的单独行中列出，并以“Closes”关键字为前缀，如下所示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;this:&lt;br&gt;Closes #234&lt;br&gt;or in case of multiple issues:&lt;br&gt;Closes #123, #245, #992&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;Examples&#34;&gt;&lt;a href=&#34;#Examples&#34; class=&#34;headerlink&#34; title=&#34;Examples&#34;&gt;&lt;/a&gt;Examples&lt;/h3&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docs(guide): updated fixed docs from Google Docs&lt;br&gt;&lt;br&gt;Couple of typos fixed:&lt;br&gt;- indentation&lt;br&gt;- batchLogbatchLog -&amp;gt; batchLog&lt;br&gt;- start periodic checking&lt;br&gt;- missing brace&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;feat($&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;browser): onUrlChange event (popstate/hashchange/polling)&lt;/span&gt;&lt;br&gt;&lt;br&gt;Added new event to $browser:&lt;br&gt;- forward popstate event if available&lt;br&gt;- forward hashchange event if popstate not available&lt;br&gt;- do polling when neither popstate nor hashchange available&lt;br&gt;&lt;br&gt;Breaks $browser.onHashChange, which was removed (use onUrlChange instead)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;fix($&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;compile): couple of unit tests &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; IE9&lt;/span&gt;&lt;br&gt;&lt;br&gt;Older IEs serialize html uppercased, but IE9 does not...&lt;br&gt;Would be better to expect case insensitive, unfortunately jasmine does&lt;br&gt;not allow to user regexps for throw expectations.&lt;br&gt;&lt;br&gt;Closes #392&lt;br&gt;Breaks foo.bar api, foo.baz should be used instead&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
 &lt;h2 id=&#34;基本命令list&#34;&gt;&lt;a href=&#34;#基本命令list&#34; class=&#34;headerlink&#34; title=&#34;基本命令list&#34;&gt;&lt;/a&gt;基本命令list&lt;/h2&gt;&lt;h3 id=&#34;创建仓库命令&#34;&gt;&lt;a href=&#34;#创建仓库命令&#34; class=&#34;headerlink&#34; title=&#34;创建仓库命令&#34;&gt;&lt;/a&gt;创建仓库命令&lt;/h3&gt;&lt;p&gt;下表列出了 git 创建仓库的命令：&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -350,7 +395,7 @@
 &lt;p&gt;配置用户邮箱：&lt;code&gt;git config --global user.email &amp;quot;youremail@github.com&amp;quot;&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;修改默认branch名: &lt;code&gt;git config --global init.defaultBranch main&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;git走代理: &lt;code&gt;git config --global http.proxy &amp;#39;socks5://127.0.0.1:1080&amp;#39;&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;SSH&#34;&gt;&lt;a href=&#34;#SSH&#34; class=&#34;headerlink&#34; title=&#34;SSH&#34;&gt;&lt;/a&gt;SSH&lt;/h3&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs \&#34;&gt;ssh-keygen -t rsa -C &amp;quot;youremail@github.com&amp;quot;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;SSH-key-gen&#34;&gt;&lt;a href=&#34;#SSH-key-gen&#34; class=&#34;headerlink&#34; title=&#34;SSH key gen&#34;&gt;&lt;/a&gt;SSH key gen&lt;/h3&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;ssh-keygen -t rsa -C &amp;quot;youremail@github.com&amp;quot;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;注意 RSA 现阶段不再建议使用了, 改成ed25519生成&lt;/span&gt;&lt;br&gt;ssh-keygen -t ed25519 -C &amp;quot;your_email@example.com&amp;quot;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;执行命令后需要进行3次或4次确认：&lt;/p&gt;
 &lt;ol&gt;
@@ -364,9 +409,8 @@
 
 
 &lt;h2 id=&#34;Git命令&#34;&gt;&lt;a href=&#34;#Git命令&#34; class=&#34;headerlink&#34; title=&#34;Git命令&#34;&gt;&lt;/a&gt;Git命令&lt;/h2&gt;&lt;h3 id=&#34;git-init&#34;&gt;&lt;a href=&#34;#git-init&#34; class=&#34;headerlink&#34; title=&#34;git init&#34;&gt;&lt;/a&gt;git init&lt;/h3&gt;&lt;p&gt;初始化版本库&lt;/p&gt;
-&lt;h3 id=&#34;git-clone&#34;&gt;&lt;a href=&#34;#git-clone&#34; class=&#34;headerlink&#34; title=&#34;git clone&#34;&gt;&lt;/a&gt;git clone&lt;/h3&gt;&lt;blockquote&gt;
-  &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;git &lt;span class=&#34;hljs-built_in&#34;&gt;clone&lt;/span&gt; [--template=&amp;lt;template_directory&amp;gt;]&lt;br&gt;          [-l] [-s] [--no-hardlinks] [-q] [-n] [--bare] [--mirror]&lt;br&gt;          [-o &amp;lt;name&amp;gt;] [-b &amp;lt;name&amp;gt;] [-u &amp;lt;upload-pack&amp;gt;] [--reference &amp;lt;repository&amp;gt;]&lt;br&gt;          [--dissociate] [--separate-git-dir &amp;lt;git &lt;span class=&#34;hljs-built_in&#34;&gt;dir&lt;/span&gt;&amp;gt;]&lt;br&gt;          [--depth &amp;lt;depth&amp;gt;] [--[no-]single-branch] [--no-tags]&lt;br&gt;          [--recurse-submodules[=&amp;lt;pathspec&amp;gt;]] [--[no-]shallow-submodules]&lt;br&gt;          [--[no-]remote-submodules] [--&lt;span class=&#34;hljs-built_in&#34;&gt;jobs&lt;/span&gt; &amp;lt;n&amp;gt;] [--sparse] [--[no-]reject-shallow]&lt;br&gt;          [--filter=&amp;lt;filter&amp;gt;] [--] &amp;lt;repository&amp;gt;&lt;br&gt;          [&amp;lt;directory&amp;gt;]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;/blockquote&gt;
+&lt;h3 id=&#34;git-clone&#34;&gt;&lt;a href=&#34;#git-clone&#34; class=&#34;headerlink&#34; title=&#34;git clone&#34;&gt;&lt;/a&gt;git clone&lt;/h3&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;git clone [--template=&amp;lt;template_directory&amp;gt;]&lt;br&gt;     [-l] [-s] [--no-hardlinks] [-q] [-n] [--bare] [--mirror]&lt;br&gt;     [-o &amp;lt;name&amp;gt;] [-b &amp;lt;name&amp;gt;] [-u &amp;lt;upload-pack&amp;gt;] [--reference &amp;lt;repository&amp;gt;]&lt;br&gt;     [--dissociate] [--separate-git-dir &amp;lt;git dir&amp;gt;]&lt;br&gt;     [--depth &amp;lt;depth&amp;gt;] [--[no-]single-branch] [--no-tags]&lt;br&gt;     [--recurse-submodules[=&amp;lt;pathspec&amp;gt;]] [--[no-]shallow-submodules]&lt;br&gt;     [--[no-]remote-submodules] [--jobs &amp;lt;n&amp;gt;] [--sparse] [--[no-]reject-shallow]&lt;br&gt;     [--filter=&amp;lt;filter&amp;gt;] [--] &amp;lt;repository&amp;gt;&lt;br&gt;     [&amp;lt;directory&amp;gt;]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# git clone 后面接文件夹名可以修改clone到本地的文件夹名称&lt;/span&gt;&lt;br&gt;git &lt;span class=&#34;hljs-built_in&#34;&gt;clone&lt;/span&gt; &amp;lt;url&amp;gt; directory&lt;br&gt;&lt;br&gt;git &lt;span class=&#34;hljs-built_in&#34;&gt;clone&lt;/span&gt; --single-branch --branch &amp;lt;branch-name&amp;gt; &amp;lt;remote-repo-url&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
@@ -726,6 +770,10 @@
 &lt;td&gt;&lt;code&gt;git merge --abort&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;中止这一次提交的合并(当遇到冲突时)&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;-m&lt;/td&gt;
+&lt;td&gt;massage&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 &lt;h3 id=&#34;git-stash&#34;&gt;&lt;a href=&#34;#git-stash&#34; class=&#34;headerlink&#34; title=&#34;git stash&#34;&gt;&lt;/a&gt;git stash&lt;/h3&gt;&lt;table&gt;
 &lt;thead&gt;
@@ -776,7 +824,7 @@
 &lt;h3 id=&#34;git-reset&#34;&gt;&lt;a href=&#34;#git-reset&#34; class=&#34;headerlink&#34; title=&#34;git reset&#34;&gt;&lt;/a&gt;git reset&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;原理：&lt;/strong&gt; git reset的作用是修改HEAD的位置，即将HEAD指向的位置改变为之前存在的某个版本，如下图所示，假设我们要回退到版本一&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2021/69c3279c/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTgwNDE0MjEyMjIxMDMz.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
 &lt;p&gt;在Git中，用&lt;code&gt;HEAD&lt;/code&gt;表示当前版本&lt;/p&gt;
-&lt;p&gt;版本回退 HEAD往前回退一个版本(同理这里可以写对应的版本号) &lt;code&gt;git reset -–hard HEAD^&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;版本回退 HEAD往前回退一个版本(同理这里可以写对应的版本号) &lt;code&gt;git reset -–soft HEAD^&lt;/code&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -817,8 +865,6 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
-&lt;h3 id=&#34;git-ignore&#34;&gt;&lt;a href=&#34;#git-ignore&#34; class=&#34;headerlink&#34; title=&#34;git - .ignore&#34;&gt;&lt;/a&gt;git - .ignore&lt;/h3&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;此为注释 – 将被 Git 忽略&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;忽略所有 .a 结尾的文件&lt;/span&gt;&lt;br&gt;*.a&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;但 lib.a 除外&lt;/span&gt;&lt;br&gt;!lib.a&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;仅仅忽略项目根目录下的 TODO 文件，不包括 subdir/TODO&lt;/span&gt;&lt;br&gt;/TODO&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;忽略 build/ 目录下的所有文件&lt;/span&gt;&lt;br&gt;build/&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;会忽略 doc/notes.txt 但不包括 doc/server/arch.txt&lt;/span&gt;&lt;br&gt;doc/*.txt&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;忽略 doc/ 目录下所有扩展名为 txt 的文件&lt;/span&gt;&lt;br&gt;doc/**/*.txt&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
 &lt;h3 id=&#34;git-switch&#34;&gt;&lt;a href=&#34;#git-switch&#34; class=&#34;headerlink&#34; title=&#34;git switch&#34;&gt;&lt;/a&gt;git switch&lt;/h3&gt;&lt;p&gt;git switch 切换分支 远程有而本地没有的分支，而如果要从远程分支建一个同名的本地分支，并且关联远程分支&lt;/p&gt;
 &lt;figure class=&#34;highlight xquery&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs xquery&#34;&gt;git &lt;span class=&#34;hljs-keyword&#34;&gt;switch&lt;/span&gt; &lt;span class=&#34;language-xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;branchName&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;git switch 创建一个新分支并切换到该新分支 &lt;/p&gt;
@@ -857,6 +903,20 @@
 &lt;td align=&#34;left&#34;&gt;git checkout&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&#34;git-rm&#34;&gt;&lt;a href=&#34;#git-rm&#34; class=&#34;headerlink&#34; title=&#34;git rm&#34;&gt;&lt;/a&gt;git rm&lt;/h3&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;git rm [-f | --force] [-n] [-r] [--cached] [--ignore-unmatch]&lt;br&gt;	  [--quiet] [--pathspec-from-file=&amp;lt;file&amp;gt; [--pathspec-file-nul]]&lt;br&gt;	  [--] [&amp;lt;pathspec&amp;gt;…​]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;--cached&lt;br&gt;使用命令可以将 Git 仓库中的某个文件从跟踪列表中删除&lt;br&gt;执行上述命令后，该文件将不再被 Git 跟踪，但仍会保留在本地文件系统中。&lt;br&gt;然后git commit -a提交更改。&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;常用配置&#34;&gt;&lt;a href=&#34;#常用配置&#34; class=&#34;headerlink&#34; title=&#34;常用配置&#34;&gt;&lt;/a&gt;常用配置&lt;/h1&gt;&lt;p&gt;&lt;code&gt;.gitignore&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;可以参考Github的 &lt;a href=&#34;https://github.com/github/gitignore&#34;&gt;https://github.com/github/gitignore&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;project&lt;/span&gt;&lt;br&gt;.vscode/&lt;br&gt;/si/&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-bash&#34;&gt;output/&lt;/span&gt;&lt;br&gt;Debug/&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;image chache&lt;/span&gt;&lt;br&gt;Thumbs.db&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;wps&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;~$&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;*.docx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;~$&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;*.doc&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;~$&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;*.xlsx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;~$&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;*.xls&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;~$&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;*.pptx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;~$&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;*.ppt&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
 &lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;修改分支指针&#34;&gt;&lt;a href=&#34;#修改分支指针&#34; class=&#34;headerlink&#34; title=&#34;修改分支指针&#34;&gt;&lt;/a&gt;修改分支指针&lt;/h2&gt;&lt;p&gt;git branch -f 分支名 commitID&lt;/p&gt;
 &lt;p&gt;作用是将其他分支上的本地代码硬重置到某个commitId下，不能重置本分支。比如我dev分支上某个节点的commitId叫 devID1&lt;/p&gt;
 &lt;p&gt;然后 git branch -f master devID1&lt;br&gt;那么master上的代码就会和dev一样，并且历史记录也会一样，只是dev分支上的代码可能会比master上的新一点，因为是重置的commitId&lt;/p&gt;
@@ -956,13 +1016,21 @@
 
 &lt;h2 id=&#34;删除未追踪的文件&#34;&gt;&lt;a href=&#34;#删除未追踪的文件&#34; class=&#34;headerlink&#34; title=&#34;删除未追踪的文件&#34;&gt;&lt;/a&gt;删除未追踪的文件&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;git clean -f -d&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# -d 递归清理&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# -f = --force 强制清理&lt;/span&gt;&lt;br&gt;-d&lt;br&gt;    Normally, when no &amp;lt;path&amp;gt; is specified, git clean will not recurse into untracked directories to avoid removing too much. Specify -d to have it recurse into such directories as well. If any paths are specified, -d is irrelevant; all untracked files matching the specified paths (with exceptions &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; nested git directories mentioned under --force) will be removed.&lt;br&gt;&lt;br&gt;-f&lt;br&gt;    --force&lt;br&gt;    If the Git configuration variable clean.requireForce is not &lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; to &lt;span class=&#34;hljs-literal&#34;&gt;false&lt;/span&gt;, git clean will refuse to delete files or directories unless given -f or -i. Git will refuse to modify untracked nested git repositories (directories with a .git subdirectory) unless a second -f is given.&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;h2 id=&#34;子模块-子仓库&#34;&gt;&lt;a href=&#34;#子模块-子仓库&#34; class=&#34;headerlink&#34; title=&#34;子模块 子仓库&#34;&gt;&lt;/a&gt;子模块 子仓库&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ git submodule &lt;span class=&#34;hljs-built_in&#34;&gt;help&lt;/span&gt;&lt;br&gt;usage: git submodule [--quiet] [--cached]&lt;br&gt;   or: git submodule [--quiet] add [-b &amp;lt;branch&amp;gt;] [-f|--force] [--name &amp;lt;name&amp;gt;] [--reference &amp;lt;repository&amp;gt;] [--] &amp;lt;repository&amp;gt; [&amp;lt;path&amp;gt;]&lt;br&gt;   or: git submodule [--quiet] status [--cached] [--recursive] [--] [&amp;lt;path&amp;gt;...]&lt;br&gt;   or: git submodule [--quiet] init [--] [&amp;lt;path&amp;gt;...]&lt;br&gt;   or: git submodule [--quiet] deinit [-f|--force] (--all| [--] &amp;lt;path&amp;gt;...)&lt;br&gt;   or: git submodule [--quiet] update [--init] [--remote] [-N|--no-fetch] [-f|--force] [--checkout|--merge|--rebase] [--[no-]recommend-shallow] [--reference &amp;lt;repository&amp;gt;] [--recursive] [--[no-]single-branch] [--] [&amp;lt;path&amp;gt;...]&lt;br&gt;   or: git submodule [--quiet] set-branch (--default|--branch &amp;lt;branch&amp;gt;) [--] &amp;lt;path&amp;gt;&lt;br&gt;   or: git submodule [--quiet] set-url [--] &amp;lt;path&amp;gt; &amp;lt;newurl&amp;gt;&lt;br&gt;   or: git submodule [--quiet] summary [--cached|--files] [--summary-limit &amp;lt;n&amp;gt;] [commit] [--] [&amp;lt;path&amp;gt;...]&lt;br&gt;   or: git submodule [--quiet] foreach [--recursive] &amp;lt;&lt;span class=&#34;hljs-built_in&#34;&gt;command&lt;/span&gt;&amp;gt;&lt;br&gt;   or: git submodule [--quiet] &lt;span class=&#34;hljs-built_in&#34;&gt;sync&lt;/span&gt; [--recursive] [--] [&amp;lt;path&amp;gt;...]&lt;br&gt;   or: git submodule [--quiet] absorbgitdirs [--] [&amp;lt;path&amp;gt;...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;submodule-子模块-子仓库&#34;&gt;&lt;a href=&#34;#submodule-子模块-子仓库&#34; class=&#34;headerlink&#34; title=&#34;submodule 子模块 子仓库&#34;&gt;&lt;/a&gt;submodule 子模块 子仓库&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ git submodule &lt;span class=&#34;hljs-built_in&#34;&gt;help&lt;/span&gt;&lt;br&gt;usage: git submodule [--quiet] [--cached]&lt;br&gt;   or: git submodule [--quiet] add [-b &amp;lt;branch&amp;gt;] [-f|--force] [--name &amp;lt;name&amp;gt;] [--reference &amp;lt;repository&amp;gt;] [--] &amp;lt;repository&amp;gt; [&amp;lt;path&amp;gt;]&lt;br&gt;   or: git submodule [--quiet] status [--cached] [--recursive] [--] [&amp;lt;path&amp;gt;...]&lt;br&gt;   or: git submodule [--quiet] init [--] [&amp;lt;path&amp;gt;...]&lt;br&gt;   or: git submodule [--quiet] deinit [-f|--force] (--all| [--] &amp;lt;path&amp;gt;...)&lt;br&gt;   or: git submodule [--quiet] update [--init] [--remote] [-N|--no-fetch] [-f|--force] [--checkout|--merge|--rebase] [--[no-]recommend-shallow] [--reference &amp;lt;repository&amp;gt;] [--recursive] [--[no-]single-branch] [--] [&amp;lt;path&amp;gt;...]&lt;br&gt;   or: git submodule [--quiet] set-branch (--default|--branch &amp;lt;branch&amp;gt;) [--] &amp;lt;path&amp;gt;&lt;br&gt;   or: git submodule [--quiet] set-url [--] &amp;lt;path&amp;gt; &amp;lt;newurl&amp;gt;&lt;br&gt;   or: git submodule [--quiet] summary [--cached|--files] [--summary-limit &amp;lt;n&amp;gt;] [commit] [--] [&amp;lt;path&amp;gt;...]&lt;br&gt;   or: git submodule [--quiet] foreach [--recursive] &amp;lt;&lt;span class=&#34;hljs-built_in&#34;&gt;command&lt;/span&gt;&amp;gt;&lt;br&gt;   or: git submodule [--quiet] &lt;span class=&#34;hljs-built_in&#34;&gt;sync&lt;/span&gt; [--recursive] [--] [&amp;lt;path&amp;gt;...]&lt;br&gt;   or: git submodule [--quiet] absorbgitdirs [--] [&amp;lt;path&amp;gt;...]&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 子模块的添加&lt;/span&gt;&lt;br&gt;git submodule add [-b branch] &amp;lt;url&amp;gt; &amp;lt;path&amp;gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 子模块的初始化&amp;amp;更新下载&lt;/span&gt;&lt;br&gt;git submodule init&lt;br&gt;git submodule update&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 递归更新子模块&lt;/span&gt;&lt;br&gt;git submodule update --init --recurse&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 子模块的添加&lt;/span&gt;&lt;br&gt;git submodule add [-b branch] &amp;lt;url&amp;gt; &amp;lt;path&amp;gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 子模块的初始化&amp;amp;更新下载&lt;/span&gt;&lt;br&gt;git submodule init&lt;br&gt;git submodule update&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 递归更新子模块&lt;/span&gt;&lt;br&gt;git submodule update --init --recursive&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;ul&gt;
 &lt;li&gt;还有更简单一点的方式。 如果给 &lt;code&gt;git clone&lt;/code&gt; 命令传递 &lt;code&gt;--recurse-submodules&lt;/code&gt; 选项，它就会自动初始化并更新仓库中的每一个子模块， 包括可能存在的嵌套子模块。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;删除-git-submodule&#34;&gt;&lt;a href=&#34;#删除-git-submodule&#34; class=&#34;headerlink&#34; title=&#34;删除 git submodule&#34;&gt;&lt;/a&gt;删除 git submodule&lt;/h3&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;1. 删除submodule缓存&lt;/span&gt;&lt;br&gt;git add .gitmodules&lt;br&gt;git rm --cached submodule_name&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;2. &lt;span class=&#34;hljs-built_in&#34;&gt;rm&lt;/span&gt; -rf submodule_name 删除submodule目录&lt;/span&gt;&lt;br&gt;rm -rf submodule_name&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;3. vi .gitmodules 删除项目目录下.gitmodules中子模块相关条目&lt;/span&gt;&lt;br&gt;移除对应的submodule信息，只有1个submodule信息也可以删除该文件。&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;4. vi .git/config 删除配置项中子模块相关条目&lt;/span&gt;&lt;br&gt;移除对应的submodule信息&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;5. &lt;span class=&#34;hljs-built_in&#34;&gt;rm&lt;/span&gt; .git/module/* 删除模块下的子模块目录，每个子模块对应一个目录，注意只删除对应的子模块目录即可&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
 &lt;h2 id=&#34;合并没有相关历史的提交&#34;&gt;&lt;a href=&#34;#合并没有相关历史的提交&#34; class=&#34;headerlink&#34; title=&#34;合并没有相关历史的提交&#34;&gt;&lt;/a&gt;合并没有相关历史的提交&lt;/h2&gt;&lt;p&gt;将test2分支合并到master分支中 &lt;code&gt;git merge test2 --allow-unrelated-histories &lt;/code&gt;&lt;/p&gt;
 &lt;h4 id=&#34;合并两个没有相同历史的Git仓库&#34;&gt;&lt;a href=&#34;#合并两个没有相同历史的Git仓库&#34; class=&#34;headerlink&#34; title=&#34;合并两个没有相同历史的Git仓库&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://www.cnblogs.com/masahiro/p/12155758.html&#34;&gt;合并两个没有相同历史的Git仓库&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;首先在需要合并的仓库中增加另外一个远程仓库 &lt;code&gt;git remote add test2 http://git.xxx.xxx/test2 &lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;然后将test2的仓库拉取到本地 &lt;code&gt;git fetch test2 &lt;/code&gt;&lt;/p&gt;
@@ -1004,7 +1072,7 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Host 后面 接的 github.com 是指定要走代理的仓库域名。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 在 ProxyCommand 中，Linux 和 macOS 用户用的是 nc。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# -X 选项后面接的是 connect. 意思是 HTTPS 代理。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# -x 选项后面加上代理地址和端口号。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 在调用 ProxyCommand 时，%h 和 %p 将会被自动替换为目标主机名和 SSH 命令指定的端口（%h 和 %p 不要修改，保留原样即可）。&lt;/span&gt;&lt;br&gt;Host github.com&lt;br&gt;    User git&lt;br&gt;    ProxyCommand nc -X connect -x 127.0.0.1:7890 %h %p&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# -X 选项后面接的是 5. 意思是 socks5 代理。&lt;/span&gt;&lt;br&gt;Host github.com&lt;br&gt;    User git&lt;br&gt;    ProxyCommand nc -X 5 -x 127.0.0.1:7891 %h %p&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h4 id=&#34;Windows-SSH-配置&#34;&gt;&lt;a href=&#34;#Windows-SSH-配置&#34; class=&#34;headerlink&#34; title=&#34;Windows SSH 配置&#34;&gt;&lt;/a&gt;Windows SSH 配置&lt;/h4&gt;&lt;p&gt;编辑 &lt;code&gt;~/.ssh/config&lt;/code&gt; 文件，然后增加如下内容：&lt;/p&gt;
-&lt;figure class=&#34;highlight perl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs perl&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Host 后面 接的 github.com 是指定要走代理的仓库域名。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 在 ProxyCommand 中，Windows 用户用的是 connect。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# -S代表的是socks5 -H 选项的意思是 HTTP 代理 &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 在调用 ProxyCommand 时，%h 和 %p 将会被自动替换为目标主机名和 SSH 命令指定的端口（%h 和 %p 不要修改，保留原样即可）。&lt;/span&gt;&lt;br&gt;Host github.com&lt;br&gt;	ProxyCommand &lt;span class=&#34;hljs-keyword&#34;&gt;connect&lt;/span&gt; -S &lt;span class=&#34;hljs-number&#34;&gt;127.0&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;1080&lt;/span&gt; %h %p&lt;br&gt;Host github.com&lt;br&gt;	ProxyCommand &lt;span class=&#34;hljs-keyword&#34;&gt;connect&lt;/span&gt; -H &lt;span class=&#34;hljs-number&#34;&gt;127.0&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;1080&lt;/span&gt; %h %p&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight perl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs perl&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Host 后面 接的 github.com 是指定要走代理的仓库域名。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 在 ProxyCommand 中，Windows 用户用的是 connect。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# -S代表的是socks5 -H 选项的意思是 HTTP 代理 &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 在调用 ProxyCommand 时，%h 和 %p 将会被自动替换为目标主机名和 SSH 命令指定的端口（%h 和 %p 不要修改，保留原样即可）。&lt;/span&gt;&lt;br&gt;Host github.com&lt;br&gt;	ProxyCommand &lt;span class=&#34;hljs-keyword&#34;&gt;connect&lt;/span&gt; -S &lt;span class=&#34;hljs-number&#34;&gt;127.0&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;1080&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;%h&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;%p&lt;/span&gt;&lt;br&gt;Host github.com&lt;br&gt;	ProxyCommand &lt;span class=&#34;hljs-keyword&#34;&gt;connect&lt;/span&gt; -H &lt;span class=&#34;hljs-number&#34;&gt;127.0&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;.&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;1080&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;%h&lt;/span&gt; &lt;span class=&#34;hljs-variable&#34;&gt;%p&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
@@ -1037,6 +1105,44 @@
 &lt;p&gt;&lt;strong&gt;修改配置文件&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;打开 &lt;code&gt;.git/config&lt;/code&gt; 找到 &lt;code&gt;[remote &amp;quot;github&amp;quot;]&lt;/code&gt;，添加对应的 &lt;code&gt;url&lt;/code&gt; 即可，效果如下。这种方法其实和方法二是一样的。&lt;/p&gt;
 &lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;[remote &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;github&amp;quot;&lt;/span&gt;]&lt;br&gt;    url = https:&lt;span class=&#34;hljs-regexp&#34;&gt;//gi&lt;/span&gt;thub.com&lt;span class=&#34;hljs-regexp&#34;&gt;/zxbetter/&lt;/span&gt;test.git&lt;br&gt;    fetch = +refs&lt;span class=&#34;hljs-regexp&#34;&gt;/heads/&lt;/span&gt;*:refs&lt;span class=&#34;hljs-regexp&#34;&gt;/remotes/gi&lt;/span&gt;thub/*&lt;br&gt;    url = https:&lt;span class=&#34;hljs-regexp&#34;&gt;//gi&lt;/span&gt;t.oschina.net&lt;span class=&#34;hljs-regexp&#34;&gt;/zxbetter/&lt;/span&gt;test.git&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h2 id=&#34;忽略已经受到版本管理的文件修改&#34;&gt;&lt;a href=&#34;#忽略已经受到版本管理的文件修改&#34; class=&#34;headerlink&#34; title=&#34;忽略已经受到版本管理的文件修改&#34;&gt;&lt;/a&gt;忽略已经受到版本管理的文件修改&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;隐藏&lt;/span&gt;&lt;br&gt;git update-index --assume-unchanged &amp;lt;path&amp;gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;恢复可见&lt;/span&gt;&lt;br&gt;git update-index --no-assume-unchanged &amp;lt;path&amp;gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;查看所有已经忽略的文件&lt;/span&gt;&lt;br&gt;! git ls-files -v | grep &amp;#x27;^h&amp;#x27; | cut -c3-&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;重置所有已经忽略的文件为可见&lt;/span&gt;&lt;br&gt;git ls-files -v | grep &amp;#x27;^[a-z]&amp;#x27; | cut -c3- | xargs git update-index --no-assume-unchanged --&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;gitignore&#34;&gt;&lt;a href=&#34;#gitignore&#34; class=&#34;headerlink&#34; title=&#34;.gitignore&#34;&gt;&lt;/a&gt;.gitignore&lt;/h2&gt;&lt;p&gt;&lt;code&gt;.gitignore&lt;/code&gt; 文件是一个配置文件，用于告诉 Git 版本控制系统哪些文件或目录不需要被跟踪或包含在版本控制中。这个文件通常位于项目的根目录下，并且它的存在对于避免将不必要的文件（比如编译生成的文件、日志文件、个人配置文件等）加入到版本库中非常重要。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;使用&lt;code&gt;git config&lt;/code&gt;命令&lt;/strong&gt;：&lt;br&gt;你可以通过设置Git的全局或仓库级别的配置来指定一个默认的&lt;code&gt;.gitignore&lt;/code&gt;模板。例如，设置全局的&lt;code&gt;.gitignore&lt;/code&gt;模板：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;git config --global core.excludesfile ~/.gitignore_global&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;**使用&lt;code&gt;gitignore.io&lt;/code&gt;**：&lt;br&gt;&lt;code&gt;gitignore.io&lt;/code&gt;是一个在线服务，可以根据你使用的操作系统、编程语言和IDE生成&lt;code&gt;.gitignore&lt;/code&gt;文件。访问&lt;a href=&#34;https://www.gitignore.io/&#34;&gt;gitignore.io&lt;/a&gt;，选择你需要的选项，然后下载生成的&lt;code&gt;.gitignore&lt;/code&gt;文件。&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;参数里面的 c windows 是两个参数，分别设定语言和环境&lt;/span&gt;&lt;br&gt;curl -sL &amp;quot;https://www.toptal.com/developers/gitignore/api/c,windows&amp;quot; &amp;gt;&amp;gt; .gitignore&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  Tips: 如果你不慎&lt;strong&gt;在创建.gitignore文件之前就push了项目&lt;/strong&gt;，那么即使你在.gitignore文件中写入新的过滤规则，这些规则也不会起作用，Git仍然会对所有文件进行版本管理。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;.gitignore 忽略规则的语法如下：&lt;/span&gt;&lt;br&gt;&lt;br&gt;1、空格不匹配任意文件，可作为分隔符，可用反斜杠转义&lt;br&gt;&lt;br&gt;2、以“＃”开头的行都会被 Git 忽略。即#开头的文件标识注释，可以使用反斜杠进行转义。&lt;br&gt;&lt;br&gt;3、可以使用标准的glob模式匹配。所谓的glob模式是指shell所使用的简化了的正则表达式。&lt;br&gt;&lt;br&gt;4、以斜杠&amp;quot;/&amp;quot;开头表示目录；&amp;quot;/&amp;quot;结束的模式只匹配文件夹以及在该文件夹路径下的内容，但是不匹配该文件；&amp;quot;/&amp;quot;开始的模式匹配项目跟目录；如果一个模式不包含斜杠，则它匹配相对于当前 .gitignore 文件路径的内容，如果该模式不在 .gitignore 文件中，则相对于项目根目录。&lt;br&gt;&lt;br&gt;5、以星号&amp;quot;*&amp;quot;通配多个字符，即匹配多个任意字符；使用两个星号&amp;quot;**&amp;quot; 表示匹配任意中间目录，比如a/**/z可以匹配 a/z, a/b/z 或 a/b/c/z等。&lt;br&gt;&lt;br&gt;6、以问号&amp;quot;?&amp;quot;通配单个字符，即匹配一个任意字符；&lt;br&gt;&lt;br&gt;7、以方括号&amp;quot;[]&amp;quot;包含单个字符的匹配列表，即匹配任何一个列在方括号中的字符。比如[abc]表示要么匹配一个a，要么匹配一个b，要么匹配一个c；如果在方括号中使用短划线分隔两个字符，表示所有在这两个字符范围内的都可以匹配。比如[0-9]表示匹配所有0到9的数字，[a-z]表示匹配任意的小写字母）。&lt;br&gt;&lt;br&gt;8、以叹号&amp;quot;!&amp;quot;表示不忽略(跟踪)匹配到的文件或目录，即要忽略指定模式以外的文件或目录，可以在模式前加上惊叹号（!）取反。需要特别注意的是：如果文件的父目录已经被前面的规则排除掉了，那么对这个文件用&amp;quot;!&amp;quot;规则是不起作用的。也就是说&amp;quot;!&amp;quot;开头的模式表示否定，该文件将会再次被包含，如果排除了该文件的父级目录，则使用&amp;quot;!&amp;quot;也不会再次被包含。可以使用反斜杠进行转义。&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;此为注释 – 将被 Git 忽略&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;忽略所有 .a 结尾的文件&lt;/span&gt;&lt;br&gt;*.a&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;但 lib.a 除外&lt;/span&gt;&lt;br&gt;!lib.a&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;仅仅忽略项目根目录下的 TODO 文件，不包括 subdir/TODO&lt;/span&gt;&lt;br&gt;/TODO&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;表示仅仅忽略根目录下的bin文件&lt;/span&gt;&lt;br&gt;/bin:&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;忽略 所有 build/ 目录下的所有文件&lt;/span&gt;&lt;br&gt;build/&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;表示忽略 任意路径下 所有foo文件夹 /foo,a/foo,a/b/foo等&lt;/span&gt;&lt;br&gt;**/foo:&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;会忽略 doc/notes.txt 但不包括 doc/server/arch.txt&lt;/span&gt;&lt;br&gt;doc/*.txt&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;忽略 doc/ 目录下所有扩展名为 txt 的文件&lt;/span&gt;&lt;br&gt;doc/**/*.txt&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;示例&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;忽略 mtk文件夹 下 除了ont.txt 的所有文件&lt;/span&gt;&lt;br&gt;!/mtk/one.txt&lt;br&gt;/mtk/*&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;已经受到版本库管理的文件需要忽略查考Note章节。&lt;/p&gt;
+&lt;h2 id=&#34;gitattributes&#34;&gt;&lt;a href=&#34;#gitattributes&#34; class=&#34;headerlink&#34; title=&#34;.gitattributes&#34;&gt;&lt;/a&gt;.gitattributes&lt;/h2&gt;&lt;p&gt;&lt;code&gt;.gitattributes&lt;/code&gt; 文件是一个配置文件，它允许你为 Git 仓库中的文件定义属性。这些属性可以影响 Git 的行为，例如如何合并文件、如何显示差异、文件的换行符处理等。&lt;code&gt;.gitattributes&lt;/code&gt; 文件通常位于项目的根目录下，它与 &lt;code&gt;.gitignore&lt;/code&gt; 文件不同，后者用于指定 Git 忽略的文件。&lt;/p&gt;
+&lt;h3 id=&#34;示例&#34;&gt;&lt;a href=&#34;#示例&#34; class=&#34;headerlink&#34; title=&#34;示例&#34;&gt;&lt;/a&gt;示例&lt;/h3&gt;&lt;p&gt;下面是一个示例 &lt;code&gt;.gitattributes&lt;/code&gt; 文件。 您可以将其用作仓库的模板：&lt;/p&gt;
+&lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;# Set the default behavior, in case people don&amp;#x27;t have core.autocrlf set.&lt;br&gt;* text=auto&lt;br&gt;&lt;br&gt;# Explicitly declare text files you want to always be normalized and converted&lt;br&gt;# to native line endings on checkout.&lt;br&gt;*.c text&lt;br&gt;*.h text&lt;br&gt;&lt;br&gt;# Declare files that will always have CRLF line endings on checkout.&lt;br&gt;*.sln text eol=crlf&lt;br&gt;&lt;br&gt;# Denote all files that are truly binary and should not be modified.&lt;br&gt;*.png binary&lt;br&gt;*.jpg binary&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;你会注意到，文件是匹配的，即 &lt;code&gt;*.c&lt;/code&gt;、&lt;code&gt;*.sln&lt;/code&gt;、&lt;code&gt;*.png&lt;/code&gt;（用空格分隔），然后给定一个设置，即 &lt;code&gt;text&lt;/code&gt;、&lt;code&gt;text eol=crlf&lt;/code&gt;、&lt;code&gt;binary&lt;/code&gt;。 我们将在下面介绍一些可能的设置。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;text=auto&lt;/code&gt; Git 将以其认为的最佳方式处理文件。 这是一个合适的默认选项。&lt;/li&gt;
+&lt;li&gt;在检出时 &lt;code&gt;text eol=crlf&lt;/code&gt; Git 将始终把行结束符转换为 &lt;code&gt;CRLF&lt;/code&gt;。 你应将其用于必须保持 &lt;code&gt;CRLF&lt;/code&gt; 结束符的文件，即使在 OSX 或 Linux 上。&lt;/li&gt;
+&lt;li&gt;在检出时 &lt;code&gt;text eol=lf&lt;/code&gt; Git 将始终把行结束符转换为 &lt;code&gt;LF&lt;/code&gt;。 您应将其用于必须保持 LF 结束符的文件，即使在 Windows 上。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;binary&lt;/code&gt; Git 会理解指定文件不是文本，并且不应尝试更改这些文件。 该 &lt;code&gt;binary&lt;/code&gt; 设置也是 &lt;code&gt;-text -diff&lt;/code&gt; 的别名。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings&#34;&gt;参考&lt;/a&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

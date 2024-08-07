@@ -7,37 +7,42 @@
         <language>zh-CN</language>
         <pubDate>Mon, 19 Dec 2022 20:48:05 +0800</pubDate>
         <lastBuildDate>Mon, 19 Dec 2022 20:48:05 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,28 +155,48 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/a2c49dae/</guid>
             <title>PowerShell</title>
@@ -199,7 +216,7 @@
 
 &lt;figure class=&#34;highlight powershell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs powershell&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;PS&lt;/span&gt; &amp;gt; &lt;span class=&#34;hljs-built_in&#34;&gt;Get-Date&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;-Format&lt;/span&gt; HH:mm:ss&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;21&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;34&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;h2 id=&#34;Powershell-ANSI颜色&#34;&gt;&lt;a href=&#34;#Powershell-ANSI颜色&#34; class=&#34;headerlink&#34; title=&#34;Powershell ANSI颜色&#34;&gt;&lt;/a&gt;Powershell ANSI颜色&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://juejin.cn/post/6920241597846126599&#34;&gt;参考: 了解 ANSI 转义码的 color 设置&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Powershell-ANSI颜色&#34;&gt;&lt;a href=&#34;#Powershell-ANSI颜色&#34; class=&#34;headerlink&#34; title=&#34;Powershell ANSI颜色&#34;&gt;&lt;/a&gt;Powershell ANSI颜色&lt;/h2&gt;&lt;p&gt;参考:&lt;br&gt;&lt;a href=&#34;https://juejin.cn/post/6920241597846126599&#34;&gt;了解 ANSI 转义码的 color 设置&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/570148970&#34;&gt;ANSI转义代码&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;  To use one of the ANSI escape codes, we need a literal &lt;a href=&#34;https://en.wikipedia.org/wiki/Escape_character#ASCII_escape_character&#34;&gt;ESC character&lt;/a&gt;. This is octal 033, or decimal 27. In Bash, you would use &lt;code&gt;&amp;quot;\033&amp;quot;&lt;/code&gt; or &lt;code&gt;&amp;quot;\e&amp;quot;&lt;/code&gt;; There’s no direct equivalent sequence in PowerShell but you can instead embed an expression: &lt;code&gt;&amp;quot;$([char]27)&amp;quot;&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;  PowerShell 中没有直接等效的序列，但您可以改为嵌入一个表达式：&lt;code&gt;&amp;quot;$([char]27)&amp;quot;&lt;/code&gt;，也就是说要将&lt;code&gt;\e&lt;/code&gt;修改为&lt;code&gt;$([char]27)&lt;/code&gt;&lt;/p&gt;
@@ -424,7 +441,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 &lt;p&gt;颜色对照表&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2022/a2c49dae/e9436bb4998a4fbf9bd5abbe74121ccdtplv-k3u1fbpfcp-zoom-in-crop-mark4536000.awebp&#34; alt=&#34;3bit-color&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/PowerShell.assets/e9436bb4998a4fbf9bd5abbe74121ccdtplv-k3u1fbpfcp-zoom-in-crop-mark4536000.webp&#34; alt=&#34;3bit-color&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;Powershell-修改提示符的文字内容和颜色&#34;&gt;&lt;a href=&#34;#Powershell-修改提示符的文字内容和颜色&#34; class=&#34;headerlink&#34; title=&#34;Powershell 修改提示符的文字内容和颜色&#34;&gt;&lt;/a&gt;Powershell 修改提示符的文字内容和颜色&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.lfhacks.com/tech/powershell-prompt-customization/&#34;&gt;参考: Powershell 修改提示符的文字内容和颜色&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.vvzero.com/2019/07/22/set-user-alias-for-windows-PowerShell/&#34;&gt;参考: 为 Windows PowerShell 设置 User Alias （命令别名）&lt;/a&gt;&lt;/p&gt;
 &lt;ol&gt;

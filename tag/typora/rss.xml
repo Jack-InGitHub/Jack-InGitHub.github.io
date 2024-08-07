@@ -7,37 +7,42 @@
         <language>zh-CN</language>
         <pubDate>Fri, 15 Jul 2022 17:23:05 +0800</pubDate>
         <lastBuildDate>Fri, 15 Jul 2022 17:23:05 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,28 +155,48 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/77d62815/</guid>
             <title>Typora强制升级解决办法</title>
@@ -202,6 +219,29 @@
 &lt;p&gt;最简单的操作就是用破解&lt;code&gt;app.asar&lt;/code&gt;文件替换掉原来的文件&lt;/p&gt;
 &lt;p&gt;注意备份, 替换 &lt;code&gt;C:\Program Files\Typora\resources\app.asar&lt;/code&gt;即可&lt;/p&gt;
 &lt;h1 id=&#34;鸣谢&#34;&gt;&lt;a href=&#34;#鸣谢&#34; class=&#34;headerlink&#34; title=&#34;鸣谢&#34;&gt;&lt;/a&gt;鸣谢&lt;/h1&gt;&lt;p&gt;感谢先驱&lt;br&gt;&lt;a href=&#34;https://github.com/fossabot/typoraCracker&#34;&gt;https://github.com/fossabot/typoraCracker&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;正式版本激活方式&#34;&gt;&lt;a href=&#34;#正式版本激活方式&#34; class=&#34;headerlink&#34; title=&#34;正式版本激活方式&#34;&gt;&lt;/a&gt;正式版本激活方式&lt;/h1&gt;&lt;p&gt;参考：&lt;a href=&#34;https://github.com/DiamondHunters/NodeInject_Hook_example&#34;&gt;https://github.com/DiamondHunters/NodeInject_Hook_example&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/661170065&#34;&gt;https://zhuanlan.zhihu.com/p/661170065&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  V1.76实测通过&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;node_inject.exe&lt;/code&gt; 注册钩子修改node_modules.asar文件，&lt;code&gt;license-gen.exe&lt;/code&gt;生成注册序列号。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;正常安装软件。安装结束不要勾选 &lt;em&gt;“运行程序”&lt;/em&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;将&lt;code&gt;node_inject.exe&lt;/code&gt; 和&lt;code&gt;license-gen.exe&lt;/code&gt;复制到typora安装目录。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;例如 &lt;code&gt;C:\Program Files\Typora&lt;/code&gt; （需要管理员权限启用CMD）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;打开CMD窗口&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;先运行 &lt;code&gt;node_inject.exe&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;生成序列号 &lt;code&gt;license-gen.exe&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;命令行内直接运行 &lt;code&gt;Typora.exe&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;输入序列号激活，激活如果出现网络错误、序列号异常、请重启软件再次尝试或重启电脑再次尝试。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;14:30:02Typora&amp;gt;.\node_inject.exe&lt;br&gt;extracting node_modules.asar&lt;br&gt;adding hook.js&lt;br&gt;applying patch&lt;br&gt;packing node_modules.asar&lt;br&gt;done!&lt;br&gt;14:30:20Typora&amp;gt;&lt;br&gt;14:30:23Typora&amp;gt;.\license-gen.exe&lt;br&gt;License for you: DVSAKM-4G2U53-ZPPHUK-9XLDK8&lt;br&gt;14:30:31Typora&amp;gt;.\Typora.exe&lt;br&gt;14:30:32Typora&amp;gt;&lt;br&gt;Hook Init&lt;br&gt;Require events&lt;br&gt;Require electron-fetch&lt;br&gt;Hooking electron-fetch&lt;br&gt;Require fs&lt;br&gt;Require package.json&lt;br&gt;console.log override blocked&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ol&gt;
  ]]></description>
         </item>
     </channel>

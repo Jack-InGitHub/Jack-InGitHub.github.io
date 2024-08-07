@@ -7,37 +7,42 @@
         <language>zh-CN</language>
         <pubDate>Thu, 12 Jan 2023 12:08:08 +0800</pubDate>
         <lastBuildDate>Thu, 12 Jan 2023 12:08:08 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,31 +155,51 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2023/e7fefe87/</guid>
-            <title>Let’s Encrypt SSL 证书申请</title>
+            <title>Let&#39;s Encrypt SSL 证书申请</title>
             <link>https://www.oikiou.top/2023/e7fefe87/</link>
             <category>ssl</category>
             <category>https</category>
@@ -208,6 +225,7 @@
 &lt;li&gt;拥有域名，能够自主配置DNS。或者提供Web服务器做验证，在网站目录下放一个文件。&lt;/li&gt;
 &lt;li&gt;获取证书的环境要能访问DNS服务器，因为会需要做DNS解析校验。&lt;/li&gt;
 &lt;li&gt;需要有远程主机的权限，会需要更新和安装组件。&lt;/li&gt;
+&lt;li&gt;公网IP，保留地址无法申请SSL。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id=&#34;申请步骤&#34;&gt;&lt;a href=&#34;#申请步骤&#34; class=&#34;headerlink&#34; title=&#34;申请步骤&#34;&gt;&lt;/a&gt;申请步骤&lt;/h1&gt;&lt;p&gt;Let’s Encrypt 的证书申请除去手动申请常见的主要有下面这几种&lt;/p&gt;
 &lt;ul&gt;
@@ -279,12 +297,13 @@
   &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--issue&lt;/span&gt; -d mydomain2&lt;span class=&#34;hljs-selector-class&#34;&gt;.com&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--dns&lt;/span&gt;  dns_dp&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;  更详细的 api 用法: &lt;a href=&#34;https://github.com/Neilpang/acme.sh/blob/master/dnsapi/README.md&#34;&gt;https://github.com/Neilpang/acme.sh/blob/master/dnsapi/README.md&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;3-copy-x2F-安装-证书&#34;&gt;&lt;a href=&#34;#3-copy-x2F-安装-证书&#34; class=&#34;headerlink&#34; title=&#34;3. copy&amp;#x2F;安装 证书&#34;&gt;&lt;/a&gt;3. copy&amp;#x2F;安装 证书&lt;/h1&gt;&lt;p&gt;  前面证书生成以后, 接下来需要把证书 copy 到真正需要用它的地方.&lt;/p&gt;
+&lt;h3 id=&#34;3-其他的激活方式&#34;&gt;&lt;a href=&#34;#3-其他的激活方式&#34; class=&#34;headerlink&#34; title=&#34;3. 其他的激活方式&#34;&gt;&lt;/a&gt;3. 其他的激活方式&lt;/h3&gt;&lt;p&gt;  &lt;a href=&#34;https://github.com/acmesh-official/acme.sh/wiki/How-to-issue-a-cert&#34;&gt;https://github.com/acmesh-official/acme.sh/wiki/How-to-issue-a-cert&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;3-copy-安装-证书&#34;&gt;&lt;a href=&#34;#3-copy-安装-证书&#34; class=&#34;headerlink&#34; title=&#34;3. copy&amp;#x2F;安装 证书&#34;&gt;&lt;/a&gt;3. copy&amp;#x2F;安装 证书&lt;/h1&gt;&lt;p&gt;  前面证书生成以后, 接下来需要把证书 copy 到真正需要用它的地方.&lt;/p&gt;
 &lt;p&gt;  注意, 默认生成的证书都放在安装目录下: &lt;code&gt;~/.acme.sh/&lt;/code&gt;, &lt;strong&gt;请不要直接使用此目录下的文件,&lt;/strong&gt; 例如: 不要直接让 nginx&amp;#x2F;apache 的配置文件使用这下面的文件. 这里面的文件都是内部使用, 而且目录结构可能会变化.&lt;/p&gt;
 &lt;p&gt;  正确的使用方法是使用 &lt;code&gt;--install-cert&lt;/code&gt; 命令,并指定目标位置, 然后证书文件会被copy到相应的位置, 例如:&lt;/p&gt;
 &lt;h2 id=&#34;Apache-example&#34;&gt;&lt;a href=&#34;#Apache-example&#34; class=&#34;headerlink&#34; title=&#34;Apache example:&#34;&gt;&lt;/a&gt;Apache example:&lt;/h2&gt;  &lt;figure class=&#34;highlight gradle&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs gradle&#34;&gt;acme.sh --install-cert -d example.com \&lt;br&gt;--cert-&lt;span class=&#34;hljs-keyword&#34;&gt;file&lt;/span&gt;      &lt;span class=&#34;hljs-regexp&#34;&gt;/path/&lt;/span&gt;to&lt;span class=&#34;hljs-regexp&#34;&gt;/certfile/i&lt;/span&gt;n&lt;span class=&#34;hljs-regexp&#34;&gt;/apache/&lt;/span&gt;cert.pem  \&lt;br&gt;--key-&lt;span class=&#34;hljs-keyword&#34;&gt;file&lt;/span&gt;       &lt;span class=&#34;hljs-regexp&#34;&gt;/path/&lt;/span&gt;to&lt;span class=&#34;hljs-regexp&#34;&gt;/keyfile/i&lt;/span&gt;n&lt;span class=&#34;hljs-regexp&#34;&gt;/apache/&lt;/span&gt;key.pem  \&lt;br&gt;--fullchain-&lt;span class=&#34;hljs-keyword&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;hljs-regexp&#34;&gt;/path/&lt;/span&gt;to&lt;span class=&#34;hljs-regexp&#34;&gt;/fullchain/&lt;/span&gt;certfile&lt;span class=&#34;hljs-regexp&#34;&gt;/apache/&lt;/span&gt;fullchain.pem \&lt;br&gt;--reloadcmd     &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;service apache2 force-reload&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;h2 id=&#34;Nginx-example&#34;&gt;&lt;a href=&#34;#Nginx-example&#34; class=&#34;headerlink&#34; title=&#34;Nginx example:&#34;&gt;&lt;/a&gt;Nginx example:&lt;/h2&gt;  &lt;figure class=&#34;highlight gradle&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs gradle&#34;&gt;acme.sh --install-cert -d example.com \&lt;br&gt;--key-&lt;span class=&#34;hljs-keyword&#34;&gt;file&lt;/span&gt;       &lt;span class=&#34;hljs-regexp&#34;&gt;/path/&lt;/span&gt;to&lt;span class=&#34;hljs-regexp&#34;&gt;/keyfile/i&lt;/span&gt;n&lt;span class=&#34;hljs-regexp&#34;&gt;/nginx/&lt;/span&gt;key.pem  \&lt;br&gt;--fullchain-&lt;span class=&#34;hljs-keyword&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;hljs-regexp&#34;&gt;/path/&lt;/span&gt;to&lt;span class=&#34;hljs-regexp&#34;&gt;/fullchain/&lt;/span&gt;nginx/cert.pem \&lt;br&gt;--reloadcmd     &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;service nginx force-reload&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;Nginx-example&#34;&gt;&lt;a href=&#34;#Nginx-example&#34; class=&#34;headerlink&#34; title=&#34;Nginx example:&#34;&gt;&lt;/a&gt;Nginx example:&lt;/h2&gt;  &lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs stylus&#34;&gt;acme&lt;span class=&#34;hljs-selector-class&#34;&gt;.sh&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;--install-cert&lt;/span&gt; -d example&lt;span class=&#34;hljs-selector-class&#34;&gt;.com&lt;/span&gt; \&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;--key-file&lt;/span&gt;       /path/to/keyfile/&lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt;/nginx/key&lt;span class=&#34;hljs-selector-class&#34;&gt;.pem&lt;/span&gt;  \&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;--fullchain-file&lt;/span&gt; /path/to/fullchain/nginx/cert&lt;span class=&#34;hljs-selector-class&#34;&gt;.pem&lt;/span&gt; \&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;--reloadcmd&lt;/span&gt;     &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;service nginx force-reload&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;  (一个小提醒, 这里用的是 &lt;code&gt;service nginx force-reload&lt;/code&gt;, 不是 &lt;code&gt;service nginx reload&lt;/code&gt;, 据测试, &lt;code&gt;reload&lt;/code&gt; 并不会重新加载证书, 所以用的 &lt;code&gt;force-reload&lt;/code&gt;)&lt;/p&gt;
 &lt;blockquote&gt;
@@ -298,7 +317,7 @@
 
 &lt;h1 id=&#34;5-更新证书&#34;&gt;&lt;a href=&#34;#5-更新证书&#34; class=&#34;headerlink&#34; title=&#34;5. 更新证书&#34;&gt;&lt;/a&gt;5. 更新证书&lt;/h1&gt;&lt;p&gt;  目前证书在 60 天以后会自动更新, 你无需任何操作. 今后有可能会缩短这个时间, 不过都是自动的, 你不用关心.&lt;/p&gt;
 &lt;p&gt;  请确保 cronjob 正确安装, 看起来是类似这样的:&lt;/p&gt;
-  &lt;figure class=&#34;highlight gradle&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs gradle&#34;&gt;crontab  -l&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;56&lt;/span&gt; * * * * &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;/root/.acme.sh&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-regexp&#34;&gt;/acme.sh --cron --home &amp;quot;/&lt;/span&gt;root&lt;span class=&#34;hljs-regexp&#34;&gt;/.acme.sh&amp;quot; &amp;gt; /&lt;/span&gt;dev/&lt;span class=&#34;hljs-keyword&#34;&gt;null&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+  &lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs jboss-cli&#34;&gt;crontab  -l&lt;br&gt;&lt;br&gt;56 * * * * &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;/root/.acme.sh&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;/acme.sh&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;--cron&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;--home&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;/root/.acme.sh&amp;quot;&lt;/span&gt; &amp;gt; &lt;span class=&#34;hljs-string&#34;&gt;/dev/null&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h1 id=&#34;6-关于修改ReloadCmd&#34;&gt;&lt;a href=&#34;#6-关于修改ReloadCmd&#34; class=&#34;headerlink&#34; title=&#34;6. 关于修改ReloadCmd&#34;&gt;&lt;/a&gt;6. 关于修改ReloadCmd&lt;/h1&gt;&lt;p&gt;  目前修改&lt;code&gt;ReloadCmd&lt;/code&gt;没有专门的命令，可以通过重新安装证书来实现修改&lt;code&gt;reloadCmd&lt;/code&gt;的目的。 此外，安装证书后，相关信息是保存在&lt;code&gt;~/.acme.sh/example.com/example.conf&lt;/code&gt;文件下的，内容就是&lt;code&gt;acme.sh --info -d example.com&lt;/code&gt;输出的信息，不过&lt;code&gt;ReloadCmd&lt;/code&gt;在文件中使用了Base64编码。理论上可以通过直接修改该文件来修改&lt;code&gt;ReloadCmd&lt;/code&gt;，且修改时，无需Base64编码，直接写命令原文&lt;code&gt;acme.sh&lt;/code&gt;也可以识别。 不过，&lt;code&gt;example.conf&lt;/code&gt;文件的位置和内容格式以后可能会改变！&lt;code&gt;example.conf&lt;/code&gt;一直都是内部使用, 后面有可能会改为用 sqlite 或者mysql 格式存储. 所以一般不建议自己修改。&lt;/p&gt;
 &lt;h1 id=&#34;7-更新-acme-sh&#34;&gt;&lt;a href=&#34;#7-更新-acme-sh&#34; class=&#34;headerlink&#34; title=&#34;7. 更新 acme.sh&#34;&gt;&lt;/a&gt;7. 更新 acme.sh&lt;/h1&gt;&lt;p&gt;  目前由于 acme 协议和 letsencrypt CA 都在频繁的更新, 因此 acme.sh 也经常更新以保持同步.&lt;/p&gt;
@@ -420,7 +439,7 @@
 
 &lt;h2 id=&#34;Wordpress-1&#34;&gt;&lt;a href=&#34;#Wordpress-1&#34; class=&#34;headerlink&#34; title=&#34;Wordpress&#34;&gt;&lt;/a&gt;Wordpress&lt;/h2&gt;&lt;h4 id=&#34;修改-WordPress-配置文件&#34;&gt;&lt;a href=&#34;#修改-WordPress-配置文件&#34; class=&#34;headerlink&#34; title=&#34;修改 WordPress 配置文件&#34;&gt;&lt;/a&gt;修改 WordPress 配置文件&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;依次执行以下命令，进入 WordPress 安装目录，将&lt;code&gt;wp-config-sample.php&lt;/code&gt;文件复制到&lt;code&gt;wp-config.php&lt;/code&gt;文件中，并将原先的示例配置文件保留作为备份。&lt;/p&gt;
-&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;cd &lt;span class=&#34;hljs-regexp&#34;&gt;/home/&lt;/span&gt;wwwroot/wordpress&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;cd&lt;/span&gt; /home/wwwroot/wordpress&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;figure class=&#34;highlight vim&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs vim&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;cp&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;wp&lt;/span&gt;-config-sample.php &lt;span class=&#34;hljs-keyword&#34;&gt;wp&lt;/span&gt;-config.php&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;/li&gt;
@@ -485,7 +504,7 @@
 &lt;p&gt;  &lt;a href=&#34;https://zhuanlan.zhihu.com/p/56423186&#34;&gt;https://zhuanlan.zhihu.com/p/56423186&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;  &lt;a href=&#34;https://www.vpsgo.com/domain-ns-cloudflare-dnspod.html#NS&#34;&gt;https://www.vpsgo.com/domain-ns-cloudflare-dnspod.html#NS&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h1 id=&#34;HTTPS-SSL-x2F-TLS&#34;&gt;&lt;a href=&#34;#HTTPS-SSL-x2F-TLS&#34; class=&#34;headerlink&#34; title=&#34;HTTPS SSL&amp;#x2F;TLS&#34;&gt;&lt;/a&gt;HTTPS SSL&amp;#x2F;TLS&lt;/h1&gt;&lt;h2 id=&#34;参考文章&#34;&gt;&lt;a href=&#34;#参考文章&#34; class=&#34;headerlink&#34; title=&#34;参考文章&#34;&gt;&lt;/a&gt;参考文章&lt;/h2&gt;&lt;h3 id=&#34;acme-sh&#34;&gt;&lt;a href=&#34;#acme-sh&#34; class=&#34;headerlink&#34; title=&#34;acme.sh&#34;&gt;&lt;/a&gt;acme.sh&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://ruby-china.org/topics/31983&#34;&gt;https://ruby-china.org/topics/31983&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;HTTPS-SSL-TLS&#34;&gt;&lt;a href=&#34;#HTTPS-SSL-TLS&#34; class=&#34;headerlink&#34; title=&#34;HTTPS SSL&amp;#x2F;TLS&#34;&gt;&lt;/a&gt;HTTPS SSL&amp;#x2F;TLS&lt;/h1&gt;&lt;h2 id=&#34;参考文章&#34;&gt;&lt;a href=&#34;#参考文章&#34; class=&#34;headerlink&#34; title=&#34;参考文章&#34;&gt;&lt;/a&gt;参考文章&lt;/h2&gt;&lt;h3 id=&#34;acme-sh&#34;&gt;&lt;a href=&#34;#acme-sh&#34; class=&#34;headerlink&#34; title=&#34;acme.sh&#34;&gt;&lt;/a&gt;acme.sh&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://ruby-china.org/topics/31983&#34;&gt;https://ruby-china.org/topics/31983&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ruby-china.org/topics/28471&#34;&gt;https://ruby-china.org/topics/28471&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ruby-china.org/topics/25543&#34;&gt;https://ruby-china.org/topics/25543&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ruby-china.org/topics/31942&#34;&gt;https://ruby-china.org/topics/31942&lt;/a&gt;&lt;/p&gt;
@@ -494,7 +513,7 @@
 
 
 
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 注册账号&lt;/span&gt;&lt;br&gt;sudo ~/.acme.sh/acme.sh --register-account -m jackliuworkemail@gmail.com  --server zerossl&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 为lager.cf创建密钥&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# -k 表示密钥长度，后面的值可以是 ec-256 、ec-384、2048、3072、4096、8192，带有 ec 表示生成的是 ECC 证书，没有则是 RSA 证书。在安全性上 256 位的 ECC 证书等同于 3072 位的 RSA 证书。&lt;/span&gt;&lt;br&gt;sudo ~/.acme.sh/acme.sh --issue -d lager.cf --standalone -k ec-256&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 由于 Let&amp;#x27;s Encrypt 的证书有效期只有 3 个月，因此需要 90 天至少要更新一次证书，acme.sh 脚本会每 60 天自动更新证书。也可以手动更新。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看计划任务&lt;/span&gt;&lt;br&gt; crontab -l&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 手动更新 ECC 证书，执行：&lt;/span&gt;&lt;br&gt;sudo ~/.acme.sh/acme.sh --renew -d lager.cf --force --ecc&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 请注意：reloadcmd非常重要。证书可以自动续订，但是，如果没有正确的“reloadcmd”，证书可能无法刷新到您的服务器（如nginx或apache），那么您的网站将无法在60天内显示续订证书。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 注意：无论什么情况，密钥(即上面的lager.cf.key)都不能泄漏，如果你不幸泄漏了密钥，可以使用 acme.sh 将原证书吊销，再生成新的证书，吊销方法请自行参考 acme.sh 的手册&lt;/span&gt;&lt;br&gt;acme.sh --installcert -d lager.cf \&lt;br&gt;--keypath       /usr/local/nginx/ssl/lager.cf.key \&lt;br&gt;--fullchainpath /usr/local/nginx/ssl/lager.cf.cer \&lt;br&gt;--reloadcmd     &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;sudo service nginx force-reload&amp;quot;&lt;/span&gt;  --force --ecc&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 生成 dhparam.pem 文件&lt;/span&gt;&lt;br&gt;openssl dhparam -out /usr/local/nginx/ssl/lager.cf.pem 2048&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 配置nginx 启用 https&lt;/span&gt;&lt;br&gt;vim /usr/local/nginx/conf/nginx.conf&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 检查配置&lt;/span&gt;&lt;br&gt;sudo service nginx configtest&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 重启服务&lt;/span&gt;&lt;br&gt;sudo service nginx restart&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#验证 SSL&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#访问 ssllabs.com 输入你的域名，检查 SSL 的配置是否都正常：&lt;/span&gt;&lt;br&gt;https://ssllabs.com/ssltest/analyze.html?d=ruby-china.org&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 注册账号&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sudo&lt;/span&gt; ~/.acme.sh/acme.sh --register-account -m jackliuworkemail@gmail.com  --server zerossl&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 为lager.cf创建密钥&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# -k 表示密钥长度，后面的值可以是 ec-256 、ec-384、2048、3072、4096、8192，带有 ec 表示生成的是 ECC 证书，没有则是 RSA 证书。在安全性上 256 位的 ECC 证书等同于 3072 位的 RSA 证书。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sudo&lt;/span&gt; ~/.acme.sh/acme.sh --issue -d lager.cf --standalone -k ec-256&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 由于 Let&amp;#x27;s Encrypt 的证书有效期只有 3 个月，因此需要 90 天至少要更新一次证书，acme.sh 脚本会每 60 天自动更新证书。也可以手动更新。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看计划任务&lt;/span&gt;&lt;br&gt; crontab -l&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 手动更新 ECC 证书，执行：&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sudo&lt;/span&gt; ~/.acme.sh/acme.sh --renew -d lager.cf --force --ecc&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 请注意：reloadcmd非常重要。证书可以自动续订，但是，如果没有正确的“reloadcmd”，证书可能无法刷新到您的服务器（如nginx或apache），那么您的网站将无法在60天内显示续订证书。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 注意：无论什么情况，密钥(即上面的lager.cf.key)都不能泄漏，如果你不幸泄漏了密钥，可以使用 acme.sh 将原证书吊销，再生成新的证书，吊销方法请自行参考 acme.sh 的手册&lt;/span&gt;&lt;br&gt;acme.sh --installcert -d lager.cf \&lt;br&gt;--keypath       /usr/local/nginx/ssl/lager.cf.key \&lt;br&gt;--fullchainpath /usr/local/nginx/ssl/lager.cf.cer \&lt;br&gt;--reloadcmd     &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;sudo service nginx force-reload&amp;quot;&lt;/span&gt;  --force --ecc&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 生成 dhparam.pem 文件&lt;/span&gt;&lt;br&gt;openssl dhparam -out /usr/local/nginx/ssl/lager.cf.pem 2048&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 配置nginx 启用 https&lt;/span&gt;&lt;br&gt;vim /usr/local/nginx/conf/nginx.conf&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 检查配置&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sudo&lt;/span&gt; service nginx configtest&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 重启服务&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sudo&lt;/span&gt; service nginx restart&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#验证 SSL&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#访问 ssllabs.com 输入你的域名，检查 SSL 的配置是否都正常：&lt;/span&gt;&lt;br&gt;https://ssllabs.com/ssltest/analyze.html?d=ruby-china.org&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
@@ -513,7 +532,7 @@
 
 &lt;h2 id=&#34;ngix&#34;&gt;&lt;a href=&#34;#ngix&#34; class=&#34;headerlink&#34; title=&#34;ngix&#34;&gt;&lt;/a&gt;ngix&lt;/h2&gt;&lt;h3 id=&#34;nginx-config-1&#34;&gt;&lt;a href=&#34;#nginx-config-1&#34; class=&#34;headerlink&#34; title=&#34;nginx config 1&#34;&gt;&lt;/a&gt;nginx config 1&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;server &amp;#123;&lt;br&gt;    listen 80; &lt;span class=&#34;hljs-comment&#34;&gt;#如果硬性要求全部走https协议，这一行去除&lt;/span&gt;&lt;br&gt;    listen 443 ssl http2; &lt;span class=&#34;hljs-comment&#34;&gt;#如果硬性要求全部走https协议，这里去除ssl&lt;/span&gt;&lt;br&gt;    server_name chandao.test.com;&lt;br&gt;&lt;br&gt;    ssl_certificate /usr/local/nginx/ssl_cert/test.com/chandao.test.com.cer;&lt;br&gt;    ssl_certificate_key /usr/local/nginx/ssl_cert/test.com/chandao.test.com.key;&lt;br&gt;    ssl_dhparam /usr/local/nginx/ssl/lager.cf.pem;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;#ssl性能调优&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;#nginx 1.13.0支持了TLSv1.3,TLSv1.3相比之前的TLSv1.2、TLSv1.1等性能大幅提升&lt;/span&gt;&lt;br&gt;    ssl_protocols TLSv1 TLSv1.1 TLSv1.2;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# ssl_ciphers EECDH+CHACHA20:EECDH+AES128:RSA+AES128:EECDH+AES256:RSA+AES256:EECDH+3DES:RSA+3DES:!MD5;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# ssl_prefer_server_ciphers on|off 作用：是否由服务器决定采用哪种加密算法&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 如果ssl协议支持tlsv1 tls1.1这种老协议，设置为 on ，并配合ssl_ciphers使用&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 如果ssl协议只支持tlsv1.2 tlsv1.3新协议，设置为 off （nginx默认为off），因为新协议不再采纳此参数&lt;/span&gt;&lt;br&gt;    ssl_prefer_server_ciphers on;&lt;br&gt;    ssl_session_timeout 10m;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;#使用ssl_session_cache优化https下Nginx的性能&lt;/span&gt;&lt;br&gt;    ssl_session_cache &lt;span class=&#34;hljs-built_in&#34;&gt;builtin&lt;/span&gt;:1000 shared:SSL:10m;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;#OCSP Stapling 开启。OCSP是用于在线查询证书吊销情况的服务，使用OCSP Stapling能将证书有效状态的信息缓存到服务器，提高 TLS 握手速度&lt;/span&gt;&lt;br&gt;    ssl_stapling on;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;#OCSP Stapling 验证开启&lt;/span&gt;&lt;br&gt;    ssl_stapling_verify on;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;h3 id=&#34;nginx-config-2&#34;&gt;&lt;a href=&#34;#nginx-config-2&#34; class=&#34;headerlink&#34; title=&#34;nginx config 2&#34;&gt;&lt;/a&gt;nginx config 2&lt;/h3&gt;&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;http &amp;#123;&lt;br&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 新增&lt;/span&gt;&lt;br&gt;  ssl_protocols TLSv1 TLSv1.&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; TLSv1.&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;;&lt;br&gt;  ssl_prefer_server_ciphers on;&lt;br&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 兼容其他老浏览器的 ssl_ciphers 设置请访问 https://wiki.mozilla.org/Security/Server_Side_TLS&lt;/span&gt;&lt;br&gt;&lt;br&gt;  server &amp;#123;&lt;br&gt;    listen &lt;span class=&#34;hljs-number&#34;&gt;80&lt;/span&gt; default_server;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 新增&lt;/span&gt;&lt;br&gt;    listen &lt;span class=&#34;hljs-number&#34;&gt;443&lt;/span&gt; ssl;&lt;br&gt;    ssl_certificate         &lt;span class=&#34;hljs-regexp&#34;&gt;/home/u&lt;/span&gt;buntu&lt;span class=&#34;hljs-regexp&#34;&gt;/www/&lt;/span&gt;ssl/www.your-app.com.key.pem;&lt;br&gt;    ssl_certificate_key     &lt;span class=&#34;hljs-regexp&#34;&gt;/home/u&lt;/span&gt;buntu&lt;span class=&#34;hljs-regexp&#34;&gt;/www/&lt;/span&gt;ssl/www.your-app.com.key;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# ssl_dhparam &lt;/span&gt;&lt;br&gt;    ssl_dhparam             &lt;span class=&#34;hljs-regexp&#34;&gt;/home/u&lt;/span&gt;buntu&lt;span class=&#34;hljs-regexp&#34;&gt;/www/&lt;/span&gt;ssl/dhparam.pem;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 其他省略&lt;/span&gt;&lt;br&gt;  &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;nginx-config-2&#34;&gt;&lt;a href=&#34;#nginx-config-2&#34; class=&#34;headerlink&#34; title=&#34;nginx config 2&#34;&gt;&lt;/a&gt;nginx config 2&lt;/h3&gt;&lt;figure class=&#34;highlight nginx&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs nginx&#34;&gt;&lt;span class=&#34;hljs-section&#34;&gt;http&lt;/span&gt; &amp;#123;&lt;br&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 新增&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attribute&#34;&gt;ssl_protocols&lt;/span&gt; TLSv1 TLSv1.&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; TLSv1.&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;;&lt;br&gt;  &lt;span class=&#34;hljs-attribute&#34;&gt;ssl_prefer_server_ciphers&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;on&lt;/span&gt;;&lt;br&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 兼容其他老浏览器的 ssl_ciphers 设置请访问 https://wiki.mozilla.org/Security/Server_Side_TLS&lt;/span&gt;&lt;br&gt;&lt;br&gt;  &lt;span class=&#34;hljs-section&#34;&gt;server&lt;/span&gt; &amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-attribute&#34;&gt;listen&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;80&lt;/span&gt; default_server;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 新增&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attribute&#34;&gt;listen&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;443&lt;/span&gt; ssl;&lt;br&gt;    &lt;span class=&#34;hljs-attribute&#34;&gt;ssl_certificate&lt;/span&gt;         /home/ubuntu/www/ssl/www.your-app.com.key.pem;&lt;br&gt;    &lt;span class=&#34;hljs-attribute&#34;&gt;ssl_certificate_key&lt;/span&gt;     /home/ubuntu/www/ssl/www.your-app.com.key;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# ssl_dhparam &lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attribute&#34;&gt;ssl_dhparam&lt;/span&gt;             /home/ubuntu/www/ssl/dhparam.pem;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 其他省略&lt;/span&gt;&lt;br&gt;  &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 

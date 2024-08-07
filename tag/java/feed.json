@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"java\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2023/a3ad4999/",
+            "url": "https://www.oikiou.top/2023/a3ad4999/",
+            "title": "查看Apk安装包的签名",
+            "date_published": "2023-11-20T09:47:15.000Z",
+            "content_html": "<h1 id=\"查看apk安装包的签名\"><a href=\"#查看apk安装包的签名\" class=\"headerlink\" title=\"查看apk安装包的签名\"></a>查看apk安装包的签名</h1><p>首先，确保你已经安装了Java开发工具包（JDK），以便使用其中的工具。</p>\n<p>查看Android apk的签名信息方式有两种</p>\n<ol>\n<li><p>直接查看apk的签名信息（推荐）</p>\n<ol>\n<li><pre><code class=\"shell\">keytool -list -printcert -jarfile wechat.apk \n<figure class=\"highlight stata\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br><span class=\"line\">7</span><br></pre></td><td class=\"code\"><pre><code class=\"hljs stata\"><br>2.   通过apk中的RSA文件查看签名信息<br><br>     1.   将apk后缀改为.<span class=\"hljs-keyword\">zip</span>，然后解压（**apk其实是一个用<span class=\"hljs-keyword\">zip</span>压缩的文件**），再进入<span class=\"hljs-keyword\">META</span>-<span class=\"hljs-keyword\">INF</span>目录，找到RSA文件<br><br>     2.   ```<span class=\"hljs-keyword\">shell</span><br>          keytool -printcert -<span class=\"hljs-keyword\">file</span> COM_TENC.RSA <br></code></pre></td></tr></table></figure>\n</code></pre>\n</li>\n</ol>\n</li>\n</ol>\n",
+            "tags": [
+                "apk",
+                "java"
+            ]
+        }
+    ]
+}

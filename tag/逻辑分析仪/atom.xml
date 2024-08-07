@@ -4,37 +4,42 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;逻辑分析仪&#34; tag</title>
     <link href="https://www.oikiou.top" />
     <updated>2020-05-21T05:23:05.000Z</updated>
-    <category term="hp" />
-    <category term="chrome" />
+    <category term="autosar" />
+    <category term="aes" />
     <category term="embedded" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
     <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
-    <category term="hex" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="license" />
     <category term="md5" />
+    <category term="major" />
     <category term="markdown" />
     <category term="note" />
     <category term="osi" />
+    <category term="RustDesk" />
     <category term="iap" />
     <category term="bootloader" />
     <category term="stm32" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
@@ -57,6 +62,11 @@
     <category term="zsh" />
     <category term="shell" />
     <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
@@ -67,32 +77,14 @@
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
     <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
     <category term="超声波" />
     <category term="github" />
     <category term="hosts" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="pid" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="life" />
-    <category term="人生" />
-    <category term="workflow" />
-    <category term="心理学" />
+    <category term="audio" />
+    <category term="video" />
     <category term="cad" />
     <category term="cat_drive" />
     <category term="switch" />
@@ -101,45 +93,49 @@
     <category term="hardware" />
     <category term="lenovo" />
     <category term="disk" />
-    <category term="摄影" />
+    <category term="pve" />
+    <category term="virtual" />
     <category term="software" />
+    <category term="摄影" />
     <category term="synology" />
     <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
     <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="flash" />
     <category term="j-tag" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
-    <category term="vscode" />
+    <category term="obsidian" />
     <category term="spacedesk" />
     <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="speedtest" />
-    <category term="tools" />
-    <category term="commenttranslate" />
-    <category term="wsl" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -147,6 +143,7 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
+    <category term="v2ray" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -155,28 +152,48 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
     <category term="cortex-a7" />
     <category term="cortex-m3" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="ucos" />
     <category term="bluetooth" />
     <category term="蓝牙" />
+    <category term="pwm" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
     <category term="modbus" />
     <category term="linuxapp" />
     <category term="curl" />
     <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
-    <category term="rt-thread" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
     <entry>
         <id>https://www.oikiou.top/2020/5ced0506/</id>
         <title>DSlogic协议开发笔记</title>
@@ -350,7 +367,7 @@
 
 &lt;h2 id=&#34;参数-1&#34;&gt;&lt;a href=&#34;#参数-1&#34; class=&#34;headerlink&#34; title=&#34;参数&#34;&gt;&lt;/a&gt;参数&lt;/h2&gt;&lt;h3 id=&#34;空参&#34;&gt;&lt;a href=&#34;#空参&#34; class=&#34;headerlink&#34; title=&#34;空参&#34;&gt;&lt;/a&gt;空参&lt;/h3&gt;&lt;p&gt;如果完全不提供conds，或者它是一个空列表[]，或者它只是一个“空”条件{}，那么后端将直接跳到下一个示例。 （相当于直接进入下一个样本）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Don&amp;#x27;t wait for any condition, just skip to the next sample.&lt;/span&gt;&lt;br&gt;pins = self.wait()&lt;br&gt;pins = self.wait([])&lt;br&gt;pins = self.wait(&amp;#123;&amp;#125;)&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&amp;#125;) &lt;span class=&#34;hljs-comment&#34;&gt;# Skip one sample, see below.&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Don&amp;#x27;t wait for any condition, just skip to the next sample.&lt;/span&gt;&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait()&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait([])&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait(&amp;#123;&amp;#125;)&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&amp;#125;) &lt;span class=&#34;hljs-comment&#34;&gt;# Skip one sample, see below.&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
@@ -391,7 +408,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait until pin 7 has a falling edge.&lt;/span&gt;&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;7&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;f&amp;#x27;&lt;/span&gt;&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait until pin 3 has a rising edge “and” pin 4 is high at the same time.&lt;/span&gt;&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;r&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;h&amp;#x27;&lt;/span&gt;&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait until pins 2-4 are low and pin 16 has any edge.&lt;/span&gt;&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;l&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;l&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;l&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;16&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;e&amp;#x27;&lt;/span&gt;&amp;#125;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait until pin 7 has a falling edge.&lt;/span&gt;&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait(&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;7&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;f&amp;#x27;&lt;/span&gt;&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait until pin 3 has a rising edge “and” pin 4 is high at the same time.&lt;/span&gt;&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait(&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;r&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;h&amp;#x27;&lt;/span&gt;&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait until pins 2-4 are low and pin 16 has any edge.&lt;/span&gt;&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait(&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;l&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;l&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;4&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;l&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;16&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;e&amp;#x27;&lt;/span&gt;&amp;#125;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
@@ -400,11 +417,11 @@
 &lt;h3 id=&#34;conds-样品跳过条-样本数量&#34;&gt;&lt;a href=&#34;#conds-样品跳过条-样本数量&#34; class=&#34;headerlink&#34; title=&#34;conds 样品跳过条(样本数量)&#34;&gt;&lt;/a&gt;&lt;strong&gt;conds&lt;/strong&gt; 样品跳过条(样本数量)&lt;/h3&gt;&lt;p&gt;后端另一个常见的查询是，当解码器想要跳过一定数量的样本时，而不管样本值是什么(因为它们与当前的协议无关)。&lt;br&gt;这可以通过条件dict中的一个特殊键来实现— ‘&lt;strong&gt;skip’&lt;/strong&gt; 。 ‘&lt;strong&gt;skip’&lt;/strong&gt; 键的值是要跳过的样本的整数。&lt;/p&gt;
 &lt;p&gt;解码器也可以跳过一定的时间，通过使用采样来计算 ‘&lt;strong&gt;skip’&lt;/strong&gt; 键的正确值。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Skip over the next 100 samples.&lt;/span&gt;&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Skip over the next 20ms of samples.&lt;/span&gt;&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt; * (&lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt; / self.samplerate)&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Skip half a bitwidth of samples (e.g. for UART).&lt;/span&gt;&lt;br&gt;self.halfbitwidth = &lt;span class=&#34;hljs-built_in&#34;&gt;int&lt;/span&gt;((self.samplerate / self.options[&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;baudrate&amp;#x27;&lt;/span&gt;]) / &lt;span class=&#34;hljs-number&#34;&gt;2.0&lt;/span&gt;)&lt;br&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: self.halfbitwidth&amp;#125;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Skip over the next 100 samples.&lt;/span&gt;&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Skip over the next 20ms of samples.&lt;/span&gt;&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt; * (&lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt; / &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.samplerate)&amp;#125;)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Skip half a bitwidth of samples (e.g. for UART).&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.halfbitwidth = &lt;span class=&#34;hljs-built_in&#34;&gt;int&lt;/span&gt;((&lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.samplerate / &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.options[&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;baudrate&amp;#x27;&lt;/span&gt;]) / &lt;span class=&#34;hljs-number&#34;&gt;2.0&lt;/span&gt;)&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.halfbitwidth&amp;#125;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
-&lt;h2 id=&#34;注意&#34;&gt;&lt;a href=&#34;#注意&#34; class=&#34;headerlink&#34; title=&#34;注意&#34;&gt;&lt;/a&gt;注意&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;pins = self.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;&amp;#125;)  	&lt;span class=&#34;hljs-comment&#34;&gt;#这里的pins是元组，&lt;/span&gt;&lt;br&gt;(pins,) = self.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;&amp;#125;)	&lt;span class=&#34;hljs-comment&#34;&gt;#可以写成这样&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;注意&#34;&gt;&lt;a href=&#34;#注意&#34; class=&#34;headerlink&#34; title=&#34;注意&#34;&gt;&lt;/a&gt;注意&lt;/h2&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;&amp;#125;)  	&lt;span class=&#34;hljs-comment&#34;&gt;#这里的pins是元组，&lt;/span&gt;&lt;br&gt;(pins,) = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait(&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;&amp;#125;)	&lt;span class=&#34;hljs-comment&#34;&gt;#可以写成这样&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
@@ -416,18 +433,18 @@
 &lt;p&gt;注意这下面的skip不是wait&lt;/p&gt;
 &lt;p&gt;在相同的条件下混合通道索引键和“跳过”键通常没有多大意义，然而，在不同的情况下，混合索引键和“跳过”键是非常合理的: &lt;/p&gt;
 &lt;p&gt;（下面的语句应该是  &lt;code&gt;((pin7 e)和(pin12 l))或(skip 10000)&lt;/code&gt; ）&lt;/p&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait until there&amp;#x27;s&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# a) an edge on pin 7 and a low state on pin 12, and/or&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# b) 1000 samples passed by,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# whichever occurs first (both conditions could occur at the same time too).&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# This is basically &amp;quot;wait for an edge on pin 7 and a low state on pin 12,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# with a timeout of 1000 samples&amp;quot;.&lt;/span&gt;&lt;br&gt;pins = self.skip((&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;7&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;e&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;12&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;l&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt;&amp;#125;))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait until there&amp;#x27;s&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# a) an edge on pin 7 and a low state on pin 12, and/or&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# b) 1000 samples passed by,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# whichever occurs first (both conditions could occur at the same time too).&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# This is basically &amp;quot;wait for an edge on pin 7 and a low state on pin 12,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# with a timeout of 1000 samples&amp;quot;.&lt;/span&gt;&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.skip((&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;7&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;e&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;12&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;l&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt;&amp;#125;))&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
 &lt;h1 id=&#34;self-matched&#34;&gt;&lt;a href=&#34;#self-matched&#34; class=&#34;headerlink&#34; title=&#34;self.matched&#34;&gt;&lt;/a&gt;self.matched&lt;/h1&gt;&lt;p&gt;当解码器通过&lt;strong&gt;self.wait（）&lt;/strong&gt;请求前端等待多个条件时，当该调用返回时，PD仅知道&lt;strong&gt;至少一个&lt;/strong&gt;条件已匹配。但是，在大多数情况下，它还需要知道&lt;strong&gt;哪些&lt;/strong&gt;条件匹配（或不匹配）。&lt;/p&gt;
 &lt;p&gt;这是&lt;strong&gt;self.matched&lt;/strong&gt;提供的信息。它是布尔值（&lt;strong&gt;True&lt;/strong&gt;或&lt;strong&gt;False&lt;/strong&gt;）的元组，始终包含与上次&lt;strong&gt;self.wait（）&lt;/strong&gt;调用中存在的条件一样多的条目。对于每个条件，各自的布尔值表示此特定条件是否匹配。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs Python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 等待，直到引脚9的上升边 或 引脚27的高状态(逻辑1)， 或 经过一定的“时间”(这里:跳过1000个样本)。这意味着有一个1000个样本的“超时”之后self.wait()将返回(不管其他条件如何)。&lt;/span&gt;&lt;br&gt;pins = self.wait([&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;r&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;27&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;h&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt;&amp;#125;])&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; self.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 前两个条件是同时匹配的。&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 9 contains a rising edge and pin 27 is high.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; self.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Rising edge on pin 9, pin 27 is guaranteed to not be high.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; self.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 27 is high, pin 9 is guaranteed to not be a rising edge.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; self.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 9 is not a rising edge, pin 27 is not high, but 1000 samples were skipped.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; self.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 9 is not a rising edge, pin 27 is high, and it just so happens that&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# exactly 1000 samples were skipped.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; self.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Bug, this cannot happen. self.wait() only returns upon &amp;gt;= 1 matches.&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs Python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 等待，直到引脚9的上升边 或 引脚27的高状态(逻辑1)， 或 经过一定的“时间”(这里:跳过1000个样本)。这意味着有一个1000个样本的“超时”之后self.wait()将返回(不管其他条件如何)。&lt;/span&gt;&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait([&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;r&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;27&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;h&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;1000&lt;/span&gt;&amp;#125;])&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 前两个条件是同时匹配的。&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 9 contains a rising edge and pin 27 is high.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Rising edge on pin 9, pin 27 is guaranteed to not be high.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 27 is high, pin 9 is guaranteed to not be a rising edge.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 9 is not a rising edge, pin 27 is not high, but 1000 samples were skipped.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 9 is not a rising edge, pin 27 is high, and it just so happens that&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# exactly 1000 samples were skipped.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.matched == (&lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;, &lt;span class=&#34;hljs-literal&#34;&gt;False&lt;/span&gt;):&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Bug, this cannot happen. self.wait() only returns upon &amp;gt;= 1 matches.&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;对于’skip’键&amp;#x2F;值对self。如果达到指定数目的样本，则匹配的tuple将包含一个真值。 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait for a falling edge on channel 18, or until 25000 samples passed by.&lt;/span&gt;&lt;br&gt;pins = self.wait([&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;18&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;f&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;25000&lt;/span&gt;&amp;#125;])&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; self.matched[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;]:&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 18 has a falling edge.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; self.matched[&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;]:&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 25000 samples were skipped.&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Wait for a falling edge on channel 18, or until 25000 samples passed by.&lt;/span&gt;&lt;br&gt;pins = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait([&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;18&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;f&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-number&#34;&gt;25000&lt;/span&gt;&amp;#125;])&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.matched[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;]:&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# Pin 18 has a falling edge.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.matched[&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;]:&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 25000 samples were skipped.&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
@@ -435,10 +452,10 @@
 &lt;p&gt; &lt;strong&gt;self.samplenum&lt;/strong&gt;是一个特殊属性，对于协议解码器来说是只读的，并且只能由libsigrokdecode后端设置。 &lt;/p&gt;
 &lt;p&gt; &lt;strong&gt;self.samplenum&lt;/strong&gt; 总是在最后一次self.wait()调用返回后的当前绝对样本号(从0开始)。 &lt;/p&gt;
 &lt;h1 id=&#34;self-samplerate&#34;&gt;&lt;a href=&#34;#self-samplerate&#34; class=&#34;headerlink&#34; title=&#34;self.samplerate&#34;&gt;&lt;/a&gt;self.samplerate&lt;/h1&gt;&lt;p&gt;采样率&lt;/p&gt;
-&lt;h1 id=&#34;self-has-channel&#34;&gt;&lt;a href=&#34;#self-has-channel&#34; class=&#34;headerlink&#34; title=&#34;self.has_channel&#34;&gt;&lt;/a&gt;self.has_channel&lt;/h1&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#code1 &lt;/span&gt;&lt;br&gt;...&lt;br&gt;self.have_cs = self.has_channel(&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;)&lt;br&gt;...&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#code2&lt;/span&gt;&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; self.have_cs &lt;span class=&#34;hljs-keyword&#34;&gt;and&lt;/span&gt; (first &lt;span class=&#34;hljs-keyword&#34;&gt;or&lt;/span&gt; (self.matched &amp;amp; (&lt;span class=&#34;hljs-number&#34;&gt;0b1&lt;/span&gt; &amp;lt;&amp;lt; self.have_cs))):&lt;br&gt;    ....&lt;br&gt;...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h1 id=&#34;self-has-channel&#34;&gt;&lt;a href=&#34;#self-has-channel&#34; class=&#34;headerlink&#34; title=&#34;self.has_channel&#34;&gt;&lt;/a&gt;self.has_channel&lt;/h1&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#code1 &lt;/span&gt;&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.have_cs = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.has_channel(&lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;)&lt;br&gt;...&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#code2&lt;/span&gt;&lt;br&gt;...&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.have_cs &lt;span class=&#34;hljs-keyword&#34;&gt;and&lt;/span&gt; (first &lt;span class=&#34;hljs-keyword&#34;&gt;or&lt;/span&gt; (&lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.matched &amp;amp; (&lt;span class=&#34;hljs-number&#34;&gt;0b1&lt;/span&gt; &amp;lt;&amp;lt; &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.have_cs))):&lt;br&gt;    ....&lt;br&gt;...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;self.has_channel返回的值似乎是对应通道的值，比如这里返回的应该是3.&lt;/p&gt;
-&lt;h1 id=&#34;一些奇怪的问题&#34;&gt;&lt;a href=&#34;#一些奇怪的问题&#34; class=&#34;headerlink&#34; title=&#34;一些奇怪的问题&#34;&gt;&lt;/a&gt;一些奇怪的问题&lt;/h1&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;xxxxx&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;    logging.info(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;----- xxx start -----&amp;#x27;&lt;/span&gt;)&lt;br&gt;    data = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;&lt;br&gt;    bit_count = &lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;:&lt;br&gt;        pin_state = self.wait( [&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;r&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: self.freq_half_samp &amp;#125;] )&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;( self.matched &amp;amp; (&lt;span class=&#34;hljs-number&#34;&gt;0b1&lt;/span&gt; &amp;lt;&amp;lt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;) ):        &lt;span class=&#34;hljs-comment&#34;&gt;#r&lt;/span&gt;&lt;br&gt;            self.LS_2 |= &lt;span class=&#34;hljs-number&#34;&gt;0b0&lt;/span&gt; &amp;lt;&amp;lt; bit_count&lt;br&gt;            self.wait( [&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: (self.bit_samp-self.freq_quarter_samp) &amp;#125;] )&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt;:&lt;br&gt;            self.LS_2 |= &lt;span class=&#34;hljs-number&#34;&gt;0b1&lt;/span&gt; &amp;lt;&amp;lt; bit_count&lt;br&gt;            self.wait( [&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: (self.bit_samp-self.freq_half_samp) &amp;#125;] )&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;( bit_count == &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; ):&lt;br&gt;            &lt;span class=&#34;hljs-keyword&#34;&gt;break&lt;/span&gt;&lt;br&gt;        bit_count -= &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&lt;br&gt;    logging.info(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;----- xxx end -----&amp;#x27;&lt;/span&gt;)&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; data&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h1 id=&#34;一些奇怪的问题&#34;&gt;&lt;a href=&#34;#一些奇怪的问题&#34; class=&#34;headerlink&#34; title=&#34;一些奇怪的问题&#34;&gt;&lt;/a&gt;一些奇怪的问题&lt;/h1&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;xxxxx&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;self&lt;/span&gt;):&lt;br&gt;    logging.info(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;----- xxx start -----&amp;#x27;&lt;/span&gt;)&lt;br&gt;    data = &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;&lt;br&gt;    bit_count = &lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;hljs-literal&#34;&gt;True&lt;/span&gt;:&lt;br&gt;        pin_state = &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait( [&amp;#123;&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;r&amp;#x27;&lt;/span&gt;&amp;#125;, &amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.freq_half_samp &amp;#125;] )&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;( &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.matched &amp;amp; (&lt;span class=&#34;hljs-number&#34;&gt;0b1&lt;/span&gt; &amp;lt;&amp;lt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;) ):        &lt;span class=&#34;hljs-comment&#34;&gt;#r&lt;/span&gt;&lt;br&gt;            &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.LS_2 |= &lt;span class=&#34;hljs-number&#34;&gt;0b0&lt;/span&gt; &amp;lt;&amp;lt; bit_count&lt;br&gt;            &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait( [&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: (&lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.bit_samp-&lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.freq_quarter_samp) &amp;#125;] )&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt;:&lt;br&gt;            &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.LS_2 |= &lt;span class=&#34;hljs-number&#34;&gt;0b1&lt;/span&gt; &amp;lt;&amp;lt; bit_count&lt;br&gt;            &lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.wait( [&amp;#123;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;skip&amp;#x27;&lt;/span&gt;: (&lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.bit_samp-&lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;.freq_half_samp) &amp;#125;] )&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;( bit_count == &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; ):&lt;br&gt;            &lt;span class=&#34;hljs-keyword&#34;&gt;break&lt;/span&gt;&lt;br&gt;        bit_count -= &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;&lt;br&gt;    logging.info(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;----- xxx end -----&amp;#x27;&lt;/span&gt;)&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; data&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
@@ -464,7 +481,7 @@
 &lt;ul&gt;
 &lt;li&gt;根据协议命令构造方法名的一个好方法是(假设cmd是8，这将调用self.handle_cmd_0x08函数):&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;fn = &lt;span class=&#34;hljs-built_in&#34;&gt;getattr&lt;/span&gt;(self, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;handle_cmd_0x%02x&amp;#x27;&lt;/span&gt; % cmd);&lt;br&gt;fn(arg1, arg2, ...)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;fn = &lt;span class=&#34;hljs-built_in&#34;&gt;getattr&lt;/span&gt;(&lt;span class=&#34;hljs-variable language_&#34;&gt;self&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;handle_cmd_0x%02x&amp;#x27;&lt;/span&gt; % cmd);&lt;br&gt;fn(arg1, arg2, ...)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;ul&gt;
 &lt;li&gt;一种处理Python缺少枚举类型(对状态、pin索引、注释索引等有用)的方法&lt;/li&gt;

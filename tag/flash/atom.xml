@@ -3,38 +3,43 @@
     <id>https://www.oikiou.top</id>
     <title>Oikiou&#39;s Blog • Posts by &#34;flash&#34; tag</title>
     <link href="https://www.oikiou.top" />
-    <updated>2022-08-26T15:23:05.000Z</updated>
-    <category term="hp" />
-    <category term="chrome" />
+    <updated>2024-06-04T14:57:15.000Z</updated>
+    <category term="autosar" />
+    <category term="aes" />
     <category term="embedded" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
     <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
-    <category term="hex" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="license" />
     <category term="md5" />
+    <category term="major" />
     <category term="markdown" />
     <category term="note" />
     <category term="osi" />
+    <category term="RustDesk" />
     <category term="iap" />
     <category term="bootloader" />
     <category term="stm32" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
@@ -57,6 +62,11 @@
     <category term="zsh" />
     <category term="shell" />
     <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
@@ -67,32 +77,14 @@
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
     <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
     <category term="超声波" />
     <category term="github" />
     <category term="hosts" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="pid" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="life" />
-    <category term="人生" />
-    <category term="workflow" />
-    <category term="心理学" />
+    <category term="audio" />
+    <category term="video" />
     <category term="cad" />
     <category term="cat_drive" />
     <category term="switch" />
@@ -101,45 +93,49 @@
     <category term="hardware" />
     <category term="lenovo" />
     <category term="disk" />
-    <category term="摄影" />
+    <category term="pve" />
+    <category term="virtual" />
     <category term="software" />
+    <category term="摄影" />
     <category term="synology" />
     <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
     <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="flash" />
     <category term="j-tag" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
-    <category term="vscode" />
+    <category term="obsidian" />
     <category term="spacedesk" />
     <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="speedtest" />
-    <category term="tools" />
-    <category term="commenttranslate" />
-    <category term="wsl" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -147,6 +143,7 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
+    <category term="v2ray" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -155,37 +152,94 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
     <category term="cortex-a7" />
     <category term="cortex-m3" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="ucos" />
     <category term="bluetooth" />
     <category term="蓝牙" />
+    <category term="pwm" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
     <category term="modbus" />
     <category term="linuxapp" />
     <category term="curl" />
     <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
-    <category term="rt-thread" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2024/4ce716c0/</id>
+        <title>Flash磨损均衡</title>
+        <link rel="alternate" href="https://www.oikiou.top/2024/4ce716c0/"/>
+        <content type="html">&lt;h1 id=&#34;Flash磨损均衡&#34;&gt;&lt;a href=&#34;#Flash磨损均衡&#34; class=&#34;headerlink&#34; title=&#34;Flash磨损均衡&#34;&gt;&lt;/a&gt;Flash磨损均衡&lt;/h1&gt;&lt;h1 id=&#34;flash-原理和部分名称&#34;&gt;&lt;a href=&#34;#flash-原理和部分名称&#34; class=&#34;headerlink&#34; title=&#34;flash 原理和部分名称&#34;&gt;&lt;/a&gt;flash 原理和部分名称&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/2024/4ce716c0/image-20240604163634862.png&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;package&lt;/strong&gt; 是存储芯片，即带有电连接器的小黑色矩形。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;dies&lt;/strong&gt; 每个&lt;code&gt;package&lt;/code&gt;包含一个或多个&lt;code&gt;die&lt;/code&gt;（例如一个、两个或四个）。&lt;code&gt;die&lt;/code&gt; 是可以独立执行命令或报告状态的最小单元。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;planes&lt;/strong&gt;每个芯片包含一个或多个&lt;code&gt;planes&lt;/code&gt; （通常为一或两个）。每个&lt;code&gt;planes&lt;/code&gt;上都可以进行相同的并发操作，但有一些限制。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;blocks&lt;/strong&gt; 每个&lt;code&gt;planes&lt;/code&gt;包含若干个&lt;code&gt;block&lt;/code&gt; ，&lt;code&gt;block&lt;/code&gt;&lt;strong&gt;是可以擦除的最小单位&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;pages&lt;/strong&gt;每个&lt;code&gt;block&lt;/code&gt;包含若干个 &lt;code&gt;page&lt;/code&gt;，&lt;code&gt;page&lt;/code&gt;是可进行编程（即写入）的最小单位。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;磨损均衡 可实现的 底层原理是（同一个块）一次擦除，多次写入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;擦除是将任意内容改成0xff，即全1状态。&lt;br&gt;你可以对一个page执行多次写入，但是需要注意的是写入仅能将1改成0，&lt;strong&gt;无法将0改成1&lt;/strong&gt;。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;EEPROM可以单字节（或者四字节）写，而FLASH只能按整个blocks擦除，另外EEPROM一般有100万次的读写寿命，而FLASH只有10万次；&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;一些简单实现的Demo&#34;&gt;&lt;a href=&#34;#一些简单实现的Demo&#34; class=&#34;headerlink&#34; title=&#34;一些简单实现的Demo&#34;&gt;&lt;/a&gt;一些简单实现的Demo&lt;/h1&gt;&lt;p&gt;这些demo只是头脑风暴的一些实现，仅仅是一个思路，具体实现还需要完善很多的细节。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Flash%E7%A3%A8%E6%8D%9F%E5%9D%87%E8%A1%A1.assets/flash%E7%9A%84%E7%A3%A8%E6%8D%9F%E5%9D%87%E8%A1%A1.drawio&#34;&gt;draw.io 源文件&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;数据长度固定&#34;&gt;&lt;a href=&#34;#数据长度固定&#34; class=&#34;headerlink&#34; title=&#34;数据长度固定&#34;&gt;&lt;/a&gt;数据长度固定&lt;/h2&gt;&lt;p&gt;数据长度固定，使用bitmap记录数据状态。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2024/4ce716c0/image-20240604162704326.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2024/4ce716c0/image-20240604175346112.png&#34;&gt;&lt;br&gt;&lt;img src=&#34;/2024/4ce716c0/image-20240604175403042.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;数据长度可变&#34;&gt;&lt;a href=&#34;#数据长度可变&#34; class=&#34;headerlink&#34; title=&#34;数据长度可变&#34;&gt;&lt;/a&gt;数据长度可变&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2024/4ce716c0/image-20240604181628435.png&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;一些高性能的磨损均衡算法-SSD-Wear-Leveling&#34;&gt;&lt;a href=&#34;#一些高性能的磨损均衡算法-SSD-Wear-Leveling&#34; class=&#34;headerlink&#34; title=&#34;一些高性能的磨损均衡算法 SSD Wear Leveling&#34;&gt;&lt;/a&gt;一些高性能的磨损均衡算法 SSD Wear Leveling&lt;/h1&gt;&lt;p&gt;Flash采取&lt;strong&gt;异地更新&lt;/strong&gt;的策略 ,更新的数据会被放到别的物理页上,而不是覆盖原来的数据。包含新版本数据的页被称为&lt;strong&gt;有效页&lt;/strong&gt;,新版本数据被称为&lt;strong&gt;有效数据&lt;/strong&gt;。包含旧版本数据的页被称为&lt;strong&gt;无效页&lt;/strong&gt;，或称为脏页，脏页经过擦除操作后成为空闲页，才可以重新写入数据。因为Flash是&lt;strong&gt;以块为单位执行擦除&lt;/strong&gt;的，因此需要将脏页所在块上的所有物理页都擦除，在擦除之前需要检查此块上是否存在有效页，如果存在就必须先转移到其他块上。因为每个Flash块的擦除次数有限，一般是在10 万次到100万次之间，只要有块的擦除次数达到了上限，Flash数据存储的性能将下降。所以必须想办法，使&lt;strong&gt;擦除操作平均作用在每个Flash块上&lt;/strong&gt;，这种方法就是磨损均衡(wear-leveling)算法。&lt;/p&gt;
+&lt;p&gt;我们在应用Flash时，实际上访问的是Flash的逻辑地址，在逻辑地址和物理地址之间，存在着映射关系。数据更新后只需改变映射表中物理页的地址，并将原版本数据所在的物理页标为无效。对于经常被更新的数据块，我们称之为&lt;strong&gt;“热”数据块&lt;/strong&gt;，对长期得不到更新的数据块，称之为&lt;strong&gt;“冷”数据块&lt;/strong&gt;。数据块经常更新的话，就会经常被擦除，而长期不更行的数据块，不会出现脏页而被擦除，其擦除次数会明显少于存放着经常被更新数据的块。如何实现“冷热”数据存放位置的交换是磨损均衡处理中需要考虑的问题。&lt;/p&gt;
+&lt;p&gt;目前常用的磨损均衡算法大致分为两类，一类是随机性算法，一类是确定性算法。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对于随机性算法，其原理为：在每次写或擦除操作后，按照某一概率来触发磨损均衡处理。按照均匀分布的概率，&lt;strong&gt;随机选择某个块执行擦除操作&lt;/strong&gt;。不论块上放的是“冷”数据还是“热”数据,让每个块得到相等的擦除机会。最后将选中块上的有效数据复制到空块后擦除此块。将数据移动到哪个空闲块上,也是随机选择,因为没有记录块的擦除情况,存在将“冷”数据又移动到一个“冷”块上的情况,结果此块并没有增加擦除次数, 这种情况尤其会发生在有大量“冷”数据的系统里。&lt;/li&gt;
+&lt;li&gt;对于确定性算法，又分为周期性和全局性两种，其中&lt;strong&gt;周期性算法&lt;/strong&gt;的原理为：将Flash的寿命看做是一个接一个的磨损均衡周期组成的。在一个处理周期中，达到规定的擦除次数的块在这一轮周期中将不会被选中，这样可使各个块都达到相同的擦除次数，再开始下一个擦除周期。通过调整Flash块的规定擦除次数，可以使整个Flash能够达到理想的磨损均衡。&lt;strong&gt;全局性算法&lt;/strong&gt;的原理为：不划分处理周期，在一个全局范围内控制块的磨损均衡。当任何两个块的擦除次数之差超过一个给定的阈值时，或者当某块的擦除次数超过了所有块的平均擦除次数时，启动磨损均衡处理，将擦除次数少的块上的数据和擦除次数多的块上的数据进行交换。如果块上存放的是“冷”数据，即数据很少被更新，则该块上的数据不易变脏，很少得到擦除的机会。相反，如果该块上存放的是“热”数据，则该块上的数据经常被更新，经常得到擦除脏数据的机会。根据这个原理来交换“冷热”数据，从而实现磨损均衡。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;对比两类磨损均衡算法，可以看出：随机性算法的效果受随机因素影响较大，在擦除前，并不知道各个块被擦除的情况，同时对逻辑页的随机性请求并不能做到完全等概率，所以虽然随机性算法是等概率地选择处理页，但每个块的擦除次数并不能达到等概率分布，不能达到很好的磨损均衡效果。确定性算法因记录了物理块的擦除次数，故在处理中可根据这些信息来作出调整决策，各块基本达到了相近的擦除次数，磨损均衡的效果明显好于随机性算法。但这是在消耗大量内存开销的基础上实现的。&lt;/p&gt;
+&lt;p&gt;根据以上讨论的情况，可以看出，必须结合两类算法的优势，来实现效果较好的磨损均衡处理，才能既保证Flash的读写速度，又能保证Flash的使用寿命，这将是决定固态存储能否全面战胜机械硬盘的关键之战。&lt;/p&gt;
+&lt;h1 id=&#34;参考资料&#34;&gt;&lt;a href=&#34;#参考资料&#34; class=&#34;headerlink&#34; title=&#34;参考资料&#34;&gt;&lt;/a&gt;参考资料&lt;/h1&gt;&lt;p&gt;Understanding Flash: Blocks, Pages and Program &amp;#x2F; Erases&lt;br&gt;&lt;a href=&#34;https://flashdba.com/2014/06/20/understanding-flash-blocks-pages-and-program-erases/&#34;&gt;https://flashdba.com/2014/06/20/understanding-flash-blocks-pages-and-program-erases/&lt;/a&gt;&lt;br&gt;Flash存储器磨损均衡原理及实现&lt;br&gt;&lt;a href=&#34;https://blog.csdn.net/csdliqi/article/details/80361163&#34;&gt;https://blog.csdn.net/csdliqi/article/details/80361163&lt;/a&gt;&lt;br&gt;深入解析SSD Wear Leveling磨损均衡技术：如何让你的硬盘更长寿？&lt;br&gt;&lt;a href=&#34;https://blog.csdn.net/zhuzongpeng/article/details/134520307&#34;&gt;https://blog.csdn.net/zhuzongpeng/article/details/134520307&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="flash" />
+        <updated>2024-06-04T14:57:15.000Z</updated>
+    </entry>
     <entry>
         <id>https://www.oikiou.top/2022/fd90dc4c/</id>
         <title>使用Jlink 烧写SPI Flash存储芯片</title>
         <link rel="alternate" href="https://www.oikiou.top/2022/fd90dc4c/"/>
         <content type="html">&lt;h1 id=&#34;使用Jlink-烧写SPI-Flash存储芯片&#34;&gt;&lt;a href=&#34;#使用Jlink-烧写SPI-Flash存储芯片&#34; class=&#34;headerlink&#34; title=&#34;使用Jlink 烧写SPI Flash存储芯片&#34;&gt;&lt;/a&gt;使用Jlink 烧写SPI Flash存储芯片&lt;/h1&gt;&lt;p&gt;参考:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.segger.com/products/debug-probes/j-link/tools/j-flash-spi/&#34;&gt;https://www.segger.com/products/debug-probes/j-link/tools/j-flash-spi/&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;硬件连接&#34;&gt;&lt;a href=&#34;#硬件连接&#34; class=&#34;headerlink&#34; title=&#34;硬件连接&#34;&gt;&lt;/a&gt;硬件连接&lt;/h1&gt;&lt;h2 id=&#34;SPI-amp-Single&#34;&gt;&lt;a href=&#34;#SPI-amp-Single&#34; class=&#34;headerlink&#34; title=&#34;SPI &amp;amp; Single&#34;&gt;&lt;/a&gt;SPI &amp;amp; Single&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/formatpng.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;硬件连接&#34;&gt;&lt;a href=&#34;#硬件连接&#34; class=&#34;headerlink&#34; title=&#34;硬件连接&#34;&gt;&lt;/a&gt;硬件连接&lt;/h1&gt;&lt;h2 id=&#34;SPI-Single&#34;&gt;&lt;a href=&#34;#SPI-Single&#34; class=&#34;headerlink&#34; title=&#34;SPI &amp;amp; Single&#34;&gt;&lt;/a&gt;SPI &amp;amp; Single&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/formatpng.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/pinout-spi-20-pin.gif&#34; alt=&#34;引出线 spi 20 针&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;QSPI-amp-Quad&#34;&gt;&lt;a href=&#34;#QSPI-amp-Quad&#34; class=&#34;headerlink&#34; title=&#34;QSPI &amp;amp; Quad&#34;&gt;&lt;/a&gt;QSPI &amp;amp; Quad&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/pinout-qspi-20-pin.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;QSPI-Quad&#34;&gt;&lt;a href=&#34;#QSPI-Quad&#34; class=&#34;headerlink&#34; title=&#34;QSPI &amp;amp; Quad&#34;&gt;&lt;/a&gt;QSPI &amp;amp; Quad&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/pinout-qspi-20-pin.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;  注意:&lt;/p&gt;
 &lt;p&gt;  这里要注意的一点，正版的Jlink仿真器1脚是输入引脚，是外部提供参考电平的，但由于现在大部分的JLink仿真器都是学习(dao)版的，1脚不是输入，而是3.3v的输出(并不确定也有可能是5V的, 盗版的Jlink真的是什么乱七八糟的都有)，所以正常情况下可以直接用这个管教来给SPI Flash供电。&lt;/p&gt;
@@ -219,10 +273,10 @@
 &lt;h1 id=&#34;附录&#34;&gt;&lt;a href=&#34;#附录&#34; class=&#34;headerlink&#34; title=&#34;附录&#34;&gt;&lt;/a&gt;附录&lt;/h1&gt;&lt;h2 id=&#34;winbood-W25Q128封装&#34;&gt;&lt;a href=&#34;#winbood-W25Q128封装&#34; class=&#34;headerlink&#34; title=&#34;winbood W25Q128封装&#34;&gt;&lt;/a&gt;winbood W25Q128封装&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/image-20220826104542006.png&#34; alt=&#34;image-20220826104542006&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/20210622091839750557.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 </content>
+        <category term="flash" />
         <category term="spi" />
         <category term="j-link" />
         <category term="jlink" />
-        <category term="flash" />
         <category term="j-tag" />
         <updated>2022-08-26T15:23:05.000Z</updated>
     </entry>

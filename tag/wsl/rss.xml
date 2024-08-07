@@ -7,37 +7,42 @@
         <language>zh-CN</language>
         <pubDate>Wed, 10 Aug 2022 22:57:15 +0800</pubDate>
         <lastBuildDate>Wed, 10 Aug 2022 22:57:15 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,28 +155,48 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/1d3ed0f3/</guid>
             <title>VScode插件CommentTranslate在WSL内无效</title>
@@ -225,10 +242,27 @@
 &lt;p&gt;   手动安装的优点是避免Linux的镜像文件(&lt;code&gt;ext4.vhdx&lt;/code&gt;)存放在C盘, 存放&lt;code&gt;ext4.vhdx&lt;/code&gt;的位置可以自定义.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;以下指令需要在&lt;strong&gt;管理员&lt;/strong&gt;下的 powershell 运行&lt;/p&gt;
-&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 1 开启Microsoft-Windows-Subsystem-Linux&lt;/span&gt;&lt;br&gt;dism.exe &lt;span class=&#34;hljs-regexp&#34;&gt;/online /&lt;/span&gt;enable-feature &lt;span class=&#34;hljs-regexp&#34;&gt;/featurename:Microsoft-Windows-Subsystem-Linux /&lt;/span&gt;all /norestart&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 2 开启VirtualMachinePlatform&lt;/span&gt;&lt;br&gt;dism.exe &lt;span class=&#34;hljs-regexp&#34;&gt;/online /&lt;/span&gt;enable-feature &lt;span class=&#34;hljs-regexp&#34;&gt;/featurename:VirtualMachinePlatform /&lt;/span&gt;all /norestart&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 3 重启&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# reboot&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 4 安装WLS2内核更新包&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;wslstorestorage.blob.core.windows.net&lt;span class=&#34;hljs-regexp&#34;&gt;/wslblob/&lt;/span&gt;wsl_update_x64.msi&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 5 将WSL2设为默认&lt;/span&gt;&lt;br&gt;wsl --set-default-version &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 6 下载离线包(可以避免将WSL的系统装在C盘)&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;docs.microsoft.com&lt;span class=&#34;hljs-regexp&#34;&gt;/zh-cn/&lt;/span&gt;windows&lt;span class=&#34;hljs-regexp&#34;&gt;/wsl/i&lt;/span&gt;nstall-manual&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# example&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;aka.ms/wslubuntu2004&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;aka.ms/wsl-ubuntu-&lt;span class=&#34;hljs-number&#34;&gt;1804&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;aka.ms/wsl-debian-gnulinux&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 离线包下载完成后解压缩 运行目录内的ubuntu.exe&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 会提示输入用户名和密码&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 7 (可选)安装 windows终端&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;docs.microsoft.com&lt;span class=&#34;hljs-regexp&#34;&gt;/en-us/&lt;/span&gt;windows&lt;span class=&#34;hljs-regexp&#34;&gt;/terminal/g&lt;/span&gt;et-started 可选 &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs jboss-cli&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 1 开启Microsoft-Windows-Subsystem-Linux&lt;/span&gt;&lt;br&gt;dism.exe &lt;span class=&#34;hljs-string&#34;&gt;/online&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/enable-feature&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/featurename&lt;/span&gt;&lt;span class=&#34;hljs-function&#34;&gt;:Microsoft-Windows-Subsystem-Linux&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/all&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/norestart&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 2 开启VirtualMachinePlatform&lt;/span&gt;&lt;br&gt;dism.exe &lt;span class=&#34;hljs-string&#34;&gt;/online&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/enable-feature&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/featurename&lt;/span&gt;&lt;span class=&#34;hljs-function&#34;&gt;:VirtualMachinePlatform&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/all&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/norestart&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 3 重启&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# reboot&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 4 安装WLS2内核更新包&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-string&#34;&gt;//wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 5 将WSL2设为默认&lt;/span&gt;&lt;br&gt;wsl &lt;span class=&#34;hljs-params&#34;&gt;--set-default-version&lt;/span&gt; 2&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 6 下载离线包(可以避免将WSL的系统装在C盘)&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-string&#34;&gt;//docs.microsoft.com/zh-cn/windows/wsl/install-manual&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# example&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-string&#34;&gt;//aka.ms/wslubuntu2004&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-string&#34;&gt;//aka.ms/wsl-ubuntu-1804&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-string&#34;&gt;//aka.ms/wsl-debian-gnulinux&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 离线包下载完成后解压缩 运行目录内的ubuntu.exe&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 会提示输入用户名和密码&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 7 (可选)安装 windows终端&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-string&#34;&gt;//docs.microsoft.com/en-us/windows/terminal/get-started&lt;/span&gt; 可选 &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
+&lt;h2 id=&#34;卸载-禁用&#34;&gt;&lt;a href=&#34;#卸载-禁用&#34; class=&#34;headerlink&#34; title=&#34;卸载 &amp;amp; 禁用&#34;&gt;&lt;/a&gt;卸载 &amp;amp; 禁用&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;在控制面板中禁用 Hyper-V&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在“控制面板”中，打开“程序和功能”。&lt;/li&gt;
+&lt;li&gt;选择“启用或关闭 Windows 功能”。&lt;/li&gt;
+&lt;li&gt;展开 &lt;strong&gt;Hyper-V&lt;/strong&gt;，展开 &lt;strong&gt;Hyper-V 平台&lt;/strong&gt;，然后清除“Hyper-V 虚拟机监控程序”复选框。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在 PowerShell 中禁用 Hyper-V&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;打开提升权限的 PowerShell 窗口。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;运行以下命令：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-Hypervisor&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;U盘挂载&#34;&gt;&lt;a href=&#34;#U盘挂载&#34; class=&#34;headerlink&#34; title=&#34;U盘挂载&#34;&gt;&lt;/a&gt;U盘挂载&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;1 新建文件夹g&lt;/span&gt;&lt;br&gt;sudo mkdir /mnt/g&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;2 挂载盘符g&lt;/span&gt;&lt;br&gt;sudo mount -t drvfs g: /mnt/g&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;大功告成。进入/mnt/g即可操作&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;弹出移动硬盘，这样才能在windows下正常弹出，否则是会一直占用的。&lt;/span&gt;&lt;br&gt;sudo umount /mnt/g&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;映射wsl文件系统&#34;&gt;&lt;a href=&#34;#映射wsl文件系统&#34; class=&#34;headerlink&#34; title=&#34;映射wsl文件系统&#34;&gt;&lt;/a&gt;映射wsl文件系统&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2021/784ee20b/image-20211129131237501.png&#34; alt=&#34;image-20211129131237501&#34;&gt;&lt;/p&gt;

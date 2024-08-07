@@ -7,37 +7,42 @@
         <language>zh-CN</language>
         <pubDate>Mon, 18 Oct 2021 22:57:15 +0800</pubDate>
         <lastBuildDate>Mon, 18 Oct 2021 22:57:15 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,28 +155,48 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2021/ee60585b/</guid>
             <title>Synology 群晖</title>
@@ -214,13 +231,13 @@
 &lt;p&gt;使用&lt;code&gt;ChipEasy&lt;/code&gt;或者&lt;code&gt;ChipGenius&lt;/code&gt;查找到U盘的VID和PID。&lt;/p&gt;
 &lt;p&gt;以下图为例，这个U盘的VID是0930，PID是6544。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;请记录好这两个值。下面修改配置文件需要用到。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/07.png&#34; alt=&#34;[IMG]&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/07.png&#34; alt=&#34;IMG&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;编辑配置文件grub.cfg.&lt;/p&gt;
 &lt;p&gt;打开DiskGenius, 在顶部选择硬盘-打开虚拟硬盘文件, 选择刚刚下载的&lt;code&gt;.img&lt;/code&gt;引导文件并打开.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/kc6jjxmd.png&#34; alt=&#34;[IMG]&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/kc6jjxmd.png&#34; alt=&#34;IMG&#34;&gt;&lt;/p&gt;
 &lt;p&gt;在左边找到刚刚打开的img文件, 点击展开&lt;code&gt;ESP-&amp;gt;grub&lt;/code&gt;, 在右边找到&lt;code&gt;grub.cfg&lt;/code&gt;, 选择复制到桌面.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/kccTMt.md.png&#34; alt=&#34;[IMG]&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/kccTMt.md.png&#34; alt=&#34;IMG&#34;&gt;&lt;/p&gt;
 &lt;p&gt;使用文本编辑器修改&lt;code&gt;line22-line25&lt;/code&gt;的数据,&lt;/p&gt;
 &lt;p&gt;需要注意的是&lt;code&gt;VID&lt;/code&gt;和&lt;code&gt;PID&lt;/code&gt;必须要和U盘的数值匹配好.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;SN&lt;/code&gt;和&lt;code&gt;MAC1&lt;/code&gt;是在洗半白的时候需要修改的数值, 是非必须修改的.&lt;/p&gt;
@@ -228,7 +245,7 @@
 &lt;p&gt;set vid&amp;#x3D;0x058f U盘的VID 实体机必须修改，虚拟机无需修改&lt;br&gt;set pid&amp;#x3D;0x6387 U盘的PID 实体机必须修改，虚拟机无需修改&lt;br&gt;set sn&amp;#x3D;A8ODN02468 序列号 可以不修改&lt;br&gt;set mac1&amp;#x3D;0011322CA603 mac地址 可以不修改&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;注意:vid和pid的0x是十六进制的意思是不要删除掉的，只需要修改后面的4位.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/06.png&#34; alt=&#34;[IMG]&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/06.png&#34; alt=&#34;IMG&#34;&gt;&lt;/p&gt;
 &lt;p&gt;回到DiskGenius内将原来的&lt;code&gt;grub.cfg&lt;/code&gt;文件替换掉, 我这里是先将&lt;code&gt;img&lt;/code&gt;镜像里面的&lt;code&gt;grub.cfg&lt;/code&gt;文件删除, 再右键选择新增文件将编辑好的&lt;code&gt;grub.cfg&lt;/code&gt;文件放入其中.&lt;/p&gt;
 &lt;p&gt;关闭DiskGenius完成&lt;code&gt;img&lt;/code&gt;引导的修改.&lt;/p&gt;
 &lt;/li&gt;
@@ -245,12 +262,12 @@
 &lt;li&gt;&lt;p&gt;最后再点击写入(Write)。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/w11.png&#34; alt=&#34;[IMG]&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/w11.png&#34; alt=&#34;IMG&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;安装群晖系统&lt;/p&gt;
 &lt;p&gt;插入U盘，并且在主板上设置默认从U盘启动&lt;/p&gt;
 &lt;p&gt;默认选择从U盘启动后选择第1个选项&lt;code&gt;DS3617xs 6.1 Baremetal with Jun&amp;#39;s Mod v1.02-alpha&lt;/code&gt;按回车。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/2017041711.png&#34; alt=&#34;[IMG]&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/2017041711.png&#34; alt=&#34;IMG&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;找到设备IP地址&lt;/p&gt;
 &lt;p&gt;这里需要稍微等一等提示&lt;code&gt;Please open [http://find.synology.com](http://find.synology.com/) to continue&lt;/code&gt;后等个1-2分钟在浏览器里面输入&lt;a href=&#34;http://find.synology.com/&#34;&gt;http://find.synology.com/&lt;/a&gt; ，搜索DSM，如果没有找到，那么使用SynologyAssistant查找. &lt;a href=&#34;https://cndl.synology.cn/download/Tools/Assistant/6.1-15030/Windows/synology-assistant-6.1-15030.exe&#34;&gt;点击下载Windows版本&lt;/a&gt; &lt;/p&gt;
@@ -258,12 +275,12 @@
 &lt;blockquote&gt;
 &lt;p&gt;  若多次测试还是无法搜索到群晖，那可能是网卡不支持,&lt;br&gt;  详情请查看DSM黑群晖网卡支持列表&lt;br&gt;  &lt;a href=&#34;https://www.openos.org/threads/dsm-6-1-supported-drivers.42/&#34;&gt;https://www.openos.org/threads/dsm-6-1-supported-drivers.42/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/201704zoz.png&#34; alt=&#34;[IMG]&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/201704zoz.png&#34; alt=&#34;IMG&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;上传系统文件.&lt;/p&gt;
 &lt;p&gt;根据提示继续，点击&lt;code&gt;手动安装&lt;/code&gt;后选择之前下载的pat文件，然后再点击&lt;code&gt;立即安装&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/201704opo.png&#34; alt=&#34;[IMG]&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/201704ada.png&#34; alt=&#34;[IMG]&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/201704opo.png&#34; alt=&#34;IMG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/201704ada.png&#34; alt=&#34;IMG&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;安装之后完成一些配置后就可以进入系统界面了.&lt;/p&gt;
 &lt;/li&gt;
@@ -277,6 +294,80 @@
 &lt;blockquote&gt;
 &lt;p&gt;  安装完成后可以下载一些相关的手机端应用&lt;br&gt;  DS Finder&lt;br&gt;  DS File&lt;br&gt;  DS photo&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h1 id=&#34;编译引导安装群晖&#34;&gt;&lt;a href=&#34;#编译引导安装群晖&#34; class=&#34;headerlink&#34; title=&#34;编译引导安装群晖&#34;&gt;&lt;/a&gt;编译引导安装群晖&lt;/h1&gt;&lt;p&gt;Github： &lt;a href=&#34;https://github.com/fbelavenuto/arpl/&#34;&gt;https://github.com/fbelavenuto/arpl/&lt;/a&gt; （这个在2023年停更了）&lt;br&gt;Github：&lt;a href=&#34;https://github.com/RROrg/rr/releases&#34;&gt;https://github.com/RROrg/rr/releases&lt;/a&gt; （这个在更新，但是出现不久，据说是新的，也有说是arpl的迭代版本）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;到release页面下载&lt;code&gt;arpl-1.1-beta2a.img.zip&lt;/code&gt;，解压后得到&lt;code&gt;arpl.img&lt;/code&gt;文件。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;物理机安装群晖的，使用rufus吧&lt;code&gt;arpl.img&lt;/code&gt;文件写入到U盘中&lt;/li&gt;
+&lt;li&gt;虚拟机安装的，将这个文件导入虚拟机，并将其设置为启动盘&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;开机设为启动项&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;跳出显示画面，按默认选项走就好&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如果设备连接的路由器打开了DHCP的话，屏幕可以看到已经显示了&lt;code&gt;IP:7601&lt;/code&gt;这样的地址。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;img src=&#34;/2021/ee60585b/image-20230828230148188.png&#34; alt=&#34;image-20230828230148188&#34;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;我们需要连接到设备进行一些配置&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;方式一 通过终端&lt;ol&gt;
+&lt;li&gt;机器插上键盘&lt;/li&gt;
+&lt;li&gt;从设备调用“menu.sh”命令。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;方式二 通过网络配置&lt;ol&gt;
+&lt;li&gt;另外一台电脑，打开刚刚屏幕上显示的网址配置&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;方式三 通过ssh配置&lt;ol&gt;
+&lt;li&gt;使用ssh客户端，用户名： &lt;code&gt;root&lt;/code&gt; 和密码： &lt;code&gt;Redp1lL-1s-4weSomE&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;Choose a model&lt;/code&gt;选择你喜欢的型号 （DS918+ 兼容性好）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;img src=&#34;/2021/ee60585b/image-20230828230737102.png&#34; alt=&#34;image-20230828230737102&#34;&gt;&lt;/li&gt;
+&lt;li&gt;这里有个型号选择的参考 &lt;a href=&#34;http://d.nas50.cn/?id=16&#34;&gt;网址&lt;/a&gt;&lt;br&gt; &lt;img src=&#34;/%E7%BE%A4%E6%99%96.assets/image-20240626182531055.png&#34;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;Choose a Build Number&lt;/code&gt; 可以选最新的版本，这个版本对应群晖系统的版本&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;img src=&#34;/2021/ee60585b/image-20230828230902591.png&#34; alt=&#34;image-20230828230902591&#34;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;Choose a serial number&lt;/code&gt; 序列号配置&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;Generate a random serial number&lt;/code&gt; 随机生成一个序列号&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;Addons&lt;/code&gt; 是和十代cpu核显驱动相关的配置（这里根据CPU去配置）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;build the loader&lt;/code&gt; 编译loader程序&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;这个需要一点时间稍微等一下&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;/2021/ee60585b/image-20230828231118050.png&#34; alt=&#34;image-20230828231118050&#34;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;boot the loader&lt;/code&gt; 启动编译好的boot&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;img src=&#34;/2021/ee60585b/image-20230828231334846.png&#34; alt=&#34;image-20230828231334846&#34;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;boot引导到DSM之后，屏幕就不会再更新信息了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;访问群晖的页面&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;路由器找到群晖的IP，访问&lt;code&gt;IP:5000&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;浏览器输入 &lt;a href=&#34;https://finds.synology.com/&#34;&gt;https://finds.synology.com/&lt;/a&gt; 寻找刚刚安装启动的NAS&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;DSM系统安装参照上篇，DSM系统安装就是一样的了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;SSH访问启动盘&#34;&gt;&lt;a href=&#34;#SSH访问启动盘&#34; class=&#34;headerlink&#34; title=&#34;SSH访问启动盘&#34;&gt;&lt;/a&gt;SSH访问启动盘&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;mkdir /mnt/boot&lt;br&gt;cd /dev&lt;br&gt;sudo mount -t vfat synoboot1 /mnt/boot&lt;br&gt;cd /mnt/boot&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;半洗白-SN&#34;&gt;&lt;a href=&#34;#半洗白-SN&#34; class=&#34;headerlink&#34; title=&#34;半洗白 SN&#34;&gt;&lt;/a&gt;半洗白 SN&lt;/h2&gt;&lt;h3 id=&#34;前言&#34;&gt;&lt;a href=&#34;#前言&#34; class=&#34;headerlink&#34; title=&#34;前言&#34;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;ul&gt;
@@ -337,7 +428,7 @@
 
 
 &lt;h2 id=&#34;CPU频率调整&#34;&gt;&lt;a href=&#34;#CPU频率调整&#34; class=&#34;headerlink&#34; title=&#34;CPU频率调整&#34;&gt;&lt;/a&gt;CPU频率调整&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Linux的&amp;#x2F;sys&amp;#x2F;devices&amp;#x2F;system&amp;#x2F;cpu&amp;#x2F;cpu*&amp;#x2F;cpufreq目录存储着第*个CPU的一些参数，例如最小最大平均频率，bios限制频率。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Linux的&amp;#x2F;sys&amp;#x2F;devices&amp;#x2F;system&amp;#x2F;cpu&amp;#x2F;cpuxxx&amp;#x2F;cpufreq目录存储着第xxx个CPU的一些参数，例如最小最大平均频率，bios限制频率。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;使用如下命令可以查看支持的工作模式：&lt;/p&gt;
  &lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;cat &lt;span class=&#34;hljs-regexp&#34;&gt;/sys/&lt;/span&gt;devices&lt;span class=&#34;hljs-regexp&#34;&gt;/system/&lt;/span&gt;cpu&lt;span class=&#34;hljs-regexp&#34;&gt;/cpu0/&lt;/span&gt;cpufreq/scaling_available_governors&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -387,7 +478,7 @@
 &lt;figure class=&#34;highlight gams&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs gams&#34;&gt;cpufreq-&lt;span class=&#34;hljs-keyword&#34;&gt;set&lt;/span&gt; -c &lt;span class=&#34;hljs-comment&#34;&gt;0 -g ondemand&lt;/span&gt;&lt;br&gt;cpufreq-&lt;span class=&#34;hljs-keyword&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-comment&#34;&gt;-c 1 -g ondemand&lt;/span&gt;&lt;br&gt;cpufreq-&lt;span class=&#34;hljs-keyword&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-comment&#34;&gt;-c 2 -g ondemand&lt;/span&gt;&lt;br&gt;cpufreq-&lt;span class=&#34;hljs-keyword&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;hljs-comment&#34;&gt;-c 3 -g ondemand&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;为了下次开机也自动生效，可以手动添加启动脚本。将其存成.sh，开启启动即可&lt;/p&gt;
-&lt;figure class=&#34;highlight gradle&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs gradle&#34;&gt;#&lt;span class=&#34;hljs-regexp&#34;&gt;/bin/&lt;/span&gt;bash&lt;br&gt;&lt;span class=&#34;hljs-regexp&#34;&gt;/opt/&lt;/span&gt;bin/cpufreq-set -c &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; -g ondemand&lt;br&gt;&lt;span class=&#34;hljs-regexp&#34;&gt;/opt/&lt;/span&gt;bin/cpufreq-set -c &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; -g ondemand&lt;br&gt;&lt;span class=&#34;hljs-regexp&#34;&gt;/opt/&lt;/span&gt;bin/cpufreq-set -c &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt; -g ondemand&lt;br&gt;&lt;span class=&#34;hljs-regexp&#34;&gt;/opt/&lt;/span&gt;bin/cpufreq-set -c &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt; -g ondemand&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;#/bin/bash&lt;/span&gt;&lt;br&gt;/opt/&lt;span class=&#34;hljs-built_in&#34;&gt;bin&lt;/span&gt;/cpufreq-&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; -c &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; -g ondemand&lt;br&gt;/opt/&lt;span class=&#34;hljs-built_in&#34;&gt;bin&lt;/span&gt;/cpufreq-&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; -c &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; -g ondemand&lt;br&gt;/opt/&lt;span class=&#34;hljs-built_in&#34;&gt;bin&lt;/span&gt;/cpufreq-&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; -c &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt; -g ondemand&lt;br&gt;/opt/&lt;span class=&#34;hljs-built_in&#34;&gt;bin&lt;/span&gt;/cpufreq-&lt;span class=&#34;hljs-built_in&#34;&gt;set&lt;/span&gt; -c &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt; -g ondemand&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
@@ -398,11 +489,11 @@
 &lt;figure class=&#34;highlight ebnf&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs ebnf&#34;&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;sensors&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;配置风扇控制，这块主要的目的只检测风扇在那一路，一般主板会涉及到多个风扇，但不一定都会安装，所以通过pwmconfig来检测与测试风扇的转速控制。&lt;/p&gt;
-&lt;figure class=&#34;highlight ebnf&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs ebnf&#34;&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;sudo pwmconfig&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sudo&lt;/span&gt; pwmconfig&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;使用fancontrol自动控制风扇转速，他的原理就是定时执行脚本，监控CPU温度、根据不同的温度区间控制PWM值，从而改变风扇的转速。&lt;br&gt;当转速降低了后，噪音自然就解决了。&lt;/p&gt;
 &lt;p&gt;fancontrol会依赖pwmconfig命令生成的配置文件。&lt;/p&gt;
-&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;&lt;span class=&#34;hljs-regexp&#34;&gt;/etc/&lt;/span&gt;fancontrol&lt;br&gt;&lt;br&gt;-----------配置内容如下--------------&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Configuration file generated by pwmconfig, changes will be lost&lt;/span&gt;&lt;br&gt;INTERVAL=&lt;span class=&#34;hljs-number&#34;&gt;10&lt;/span&gt;&lt;br&gt;DEVPATH=hwmon0=devices&lt;span class=&#34;hljs-regexp&#34;&gt;/platform/&lt;/span&gt;coretemp.&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt; hwmon1=devices&lt;span class=&#34;hljs-regexp&#34;&gt;/platform/i&lt;/span&gt;t87.&lt;span class=&#34;hljs-number&#34;&gt;2624&lt;/span&gt;&lt;br&gt;DEVNAME=hwmon0=coretemp hwmon1=it8772&lt;br&gt;FCTEMPS=hwmon1&lt;span class=&#34;hljs-regexp&#34;&gt;/device/&lt;/span&gt;pwm2=hwmon0&lt;span class=&#34;hljs-regexp&#34;&gt;/device/&lt;/span&gt;temp3_input&lt;br&gt;FCFANS= hwmon1&lt;span class=&#34;hljs-regexp&#34;&gt;/device/&lt;/span&gt;pwm2=hwmon1&lt;span class=&#34;hljs-regexp&#34;&gt;/device/&lt;/span&gt;fan2_input&lt;br&gt;MINTEMP=hwmon1&lt;span class=&#34;hljs-regexp&#34;&gt;/device/&lt;/span&gt;pwm2=&lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt;&lt;br&gt;MAXTEMP=hwmon1&lt;span class=&#34;hljs-regexp&#34;&gt;/device/&lt;/span&gt;pwm2=&lt;span class=&#34;hljs-number&#34;&gt;60&lt;/span&gt;&lt;br&gt;MINSTART=hwmon1&lt;span class=&#34;hljs-regexp&#34;&gt;/device/&lt;/span&gt;pwm2=&lt;span class=&#34;hljs-number&#34;&gt;150&lt;/span&gt;&lt;br&gt;MINSTOP=hwmon1&lt;span class=&#34;hljs-regexp&#34;&gt;/device/&lt;/span&gt;pwm2=&lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs routeros&#34;&gt;/etc/fancontrol&lt;br&gt;&lt;br&gt;-----------配置内容如下--------------&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# Configuration file generated by pwmconfig, changes will be lost&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;INTERVAL&lt;/span&gt;=10&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;DEVPATH&lt;/span&gt;=hwmon0=devices/platform/coretemp.0 &lt;span class=&#34;hljs-attribute&#34;&gt;hwmon1&lt;/span&gt;=devices/platform/it87.2624&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;DEVNAME&lt;/span&gt;=hwmon0=coretemp &lt;span class=&#34;hljs-attribute&#34;&gt;hwmon1&lt;/span&gt;=it8772&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;FCTEMPS&lt;/span&gt;=hwmon1/device/pwm2=hwmon0/device/temp3_input&lt;br&gt;FCFANS= hwmon1/device/&lt;span class=&#34;hljs-attribute&#34;&gt;pwm2&lt;/span&gt;=hwmon1/device/fan2_input&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;MINTEMP&lt;/span&gt;=hwmon1/device/pwm2=20&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;MAXTEMP&lt;/span&gt;=hwmon1/device/pwm2=60&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;MINSTART&lt;/span&gt;=hwmon1/device/pwm2=150&lt;br&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;MINSTOP&lt;/span&gt;=hwmon1/device/pwm2=100&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;默认生成的配置基本能够满足需求，经过测试风扇在2000转左右噪音相对能够接受。&lt;/p&gt;
 &lt;h2 id=&#34;VideoStation&#34;&gt;&lt;a href=&#34;#VideoStation&#34; class=&#34;headerlink&#34; title=&#34;VideoStation&#34;&gt;&lt;/a&gt;VideoStation&lt;/h2&gt;&lt;p&gt;参考：&lt;/p&gt;
@@ -431,8 +522,13 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Gogs配置&lt;/p&gt;
 &lt;ol&gt;
+&lt;li&gt;&lt;p&gt;数据库类型。&lt;/p&gt;
+&lt;p&gt;这里我是个人用，所以就选&lt;code&gt;SQLite&lt;/code&gt;，比较好备份，备份的时候可以整个打包走。&lt;/p&gt;
+&lt;p&gt;如果选用mariaDB就按下面的步骤配置&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Windows中用ssh登录群晖服务器，cd到mariaDB目录下：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;cd /volume1/@appstore/MariaDB10/usr/local/mariadb10/bin/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt; &lt;code&gt;cd /volume1/@appstore/MariaDB10/usr/local/mariadb10/bin/&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;输入命令 &lt;code&gt;./mysql -u root -p&lt;/code&gt;，然后输入密码，连接数据库&lt;/p&gt;
 &lt;/li&gt;
@@ -441,15 +537,25 @@
 &lt;li&gt;&lt;p&gt;创建数据库gogs&lt;br&gt; &lt;code&gt;CREATE DATABASE IF NOT EXISTS gogs;&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;输入下面的命令获取数据库远程访问权限 ：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;GRANT ALL PRIVILEGES ON gogs.* TO &amp;#39;user&amp;#39;@&amp;#39;%&amp;#39; IDENTIFIED BY &amp;#39;password&amp;#39; WITH GRANT OPTION;&lt;/code&gt;&lt;br&gt;其中user为用户名&lt;br&gt;password为用户密码&lt;/p&gt;
+&lt;p&gt; &lt;code&gt;GRANT ALL PRIVILEGES ON gogs.* TO &amp;#39;user&amp;#39;@&amp;#39;%&amp;#39; IDENTIFIED BY &amp;#39;password&amp;#39; WITH GRANT OPTION;&lt;/code&gt;&lt;br&gt; 其中user为用户名&lt;br&gt; password为用户密码&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;然后用&lt;code&gt;show databases;&lt;/code&gt;命令查看一下结果&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ssh建议使用内置ssh服务器，注意的是使用内置ssh服务器的时候就不能再使用22端口了，需要改掉&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;HTTP端口和应用URL这里需要注意，如果配置了bredge网络，这里是端口是gogs的端口，应用URL的端口是对外的配置网络时候配置的端口。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;gogs:port 设定相关参数即可&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;着重需要说明的是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;NULL&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;tips&lt;/p&gt;
 &lt;ol&gt;
@@ -477,20 +583,19 @@
 &lt;/ul&gt;
 &lt;h4 id=&#34;备份&#34;&gt;&lt;a href=&#34;#备份&#34; class=&#34;headerlink&#34; title=&#34;备份&#34;&gt;&lt;/a&gt;备份&lt;/h4&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/gogs/gogs/discussions/6876&#34;&gt;https://github.com/gogs/gogs/discussions/6876&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;数据备份&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;因为容器内的 &lt;code&gt;/data&lt;/code&gt; 目录是直接挂载到宿主机的，我们把容器内备份目录设置为 &lt;code&gt;/data&lt;/code&gt; ， 方便宿主机将备份文件同步到远程备份服务器。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据备份&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;因为容器内的 &lt;code&gt;/data&lt;/code&gt; 目录是直接挂载到宿主机的，我们把容器内备份目录设置为 &lt;code&gt;/data&lt;/code&gt; ， 方便宿主机将备份文件同步到远程备份服务器。&lt;/li&gt;
+&lt;li&gt;这是直接在宿主机上执行的命令。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker container exec gogs su - git -s /bin/ash \&lt;br&gt;-c &amp;quot;/app/gogs/gogs backup \&lt;br&gt;--config=/data/gogs/conf/app.ini \&lt;br&gt;--target=/gogs&amp;quot;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;注意挂载目录的权限&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker container exec gogs su - git -s /bin/ash \&lt;br&gt;-c &amp;quot;/app/gogs/gogs backup \&lt;br&gt;--config=/data/gogs/conf/app.ini \&lt;br&gt;--target=/data&amp;quot;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;注意挂载目录的权限&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;也可以在docker命令行中手动执行命令来备份&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;打开命令交互窗口&lt;/span&gt;&lt;br&gt;docker exec -ti gogs bash&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;gogs是git用户运行的 需要 先切换到git用户&lt;/span&gt;&lt;br&gt;su - git &lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;查看备份命令的格式&lt;/span&gt;&lt;br&gt;/app/gogs/gogs backup -h&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;执行备份  config自然就是配置文件了 target是输出的目录&lt;/span&gt;&lt;br&gt;/app/gogs/gogs backup --config=/data/gogs/conf/app.ini --target=/data/&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;数据恢复&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;用docker完成gogs部署之后，进入容器，执行下面命令&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;用docker&lt;strong&gt;完成gogs部署&lt;/strong&gt;之后，执行下面命令&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker container exec -it gogs su - git -s /bin/ash \&lt;br&gt;-c &amp;quot;/app/gogs/gogs restore \&lt;br&gt;--config=/data/gogs/conf/app.ini \&lt;br&gt;--tempdir=/data \&lt;br&gt;--from=/data/gogs-backup-20211230091744.zip&amp;quot;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;docker container exec -it gogs su - git -s /bin/ash \&lt;br&gt;-c &amp;quot;/app/gogs/gogs restore \&lt;br&gt;--config=/data/gogs/conf/app.ini \&lt;br&gt;--tempdir=/data \&lt;br&gt;--from=/data/gogs-backup-20211230091744.zip&amp;quot;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;同样的这里如果手动执行的话就是这样的啦&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;记得先在docker部署好gogs&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;打开命令交互窗口&lt;/span&gt;&lt;br&gt;docker exec -ti gogs bash&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;gogs是git用户运行的 需要 先切换到git用户&lt;/span&gt;&lt;br&gt;su - git &lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;查看恢复命令的格式&lt;/span&gt;&lt;br&gt;/app/gogs/gogs restore -h&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;执行恢复&lt;/span&gt;&lt;br&gt;/app/gogs/gogs restore --config=/data/gogs/conf/app.ini --tempdir=/data --from=/data/gogs-backup-xxx.zip&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt;&lt;/p&gt;
@@ -578,11 +683,14 @@
 
 &lt;p&gt;&lt;strong&gt;参考:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://imnks.com/389.html&#34;&gt;群晖升级硬盘 磁盘克隆后的简单扩容教程&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;PVE-Exsi-硬盘扩容&#34;&gt;&lt;a href=&#34;#PVE-Exsi-硬盘扩容&#34; class=&#34;headerlink&#34; title=&#34;PVE Exsi 硬盘扩容&#34;&gt;&lt;/a&gt;PVE Exsi 硬盘扩容&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;sudo fdisk /dev/sdb&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;输入 p 查考分区情况&lt;/span&gt;&lt;br&gt;Command (m for help): p&lt;br&gt;&lt;br&gt;Disk /dev/sdb: 64 GiB, 68719476736 bytes, 134217728 sectors&lt;br&gt;Disk model: HARDDISK&lt;br&gt;Units: sectors of 1 * 512 = 512 bytes&lt;br&gt;Sector size (logical/physical): 512 bytes / 512 bytes&lt;br&gt;I/O size (minimum/optimal): 512 bytes / 512 bytes&lt;br&gt;Disklabel type: dos&lt;br&gt;Disk identifier: 0x6776aa49&lt;br&gt;&lt;br&gt;Device     Boot    Start      End  Sectors  Size Id Type&lt;br&gt;/dev/sdb1           8192 16785407 16777216    8G fd Linux raid autodetect&lt;br&gt;/dev/sdb2       16785408 20979711  4194304    2G fd Linux raid autodetect&lt;br&gt;/dev/sdb3       21241856 66904063 45662208 21.8G fd Linux raid autodetect&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;输入 q 退出&lt;/span&gt;&lt;br&gt;Command (m for help): q&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;输入命令，给存储池扩容（命令中的3，对应/dev/sdb3）&lt;/span&gt;&lt;br&gt;parted /dev/sdb resizepart 3 100%&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;再次使用此命令查看分区表是否正确&lt;/span&gt;&lt;br&gt;sudo fdisk /dev/sdb&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;shell操作完成后在群晖的存储管理器，就看到系统提示”&lt;strong&gt;检测到未使用的硬盘空间，请单击立即扩充以扩充此存储池&lt;/strong&gt;“，点蓝色的”&lt;strong&gt;立即扩充&lt;/strong&gt;“；&lt;/p&gt;
 &lt;h2 id=&#34;群晖安装USB网卡驱动-AX88179A-6-2-3&#34;&gt;&lt;a href=&#34;#群晖安装USB网卡驱动-AX88179A-6-2-3&#34; class=&#34;headerlink&#34; title=&#34;群晖安装USB网卡驱动 AX88179A 6.2.3&#34;&gt;&lt;/a&gt;群晖安装USB网卡驱动 AX88179A 6.2.3&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2021/ee60585b/image-20220926214605083.png&#34; alt=&#34;image-20220926214605083&#34;&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;将USB网卡插入群晖&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;下载驱动程序 &lt;a href=&#34;%E7%BE%A4%E6%99%96/ax88179_178a.ko.zip&#34;&gt;ax88179_178a.ko.zip&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;下载驱动程序 &lt;a href=&#34;%E7%BE%A4%E6%99%96.assets/ax88179_178a.ko.zip&#34;&gt;ax88179_178a.ko.zip&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;解压后将&lt;code&gt;ax88179_178a.ko&lt;/code&gt;文件复制到群晖的&lt;code&gt;/lib/modules/&lt;/code&gt;目录下&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;cp&lt;/span&gt; /volume......./ax88179_178a.ko /lib/modules&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;

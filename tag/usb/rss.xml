@@ -1,0 +1,801 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;usb&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 01 Dec 2023 18:12:15 +0800</pubDate>
+        <lastBuildDate>Fri, 01 Dec 2023 18:12:15 +0800</lastBuildDate>
+        <category>autosar</category>
+        <category>aes</category>
+        <category>embedded</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>sscanf</category>
+        <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>md5</category>
+        <category>major</category>
+        <category>markdown</category>
+        <category>note</category>
+        <category>osi</category>
+        <category>RustDesk</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>typora</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>windows</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>机智云</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
+        <category>超声波</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>audio</category>
+        <category>video</category>
+        <category>cad</category>
+        <category>cat_drive</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>pve</category>
+        <category>virtual</category>
+        <category>software</category>
+        <category>摄影</category>
+        <category>synology</category>
+        <category>cmake</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>j-tag</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>obsidian</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>v2ray</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
+        <category>cortex-m3</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>pwm</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>modbus</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>zlib</category>
+        <category>minizip</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2023/9c721b62/</guid>
+            <title>USB</title>
+            <link>https://www.oikiou.top/2023/9c721b62/</link>
+            <category>embedded</category>
+            <category>usb</category>
+            <pubDate>Fri, 01 Dec 2023 18:12:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;USB-版本及发展历史&#34;&gt;&lt;a href=&#34;#USB-版本及发展历史&#34; class=&#34;headerlink&#34; title=&#34;USB 版本及发展历史&#34;&gt;&lt;/a&gt;USB 版本及发展历史&lt;/h1&gt;&lt;p&gt;USB接口自1994年推出以来，经过26年的发展，经过USB1.0&amp;#x2F;1.1、USB2.0、USB3.x，最终发展到了现在的USB4；传输速率也从最开始的1.5Mbps，大幅提高到了最新的40Gbps。&lt;br&gt;&lt;img src=&#34;/2023/9c721b62/image-20240621114302408.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;USB1-0&#34;&gt;&lt;a href=&#34;#USB1-0&#34; class=&#34;headerlink&#34; title=&#34;USB1.0&#34;&gt;&lt;/a&gt;USB1.0&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;1996年1月15日推出USB1.0接口规范&lt;/li&gt;
+&lt;li&gt;规定低速传输速率为1.5Mbit&amp;#x2F;s&lt;/li&gt;
+&lt;li&gt;对外提供供电电压为5V，最大电流500mA&lt;/li&gt;
+&lt;li&gt;一般适用于鼠标、键盘等低速HID设备。&lt;/li&gt;
+&lt;li&gt;支持热插拨&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;USB1-1&#34;&gt;&lt;a href=&#34;#USB1-1&#34; class=&#34;headerlink&#34; title=&#34;USB1.1&#34;&gt;&lt;/a&gt;USB1.1&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;1998年9月23日对原来的USB1.0进行升级，提出了USB1.1&lt;/li&gt;
+&lt;li&gt;USB1.1规定了全速传输速率为12Mbit&amp;#x2F;s,并兼容USB1.0的1.5Mbit&amp;#x2F;s&lt;/li&gt;
+&lt;li&gt;传输线缆最大度度3m&lt;/li&gt;
+&lt;li&gt;对外提供供电电压为5V，最大电流500mA&lt;/li&gt;
+&lt;li&gt;一般适用于鼠标、键盘、U盘，光驱等。&lt;/li&gt;
+&lt;li&gt;一个USB接口理论上可以支持127个设备。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;USB2-0&#34;&gt;&lt;a href=&#34;#USB2-0&#34; class=&#34;headerlink&#34; title=&#34;USB2.0&#34;&gt;&lt;/a&gt;USB2.0&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;2000年4月27日由USB-IF组织提出了USB2.0总线协议规范&lt;/li&gt;
+&lt;li&gt;具备480Mbit&amp;#x2F;s的高速传输速率，向下兼容低速1.5Mbit&amp;#x2F;s和全速12Mit&amp;#x2F;s&lt;/li&gt;
+&lt;li&gt;传输线缆最大度度5m&lt;/li&gt;
+&lt;li&gt;对外提供供电电压为5V，最大电流500mA&lt;/li&gt;
+&lt;li&gt;通过HUB级联的方式，一个USB接口理论上可以扩展127个USB设备&lt;/li&gt;
+&lt;li&gt;支持 4种传输方式：控制传输、中断传输、同步传输和块传输。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;USB3 的名字有些多&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;版本&lt;/th&gt;
+&lt;th&gt;时间&lt;/th&gt;
+&lt;th&gt;带宽&lt;/th&gt;
+&lt;th&gt;别名，指的是同一种&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;USB3.0&lt;/td&gt;
+&lt;td&gt;2008年11月17&lt;/td&gt;
+&lt;td&gt;5Gbps&lt;/td&gt;
+&lt;td&gt;SuperSpeed USB、USB 3.2 Gen 1、USB 3.1 Gen 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;USB3.1&lt;/td&gt;
+&lt;td&gt;2013年7月&lt;/td&gt;
+&lt;td&gt;10Gbps&lt;/td&gt;
+&lt;td&gt;SuperSpeed USB 10Gbps、USB 3.2 Gen 2、USB 3.1 Gen 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;USB3.2&lt;/td&gt;
+&lt;td&gt;2017年9月份&lt;/td&gt;
+&lt;td&gt;20Gbps&lt;/td&gt;
+&lt;td&gt;SuperSpeed USB 20Gbps、USB 3.2 Gen 2x2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;USB3-0-USB-3-2-Gen-1-USB-3-1-Gen-1&#34;&gt;&lt;a href=&#34;#USB3-0-USB-3-2-Gen-1-USB-3-1-Gen-1&#34; class=&#34;headerlink&#34; title=&#34;USB3.0 &amp;#x2F; USB 3.2 Gen 1 &amp;#x2F; USB 3.1 Gen 1&#34;&gt;&lt;/a&gt;USB3.0 &amp;#x2F; USB 3.2 Gen 1 &amp;#x2F; USB 3.1 Gen 1&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;超高速USB3.0规范于2008年11月17日出USB-IF组织推出。&lt;/li&gt;
+&lt;li&gt;提供更高的5.0Gbit&amp;#x2F;s的超高速传输速度，并向下兼容低速1.5Mbits&amp;#x2F;s、全速12Mbit&amp;#x2F;s和高速480Mbit&amp;#x2F;s传输速率&lt;/li&gt;
+&lt;li&gt;对外提供供电电压为5V，最大电流900mA&lt;/li&gt;
+&lt;li&gt;传输线缆最大度度3m&lt;/li&gt;
+&lt;li&gt;增加了新的电源管理功能，支持待机、睡眠以及暂定模式，更加省电。&lt;/li&gt;
+&lt;li&gt;全双工通讯。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;USB3-1-USB-3-2-Gen-2-USB-3-1-Gen-2&#34;&gt;&lt;a href=&#34;#USB3-1-USB-3-2-Gen-2-USB-3-1-Gen-2&#34; class=&#34;headerlink&#34; title=&#34;USB3.1 &amp;#x2F; USB 3.2 Gen 2 &amp;#x2F; USB 3.1 Gen 2&#34;&gt;&lt;/a&gt;USB3.1 &amp;#x2F; USB 3.2 Gen 2 &amp;#x2F; USB 3.1 Gen 2&lt;/h2&gt;&lt;p&gt;2013年7月份，USB 3.1发布，速度翻番至10Gbps，同时USB-IF就把USB 3.0改名为USB 3.1 Gen 1，新的USB 3.1则叫做USB 3.1 Gen 2。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2013年7月份发布&lt;/li&gt;
+&lt;li&gt;速度翻番至10Gbps&lt;/li&gt;
+&lt;li&gt;新增USB A&amp;#x2F;V影音传输。以更适合作为移动设备的输出接口，尤其是可逆的Type-C。&lt;/li&gt;
+&lt;li&gt;将供电的最高允许标准提高到了20V&amp;#x2F;5A，供电100W。&lt;/li&gt;
+&lt;li&gt;必须使用USB Type-C接口才能达到10Gbps的速度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;USB3-2-USB-3-2-Gen-2x2&#34;&gt;&lt;a href=&#34;#USB3-2-USB-3-2-Gen-2x2&#34; class=&#34;headerlink&#34; title=&#34;USB3.2 &amp;#x2F; USB 3.2 Gen 2x2&#34;&gt;&lt;/a&gt;USB3.2 &amp;#x2F; USB 3.2 Gen 2x2&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;2017年9月份，USB 3.2发布。&lt;/li&gt;
+&lt;li&gt;据最新公布的规范，USB 3.0、USB 3.1的版本命名都将彻底消失，统一被划入USB 3.2的序列，三者分别再次改名叫做USB 3.2 Gen 1、USB 3.2 Gen 2、USB 3.2 Gen 2x2。&lt;/li&gt;
+&lt;li&gt;它们还各自有一个市场推广命名，分别是SuperSpeed USB、SuperSpeed USB 10Gbps、SuperSpeed USB 20Gbps。&lt;br&gt;  之所以想出USB 3.2 Gen2x2这样的名字，大概是因为它使用了USB Type-C接口的上下两端全部针脚，速度得以翻番。&lt;/li&gt;
+&lt;li&gt;必须使用USB Type-C接口才能达到20Gbps的速度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;USB-描述符&#34;&gt;&lt;a href=&#34;#USB-描述符&#34; class=&#34;headerlink&#34; title=&#34;USB 描述符&#34;&gt;&lt;/a&gt;USB 描述符&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;  USB是个通用的总线，端口都是统一的。但是USB设备却各种各样，例如USB鼠标，USB键盘，U盘等等，那么USB主机是如何识别出不同的设备的呢？这就要依赖于描述符了。&lt;/p&gt;
+&lt;p&gt;  USB的描述符主要有&lt;strong&gt;设备描述符，配置描述符，接口描述符，端点描述符，字符串描述符，HID描述符，报告描述符&lt;/strong&gt;等等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;USB各个描述符之间的关系&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  一个USB设备有一个&lt;strong&gt;设备描述符&lt;/strong&gt;，设备描述符里面决定了该设备有&lt;strong&gt;多少种配置&lt;/strong&gt;，每种配置描述符对应着配置描述符；&lt;/p&gt;
+&lt;p&gt;  而在&lt;strong&gt;配置描述符&lt;/strong&gt;中又定义了该配置里面有&lt;strong&gt;多少个接口&lt;/strong&gt;，每个接口有对应的接口描述符；&lt;/p&gt;
+&lt;p&gt;  在&lt;strong&gt;接口描述符&lt;/strong&gt;里面又定义了该接口有&lt;strong&gt;多少个端点&lt;/strong&gt;，每个端点对应一个端点描述符；&lt;/p&gt;
+&lt;p&gt;  在&lt;strong&gt;端点描述符&lt;/strong&gt;定义了端点的大小，类型等等。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  由此我们可以看出，USB的描述符之间的关系是一层一层的，最上一层是设备描述符，下面是配置描述符，再下面是接口描述符，再下面是端点描述符。&lt;/p&gt;
+&lt;p&gt;  在获取描述符时，先获取设备描述符，然后再获取配置描述符，根据配置描述符中的配置集合长度，一次将配置描述符、接口描述符、端点描述符一起一次读回。&lt;/p&gt;
+&lt;p&gt;  其中可能还会有获取设备序列号，厂商字符串，产品字符串等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;各个描述符的编号&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; DEVICE_DESCRIPTOR               0x01  &lt;span class=&#34;hljs-comment&#34;&gt;//设备描述符   &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; CONFIGURATION_DESCRIPTOR        0x02  &lt;span class=&#34;hljs-comment&#34;&gt;//配置描述符   &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; STRING_DESCRIPTOR               0x03  &lt;span class=&#34;hljs-comment&#34;&gt;//字符串描述符   &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; INTERFACE_DESCRIPTOR            0x04  &lt;span class=&#34;hljs-comment&#34;&gt;//接口描述符   &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; ENDPOINT_DESCRIPTOR             0x05  &lt;span class=&#34;hljs-comment&#34;&gt;//端点描述符  &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;img src=&#34;/2023/9c721b62/v2-43379ad330f4acd76ce885f2e1359458_720w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2023/9c721b62/usbdes.jpeg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2023/9c721b62/image-20240620151939825.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;设备描述符-0x01-Device-Descriptor&#34;&gt;&lt;a href=&#34;#设备描述符-0x01-Device-Descriptor&#34; class=&#34;headerlink&#34; title=&#34;设备描述符 0x01 Device Descriptor&#34;&gt;&lt;/a&gt;设备描述符 0x01 Device Descriptor&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2023/9c721b62/dev.png&#34; alt=&#34;设备描述符&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;代码&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 定义标准的设备描述符结构&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;struct&lt;/span&gt; _&lt;span class=&#34;hljs-title&#34;&gt;DEVICE_DCESCRIPTOR_STRUCT&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;    BYTE blength;            &lt;span class=&#34;hljs-comment&#34;&gt;// 设备描述符的字节数大小&lt;/span&gt;&lt;br&gt;    BYTE bDescriptorType;    &lt;span class=&#34;hljs-comment&#34;&gt;// 设备描述符类型编号&lt;/span&gt;&lt;br&gt;    WORD bcdUSB;             &lt;span class=&#34;hljs-comment&#34;&gt;// USB版本号&lt;/span&gt;&lt;br&gt;    BYTE bDeviceClass;       &lt;span class=&#34;hljs-comment&#34;&gt;// USB分配的设备类代码&lt;/span&gt;&lt;br&gt;    BYTE bDeviceSubClass;    &lt;span class=&#34;hljs-comment&#34;&gt;// USB分配的子类代码&lt;/span&gt;&lt;br&gt;    BYTE bDeviceProtocol;    &lt;span class=&#34;hljs-comment&#34;&gt;// USB分配的设备协议代码&lt;/span&gt;&lt;br&gt;    BYTE bMaxPacketSize0;    &lt;span class=&#34;hljs-comment&#34;&gt;// 端点0的最大包大小&lt;/span&gt;&lt;br&gt;    WORD idVendor;           &lt;span class=&#34;hljs-comment&#34;&gt;// 厂商编号&lt;/span&gt;&lt;br&gt;    WORD idProduct;          &lt;span class=&#34;hljs-comment&#34;&gt;// 产品编号&lt;/span&gt;&lt;br&gt;    WORD bcdDevice;          &lt;span class=&#34;hljs-comment&#34;&gt;// 设备出厂编号&lt;/span&gt;&lt;br&gt;    BYTE iManufacturer;      &lt;span class=&#34;hljs-comment&#34;&gt;// 设备厂商字符串的索引&lt;/span&gt;&lt;br&gt;    BYTE iProduct;           &lt;span class=&#34;hljs-comment&#34;&gt;// 描述产品字符串的索引&lt;/span&gt;&lt;br&gt;    BYTE iSerialNumber;      &lt;span class=&#34;hljs-comment&#34;&gt;// 描述设备序列号字符串的索引&lt;/span&gt;&lt;br&gt;    BYTE bNumConfigurations; &lt;span class=&#34;hljs-comment&#34;&gt;// 可能的配置数量&lt;/span&gt;&lt;br&gt;&amp;#125; DEVICE_DESCRIPTOR_STRUCT, *pDEVICE_DESCRIPTOR_STRUCT;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 实际的设备描述符示例&lt;/span&gt;&lt;br&gt;DEVICE_DESCRIPTOR_STRUCT device_descriptor = &amp;#123;&lt;br&gt;.blength           =&lt;span class=&#34;hljs-keyword&#34;&gt;sizeof&lt;/span&gt;(DEVICE_DESCRIPTOR_STRUCT),&lt;span class=&#34;hljs-comment&#34;&gt;// 设备描述符的字节数大小，这里是18字节&lt;/span&gt;&lt;br&gt;.bDescriptorType   =DEVICE_DESCRIPTOR,  &lt;span class=&#34;hljs-comment&#34;&gt;// 设备描述符类型编号，设备描述符是01&lt;/span&gt;&lt;br&gt;.bcdUSB            =&lt;span class=&#34;hljs-number&#34;&gt;0x1001&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;// USB版本号，这里是USB01.10，即USB1.1。由于51是大端模式，所以高低字节交换&lt;/span&gt;&lt;br&gt;.bDeviceClass      =&lt;span class=&#34;hljs-number&#34;&gt;0x00&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// USB分配的设备类代码，0表示类型在接口描述符中定义&lt;/span&gt;&lt;br&gt;.bDeviceSubClass   =&lt;span class=&#34;hljs-number&#34;&gt;0x00&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// USB分配的子类代码，上面一项为0时，本项也要设置为0&lt;/span&gt;&lt;br&gt;.bDeviceProtocol   =&lt;span class=&#34;hljs-number&#34;&gt;0x00&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// USB分配的设备协议代码，上面一项为0时，本项也要设置为0&lt;/span&gt;&lt;br&gt;.bMaxPacketSize0   =&lt;span class=&#34;hljs-number&#34;&gt;0x10&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// 端点0的最大包大小，这里为16字节&lt;/span&gt;&lt;br&gt;.idVendor          =&lt;span class=&#34;hljs-number&#34;&gt;0x7104&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;// 厂商编号，这个是需要跟USB组织申请的ID号，表示厂商代号。&lt;/span&gt;&lt;br&gt;.idProduct         =&lt;span class=&#34;hljs-number&#34;&gt;0xf0ff&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;// 该产品的编号，跟厂商编号一起配合使用，让主机注册该设备并加载相应的驱动程序&lt;/span&gt;&lt;br&gt;.bcdDevice         =&lt;span class=&#34;hljs-number&#34;&gt;0x0100&lt;/span&gt;, &lt;span class=&#34;hljs-comment&#34;&gt;// 设备出厂编号&lt;/span&gt;&lt;br&gt;.iManufacturer     =&lt;span class=&#34;hljs-number&#34;&gt;0x01&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// 设备厂商字符串的索引，在获取字符串描述符时，使用该索引号来识别不同的字符串&lt;/span&gt;&lt;br&gt;.iProduct          =&lt;span class=&#34;hljs-number&#34;&gt;0x02&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// 描述产品字符串的索引，同上&lt;/span&gt;&lt;br&gt;.iSerialNumber     =&lt;span class=&#34;hljs-number&#34;&gt;0x03&lt;/span&gt;,   &lt;span class=&#34;hljs-comment&#34;&gt;// 描述设备序列号字符串的索引，同上&lt;/span&gt;&lt;br&gt;.bNumConfigurations=&lt;span class=&#34;hljs-number&#34;&gt;0x01&lt;/span&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 可能的配置数为1，即该设备只有一个配置&lt;/span&gt;&lt;br&gt;&amp;#125;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bLength&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;是设备描述符的总长度，以字节为单位。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bDescriptorType&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代表了本描述符的类型。&lt;/li&gt;
+&lt;li&gt;用于描述设备的描述符 是0x01。&lt;ul&gt;
+&lt;li&gt;其他描述符的数值及含义&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;/2023/9c721b62/d976ff82852a45ea8fc59183689cbd5b.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bcdUSB&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;显示了设备支持的USB版本，通常是最新版本。&lt;/li&gt;
+&lt;li&gt;这是一个&lt;a href=&#34;https://so.csdn.net/so/search?q=%E4%BA%8C%E8%BF%9B%E5%88%B6&amp;spm=1001.2101.3001.7020&#34;&gt;二进制&lt;/a&gt;代码形式的十进制数据，采用0xAABC的形式，其中A是主版本号，B是次版本号，C是子次版本号。&lt;/li&gt;
+&lt;li&gt;例如，USB2.0设备拥有0x0200值，USB1.1设备拥有0x0110值。通常，主机将使用bcdUSB以确定需要加载的USB驱动器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bDeviceClass&lt;/strong&gt;、&lt;strong&gt;bDeviceSubClass&lt;/strong&gt;、&lt;strong&gt;bDeviceProtocol&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;分别代表&lt;strong&gt;设备类型&lt;/strong&gt;，&lt;strong&gt;子类型&lt;/strong&gt;，&lt;strong&gt;设备使用的协议&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;USB-IF区分设备类分了三个等级（类-子类-协议码）其中，&lt;ul&gt;
+&lt;li&gt;类包含人机交互类、图像类、无线类、音频类等等，&lt;/li&gt;
+&lt;li&gt;子类比如音频类的音频控制、音频流等等，&lt;/li&gt;
+&lt;li&gt;协议比如人机接口类中的鼠标、键盘、&lt;a href=&#34;https://so.csdn.net/so/search?q=%E8%A7%A6%E6%91%B8%E5%B1%8F&amp;spm=1001.2101.3001.7020&#34;&gt;触摸屏&lt;/a&gt;等，&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;  为何会有这么多USB的Class分类，子分类，设备协议。&lt;br&gt;  我们要知道，USB协议设计的目的，就是为实现通用，用单一的USB接口取代之前种类繁多的各种其他接口。而为了取代其他各种接口，那意味着就要实现各种设备所对应的各种功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bMaxPackeSize0&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;端点一次最大传多少个字节。&lt;/li&gt;
+&lt;li&gt;根据设备，数据包的大小可以为 8 个字节、 16 个字节、 32 个字节和 64 个字节。&lt;/li&gt;
+&lt;li&gt;USB协议里有规定，端点0最低8字节，端点的最大传输大小和USB速度等级以及传输类型有关，&lt;strong&gt;控制传输一般使用端点0&lt;/strong&gt;，低速最大8字节，全速和高速最大传输64字节：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;idVendor&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代表着设备的生产商ID,由USB设备生产商向USB-IF官方来统一管理和申请。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;idProduct&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代表着该生产商生产的产品编号，同一厂商下的不同idProduct代表着该公司不同的产品系列。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bcdDevice&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;是一个BCD编码格式，代表着设备的出产编号，或者同一产品的版本更新迭代。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;iManufacturer&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;描述厂商的字符串的索引，为0则表示没有。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;iProduct&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;描述产品的字符串的索引，为0则表示没有。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;iSerialNumber&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;产品序列号字符串的索引，为0则表示没有。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bNumConfigurations&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;指示设备有多少个配置，前面提到过，一个USB可能有多个配置，一般USB产品都是1个配置。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;配置描述符-0x02-Configuration-Descriptor&#34;&gt;&lt;a href=&#34;#配置描述符-0x02-Configuration-Descriptor&#34; class=&#34;headerlink&#34; title=&#34;配置描述符 0x02 Configuration Descriptor&#34;&gt;&lt;/a&gt;配置描述符 0x02 Configuration Descriptor&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;偏移&lt;/th&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;大小&lt;br&gt;Byte&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;bLength&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该描述符的长度 &amp;#x3D; 9 个字节&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;bDescriptorType&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;描述符类型 &amp;#x3D; 配置（02h）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;wTotalLength&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;总长度包括接口和端点描述符在内&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;bNumInterfaces&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;本配置中接口的数量&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;bConfigurationValue&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;SET_CONFIGURATION 请求所使用的配置值，用于选择该配置&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;iConfiguration&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;描述该配置的字符串索引&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;bmAttributes&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;位 7：预留（设置为 1） &lt;br&gt;位 6：自供电 &lt;br&gt;位 5：远程唤醒&lt;br&gt;位 4:0：保留&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;bMaxPower&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;本配置所需的最大功耗（单位为 2 mA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bLength&lt;/strong&gt; 1字节，表示配置描述符的长度，配置描述符的长度是9字节。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bDescriptor&lt;/strong&gt; 1字节，表示描述符的类型，配置描述符的类型编码为 0x02。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;wTotalLength&lt;/strong&gt; 2字节，是整个配置描述符集合的总长度。包括配置描述符，接口描述符，端点描述符和类特殊描述符（如果有）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bNumInterfaces&lt;/strong&gt; 1字节，则定义了在该指定配置中接口总数。最小为 1 个接口，通常功能单一的设备只有一个接口（如鼠标），而复合设备具有多个接口（如音频设备）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bConfigurationValue&lt;/strong&gt; 1字节，表示该配置的值，设置配置请求时会发送一个配置值，如果某个配置的bConfigurationValue和它相匹配，就表示该配置被激活。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;iConfiguration&lt;/strong&gt; 1字节，描述该配置的字符串的索引，如果该值为0，表示没有字符串来描述它。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bmAttributes&lt;/strong&gt; 1字节，定义了 USB 设备的一些特性。 位7保留，必须设置为1，位6表示供电方式，设置为 0表示设备由总线供电，设置为 1 表示设备自供电。位5表示是否支持远程唤醒，设置为 1表示支持远程唤醒，设置为 0 表示不支持远程唤醒。位4~位0设置为0。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;bMaxPower&lt;/strong&gt; 1字节，表示设备需要从总线获取的最大电流量，以 2 mA 为单位。如需要200mA的最大电流，则该字段的值为100。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;字符串描述符-0x03&#34;&gt;&lt;a href=&#34;#字符串描述符-0x03&#34; class=&#34;headerlink&#34; title=&#34;字符串描述符 0x03&#34;&gt;&lt;/a&gt;字符串描述符 0x03&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;偏移&lt;/th&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;大小（字节）&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;bLength&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该描述符的长度 &amp;#x3D; 7 个字节&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;bDescriptorType&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;描述符类型 &amp;#x3D; STRING （03h）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2..n&lt;/td&gt;
+&lt;td&gt;bString 或 wLangID&lt;/td&gt;
+&lt;td&gt;变化&lt;/td&gt;
+&lt;td&gt;Unicode 编码字符串 或 LANGID 代码&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;字符串描述符是可选的，字符串描述符用于描述一些方便人们阅读的信息，比如制造商、设备名称啥的。如果一个设备没有字符串描述符，那么其他描述符中和字符串有关的索引值都必须为 0。&lt;/p&gt;
+&lt;h2 id=&#34;接口描述符-0x04-Interface-Descriptor&#34;&gt;&lt;a href=&#34;#接口描述符-0x04-Interface-Descriptor&#34; class=&#34;headerlink&#34; title=&#34;接口描述符 0x04 Interface Descriptor&#34;&gt;&lt;/a&gt;接口描述符 0x04 Interface Descriptor&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;偏移&lt;/th&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;大小（字节）&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;bLength&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该描述符的长度 &amp;#x3D; 9 个字节&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;bDescriptorType&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;描述符类型 &amp;#x3D; 接口（04h）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;bInterfaceNumber&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该接口基于零的索引&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;bAlternateSetting&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;备用设置值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;bNumEndpoints&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该接口所使用的端点数量（不包含 EP0）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;bInterfaceClass&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;接口类别&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;bInterfaceSubclass&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;接口子类别&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;bInterfaceProtocol&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;接口协议&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;iInterface&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该接口字符串描述符索引&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;bLength&lt;/strong&gt; 1字节，表示接口描述符的长度，标准的接口描述符的长度为9字节。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bDescriptorType&lt;/strong&gt; 1字节，表示描述符的类型，接口描述符的类型编码为 0x04。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bInterfaceNumber&lt;/strong&gt; 1字节，表示该接口的编号，如果一个配置具有多个接口，每个接口的编号都不相同，从0开始依次递增对一个配置的接口进行编号。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bAlternateSetting&lt;/strong&gt; 1字节，接口的备用编号，很少用到，设置为0。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bNumEndpoints&lt;/strong&gt; 1字节，表示该接口的端点数（不包括0端点）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bInterfaceClass、bInterfaceSubClass、bInterfaceProtocol&lt;/strong&gt; 均为1字节，分别表示接口所使用的类，子类以及协议，由USB协会规定。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iInterface&lt;/strong&gt; 1字节，描述该接口的字符串的索引值，如果为0，表示没有字符串。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;bInterfaceClass&lt;/strong&gt;、&lt;strong&gt;bDeviceClass&lt;/strong&gt;：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Base Class&lt;/th&gt;
+&lt;th&gt;Descriptor Usage&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;00h&lt;/td&gt;
+&lt;td&gt;Device&lt;/td&gt;
+&lt;td&gt;Use class information in the Interface Descriptors&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;01h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Audio USB音频，参见UAC规范&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;02h&lt;/td&gt;
+&lt;td&gt;Both&lt;/td&gt;
+&lt;td&gt;Communications and &lt;a href=&#34;https://www.usbzh.com/article/detail-842.html&#34;&gt;CDC&lt;/a&gt; Control 网卡、调制解调器、串列端口&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;03h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.usbzh.com/article/detail-76.html&#34;&gt;HID&lt;/a&gt; (Human Interface Device)，键盘、鼠标 参见&lt;a href=&#34;https://www.usbzh.com/article/detail-76.html&#34;&gt;HID&lt;/a&gt;规范&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;05h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Physical 控制杆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;06h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Image 影像扫描仪、Picture Transfer Protocol&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;07h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Printer 打印机&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;08h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Mass Storage U盘、移动硬盘、存储卡读卡器、数字相机&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09h&lt;/td&gt;
+&lt;td&gt;Device&lt;/td&gt;
+&lt;td&gt;Hub &lt;a href=&#34;https://www.usbzh.com/article/detail-25.html&#34;&gt;集线器&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0Ah&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.usbzh.com/article/detail-842.html&#34;&gt;CDC&lt;/a&gt;-Data 调制解调器、网络卡、ISDN、传真&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0Bh&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Smart Card 读卡器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0Dh&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Content Security&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0Eh&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Video USB视频，&lt;a href=&#34;https://www.usbzh.com/article/detail-80.html&#34;&gt;UVC&lt;/a&gt;摄像头，参见&lt;a href=&#34;https://www.usbzh.com/article/detail-80.html&#34;&gt;UVC&lt;/a&gt;规范&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0Fh&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Personal Healthcare&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Audio&amp;#x2F;Video Devices&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11h&lt;/td&gt;
+&lt;td&gt;Device&lt;/td&gt;
+&lt;td&gt;Billboard Device Class&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;USB Type-C Bridge Class&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DCh&lt;/td&gt;
+&lt;td&gt;Both&lt;/td&gt;
+&lt;td&gt;Diagnostic Device&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;E0h&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Wireless Controller 蓝牙&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;EFh&lt;/td&gt;
+&lt;td&gt;Both&lt;/td&gt;
+&lt;td&gt;Miscellaneous&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FEh&lt;/td&gt;
+&lt;td&gt;Interface&lt;/td&gt;
+&lt;td&gt;Application Specific 红外线资料桥接器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FFh&lt;/td&gt;
+&lt;td&gt;Both&lt;/td&gt;
+&lt;td&gt;Vendor Specific 自定义USB设备&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;更多信息参考 &lt;a href=&#34;https://www.usb.org/defined-class-codes&#34;&gt;USB.org&lt;/a&gt; 的部分章节&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;端点描述符-0x05-Endpoint-Descriptor&#34;&gt;&lt;a href=&#34;#端点描述符-0x05-Endpoint-Descriptor&#34; class=&#34;headerlink&#34; title=&#34;端点描述符 0x05 Endpoint Descriptor&#34;&gt;&lt;/a&gt;端点描述符 0x05 Endpoint Descriptor&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;偏移&lt;/th&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;大小&lt;br&gt;Byte&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;bLength&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该描述符长度 &amp;#x3D; 7 个字节&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;bDescriptorType&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;描述符类型 &amp;#x3D; 端点（05h）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;bEndpointAddress&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;位 3…0&lt;/strong&gt;：端点数量 &lt;br/&gt;&lt;strong&gt;位 6…4&lt;/strong&gt;：预留，复位为零 &lt;br/&gt;&lt;strong&gt;位 7&lt;/strong&gt;：端点的方向。控制端点可以忽略该位。 &lt;br/&gt;0 &amp;#x3D; OUT 端点 (主机到设备) &lt;br/&gt;1 &amp;#x3D; IN 端点 (设备到主机)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;bmAttributes&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;位 1…0&lt;/strong&gt;：传输类型 &lt;br/&gt;00 &amp;#x3D; 控制传输 &lt;br/&gt;01 &amp;#x3D; 同步传输 &lt;br/&gt;10 &amp;#x3D; 批量传输 &lt;br/&gt;11 &amp;#x3D; 中断传输 &lt;br/&gt;如果该端点不是同步端点，那么位 5 到位 2 将被预留，必须将这些位设置为零。如果该端点是同步的，这些位将按如下内容定义： &lt;br/&gt;&lt;strong&gt;位 3…2&lt;/strong&gt;：同步类型 &lt;br/&gt;00 &amp;#x3D; 无同步 &lt;br/&gt;01 &amp;#x3D; 异步 &lt;br/&gt;10 &amp;#x3D; 自适应 &lt;br/&gt;11 &amp;#x3D; 同步 &lt;br/&gt;&lt;strong&gt;位 5…4&lt;/strong&gt;：用途类型 &lt;br/&gt;00 &amp;#x3D; 数据端点 &lt;br/&gt;01 &amp;#x3D; 反馈端点 &lt;br/&gt;10 &amp;#x3D; 隐式反馈数据端点 &lt;br/&gt;数值 11 表示保留&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;wMaxPacketSize&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;该端点的数据包最大尺寸&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;bInterval&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;中断端点的轮询间隔，单位为 ms（对于同步端点，该间隔为 1 ms；控制或批量端点可能忽略该字段）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;bLength&lt;/strong&gt; 1字节，表示端点描述符的长度，标准的端点描述符的长度为7字节。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bDescriptorType&lt;/strong&gt; 1字节，表示描述符的类型，端点描述符的类型编码为 0x05。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bEndpointAddress&lt;/strong&gt; 1字节，表示该端点的地址和方向。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bmAttributes&lt;/strong&gt; 1字节，表示该端点的属性，详细看上表。&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transfer Type&lt;/strong&gt; &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;控制CONTROL&lt;/strong&gt; 控制端点被用来控制对 USB 设备的不同部分访问。&lt;em&gt;通常用作配置设备、获取设备信息、发送命令到设备或获取设备状态报告&lt;/em&gt;。这些端点通常较小。&lt;em&gt;每个 USB 设备都有一个控制端点称为”端点 0”, 被 USB 核心用来在插入时配置设备&lt;/em&gt;。USB协议保证总有足够的带宽留给控制端点传送数据到设备.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;中断INTERRUPT&lt;/strong&gt;每当 USB 主机向设备请求数据时，中断端点以固定的速率传送&lt;em&gt;小量的数据&lt;/em&gt;。此为USB 键盘和鼠标的主要的数据传送方法。它还用以传送数据到 USB 设备来控制设备。&lt;em&gt;通常不用来传送大量数据&lt;/em&gt;。USB协议保证总有足够的带宽留给中断端点传送数据到设备.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;批量BULK&lt;/strong&gt;  批量端点用以传送大量数据。这些端点常比中断端点大得多. 它们普遍用于&lt;em&gt;不能有任何数据丢失的数据&lt;/em&gt;。USB 协议&lt;em&gt;不保证传输在特定时间范围内完成&lt;/em&gt;。如果总线上没有足够的空间来发送整个BULK包，它被分为多个包进行传输。这些端点普遍用于打印机、USB Mass Storage和USB网络设备上。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;等时ISOCHRONOUS&lt;/strong&gt; 等时端点也批量传送大量数据, 但是这个数据&lt;em&gt;不被保证能送达&lt;/em&gt;。这些端点用在可以处理数据丢失的设备中，并且更多依赖于保持持续的数据流。如音频和视频设备等等。&lt;/li&gt;
+&lt;li&gt;对比总结：&lt;em&gt;控制&lt;/em&gt;和&lt;em&gt;批量&lt;/em&gt;端点用于异步数据传送，而&lt;em&gt;中断&lt;/em&gt;和&lt;em&gt;同步&lt;/em&gt;端点是周期性的。这意味着这些端点被设置来在固定的时间连续传送数据，USB 核心为它们保留了相应的带宽。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;wMaxPacketSize&lt;/strong&gt; 2字节，表示该端点的数据包最大长度。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bInterval&lt;/strong&gt; 1字节&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;每个端点描述符都规定了该端点所支持的最大数据包长 (wMaxPacketSize)，主机每次发送数据包，都不能超过端点的最大包长，各种端点的最大包长如下表：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;端点类型&lt;/th&gt;
+&lt;th&gt;最大包长 (低速)&lt;/th&gt;
+&lt;th&gt;最大包长 (全速)&lt;/th&gt;
+&lt;th&gt;最大包长 (高)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;控制端点&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;8&amp;#x2F;16&amp;#x2F;32&amp;#x2F;64&lt;/td&gt;
+&lt;td&gt;64&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;实时端点&lt;/td&gt;
+&lt;td&gt;不支持&lt;/td&gt;
+&lt;td&gt;1023&lt;/td&gt;
+&lt;td&gt;1024&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;中断端点&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;64&lt;/td&gt;
+&lt;td&gt;1024&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;批量端点&lt;/td&gt;
+&lt;td&gt;不支持&lt;/td&gt;
+&lt;td&gt;8&amp;#x2F;16&amp;#x2F;32&amp;#x2F;64&lt;/td&gt;
+&lt;td&gt;512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;HID&#34;&gt;&lt;a href=&#34;#HID&#34; class=&#34;headerlink&#34; title=&#34;HID&#34;&gt;&lt;/a&gt;HID&lt;/h1&gt;&lt;h1 id=&#34;UVC&#34;&gt;&lt;a href=&#34;#UVC&#34; class=&#34;headerlink&#34; title=&#34;UVC&#34;&gt;&lt;/a&gt;UVC&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;UVC，全称为：USB video(device) class,是微软与另外几家设备厂商联合推出的为USB视频捕获设备定义的协议标准，目前已成为USB org标准之一。&lt;/p&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

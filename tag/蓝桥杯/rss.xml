@@ -5,39 +5,44 @@
         <link>https://www.oikiou.top</link>
         <description>Blog</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 18 Feb 2020 11:54:03 +0800</pubDate>
-        <lastBuildDate>Tue, 18 Feb 2020 11:54:03 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <pubDate>Wed, 05 Jun 2019 17:23:05 +0800</pubDate>
+        <lastBuildDate>Wed, 05 Jun 2019 17:23:05 +0800</lastBuildDate>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,42 +155,48 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
-        <item>
-            <guid isPermalink="true">https://www.oikiou.top/2020/a2d461a8/</guid>
-            <title>给正在准备蓝桥杯的你</title>
-            <link>https://www.oikiou.top/2020/a2d461a8/</link>
-            <category>蓝桥杯</category>
-            <pubDate>Tue, 18 Feb 2020 11:54:03 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;前言：&#34;&gt;&lt;a href=&#34;#前言：&#34; class=&#34;headerlink&#34; title=&#34;前言：&#34;&gt;&lt;/a&gt;前言：&lt;/h1&gt;&lt;p&gt;以前参加过单片机和嵌入式的蓝桥，比赛虽然水但是还是可以锻炼个人能力的。&lt;br&gt;个人是在大二接触到这个比赛的，当时因为种种原因没能进入我们学校的电子协会，所以全程比赛都是一个人在准备，四处碰壁无比艰辛。学校报名结束了我才知道这个比赛(已经快寒假了我才了解到有这个比赛)，最后是以个人名义(比赛分为学校统一报名和个人报名，都一样的，只是谁给你交报名费的区别)自己交钱报名参赛的。也挺感谢这个比赛的，能力的提升我自己感觉还是有的，xxx不是经常说以赛促学么不是，哈哈哈哈。&lt;br&gt;在CSDN里面写了些准备比赛的笔记，还有一些自己做赛题的时候码的代码，贴出来给大家一个参考，也算为后来者提供一丝的帮助吧。&lt;br&gt;对了我是参加的第&lt;strong&gt;九届单片机组&lt;/strong&gt;，第十届嵌入式的，这些往后届的赛题我也没做，哈哈哈。&lt;/p&gt;
-&lt;h1 id=&#34;关于代码：&#34;&gt;&lt;a href=&#34;#关于代码：&#34; class=&#34;headerlink&#34; title=&#34;关于代码：&#34;&gt;&lt;/a&gt;关于代码：&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;代码都是准备比赛的时候写的，代码风格不一定很好但是代码都把该实现的功能都实现了，也还请见谅吧。&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&#34;关于准备比赛：&#34;&gt;&lt;a href=&#34;#关于准备比赛：&#34; class=&#34;headerlink&#34; title=&#34;关于准备比赛：&#34;&gt;&lt;/a&gt;关于准备比赛：&lt;/h1&gt;&lt;p&gt;准备比赛的话，其实没什么诀窍的。我本人的话“上去就是码”，代码要多写！一定要多码，一定要多码，一定要多码。多码代码，多想其他实现方法，做多了速度就上去了，套路也摸清了，&lt;br&gt;自然也能取得自己满意的成绩。&lt;/p&gt;
-&lt;h1 id=&#34;联系：&#34;&gt;&lt;a href=&#34;#联系：&#34; class=&#34;headerlink&#34; title=&#34;联系：&#34;&gt;&lt;/a&gt;联系：&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;mailto:&amp;#x6f;&amp;#x69;&amp;#x6b;&amp;#x69;&amp;#111;&amp;#x75;&amp;#x40;&amp;#111;&amp;#117;&amp;#116;&amp;#x6c;&amp;#x6f;&amp;#111;&amp;#x6b;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#109;&#34;&gt;&amp;#x6f;&amp;#x69;&amp;#x6b;&amp;#x69;&amp;#111;&amp;#x75;&amp;#x40;&amp;#111;&amp;#117;&amp;#116;&amp;#x6c;&amp;#x6f;&amp;#111;&amp;#x6b;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#109;&lt;/a&gt;&lt;br&gt;虽然我已经工作了。如果你有问题的话，也欢迎来找我，虽然我可能也不太会了。希望能对看本文的你有所帮助，最后祝大家都能从比赛中提高自己的能力！&lt;/p&gt;
-&lt;h1 id=&#34;笔记：&#34;&gt;&lt;a href=&#34;#笔记：&#34; class=&#34;headerlink&#34; title=&#34;笔记：&#34;&gt;&lt;/a&gt;笔记：&lt;/h1&gt;&lt;p&gt;蓝桥杯嵌入式入门学习笔记    &lt;a href=&#34;https://blog.csdn.net/weixin_42078116/article/details/87890491&#34;&gt;https://blog.csdn.net/weixin_42078116/article/details/87890491&lt;/a&gt;&lt;br&gt;蓝桥杯单片机组 比赛笔记    &lt;a href=&#34;https://blog.csdn.net/weixin_42078116/article/details/80165089&#34;&gt;https://blog.csdn.net/weixin_42078116/article/details/80165089&lt;/a&gt;&lt;br&gt;蓝桥杯嵌入式国赛扩展板 CT117E-EX 学习笔记    &lt;a href=&#34;https://blog.csdn.net/weixin_42078116/article/details/90905706&#34;&gt;https://blog.csdn.net/weixin_42078116/article/details/90905706&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;代码：&#34;&gt;&lt;a href=&#34;#代码：&#34; class=&#34;headerlink&#34; title=&#34;代码：&#34;&gt;&lt;/a&gt;代码：&lt;/h1&gt;&lt;p&gt;单片机的好像忘记了传，我待会传一下，可以去我的下载里面找。&lt;br&gt;蓝桥杯嵌入式省赛所有赛题代码.7z    &lt;a href=&#34;https://download.csdn.net/download/weixin_42078116/11227537&#34;&gt;https://download.csdn.net/download/weixin_42078116/11227537&lt;/a&gt;&lt;br&gt;蓝桥杯嵌入式省赛及国赛所有赛题代码.7z    &lt;a href=&#34;https://download.csdn.net/download/weixin_42078116/11227496&#34;&gt;https://download.csdn.net/download/weixin_42078116/11227496&lt;/a&gt;    &lt;/p&gt;
- ]]></description>
-        </item>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2019/ea2a1972/</guid>
             <title>蓝桥杯嵌入式 国赛扩展板 CT117E-EX 学习笔记</title>
@@ -310,7 +313,7 @@
 &lt;li&gt;主机输出&lt;/li&gt;
 &lt;li&gt;主机拉高&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;技巧-amp-TIP&#34;&gt;&lt;a href=&#34;#技巧-amp-TIP&#34; class=&#34;headerlink&#34; title=&#34;技巧&amp;amp;TIP&#34;&gt;&lt;/a&gt;技巧&amp;amp;TIP&lt;/h3&gt;&lt;ul&gt;
+&lt;h3 id=&#34;技巧-TIP&#34;&gt;&lt;a href=&#34;#技巧-TIP&#34; class=&#34;headerlink&#34; title=&#34;技巧&amp;amp;TIP&#34;&gt;&lt;/a&gt;技巧&amp;amp;TIP&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;DHT11分辨率都是整数级别的&lt;strong&gt;读取小数的数据部分没有意义&lt;/strong&gt;。（全为0）&lt;/li&gt;
 &lt;li&gt;读取间隔建议大于100ms（采样 1S 过高的读取频率没有意义）&lt;/li&gt;
 &lt;li&gt;在72MHz频率下 &lt;strong&gt;Delay_LCD&lt;/strong&gt; 运行一次大约 &lt;strong&gt;375us&lt;/strong&gt;&lt;/li&gt;
@@ -331,7 +334,7 @@
 &lt;li&gt;读Byte数据先读出的是&lt;strong&gt;低位&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;读出来的温度先是  &lt;strong&gt;LSM 8bit&lt;/strong&gt;  然后是 MSB 8bit&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;总线协议-amp-时序&#34;&gt;&lt;a href=&#34;#总线协议-amp-时序&#34; class=&#34;headerlink&#34; title=&#34;总线协议&amp;amp;时序&#34;&gt;&lt;/a&gt;总线协议&amp;amp;时序&lt;/h4&gt;&lt;p&gt;[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-n4fqEHfa-1627893566676)(蓝桥杯嵌入式决赛笔记.assets&amp;#x2F;01-1557625836489.png)]&lt;/p&gt;
+&lt;h4 id=&#34;总线协议-时序&#34;&gt;&lt;a href=&#34;#总线协议-时序&#34; class=&#34;headerlink&#34; title=&#34;总线协议&amp;amp;时序&#34;&gt;&lt;/a&gt;总线协议&amp;amp;时序&lt;/h4&gt;&lt;p&gt;[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-n4fqEHfa-1627893566676)(蓝桥杯嵌入式决赛笔记.assets&amp;#x2F;01-1557625836489.png)]&lt;/p&gt;
 &lt;p&gt;[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-MDCAsN9Z-1627893566679)(蓝桥杯嵌入式决赛笔记.assets&amp;#x2F;02.png)]&lt;/p&gt;
 &lt;h3 id=&#34;编程思路-1&#34;&gt;&lt;a href=&#34;#编程思路-1&#34; class=&#34;headerlink&#34; title=&#34;编程思路&#34;&gt;&lt;/a&gt;编程思路&lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;第十届提供了底层接口，比赛会下面这些就好了&lt;/p&gt;
@@ -343,7 +346,7 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;LIS302DL&#34;&gt;&lt;a href=&#34;#LIS302DL&#34; class=&#34;headerlink&#34; title=&#34;LIS302DL&#34;&gt;&lt;/a&gt;LIS302DL&lt;/h2&gt;&lt;p&gt;NULL&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;光敏-D-amp-A&#34;&gt;&lt;a href=&#34;#光敏-D-amp-A&#34; class=&#34;headerlink&#34; title=&#34;光敏 D&amp;amp;A&#34;&gt;&lt;/a&gt;光敏 D&amp;amp;A&lt;/h2&gt;&lt;h3 id=&#34;光敏D&#34;&gt;&lt;a href=&#34;#光敏D&#34; class=&#34;headerlink&#34; title=&#34;光敏D&#34;&gt;&lt;/a&gt;光敏D&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;光敏-D-A&#34;&gt;&lt;a href=&#34;#光敏-D-A&#34; class=&#34;headerlink&#34; title=&#34;光敏 D&amp;amp;A&#34;&gt;&lt;/a&gt;光敏 D&amp;amp;A&lt;/h2&gt;&lt;h3 id=&#34;光敏D&#34;&gt;&lt;a href=&#34;#光敏D&#34; class=&#34;headerlink&#34; title=&#34;光敏D&#34;&gt;&lt;/a&gt;光敏D&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;GPIOA_Pin_3 &lt;/li&gt;
 &lt;li&gt;GPIO_Mode_IPU&lt;/li&gt;
 &lt;/ul&gt;
@@ -361,7 +364,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;NULL&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;PULS-amp-PWM&#34;&gt;&lt;a href=&#34;#PULS-amp-PWM&#34; class=&#34;headerlink&#34; title=&#34;PULS&amp;amp;PWM&#34;&gt;&lt;/a&gt;PULS&amp;amp;PWM&lt;/h2&gt;&lt;blockquote&gt;
+&lt;h2 id=&#34;PULS-PWM&#34;&gt;&lt;a href=&#34;#PULS-PWM&#34; class=&#34;headerlink&#34; title=&#34;PULS&amp;amp;PWM&#34;&gt;&lt;/a&gt;PULS&amp;amp;PWM&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;比较捕获模式万能解题。如果题目不是要求同时采集CH1和CH2可以用PWM捕获模式挺好用的，改进一下可以不使用中断直接读取出占空比和频率，效率挺高。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;PA1        TIM2_CH2&lt;/p&gt;
@@ -651,7 +654,7 @@
 &lt;li&gt;主机输出&lt;/li&gt;
 &lt;li&gt;主机拉高&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;技巧-amp-TIP&#34;&gt;&lt;a href=&#34;#技巧-amp-TIP&#34; class=&#34;headerlink&#34; title=&#34;技巧&amp;amp;TIP&#34;&gt;&lt;/a&gt;技巧&amp;amp;TIP&lt;/h3&gt;&lt;ul&gt;
+&lt;h3 id=&#34;技巧-TIP&#34;&gt;&lt;a href=&#34;#技巧-TIP&#34; class=&#34;headerlink&#34; title=&#34;技巧&amp;amp;TIP&#34;&gt;&lt;/a&gt;技巧&amp;amp;TIP&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;DHT11分辨率都是整数级别的&lt;strong&gt;读取小数的数据部分没有意义&lt;/strong&gt;。（全为0）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;读取间隔建议大于100ms（采样 1S 过高的读取频率没有意义）&lt;/p&gt;
@@ -678,14 +681,14 @@
 &lt;li&gt;&lt;p&gt;读出来的温度先是  &lt;strong&gt;LSM 8bit&lt;/strong&gt;  然后是 MSB 8bit&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;总线协议-amp-时序&#34;&gt;&lt;a href=&#34;#总线协议-amp-时序&#34; class=&#34;headerlink&#34; title=&#34;总线协议&amp;amp;时序&#34;&gt;&lt;/a&gt;总线协议&amp;amp;时序&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;/2019/b9b15cd2/01-1557625836489.png&#34; alt=&#34;复位时序&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;总线协议-时序&#34;&gt;&lt;a href=&#34;#总线协议-时序&#34; class=&#34;headerlink&#34; title=&#34;总线协议&amp;amp;时序&#34;&gt;&lt;/a&gt;总线协议&amp;amp;时序&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;/2019/b9b15cd2/01-1557625836489.png&#34; alt=&#34;复位时序&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2019/b9b15cd2/02.png&#34; alt=&#34;读写时序&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;编程思路-1&#34;&gt;&lt;a href=&#34;#编程思路-1&#34; class=&#34;headerlink&#34; title=&#34;编程思路&#34;&gt;&lt;/a&gt;编程思路&lt;/h3&gt;&lt;p&gt;0xCC	OW_SKIP_ROM&lt;/p&gt;
 &lt;p&gt;0x44	DS18B20_CONVERT&lt;/p&gt;
 &lt;p&gt;0xCC	OW_SKIP_ROM&lt;/p&gt;
 &lt;p&gt;0xBE	DS18B20_READ&lt;/p&gt;
 &lt;h2 id=&#34;LIS302DL&#34;&gt;&lt;a href=&#34;#LIS302DL&#34; class=&#34;headerlink&#34; title=&#34;LIS302DL&#34;&gt;&lt;/a&gt;LIS302DL&lt;/h2&gt;&lt;p&gt;NULL&lt;/p&gt;
-&lt;h2 id=&#34;光敏-D-amp-A&#34;&gt;&lt;a href=&#34;#光敏-D-amp-A&#34; class=&#34;headerlink&#34; title=&#34;光敏 D&amp;amp;A&#34;&gt;&lt;/a&gt;光敏 D&amp;amp;A&lt;/h2&gt;&lt;h3 id=&#34;光敏D&#34;&gt;&lt;a href=&#34;#光敏D&#34; class=&#34;headerlink&#34; title=&#34;光敏D&#34;&gt;&lt;/a&gt;光敏D&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;光敏-D-A&#34;&gt;&lt;a href=&#34;#光敏-D-A&#34; class=&#34;headerlink&#34; title=&#34;光敏 D&amp;amp;A&#34;&gt;&lt;/a&gt;光敏 D&amp;amp;A&lt;/h2&gt;&lt;h3 id=&#34;光敏D&#34;&gt;&lt;a href=&#34;#光敏D&#34; class=&#34;headerlink&#34; title=&#34;光敏D&#34;&gt;&lt;/a&gt;光敏D&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;GPIOA_Pin_3 &lt;/li&gt;
 &lt;li&gt;GPIO_Mode_IPU&lt;/li&gt;
 &lt;/ul&gt;
@@ -698,7 +701,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;电位器&#34;&gt;&lt;a href=&#34;#电位器&#34; class=&#34;headerlink&#34; title=&#34;电位器&#34;&gt;&lt;/a&gt;电位器&lt;/h2&gt;&lt;p&gt;NULL&lt;/p&gt;
-&lt;h2 id=&#34;PULS-amp-PWM&#34;&gt;&lt;a href=&#34;#PULS-amp-PWM&#34; class=&#34;headerlink&#34; title=&#34;PULS&amp;amp;PWM&#34;&gt;&lt;/a&gt;PULS&amp;amp;PWM&lt;/h2&gt;&lt;p&gt;PA1        TIM2_CH2&lt;/p&gt;
+&lt;h2 id=&#34;PULS-PWM&#34;&gt;&lt;a href=&#34;#PULS-PWM&#34; class=&#34;headerlink&#34; title=&#34;PULS&amp;amp;PWM&#34;&gt;&lt;/a&gt;PULS&amp;amp;PWM&lt;/h2&gt;&lt;p&gt;PA1        TIM2_CH2&lt;/p&gt;
 &lt;p&gt;PA2        TIM2_CH3&lt;/p&gt;
 &lt;p&gt;PA6        TIM3_CH1&lt;/p&gt;
 &lt;p&gt;PA7        TIM3_CH2&lt;/p&gt;

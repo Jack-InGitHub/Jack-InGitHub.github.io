@@ -7,37 +7,42 @@
         <language>zh-CN</language>
         <pubDate>Mon, 10 Oct 2022 22:57:15 +0800</pubDate>
         <lastBuildDate>Mon, 10 Oct 2022 22:57:15 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,28 +155,48 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/3db44d04/</guid>
             <title>Android 文件传输模式 电脑无法识别</title>
@@ -294,9 +311,10 @@
             <link>https://www.oikiou.top/2022/ddff0c71/</link>
             <category>windows</category>
             <category>ms-dos</category>
+            <category>cmd</category>
             <pubDate>Tue, 21 Jun 2022 22:57:15 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;MS-DOS&#34;&gt;&lt;a href=&#34;#MS-DOS&#34; class=&#34;headerlink&#34; title=&#34;MS-DOS&#34;&gt;&lt;/a&gt;MS-DOS&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;CMD(windows-commands)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands&#34;&gt;Windowscommands&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands&#34;&gt;Windows Commands&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;在cmd内&lt;code&gt;/?&lt;/code&gt;即可获得帮助信息&lt;/p&gt;
 &lt;h2 id=&#34;FOR&#34;&gt;&lt;a href=&#34;#FOR&#34; class=&#34;headerlink&#34; title=&#34;FOR&#34;&gt;&lt;/a&gt;FOR&lt;/h2&gt;&lt;figure class=&#34;highlight tex&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;73&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;74&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;75&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;76&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;77&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;78&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;79&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;80&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;81&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;82&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;83&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;84&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;85&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;86&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;87&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;88&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;89&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;90&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;91&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;92&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;93&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;94&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;95&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;96&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;97&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;98&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;99&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;100&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;101&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;102&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;103&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;104&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;105&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;106&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;107&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;108&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;109&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;110&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;111&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;112&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;113&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;114&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;115&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;116&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;117&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;118&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;119&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;120&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;121&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;122&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;123&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;124&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs tex&#34;&gt;对一组文件中的每一个文件执行某个特定命令。&lt;br&gt;&lt;br&gt;FOR &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;%variable  指定一个单一字母可替换的参数。&lt;/span&gt;&lt;br&gt;  (set)      指定一个或一组文件。可以使用通配符。&lt;br&gt;  command    指定对每个文件执行的命令。&lt;br&gt;  command-parameters &lt;br&gt;             为特定命令指定参数或命令行开关。&lt;br&gt;&lt;br&gt;在批处理程序中使用 FOR 命令时，指定变量请使用 &lt;span class=&#34;hljs-comment&#34;&gt;%%variable&lt;/span&gt;&lt;br&gt;而不要用 &lt;span class=&#34;hljs-comment&#34;&gt;%variable。变量名称是区分大小写的，所以 %i 不同于 %I.&lt;/span&gt;&lt;br&gt;&lt;br&gt;如果启用命令扩展，则会支持下列 FOR 命令的其他格式:&lt;br&gt;&lt;br&gt;FOR /D &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    如果集中包含通配符，则指定与目录名匹配，而不与文件名匹配。&lt;br&gt;&lt;br&gt;FOR /R [[drive:]path] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    检查以 [drive:]path 为根的目录树，指向每个目录中的 FOR 语句。&lt;br&gt;    如果在 /R 后没有指定目录规范，则使用当前目录。如果集仅为一个单点(.)字符，&lt;br&gt;    则枚举该目录树。&lt;br&gt;&lt;br&gt;FOR /L &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (start,step,end) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    该集表示以增量形式从开始到结束的一个数字序列。因此，(1,1,5)将产生序列&lt;br&gt;    1 2 3 4 5，(5,-1,1)将产生序列(5 4 3 2 1)&lt;br&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (file-set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (&amp;quot;string&amp;quot;) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (&amp;#x27;command&amp;#x27;) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    或者，如果有 usebackq 选项:&lt;br&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (file-set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (&amp;quot;string&amp;quot;) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (&amp;#x27;command&amp;#x27;) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    fileset 为一个或多个文件名。继续到 fileset 中的下一个文件之前，&lt;br&gt;    每份文件都被打开、读取并经过处理。处理包括读取文件，将其分成一行行的文字，&lt;br&gt;    然后将每行解析成零或更多的符号。然后用已找到的符号字符串变量值调用 For 循环。&lt;br&gt;    以默认方式，/F 通过每个文件的每一行中分开的第一个空白符号。跳过空白行。&lt;br&gt;    你可通过指定可选 &amp;quot;options&amp;quot; 参数替代默认解析操作。这个带引号的字符串包括一个&lt;br&gt;    或多个指定不同解析选项的关键字。这些关键字为:&lt;br&gt;&lt;br&gt;        eol=c           - 指一个行注释字符的结尾(就一个)&lt;br&gt;        skip=n          - 指在文件开始时忽略的行数。&lt;br&gt;        delims=xxx      - 指分隔符集。这个替换了空格和制表符的&lt;br&gt;                          默认分隔符集。&lt;br&gt;        tokens=x,y,m-n  - 指每行的哪一个符号被传递到每个迭代&lt;br&gt;                          的 for 本身。这会导致额外变量名称的分配。m-n&lt;br&gt;                          格式为一个范围。通过 nth 符号指定 mth。如果&lt;br&gt;                          符号字符串中的最后一个字符星号，&lt;br&gt;                          那么额外的变量将在最后一个符号解析之后&lt;br&gt;                          分配并接受行的保留文本。&lt;br&gt;        usebackq        - 指定新语法已在下类情况中使用:&lt;br&gt;                          在作为命令执行一个后引号的字符串并且一个单&lt;br&gt;                          引号字符为文字字符串命令并允许在 file-set&lt;br&gt;                          中使用双引号扩起文件名称。&lt;br&gt;&lt;br&gt;    某些范例可能有助:&lt;br&gt;&lt;br&gt;FOR /F &amp;quot;eol=; tokens=2,3* delims=, &amp;quot; &lt;span class=&#34;hljs-comment&#34;&gt;%i in (myfile.txt) do @echo %i %j %k&lt;/span&gt;&lt;br&gt;&lt;br&gt;    会分析 myfile.txt 中的每一行，忽略以分号打头的那些行，将&lt;br&gt;    每行中的第二个和第三个符号传递给 for 函数体，用逗号和/或&lt;br&gt;    空格分隔符号。请注意，此 for 函数体的语句引用 &lt;span class=&#34;hljs-comment&#34;&gt;%i 来&lt;/span&gt;&lt;br&gt;    获得第二个符号，引用 &lt;span class=&#34;hljs-comment&#34;&gt;%j 来获得第三个符号，引用 %k&lt;/span&gt;&lt;br&gt;    来获得第三个符号后的所有剩余符号。对于带有空格的文件&lt;br&gt;    名，你需要用双引号将文件名括起来。为了用这种方式来使&lt;br&gt;    用双引号，还需要使用 usebackq 选项，否则，双引号会&lt;br&gt;    被理解成是用作定义某个要分析的字符串的。&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;%i 在 for 语句中显式声明，%j 和 %k 是通过&lt;/span&gt;&lt;br&gt;    tokens= 选项隐式声明的。可以通过 tokens= 一行&lt;br&gt;    指定最多 26 个符号，只要不试图声明一个高于字母 &amp;quot;z&amp;quot; 或&lt;br&gt;    &amp;quot;Z&amp;quot; 的变量。请记住，FOR 变量是单一字母、分大小写和全局的变量；&lt;br&gt;    而且，不能同时使用超过 52 个。&lt;br&gt;&lt;br&gt;    还可以在相邻字符串上使用 FOR /F 分析逻辑，方法是，&lt;br&gt;    用单引号将括号之间的 file-set 括起来。这样，该字符&lt;br&gt;    串会被当作一个文件中的一个单一输入行进行解析。&lt;br&gt;&lt;br&gt;    最后，可以用 FOR /F 命令来分析命令的输出。方法是，将&lt;br&gt;    括号之间的 file-set 变成一个反括字符串。该字符串会&lt;br&gt;    被当作命令行，传递到一个子 CMD.EXE，其输出会被捕获到&lt;br&gt;    内存中，并被当作文件分析。如以下例子所示:&lt;br&gt;&lt;br&gt;      FOR /F &amp;quot;usebackq delims==&amp;quot; &lt;span class=&#34;hljs-comment&#34;&gt;%i IN (`set`) DO @echo %i&lt;/span&gt;&lt;br&gt;&lt;br&gt;    会枚举当前环境中的环境变量名称。&lt;br&gt;&lt;br&gt;另外，FOR 变量参照的替换已被增强。你现在可以使用下列&lt;br&gt;选项语法:&lt;br&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~I          - 删除任何引号(&amp;quot;)，扩展 %I&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~fI        - 将 %I 扩展到一个完全合格的路径名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~dI        - 仅将 %I 扩展到一个驱动器号&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~pI        - 仅将 %I 扩展到一个路径&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~nI        - 仅将 %I 扩展到一个文件名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~xI        - 仅将 %I 扩展到一个文件扩展名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~sI        - 扩展的路径只含有短名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~aI        - 将 %I 扩展到文件的文件属性&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~tI        - 将 %I 扩展到文件的日期/时间&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~zI        - 将 %I 扩展到文件的大小&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~$PATH:I   - 查找列在路径环境变量的目录，并将 %I 扩展&lt;/span&gt;&lt;br&gt;                   到找到的第一个完全合格的名称。如果环境变量名&lt;br&gt;                   未被定义，或者没有找到文件，此组合键会扩展到&lt;br&gt;                   空字符串&lt;br&gt;&lt;br&gt;可以组合修饰符来得到多重结果:&lt;br&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~dpI       - 仅将 %I 扩展到一个驱动器号和路径&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~nxI       - 仅将 %I 扩展到一个文件名和扩展名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~fsI       - 仅将 %I 扩展到一个带有短名的完整路径名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~dp$PATH:I - 搜索列在路径环境变量的目录，并将 %I 扩展&lt;/span&gt;&lt;br&gt;                   到找到的第一个驱动器号和路径。&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~ftzaI     - 将 %I 扩展到类似输出线路的 DIR&lt;/span&gt;&lt;br&gt;&lt;br&gt;在以上例子中，&lt;span class=&#34;hljs-comment&#34;&gt;%I 和 PATH 可用其他有效数值代替。%~ 语法&lt;/span&gt;&lt;br&gt;用一个有效的 FOR 变量名终止。选取类似 &lt;span class=&#34;hljs-comment&#34;&gt;%I 的大写变量名&lt;/span&gt;&lt;br&gt;比较易读，而且避免与不分大小写的组合键混淆。&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -304,6 +322,12 @@
 
 &lt;h2 id=&#34;dir&#34;&gt;&lt;a href=&#34;#dir&#34; class=&#34;headerlink&#34; title=&#34;dir&#34;&gt;&lt;/a&gt;dir&lt;/h2&gt;&lt;p&gt;列出文件&lt;/p&gt;
 &lt;h2 id=&#34;cls&#34;&gt;&lt;a href=&#34;#cls&#34; class=&#34;headerlink&#34; title=&#34;cls&#34;&gt;&lt;/a&gt;cls&lt;/h2&gt;&lt;p&gt;清屏&lt;/p&gt;
+&lt;h2 id=&#34;timeout&#34;&gt;&lt;a href=&#34;#timeout&#34; class=&#34;headerlink&#34; title=&#34;timeout&#34;&gt;&lt;/a&gt;timeout&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  keyword: cmd timeout 无效&lt;/p&gt;
+&lt;p&gt;  做一个延时执行的批处理命令，选用timeout命令来实现，但是碰到一个情况是写完后直接双击运行时，timeout 命令运行不了。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;选择管理员权限运行就可以了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  bat命令需要查看权限，注意使用win+R进入cmd是具有管理员权限的，但是直接双击打开的bat文件是没有管理员权限的，没有对应的权限，有些对系统级别的控制，会出现奇怪的现象。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h1 id=&#34;NOTE&#34;&gt;&lt;a href=&#34;#NOTE&#34; class=&#34;headerlink&#34; title=&#34;NOTE&#34;&gt;&lt;/a&gt;NOTE&lt;/h1&gt;&lt;h2 id=&#34;mklinkC盘程序搬家&#34;&gt;&lt;a href=&#34;#mklinkC盘程序搬家&#34; class=&#34;headerlink&#34; title=&#34;mklinkC盘程序搬家&#34;&gt;&lt;/a&gt;mklinkC盘程序搬家&lt;/h2&gt;&lt;p&gt;命令参数&lt;/p&gt;
 &lt;figure class=&#34;highlight lua&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs lua&#34;&gt;mklink&lt;span class=&#34;hljs-string&#34;&gt;[[/d]|[/h]|[/j]]&lt;/span&gt;&amp;lt;Link&amp;gt;&amp;lt;Target&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -358,7 +382,7 @@
 
 
 
-&lt;h1 id=&#34;硬链接-amp-符号链接&#34;&gt;&lt;a href=&#34;#硬链接-amp-符号链接&#34; class=&#34;headerlink&#34; title=&#34;硬链接&amp;amp;符号链接&#34;&gt;&lt;/a&gt;硬链接&amp;amp;符号链接&lt;/h1&gt;&lt;blockquote&gt;
+&lt;h1 id=&#34;硬链接-符号链接&#34;&gt;&lt;a href=&#34;#硬链接-符号链接&#34; class=&#34;headerlink&#34; title=&#34;硬链接&amp;amp;符号链接&#34;&gt;&lt;/a&gt;硬链接&amp;amp;符号链接&lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;  mklink&lt;br&gt;  创建符号链接。&lt;/p&gt;
 &lt;p&gt;  MKLINK [[&amp;#x2F;D] | [&amp;#x2F;H] | [&amp;#x2F;J]] Link Target&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;hljs&#34;&gt;      /D      创建目录符号链接。默认为文件
@@ -491,6 +515,17 @@
 &lt;p&gt;&lt;code&gt;Windows&lt;/code&gt;键+&lt;code&gt;R&lt;/code&gt;，输入&lt;code&gt;regedit&lt;/code&gt;打开注册列表，在地址栏输入&lt;code&gt;计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run&lt;/code&gt;定位到对应注册表位置，右键新建一个字符串值，键入&lt;code&gt;init-wsl.bat&lt;/code&gt;脚本绝对路径即可，如下图！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2022/fc18738/regedit-add-init-wsl.png&#34; alt=&#34;set regedit service&#34;&gt;&lt;/p&gt;
 &lt;p&gt;重启计算机即可发现，&lt;code&gt;WSL&lt;/code&gt;中的&lt;code&gt;Docker&lt;/code&gt;服务已经被启动，通过&lt;code&gt;192.168.33.10&lt;/code&gt;可以直接访问到&lt;code&gt;WSL&lt;/code&gt;内部的网络！&lt;/p&gt;
+&lt;h2 id=&#34;windows-10-LTSC-wsappx占用大量cpu&#34;&gt;&lt;a href=&#34;#windows-10-LTSC-wsappx占用大量cpu&#34; class=&#34;headerlink&#34; title=&#34;windows 10 LTSC wsappx占用大量cpu&#34;&gt;&lt;/a&gt;windows 10 LTSC wsappx占用大量cpu&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;win R输入 regedit 进注册表&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;打开注册表路径：HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\AppXSvc&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;双击右侧start 把3改为4重启就可以了。&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;如果要启用这个功能再改为3即可。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;修改成功后运行更新程序，更新到最新，微软已经修复此问题。&lt;/p&gt;
+&lt;h2 id=&#34;win下命令行查看文件MD5&#34;&gt;&lt;a href=&#34;#win下命令行查看文件MD5&#34; class=&#34;headerlink&#34; title=&#34;win下命令行查看文件MD5&#34;&gt;&lt;/a&gt;win下命令行查看文件MD5&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;certutil -hashfile filename MD5&lt;br&gt;certutil -hashfile filename SHA1&lt;br&gt;certutil -hashfile filename SHA256&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;CRC32需要额外的程序&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://esrg.sourceforge.net/utils_win_up/md5sum/&#34;&gt;https://esrg.sourceforge.net/utils_win_up/md5sum/&lt;/a&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -541,10 +576,27 @@
 &lt;p&gt;   手动安装的优点是避免Linux的镜像文件(&lt;code&gt;ext4.vhdx&lt;/code&gt;)存放在C盘, 存放&lt;code&gt;ext4.vhdx&lt;/code&gt;的位置可以自定义.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;以下指令需要在&lt;strong&gt;管理员&lt;/strong&gt;下的 powershell 运行&lt;/p&gt;
-&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 1 开启Microsoft-Windows-Subsystem-Linux&lt;/span&gt;&lt;br&gt;dism.exe &lt;span class=&#34;hljs-regexp&#34;&gt;/online /&lt;/span&gt;enable-feature &lt;span class=&#34;hljs-regexp&#34;&gt;/featurename:Microsoft-Windows-Subsystem-Linux /&lt;/span&gt;all /norestart&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 2 开启VirtualMachinePlatform&lt;/span&gt;&lt;br&gt;dism.exe &lt;span class=&#34;hljs-regexp&#34;&gt;/online /&lt;/span&gt;enable-feature &lt;span class=&#34;hljs-regexp&#34;&gt;/featurename:VirtualMachinePlatform /&lt;/span&gt;all /norestart&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 3 重启&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# reboot&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 4 安装WLS2内核更新包&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;wslstorestorage.blob.core.windows.net&lt;span class=&#34;hljs-regexp&#34;&gt;/wslblob/&lt;/span&gt;wsl_update_x64.msi&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 5 将WSL2设为默认&lt;/span&gt;&lt;br&gt;wsl --set-default-version &lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 6 下载离线包(可以避免将WSL的系统装在C盘)&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;docs.microsoft.com&lt;span class=&#34;hljs-regexp&#34;&gt;/zh-cn/&lt;/span&gt;windows&lt;span class=&#34;hljs-regexp&#34;&gt;/wsl/i&lt;/span&gt;nstall-manual&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# example&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;aka.ms/wslubuntu2004&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;aka.ms/wsl-ubuntu-&lt;span class=&#34;hljs-number&#34;&gt;1804&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;aka.ms/wsl-debian-gnulinux&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 离线包下载完成后解压缩 运行目录内的ubuntu.exe&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 会提示输入用户名和密码&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 7 (可选)安装 windows终端&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-regexp&#34;&gt;//&lt;/span&gt;docs.microsoft.com&lt;span class=&#34;hljs-regexp&#34;&gt;/en-us/&lt;/span&gt;windows&lt;span class=&#34;hljs-regexp&#34;&gt;/terminal/g&lt;/span&gt;et-started 可选 &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs jboss-cli&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 1 开启Microsoft-Windows-Subsystem-Linux&lt;/span&gt;&lt;br&gt;dism.exe &lt;span class=&#34;hljs-string&#34;&gt;/online&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/enable-feature&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/featurename&lt;/span&gt;&lt;span class=&#34;hljs-function&#34;&gt;:Microsoft-Windows-Subsystem-Linux&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/all&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/norestart&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 2 开启VirtualMachinePlatform&lt;/span&gt;&lt;br&gt;dism.exe &lt;span class=&#34;hljs-string&#34;&gt;/online&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/enable-feature&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/featurename&lt;/span&gt;&lt;span class=&#34;hljs-function&#34;&gt;:VirtualMachinePlatform&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/all&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;/norestart&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 3 重启&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# reboot&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 4 安装WLS2内核更新包&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-string&#34;&gt;//wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 5 将WSL2设为默认&lt;/span&gt;&lt;br&gt;wsl &lt;span class=&#34;hljs-params&#34;&gt;--set-default-version&lt;/span&gt; 2&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 6 下载离线包(可以避免将WSL的系统装在C盘)&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-string&#34;&gt;//docs.microsoft.com/zh-cn/windows/wsl/install-manual&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# example&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-string&#34;&gt;//aka.ms/wslubuntu2004&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-string&#34;&gt;//aka.ms/wsl-ubuntu-1804&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-string&#34;&gt;//aka.ms/wsl-debian-gnulinux&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 离线包下载完成后解压缩 运行目录内的ubuntu.exe&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 会提示输入用户名和密码&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 7 (可选)安装 windows终端&lt;/span&gt;&lt;br&gt;https:&lt;span class=&#34;hljs-string&#34;&gt;//docs.microsoft.com/en-us/windows/terminal/get-started&lt;/span&gt; 可选 &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
+&lt;h2 id=&#34;卸载-禁用&#34;&gt;&lt;a href=&#34;#卸载-禁用&#34; class=&#34;headerlink&#34; title=&#34;卸载 &amp;amp; 禁用&#34;&gt;&lt;/a&gt;卸载 &amp;amp; 禁用&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;在控制面板中禁用 Hyper-V&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在“控制面板”中，打开“程序和功能”。&lt;/li&gt;
+&lt;li&gt;选择“启用或关闭 Windows 功能”。&lt;/li&gt;
+&lt;li&gt;展开 &lt;strong&gt;Hyper-V&lt;/strong&gt;，展开 &lt;strong&gt;Hyper-V 平台&lt;/strong&gt;，然后清除“Hyper-V 虚拟机监控程序”复选框。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在 PowerShell 中禁用 Hyper-V&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;打开提升权限的 PowerShell 窗口。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;运行以下命令：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-Hypervisor&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h2 id=&#34;U盘挂载&#34;&gt;&lt;a href=&#34;#U盘挂载&#34; class=&#34;headerlink&#34; title=&#34;U盘挂载&#34;&gt;&lt;/a&gt;U盘挂载&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;1 新建文件夹g&lt;/span&gt;&lt;br&gt;sudo mkdir /mnt/g&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;2 挂载盘符g&lt;/span&gt;&lt;br&gt;sudo mount -t drvfs g: /mnt/g&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;大功告成。进入/mnt/g即可操作&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;弹出移动硬盘，这样才能在windows下正常弹出，否则是会一直占用的。&lt;/span&gt;&lt;br&gt;sudo umount /mnt/g&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;映射wsl文件系统&#34;&gt;&lt;a href=&#34;#映射wsl文件系统&#34; class=&#34;headerlink&#34; title=&#34;映射wsl文件系统&#34;&gt;&lt;/a&gt;映射wsl文件系统&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2021/784ee20b/image-20211129131237501.png&#34; alt=&#34;image-20211129131237501&#34;&gt;&lt;/p&gt;

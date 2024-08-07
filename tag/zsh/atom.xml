@@ -4,37 +4,42 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;zsh&#34; tag</title>
     <link href="https://www.oikiou.top" />
     <updated>2022-12-12T14:57:15.000Z</updated>
-    <category term="hp" />
-    <category term="chrome" />
+    <category term="autosar" />
+    <category term="aes" />
     <category term="embedded" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
     <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
-    <category term="hex" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="license" />
     <category term="md5" />
+    <category term="major" />
     <category term="markdown" />
     <category term="note" />
     <category term="osi" />
+    <category term="RustDesk" />
     <category term="iap" />
     <category term="bootloader" />
     <category term="stm32" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
@@ -57,6 +62,11 @@
     <category term="zsh" />
     <category term="shell" />
     <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
@@ -67,32 +77,14 @@
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
     <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
     <category term="超声波" />
     <category term="github" />
     <category term="hosts" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="pid" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="life" />
-    <category term="人生" />
-    <category term="workflow" />
-    <category term="心理学" />
+    <category term="audio" />
+    <category term="video" />
     <category term="cad" />
     <category term="cat_drive" />
     <category term="switch" />
@@ -101,45 +93,49 @@
     <category term="hardware" />
     <category term="lenovo" />
     <category term="disk" />
-    <category term="摄影" />
+    <category term="pve" />
+    <category term="virtual" />
     <category term="software" />
+    <category term="摄影" />
     <category term="synology" />
     <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
     <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="flash" />
     <category term="j-tag" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
-    <category term="vscode" />
+    <category term="obsidian" />
     <category term="spacedesk" />
     <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="speedtest" />
-    <category term="tools" />
-    <category term="commenttranslate" />
-    <category term="wsl" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -147,6 +143,7 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
+    <category term="v2ray" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -155,28 +152,48 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
     <category term="cortex-a7" />
     <category term="cortex-m3" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="ucos" />
     <category term="bluetooth" />
     <category term="蓝牙" />
+    <category term="pwm" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
     <category term="modbus" />
     <category term="linuxapp" />
     <category term="curl" />
     <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
-    <category term="rt-thread" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
     <entry>
         <id>https://www.oikiou.top/2022/d911b12b/</id>
         <title>Zsh 安装 配置</title>
@@ -187,7 +204,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;  zsh非常强大，同时它的配置也是较为繁杂，所以我们使用“oh my zsh”这个框架来简化我们的配置流程。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;code&gt;cat /etc/shells&lt;/code&gt; 查看当前系统有哪些shell版本&lt;br&gt;&lt;code&gt;echo @SHELL&lt;/code&gt; 查看当前使用的shell版本&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;cat /etc/shells&lt;/code&gt; 查看当前系统有哪些shell版本&lt;br&gt;&lt;code&gt;echo $SHELL&lt;/code&gt; 查看当前使用的shell版本&lt;/p&gt;
 &lt;p&gt;安装完成后会在&lt;code&gt;~&lt;/code&gt;目录下产生一个&lt;code&gt;.zshrc&lt;/code&gt;这个跟&lt;code&gt;.bashrc&lt;/code&gt;是一样的文件，只是配置的对象不一样。&lt;code&gt;rc&lt;/code&gt;就是启动的意思，启动zsh读取的配置就是这个文件。&lt;/p&gt;
 &lt;h1 id=&#34;Oh-My-Zsh&#34;&gt;&lt;a href=&#34;#Oh-My-Zsh&#34; class=&#34;headerlink&#34; title=&#34;Oh My Zsh&#34;&gt;&lt;/a&gt;Oh My Zsh&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://ohmyz.sh/&#34;&gt;官网&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Oh My Zsh 是一个令人愉快的、开源的、社区驱动的框架，用于管理你的 Zsh 配置。它捆绑了数千个有用的功能、助手、插件、主题和一些东西 让你大喊大叫… “Oh My ZSH!”&lt;/p&gt;
@@ -206,10 +223,10 @@
 &lt;figure class=&#34;highlight text&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs text&#34;&gt;plugins=(--other-- zsh-syntax-highlighting)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;zsh-autosuggestions-自动补全&#34;&gt;&lt;a href=&#34;#zsh-autosuggestions-自动补全&#34; class=&#34;headerlink&#34; title=&#34;zsh-autosuggestions 自动补全&#34;&gt;&lt;/a&gt;zsh-autosuggestions 自动补全&lt;/h3&gt;&lt;p&gt;插件功能：输入命令时可提示自动补全（灰色部分），按tab键（→ ）即可补全。&lt;/p&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;git clone https://github.com/zsh-users/zsh-autosuggestions $&amp;#123;ZSH_CUSTOM:-~/.oh-my-zsh/custom&amp;#125;/plugins/zsh-autosuggestions&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;git clone https://github.com/zsh-users/zsh-autosuggestions.git $&amp;#123;ZSH_CUSTOM:-~/.oh-my-zsh/custom&amp;#125;/plugins/zsh-autosuggestions&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;将 &lt;code&gt;zsh-autosuggestions&lt;/code&gt; 添加到 &lt;code&gt;~/.zshrc&lt;/code&gt; 中&lt;/p&gt;
-&lt;figure class=&#34;highlight abnf&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs abnf&#34;&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;plugins&lt;/span&gt;&lt;span class=&#34;hljs-operator&#34;&gt;=&lt;/span&gt;(--other-- zsh-autosuggestions)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;plugins=(--other-- zsh-autosuggestions)&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;空格分隔不同的插件&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h1 id=&#34;Powerlevel10k&#34;&gt;&lt;a href=&#34;#Powerlevel10k&#34; class=&#34;headerlink&#34; title=&#34;Powerlevel10k&#34;&gt;&lt;/a&gt;Powerlevel10k&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/romkatv/powerlevel10k&#34;&gt;https://github.com/romkatv/powerlevel10k&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;安装-2&#34;&gt;&lt;a href=&#34;#安装-2&#34; class=&#34;headerlink&#34; title=&#34;安装&#34;&gt;&lt;/a&gt;安装&lt;/h2&gt;&lt;h3 id=&#34;安装字体&#34;&gt;&lt;a href=&#34;#安装字体&#34; class=&#34;headerlink&#34; title=&#34;安装字体&#34;&gt;&lt;/a&gt;安装字体&lt;/h3&gt;&lt;blockquote&gt;
@@ -246,6 +263,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;  这一步我在&lt;code&gt;MobaXterm&lt;/code&gt;下进行，发现可配置的选项缺失很多，后面在&lt;code&gt;Windows Terminal&lt;/code&gt;重新配置发现显示是正常的。&lt;/p&gt;
 &lt;p&gt;  &lt;code&gt;MobaXterm&lt;/code&gt;下&lt;code&gt;Fira Code&lt;/code&gt;字体似乎显示也有些问题，&lt;code&gt;MesloLGS NF&lt;/code&gt;就是正常的。&lt;/p&gt;
+&lt;p&gt;  23.8.1 p10k启动配置的时候如果选Unicode，该选项下会有尽量多图标的选项。MobaXterm里面如果出现历史候选词没有变灰色的情况可以在&lt;code&gt;Terminal Type&lt;/code&gt;里面修改成&lt;code&gt;xterm-256color&lt;/code&gt;，除此之外其他的没有尝试&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
         <category term="zsh" />

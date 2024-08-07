@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"obsidian\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2024/b58cbef5/",
+            "url": "https://www.oikiou.top/2024/b58cbef5/",
+            "title": "Obsidian",
+            "date_published": "2024-03-08T02:23:15.000Z",
+            "content_html": "<h1 id=\"一些格式问题\"><a href=\"#一些格式问题\" class=\"headerlink\" title=\"一些格式问题\"></a>一些格式问题</h1><h2 id=\"\"><a href=\"#\" class=\"headerlink\" title=\"%%\"></a>%%</h2><p>两个百分号在html中是“一个模板引擎系统，其语法基于jinja。”</p>\n<ul>\n<li>Obsidian 会默认把CRLF的换行符自动转换成LF的<br>   我们需要将单独这个仓库的git配置成<code>autocrlf = false</code>以保证换行符的统一。</li>\n</ul>\n",
+            "tags": [
+                "markdown",
+                "obsidian"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"css\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2024/ee69e452/",
+            "url": "https://www.oikiou.top/2024/ee69e452/",
+            "title": "CSS",
+            "date_published": "2024-02-21T00:08:08.000Z",
+            "content_html": "<h1 id=\"CSS-Cascading-Style-Sheets\"><a href=\"#CSS-Cascading-Style-Sheets\" class=\"headerlink\" title=\"CSS (Cascading Style Sheets)\"></a>CSS (Cascading Style Sheets)</h1>",
+            "tags": [
+                "web",
+                "css",
+                "html"
+            ]
+        }
+    ]
+}

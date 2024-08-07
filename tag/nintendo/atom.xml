@@ -4,37 +4,42 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;nintendo&#34; tag</title>
     <link href="https://www.oikiou.top" />
     <updated>2022-07-21T14:57:15.000Z</updated>
-    <category term="hp" />
-    <category term="chrome" />
+    <category term="autosar" />
+    <category term="aes" />
     <category term="embedded" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
     <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
-    <category term="hex" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="license" />
     <category term="md5" />
+    <category term="major" />
     <category term="markdown" />
     <category term="note" />
     <category term="osi" />
+    <category term="RustDesk" />
     <category term="iap" />
     <category term="bootloader" />
     <category term="stm32" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
@@ -57,6 +62,11 @@
     <category term="zsh" />
     <category term="shell" />
     <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
@@ -67,32 +77,14 @@
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
     <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
     <category term="超声波" />
     <category term="github" />
     <category term="hosts" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="pid" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="life" />
-    <category term="人生" />
-    <category term="workflow" />
-    <category term="心理学" />
+    <category term="audio" />
+    <category term="video" />
     <category term="cad" />
     <category term="cat_drive" />
     <category term="switch" />
@@ -101,45 +93,49 @@
     <category term="hardware" />
     <category term="lenovo" />
     <category term="disk" />
-    <category term="摄影" />
+    <category term="pve" />
+    <category term="virtual" />
     <category term="software" />
+    <category term="摄影" />
     <category term="synology" />
     <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
     <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="flash" />
     <category term="j-tag" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
-    <category term="vscode" />
+    <category term="obsidian" />
     <category term="spacedesk" />
     <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="speedtest" />
-    <category term="tools" />
-    <category term="commenttranslate" />
-    <category term="wsl" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -147,6 +143,7 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
+    <category term="v2ray" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -155,41 +152,60 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
     <category term="cortex-a7" />
     <category term="cortex-m3" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="ucos" />
     <category term="bluetooth" />
     <category term="蓝牙" />
+    <category term="pwm" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
     <category term="modbus" />
     <category term="linuxapp" />
     <category term="curl" />
     <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
-    <category term="rt-thread" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
     <entry>
         <id>https://www.oikiou.top/2022/f15ac6f4/</id>
         <title>Nintendo Switch</title>
         <link rel="alternate" href="https://www.oikiou.top/2022/f15ac6f4/"/>
-        <content type="html">&lt;h1 id=&#34;TX-转-大气层&#34;&gt;&lt;a href=&#34;#TX-转-大气层&#34; class=&#34;headerlink&#34; title=&#34;TX 转 大气层&#34;&gt;&lt;/a&gt;TX 转 大气层&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1DZ4y1B777/?spm_id_from=333.788&#34;&gt;https://www.bilibili.com/video/BV1DZ4y1B777/?spm_id_from=333.788&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;SD卡内文件结构&#34;&gt;&lt;a href=&#34;#SD卡内文件结构&#34; class=&#34;headerlink&#34; title=&#34;SD卡内文件结构&#34;&gt;&lt;/a&gt;SD卡内文件结构&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/2022/f15ac6f4/image-20221103090149675.png&#34; alt=&#34;image-20221103090149675&#34;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;OS相关&#34;&gt;&lt;a href=&#34;#OS相关&#34; class=&#34;headerlink&#34; title=&#34;OS相关&#34;&gt;&lt;/a&gt;OS相关&lt;/h1&gt;&lt;h2 id=&#34;三种不同的OS&#34;&gt;&lt;a href=&#34;#三种不同的OS&#34; class=&#34;headerlink&#34; title=&#34;三种不同的OS&#34;&gt;&lt;/a&gt;三种不同的OS&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/f15ac6f4/image-20221103092334424.png&#34; alt=&#34;image-20221103092334424&#34;&gt;&lt;/p&gt;
+        <content type="html">&lt;h1 id=&#34;写在前面&#34;&gt;&lt;a href=&#34;#写在前面&#34; class=&#34;headerlink&#34; title=&#34;写在前面&#34;&gt;&lt;/a&gt;写在前面&lt;/h1&gt;&lt;h2 id=&#34;认识Switch的启动方式&#34;&gt;&lt;a href=&#34;#认识Switch的启动方式&#34; class=&#34;headerlink&#34; title=&#34;认识Switch的启动方式&#34;&gt;&lt;/a&gt;认识Switch的启动方式&lt;/h2&gt;&lt;p&gt;使用大气层(Atmosphere)的switch是通过 软破&amp;#x2F;硬破 的方式启动SD卡上的大气层。然后大气层再去启动switch的破解版OS。&lt;/p&gt;
+&lt;p&gt;这里的大气层就有点类似于bootloader的感觉，但是不同的大气层(Atmosphere)版本能支持的SwitchOS的版本是不一样的，例如&lt;code&gt;Atmosphère 1.5.3 Support was added for 16.0.3&lt;/code&gt;但是&lt;code&gt;Atmosphère 1.5.0 Support was added for 16.0.0&lt;/code&gt;，这也是为什么有的时候我们升级SwitchOS需要先更新大气层。&lt;/p&gt;
+&lt;h2 id=&#34;SD卡内文件结构&#34;&gt;&lt;a href=&#34;#SD卡内文件结构&#34; class=&#34;headerlink&#34; title=&#34;SD卡内文件结构&#34;&gt;&lt;/a&gt;SD卡内文件结构&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/f15ac6f4/image-20221103090149675.png&#34; alt=&#34;image-20221103090149675&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  在更新和升级中，一般来说&lt;code&gt;Nintendo&lt;/code&gt;和&lt;code&gt;emuMMC&lt;/code&gt;是不会去删除的。&lt;/p&gt;
+&lt;p&gt;  Atmosphere需要更新的大版本一般来说除了上面这两个文件夹保留，其他的都要删掉。同时需要注意要更新注入文件fulse.bin&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;SwitchOS-相关&#34;&gt;&lt;a href=&#34;#SwitchOS-相关&#34; class=&#34;headerlink&#34; title=&#34;SwitchOS 相关&#34;&gt;&lt;/a&gt;SwitchOS 相关&lt;/h1&gt;&lt;h2 id=&#34;三种不同的OS&#34;&gt;&lt;a href=&#34;#三种不同的OS&#34; class=&#34;headerlink&#34; title=&#34;三种不同的OS&#34;&gt;&lt;/a&gt;三种不同的OS&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/f15ac6f4/image-20221103092334424.png&#34; alt=&#34;image-20221103092334424&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;大气层-真实系统&lt;ul&gt;
 &lt;li&gt;使用的是机身的正版系统, 插件是使用的是大气层的插件&lt;/li&gt;
@@ -209,9 +225,23 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;资源及参考链接&#34;&gt;&lt;a href=&#34;#资源及参考链接&#34; class=&#34;headerlink&#34; title=&#34;资源及参考链接&#34;&gt;&lt;/a&gt;资源及参考链接&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://darthsternie.net/switch-firmwares/&#34;&gt;Switch 离线升级固件(分为 大陆版 和 全球版)&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  大气层虚拟系统升级分为两部分依次进行：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;第1步.大气层更新：&lt;br&gt;&lt;a href=&#34;https://github.com/AK478BB/AK-Atmosphere/releases/&#34;&gt;下载最新版本整合包&lt;/a&gt;，保留TF卡中nintendo和emummc文件夹，其它文件全部删除，将最新整合包内的文件和文件夹放入TF卡根目录。&lt;br&gt;补充：如果用第三方软件JKSV或Checkpiont存档过，可以将TF卡根目录JKSV或Checkpiont文件夹一并保留；另外金手指、汉化补丁、MOD等均在TF卡根目录&lt;code&gt;atmosphere\contents&lt;/code&gt;文件夹内，可提前拷出。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;第2步.虚拟系统固件升级：&lt;br&gt;&lt;a href=&#34;https://darthsternie.net/switch-firmwares/&#34;&gt;下载需要升级的系统固件&lt;/a&gt;，解压后放在TF卡根目录，用Daybreak升级。&lt;br&gt;进虚拟系统相册，打开Daybreak：&lt;br&gt;1).选择已解压并复制到TF卡的固件包，程序会先验证刷机包，验证通过之后选择Continue。&lt;br&gt;2).选择恢复出厂设置还是保留数据刷机，选Preserve settings。&lt;br&gt;3).选择驱动选择，选Install(fat32+exfat)。&lt;br&gt;4).最后会询问你是否决定要更新系统，选continue。&lt;br&gt;5).刷机进度走完之后会让你选择关机还是重启，选Reboot。&lt;br&gt;升级完毕&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;  P.S.&lt;br&gt;  一、不拔卡更新大气层方法：&lt;br&gt;  进相册，选reboot_to_payload，进入到hekate，选“TOOLS”–进“USB TOOLS”–选“SD Card”，相当于读卡器功能，然后按照步骤更新整合包即可，当然拷贝游戏文件也可以。&lt;/p&gt;
+&lt;p&gt;二、 升级后打开游戏报错，可尝试进一次维护模式：&lt;br&gt;  开机一直按住音量+不松手，出蓝色界面后按下音量-，此时是一起按住音量+和音量-的，即可进入到维护模式，什么也不做按一下电源键关机。&lt;/p&gt;
+&lt;p&gt;三、安装游戏推荐用DBI，简要教程：&lt;br&gt;  连接电脑，打开DBI，选Run MTP responder，电脑端打开switch，里面有多个盘符，常用两个：&lt;br&gt;  1.安装游戏到SD卡：打开盘符MicroSD install，直接把游戏拖进去或复制粘贴进去即可安装，NSP、NSZ、XCI、XCZ格式均支持；可以一起拖多个文件进去。&lt;br&gt;  2.往SD卡拷贝文件：盘符External SD Card。&lt;br&gt;  3.cleanup orphaned files清除无效数据，是个不错的功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;资源及参考链接&#34;&gt;&lt;a href=&#34;#资源及参考链接&#34; class=&#34;headerlink&#34; title=&#34;资源及参考链接&#34;&gt;&lt;/a&gt;资源及参考链接&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://darthsternie.net/switch-firmwares/&#34;&gt;Switch 离线升级固件(分为 大陆版 和 @全球版)&lt;/a&gt; 我这台是全球版的&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://shipengliang.com/games/switch-%E5%A4%A7%E6%B0%94%E5%B1%82-atmosphere-%E5%A6%82%E4%BD%95%E7%A6%BB%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%B3%BB%E7%BB%9F.html&#34;&gt;Switch 大气层 Atmosphere 如何离线升降级系统&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://shipengliang.com/games/switch-firmware-%e5%9b%ba%e4%bb%b6%e4%b8%8b%e8%bd%bd.html&#34;&gt;Switch Firmware固件最新版、NS 历史版本下载列表：&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Atmosphere-NX/Atmosphere/releases&#34;&gt;Atmosphere-NX&amp;#x2F;Atmosphere Github链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/AK478BB/AK-Atmosphere/releases/&#34;&gt;AK原版大气层整合包&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;安装游戏&#34;&gt;&lt;a href=&#34;#安装游戏&#34; class=&#34;headerlink&#34; title=&#34;安装游戏&#34;&gt;&lt;/a&gt;安装游戏&lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;需要准备的工具&lt;ul&gt;
 &lt;li&gt;游戏资源&lt;/li&gt;
@@ -222,24 +252,29 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;资源&#34;&gt;&lt;a href=&#34;#资源&#34; class=&#34;headerlink&#34; title=&#34;资源&#34;&gt;&lt;/a&gt;资源&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;优先点击广告, 请勿白嫖, 为众人抱薪者，不可使其冻毙于风雪&lt;/li&gt;
+&lt;li&gt;如果可以请优先支持正版&lt;/li&gt;
+&lt;li&gt;优先点击广告, 请勿白嫖&lt;/li&gt;
+&lt;li&gt;为众人抱薪者，不可使其冻毙于风雪&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://xxxxx520.com/27637.html&#34;&gt;https://xxxxx520.com/27637.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://xxxxx520.net/3892.html&#34;&gt;https://xxxxx520.net/3892.html&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;NS-Usbloader-PC端&#34;&gt;&lt;a href=&#34;#NS-Usbloader-PC端&#34; class=&#34;headerlink&#34; title=&#34;NS-Usbloader PC端&#34;&gt;&lt;/a&gt;NS-Usbloader PC端&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;通过USB安装游戏, 以及电脑端开机注入都可用&lt;/li&gt;
 &lt;li&gt;这个需要java环境, 安装JRE(Java Runtime Environment)即可.&lt;/li&gt;
+&lt;li&gt;这个工具也可以把电脑当作注入器用&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/developersu/ns-usbloader/&#34;&gt;https://github.com/developersu/ns-usbloader/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;NX-Loader-安卓端&#34;&gt;&lt;a href=&#34;#NX-Loader-安卓端&#34; class=&#34;headerlink&#34; title=&#34;NX-Loader 安卓端&#34;&gt;&lt;/a&gt;NX-Loader 安卓端&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;需要一根OTG线和一根typec线&lt;/li&gt;
+&lt;li&gt;可以把手机当作注入器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/DavidBuchanan314/NXLoader&#34;&gt;Get the APK release&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/DavidBuchanan314/NXLoader&#34;&gt;NXLoader: My first Android app: Launch Fusée Gelée payloads from stock Android&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;Awoo-NS端&#34;&gt;&lt;a href=&#34;#Awoo-NS端&#34; class=&#34;headerlink&#34; title=&#34;Awoo NS端&#34;&gt;&lt;/a&gt;Awoo NS端&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;NS端安装游戏&lt;/li&gt;
+&lt;li&gt;有些游戏安装不了，可以尝试长按R启动任意一个游戏，再用awoo安装&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Huntereb/Awoo-Installer&#34;&gt;https://github.com/Huntereb/Awoo-Installer&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;特斯拉插件-Tesla-Menu-类似快捷菜单&#34;&gt;&lt;a href=&#34;#特斯拉插件-Tesla-Menu-类似快捷菜单&#34; class=&#34;headerlink&#34; title=&#34;特斯拉插件(Tesla-Menu) 类似快捷菜单&#34;&gt;&lt;/a&gt;特斯拉插件(Tesla-Menu) 类似快捷菜单&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;  &lt;strong&gt;Switch特斯拉插件&lt;/strong&gt;(Tesla-Menu)是一个很实用的功能插件的集合。可以直接在switch系统的任何界面通过组合按键调取左屏幕弹窗打开各种功能的快捷开关！目前已经实现的，开关switch硬件信息显示，开关FPS显示，&lt;strong&gt;开关超频&lt;/strong&gt;，切换TV模式，这个平台就好比是简洁版相册，相册里面的各种软件就是完整版，这个Tesla-Menu平台提供的功能就相当于缩减版！不用复杂的操作，只是简单的开关，好处就是精简不占用太多资源！不用来返相册去开关软件！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;调出菜单: &lt;code&gt;L + ↓&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;FPS界面调出: 同时按下 &lt;code&gt;左右摇杆&lt;/code&gt;&lt;/p&gt;
 &lt;h1 id=&#34;金手指-作弊器&#34;&gt;&lt;a href=&#34;#金手指-作弊器&#34; class=&#34;headerlink&#34; title=&#34;金手指(作弊器)&#34;&gt;&lt;/a&gt;金手指(作弊器)&lt;/h1&gt;&lt;p&gt;进入NS的相册, 将NS作为U盘挂载到电脑, &lt;code&gt;DBI -&amp;gt; Run MTP responder&lt;/code&gt;, 找到这个目录&lt;code&gt;此电脑\Switch\1: External SD Card\atmosphere\contents&lt;/code&gt;这个目录就是NS的金手指存放位置.&lt;/p&gt;
 &lt;p&gt;目录下64位16进制的文件夹名, 这个序号就代表着不同的游戏.&lt;/p&gt;
 &lt;p&gt;我们找到对应游戏, 打开文件夹后, 里面会有一个&lt;code&gt;cheats&lt;/code&gt;的文件夹, 我们打开它, 里面有一个&lt;code&gt;*.txt&lt;/code&gt;文件, 这个文件应该记录的就是内存地址, 我们去网络上找到别人保存好的内存地址信息(&lt;code&gt;cheats&lt;/code&gt;文件), 放到这个&lt;code&gt;atmosphere\contents&lt;/code&gt;目录下, 在NS端就能看到对应的金手指修改选项了, 注意可能需要关掉游戏重新开一下.&lt;/p&gt;
@@ -247,6 +282,12 @@
 &lt;p&gt;&lt;a href=&#34;https://github.com/ibnux/switch-cheat/blob/master/GAMES.md&#34;&gt;https://github.com/ibnux/switch-cheat/blob/master/GAMES.md&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://switchbrew.org/w/index.php?title=Title_list/Games&#34;&gt;https://switchbrew.org/w/index.php?title=Title_list/Games&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;cheats-金手指&#34;&gt;&lt;a href=&#34;#cheats-金手指&#34; class=&#34;headerlink&#34; title=&#34;cheats 金手指&#34;&gt;&lt;/a&gt;cheats 金手指&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/ibnux/switch-cheat&#34;&gt;https://github.com/ibnux/switch-cheat&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;Misc&#34;&gt;&lt;a href=&#34;#Misc&#34; class=&#34;headerlink&#34; title=&#34;Misc.&#34;&gt;&lt;/a&gt;Misc.&lt;/h1&gt;&lt;h2 id=&#34;TX-转-大气层&#34;&gt;&lt;a href=&#34;#TX-转-大气层&#34; class=&#34;headerlink&#34; title=&#34;TX 转 大气层&#34;&gt;&lt;/a&gt;TX 转 大气层&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1DZ4y1B777/?spm_id_from=333.788&#34;&gt;https://www.bilibili.com/video/BV1DZ4y1B777/?spm_id_from=333.788&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;特斯拉插件-Tesla-Menu-类似快捷菜单&#34;&gt;&lt;a href=&#34;#特斯拉插件-Tesla-Menu-类似快捷菜单&#34; class=&#34;headerlink&#34; title=&#34;特斯拉插件(Tesla-Menu) 类似快捷菜单&#34;&gt;&lt;/a&gt;特斯拉插件(Tesla-Menu) 类似快捷菜单&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  &lt;strong&gt;Switch特斯拉插件&lt;/strong&gt;(Tesla-Menu)是一个很实用的功能插件的集合。可以直接在switch系统的任何界面通过组合按键调取左屏幕弹窗打开各种功能的快捷开关！目前已经实现的，开关switch硬件信息显示，开关FPS显示，&lt;strong&gt;开关超频&lt;/strong&gt;，切换TV模式，这个平台就好比是简洁版相册，相册里面的各种软件就是完整版，这个Tesla-Menu平台提供的功能就相当于缩减版！不用复杂的操作，只是简单的开关，好处就是精简不占用太多资源！不用来返相册去开关软件！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;调出菜单: &lt;code&gt;L + ↓&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;FPS界面调出: 同时按下 &lt;code&gt;左右摇杆&lt;/code&gt;&lt;/p&gt;
 </content>
         <category term="switch" />
         <category term="nintendo" />

@@ -7,37 +7,42 @@
         <language>zh-CN</language>
         <pubDate>Fri, 26 Aug 2022 23:23:05 +0800</pubDate>
         <lastBuildDate>Fri, 26 Aug 2022 23:23:05 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,43 +155,63 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/fd90dc4c/</guid>
             <title>使用Jlink 烧写SPI Flash存储芯片</title>
             <link>https://www.oikiou.top/2022/fd90dc4c/</link>
+            <category>flash</category>
             <category>spi</category>
             <category>j-link</category>
             <category>jlink</category>
-            <category>flash</category>
             <category>j-tag</category>
             <pubDate>Fri, 26 Aug 2022 23:23:05 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;使用Jlink-烧写SPI-Flash存储芯片&#34;&gt;&lt;a href=&#34;#使用Jlink-烧写SPI-Flash存储芯片&#34; class=&#34;headerlink&#34; title=&#34;使用Jlink 烧写SPI Flash存储芯片&#34;&gt;&lt;/a&gt;使用Jlink 烧写SPI Flash存储芯片&lt;/h1&gt;&lt;p&gt;参考:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.segger.com/products/debug-probes/j-link/tools/j-flash-spi/&#34;&gt;https://www.segger.com/products/debug-probes/j-link/tools/j-flash-spi/&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;硬件连接&#34;&gt;&lt;a href=&#34;#硬件连接&#34; class=&#34;headerlink&#34; title=&#34;硬件连接&#34;&gt;&lt;/a&gt;硬件连接&lt;/h1&gt;&lt;h2 id=&#34;SPI-amp-Single&#34;&gt;&lt;a href=&#34;#SPI-amp-Single&#34; class=&#34;headerlink&#34; title=&#34;SPI &amp;amp; Single&#34;&gt;&lt;/a&gt;SPI &amp;amp; Single&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/formatpng.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;硬件连接&#34;&gt;&lt;a href=&#34;#硬件连接&#34; class=&#34;headerlink&#34; title=&#34;硬件连接&#34;&gt;&lt;/a&gt;硬件连接&lt;/h1&gt;&lt;h2 id=&#34;SPI-Single&#34;&gt;&lt;a href=&#34;#SPI-Single&#34; class=&#34;headerlink&#34; title=&#34;SPI &amp;amp; Single&#34;&gt;&lt;/a&gt;SPI &amp;amp; Single&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/formatpng.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/pinout-spi-20-pin.gif&#34; alt=&#34;引出线 spi 20 针&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;QSPI-amp-Quad&#34;&gt;&lt;a href=&#34;#QSPI-amp-Quad&#34; class=&#34;headerlink&#34; title=&#34;QSPI &amp;amp; Quad&#34;&gt;&lt;/a&gt;QSPI &amp;amp; Quad&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/pinout-qspi-20-pin.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;QSPI-Quad&#34;&gt;&lt;a href=&#34;#QSPI-Quad&#34; class=&#34;headerlink&#34; title=&#34;QSPI &amp;amp; Quad&#34;&gt;&lt;/a&gt;QSPI &amp;amp; Quad&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/pinout-qspi-20-pin.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;  注意:&lt;/p&gt;
 &lt;p&gt;  这里要注意的一点，正版的Jlink仿真器1脚是输入引脚，是外部提供参考电平的，但由于现在大部分的JLink仿真器都是学习(dao)版的，1脚不是输入，而是3.3v的输出(并不确定也有可能是5V的, 盗版的Jlink真的是什么乱七八糟的都有)，所以正常情况下可以直接用这个管教来给SPI Flash供电。&lt;/p&gt;

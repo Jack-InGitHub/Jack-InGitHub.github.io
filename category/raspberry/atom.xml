@@ -4,37 +4,42 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;raspberry&#34; category</title>
     <link href="https://www.oikiou.top" />
     <updated>2021-10-10T03:23:05.000Z</updated>
-    <category term="hp" />
-    <category term="chrome" />
+    <category term="autosar" />
+    <category term="aes" />
     <category term="embedded" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
     <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
-    <category term="hex" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="license" />
     <category term="md5" />
+    <category term="major" />
     <category term="markdown" />
     <category term="note" />
     <category term="osi" />
+    <category term="RustDesk" />
     <category term="iap" />
     <category term="bootloader" />
     <category term="stm32" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
@@ -57,6 +62,11 @@
     <category term="zsh" />
     <category term="shell" />
     <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
@@ -67,32 +77,14 @@
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
     <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
     <category term="超声波" />
     <category term="github" />
     <category term="hosts" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="pid" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="life" />
-    <category term="人生" />
-    <category term="workflow" />
-    <category term="心理学" />
+    <category term="audio" />
+    <category term="video" />
     <category term="cad" />
     <category term="cat_drive" />
     <category term="switch" />
@@ -101,45 +93,49 @@
     <category term="hardware" />
     <category term="lenovo" />
     <category term="disk" />
-    <category term="摄影" />
+    <category term="pve" />
+    <category term="virtual" />
     <category term="software" />
+    <category term="摄影" />
     <category term="synology" />
     <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
     <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="flash" />
     <category term="j-tag" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
-    <category term="vscode" />
+    <category term="obsidian" />
     <category term="spacedesk" />
     <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="speedtest" />
-    <category term="tools" />
-    <category term="commenttranslate" />
-    <category term="wsl" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -147,6 +143,7 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
+    <category term="v2ray" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -155,28 +152,48 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
     <category term="cortex-a7" />
     <category term="cortex-m3" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="ucos" />
     <category term="bluetooth" />
     <category term="蓝牙" />
+    <category term="pwm" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
     <category term="modbus" />
     <category term="linuxapp" />
     <category term="curl" />
     <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
-    <category term="rt-thread" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
     <entry>
         <id>https://www.oikiou.top/2021/6561f7ab/</id>
         <title>树莓派连上手机热点如何查看它的IP</title>
@@ -199,6 +216,20 @@
         <updated>2021-10-10T03:23:05.000Z</updated>
     </entry>
     <entry>
+        <id>https://www.oikiou.top/2021/d8eac117/</id>
+        <title>树莓派4B GPIO库 Wiringpi Oops -  Unable to Determine Board Type</title>
+        <link rel="alternate" href="https://www.oikiou.top/2021/d8eac117/"/>
+        <content type="html">&lt;p&gt;关键词:&lt;br&gt;树莓派4B GPIO库 wiringpi Oops - unable to determine board type… model_ 17&lt;/p&gt;
+&lt;h1 id=&#34;先说解决方案&#34;&gt;&lt;a href=&#34;#先说解决方案&#34; class=&#34;headerlink&#34; title=&#34;先说解决方案&#34;&gt;&lt;/a&gt;先说解决方案&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;cd /tmp&lt;br&gt;wget https://project-downloads.drogon.net/wiringpi-latest.deb&lt;br&gt;sudo dpkg -i wiringpi-latest.deb&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;问题描述&#34;&gt;&lt;a href=&#34;#问题描述&#34; class=&#34;headerlink&#34; title=&#34;问题描述&#34;&gt;&lt;/a&gt;问题描述&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/&#34;&gt;官网给的解释&lt;/a&gt; &lt;a href=&#34;http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/&#34;&gt;http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;树莓派4B 用wiringpi这个GPIO库的时候无法正常使用，我是在用作树莓派pwm风扇调速的时候发现一直输出不了pwm，示波器抓波形发现也不对，检查原因的时候发现 &lt;code&gt;gpio readall&lt;/code&gt;输出报错，最后官方文档说到&lt;strong&gt;树莓派4B&lt;/strong&gt;需要保证&lt;strong&gt;2.52版本&lt;/strong&gt;及以上才能适配(&lt;code&gt;gpio -v&lt;/code&gt;查看版本)，apt直接安装的似乎还没更新最新版本只到2.50，不太清楚为什么一年了这源都还没更新&lt;/p&gt;
+</content>
+        <category term="raspberry" />
+        <category term="wiringpi" />
+        <updated>2021-08-02T15:23:05.000Z</updated>
+    </entry>
+    <entry>
         <id>https://www.oikiou.top/2021/b0f7a103/</id>
         <title>树莓派4B PWM温控风扇 Wiringpi库 PWM调整频率 54M PWM频率不对</title>
         <link rel="alternate" href="https://www.oikiou.top/2021/b0f7a103/"/>
@@ -216,20 +247,6 @@
         <category term="raspberry" />
         <category term="wiringpi" />
         <category term="pwm" />
-        <updated>2021-08-02T15:23:05.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://www.oikiou.top/2021/d8eac117/</id>
-        <title>树莓派4B GPIO库 Wiringpi Oops -  Unable to Determine Board Type</title>
-        <link rel="alternate" href="https://www.oikiou.top/2021/d8eac117/"/>
-        <content type="html">&lt;p&gt;关键词:&lt;br&gt;树莓派4B GPIO库 wiringpi Oops - unable to determine board type… model_ 17&lt;/p&gt;
-&lt;h1 id=&#34;先说解决方案&#34;&gt;&lt;a href=&#34;#先说解决方案&#34; class=&#34;headerlink&#34; title=&#34;先说解决方案&#34;&gt;&lt;/a&gt;先说解决方案&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;cd /tmp&lt;br&gt;wget https://project-downloads.drogon.net/wiringpi-latest.deb&lt;br&gt;sudo dpkg -i wiringpi-latest.deb&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;h1 id=&#34;问题描述&#34;&gt;&lt;a href=&#34;#问题描述&#34; class=&#34;headerlink&#34; title=&#34;问题描述&#34;&gt;&lt;/a&gt;问题描述&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/&#34;&gt;官网给的解释&lt;/a&gt; &lt;a href=&#34;http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/&#34;&gt;http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;树莓派4B 用wiringpi这个GPIO库的时候无法正常使用，我是在用作树莓派pwm风扇调速的时候发现一直输出不了pwm，示波器抓波形发现也不对，检查原因的时候发现 &lt;code&gt;gpio readall&lt;/code&gt;输出报错，最后官方文档说到&lt;strong&gt;树莓派4B&lt;/strong&gt;需要保证&lt;strong&gt;2.52版本&lt;/strong&gt;及以上才能适配(&lt;code&gt;gpio -v&lt;/code&gt;查看版本)，apt直接安装的似乎还没更新最新版本只到2.50，不太清楚为什么一年了这源都还没更新&lt;/p&gt;
-</content>
-        <category term="raspberry" />
-        <category term="wiringpi" />
         <updated>2021-08-02T15:23:05.000Z</updated>
     </entry>
 </feed>

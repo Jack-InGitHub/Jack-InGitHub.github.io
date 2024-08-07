@@ -7,37 +7,42 @@
         <language>zh-CN</language>
         <pubDate>Mon, 10 Oct 2022 22:57:15 +0800</pubDate>
         <lastBuildDate>Mon, 10 Oct 2022 22:57:15 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,28 +155,48 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/3db44d04/</guid>
             <title>Android 文件传输模式 电脑无法识别</title>
@@ -234,7 +251,7 @@
 
 
 
-&lt;h1 id=&#34;硬链接-amp-符号链接&#34;&gt;&lt;a href=&#34;#硬链接-amp-符号链接&#34; class=&#34;headerlink&#34; title=&#34;硬链接&amp;amp;符号链接&#34;&gt;&lt;/a&gt;硬链接&amp;amp;符号链接&lt;/h1&gt;&lt;blockquote&gt;
+&lt;h1 id=&#34;硬链接-符号链接&#34;&gt;&lt;a href=&#34;#硬链接-符号链接&#34; class=&#34;headerlink&#34; title=&#34;硬链接&amp;amp;符号链接&#34;&gt;&lt;/a&gt;硬链接&amp;amp;符号链接&lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;  mklink&lt;br&gt;  创建符号链接。&lt;/p&gt;
 &lt;p&gt;  MKLINK [[&amp;#x2F;D] | [&amp;#x2F;H] | [&amp;#x2F;J]] Link Target&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;hljs&#34;&gt;      /D      创建目录符号链接。默认为文件
@@ -367,6 +384,17 @@
 &lt;p&gt;&lt;code&gt;Windows&lt;/code&gt;键+&lt;code&gt;R&lt;/code&gt;，输入&lt;code&gt;regedit&lt;/code&gt;打开注册列表，在地址栏输入&lt;code&gt;计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run&lt;/code&gt;定位到对应注册表位置，右键新建一个字符串值，键入&lt;code&gt;init-wsl.bat&lt;/code&gt;脚本绝对路径即可，如下图！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2022/fc18738/regedit-add-init-wsl.png&#34; alt=&#34;set regedit service&#34;&gt;&lt;/p&gt;
 &lt;p&gt;重启计算机即可发现，&lt;code&gt;WSL&lt;/code&gt;中的&lt;code&gt;Docker&lt;/code&gt;服务已经被启动，通过&lt;code&gt;192.168.33.10&lt;/code&gt;可以直接访问到&lt;code&gt;WSL&lt;/code&gt;内部的网络！&lt;/p&gt;
+&lt;h2 id=&#34;windows-10-LTSC-wsappx占用大量cpu&#34;&gt;&lt;a href=&#34;#windows-10-LTSC-wsappx占用大量cpu&#34; class=&#34;headerlink&#34; title=&#34;windows 10 LTSC wsappx占用大量cpu&#34;&gt;&lt;/a&gt;windows 10 LTSC wsappx占用大量cpu&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;win R输入 regedit 进注册表&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;打开注册表路径：HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\AppXSvc&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;双击右侧start 把3改为4重启就可以了。&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;如果要启用这个功能再改为3即可。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;修改成功后运行更新程序，更新到最新，微软已经修复此问题。&lt;/p&gt;
+&lt;h2 id=&#34;win下命令行查看文件MD5&#34;&gt;&lt;a href=&#34;#win下命令行查看文件MD5&#34; class=&#34;headerlink&#34; title=&#34;win下命令行查看文件MD5&#34;&gt;&lt;/a&gt;win下命令行查看文件MD5&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;certutil -hashfile filename MD5&lt;br&gt;certutil -hashfile filename SHA1&lt;br&gt;certutil -hashfile filename SHA256&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;CRC32需要额外的程序&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://esrg.sourceforge.net/utils_win_up/md5sum/&#34;&gt;https://esrg.sourceforge.net/utils_win_up/md5sum/&lt;/a&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>

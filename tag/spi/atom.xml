@@ -4,37 +4,42 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;spi&#34; tag</title>
     <link href="https://www.oikiou.top" />
     <updated>2022-08-26T15:23:05.000Z</updated>
-    <category term="hp" />
-    <category term="chrome" />
+    <category term="autosar" />
+    <category term="aes" />
     <category term="embedded" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
     <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
-    <category term="hex" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="license" />
     <category term="md5" />
+    <category term="major" />
     <category term="markdown" />
     <category term="note" />
     <category term="osi" />
+    <category term="RustDesk" />
     <category term="iap" />
     <category term="bootloader" />
     <category term="stm32" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
@@ -57,6 +62,11 @@
     <category term="zsh" />
     <category term="shell" />
     <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
@@ -67,32 +77,14 @@
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
     <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
     <category term="超声波" />
     <category term="github" />
     <category term="hosts" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="pid" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="life" />
-    <category term="人生" />
-    <category term="workflow" />
-    <category term="心理学" />
+    <category term="audio" />
+    <category term="video" />
     <category term="cad" />
     <category term="cat_drive" />
     <category term="switch" />
@@ -101,45 +93,49 @@
     <category term="hardware" />
     <category term="lenovo" />
     <category term="disk" />
-    <category term="摄影" />
+    <category term="pve" />
+    <category term="virtual" />
     <category term="software" />
+    <category term="摄影" />
     <category term="synology" />
     <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
     <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="flash" />
     <category term="j-tag" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
-    <category term="vscode" />
+    <category term="obsidian" />
     <category term="spacedesk" />
     <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="speedtest" />
-    <category term="tools" />
-    <category term="commenttranslate" />
-    <category term="wsl" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -147,6 +143,7 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
+    <category term="v2ray" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -155,37 +152,57 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
     <category term="cortex-a7" />
     <category term="cortex-m3" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="ucos" />
     <category term="bluetooth" />
     <category term="蓝牙" />
+    <category term="pwm" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
     <category term="modbus" />
     <category term="linuxapp" />
     <category term="curl" />
     <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
-    <category term="rt-thread" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
     <entry>
         <id>https://www.oikiou.top/2022/fd90dc4c/</id>
         <title>使用Jlink 烧写SPI Flash存储芯片</title>
         <link rel="alternate" href="https://www.oikiou.top/2022/fd90dc4c/"/>
         <content type="html">&lt;h1 id=&#34;使用Jlink-烧写SPI-Flash存储芯片&#34;&gt;&lt;a href=&#34;#使用Jlink-烧写SPI-Flash存储芯片&#34; class=&#34;headerlink&#34; title=&#34;使用Jlink 烧写SPI Flash存储芯片&#34;&gt;&lt;/a&gt;使用Jlink 烧写SPI Flash存储芯片&lt;/h1&gt;&lt;p&gt;参考:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.segger.com/products/debug-probes/j-link/tools/j-flash-spi/&#34;&gt;https://www.segger.com/products/debug-probes/j-link/tools/j-flash-spi/&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;硬件连接&#34;&gt;&lt;a href=&#34;#硬件连接&#34; class=&#34;headerlink&#34; title=&#34;硬件连接&#34;&gt;&lt;/a&gt;硬件连接&lt;/h1&gt;&lt;h2 id=&#34;SPI-amp-Single&#34;&gt;&lt;a href=&#34;#SPI-amp-Single&#34; class=&#34;headerlink&#34; title=&#34;SPI &amp;amp; Single&#34;&gt;&lt;/a&gt;SPI &amp;amp; Single&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/formatpng.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;硬件连接&#34;&gt;&lt;a href=&#34;#硬件连接&#34; class=&#34;headerlink&#34; title=&#34;硬件连接&#34;&gt;&lt;/a&gt;硬件连接&lt;/h1&gt;&lt;h2 id=&#34;SPI-Single&#34;&gt;&lt;a href=&#34;#SPI-Single&#34; class=&#34;headerlink&#34; title=&#34;SPI &amp;amp; Single&#34;&gt;&lt;/a&gt;SPI &amp;amp; Single&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/formatpng.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/pinout-spi-20-pin.gif&#34; alt=&#34;引出线 spi 20 针&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;QSPI-amp-Quad&#34;&gt;&lt;a href=&#34;#QSPI-amp-Quad&#34; class=&#34;headerlink&#34; title=&#34;QSPI &amp;amp; Quad&#34;&gt;&lt;/a&gt;QSPI &amp;amp; Quad&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/pinout-qspi-20-pin.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;QSPI-Quad&#34;&gt;&lt;a href=&#34;#QSPI-Quad&#34; class=&#34;headerlink&#34; title=&#34;QSPI &amp;amp; Quad&#34;&gt;&lt;/a&gt;QSPI &amp;amp; Quad&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/pinout-qspi-20-pin.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;  注意:&lt;/p&gt;
 &lt;p&gt;  这里要注意的一点，正版的Jlink仿真器1脚是输入引脚，是外部提供参考电平的，但由于现在大部分的JLink仿真器都是学习(dao)版的，1脚不是输入，而是3.3v的输出(并不确定也有可能是5V的, 盗版的Jlink真的是什么乱七八糟的都有)，所以正常情况下可以直接用这个管教来给SPI Flash供电。&lt;/p&gt;
@@ -219,10 +236,10 @@
 &lt;h1 id=&#34;附录&#34;&gt;&lt;a href=&#34;#附录&#34; class=&#34;headerlink&#34; title=&#34;附录&#34;&gt;&lt;/a&gt;附录&lt;/h1&gt;&lt;h2 id=&#34;winbood-W25Q128封装&#34;&gt;&lt;a href=&#34;#winbood-W25Q128封装&#34; class=&#34;headerlink&#34; title=&#34;winbood W25Q128封装&#34;&gt;&lt;/a&gt;winbood W25Q128封装&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/image-20220826104542006.png&#34; alt=&#34;image-20220826104542006&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2022/fd90dc4c/20210622091839750557.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 </content>
+        <category term="flash" />
         <category term="spi" />
         <category term="j-link" />
         <category term="jlink" />
-        <category term="flash" />
         <category term="j-tag" />
         <updated>2022-08-26T15:23:05.000Z</updated>
     </entry>

@@ -1,0 +1,1947 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;words&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 12 Jan 2024 17:47:15 +0800</pubDate>
+        <lastBuildDate>Fri, 12 Jan 2024 17:47:15 +0800</lastBuildDate>
+        <category>autosar</category>
+        <category>aes</category>
+        <category>embedded</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>sscanf</category>
+        <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>md5</category>
+        <category>major</category>
+        <category>markdown</category>
+        <category>note</category>
+        <category>osi</category>
+        <category>RustDesk</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>typora</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>windows</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>机智云</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
+        <category>超声波</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>audio</category>
+        <category>video</category>
+        <category>cad</category>
+        <category>cat_drive</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>pve</category>
+        <category>virtual</category>
+        <category>software</category>
+        <category>摄影</category>
+        <category>synology</category>
+        <category>cmake</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>j-tag</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>obsidian</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>v2ray</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
+        <category>cortex-m3</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>pwm</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>modbus</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>zlib</category>
+        <category>minizip</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2024/fd896621/</guid>
+            <title>代码、硬件常见的缩写</title>
+            <link>https://www.oikiou.top/2024/fd896621/</link>
+            <category>words</category>
+            <pubDate>Fri, 12 Jan 2024 17:47:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;代码、硬件常见的缩写&#34;&gt;&lt;a href=&#34;#代码、硬件常见的缩写&#34; class=&#34;headerlink&#34; title=&#34;代码、硬件常见的缩写&#34;&gt;&lt;/a&gt;代码、硬件常见的缩写&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;常用单词缩写&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;全词&lt;/th&gt;
+&lt;th&gt;缩词&amp;#x2F;简写&lt;/th&gt;
+&lt;th&gt;中译&lt;/th&gt;
+&lt;th&gt;全词&lt;/th&gt;
+&lt;th&gt;缩词&amp;#x2F;简写&lt;/th&gt;
+&lt;th&gt;中译&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;指令内核相关类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;source&lt;/td&gt;
+&lt;td&gt;src&lt;/td&gt;
+&lt;td&gt;源头&lt;/td&gt;
+&lt;td&gt;default&lt;/td&gt;
+&lt;td&gt;def&lt;/td&gt;
+&lt;td&gt;默认&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;destination&lt;/td&gt;
+&lt;td&gt;dst或des&lt;/td&gt;
+&lt;td&gt;目的地，目标&lt;/td&gt;
+&lt;td&gt;define&lt;/td&gt;
+&lt;td&gt;def&lt;/td&gt;
+&lt;td&gt;定义&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;operator&lt;/td&gt;
+&lt;td&gt;optr&lt;/td&gt;
+&lt;td&gt;操作符&lt;/td&gt;
+&lt;td&gt;macro&lt;/td&gt;
+&lt;td&gt;mcr&lt;/td&gt;
+&lt;td&gt;宏&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;operand&lt;/td&gt;
+&lt;td&gt;opnd&lt;/td&gt;
+&lt;td&gt;操作数&lt;/td&gt;
+&lt;td&gt;return&lt;/td&gt;
+&lt;td&gt;ret&lt;/td&gt;
+&lt;td&gt;返回&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;offset&lt;/td&gt;
+&lt;td&gt;ofs&lt;/td&gt;
+&lt;td&gt;偏移&lt;/td&gt;
+&lt;td&gt;assemble&lt;/td&gt;
+&lt;td&gt;asm&lt;/td&gt;
+&lt;td&gt;汇编&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;clear&lt;/td&gt;
+&lt;td&gt;clr&lt;/td&gt;
+&lt;td&gt;清除&lt;/td&gt;
+&lt;td&gt;interrupt&lt;/td&gt;
+&lt;td&gt;intr&lt;/td&gt;
+&lt;td&gt;中断&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;move&lt;/td&gt;
+&lt;td&gt;mov&lt;/td&gt;
+&lt;td&gt;移动&lt;/td&gt;
+&lt;td&gt;priority&lt;/td&gt;
+&lt;td&gt;prio&lt;/td&gt;
+&lt;td&gt;优先级&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;instruction&lt;/td&gt;
+&lt;td&gt;instr&lt;/td&gt;
+&lt;td&gt;指令&lt;/td&gt;
+&lt;td&gt;vector&lt;/td&gt;
+&lt;td&gt;vect&lt;/td&gt;
+&lt;td&gt;向量&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;变量内存相关类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;temperature&lt;/td&gt;
+&lt;td&gt;temper&lt;/td&gt;
+&lt;td&gt;温度&lt;/td&gt;
+&lt;td&gt;address&lt;/td&gt;
+&lt;td&gt;addr&lt;/td&gt;
+&lt;td&gt;地址&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;temporary&lt;/td&gt;
+&lt;td&gt;tmp&lt;/td&gt;
+&lt;td&gt;临时&lt;/td&gt;
+&lt;td&gt;pointer&lt;/td&gt;
+&lt;td&gt;ptr&lt;/td&gt;
+&lt;td&gt;指针&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;counter&lt;/td&gt;
+&lt;td&gt;ctr&lt;/td&gt;
+&lt;td&gt;计数器&lt;/td&gt;
+&lt;td&gt;buffer&lt;/td&gt;
+&lt;td&gt;buf&lt;/td&gt;
+&lt;td&gt;缓冲区&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;count&lt;/td&gt;
+&lt;td&gt;cnt&lt;/td&gt;
+&lt;td&gt;计数&lt;/td&gt;
+&lt;td&gt;stack&lt;/td&gt;
+&lt;td&gt;stk&lt;/td&gt;
+&lt;td&gt;堆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;flag&lt;/td&gt;
+&lt;td&gt;flg&lt;/td&gt;
+&lt;td&gt;旗帜、标识&lt;/td&gt;
+&lt;td&gt;memory&lt;/td&gt;
+&lt;td&gt;mem&lt;/td&gt;
+&lt;td&gt;内存&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;parameter&lt;/td&gt;
+&lt;td&gt;par&lt;/td&gt;
+&lt;td&gt;参数&lt;/td&gt;
+&lt;td&gt;storage&lt;/td&gt;
+&lt;td&gt;stg&lt;/td&gt;
+&lt;td&gt;存储器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;argument&lt;/td&gt;
+&lt;td&gt;arg&lt;/td&gt;
+&lt;td&gt;参数&lt;/td&gt;
+&lt;td&gt;block&lt;/td&gt;
+&lt;td&gt;blk&lt;/td&gt;
+&lt;td&gt;块&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;variable&lt;/td&gt;
+&lt;td&gt;var&lt;/td&gt;
+&lt;td&gt;变量&lt;/td&gt;
+&lt;td&gt;allocate&lt;/td&gt;
+&lt;td&gt;alloc&lt;/td&gt;
+&lt;td&gt;分配&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;array&lt;/td&gt;
+&lt;td&gt;arr&lt;/td&gt;
+&lt;td&gt;数组&lt;/td&gt;
+&lt;td&gt;object&lt;/td&gt;
+&lt;td&gt;obj&lt;/td&gt;
+&lt;td&gt;对象&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;str&lt;/td&gt;
+&lt;td&gt;字符串&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;character&lt;/td&gt;
+&lt;td&gt;char&lt;/td&gt;
+&lt;td&gt;字符&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;数学计算相关类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;increment&lt;/td&gt;
+&lt;td&gt;inc&lt;/td&gt;
+&lt;td&gt;增加&lt;/td&gt;
+&lt;td&gt;average&lt;/td&gt;
+&lt;td&gt;avg&lt;/td&gt;
+&lt;td&gt;平均数&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;decrease&lt;/td&gt;
+&lt;td&gt;dec&lt;/td&gt;
+&lt;td&gt;减少&lt;/td&gt;
+&lt;td&gt;summation&lt;/td&gt;
+&lt;td&gt;sum&lt;/td&gt;
+&lt;td&gt;求和;总和&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;addition&lt;/td&gt;
+&lt;td&gt;add&lt;/td&gt;
+&lt;td&gt;增加；加法&lt;/td&gt;
+&lt;td&gt;calculate&lt;/td&gt;
+&lt;td&gt;calc&lt;/td&gt;
+&lt;td&gt;计算&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;subtraction&lt;/td&gt;
+&lt;td&gt;sub&lt;/td&gt;
+&lt;td&gt;减少，减法&lt;/td&gt;
+&lt;td&gt;total&lt;/td&gt;
+&lt;td&gt;tot&lt;/td&gt;
+&lt;td&gt;总计&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;multiplication&lt;/td&gt;
+&lt;td&gt;mul&lt;/td&gt;
+&lt;td&gt;乘法&lt;/td&gt;
+&lt;td&gt;magnitude&lt;/td&gt;
+&lt;td&gt;mag&lt;/td&gt;
+&lt;td&gt;巨大&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;division&lt;/td&gt;
+&lt;td&gt;div&lt;/td&gt;
+&lt;td&gt;除法；除以&lt;/td&gt;
+&lt;td&gt;maximum&lt;/td&gt;
+&lt;td&gt;max&lt;/td&gt;
+&lt;td&gt;最大&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;proportion&lt;/td&gt;
+&lt;td&gt;kp&lt;/td&gt;
+&lt;td&gt;比例&lt;/td&gt;
+&lt;td&gt;minimum&lt;/td&gt;
+&lt;td&gt;min&lt;/td&gt;
+&lt;td&gt;最小&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;integral&lt;/td&gt;
+&lt;td&gt;ki&lt;/td&gt;
+&lt;td&gt;积分&lt;/td&gt;
+&lt;td&gt;middle&lt;/td&gt;
+&lt;td&gt;mid&lt;/td&gt;
+&lt;td&gt;中间&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;differential&lt;/td&gt;
+&lt;td&gt;kd&lt;/td&gt;
+&lt;td&gt;微分&lt;/td&gt;
+&lt;td&gt;equivalent&lt;/td&gt;
+&lt;td&gt;equiv&lt;/td&gt;
+&lt;td&gt;相等的&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;absolute&lt;/td&gt;
+&lt;td&gt;abs&lt;/td&gt;
+&lt;td&gt;绝对值&lt;/td&gt;
+&lt;td&gt;greater equal&lt;/td&gt;
+&lt;td&gt;ge&lt;/td&gt;
+&lt;td&gt;大于等于&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;algorithm&lt;/td&gt;
+&lt;td&gt;algo&lt;/td&gt;
+&lt;td&gt;算法&lt;/td&gt;
+&lt;td&gt;greater than&lt;/td&gt;
+&lt;td&gt;gt&lt;/td&gt;
+&lt;td&gt;大于&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;exponent&lt;/td&gt;
+&lt;td&gt;expo&lt;/td&gt;
+&lt;td&gt;指数&lt;/td&gt;
+&lt;td&gt;less equal&lt;/td&gt;
+&lt;td&gt;le&lt;/td&gt;
+&lt;td&gt;小于等于&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;recur&lt;/td&gt;
+&lt;td&gt;recu&lt;/td&gt;
+&lt;td&gt;递归&lt;/td&gt;
+&lt;td&gt;less than&lt;/td&gt;
+&lt;td&gt;lt&lt;/td&gt;
+&lt;td&gt;小于&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;limit&lt;/td&gt;
+&lt;td&gt;lim&lt;/td&gt;
+&lt;td&gt;限制&lt;/td&gt;
+&lt;td&gt;quarter&lt;/td&gt;
+&lt;td&gt;quar&lt;/td&gt;
+&lt;td&gt;四分之一&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;mantissa&lt;/td&gt;
+&lt;td&gt;mant&lt;/td&gt;
+&lt;td&gt;尾数&lt;/td&gt;
+&lt;td&gt;scale&lt;/td&gt;
+&lt;td&gt;scal&lt;/td&gt;
+&lt;td&gt;比例&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;fraction&lt;/td&gt;
+&lt;td&gt;fract&lt;/td&gt;
+&lt;td&gt;小数&lt;/td&gt;
+&lt;td&gt;double&lt;/td&gt;
+&lt;td&gt;dbl&lt;/td&gt;
+&lt;td&gt;两倍&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;digit&lt;/td&gt;
+&lt;td&gt;dig&lt;/td&gt;
+&lt;td&gt;数字&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;number&lt;/td&gt;
+&lt;td&gt;num&lt;/td&gt;
+&lt;td&gt;数字；数量&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;value&lt;/td&gt;
+&lt;td&gt;val&lt;/td&gt;
+&lt;td&gt;值&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;其他计算相关类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;reference&lt;/td&gt;
+&lt;td&gt;ref&lt;/td&gt;
+&lt;td&gt;引用，参考&lt;/td&gt;
+&lt;td&gt;between&lt;/td&gt;
+&lt;td&gt;btw&lt;/td&gt;
+&lt;td&gt;之间&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;compare&lt;/td&gt;
+&lt;td&gt;cmp&lt;/td&gt;
+&lt;td&gt;比较&lt;/td&gt;
+&lt;td&gt;interval&lt;/td&gt;
+&lt;td&gt;intvl&lt;/td&gt;
+&lt;td&gt;间隔&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;different&lt;/td&gt;
+&lt;td&gt;diff&lt;/td&gt;
+&lt;td&gt;对比&lt;/td&gt;
+&lt;td&gt;different&lt;/td&gt;
+&lt;td&gt;diff&lt;/td&gt;
+&lt;td&gt;区别&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;optimization&lt;/td&gt;
+&lt;td&gt;opt&lt;/td&gt;
+&lt;td&gt;最优化&lt;/td&gt;
+&lt;td&gt;error&lt;/td&gt;
+&lt;td&gt;err&lt;/td&gt;
+&lt;td&gt;错误&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;degree&lt;/td&gt;
+&lt;td&gt;deg&lt;/td&gt;
+&lt;td&gt;度数，程度&lt;/td&gt;
+&lt;td&gt;exception&lt;/td&gt;
+&lt;td&gt;exc&lt;/td&gt;
+&lt;td&gt;异常&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;full&lt;/td&gt;
+&lt;td&gt;ful&lt;/td&gt;
+&lt;td&gt;全量&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;multiplex&lt;/td&gt;
+&lt;td&gt;mux&lt;/td&gt;
+&lt;td&gt;多路复用&lt;/td&gt;
+&lt;td&gt;result&lt;/td&gt;
+&lt;td&gt;rslt&lt;/td&gt;
+&lt;td&gt;结果&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;overflow&lt;/td&gt;
+&lt;td&gt;ovf&lt;/td&gt;
+&lt;td&gt;溢出&lt;/td&gt;
+&lt;td&gt;complete&lt;/td&gt;
+&lt;td&gt;comp&lt;/td&gt;
+&lt;td&gt;完成&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;check&lt;/td&gt;
+&lt;td&gt;chk&lt;/td&gt;
+&lt;td&gt;检查，核对&lt;/td&gt;
+&lt;td&gt;success&lt;/td&gt;
+&lt;td&gt;succ&lt;/td&gt;
+&lt;td&gt;成功&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;test&lt;/td&gt;
+&lt;td&gt;tst&lt;/td&gt;
+&lt;td&gt;测试&lt;/td&gt;
+&lt;td&gt;error&lt;/td&gt;
+&lt;td&gt;err&lt;/td&gt;
+&lt;td&gt;错误&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;detect&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;检测，识别&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;measure&lt;/td&gt;
+&lt;td&gt;meas&lt;/td&gt;
+&lt;td&gt;测量&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sample&lt;/td&gt;
+&lt;td&gt;smp&lt;/td&gt;
+&lt;td&gt;样本&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;make&lt;/td&gt;
+&lt;td&gt;mk&lt;/td&gt;
+&lt;td&gt;制造&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;时间顺序相关类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;timer&lt;/td&gt;
+&lt;td&gt;tmr或tim&lt;/td&gt;
+&lt;td&gt;定时器&lt;/td&gt;
+&lt;td&gt;new&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;新的&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;time&lt;/td&gt;
+&lt;td&gt;tm&lt;/td&gt;
+&lt;td&gt;时间&lt;/td&gt;
+&lt;td&gt;old&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;老的；旧的&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;second&lt;/td&gt;
+&lt;td&gt;sec&lt;/td&gt;
+&lt;td&gt;秒、第二&lt;/td&gt;
+&lt;td&gt;now&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;现在；目前&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;minute&lt;/td&gt;
+&lt;td&gt;min&lt;/td&gt;
+&lt;td&gt;分钟&lt;/td&gt;
+&lt;td&gt;current&lt;/td&gt;
+&lt;td&gt;cur&lt;/td&gt;
+&lt;td&gt;当前&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;hour&lt;/td&gt;
+&lt;td&gt;hr&lt;/td&gt;
+&lt;td&gt;小时&lt;/td&gt;
+&lt;td&gt;previous&lt;/td&gt;
+&lt;td&gt;prev&lt;/td&gt;
+&lt;td&gt;先前的&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;day&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;天&lt;/td&gt;
+&lt;td&gt;delay&lt;/td&gt;
+&lt;td&gt;dly&lt;/td&gt;
+&lt;td&gt;延迟&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;month&lt;/td&gt;
+&lt;td&gt;mth&lt;/td&gt;
+&lt;td&gt;月&lt;/td&gt;
+&lt;td&gt;expiration&lt;/td&gt;
+&lt;td&gt;expi&lt;/td&gt;
+&lt;td&gt;过期&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;year&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;年&lt;/td&gt;
+&lt;td&gt;next&lt;/td&gt;
+&lt;td&gt;nex&lt;/td&gt;
+&lt;td&gt;下一个&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;period&lt;/td&gt;
+&lt;td&gt;perd&lt;/td&gt;
+&lt;td&gt;时期&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;timestamp&lt;/td&gt;
+&lt;td&gt;ts&lt;/td&gt;
+&lt;td&gt;时间戳&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;timeout&lt;/td&gt;
+&lt;td&gt;to&lt;/td&gt;
+&lt;td&gt;超时&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;age&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;年龄&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;结构方向相关类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;positon&lt;/td&gt;
+&lt;td&gt;pos&lt;/td&gt;
+&lt;td&gt;位置&lt;/td&gt;
+&lt;td&gt;origin&lt;/td&gt;
+&lt;td&gt;org&lt;/td&gt;
+&lt;td&gt;起源，原点&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;coordinates&lt;/td&gt;
+&lt;td&gt;coord&lt;/td&gt;
+&lt;td&gt;坐标系&lt;/td&gt;
+&lt;td&gt;point&lt;/td&gt;
+&lt;td&gt;pt&lt;/td&gt;
+&lt;td&gt;点&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;row&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;行&lt;/td&gt;
+&lt;td&gt;rect&lt;/td&gt;
+&lt;td&gt;rc&lt;/td&gt;
+&lt;td&gt;矩形&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;column&lt;/td&gt;
+&lt;td&gt;col&lt;/td&gt;
+&lt;td&gt;列&lt;/td&gt;
+&lt;td&gt;rectangle&lt;/td&gt;
+&lt;td&gt;rect&lt;/td&gt;
+&lt;td&gt;长方形&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;vertical&lt;/td&gt;
+&lt;td&gt;vert&amp;#x2F;v&lt;/td&gt;
+&lt;td&gt;垂直&lt;/td&gt;
+&lt;td&gt;cylinder&lt;/td&gt;
+&lt;td&gt;cyl&lt;/td&gt;
+&lt;td&gt;圆柱体&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;horizontal&lt;/td&gt;
+&lt;td&gt;hori&amp;#x2F;h&lt;/td&gt;
+&lt;td&gt;水平的&lt;/td&gt;
+&lt;td&gt;length&lt;/td&gt;
+&lt;td&gt;len&lt;/td&gt;
+&lt;td&gt;长度&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;dimension&lt;/td&gt;
+&lt;td&gt;dim&lt;/td&gt;
+&lt;td&gt;维度&lt;/td&gt;
+&lt;td&gt;high&lt;/td&gt;
+&lt;td&gt;hi&lt;/td&gt;
+&lt;td&gt;高度；高的&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;permutation&lt;/td&gt;
+&lt;td&gt;perm&lt;/td&gt;
+&lt;td&gt;排列&lt;/td&gt;
+&lt;td&gt;invert&lt;/td&gt;
+&lt;td&gt;invt&lt;/td&gt;
+&lt;td&gt;颠倒&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;信息相关类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;information&lt;/td&gt;
+&lt;td&gt;info&lt;/td&gt;
+&lt;td&gt;信息&lt;/td&gt;
+&lt;td&gt;command&lt;/td&gt;
+&lt;td&gt;cmd&lt;/td&gt;
+&lt;td&gt;命令&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;communication&lt;/td&gt;
+&lt;td&gt;comu&lt;/td&gt;
+&lt;td&gt;通信&lt;/td&gt;
+&lt;td&gt;config&lt;/td&gt;
+&lt;td&gt;conf&lt;/td&gt;
+&lt;td&gt;配置&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;message&lt;/td&gt;
+&lt;td&gt;msg&lt;/td&gt;
+&lt;td&gt;消息；信息&lt;/td&gt;
+&lt;td&gt;request&lt;/td&gt;
+&lt;td&gt;req&lt;/td&gt;
+&lt;td&gt;请求&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;packet&lt;/td&gt;
+&lt;td&gt;pkt&lt;/td&gt;
+&lt;td&gt;信息包&lt;/td&gt;
+&lt;td&gt;acknowledge&lt;/td&gt;
+&lt;td&gt;ack&lt;/td&gt;
+&lt;td&gt;承认；应答&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;package&lt;/td&gt;
+&lt;td&gt;pkg&lt;/td&gt;
+&lt;td&gt;包&lt;/td&gt;
+&lt;td&gt;answer&lt;/td&gt;
+&lt;td&gt;ans&lt;/td&gt;
+&lt;td&gt;回答&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;protocol&lt;/td&gt;
+&lt;td&gt;proto&lt;/td&gt;
+&lt;td&gt;协议&lt;/td&gt;
+&lt;td&gt;response&lt;/td&gt;
+&lt;td&gt;rsp&lt;/td&gt;
+&lt;td&gt;响应&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;stream&lt;/td&gt;
+&lt;td&gt;stm&lt;/td&gt;
+&lt;td&gt;流&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;header&lt;/td&gt;
+&lt;td&gt;hdr&lt;/td&gt;
+&lt;td&gt;头&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;index&lt;/td&gt;
+&lt;td&gt;idx&lt;/td&gt;
+&lt;td&gt;索引&lt;/td&gt;
+&lt;td&gt;decode&lt;/td&gt;
+&lt;td&gt;deco&lt;/td&gt;
+&lt;td&gt;解码&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;frame&lt;/td&gt;
+&lt;td&gt;frm&lt;/td&gt;
+&lt;td&gt;帧率；框架&lt;/td&gt;
+&lt;td&gt;encode&lt;/td&gt;
+&lt;td&gt;enc&lt;/td&gt;
+&lt;td&gt;编码&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;clock&lt;/td&gt;
+&lt;td&gt;clok&lt;/td&gt;
+&lt;td&gt;时钟&lt;/td&gt;
+&lt;td&gt;coding&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;译码；编码&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;receive&lt;/td&gt;
+&lt;td&gt;recv&lt;/td&gt;
+&lt;td&gt;接收&lt;/td&gt;
+&lt;td&gt;authentication&lt;/td&gt;
+&lt;td&gt;auth&lt;/td&gt;
+&lt;td&gt;校验&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;send&lt;/td&gt;
+&lt;td&gt;send&lt;/td&gt;
+&lt;td&gt;发送&lt;/td&gt;
+&lt;td&gt;authentication code&lt;/td&gt;
+&lt;td&gt;authcode&lt;/td&gt;
+&lt;td&gt;校验码&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;context&lt;/td&gt;
+&lt;td&gt;ctx&lt;/td&gt;
+&lt;td&gt;上下文&lt;/td&gt;
+&lt;td&gt;unknown&lt;/td&gt;
+&lt;td&gt;unk&lt;/td&gt;
+&lt;td&gt;未知&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;connect&lt;/td&gt;
+&lt;td&gt;con&lt;/td&gt;
+&lt;td&gt;连接&lt;/td&gt;
+&lt;td&gt;extension&lt;/td&gt;
+&lt;td&gt;ext&lt;/td&gt;
+&lt;td&gt;扩展&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ethernet&lt;/td&gt;
+&lt;td&gt;eth&lt;/td&gt;
+&lt;td&gt;以太网&lt;/td&gt;
+&lt;td&gt;expand&lt;/td&gt;
+&lt;td&gt;expa&lt;/td&gt;
+&lt;td&gt;扩展&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;mailbox&lt;/td&gt;
+&lt;td&gt;mbox&lt;/td&gt;
+&lt;td&gt;邮箱&lt;/td&gt;
+&lt;td&gt;field&lt;/td&gt;
+&lt;td&gt;fld&lt;/td&gt;
+&lt;td&gt;字段&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;mask&lt;/td&gt;
+&lt;td&gt;msk&lt;/td&gt;
+&lt;td&gt;掩码&lt;/td&gt;
+&lt;td&gt;identifier&lt;/td&gt;
+&lt;td&gt;id&lt;/td&gt;
+&lt;td&gt;标识符&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;decode&lt;/td&gt;
+&lt;td&gt;deco&lt;/td&gt;
+&lt;td&gt;解码&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;encode&lt;/td&gt;
+&lt;td&gt;enc&lt;/td&gt;
+&lt;td&gt;编码&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;计算机动作操作类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;construct&lt;/td&gt;
+&lt;td&gt;cons&lt;/td&gt;
+&lt;td&gt;构建&lt;/td&gt;
+&lt;td&gt;select&lt;/td&gt;
+&lt;td&gt;sel&lt;/td&gt;
+&lt;td&gt;选择&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;control&lt;/td&gt;
+&lt;td&gt;ctl&lt;/td&gt;
+&lt;td&gt;控制&lt;/td&gt;
+&lt;td&gt;delete&lt;/td&gt;
+&lt;td&gt;del&lt;/td&gt;
+&lt;td&gt;删除&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;execute&lt;/td&gt;
+&lt;td&gt;exec&lt;/td&gt;
+&lt;td&gt;执行&lt;/td&gt;
+&lt;td&gt;insert&lt;/td&gt;
+&lt;td&gt;ins&lt;/td&gt;
+&lt;td&gt;插入&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;register&lt;/td&gt;
+&lt;td&gt;reg&lt;/td&gt;
+&lt;td&gt;注册&lt;/td&gt;
+&lt;td&gt;copy&lt;/td&gt;
+&lt;td&gt;cpy&lt;/td&gt;
+&lt;td&gt;复制&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;click&lt;/td&gt;
+&lt;td&gt;clk&lt;/td&gt;
+&lt;td&gt;点击&lt;/td&gt;
+&lt;td&gt;paste&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;粘贴&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;back&lt;/td&gt;
+&lt;td&gt;bk&lt;/td&gt;
+&lt;td&gt;后退&lt;/td&gt;
+&lt;td&gt;cut&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;剪切&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;disable&lt;/td&gt;
+&lt;td&gt;dis&lt;/td&gt;
+&lt;td&gt;使失效&lt;/td&gt;
+&lt;td&gt;print&lt;/td&gt;
+&lt;td&gt;Prn&amp;#x2F;prt&lt;/td&gt;
+&lt;td&gt;打印&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;enable&lt;/td&gt;
+&lt;td&gt;en&lt;/td&gt;
+&lt;td&gt;使能&lt;/td&gt;
+&lt;td&gt;input&lt;/td&gt;
+&lt;td&gt;in&lt;/td&gt;
+&lt;td&gt;输入&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;effective&lt;/td&gt;
+&lt;td&gt;eff&lt;/td&gt;
+&lt;td&gt;有效的&lt;/td&gt;
+&lt;td&gt;output&lt;/td&gt;
+&lt;td&gt;out&lt;/td&gt;
+&lt;td&gt;输出&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;invalid&lt;/td&gt;
+&lt;td&gt;inv&lt;/td&gt;
+&lt;td&gt;无效的&lt;/td&gt;
+&lt;td&gt;lock&lt;/td&gt;
+&lt;td&gt;lck&lt;/td&gt;
+&lt;td&gt;上锁&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;logic&lt;/td&gt;
+&lt;td&gt;lgc&lt;/td&gt;
+&lt;td&gt;逻辑的&lt;/td&gt;
+&lt;td&gt;unlock&lt;/td&gt;
+&lt;td&gt;unlk&lt;/td&gt;
+&lt;td&gt;解锁&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;read&lt;/td&gt;
+&lt;td&gt;r&lt;/td&gt;
+&lt;td&gt;读&lt;/td&gt;
+&lt;td&gt;scan&lt;/td&gt;
+&lt;td&gt;sca&lt;/td&gt;
+&lt;td&gt;扫描&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;write&lt;/td&gt;
+&lt;td&gt;w&lt;/td&gt;
+&lt;td&gt;写&lt;/td&gt;
+&lt;td&gt;search&lt;/td&gt;
+&lt;td&gt;srch&lt;/td&gt;
+&lt;td&gt;搜索&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;计算机专业名称类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;iteration&lt;/td&gt;
+&lt;td&gt;itr&lt;/td&gt;
+&lt;td&gt;迭代；反复；重复&lt;/td&gt;
+&lt;td&gt;initialization&lt;/td&gt;
+&lt;td&gt;init&lt;/td&gt;
+&lt;td&gt;初始化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;version&lt;/td&gt;
+&lt;td&gt;ver&lt;/td&gt;
+&lt;td&gt;版本&lt;/td&gt;
+&lt;td&gt;program&lt;/td&gt;
+&lt;td&gt;prg&lt;/td&gt;
+&lt;td&gt;程序&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;password&lt;/td&gt;
+&lt;td&gt;psw&lt;/td&gt;
+&lt;td&gt;密码&lt;/td&gt;
+&lt;td&gt;system&lt;/td&gt;
+&lt;td&gt;sys&lt;/td&gt;
+&lt;td&gt;系统&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;permission&lt;/td&gt;
+&lt;td&gt;perms&lt;/td&gt;
+&lt;td&gt;许可&lt;/td&gt;
+&lt;td&gt;android&lt;/td&gt;
+&lt;td&gt;adr&lt;/td&gt;
+&lt;td&gt;安卓操作系统&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;device&lt;/td&gt;
+&lt;td&gt;dev&lt;/td&gt;
+&lt;td&gt;设备&lt;/td&gt;
+&lt;td&gt;application&lt;/td&gt;
+&lt;td&gt;app&lt;/td&gt;
+&lt;td&gt;应用程序&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;administrator&lt;/td&gt;
+&lt;td&gt;adm&lt;/td&gt;
+&lt;td&gt;管理员&lt;/td&gt;
+&lt;td&gt;driver&lt;/td&gt;
+&lt;td&gt;drv&lt;/td&gt;
+&lt;td&gt;驱动&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;manager&lt;/td&gt;
+&lt;td&gt;mgr&lt;/td&gt;
+&lt;td&gt;管理者，管理器&lt;/td&gt;
+&lt;td&gt;update&lt;/td&gt;
+&lt;td&gt;upd&lt;/td&gt;
+&lt;td&gt;更新&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;standard&lt;/td&gt;
+&lt;td&gt;std&lt;/td&gt;
+&lt;td&gt;标准&lt;/td&gt;
+&lt;td&gt;upgrade&lt;/td&gt;
+&lt;td&gt;upg&lt;/td&gt;
+&lt;td&gt;升级&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;library&lt;/td&gt;
+&lt;td&gt;lib&lt;/td&gt;
+&lt;td&gt;静态库&lt;/td&gt;
+&lt;td&gt;environment&lt;/td&gt;
+&lt;td&gt;env&lt;/td&gt;
+&lt;td&gt;运行环境&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;database&lt;/td&gt;
+&lt;td&gt;db&lt;/td&gt;
+&lt;td&gt;数据库&lt;/td&gt;
+&lt;td&gt;process&lt;/td&gt;
+&lt;td&gt;proc&lt;/td&gt;
+&lt;td&gt;进程&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;dynamic&lt;/td&gt;
+&lt;td&gt;dyna&lt;/td&gt;
+&lt;td&gt;动态&lt;/td&gt;
+&lt;td&gt;ready&lt;/td&gt;
+&lt;td&gt;rdy&lt;/td&gt;
+&lt;td&gt;就绪&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;synchronization&lt;/td&gt;
+&lt;td&gt;sync&lt;/td&gt;
+&lt;td&gt;同步&lt;/td&gt;
+&lt;td&gt;suspend&lt;/td&gt;
+&lt;td&gt;susp&lt;/td&gt;
+&lt;td&gt;挂起&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;asynchronization&lt;/td&gt;
+&lt;td&gt;asyn&lt;/td&gt;
+&lt;td&gt;异步&lt;/td&gt;
+&lt;td&gt;status&lt;/td&gt;
+&lt;td&gt;sts&lt;/td&gt;
+&lt;td&gt;状态&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;link&lt;/td&gt;
+&lt;td&gt;lnk&lt;/td&gt;
+&lt;td&gt;链接&lt;/td&gt;
+&lt;td&gt;signal&lt;/td&gt;
+&lt;td&gt;sig&lt;/td&gt;
+&lt;td&gt;信号&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;server&lt;/td&gt;
+&lt;td&gt;svr&lt;/td&gt;
+&lt;td&gt;服务&lt;/td&gt;
+&lt;td&gt;semaphore&lt;/td&gt;
+&lt;td&gt;sem&lt;/td&gt;
+&lt;td&gt;信号量&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;executable file&lt;/td&gt;
+&lt;td&gt;exe&lt;/td&gt;
+&lt;td&gt;可执行文件&lt;/td&gt;
+&lt;td&gt;scheduler&lt;/td&gt;
+&lt;td&gt;scher&lt;/td&gt;
+&lt;td&gt;调度器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sequence&lt;/td&gt;
+&lt;td&gt;seq&lt;/td&gt;
+&lt;td&gt;序列&lt;/td&gt;
+&lt;td&gt;task&lt;/td&gt;
+&lt;td&gt;tsk&lt;/td&gt;
+&lt;td&gt;任务&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;serialize&lt;/td&gt;
+&lt;td&gt;seri&lt;/td&gt;
+&lt;td&gt;序列化&lt;/td&gt;
+&lt;td&gt;statistic&lt;/td&gt;
+&lt;td&gt;stat&lt;/td&gt;
+&lt;td&gt;统计&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;virus&lt;/td&gt;
+&lt;td&gt;vir&lt;/td&gt;
+&lt;td&gt;病毒&lt;/td&gt;
+&lt;td&gt;process&lt;/td&gt;
+&lt;td&gt;proc&lt;/td&gt;
+&lt;td&gt;进程&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;ready&lt;/td&gt;
+&lt;td&gt;rdy&lt;/td&gt;
+&lt;td&gt;就绪&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;文档图片类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;directory&lt;/td&gt;
+&lt;td&gt;dir&lt;/td&gt;
+&lt;td&gt;目录&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://so.csdn.net/so/search?q=bitmap&amp;spm=1001.2101.3001.7020&#34;&gt;bitmap&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bmp&lt;/td&gt;
+&lt;td&gt;位图纹理&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;list&lt;/td&gt;
+&lt;td&gt;lst&lt;/td&gt;
+&lt;td&gt;列表&lt;/td&gt;
+&lt;td&gt;image&lt;/td&gt;
+&lt;td&gt;img&lt;/td&gt;
+&lt;td&gt;图像&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;log&lt;/td&gt;
+&lt;td&gt;log&lt;/td&gt;
+&lt;td&gt;日志&lt;/td&gt;
+&lt;td&gt;picture&lt;/td&gt;
+&lt;td&gt;pic&lt;/td&gt;
+&lt;td&gt;图片&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;document&lt;/td&gt;
+&lt;td&gt;doc&lt;/td&gt;
+&lt;td&gt;文档&lt;/td&gt;
+&lt;td&gt;color&lt;/td&gt;
+&lt;td&gt;clr&lt;/td&gt;
+&lt;td&gt;颜色&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;text&lt;/td&gt;
+&lt;td&gt;txt&lt;/td&gt;
+&lt;td&gt;文本&lt;/td&gt;
+&lt;td&gt;record&lt;/td&gt;
+&lt;td&gt;rcd&lt;/td&gt;
+&lt;td&gt;记录&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;table&lt;/td&gt;
+&lt;td&gt;tab或tbl&lt;/td&gt;
+&lt;td&gt;表格&lt;/td&gt;
+&lt;td&gt;dictionary&lt;/td&gt;
+&lt;td&gt;dict&lt;/td&gt;
+&lt;td&gt;词典、字典&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;manual&lt;/td&gt;
+&lt;td&gt;man&lt;/td&gt;
+&lt;td&gt;手册&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;specification&lt;/td&gt;
+&lt;td&gt;spec&lt;/td&gt;
+&lt;td&gt;说明&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;软件界面名称类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;screen&lt;/td&gt;
+&lt;td&gt;scr&lt;/td&gt;
+&lt;td&gt;屏幕&lt;/td&gt;
+&lt;td&gt;button&lt;/td&gt;
+&lt;td&gt;btn&lt;/td&gt;
+&lt;td&gt;按钮&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;display&lt;/td&gt;
+&lt;td&gt;disp&lt;/td&gt;
+&lt;td&gt;显示&lt;/td&gt;
+&lt;td&gt;component&lt;/td&gt;
+&lt;td&gt;com&lt;/td&gt;
+&lt;td&gt;组件(多用于ui组件目录命名)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;util&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;工具&lt;/td&gt;
+&lt;td&gt;window&lt;/td&gt;
+&lt;td&gt;wnd&lt;/td&gt;
+&lt;td&gt;窗口&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;attribute&lt;/td&gt;
+&lt;td&gt;attr&lt;/td&gt;
+&lt;td&gt;属性&lt;/td&gt;
+&lt;td&gt;dialog&lt;/td&gt;
+&lt;td&gt;dlg&lt;/td&gt;
+&lt;td&gt;对话框&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;feature&lt;/td&gt;
+&lt;td&gt;fea&lt;/td&gt;
+&lt;td&gt;特征&lt;/td&gt;
+&lt;td&gt;cursor&lt;/td&gt;
+&lt;td&gt;csr&lt;/td&gt;
+&lt;td&gt;光标&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;bottom&lt;/td&gt;
+&lt;td&gt;btm&lt;/td&gt;
+&lt;td&gt;底部&lt;/td&gt;
+&lt;td&gt;markdown&lt;/td&gt;
+&lt;td&gt;md&lt;/td&gt;
+&lt;td&gt;文本标记语言&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;descriptor&lt;/td&gt;
+&lt;td&gt;desc&lt;/td&gt;
+&lt;td&gt;描述符&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;visible&lt;/td&gt;
+&lt;td&gt;vis&lt;/td&gt;
+&lt;td&gt;可见的&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;电气相关类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;frequency&lt;/td&gt;
+&lt;td&gt;freq&lt;/td&gt;
+&lt;td&gt;频率&lt;/td&gt;
+&lt;td&gt;poweron&lt;/td&gt;
+&lt;td&gt;pwron&lt;/td&gt;
+&lt;td&gt;上电&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;voltage&lt;/td&gt;
+&lt;td&gt;vol&lt;/td&gt;
+&lt;td&gt;电压&lt;/td&gt;
+&lt;td&gt;back electromotive force&lt;/td&gt;
+&lt;td&gt;BEF&lt;/td&gt;
+&lt;td&gt;反电动势&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;current&lt;/td&gt;
+&lt;td&gt;cur&lt;/td&gt;
+&lt;td&gt;电流&lt;/td&gt;
+&lt;td&gt;speed&lt;/td&gt;
+&lt;td&gt;spd&lt;/td&gt;
+&lt;td&gt;速度&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;power&lt;/td&gt;
+&lt;td&gt;pwr&lt;/td&gt;
+&lt;td&gt;功率&amp;#x2F;电源&lt;/td&gt;
+&lt;td&gt;electric&lt;/td&gt;
+&lt;td&gt;elec&lt;/td&gt;
+&lt;td&gt;电子的&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;trigger&lt;/td&gt;
+&lt;td&gt;trig&lt;/td&gt;
+&lt;td&gt;触发器&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;threshold&lt;/td&gt;
+&lt;td&gt;thold&lt;/td&gt;
+&lt;td&gt;阈值&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;switch&lt;/td&gt;
+&lt;td&gt;sw&lt;/td&gt;
+&lt;td&gt;开关&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;toggle&lt;/td&gt;
+&lt;td&gt;tgl&lt;/td&gt;
+&lt;td&gt;切换&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;其他类&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;resource&lt;/td&gt;
+&lt;td&gt;res&lt;/td&gt;
+&lt;td&gt;资源&lt;/td&gt;
+&lt;td&gt;prefix&lt;/td&gt;
+&lt;td&gt;pre&lt;/td&gt;
+&lt;td&gt;前缀&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;region&lt;/td&gt;
+&lt;td&gt;rgn&lt;/td&gt;
+&lt;td&gt;区域、领域&lt;/td&gt;
+&lt;td&gt;reactive&lt;/td&gt;
+&lt;td&gt;react&lt;/td&gt;
+&lt;td&gt;有反应的&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;group&lt;/td&gt;
+&lt;td&gt;grp&lt;/td&gt;
+&lt;td&gt;组&lt;/td&gt;
+&lt;td&gt;recall&lt;/td&gt;
+&lt;td&gt;rcl&lt;/td&gt;
+&lt;td&gt;召回&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;assemble&lt;/td&gt;
+&lt;td&gt;asm&lt;/td&gt;
+&lt;td&gt;集合&lt;/td&gt;
+&lt;td&gt;release&lt;/td&gt;
+&lt;td&gt;rel&lt;/td&gt;
+&lt;td&gt;发布&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;repeat&lt;/td&gt;
+&lt;td&gt;rpt&lt;/td&gt;
+&lt;td&gt;重复&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;action&lt;/td&gt;
+&lt;td&gt;act&lt;/td&gt;
+&lt;td&gt;动作&lt;/td&gt;
+&lt;td&gt;duplicate&lt;/td&gt;
+&lt;td&gt;dup&lt;/td&gt;
+&lt;td&gt;重复&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;common&lt;/td&gt;
+&lt;td&gt;comm&lt;/td&gt;
+&lt;td&gt;通用&lt;/td&gt;
+&lt;td&gt;repository&lt;/td&gt;
+&lt;td&gt;repo&lt;/td&gt;
+&lt;td&gt;仓库&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;dependency&lt;/td&gt;
+&lt;td&gt;dep&lt;/td&gt;
+&lt;td&gt;依赖&lt;/td&gt;
+&lt;td&gt;reserve&lt;/td&gt;
+&lt;td&gt;resv&lt;/td&gt;
+&lt;td&gt;保留&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;debug&lt;/td&gt;
+&lt;td&gt;dbg&lt;/td&gt;
+&lt;td&gt;调试&lt;/td&gt;
+&lt;td&gt;reset&lt;/td&gt;
+&lt;td&gt;rst&lt;/td&gt;
+&lt;td&gt;重置&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;direct&lt;/td&gt;
+&lt;td&gt;dirt&lt;/td&gt;
+&lt;td&gt;直接的&lt;/td&gt;
+&lt;td&gt;resume&lt;/td&gt;
+&lt;td&gt;resu&lt;/td&gt;
+&lt;td&gt;重新开始&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;engine&lt;/td&gt;
+&lt;td&gt;eng&lt;/td&gt;
+&lt;td&gt;引擎&lt;/td&gt;
+&lt;td&gt;reverse&lt;/td&gt;
+&lt;td&gt;revs&lt;/td&gt;
+&lt;td&gt;反转&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;experiment&lt;/td&gt;
+&lt;td&gt;exp&lt;/td&gt;
+&lt;td&gt;实验&lt;/td&gt;
+&lt;td&gt;schedule&lt;/td&gt;
+&lt;td&gt;sch&lt;/td&gt;
+&lt;td&gt;计划&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;exposure&lt;/td&gt;
+&lt;td&gt;expo&lt;/td&gt;
+&lt;td&gt;曝光&lt;/td&gt;
+&lt;td&gt;section&lt;/td&gt;
+&lt;td&gt;sect&lt;/td&gt;
+&lt;td&gt;节&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;generate&lt;/td&gt;
+&lt;td&gt;gen&lt;/td&gt;
+&lt;td&gt;产生&lt;/td&gt;
+&lt;td&gt;segment&lt;/td&gt;
+&lt;td&gt;seg&lt;/td&gt;
+&lt;td&gt;段&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;handler&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;处理者&lt;/td&gt;
+&lt;td&gt;strategy&lt;/td&gt;
+&lt;td&gt;stra&lt;/td&gt;
+&lt;td&gt;策略&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;marshal&lt;/td&gt;
+&lt;td&gt;mar&lt;/td&gt;
+&lt;td&gt;序列化&lt;/td&gt;
+&lt;td&gt;change&lt;/td&gt;
+&lt;td&gt;chg&lt;/td&gt;
+&lt;td&gt;改变&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;unmarshal&lt;/td&gt;
+&lt;td&gt;unmar&lt;/td&gt;
+&lt;td&gt;反序列化&lt;/td&gt;
+&lt;td&gt;convert&lt;/td&gt;
+&lt;td&gt;conv&lt;/td&gt;
+&lt;td&gt;转换&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;deserialize&lt;/td&gt;
+&lt;td&gt;dese&lt;/td&gt;
+&lt;td&gt;反序列化&lt;/td&gt;
+&lt;td&gt;translate&lt;/td&gt;
+&lt;td&gt;tran&lt;/td&gt;
+&lt;td&gt;翻译，转换&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;manufacturer&lt;/td&gt;
+&lt;td&gt;mft&lt;/td&gt;
+&lt;td&gt;制造商&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;positive&lt;/td&gt;
+&lt;td&gt;posi&lt;/td&gt;
+&lt;td&gt;积极的&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;negative&lt;/td&gt;
+&lt;td&gt;neg&lt;/td&gt;
+&lt;td&gt;消极的&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;neutral&lt;/td&gt;
+&lt;td&gt;neut&lt;/td&gt;
+&lt;td&gt;中立&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;quality&lt;/td&gt;
+&lt;td&gt;qlty&lt;/td&gt;
+&lt;td&gt;质量&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;properties&lt;/td&gt;
+&lt;td&gt;prop&lt;/td&gt;
+&lt;td&gt;性能&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;performance&lt;/td&gt;
+&lt;td&gt;perf&lt;/td&gt;
+&lt;td&gt;性能&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;product&lt;/td&gt;
+&lt;td&gt;prod&lt;/td&gt;
+&lt;td&gt;产品&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;profile&lt;/td&gt;
+&lt;td&gt;pf&lt;/td&gt;
+&lt;td&gt;用户画像&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;project&lt;/td&gt;
+&lt;td&gt;proj&lt;/td&gt;
+&lt;td&gt;项目&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;protect&lt;/td&gt;
+&lt;td&gt;prot&lt;/td&gt;
+&lt;td&gt;保护&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;proxy&lt;/td&gt;
+&lt;td&gt;prx&lt;/td&gt;
+&lt;td&gt;代理&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;public&lt;/td&gt;
+&lt;td&gt;pub&lt;/td&gt;
+&lt;td&gt;公共的&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;常用反义词组&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;词&lt;/th&gt;
+&lt;th&gt;反义词&lt;/th&gt;
+&lt;th&gt;中译&lt;/th&gt;
+&lt;th&gt;词&lt;/th&gt;
+&lt;th&gt;反义词&lt;/th&gt;
+&lt;th&gt;中译&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;add&lt;/td&gt;
+&lt;td&gt;remove&lt;/td&gt;
+&lt;td&gt;添加&amp;#x2F;移除&lt;/td&gt;
+&lt;td&gt;min&lt;/td&gt;
+&lt;td&gt;max&lt;/td&gt;
+&lt;td&gt;最小&amp;#x2F;最大&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;add&lt;/td&gt;
+&lt;td&gt;delete&lt;/td&gt;
+&lt;td&gt;添加&amp;#x2F;删除&lt;/td&gt;
+&lt;td&gt;old&lt;/td&gt;
+&lt;td&gt;new&lt;/td&gt;
+&lt;td&gt;旧&amp;#x2F;新&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;begin&lt;/td&gt;
+&lt;td&gt;end&lt;/td&gt;
+&lt;td&gt;开始&amp;#x2F;最后&lt;/td&gt;
+&lt;td&gt;start&lt;/td&gt;
+&lt;td&gt;stop&lt;/td&gt;
+&lt;td&gt;开始&amp;#x2F;停止&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;create&lt;/td&gt;
+&lt;td&gt;destroy&lt;/td&gt;
+&lt;td&gt;创建&amp;#x2F;破坏&lt;/td&gt;
+&lt;td&gt;next&lt;/td&gt;
+&lt;td&gt;previous&lt;/td&gt;
+&lt;td&gt;下个&amp;#x2F;以前的&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;insert&lt;/td&gt;
+&lt;td&gt;delete&lt;/td&gt;
+&lt;td&gt;插入&amp;#x2F;删除&lt;/td&gt;
+&lt;td&gt;source&lt;/td&gt;
+&lt;td&gt;target&lt;/td&gt;
+&lt;td&gt;源头&amp;#x2F;目标&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;first&lt;/td&gt;
+&lt;td&gt;last&lt;/td&gt;
+&lt;td&gt;第一&amp;#x2F;最后&lt;/td&gt;
+&lt;td&gt;show&lt;/td&gt;
+&lt;td&gt;hide&lt;/td&gt;
+&lt;td&gt;显示&amp;#x2F;隐藏&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;get&lt;/td&gt;
+&lt;td&gt;release&lt;/td&gt;
+&lt;td&gt;获得&amp;#x2F;释放&lt;/td&gt;
+&lt;td&gt;send&lt;/td&gt;
+&lt;td&gt;receive&lt;/td&gt;
+&lt;td&gt;发送&amp;#x2F;接收&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;put&lt;/td&gt;
+&lt;td&gt;get&lt;/td&gt;
+&lt;td&gt;放下&amp;#x2F;获得&lt;/td&gt;
+&lt;td&gt;source&lt;/td&gt;
+&lt;td&gt;destination&lt;/td&gt;
+&lt;td&gt;源头&amp;#x2F;目的&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;increment&lt;/td&gt;
+&lt;td&gt;decrement&lt;/td&gt;
+&lt;td&gt;增加&amp;#x2F;减少&lt;/td&gt;
+&lt;td&gt;cut&lt;/td&gt;
+&lt;td&gt;paste&lt;/td&gt;
+&lt;td&gt;剪切&amp;#x2F;粘贴&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lock&lt;/td&gt;
+&lt;td&gt;unlock&lt;/td&gt;
+&lt;td&gt;上锁&amp;#x2F;解锁&lt;/td&gt;
+&lt;td&gt;up&lt;/td&gt;
+&lt;td&gt;down&lt;/td&gt;
+&lt;td&gt;上&amp;#x2F;下&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;open&lt;/td&gt;
+&lt;td&gt;close&lt;/td&gt;
+&lt;td&gt;打开&amp;#x2F;关闭&lt;/td&gt;
+&lt;td&gt;top&lt;/td&gt;
+&lt;td&gt;btm&lt;/td&gt;
+&lt;td&gt;顶部&amp;#x2F;底部&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

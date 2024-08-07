@@ -7,37 +7,42 @@
         <language>zh-CN</language>
         <pubDate>Tue, 04 Jun 2019 17:23:05 +0800</pubDate>
         <lastBuildDate>Tue, 04 Jun 2019 17:23:05 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,28 +155,48 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2019/b9b15cd2/</guid>
             <title>蓝桥杯STM32国赛笔记</title>
@@ -291,7 +308,7 @@
 &lt;li&gt;主机输出&lt;/li&gt;
 &lt;li&gt;主机拉高&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;技巧-amp-TIP&#34;&gt;&lt;a href=&#34;#技巧-amp-TIP&#34; class=&#34;headerlink&#34; title=&#34;技巧&amp;amp;TIP&#34;&gt;&lt;/a&gt;技巧&amp;amp;TIP&lt;/h3&gt;&lt;ul&gt;
+&lt;h3 id=&#34;技巧-TIP&#34;&gt;&lt;a href=&#34;#技巧-TIP&#34; class=&#34;headerlink&#34; title=&#34;技巧&amp;amp;TIP&#34;&gt;&lt;/a&gt;技巧&amp;amp;TIP&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;DHT11分辨率都是整数级别的&lt;strong&gt;读取小数的数据部分没有意义&lt;/strong&gt;。（全为0）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;读取间隔建议大于100ms（采样 1S 过高的读取频率没有意义）&lt;/p&gt;
@@ -318,14 +335,14 @@
 &lt;li&gt;&lt;p&gt;读出来的温度先是  &lt;strong&gt;LSM 8bit&lt;/strong&gt;  然后是 MSB 8bit&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;总线协议-amp-时序&#34;&gt;&lt;a href=&#34;#总线协议-amp-时序&#34; class=&#34;headerlink&#34; title=&#34;总线协议&amp;amp;时序&#34;&gt;&lt;/a&gt;总线协议&amp;amp;时序&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;/2019/b9b15cd2/01-1557625836489.png&#34; alt=&#34;复位时序&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;总线协议-时序&#34;&gt;&lt;a href=&#34;#总线协议-时序&#34; class=&#34;headerlink&#34; title=&#34;总线协议&amp;amp;时序&#34;&gt;&lt;/a&gt;总线协议&amp;amp;时序&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;/2019/b9b15cd2/01-1557625836489.png&#34; alt=&#34;复位时序&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2019/b9b15cd2/02.png&#34; alt=&#34;读写时序&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;编程思路-1&#34;&gt;&lt;a href=&#34;#编程思路-1&#34; class=&#34;headerlink&#34; title=&#34;编程思路&#34;&gt;&lt;/a&gt;编程思路&lt;/h3&gt;&lt;p&gt;0xCC	OW_SKIP_ROM&lt;/p&gt;
 &lt;p&gt;0x44	DS18B20_CONVERT&lt;/p&gt;
 &lt;p&gt;0xCC	OW_SKIP_ROM&lt;/p&gt;
 &lt;p&gt;0xBE	DS18B20_READ&lt;/p&gt;
 &lt;h2 id=&#34;LIS302DL&#34;&gt;&lt;a href=&#34;#LIS302DL&#34; class=&#34;headerlink&#34; title=&#34;LIS302DL&#34;&gt;&lt;/a&gt;LIS302DL&lt;/h2&gt;&lt;p&gt;NULL&lt;/p&gt;
-&lt;h2 id=&#34;光敏-D-amp-A&#34;&gt;&lt;a href=&#34;#光敏-D-amp-A&#34; class=&#34;headerlink&#34; title=&#34;光敏 D&amp;amp;A&#34;&gt;&lt;/a&gt;光敏 D&amp;amp;A&lt;/h2&gt;&lt;h3 id=&#34;光敏D&#34;&gt;&lt;a href=&#34;#光敏D&#34; class=&#34;headerlink&#34; title=&#34;光敏D&#34;&gt;&lt;/a&gt;光敏D&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;光敏-D-A&#34;&gt;&lt;a href=&#34;#光敏-D-A&#34; class=&#34;headerlink&#34; title=&#34;光敏 D&amp;amp;A&#34;&gt;&lt;/a&gt;光敏 D&amp;amp;A&lt;/h2&gt;&lt;h3 id=&#34;光敏D&#34;&gt;&lt;a href=&#34;#光敏D&#34; class=&#34;headerlink&#34; title=&#34;光敏D&#34;&gt;&lt;/a&gt;光敏D&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;GPIOA_Pin_3 &lt;/li&gt;
 &lt;li&gt;GPIO_Mode_IPU&lt;/li&gt;
 &lt;/ul&gt;
@@ -338,7 +355,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;电位器&#34;&gt;&lt;a href=&#34;#电位器&#34; class=&#34;headerlink&#34; title=&#34;电位器&#34;&gt;&lt;/a&gt;电位器&lt;/h2&gt;&lt;p&gt;NULL&lt;/p&gt;
-&lt;h2 id=&#34;PULS-amp-PWM&#34;&gt;&lt;a href=&#34;#PULS-amp-PWM&#34; class=&#34;headerlink&#34; title=&#34;PULS&amp;amp;PWM&#34;&gt;&lt;/a&gt;PULS&amp;amp;PWM&lt;/h2&gt;&lt;p&gt;PA1        TIM2_CH2&lt;/p&gt;
+&lt;h2 id=&#34;PULS-PWM&#34;&gt;&lt;a href=&#34;#PULS-PWM&#34; class=&#34;headerlink&#34; title=&#34;PULS&amp;amp;PWM&#34;&gt;&lt;/a&gt;PULS&amp;amp;PWM&lt;/h2&gt;&lt;p&gt;PA1        TIM2_CH2&lt;/p&gt;
 &lt;p&gt;PA2        TIM2_CH3&lt;/p&gt;
 &lt;p&gt;PA6        TIM3_CH1&lt;/p&gt;
 &lt;p&gt;PA7        TIM3_CH2&lt;/p&gt;

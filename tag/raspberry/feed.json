@@ -18,6 +18,17 @@
             ]
         },
         {
+            "id": "https://www.oikiou.top/2021/d8eac117/",
+            "url": "https://www.oikiou.top/2021/d8eac117/",
+            "title": "树莓派4B GPIO库 Wiringpi Oops -  Unable to Determine Board Type",
+            "date_published": "2021-08-02T15:23:05.000Z",
+            "content_html": "<p>关键词:<br>树莓派4B GPIO库 wiringpi Oops - unable to determine board type… model_ 17</p>\n<h1 id=\"先说解决方案\"><a href=\"#先说解决方案\" class=\"headerlink\" title=\"先说解决方案\"></a>先说解决方案</h1><figure class=\"highlight shell\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br></pre></td><td class=\"code\"><pre><code class=\"hljs shell\">cd /tmp<br>wget https://project-downloads.drogon.net/wiringpi-latest.deb<br>sudo dpkg -i wiringpi-latest.deb<br></code></pre></td></tr></table></figure>\n\n<h1 id=\"问题描述\"><a href=\"#问题描述\" class=\"headerlink\" title=\"问题描述\"></a>问题描述</h1><p><a href=\"http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/\">官网给的解释</a> <a href=\"http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/\">http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/</a></p>\n<p>树莓派4B 用wiringpi这个GPIO库的时候无法正常使用，我是在用作树莓派pwm风扇调速的时候发现一直输出不了pwm，示波器抓波形发现也不对，检查原因的时候发现 <code>gpio readall</code>输出报错，最后官方文档说到<strong>树莓派4B</strong>需要保证<strong>2.52版本</strong>及以上才能适配(<code>gpio -v</code>查看版本)，apt直接安装的似乎还没更新最新版本只到2.50，不太清楚为什么一年了这源都还没更新</p>\n",
+            "tags": [
+                "raspberry",
+                "wiringpi"
+            ]
+        },
+        {
             "id": "https://www.oikiou.top/2021/b0f7a103/",
             "url": "https://www.oikiou.top/2021/b0f7a103/",
             "title": "树莓派4B PWM温控风扇 Wiringpi库 PWM调整频率 54M PWM频率不对",
@@ -27,17 +38,6 @@
                 "raspberry",
                 "wiringpi",
                 "pwm"
-            ]
-        },
-        {
-            "id": "https://www.oikiou.top/2021/d8eac117/",
-            "url": "https://www.oikiou.top/2021/d8eac117/",
-            "title": "树莓派4B GPIO库 Wiringpi Oops -  Unable to Determine Board Type",
-            "date_published": "2021-08-02T15:23:05.000Z",
-            "content_html": "<p>关键词:<br>树莓派4B GPIO库 wiringpi Oops - unable to determine board type… model_ 17</p>\n<h1 id=\"先说解决方案\"><a href=\"#先说解决方案\" class=\"headerlink\" title=\"先说解决方案\"></a>先说解决方案</h1><figure class=\"highlight shell\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br></pre></td><td class=\"code\"><pre><code class=\"hljs shell\">cd /tmp<br>wget https://project-downloads.drogon.net/wiringpi-latest.deb<br>sudo dpkg -i wiringpi-latest.deb<br></code></pre></td></tr></table></figure>\n\n<h1 id=\"问题描述\"><a href=\"#问题描述\" class=\"headerlink\" title=\"问题描述\"></a>问题描述</h1><p><a href=\"http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/\">官网给的解释</a> <a href=\"http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/\">http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/</a></p>\n<p>树莓派4B 用wiringpi这个GPIO库的时候无法正常使用，我是在用作树莓派pwm风扇调速的时候发现一直输出不了pwm，示波器抓波形发现也不对，检查原因的时候发现 <code>gpio readall</code>输出报错，最后官方文档说到<strong>树莓派4B</strong>需要保证<strong>2.52版本</strong>及以上才能适配(<code>gpio -v</code>查看版本)，apt直接安装的似乎还没更新最新版本只到2.50，不太清楚为什么一年了这源都还没更新</p>\n",
-            "tags": [
-                "raspberry",
-                "wiringpi"
             ]
         }
     ]

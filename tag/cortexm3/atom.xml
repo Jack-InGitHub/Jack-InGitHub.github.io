@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;cortexm3&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2023-06-20T11:23:05.000Z</updated>
+    <category term="autosar" />
+    <category term="aes" />
+    <category term="embedded" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="md5" />
+    <category term="major" />
+    <category term="markdown" />
+    <category term="note" />
+    <category term="osi" />
+    <category term="RustDesk" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="typora" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="windows" />
+    <category term="makefile" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="机智云" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
+    <category term="超声波" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="audio" />
+    <category term="video" />
+    <category term="cad" />
+    <category term="cat_drive" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="pve" />
+    <category term="virtual" />
+    <category term="software" />
+    <category term="摄影" />
+    <category term="synology" />
+    <category term="cmake" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
+    <category term="git" />
+    <category term="j-link" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="jlink" />
+    <category term="j-tag" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="obsidian" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="tmux" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="v2ray" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="cortex-a7" />
+    <category term="cortex-m3" />
+    <category term="rtx" />
+    <category term="rtos" />
+    <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="pwm" />
+    <category term="ap" />
+    <category term="wifi" />
+    <category term="modbus" />
+    <category term="linuxapp" />
+    <category term="curl" />
+    <category term="libcurl" />
+    <category term="zlib" />
+    <category term="minizip" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2023/880e7a30/</id>
+        <title>常见MCU上电初始化逻辑 以STM32F1 CortexM3 为例</title>
+        <link rel="alternate" href="https://www.oikiou.top/2023/880e7a30/"/>
+        <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a href=&#34;#前言&#34; class=&#34;headerlink&#34; title=&#34;前言&#34;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;每一款芯片是如何启动的都值得去研究，只有明白了它是怎么样启动的，你才能知道为什么你的程序可以运行？程序是从哪里运行来的？运行你写的函数之前执行了哪些操作？&lt;/p&gt;
+&lt;p&gt;也只有这样你才有对全局的掌控，才能对代码了然于心，提高你解决复杂问题的能力。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  有一次踩坑，某MCU的BSS段未在&lt;code&gt;main&lt;/code&gt;运行之前初始化导致程序运行异常，也是跟这个启动流程有关。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;通过了解启动文件，我们可以体会到处理器的架构、指令集、中断向量安排等内容，是非常值得玩味的。&lt;/p&gt;
+&lt;h1 id=&#34;进入正题&#34;&gt;&lt;a href=&#34;#进入正题&#34; class=&#34;headerlink&#34; title=&#34;进入正题&#34;&gt;&lt;/a&gt;进入正题&lt;/h1&gt;&lt;h2 id=&#34;STM32-上电后做了什么&#34;&gt;&lt;a href=&#34;#STM32-上电后做了什么&#34; class=&#34;headerlink&#34; title=&#34;STM32 上电后做了什么&#34;&gt;&lt;/a&gt;STM32 上电后做了什么&lt;/h2&gt;&lt;h3 id=&#34;图解启动流程&#34;&gt;&lt;a href=&#34;#图解启动流程&#34; class=&#34;headerlink&#34; title=&#34;图解启动流程&#34;&gt;&lt;/a&gt;图解启动流程&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2023/880e7a30/STM32%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B.svg&#34; alt=&#34;STM32启动流程&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2023/880e7a30/215103893_3_20210208091156505-16901903555945.png&#34; alt=&#34;215103893_3_20210208091156505&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文字详细解读启动流程&#34;&gt;&lt;a href=&#34;#文字详细解读启动流程&#34; class=&#34;headerlink&#34; title=&#34;文字详细解读启动流程&#34;&gt;&lt;/a&gt;文字详细解读启动流程&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;启动过程概览&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  1、初始化堆栈指针 SP&amp;#x3D;_initial_sp&lt;/p&gt;
+&lt;p&gt;  2、初始化PC指针&amp;#x3D;Reset_Handler&lt;/p&gt;
+&lt;p&gt;  3、初始化中断向量表&lt;/p&gt;
+&lt;p&gt;  4、配置系统时钟&lt;/p&gt;
+&lt;p&gt;  5、调用C 库函数&lt;code&gt;_main&lt;/code&gt;初始化用户堆栈、.bss段、.data段，从而最终调用main 函数去到C 的世界&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;而Cortex-M3内核规定，起始地址必须存放堆顶指针，而第二个地址则必须存放复位中断入口向量地址，这样在Cortex-M3内核复位后，会自动从起始地址的下一个32位空间取出复位中断入口向量，跳转执行复位中断服务程序。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;启动过程涉及的代码&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  启动过程涉及的文件不仅包含startup_stm32f10x_hd.s，还涉及到了MDK自带的连接库文件entry.o、entry2.o、entry5.o、entry7.o等（从生成的map文件可以看出来）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;Stack_Size      EQU     0x00000400&lt;br&gt;&lt;br&gt;                AREA    STACK, NOINIT, READWRITE, ALIGN=3&lt;br&gt;Stack_Mem       SPACE   Stack_Size&lt;br&gt;__initial_sp&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  开辟栈的大小为0X00000400（1KB），名字为STACK，NOINIT 即不初始化，可读可写，8（2^3）字节对齐。&lt;/p&gt;
+&lt;p&gt;  栈的作用是用于局部变量，函数调用，函数形参等的开销，栈的大小不能超过内部SRAM 的大小。如果编写的程序比较大，定义的局部变量很多，那么就需要修改栈的大小。如果某一天，你写的程序出现了莫名奇怪的错误，并进入了 hardfault 的时候，这时你就要考虑下是不是栈不够大，溢出了。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;EQU&lt;/strong&gt;：宏定义的伪指令，相当于等于，类似与C 中的define。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;AREA&lt;/strong&gt;：告诉汇编器汇编一个新的代码段或者数据段。STACK 表示段名，这个可以任意命名；NOINIT 表示不初始化；READWRITE 表示可读可写，ALIGN&amp;#x3D;3，表示按照2^3对齐，即8 字节对齐。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;SPACE&lt;/strong&gt;：用于分配一定大小的内存空间，单位为字节。这里指定大小等于Stack_Size。标号&lt;code&gt;__initial_sp&lt;/code&gt; 紧挨着SPACE 语句放置，表示栈的结束地址，即栈顶地址，栈是由&lt;strong&gt;高向低生长&lt;/strong&gt;的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;; &amp;lt;h&amp;gt; Heap Configuration&lt;br&gt;;   &amp;lt;o&amp;gt;  Heap Size (in Bytes) &amp;lt;0x0-0xFFFFFFFF:8&amp;gt;&lt;br&gt;; &amp;lt;/h&amp;gt;&lt;br&gt;&lt;br&gt;Heap_Size       EQU     0x00000200&lt;br&gt;&lt;br&gt;                AREA    HEAP, NOINIT, READWRITE, ALIGN=3&lt;br&gt;__heap_base&lt;br&gt;Heap_Mem        SPACE   Heap_Size&lt;br&gt;__heap_limit&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  开辟堆的大小为0X00000200（512 字节），名字为HEAP，NOINIT 即不初始化，可读可写，8（2^3）字节对齐。&lt;code&gt;__heap_base&lt;/code&gt; 表示对的起始地址，&lt;code&gt;__heap_limit&lt;/code&gt; 表示堆的结束地址。堆是由&lt;strong&gt;低向高生长&lt;/strong&gt;的，跟栈的生长方向相反。&lt;/p&gt;
+&lt;p&gt;  堆主要用来动态内存的分配，像malloc()函数申请的内存就在堆上面。这个在STM32里面用的比较少。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;; Vector Table Mapped to Address 0 at Reset&lt;br&gt;                AREA    RESET, DATA, READONLY			; 定义一个数据段，名字为RESET， 可读。并声明 __Vectors 、__Vectors_End 和__Vectors_Size 这三个标号具有全局属性，可供外部的文件调用。&lt;br&gt;                EXPORT  __Vectors&lt;br&gt;                EXPORT  __Vectors_End&lt;br&gt;                EXPORT  __Vectors_Size&lt;br&gt;    &lt;br&gt;__Vectors       DCD     __initial_sp                    ; Top of Stack  栈顶位置，第一个表项是栈顶地址;该处物理地址值即为 __Vetors 标号所表示的值;该地址中存储__initial_sp所表示的地址值，&lt;br&gt;                DCD     Reset_Handler                   ; Reset Handler 复位程序地址&lt;br&gt;                DCD     NMI_Handler                     ; NMI Handler&lt;br&gt;...&lt;br&gt;__Vectors_End&lt;br&gt;&lt;br&gt;__Vectors_Size  EQU  __Vectors_End - __Vectors&lt;br&gt;&lt;br&gt;                AREA    |.text|, CODE, READONLY&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  定义一个数据段，名字为RESET， 可读。并声明 __Vectors 、__Vectors_End 和__Vectors_Size 这三个标号具有全局属性，可供外部的文件调用。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;EXPORT&lt;/strong&gt;：声明一个标号可被外部的文件使用，使标号具有全局属性。如果是IAR 编译器，则使用的是GLOBAL 这个指令。&lt;/p&gt;
+&lt;p&gt;  &lt;code&gt;__Vectors&lt;/code&gt; 为向量表起始地址，&lt;code&gt;__Vectors_End&lt;/code&gt; 为向量表结束地址，两个相减即可算出向量表大小，也就是&lt;code&gt;__Vectors_Size&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;  向量表从FLASH 的0 地址开始放置，以4 个字节为一个单位，地址0 存放的是栈顶地址，0X04 存放的是复位程序的地址，以此类推。从代码上看，向量表中存放的都是中断服务函数的函数名，可我们知道C 语言中的函数名就是一个地址。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;DCD&lt;/strong&gt;：分配一个或者多个以字为单位的内存，以四字节对齐，并要求初始化这些内存。在向量表中，DCD 分配了一堆内存，并且以ESR 的入口地址初始化它们。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;; 这里调用 SystemInit 初始化时钟 时钟初始化完成后跳转到main函数&lt;br&gt;; Reset handler&lt;br&gt;Reset_Handler    PROC&lt;br&gt;                 EXPORT  Reset_Handler             [WEAK]&lt;br&gt;     IMPORT  __main&lt;br&gt;     IMPORT  SystemInit&lt;br&gt;                 LDR     R0, =SystemInit&lt;br&gt;                 BLX     R0&lt;br&gt;                 LDR     R0, =__main&lt;br&gt;                 BX      R0&lt;br&gt;                 ENDP&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  复位子程序是系统上电后第一个执行的程序，调用SystemInit 函数初始化系统时钟，然后调用C 库函数&lt;code&gt;_mian&lt;/code&gt;，最终调用main 函数去到C 的世界。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;WEAK&lt;/strong&gt;：表示弱定义，如果外部文件优先定义了该标号则首先引用该标号，如果外部文件没有声明也不会出错。这里表示复位子程序可以由用户在其他文件重新实现，这里并不是唯一的。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;IMPORT&lt;/strong&gt;：表示该标号来自外部文件，跟C 语言中的EXTERN 关键字类似。这里表示&lt;code&gt;SystemInit&lt;/code&gt;和&lt;code&gt;__main&lt;/code&gt; 这两个函数均来自外部的文件。&lt;/p&gt;
+&lt;p&gt;  &lt;code&gt;SystemInit()&lt;/code&gt;是一个标准的库函数，在&lt;code&gt;system_stm32f10x.c&lt;/code&gt;这个库文件定义。主要作用是配置系统时钟，这里调用这个函数之后，单片机的系统时钟配被配置为72M。&lt;/p&gt;
+&lt;p&gt;  &lt;code&gt;__main&lt;/code&gt; 是一个标准的C 库函数，主要作用是初始化用户堆栈，并在函数的最后调用main 函数去到C 的世界。这就是为什么我们写的程序都有一个main 函数的原因。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asm&#34;&gt;;*******************************************************************************&lt;br&gt;; User Stack and Heap initialization&lt;br&gt;;*******************************************************************************&lt;br&gt;                 IF      :DEF:__MICROLIB           &lt;br&gt;                &lt;br&gt;                 EXPORT  __initial_sp&lt;br&gt;                 EXPORT  __heap_base&lt;br&gt;                 EXPORT  __heap_limit&lt;br&gt;                &lt;br&gt;                 ELSE&lt;br&gt;                &lt;br&gt;                 IMPORT  __use_two_region_memory    ;定义全局标号__use_two_region_memory&lt;br&gt;                 EXPORT  __user_initial_stackheap   ;声明全局标号__user_initial_stackheap，这样外部程序也可调用此标号，进行堆栈和堆的赋值，在__main函数执行过程中调用&lt;br&gt;                 &lt;br&gt;__user_initial_stackheap                            ;标号__user_initial_stackheap，表示用户堆栈初始化程序入口&lt;br&gt;&lt;br&gt;                 LDR     R0, =  Heap_Mem            ;保存堆始地址&lt;br&gt;                 LDR     R1, =(Stack_Mem + Stack_Size);保存栈的大小&lt;br&gt;                 LDR     R2, = (Heap_Mem +  Heap_Size);保存堆的大小&lt;br&gt;                 LDR     R3, = Stack_Mem            ;保存栈顶指针&lt;br&gt;                 BX      LR&lt;br&gt;&lt;br&gt;                 ALIGN&lt;br&gt;&lt;br&gt;                 ENDIF&lt;br&gt;&lt;br&gt;                 END&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;  首先判断是否定义了&lt;code&gt;__MICROLIB &lt;/code&gt;，如果定义了这个宏则赋予标号&lt;code&gt;__initial_sp&lt;/code&gt;（栈顶地址）、&lt;code&gt;__heap_base&lt;/code&gt;（堆起始地址）、&lt;code&gt;__heap_limit&lt;/code&gt;（堆结束地址）全局属性，可供外部文件调用。有关这个宏我们在KEIL 里面配置，具体见下图 。然后堆栈的初始化就由C 库函数&lt;code&gt;_main&lt;/code&gt; 来完成。&lt;/p&gt;
+&lt;p&gt;  &lt;img src=&#34;/2023/880e7a30/v2-e38d0eae51917b604ec87c9e767a7049_720w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;  如果没有定义&lt;code&gt;__MICROLIB&lt;/code&gt; ， 则采用双段存储器模式， 且声明标号&lt;code&gt;__user_initial_stackheap&lt;/code&gt; 具有全局属性，让用户自己来初始化堆栈。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 初始化嵌入式闪存接口、PLL并更新系统核心时钟变量。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/**&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;  * @brief  Setup the microcontroller system&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;  *         Initialize the Embedded Flash Interface, the PLL and update the &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;  *         SystemCoreClock variable.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;  * @note   This function should be used only after reset.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;  * @param  None&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;  * @retval None&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;  */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;SystemInit&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; defined(STM32F100xE) || defined(STM32F101xE) || defined(STM32F101xG) || defined(STM32F103xE) || defined(STM32F103xG)&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;ifdef&lt;/span&gt; DATA_IN_ExtSRAM&lt;/span&gt;&lt;br&gt;    SystemInit_ExtMemCtl(); &lt;br&gt;  &lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;endif&lt;/span&gt; &lt;span class=&#34;hljs-comment&#34;&gt;/* DATA_IN_ExtSRAM */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;endif&lt;/span&gt; &lt;/span&gt;&lt;br&gt;&lt;br&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;/* Configure the Vector Table location -------------------------------------*/&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; defined(USER_VECT_TAB_ADDRESS)&lt;/span&gt;&lt;br&gt;  SCB-&amp;gt;VTOR = VECT_TAB_BASE_ADDRESS | VECT_TAB_OFFSET; &lt;span class=&#34;hljs-comment&#34;&gt;/* Vector Table Relocation in Internal SRAM. */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;endif&lt;/span&gt; &lt;span class=&#34;hljs-comment&#34;&gt;/* USER_VECT_TAB_ADDRESS */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;main-做了什么&#34;&gt;&lt;a href=&#34;#main-做了什么&#34; class=&#34;headerlink&#34; title=&#34;__main() 做了什么&#34;&gt;&lt;/a&gt;&lt;code&gt;__main()&lt;/code&gt; 做了什么&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://developer.arm.com/documentation/dui0808/c/chr1358938922456&#34;&gt;参考ARM文档&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  The entry point of a program is at __main in the C library where library code:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Copies non-root (RO and RW) execution regions from their load addresses to their execution addresses. Also, if any data sections are compressed, they are decompressed from the load address to the execution address.&lt;/li&gt;
+&lt;li&gt;Zeroes ZI regions.&lt;/li&gt;
+&lt;li&gt;Branches to &lt;code&gt;__rt_entry&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;程序的入口点位于 C 库中的 __main，其中库代码：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;将 non-root（RO 和 RW）从其加载地址复制到其执行地址。此外，如果任何数据部分被压缩，它们将从加载地址解压缩到执行地址。&lt;/li&gt;
+&lt;li&gt;将 ZI 区域归零。&lt;/li&gt;
+&lt;li&gt;跳转到 &lt;code&gt;__rt_entry&lt;/code&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  The library function &lt;code&gt;__rt_entry()&lt;/code&gt; runs the program as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Sets up the stack and the heap by one of a number of means that include calling &lt;code&gt;__user_setup_stackheap()&lt;/code&gt;, calling &lt;code&gt;__rt_stackheap_init()&lt;/code&gt;, or loading the absolute addresses of scatter-loaded regions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Calls &lt;code&gt;__rt_lib_init()&lt;/code&gt; to initialize referenced library functions, initialize the locale and, if necessary, set up argc and argv for &lt;code&gt;main()&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;For C++, calls the constructors for any top-level objects by way of &lt;code&gt;__cpp_initialize__aeabi_&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Calls &lt;code&gt;main()&lt;/code&gt;, the user-level root of the application.&lt;/p&gt;
+&lt;p&gt;From &lt;code&gt;main()&lt;/code&gt;, your program might call, among other things, library functions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Calls &lt;code&gt;exit()&lt;/code&gt; with the value returned by &lt;code&gt;main()&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;库函数&lt;code&gt;__rt_entry()&lt;/code&gt;运行程序如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;通过多种方式中的一种设置堆栈和堆，包括调用&lt;code&gt;__user_setup_stackheap()&lt;/code&gt;、调用&lt;code&gt;__rt_stackheap_init()&lt;/code&gt;或加载scatter-loaded  区域的绝对地址。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;调用&lt;code&gt;__rt_lib_init()&lt;/code&gt;初始化引用的库函数、初始化区域设置，并在必要时为&lt;code&gt;main()&lt;/code&gt;设置&lt;code&gt;argv&lt;/code&gt;和&lt;code&gt;argc&lt;/code&gt;参数。&lt;/p&gt;
+&lt;p&gt;对于 C++，通过 &lt;code&gt;__cpp_initialize__aeabi_&lt;/code&gt; 调用任何top-level对象的构造函数。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;调用&lt;code&gt;main()&lt;/code&gt;，应用程序的 user-level 级别的起始。&lt;/p&gt;
+&lt;p&gt;在&lt;code&gt;main()&lt;/code&gt;中，您的程序可能会调用库函数等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;根据&lt;code&gt;main()&lt;/code&gt;的返回值调用&lt;code&gt;exit()&lt;/code&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;一些参考&#34;&gt;&lt;a href=&#34;#一些参考&#34; class=&#34;headerlink&#34; title=&#34;一些参考&#34;&gt;&lt;/a&gt;一些参考&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;  STM32启动过程–启动文件–分析：&lt;a href=&#34;https://www.cnblogs.com/dreamboy2000/p/15806645.html&#34;&gt;https://www.cnblogs.com/dreamboy2000/p/15806645.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  ARM编译器指南 执行环境的初始化和应用程序的执行：&lt;a href=&#34;https://developer.arm.com/documentation/dui0808/c/chr1358938922456&#34;&gt;https://developer.arm.com/documentation/dui0808/c/chr1358938922456&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="embedded" />
+        <category term="stm32" />
+        <category term="cortexm3" />
+        <updated>2023-06-20T11:23:05.000Z</updated>
+    </entry>
+</feed>

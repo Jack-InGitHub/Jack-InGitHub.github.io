@@ -5,39 +5,44 @@
         <link>https://www.oikiou.top</link>
         <description>Blog</description>
         <language>zh-CN</language>
-        <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
-        <lastBuildDate>Sat, 08 Aug 2020 08:08:08 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <pubDate>Fri, 08 Mar 2024 10:23:15 +0800</pubDate>
+        <lastBuildDate>Fri, 08 Mar 2024 10:23:15 +0800</lastBuildDate>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,28 +155,61 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2024/b58cbef5/</guid>
+            <title>Obsidian</title>
+            <link>https://www.oikiou.top/2024/b58cbef5/</link>
+            <category>markdown</category>
+            <category>obsidian</category>
+            <pubDate>Fri, 08 Mar 2024 10:23:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;一些格式问题&#34;&gt;&lt;a href=&#34;#一些格式问题&#34; class=&#34;headerlink&#34; title=&#34;一些格式问题&#34;&gt;&lt;/a&gt;一些格式问题&lt;/h1&gt;&lt;h2 id=&#34;&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;headerlink&#34; title=&#34;%%&#34;&gt;&lt;/a&gt;%%&lt;/h2&gt;&lt;p&gt;两个百分号在html中是“一个模板引擎系统，其语法基于jinja。”&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Obsidian 会默认把CRLF的换行符自动转换成LF的&lt;br&gt;   我们需要将单独这个仓库的git配置成&lt;code&gt;autocrlf = false&lt;/code&gt;以保证换行符的统一。&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2020/da7ed36c/</guid>
             <title>MarkDown学习笔记</title>
@@ -187,15 +217,32 @@
             <category>markdown</category>
             <category>note</category>
             <pubDate>Sat, 08 Aug 2020 08:08:08 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;二级标题&#34;&gt;&lt;a href=&#34;#二级标题&#34; class=&#34;headerlink&#34; title=&#34;二级标题&#34;&gt;&lt;/a&gt;二级标题&lt;/h2&gt;&lt;h3 id=&#34;三级标题&#34;&gt;&lt;a href=&#34;#三级标题&#34; class=&#34;headerlink&#34; title=&#34;三级标题&#34;&gt;&lt;/a&gt;三级标题&lt;/h3&gt;&lt;h4 id=&#34;四级标题&#34;&gt;&lt;a href=&#34;#四级标题&#34; class=&#34;headerlink&#34; title=&#34;四级标题&#34;&gt;&lt;/a&gt;四级标题&lt;/h4&gt;&lt;h5 id=&#34;五级标题&#34;&gt;&lt;a href=&#34;#五级标题&#34; class=&#34;headerlink&#34; title=&#34;五级标题&#34;&gt;&lt;/a&gt;五级标题&lt;/h5&gt;&lt;h6 id=&#34;六级标题&#34;&gt;&lt;a href=&#34;#六级标题&#34; class=&#34;headerlink&#34; title=&#34;六级标题&#34;&gt;&lt;/a&gt;六级标题&lt;/h6&gt;&lt;p&gt;asdasdasdasdassdasdas&lt;/p&gt;
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;  参考官方的示例&lt;/p&gt;
+&lt;p&gt;  &lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34;&gt;https://www.markdownguide.org/basic-syntax/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;二级标题&#34;&gt;&lt;a href=&#34;#二级标题&#34; class=&#34;headerlink&#34; title=&#34;二级标题&#34;&gt;&lt;/a&gt;二级标题&lt;/h2&gt;&lt;h3 id=&#34;三级标题&#34;&gt;&lt;a href=&#34;#三级标题&#34; class=&#34;headerlink&#34; title=&#34;三级标题&#34;&gt;&lt;/a&gt;三级标题&lt;/h3&gt;&lt;h4 id=&#34;四级标题&#34;&gt;&lt;a href=&#34;#四级标题&#34; class=&#34;headerlink&#34; title=&#34;四级标题&#34;&gt;&lt;/a&gt;四级标题&lt;/h4&gt;&lt;h5 id=&#34;五级标题&#34;&gt;&lt;a href=&#34;#五级标题&#34; class=&#34;headerlink&#34; title=&#34;五级标题&#34;&gt;&lt;/a&gt;五级标题&lt;/h5&gt;&lt;h6 id=&#34;六级标题&#34;&gt;&lt;a href=&#34;#六级标题&#34; class=&#34;headerlink&#34; title=&#34;六级标题&#34;&gt;&lt;/a&gt;六级标题&lt;/h6&gt;&lt;p&gt;asdasdasdasdassdasdas&lt;/p&gt;
 &lt;h2 id=&#34;这是一段引用&#34;&gt;&lt;a href=&#34;#这是一段引用&#34; class=&#34;headerlink&#34; title=&#34;这是一段引用&#34;&gt;&lt;/a&gt;这是一段引用&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;这是一段引用&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;无序列表&#34;&gt;&lt;a href=&#34;#无序列表&#34; class=&#34;headerlink&#34; title=&#34;无序列表&#34;&gt;&lt;/a&gt;无序列表&lt;/h2&gt;&lt;ul&gt;
+&lt;h2 id=&#34;无序列表&#34;&gt;&lt;a href=&#34;#无序列表&#34; class=&#34;headerlink&#34; title=&#34;无序列表&#34;&gt;&lt;/a&gt;无序列表&lt;/h2&gt;&lt;figure class=&#34;highlight asciidoc&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs asciidoc&#34;&gt;&lt;span class=&#34;hljs-bullet&#34;&gt;- &lt;/span&gt;* + 都可以作为无序列表的前缀，但是需要注意不要把他们混用。&lt;br&gt;建议使用 - 作为无序列表前缀。&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;ul&gt;
 &lt;li&gt;阿斯大声&lt;/li&gt;
 &lt;li&gt;阿斯大声打&lt;/li&gt;
 &lt;li&gt;阿斯大声问请问恶&lt;/li&gt;
 &lt;/ul&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs markdown&#34;&gt;&lt;span class=&#34;hljs-bullet&#34;&gt;-&lt;/span&gt; 阿斯大声&lt;br&gt;&lt;span class=&#34;hljs-bullet&#34;&gt;-&lt;/span&gt; 阿斯大声打&lt;br&gt;&lt;span class=&#34;hljs-bullet&#34;&gt;-&lt;/span&gt; 阿斯大声问请问恶&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;阿斯大声&lt;/li&gt;
+&lt;li&gt;阿斯大声打&lt;/li&gt;
+&lt;li&gt;阿斯大声问请问恶&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs markdown&#34;&gt;&lt;span class=&#34;hljs-bullet&#34;&gt;*&lt;/span&gt; 阿斯大声&lt;br&gt;&lt;span class=&#34;hljs-bullet&#34;&gt;*&lt;/span&gt; 阿斯大声打&lt;br&gt;&lt;span class=&#34;hljs-bullet&#34;&gt;*&lt;/span&gt; 阿斯大声问请问恶&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;h2 id=&#34;有序列表&#34;&gt;&lt;a href=&#34;#有序列表&#34; class=&#34;headerlink&#34; title=&#34;有序列表&#34;&gt;&lt;/a&gt;有序列表&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;阿斯大声打&lt;/p&gt;
 &lt;/li&gt;
@@ -204,7 +251,7 @@
 &lt;li&gt;&lt;p&gt;dasd阿斯dasdaaa&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;斜体-和-加粗-强调&#34;&gt;&lt;a href=&#34;#斜体-和-加粗-强调&#34; class=&#34;headerlink&#34; title=&#34;斜体 和 加粗 (强调)&#34;&gt;&lt;/a&gt;斜体 和 加粗 (强调)&lt;/h2&gt;&lt;p&gt;这是&lt;em&gt;斜体&lt;/em&gt;      这是&lt;strong&gt;加粗&lt;/strong&gt;   这是_什么呢_  好像也__是一样的__&lt;/p&gt;
+&lt;h2 id=&#34;斜体-加粗-强调&#34;&gt;&lt;a href=&#34;#斜体-加粗-强调&#34; class=&#34;headerlink&#34; title=&#34;斜体  加粗 (强调)&#34;&gt;&lt;/a&gt;斜体  加粗 (强调)&lt;/h2&gt;&lt;p&gt;这是&lt;em&gt;斜体&lt;/em&gt;      这是&lt;strong&gt;加粗&lt;/strong&gt;   这是_什么呢_  好像也__是一样的__&lt;/p&gt;
 &lt;h2 id=&#34;这段是横线&#34;&gt;&lt;a href=&#34;#这段是横线&#34; class=&#34;headerlink&#34; title=&#34;这段是横线&#34;&gt;&lt;/a&gt;这段是横线&lt;/h2&gt;&lt;hr&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;超链接&#34;&gt;&lt;a href=&#34;#超链接&#34; class=&#34;headerlink&#34; title=&#34;超链接&#34;&gt;&lt;/a&gt;超链接&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;./assets/00.jpg&#34;&gt;这是超链接&lt;/a&gt;&lt;/p&gt;
@@ -214,7 +261,7 @@
 &lt;h2 id=&#34;文章内的超链接&#34;&gt;&lt;a href=&#34;#文章内的超链接&#34; class=&#34;headerlink&#34; title=&#34;文章内的超链接&#34;&gt;&lt;/a&gt;&lt;a id=&#34;文章内的超链接&#34;&gt;文章内的超链接&lt;/a&gt;&lt;/h2&gt;&lt;p&gt; &lt;a href=&#34;##%E8%A1%A8%E6%A0%BC&#34;&gt;这是一个文章内部的超链接&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt; Ctrl+左键  &lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;#HTML跳转&#34;&gt;回到-&amp;gt;HTML 跳转&lt;/a&gt; &lt;/p&gt;
-&lt;h2 id=&#34;Email-链接&#34;&gt;&lt;a href=&#34;#Email-链接&#34; class=&#34;headerlink&#34; title=&#34;Email 链接&#34;&gt;&lt;/a&gt;Email 链接&lt;/h2&gt;&lt;p&gt;作者的 Emal &lt;a href=&#34;mailto:&amp;#x78;&amp;#x78;&amp;#x40;&amp;#x78;&amp;#120;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&#34;&gt;&amp;#x78;&amp;#x78;&amp;#x40;&amp;#x78;&amp;#120;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt; 链接&lt;/p&gt;
+&lt;h2 id=&#34;Email-链接&#34;&gt;&lt;a href=&#34;#Email-链接&#34; class=&#34;headerlink&#34; title=&#34;Email 链接&#34;&gt;&lt;/a&gt;Email 链接&lt;/h2&gt;&lt;p&gt;作者的 Emal &lt;a href=&#34;mailto:&amp;#120;&amp;#x78;&amp;#x40;&amp;#x78;&amp;#x78;&amp;#46;&amp;#x63;&amp;#111;&amp;#x6d;&#34;&gt;&amp;#120;&amp;#x78;&amp;#x40;&amp;#x78;&amp;#x78;&amp;#46;&amp;#x63;&amp;#111;&amp;#x6d;&lt;/a&gt; 链接&lt;/p&gt;
 &lt;h2 id=&#34;插入图片&#34;&gt;&lt;a href=&#34;#插入图片&#34; class=&#34;headerlink&#34; title=&#34;插入图片&#34;&gt;&lt;/a&gt;插入图片&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;内联风格&lt;/li&gt;
 &lt;/ul&gt;

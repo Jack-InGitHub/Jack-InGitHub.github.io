@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;rustdesk&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2023-12-16T10:23:05.000Z</updated>
+    <category term="autosar" />
+    <category term="aes" />
+    <category term="embedded" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="md5" />
+    <category term="major" />
+    <category term="markdown" />
+    <category term="note" />
+    <category term="osi" />
+    <category term="RustDesk" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="typora" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="windows" />
+    <category term="makefile" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="机智云" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
+    <category term="超声波" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="audio" />
+    <category term="video" />
+    <category term="cad" />
+    <category term="cat_drive" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="pve" />
+    <category term="virtual" />
+    <category term="software" />
+    <category term="摄影" />
+    <category term="synology" />
+    <category term="cmake" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
+    <category term="git" />
+    <category term="j-link" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="jlink" />
+    <category term="j-tag" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="obsidian" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="tmux" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="v2ray" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="cortex-a7" />
+    <category term="cortex-m3" />
+    <category term="rtx" />
+    <category term="rtos" />
+    <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="pwm" />
+    <category term="ap" />
+    <category term="wifi" />
+    <category term="modbus" />
+    <category term="linuxapp" />
+    <category term="curl" />
+    <category term="libcurl" />
+    <category term="zlib" />
+    <category term="minizip" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2023/c98db97a/</id>
+        <title>RustDesk</title>
+        <link rel="alternate" href="https://www.oikiou.top/2023/c98db97a/"/>
+        <content type="html">&lt;h1 id=&#34;Server-搭建&#34;&gt;&lt;a href=&#34;#Server-搭建&#34; class=&#34;headerlink&#34; title=&#34;Server 搭建&#34;&gt;&lt;/a&gt;Server 搭建&lt;/h1&gt;&lt;p&gt;RustDesk Server OSS&lt;strong&gt;功能简单&lt;/strong&gt;，&lt;strong&gt;无需许可证&lt;/strong&gt;，RustDesk Server Pro&lt;strong&gt;功能更强&lt;/strong&gt;，&lt;strong&gt;需要许可证&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;参考官方&lt;a href=&#34;https://rustdesk.com/docs/en/self-host/rustdesk-server-oss/&#34;&gt;文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;RustDesk-Server-OSS-搭建&#34;&gt;&lt;a href=&#34;#RustDesk-Server-OSS-搭建&#34; class=&#34;headerlink&#34; title=&#34;RustDesk Server OSS 搭建&#34;&gt;&lt;/a&gt;RustDesk Server OSS 搭建&lt;/h2&gt;&lt;p&gt;RustDesk Server OSS有两个程序&lt;code&gt;hbbs&lt;/code&gt;和&lt;code&gt;hbbr&lt;/code&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;hbbs&lt;/code&gt;- RustDesk ID&amp;#x2F;Rendezvous 服务器&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hbbr&lt;/code&gt;- RustDesk 中继服务器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  默认情况下，&lt;/p&gt;
+&lt;p&gt;  &lt;code&gt;hbbs&lt;/code&gt; 侦听 21115 (TCP)、21116 (TCP&amp;#x2F;UDP) 和 21118 (TCP)，&lt;/p&gt;
+&lt;p&gt;  &lt;code&gt;hbbr&lt;/code&gt; 侦听 21117 (TCP) 、21119（TCP）。&lt;/p&gt;
+&lt;p&gt;  请务必在防火墙中打开这些端口。 &lt;strong&gt;请注意，TCP 和 UDP 都应启用 21116。&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;  21115 用于 NAT 类型测试，21116&amp;#x2F;UDP 用于 ID 注册，心跳服务，21116&amp;#x2F;TCP用于TCP打洞和连接服务，21117用于Relay服务，21118和21119用于支持Web客户端。 &lt;/p&gt;
+&lt;p&gt;  &lt;em&gt;如果不需要Web客户端（21118、21119）支持，可以禁用相应端口。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;TCP (&lt;strong&gt;21115、21116、21117、21118、21119&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;UDP (&lt;strong&gt;21116&lt;/strong&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;关闭防火墙对端口的封锁：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;ufw allow 21115:21119/tcp&lt;br&gt;ufw allow 21116/udp&lt;br&gt;sudo ufw enable&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;服务器硬件要求&#34;&gt;&lt;a href=&#34;#服务器硬件要求&#34; class=&#34;headerlink&#34; title=&#34;服务器硬件要求&#34;&gt;&lt;/a&gt;服务器硬件要求&lt;/h3&gt;&lt;blockquote&gt;
+&lt;h5 id=&#34;服务器要求&#34;&gt;&lt;a href=&#34;#服务器要求&#34; class=&#34;headerlink&#34; title=&#34;服务器要求&#34;&gt;&lt;/a&gt;服务器要求&lt;/h5&gt;&lt;p&gt;  硬件要求很低；基础云服务器最低配置就够了，对CPU和内存的要求也很低。您还可以使用 Raspberry Pi 或类似的东西。从网络规模来看，如果TCP打洞直连失败，会消耗中继流量。中继连接的流量在 30 K&amp;#x2F;s 到 3 M&amp;#x2F;s（1920x1080 屏幕）之间，具体取决于分辨率设置和屏幕更新。如果只是办公需求，流量在100K&amp;#x2F;s左右。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;hbbr-的运行&#34;&gt;&lt;a href=&#34;#hbbr-的运行&#34; class=&#34;headerlink&#34; title=&#34;hbbr 的运行&#34;&gt;&lt;/a&gt;hbbr 的运行&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;  &lt;code&gt;hbbs&lt;/code&gt;第一次运行时，会自动生成一对加密的私钥和&lt;strong&gt;公钥&lt;/strong&gt;（分别位于&lt;code&gt;id_ed25519&lt;/code&gt;和&lt;code&gt;id_ed25519.pub&lt;/code&gt;运行目录下的文件），其主要目的是通信加密。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;公钥就是我们需要填入Client端的key&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  如果您想禁止没有密钥的用户建立非加密连接，请在运行时添加&lt;code&gt;-k _&lt;/code&gt;参数&lt;code&gt;hbbs&lt;/code&gt;和&lt;code&gt;hbbr&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;  &lt;em&gt;注意不要漏写了下划线&lt;/em&gt; 例如：&lt;/p&gt;
+  &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;./hbbs -r &amp;lt;relay-server-ip[:port]&amp;gt; -k _&lt;br&gt;./hbbr -k _&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;使用Docker搭建&#34;&gt;&lt;a href=&#34;#使用Docker搭建&#34; class=&#34;headerlink&#34; title=&#34;使用Docker搭建&#34;&gt;&lt;/a&gt;使用Docker搭建&lt;/h3&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;sudo docker image pull rustdesk/rustdesk-server&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;-v 映射文件夹 容器内 /root 目录会存放key文件等&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;hbbs 的 -r 参数是 服务器地址&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;hbbs 和 hbbr 的 -k 参数是 禁止没有密钥的用户建立非加密连接&lt;/span&gt;&lt;br&gt;sudo docker run --name hbbs -v ./data:/root -td -m 64M --restart=on-failure --net=host rustdesk/rustdesk-server hbbs -r &amp;lt;relay-server-ip[:port]&amp;gt; -k _&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-bash&#34;&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;sudo&lt;/span&gt; docker run --name hbbr -v ./data:/root -td -m 64M --restart=on-failure --net=host rustdesk/rustdesk-server hbbr -k _&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;客户端配置&#34;&gt;&lt;a href=&#34;#客户端配置&#34; class=&#34;headerlink&#34; title=&#34;客户端配置&#34;&gt;&lt;/a&gt;客户端配置&lt;/h1&gt;&lt;p&gt;在 RustDesk 客户端主主页中，单击 ID 旁边的菜单按钮 [ ⋮ ]，然后单击网络，您现在可以使用提升的权限解锁设置并设置您的 ID、中继、API 和密钥。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2023/c98db97a/network-config.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在&lt;strong&gt;ID Server&lt;/strong&gt;输入框中输入&lt;code&gt;hbbs&lt;/code&gt;的域名或IP地址。&lt;/p&gt;
+&lt;p&gt;另外两个地址可以留空，RustDesk会自动推导（如果没有专门设置），Relay Server指的是&lt;code&gt;hbbr&lt;/code&gt;（端口21117）。&lt;/p&gt;
+&lt;p&gt;Key的数值：Docker中可以在&lt;code&gt;data&lt;/code&gt;文件夹找到&lt;code&gt;id_ed25519.pub&lt;/code&gt;文件，此文件内容即为key。&lt;/p&gt;
+</content>
+        <category term="RustDesk" />
+        <updated>2023-12-16T10:23:05.000Z</updated>
+    </entry>
+</feed>

@@ -7,37 +7,42 @@
         <language>zh-CN</language>
         <pubDate>Wed, 14 Sep 2022 22:57:15 +0800</pubDate>
         <lastBuildDate>Wed, 14 Sep 2022 22:57:15 +0800</lastBuildDate>
-        <category>hp</category>
-        <category>chrome</category>
+        <category>autosar</category>
+        <category>aes</category>
         <category>embedded</category>
         <category>cc2530</category>
         <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
         <category>sscanf</category>
         <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
-        <category>hex</category>
-        <category>ssl</category>
-        <category>https</category>
-        <category>license</category>
         <category>md5</category>
+        <category>major</category>
         <category>markdown</category>
         <category>note</category>
         <category>osi</category>
+        <category>RustDesk</category>
         <category>iap</category>
         <category>bootloader</category>
         <category>stm32</category>
         <category>tags</category>
         <category>label</category>
         <category>category</category>
-        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
+        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
@@ -60,6 +65,11 @@
         <category>zsh</category>
         <category>shell</category>
         <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
         <category>kms</category>
         <category>office</category>
         <category>volume</category>
@@ -70,32 +80,14 @@
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>character encoding</category>
-        <category>gb2312</category>
-        <category>utf-8</category>
         <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
         <category>超声波</category>
         <category>github</category>
         <category>hosts</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>pid</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>life</category>
-        <category>人生</category>
-        <category>workflow</category>
-        <category>心理学</category>
+        <category>audio</category>
+        <category>video</category>
         <category>cad</category>
         <category>cat_drive</category>
         <category>switch</category>
@@ -104,45 +96,49 @@
         <category>hardware</category>
         <category>lenovo</category>
         <category>disk</category>
-        <category>摄影</category>
+        <category>pve</category>
+        <category>virtual</category>
         <category>software</category>
+        <category>摄影</category>
         <category>synology</category>
         <category>cmake</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
         <category>git</category>
         <category>j-link</category>
         <category>rtt</category>
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>flash</category>
         <category>j-tag</category>
-        <category>docker</category>
-        <category>dockerfile</category>
-        <category>namespace</category>
-        <category>cgroup</category>
-        <category>dockerhub</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
-        <category>ide</category>
-        <category>vscode</category>
+        <category>obsidian</category>
         <category>spacedesk</category>
         <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>wordpress</category>
         <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
-        <category>speedtest</category>
-        <category>tools</category>
-        <category>commenttranslate</category>
-        <category>wsl</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -150,6 +146,7 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
+        <category>v2ray</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -158,28 +155,48 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
         <category>cortex-a7</category>
         <category>cortex-m3</category>
         <category>rtx</category>
         <category>rtos</category>
         <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>pwm</category>
-        <category>ucos</category>
         <category>bluetooth</category>
         <category>蓝牙</category>
+        <category>pwm</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>alpha_mini</category>
-        <category>正点原子</category>
         <category>modbus</category>
         <category>linuxapp</category>
         <category>curl</category>
         <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
-        <category>rt-thread</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/45a589a3/</guid>
             <title>MD5</title>
@@ -214,11 +231,11 @@
 &lt;p&gt;&lt;img src=&#34;/2022/45a589a3/350px-CPT-Hashing-File-Transmission.png&#34; alt=&#34;350px-CPT-Hashing-File-Transmission.svg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;由于很容易产生 MD5 冲突，因此创建文件的人可能会创建具有相同校验和的第二个文件，因此该技术无法防止某些形式的恶意篡改。&lt;/p&gt;
 &lt;p&gt;在某些情况下，校验和是不可信的（例如，如果它是通过与下载文件相同的渠道获得的，他人可能修改了文件后再次修改了MD5，使得MD5并不可信），在这种情况下，MD5 只能提供错误检查功能：“它会识别损坏或不完整的下载，这变成下载较大文件时更有可能。”&lt;/p&gt;
-&lt;h1 id=&#34;破解&#34;&gt;&lt;a href=&#34;#破解&#34; class=&#34;headerlink&#34; title=&#34;破解&#34;&gt;&lt;/a&gt;破解&lt;/h1&gt;&lt;h2 id=&#34;穷举法-amp-字典法&#34;&gt;&lt;a href=&#34;#穷举法-amp-字典法&#34; class=&#34;headerlink&#34; title=&#34;穷举法&amp;amp;字典法&#34;&gt;&lt;/a&gt;穷举法&amp;amp;字典法&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;穷举法非常简单，就是不停地尝试各种字符的排列组合，看哪一个组合的MD5码能对上。&lt;/strong&gt;可惜缺点是太耗费时间了。我们举个栗子，假设我们要破解一个6位大小写字母和数字混合的密码，那么一共有(26+26+10)&lt;sup&gt;6&lt;/sup&gt; 种组合。这个数的大小超过500亿。&lt;/p&gt;
+&lt;h1 id=&#34;破解&#34;&gt;&lt;a href=&#34;#破解&#34; class=&#34;headerlink&#34; title=&#34;破解&#34;&gt;&lt;/a&gt;破解&lt;/h1&gt;&lt;h2 id=&#34;穷举法-字典法&#34;&gt;&lt;a href=&#34;#穷举法-字典法&#34; class=&#34;headerlink&#34; title=&#34;穷举法&amp;amp;字典法&#34;&gt;&lt;/a&gt;穷举法&amp;amp;字典法&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;穷举法非常简单，就是不停地尝试各种字符的排列组合，看哪一个组合的MD5码能对上。&lt;/strong&gt;可惜缺点是太耗费时间了。我们举个栗子，假设我们要破解一个6位大小写字母和数字混合的密码，那么一共有(26+26+10)&lt;sup&gt;6&lt;/sup&gt; 种组合。这个数的大小超过500亿。&lt;/p&gt;
 &lt;p&gt;既然计算如此费时，能不能考虑&lt;strong&gt;把计算结果以映射表的形式存放起来，一个萝卜一个坑&lt;/strong&gt;，一个原文对应着一个MD5码呢？可以呀！这就是传说中的“字典法”。将已知的MD5码查表，直接反查出原文。&lt;strong&gt;字典法体现了算法设计的“以空间换时间”的思想。&lt;/strong&gt;缺点是比较耗费空间。不过现在硬盘的价格变得白菜价了，空间开销不算什么。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cmd5.com/password.aspx&#34;&gt;CMD5 反查网站&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.somd5.com/&#34;&gt;SMD5 反查网站&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;哈希链表-amp-彩虹表法&#34;&gt;&lt;a href=&#34;#哈希链表-amp-彩虹表法&#34; class=&#34;headerlink&#34; title=&#34;哈希链表&amp;amp;彩虹表法&#34;&gt;&lt;/a&gt;哈希链表&amp;amp;彩虹表法&lt;/h2&gt;&lt;blockquote&gt;
+&lt;h2 id=&#34;哈希链表-彩虹表法&#34;&gt;&lt;a href=&#34;#哈希链表-彩虹表法&#34; class=&#34;headerlink&#34; title=&#34;哈希链表&amp;amp;彩虹表法&#34;&gt;&lt;/a&gt;哈希链表&amp;amp;彩虹表法&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;  如果说穷举法太耗费时间，字典法太耗费存储空间的话，我们能不能考虑在时间消耗和空间消耗之间折中呢？我们可以考虑用链表将一系列有意义的原文和MD5码串起来。&lt;/p&gt;
 &lt;p&gt;  要构造这样的链表，我们需要两个函数：哈希函数H(x)和衰减函数（reduction function）R(x)。哈希函数可以是MD5，也可以是其他的消息摘要算法。H(x)的值域是R(x)的定义域，R(x)的值域是H(x)的定义域。&lt;strong&gt;R(x)不是H(x)的反函数。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;  将一个原文不停地使用H(x)和R(x)交替进行运算k次，再将原文本身和运算结果以链表的形式串接起来，就可以得到结点个数为2k+1的链表。实际存放的时候只存放首端和末端两个原文即可。&lt;strong&gt;这种链表叫做“哈希链表”，体现了算法设计的“时空权衡”（Space and Time Tradeoffs）。&lt;/strong&gt;&lt;/p&gt;

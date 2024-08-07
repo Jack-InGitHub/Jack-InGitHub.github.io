@@ -1,0 +1,1385 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;html&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 26 Feb 2024 08:08:08 +0800</pubDate>
+        <lastBuildDate>Mon, 26 Feb 2024 08:08:08 +0800</lastBuildDate>
+        <category>autosar</category>
+        <category>aes</category>
+        <category>embedded</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>sscanf</category>
+        <category>c/c++</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>license</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>md5</category>
+        <category>major</category>
+        <category>markdown</category>
+        <category>note</category>
+        <category>osi</category>
+        <category>RustDesk</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>typora</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>windows</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>words</category>
+        <category>cortexm3</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>机智云</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>ct117e-ex</category>
+        <category>apk</category>
+        <category>java</category>
+        <category>超声波</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>audio</category>
+        <category>video</category>
+        <category>cad</category>
+        <category>cat_drive</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>pve</category>
+        <category>virtual</category>
+        <category>software</category>
+        <category>摄影</category>
+        <category>synology</category>
+        <category>cmake</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>j-tag</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>obsidian</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>ide</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>wordpress</category>
+        <category>web</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>v2ray</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>usb</category>
+        <category>c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>cmd</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>pid</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>cortex-a7</category>
+        <category>cortex-m3</category>
+        <category>rtx</category>
+        <category>rtos</category>
+        <category>keil</category>
+        <category>rt-thread</category>
+        <category>ucos</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>pwm</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>modbus</category>
+        <category>linuxapp</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>zlib</category>
+        <category>minizip</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2024/ee69e452/</guid>
+            <title>CSS</title>
+            <link>https://www.oikiou.top/2024/ee69e452/</link>
+            <category>web</category>
+            <category>html</category>
+            <category>js</category>
+            <pubDate>Mon, 26 Feb 2024 08:08:08 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;JS-JavaScript&#34;&gt;&lt;a href=&#34;#JS-JavaScript&#34; class=&#34;headerlink&#34; title=&#34;JS (JavaScript)&#34;&gt;&lt;/a&gt;JS (JavaScript)&lt;/h1&gt;&lt;h1 id=&#34;JS-简介&#34;&gt;&lt;a href=&#34;#JS-简介&#34; class=&#34;headerlink&#34; title=&#34;JS 简介&#34;&gt;&lt;/a&gt;JS 简介&lt;/h1&gt;&lt;p&gt;JavaScript 是 web 开发人员必须学习的 3 门语言中的一门：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; 定义了网页的内容&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CSS&lt;/strong&gt; 描述了网页的布局&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt; 控制了网页的行为&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;JS-特性&#34;&gt;&lt;a href=&#34;#JS-特性&#34; class=&#34;headerlink&#34; title=&#34;JS 特性&#34;&gt;&lt;/a&gt;JS 特性&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;JavaScript 是脚本语言&lt;/li&gt;
+&lt;li&gt;JavaScript 是互联网上最流行的脚本语言，这门语言可用于 HTML 和 web，更可广泛用于服务器、PC、笔记本电脑、平板电脑和智能手机等设备。&lt;/li&gt;
+&lt;li&gt;JavaScript 是一种轻量级的编程语言。&lt;/li&gt;
+&lt;li&gt;JavaScript 是可插入 HTML 页面的编程代码。&lt;/li&gt;
+&lt;li&gt;JavaScript 插入 HTML 页面后，可由所有的现代浏览器执行。&lt;/li&gt;
+&lt;li&gt;JavaScript 很容易学习。&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2024/ee69e452/</guid>
+            <title>CSS</title>
+            <link>https://www.oikiou.top/2024/ee69e452/</link>
+            <category>web</category>
+            <category>css</category>
+            <category>html</category>
+            <pubDate>Wed, 21 Feb 2024 08:08:08 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;CSS-Cascading-Style-Sheets&#34;&gt;&lt;a href=&#34;#CSS-Cascading-Style-Sheets&#34; class=&#34;headerlink&#34; title=&#34;CSS (Cascading Style Sheets)&#34;&gt;&lt;/a&gt;CSS (Cascading Style Sheets)&lt;/h1&gt; ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2024/2eec1551/</guid>
+            <title>HTML</title>
+            <link>https://www.oikiou.top/2024/2eec1551/</link>
+            <category>html</category>
+            <pubDate>Wed, 21 Feb 2024 08:08:08 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;HTML&#34;&gt;&lt;a href=&#34;#HTML&#34; class=&#34;headerlink&#34; title=&#34;HTML&#34;&gt;&lt;/a&gt;HTML&lt;/h1&gt;&lt;h1 id=&#34;HTML-概述&#34;&gt;&lt;a href=&#34;#HTML-概述&#34; class=&#34;headerlink&#34; title=&#34;HTML 概述&#34;&gt;&lt;/a&gt;HTML 概述&lt;/h1&gt;&lt;h2 id=&#34;HTML-是什么&#34;&gt;&lt;a href=&#34;#HTML-是什么&#34; class=&#34;headerlink&#34; title=&#34;HTML 是什么&#34;&gt;&lt;/a&gt;HTML 是什么&lt;/h2&gt;&lt;p&gt;HTML 是用来描述网页的一种语言。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML 指的是超文本标记语言: &lt;strong&gt;H&lt;/strong&gt;yper&lt;strong&gt;T&lt;/strong&gt;ext &lt;strong&gt;M&lt;/strong&gt;arkup &lt;strong&gt;L&lt;/strong&gt;anguage&lt;/li&gt;
+&lt;li&gt;HTML 不是一种编程语言，而是一种&lt;strong&gt;标记&lt;/strong&gt;语言&lt;/li&gt;
+&lt;li&gt;标记语言是一套&lt;strong&gt;标记标签&lt;/strong&gt; (markup tag)&lt;/li&gt;
+&lt;li&gt;HTML 使用标记标签来&lt;strong&gt;描述&lt;/strong&gt;网页&lt;/li&gt;
+&lt;li&gt;HTML 文档包含了HTML &lt;strong&gt;标签&lt;/strong&gt;及&lt;strong&gt;文本&lt;/strong&gt;内容&lt;/li&gt;
+&lt;li&gt;HTML文档也叫做 &lt;strong&gt;web 页面&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;HTML-标签&#34;&gt;&lt;a href=&#34;#HTML-标签&#34; class=&#34;headerlink&#34; title=&#34;HTML 标签&#34;&gt;&lt;/a&gt;HTML 标签&lt;/h2&gt;&lt;p&gt;HTML 标记标签通常被称为 HTML 标签 (HTML tag)。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML 标签是由 &lt;em&gt;尖括号&lt;/em&gt; 包围的关键词，比如 &lt;code&gt;&amp;lt;html&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;HTML 标签通常是 &lt;em&gt;成对出现&lt;/em&gt; 的，比如&lt;code&gt; &amp;lt;b&amp;gt; &lt;/code&gt;和 &lt;code&gt;&amp;lt;/b&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;标签对中的第一个标签是 &lt;em&gt;开始标签&lt;/em&gt; ，第二个标签是 &lt;em&gt;结束标签&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;开始和结束标签也被称为 &lt;em&gt;开放标签&lt;/em&gt; 和 &lt;em&gt;闭合标签&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;HTML-页面结构&#34;&gt;&lt;a href=&#34;#HTML-页面结构&#34; class=&#34;headerlink&#34; title=&#34;HTML 页面结构&#34;&gt;&lt;/a&gt;HTML 页面结构&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;/2024/2eec1551/02A7DD95-22B4-4FB9-B994-DDB5393F7F03.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  只有 &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; 区域 才会在浏览器中显示。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;声明&#34;&gt;&lt;a href=&#34;#声明&#34; class=&#34;headerlink&#34; title=&#34;&amp;lt;!DOCTYPE&amp;gt; 声明&#34;&gt;&lt;/a&gt;&amp;lt;!DOCTYPE&amp;gt; 声明&lt;/h3&gt;&lt;p&gt;&lt;code&gt;&amp;lt;!DOCTYPE&amp;gt;&lt;/code&gt;声明用于标识网页文件，&lt;code&gt;&amp;lt;!DOCTYPE&amp;gt;&lt;/code&gt; 是文档类型声明（Document Type Declaration）的缩写。&lt;/p&gt;
+&lt;p&gt;网络上有很多不同的文件，如果能够正确声明HTML的版本，浏览器就能正确显示网页内容。&lt;/p&gt;
+&lt;p&gt;doctype 声明是不区分大小写的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HTML5&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;lt;!DOCTYPE &lt;span class=&#34;hljs-keyword&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;HTML 4.01&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;lt;!DOCTYPE &lt;span class=&#34;hljs-keyword&#34;&gt;HTML&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;PUBLIC&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;-//W3C//DTD HTML 4.01 Transitional//EN&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;http://www.w3.org/TR/html4/loose.dtd&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;XHTML 1.0&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&amp;lt;!DOCTYPE &lt;span class=&#34;hljs-keyword&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;PUBLIC&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;charset-编码格式&#34;&gt;&lt;a href=&#34;#charset-编码格式&#34; class=&#34;headerlink&#34; title=&#34;charset 编码格式&#34;&gt;&lt;/a&gt;charset 编码格式&lt;/h3&gt;&lt;p&gt;指定html文件的编码格式 UTF-8 或 GBK …&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;charset&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;UTF-8&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;HTML-元素&#34;&gt;&lt;a href=&#34;#HTML-元素&#34; class=&#34;headerlink&#34; title=&#34;HTML 元素&#34;&gt;&lt;/a&gt;HTML 元素&lt;/h1&gt;&lt;h2 id=&#34;HTML元素的语法&#34;&gt;&lt;a href=&#34;#HTML元素的语法&#34; class=&#34;headerlink&#34; title=&#34;HTML元素的语法&#34;&gt;&lt;/a&gt;HTML元素的语法&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;开始标签 *&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;元素内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;结束标签 *&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;这是一个段落&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;a href=&amp;quot;default.htm&amp;quot;&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;这是一个链接&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;br&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;换行&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;**&lt;em&gt;&lt;strong&gt;开始标签常被称为&lt;/strong&gt;起始标签（opening tag）&lt;/em&gt;*&lt;/p&gt;
+&lt;p&gt;**&lt;em&gt;&lt;strong&gt;结束标签常称为&lt;/strong&gt;闭合标签（closing tag）&lt;/em&gt;*&lt;/p&gt;
+&lt;h2 id=&#34;HTML元素的特性&#34;&gt;&lt;a href=&#34;#HTML元素的特性&#34; class=&#34;headerlink&#34; title=&#34;HTML元素的特性&#34;&gt;&lt;/a&gt;HTML元素的特性&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;HTML 元素以&lt;strong&gt;开始标签&lt;/strong&gt;起始&lt;/li&gt;
+&lt;li&gt;HTML 元素以&lt;strong&gt;结束标签&lt;/strong&gt;终止&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;元素的内容&lt;/strong&gt;是开始标签与结束标签之间的内容&lt;/li&gt;
+&lt;li&gt;某些 HTML 元素具有&lt;strong&gt;空内容（empty content）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;空元素&lt;strong&gt;在开始标签中进行关闭&lt;/strong&gt;（以开始标签的结束而结束）&lt;/li&gt;
+&lt;li&gt;大多数 HTML 元素可拥有&lt;strong&gt;属性&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;不要忘记结束标签！&lt;/li&gt;
+&lt;li&gt;在 XHTML、XML 以及未来版本的 HTML 中，所有元素都必须被关闭。&lt;/li&gt;
+&lt;li&gt;HTML 标签对大小写不敏感：&lt;code&gt;&amp;lt;P&amp;gt;&lt;/code&gt; 等同于 &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt;。万维网联盟（W3C）在 HTML 4 中&lt;strong&gt;推荐使用小写&lt;/strong&gt;，而在未来 HTML 版本中会强制使用小写。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;示例&#34;&gt;&lt;a href=&#34;#示例&#34; class=&#34;headerlink&#34; title=&#34;示例&#34;&gt;&lt;/a&gt;示例&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h1&lt;/span&gt;&amp;gt;&lt;/span&gt;这是一个标题&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h1&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h1 id=&#34;HTML-标签-1&#34;&gt;&lt;a href=&#34;#HTML-标签-1&#34; class=&#34;headerlink&#34; title=&#34;HTML 标签&#34;&gt;&lt;/a&gt;HTML 标签&lt;/h1&gt;&lt;p&gt;每个元素都有一个标签&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h1&lt;/span&gt;&amp;gt;&lt;/span&gt;这是一个标题&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h1&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;段落&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;这是一个段落。&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;链接&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://www.oikiou.net&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;这是一个链接&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;图像&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;/images/logo.png&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;width&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;258&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;height&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;39&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;注释&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- 这是一个注释 --&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;标签-List&#34;&gt;&lt;a href=&#34;#标签-List&#34; class=&#34;headerlink&#34; title=&#34;标签 List&#34;&gt;&lt;/a&gt;标签 List&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;标签&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;基础&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;!DOCTYPE&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义文档类型。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;html&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个 HTML 文档&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;为文档定义一个标题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义文档的主体&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;h1&amp;gt; to &amp;lt;h6&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义 HTML 标题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个段落&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;br&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义简单的折行。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;hr&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义水平线。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;!--...--&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个注释&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;格式&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;acronym&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML5不再支持。 定义只取首字母的缩写。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个缩写。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;address&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义文档作者或拥有者的联系信息。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;b&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义粗体文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;bdi&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;允许您设置一段文本，使其脱离其父元素的文本方向设置。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;bdo&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义文本的方向。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;big&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML5不再支持。 定义大号文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;blockquote&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义块引用。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;center&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML5不再支持。 HTML 4.01 已废弃。定义居中文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义引用(citation)。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义计算机代码文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义被删除文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;dfn&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义定义项目。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义强调文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;font&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML5不再支持。 HTML 4.01 已废弃。 定义文本的字体、尺寸和颜色&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;i&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义斜体文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义被插入文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;kbd&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义键盘文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;mark&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义带有记号的文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;meter&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义度量衡。仅用于已知最大和最小值的度量。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;pre&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义预格式文本&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;progress&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义运行中的任务进度（进程）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;q&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义短的引用。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;rp&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义不支持 ruby 元素的浏览器所显示的内容。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;rt&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义字符（中文注音或字符）的解释或发音。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;ruby&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义 ruby 注释（中文注音或字符）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;s&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义加删除线的文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;samp&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义计算机代码样本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;small&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义小号文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;strike&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML5不再支持。 HTML 4.01 已废弃。 定义加删除线的文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义语气更为强烈的强调文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义下标文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义上标文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;time&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个日期&amp;#x2F;时间&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;tt&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML5不再支持。 定义打字机文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;u&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义下划线文本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;☆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;var&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义文本的变量部分。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;wbr&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;规定在文本中的何处适合添加换行符。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;表单&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;form&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个 HTML 表单，用于用户输入。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;input&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个输入控件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;textarea&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义多行的文本输入控件。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;button&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义按钮。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;select&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义选择列表（下拉列表）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;optgroup&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义选择列表中相关选项的组合。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;option&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义选择列表中的选项。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;label&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义 input 元素的标注。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;fieldset&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义围绕表单中元素的边框。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;legend&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义 fieldset 元素的标题。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;datalist&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;规定了 input 元素可能的选项列表。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;keygen&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;规定用于表单的密钥对生成器字段。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;output&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个计算的结果&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;框架&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;frame&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML5不再支持。 定义框架集的窗口或框架。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;frameset&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML5不再支持。定义框架集。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;noframes&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML5不再支持。 定义针对不支持框架的用户的替代内容。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;iframe&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义内联框架。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;图像&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义图像。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;map&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义图像映射。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;area&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义图像地图内部的区域。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;通过脚本（通常是 JavaScript）来绘制图形（比如图表和其他图像）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;figcaption&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个 caption for a &lt;figure&gt; element&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;figure&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;figure 标签用于对元素进行组合。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Audio&amp;#x2F;Video&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;audio&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义声音，比如音乐或其他音频流。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;source&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义media元素 (&lt;video&gt; 和 &lt;audio&gt;)的媒体资源。media&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;track&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;为媒体(&lt;video&gt; 和 &lt;audio&gt;)元素定义外部文本轨道。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;video&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个音频或者视频&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;链接&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个链接&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;link&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义文档与外部资源的关系。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;main&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义文档的主体部分。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;nav&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义导航链接&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;列表&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;ul&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个无序列表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;ol&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个有序列表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;li&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个列表项&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;dir&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML5不再支持。 HTML 4.01 已废弃。 定义目录列表。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;dl&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个定义列表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;dt&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个定义定义列表中的项目。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;dd&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义定义列表中项目的描述。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;menu&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义菜单列表。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;command&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义用户可能调用的命令（比如单选按钮、复选框或按钮）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;表格&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;table&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个表格&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;caption&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义表格标题。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;th&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义表格中的表头单元格。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;tr&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义表格中的行。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;td&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义表格中的单元。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;thead&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义表格中的表头内容。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;tbody&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义表格中的主体内容。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;tfoot&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义表格中的表注内容（脚注）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;col&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义表格中一个或多个列的属性值。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;colgroup&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义表格中供格式化的列组。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;样式&amp;#x2F;节&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;style&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义文档的样式信息。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义文档中的节。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义文档中的节。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;header&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个文档头部部分&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;footer&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个文档底部&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;section&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了文档的某个区域&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;article&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个文章内容&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;aside&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义其所处内容之外的内容。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;details&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了用户可见的或者隐藏的需求的补充细节。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;dialog&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个对话框或者窗口&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;summary&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个可见的标题。 当用户点击标题时会显示出详细信息。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;元信息&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义关于文档的信息&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;meta&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义关于 HTML 文档的元信息。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;base&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义页面中所有链接的默认地址或默认目标。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;basefont&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML5不再支持。 HTML 4.01 已废弃。 定义页面中文本的默认字体、颜色或尺寸。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;程序&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义客户端脚本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;noscript&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义针对不支持客户端脚本的用户的替代内容。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;applet&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML5不再支持。 HTML 4.01 已废弃。 定义嵌入的 applet。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;embed&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了一个容器，用来嵌入外部应用或者互动程序（插件）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;object&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义嵌入的对象。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;&amp;lt;param&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义对象的参数。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;HTML-属性&#34;&gt;&lt;a href=&#34;#HTML-属性&#34; class=&#34;headerlink&#34; title=&#34;HTML 属性&#34;&gt;&lt;/a&gt;HTML 属性&lt;/h1&gt;&lt;h2 id=&#34;HTML属性-的特征&#34;&gt;&lt;a href=&#34;#HTML属性-的特征&#34; class=&#34;headerlink&#34; title=&#34;HTML属性 的特征&#34;&gt;&lt;/a&gt;HTML属性 的特征&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;HTML 元素可以设置&lt;strong&gt;属性&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;属性可以在元素中添加&lt;strong&gt;附加信息&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;属性一般描述于&lt;strong&gt;开始标签&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;属性总是以名称&amp;#x2F;值对的形式出现，**比如：name&amp;#x3D;”value”**。&lt;/li&gt;
+&lt;li&gt;属性值应该始终被包括在&lt;strong&gt;引号内&lt;/strong&gt;。&lt;ul&gt;
+&lt;li&gt;双引号是最常用的，在某些个别的情况下，比如属性值本身就含有双引号，那么您必须使用单引号。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;示例-1&#34;&gt;&lt;a href=&#34;#示例-1&#34; class=&#34;headerlink&#34; title=&#34;示例&#34;&gt;&lt;/a&gt;示例&lt;/h2&gt;&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- href=&amp;quot;http://www.baidu.com&amp;quot; 就是 HTML属性 --&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;http://www.baidu.com&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt; Baidu &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;参考List&#34;&gt;&lt;a href=&#34;#参考List&#34; class=&#34;headerlink&#34; title=&#34;参考List&#34;&gt;&lt;/a&gt;参考List&lt;/h2&gt;&lt;h3 id=&#34;HTML-全局属性&#34;&gt;&lt;a href=&#34;#HTML-全局属性&#34; class=&#34;headerlink&#34; title=&#34;HTML 全局属性&#34;&gt;&lt;/a&gt;HTML 全局属性&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;属性&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;accesskey&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;设置访问元素的键盘快捷键。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;class&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;规定元素的类名（classname）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;contenteditable&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;规定是否可编辑元素的内容。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;contextmenu&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;指定一个元素的上下文菜单。当用户右击该元素，出现上下文菜单&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;data-*&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;用于存储页面的自定义数据&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;dir&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;设置元素中内容的文本方向。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;draggable&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;指定某个元素是否可以拖动&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;dropzone&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;指定是否将数据复制，移动，或链接，或删除&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;hidden&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;hidden 属性规定对元素进行隐藏。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;id&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;规定元素的唯一 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;lang&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;设置元素中内容的语言代码。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;spellcheck&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;检测元素是否拼写错误&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;style&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;规定元素的行内样式（inline style）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;tabindex&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;设置元素的 Tab 键控制次序。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;title&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;规定元素的额外信息（可在工具提示中显示）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;translate&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;指定是否一个元素的值在页面载入时是否需要翻译&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;HTML-示例&#34;&gt;&lt;a href=&#34;#HTML-示例&#34; class=&#34;headerlink&#34; title=&#34;HTML 示例&#34;&gt;&lt;/a&gt;HTML 示例&lt;/h1&gt;&lt;h2 id=&#34;文本格式化&#34;&gt;&lt;a href=&#34;#文本格式化&#34; class=&#34;headerlink&#34; title=&#34;文本格式化&#34;&gt;&lt;/a&gt;文本格式化&lt;/h2&gt;&lt;p&gt;HTML 使用标签 &lt;code&gt;&amp;lt;b&amp;gt;&lt;/code&gt;(“bold”) 与 &lt;code&gt;&amp;lt;i&amp;gt;&lt;/code&gt;(“italic”) 对输出的文本进行格式, 如：&lt;b&gt;粗体&lt;/b&gt; or &lt;i&gt;斜体&lt;/i&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  通常标签 &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt; 替换加粗标签 &lt;code&gt;&amp;lt;b&amp;gt;&lt;/code&gt; 来使用, &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt; 替换 &lt;code&gt;&amp;lt;i&amp;gt;&lt;/code&gt;标签使用。&lt;/p&gt;
+&lt;p&gt;  然而，这些标签的含义是不同的：&lt;/p&gt;
+&lt;p&gt;  &lt;code&gt;&amp;lt;b&amp;gt;&lt;/code&gt; 与&lt;code&gt;&amp;lt;i&amp;gt;&lt;/code&gt; 定义粗体或斜体文本。&lt;/p&gt;
+&lt;p&gt;  &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt; 或者 &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;意味着你要呈现的文本是重要的，所以要突出显示。（重要文本的呈现方式有很多种，不仅仅只有加粗一种）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;链接-a&#34;&gt;&lt;a href=&#34;#链接-a&#34; class=&#34;headerlink&#34; title=&#34;链接 a&#34;&gt;&lt;/a&gt;链接 a&lt;/h2&gt;&lt;p&gt;HTML使用标签 &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; 来设置超文本链接。&lt;/p&gt;
+&lt;p&gt;超链接可以是&lt;u&gt;一个字，一个词，或者一组词，也可以是一幅图像&lt;/u&gt;，您可以点击这些内容来跳转到新的文档或者当前文档中的某个部分。（&lt;strong&gt;文本链接、图像链接、锚点链接、下载链接&lt;/strong&gt;）&lt;/p&gt;
+&lt;p&gt;在标签 &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; 中使用了 &lt;strong&gt;href&lt;/strong&gt; 属性来描述链接的地址。&lt;/p&gt;
+&lt;p&gt;以下是 HTML 中创建链接的基本语法和属性：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; 元素：创建链接的主要HTML元素是&lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;（锚）元素。&lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;元素具有以下属性：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;href&lt;/code&gt;：指定链接目标的URL，这是链接的最重要属性。可以是另一个网页的URL、文件的URL或其他资源的URL。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;target&lt;/code&gt;（可选）：指定链接如何在浏览器中打开。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;_blank&lt;/code&gt;（在新标签或窗口中打开链接）&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;_self&lt;/code&gt; 在单击的同一框架中打开链接文档（在当前标签或窗口中打开链接）。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;_top&lt;/code&gt; 在整个窗口中打开链接文档&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;title&lt;/code&gt;（可选）：提供链接的额外信息，通常在鼠标悬停在链接上时显示为工具提示。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;rel&lt;/code&gt;（可选）：指定与链接目标的关系，如 nofollow、noopener 等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;示例-2&#34;&gt;&lt;a href=&#34;#示例-2&#34; class=&#34;headerlink&#34; title=&#34;示例&#34;&gt;&lt;/a&gt;示例&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;文本链接：&lt;/strong&gt;最常见的链接类型是文本链接，它使用 &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; 元素将一段文本转化为可点击的链接，例如：&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://www.example.com&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;访问示例网站&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;图像链接：&lt;/strong&gt;您还可以使用图像作为链接。在这种情况下，&lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; 元素包围着 &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt; 元素。例如：&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://www.example.com&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;example.jpg&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;alt&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;示例图片&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;锚点链接：&lt;/strong&gt;除了链接到其他网页外，您还可以在同一页面内创建内部链接，这称为锚点链接。要创建锚点链接，需要在目标位置使用 &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; 元素定义一个标记，并使用&lt;code&gt;#&lt;/code&gt;符号引用该标记。例如：&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;#section2&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;跳转到第二部分&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- 在页面中的某个位置 --&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;section2&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;#C4&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;查看章节 4&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h2&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;C4&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;章节 4&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h2&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;这边显示该章节的内容……&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;下载链接：&lt;/strong&gt;如果您希望链接用于下载文件而不是导航到另一个网页，可以使用 download 属性。例如：&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;document.pdf&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;download&lt;/span&gt;&amp;gt;&lt;/span&gt;下载文档&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;邮件链接&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;mailto:someone@example.com?cc=someoneelse@example.com&amp;amp;bcc=andsomeoneelse@example.com&amp;amp;subject=Summer%20Party&amp;amp;body=You%20are%20invited%20to%20a%20big%20summer%20party!&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;target&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;_top&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;发送邮件!&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;mailto: 收件人 &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;br&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;cc= 抄送 &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;br&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;bcc= 密送 &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;br&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;subject= 标题 &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;br&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;body= 正文 &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;br&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;b&lt;/span&gt;&amp;gt;&lt;/span&gt;注意:&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;b&lt;/span&gt;&amp;gt;&lt;/span&gt; 单词之间的空格使用 %20 代替，以确保浏览器可以正常显示文本。&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;头部-head&#34;&gt;&lt;a href=&#34;#头部-head&#34; class=&#34;headerlink&#34; title=&#34;头部 head&#34;&gt;&lt;/a&gt;头部 head&lt;/h2&gt;&lt;p&gt;&lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; 元素包含了所有的头部标签元素。在 &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt;元素中你可以插入脚本（scripts）, 样式文件（CSS），及各种meta信息。&lt;/p&gt;
+&lt;p&gt;可以添加在头部区域的元素标签为: &lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;style&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;meta&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;link&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;noscript&amp;gt;&lt;/code&gt; 和 &lt;code&gt;&amp;lt;base&amp;gt;&lt;/code&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;元素&#34;&gt;&lt;a href=&#34;#元素&#34; class=&#34;headerlink&#34; title=&#34;&amp;lt;title&amp;gt; 元素&#34;&gt;&lt;/a&gt;&lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt; 元素&lt;/h3&gt;&lt;p&gt;&lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt; 标签定义了不同文档的标题。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt; 在 HTML&amp;#x2F;XHTML 文档中是必需的。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt; 元素:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;定义了浏览器工具栏的标题&lt;/li&gt;
+&lt;li&gt;当网页添加到收藏夹时，显示在收藏夹中的标题&lt;/li&gt;
+&lt;li&gt;显示在搜索引擎结果页面的标题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;元素-1&#34;&gt;&lt;a href=&#34;#元素-1&#34; class=&#34;headerlink&#34; title=&#34;&amp;lt;base&amp;gt; 元素&#34;&gt;&lt;/a&gt;&lt;code&gt;&amp;lt;base&amp;gt;&lt;/code&gt; 元素&lt;/h3&gt;&lt;p&gt;&lt;code&gt;&amp;lt;base&amp;gt;&lt;/code&gt; 标签描述了基本的链接地址&amp;#x2F;链接目标，该标签作为HTML文档中所有的链接标签的默认链接:&lt;/p&gt;
+&lt;h3 id=&#34;元素-2&#34;&gt;&lt;a href=&#34;#元素-2&#34; class=&#34;headerlink&#34; title=&#34;&amp;lt;link&amp;gt; 元素&#34;&gt;&lt;/a&gt;&lt;code&gt;&amp;lt;link&amp;gt;&lt;/code&gt; 元素&lt;/h3&gt;&lt;p&gt;&lt;code&gt;&amp;lt;link&amp;gt;&lt;/code&gt; 标签定义了文档与外部资源之间的关系。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;link&amp;gt;&lt;/code&gt; 标签通常用于链接到样式表&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- 定义head处的图标 --&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;link&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;icon&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;logo.ico&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- 使用外部样式表 --&amp;gt;&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;link&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;type&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;text/css&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;mystyle.css&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;元素-3&#34;&gt;&lt;a href=&#34;#元素-3&#34; class=&#34;headerlink&#34; title=&#34;&amp;lt;style&amp;gt; 元素&#34;&gt;&lt;/a&gt;&lt;code&gt;&amp;lt;style&amp;gt;&lt;/code&gt; 元素&lt;/h3&gt;&lt;p&gt;&lt;code&gt;&amp;lt;style&amp;gt;&lt;/code&gt; 标签定义了HTML文档的样式文件引用地址.&lt;/p&gt;
+&lt;p&gt;在&lt;code&gt;&amp;lt;style&amp;gt;&lt;/code&gt; 元素中你也可以直接添加样式来渲染 HTML 文档:&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- 将背景设置成黄色，段落设置成蓝色 --&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;style&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;type&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;text/css&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;language-css&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-css&#34;&gt;        &lt;span class=&#34;hljs-selector-tag&#34;&gt;body&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-css&#34;&gt;            &lt;span class=&#34;hljs-attribute&#34;&gt;background-color&lt;/span&gt;:yellow;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-css&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-css&#34;&gt;        &lt;span class=&#34;hljs-selector-tag&#34;&gt;p&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-css&#34;&gt;            &lt;span class=&#34;hljs-attribute&#34;&gt;color&lt;/span&gt;:blue&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-css&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;language-css&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;style&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;元素-4&#34;&gt;&lt;a href=&#34;#元素-4&#34; class=&#34;headerlink&#34; title=&#34;&amp;lt;meta&amp;gt; 元素&#34;&gt;&lt;/a&gt;&lt;code&gt;&amp;lt;meta&amp;gt;&lt;/code&gt; 元素&lt;/h3&gt;&lt;p&gt;meta标签描述了一些基本的元数据。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;meta&amp;gt;&lt;/code&gt; 标签提供了元数据.元数据也不显示在页面上，但会被浏览器解析。&lt;/p&gt;
+&lt;p&gt;META 元素通常用于指定网页的描述，关键词，文件的最后修改时间，作者，和其他元数据。&lt;/p&gt;
+&lt;p&gt;元数据可以使用于浏览器（如何显示内容或重新加载页面），搜索引擎（关键词），或其他Web服务。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;meta&amp;gt;&lt;/code&gt; 一般放置于 &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; 区域&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;keywords&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;content&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;HTML, CSS, XML, XHTML, JavaScript&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;description&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;content&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;免费 Web &amp;amp; 编程 教程&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;author&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;content&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Runoob&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;http-equiv&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;refresh&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;content&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;30&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;元素-5&#34;&gt;&lt;a href=&#34;#元素-5&#34; class=&#34;headerlink&#34; title=&#34;&amp;lt;script&amp;gt; 元素&#34;&gt;&lt;/a&gt;&lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; 元素&lt;/h3&gt;&lt;p&gt;&lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt;标签用于加载脚本文件，如： JavaScript。&lt;/p&gt;
+&lt;h3 id=&#34;头部-head-元素&#34;&gt;&lt;a href=&#34;#头部-head-元素&#34; class=&#34;headerlink&#34; title=&#34;头部 head 元素&#34;&gt;&lt;/a&gt;头部 head 元素&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;标签&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;head&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了文档的信息&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;title&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了文档的标题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;base&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了页面链接标签的默认链接地址&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;link&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了一个文档和外部资源之间的关系&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;meta&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了HTML文档中的元数据&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;script&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了客户端的脚本文件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;style&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了HTML文档的样式文件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;CSS&#34;&gt;&lt;a href=&#34;#CSS&#34; class=&#34;headerlink&#34; title=&#34;CSS&#34;&gt;&lt;/a&gt;CSS&lt;/h2&gt;&lt;p&gt;…&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs css&#34;&gt;背景色&lt;br&gt;style=&amp;quot;&lt;span class=&#34;hljs-attribute&#34;&gt;background-color&lt;/span&gt;:green;&amp;quot;&lt;br&gt;字体 字体颜色 字体大小&lt;br&gt;style=&amp;quot;&lt;span class=&#34;hljs-attribute&#34;&gt;font-family&lt;/span&gt;:arial;&lt;span class=&#34;hljs-attribute&#34;&gt;color&lt;/span&gt;:red;&lt;span class=&#34;hljs-attribute&#34;&gt;font-size&lt;/span&gt;:&lt;span class=&#34;hljs-number&#34;&gt;20px&lt;/span&gt;;&amp;quot;&lt;br&gt;居中对齐&lt;br&gt;style=&amp;quot;&lt;span class=&#34;hljs-attribute&#34;&gt;text-align&lt;/span&gt;:center;&amp;quot;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;表格&#34;&gt;&lt;a href=&#34;#表格&#34; class=&#34;headerlink&#34; title=&#34;表格&#34;&gt;&lt;/a&gt;表格&lt;/h2&gt;&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;border&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;1&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;tr&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;th&lt;/span&gt;&amp;gt;&lt;/span&gt;Header 1&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;th&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;th&lt;/span&gt;&amp;gt;&lt;/span&gt;Header 2&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;th&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;tr&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;tr&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;td&lt;/span&gt;&amp;gt;&lt;/span&gt;row 1, cell 1&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;td&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;td&lt;/span&gt;&amp;gt;&lt;/span&gt;row 1, cell 2&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;td&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;tr&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;tr&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;td&lt;/span&gt;&amp;gt;&lt;/span&gt;row 2, cell 1&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;td&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;td&lt;/span&gt;&amp;gt;&lt;/span&gt;row 2, cell 2&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;td&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;tr&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;table&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;table border=&#34;1&#34;&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Header 1&lt;/th&gt;
+        &lt;th&gt;Header 2&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;row 1, cell 1&lt;/td&gt;
+        &lt;td&gt;row 1, cell 2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;row 2, cell 1&lt;/td&gt;
+        &lt;td&gt;row 2, cell 2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;表格元素&#34;&gt;&lt;a href=&#34;#表格元素&#34; class=&#34;headerlink&#34; title=&#34;表格元素&#34;&gt;&lt;/a&gt;表格元素&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;标签&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;table&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义表格&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;th&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义表格的表头&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;tr&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义表格的行&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;td&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义表格单元&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;caption&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义表格标题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;colgroup&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义表格列的组&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;col&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义用于表格列的属性&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;thead&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义表格的页眉&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;tbody&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义表格的主体&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;tfoot&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义表格的页脚&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;区块&#34;&gt;&lt;a href=&#34;#区块&#34; class=&#34;headerlink&#34; title=&#34;区块&#34;&gt;&lt;/a&gt;区块&lt;/h2&gt;&lt;h3 id=&#34;元素-6&#34;&gt;&lt;a href=&#34;#元素-6&#34; class=&#34;headerlink&#34; title=&#34;&amp;lt;div&amp;gt; 元素&#34;&gt;&lt;/a&gt;&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 元素&lt;/h3&gt;&lt;p&gt;HTML &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 元素是块级元素，它可用于组合其他 HTML 元素的容器。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 元素没有特定的含义。除此之外，由于它属于块级元素，浏览器会在其前后显示折行。&lt;/p&gt;
+&lt;p&gt;如果与 CSS 一同使用，&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 元素可用于对大的内容块设置样式属性。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 元素的另一个常见的用途是文档布局。它取代了使用表格定义布局的老式方法。使用 &lt;code&gt;&amp;lt;table&amp;gt;&lt;/code&gt; 元素进行文档布局不是表格的正确用法。&lt;code&gt;&amp;lt;table&amp;gt;&lt;/code&gt; 元素的作用是显示表格化的数据。&lt;/p&gt;
+&lt;h3 id=&#34;元素-7&#34;&gt;&lt;a href=&#34;#元素-7&#34; class=&#34;headerlink&#34; title=&#34;&amp;lt;span&amp;gt; 元素&#34;&gt;&lt;/a&gt;&lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; 元素&lt;/h3&gt;&lt;p&gt;HTML &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; 元素是内联元素，可用作文本的容器&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; 元素也没有特定的含义。&lt;/p&gt;
+&lt;p&gt;当与 CSS 一同使用时，&lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; 元素可用于为部分文本设置样式属性。&lt;/p&gt;
+&lt;h3 id=&#34;div-与-span-对比&#34;&gt;&lt;a href=&#34;#div-与-span-对比&#34; class=&#34;headerlink&#34; title=&#34;div 与 span 对比&#34;&gt;&lt;/a&gt;div 与 span 对比&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;块级元素 vs. 行内元素：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 是块级元素，它独占一行，可以设置宽度、高度以及边距等样式属性。它适合用于创建页面的大块结构，例如页面的主体区域、容器、布局等。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; 是行内元素，它不会独占一行，宽度默认由其内容决定。它适合用于对文本或其他行内元素进行样式化、标记或包裹。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;默认样式和布局：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 元素的默认样式为块级显示，会以块的形式占据可用空间。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; 元素的默认样式为行内显示，它不会独占一行，只占据其内容的宽度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;嵌套关系：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 可以容纳其他块级元素和行内元素，包括其他的 &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 和 &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; 元素。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; 通常被用来包裹文本或其他行内元素，比如用来设置特定文本的样式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总之，&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 用于创建页面结构和布局，而 &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; 用于对文本或行内元素进行样式化或包裹。它们在页面设计和样式设置中有不同的用途和作用。&lt;/p&gt;
+&lt;h3 id=&#34;区块标签&#34;&gt;&lt;a href=&#34;#区块标签&#34; class=&#34;headerlink&#34; title=&#34;区块标签&#34;&gt;&lt;/a&gt;区块标签&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;标签&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;div&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了文档的区域，块级 (block-level)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;span&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;用来组合文档中的行内元素， 内联元素(inline)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;表单&#34;&gt;&lt;a href=&#34;#表单&#34; class=&#34;headerlink&#34; title=&#34;表单&#34;&gt;&lt;/a&gt;表单&lt;/h2&gt;&lt;p&gt;HTML 表单用于收集用户的&lt;strong&gt;输入信息&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;HTML 表单表示文档中的一个区域，此区域包含交互控件，将用户收集到的信息发送到 Web 服务器。&lt;/p&gt;
+&lt;p&gt;HTML 表单通常包含各种&lt;u&gt;输入字段、复选框、单选按钮、下拉列表等元素&lt;/u&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;form&amp;gt;&lt;/code&gt; 元素用于创建表单，&lt;code&gt;action&lt;/code&gt; 属性定义了表单数据提交的目标 URL，&lt;code&gt;method&lt;/code&gt; 属性定义了提交数据的 HTTP 方法（这里使用的是 “post”）。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;label&amp;gt;&lt;/code&gt; 元素用于为表单元素添加标签，提高可访问性。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;input&amp;gt;&lt;/code&gt; 元素是最常用的表单元素之一，它可以创建文本输入框、密码框、单选按钮、复选框等。&lt;code&gt;type&lt;/code&gt; 属性定义了输入框的类型，&lt;code&gt;id&lt;/code&gt; 属性用于关联 &lt;code&gt;&amp;lt;label&amp;gt;&lt;/code&gt; 元素，&lt;code&gt;name&lt;/code&gt; 属性用于标识表单字段。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;select&amp;gt;&lt;/code&gt; 元素用于创建下拉列表，而 &lt;code&gt;&amp;lt;option&amp;gt;&lt;/code&gt; 元素用于定义下拉列表中的选项。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;form&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;action&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;/&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;method&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;post&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- 文本输入框 --&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;for&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;用户名:&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;input&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;type&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;text&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;required&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;br&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- 密码输入框 --&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;for&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;password&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;密码:&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;input&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;type&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;password&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;password&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;password&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;required&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;br&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- 单选按钮 --&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt;&amp;gt;&lt;/span&gt;性别:&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;input&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;type&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;radio&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;male&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;gender&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;value&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;male&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;checked&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;for&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;male&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;男&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;input&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;type&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;radio&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;female&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;gender&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;value&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;female&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;for&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;female&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;女&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;br&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- 复选框 --&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;input&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;type&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;checkbox&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;subscribe&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;subscribe&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;checked&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;for&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;subscribe&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;订阅推送信息&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;br&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- 下拉列表 --&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;for&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;country&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;国家:&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;label&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;country&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;country&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;option&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;value&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;cn&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;CN&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;option&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;option&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;value&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;usa&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;USA&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;option&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;option&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;value&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;uk&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;UK&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;option&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;select&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;br&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- 提交按钮 --&amp;gt;&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;input&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;type&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;submit&amp;quot;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;value&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;提交&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;form&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;表单标签&#34;&gt;&lt;a href=&#34;#表单标签&#34; class=&#34;headerlink&#34; title=&#34;表单标签&#34;&gt;&lt;/a&gt;表单标签&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;标签&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;form&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义供用户输入的表单&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;input&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义输入域&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;textarea&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义文本域 (一个多行的输入控件)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;label&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了 &lt;code&gt;&amp;lt;input&amp;gt;&lt;/code&gt; 元素的标签，一般为输入标题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;fieldset&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了一组相关的表单元素，并使用外框包含起来&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;legend&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了 &lt;code&gt;&amp;lt;fieldset&amp;gt;&lt;/code&gt; 元素的标题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;select&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了下拉选项列表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;optgroup&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义选项组&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;option&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义下拉列表中的选项&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;button&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个点击按钮&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;datalist&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;指定一个预先定义的输入控件选项列表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;keygen&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义了表单的密钥对生成器字段&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;output&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;定义一个计算结果&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;框架&#34;&gt;&lt;a href=&#34;#框架&#34; class=&#34;headerlink&#34; title=&#34;框架&#34;&gt;&lt;/a&gt;框架&lt;/h2&gt;&lt;p&gt;…&lt;/p&gt;
+&lt;h2 id=&#34;脚本&#34;&gt;&lt;a href=&#34;#脚本&#34; class=&#34;headerlink&#34; title=&#34;脚本&#34;&gt;&lt;/a&gt;脚本&lt;/h2&gt;&lt;p&gt;…&lt;/p&gt;
+&lt;h2 id=&#34;字符实体&#34;&gt;&lt;a href=&#34;#字符实体&#34; class=&#34;headerlink&#34; title=&#34;字符实体&#34;&gt;&lt;/a&gt;字符实体&lt;/h2&gt;&lt;p&gt;在 HTML 中，某些字符是预留的。&lt;/p&gt;
+&lt;p&gt;在 HTML 中不能使用小于号（&amp;lt;）和大于号（&amp;gt;），这是因为浏览器会误认为它们是标签。&lt;/p&gt;
+&lt;p&gt;如果希望正确地显示预留字符，我们必须在 HTML 源代码中使用字符实体（character entities）。 字符实体类似这样：&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs html&#34;&gt;&amp;amp;*entity_name*;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;&amp;lt;!-- 或 --&amp;gt;&lt;/span&gt;&lt;br&gt;&amp;amp;#*entity_number*;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;如需显示小于号，我们必须这样写：&amp;lt; 或 &amp;#60; 或 &amp;#060;  (&lt;code&gt;&amp;amp;lt;&lt;/code&gt; 或 &lt;code&gt;&amp;amp;#60;&lt;/code&gt; 或 &lt;code&gt;&amp;amp;#060;&lt;/code&gt;)&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

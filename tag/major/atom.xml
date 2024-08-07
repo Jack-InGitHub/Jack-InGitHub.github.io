@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;major&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2024-01-19T14:57:15.000Z</updated>
+    <category term="autosar" />
+    <category term="aes" />
+    <category term="embedded" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="md5" />
+    <category term="major" />
+    <category term="markdown" />
+    <category term="note" />
+    <category term="osi" />
+    <category term="RustDesk" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="typora" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="windows" />
+    <category term="makefile" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="机智云" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
+    <category term="超声波" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="audio" />
+    <category term="video" />
+    <category term="cad" />
+    <category term="cat_drive" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="pve" />
+    <category term="virtual" />
+    <category term="software" />
+    <category term="摄影" />
+    <category term="synology" />
+    <category term="cmake" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
+    <category term="git" />
+    <category term="j-link" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="jlink" />
+    <category term="j-tag" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="obsidian" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="tmux" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="v2ray" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="cortex-a7" />
+    <category term="cortex-m3" />
+    <category term="rtx" />
+    <category term="rtos" />
+    <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="pwm" />
+    <category term="ap" />
+    <category term="wifi" />
+    <category term="modbus" />
+    <category term="linuxapp" />
+    <category term="curl" />
+    <category term="libcurl" />
+    <category term="zlib" />
+    <category term="minizip" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2024/f0099803/</id>
+        <title>语义化版本编号 Major、Minor、Patch</title>
+        <link rel="alternate" href="https://www.oikiou.top/2024/f0099803/"/>
+        <content type="html">&lt;h2 id=&#34;语义化版本（Semantic-Versioning）：Major、Minor-和-Patch-版本号解析&#34;&gt;&lt;a href=&#34;#语义化版本（Semantic-Versioning）：Major、Minor-和-Patch-版本号解析&#34; class=&#34;headerlink&#34; title=&#34;语义化版本（Semantic Versioning）：Major、Minor 和 Patch 版本号解析&#34;&gt;&lt;/a&gt;语义化版本（Semantic Versioning）：Major、Minor 和 Patch 版本号解析&lt;/h2&gt;&lt;p&gt;语义化版本，通常简称为SemVer，是一种软件版本号的标准化方案，旨在使软件版本号的管理更加透明和可预测。它主要由三个部分组成：Major（主版本号）、Minor（次版本号）和Patch（修订版本号）。在这篇文章中，我们将深入解释这三个部分的含义，并提供详细的示例来说明它们的用途和变更规则。&lt;/p&gt;
+&lt;p&gt;在RT-Thread内有如下代码段：&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/* RT-Thread version information */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RT_VERSION_MAJOR                5               &lt;span class=&#34;hljs-comment&#34;&gt;/**&amp;lt; Major version number (X.x.x) */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RT_VERSION_MINOR                1               &lt;span class=&#34;hljs-comment&#34;&gt;/**&amp;lt; Minor version number (x.X.x) */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RT_VERSION_PATCH                0               &lt;span class=&#34;hljs-comment&#34;&gt;/**&amp;lt; Patch version number (x.x.X) */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/* e.g. #if (RTTHREAD_VERSION &amp;gt;= RT_VERSION_CHECK(4, 1, 0) */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RT_VERSION_CHECK(major, minor, revise)          ((major * 10000) + (minor * 100) + revise)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;/* RT-Thread version */&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTTHREAD_VERSION                RT_VERSION_CHECK(RT_VERSION_MAJOR, RT_VERSION_MINOR, RT_VERSION_PATCH)&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;Major（主版本号）&#34;&gt;&lt;a href=&#34;#Major（主版本号）&#34; class=&#34;headerlink&#34; title=&#34;Major（主版本号）&#34;&gt;&lt;/a&gt;Major（主版本号）&lt;/h3&gt;&lt;p&gt;Major版本号是语义化版本中的第一个数字，用于表示软件的主要版本变更。当进行大规模的、不兼容的变更时，应该增加Major版本号。主要变更包括：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;不兼容的API更改&lt;/strong&gt;：当你修改了软件的API，以至于旧版本的代码无法与新版本一起正常工作时，应该升级Major版本号。这可能包括删除、更改或添加API端点、参数或行为。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;重大功能新增&lt;/strong&gt;：如果你引入了重要的新功能，这可能会改变用户的工作流程或提供新的能力，也应该升级Major版本号。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;废弃旧功能&lt;/strong&gt;：当你计划废弃或删除旧的功能时，通常需要增加Major版本号，以提醒用户进行迁移。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;示例： 假设有一个虚构的图形处理库，当前版本号为1.0.0。如果开发团队决定删除现有API中的一个核心功能，这将导致现有的用户无法升级到新版本而不修改其代码，那么新版本的版本号应该升级到2.0.0。&lt;/p&gt;
+&lt;h3 id=&#34;Minor（次版本号）&#34;&gt;&lt;a href=&#34;#Minor（次版本号）&#34; class=&#34;headerlink&#34; title=&#34;Minor（次版本号）&#34;&gt;&lt;/a&gt;Minor（次版本号）&lt;/h3&gt;&lt;p&gt;Minor版本号是语义化版本中的第二个数字，用于表示向后兼容的新功能添加。Minor版本号的变更包括：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;新增功能&lt;/strong&gt;：当你向软件添加新的功能，但这些功能不会破坏现有的API或功能，应该增加Minor版本号。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;改进现有功能&lt;/strong&gt;：如果你对现有功能进行了改进，但这些改进不会导致现有用户的代码无法工作，也应该升级Minor版本号。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;向后兼容的API增强&lt;/strong&gt;：如果你增加了现有API的参数、选项或能力，而这不会破坏已有的使用方式，也应该升级Minor版本号。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;示例： 继续以图形处理库为例，当前版本号为1.2.0。开发团队决定在库中添加一个全新的图像滤镜功能，但这不会破坏任何现有功能或API。在这种情况下，版本号应升级到1.3.0。&lt;/p&gt;
+&lt;h3 id=&#34;Patch（修订版本号）&#34;&gt;&lt;a href=&#34;#Patch（修订版本号）&#34; class=&#34;headerlink&#34; title=&#34;Patch（修订版本号）&#34;&gt;&lt;/a&gt;Patch（修订版本号）&lt;/h3&gt;&lt;p&gt;Patch版本号是语义化版本中的第三个数字，用于表示向后兼容的错误修复或小的改进。Patch版本号的变更包括：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;错误修复&lt;/strong&gt;：当你解决现有功能或API中的错误时，应该升级Patch版本号。这些修复不应引入新的功能或改变现有的行为。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;性能优化&lt;/strong&gt;：如果你对现有功能进行性能优化，而不会改变其行为，也应该升级Patch版本号。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;小的改进或修改&lt;/strong&gt;：如果你进行了一些小的改进，但它们不会破坏向后兼容性，应该升级Patch版本号。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;示例： 继续以图形处理库为例，当前版本号为1.2.3。在测试中发现一个重要的Bug，它导致图像处理不正确。开发团队修复了这个问题，没有引入新的功能或改变现有功能，版本号应该升级到1.2.4。&lt;/p&gt;
+</content>
+        <category term="major" />
+        <updated>2024-01-19T14:57:15.000Z</updated>
+    </entry>
+</feed>

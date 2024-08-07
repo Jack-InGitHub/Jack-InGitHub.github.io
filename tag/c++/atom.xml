@@ -4,37 +4,42 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;c++&#34; tag</title>
     <link href="https://www.oikiou.top" />
     <updated>2022-05-06T13:13:15.000Z</updated>
-    <category term="hp" />
-    <category term="chrome" />
+    <category term="autosar" />
+    <category term="aes" />
     <category term="embedded" />
     <category term="cc2530" />
     <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
     <category term="sscanf" />
     <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
-    <category term="hex" />
-    <category term="ssl" />
-    <category term="https" />
-    <category term="license" />
     <category term="md5" />
+    <category term="major" />
     <category term="markdown" />
     <category term="note" />
     <category term="osi" />
+    <category term="RustDesk" />
     <category term="iap" />
     <category term="bootloader" />
     <category term="stm32" />
     <category term="tags" />
     <category term="label" />
     <category term="category" />
-    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
+    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
@@ -57,6 +62,11 @@
     <category term="zsh" />
     <category term="shell" />
     <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
     <category term="kms" />
     <category term="office" />
     <category term="volume" />
@@ -67,32 +77,14 @@
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="character encoding" />
-    <category term="gb2312" />
-    <category term="utf-8" />
     <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
     <category term="超声波" />
     <category term="github" />
     <category term="hosts" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="pid" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="life" />
-    <category term="人生" />
-    <category term="workflow" />
-    <category term="心理学" />
+    <category term="audio" />
+    <category term="video" />
     <category term="cad" />
     <category term="cat_drive" />
     <category term="switch" />
@@ -101,45 +93,49 @@
     <category term="hardware" />
     <category term="lenovo" />
     <category term="disk" />
-    <category term="摄影" />
+    <category term="pve" />
+    <category term="virtual" />
     <category term="software" />
+    <category term="摄影" />
     <category term="synology" />
     <category term="cmake" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
     <category term="git" />
     <category term="j-link" />
     <category term="rtt" />
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="flash" />
     <category term="j-tag" />
-    <category term="docker" />
-    <category term="dockerfile" />
-    <category term="namespace" />
-    <category term="cgroup" />
-    <category term="dockerhub" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="sourceinsigh" />
-    <category term="si" />
-    <category term="ide" />
-    <category term="vscode" />
+    <category term="obsidian" />
     <category term="spacedesk" />
     <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="wordpress" />
     <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
-    <category term="speedtest" />
-    <category term="tools" />
-    <category term="commenttranslate" />
-    <category term="wsl" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -147,6 +143,7 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
+    <category term="v2ray" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -155,28 +152,48 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
     <category term="cortex-a7" />
     <category term="cortex-m3" />
     <category term="rtx" />
     <category term="rtos" />
     <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="pwm" />
-    <category term="ucos" />
     <category term="bluetooth" />
     <category term="蓝牙" />
+    <category term="pwm" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="alpha_mini" />
-    <category term="正点原子" />
     <category term="modbus" />
     <category term="linuxapp" />
     <category term="curl" />
     <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
-    <category term="rt-thread" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
     <entry>
         <id>https://www.oikiou.top/2022/5751eea2/</id>
         <title>C++</title>
@@ -199,7 +216,7 @@
 &lt;li&gt;继承&lt;/li&gt;
 &lt;li&gt;多态&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;Objects-amp-Class&#34;&gt;&lt;a href=&#34;#Objects-amp-Class&#34; class=&#34;headerlink&#34; title=&#34;Objects &amp;amp; Class&#34;&gt;&lt;/a&gt;Objects &amp;amp; Class&lt;/h2&gt;&lt;p&gt;类是虚拟的, 统称, 对象是类的实体&lt;/p&gt;
+&lt;h2 id=&#34;Objects-Class&#34;&gt;&lt;a href=&#34;#Objects-Class&#34; class=&#34;headerlink&#34; title=&#34;Objects &amp;amp; Class&#34;&gt;&lt;/a&gt;Objects &amp;amp; Class&lt;/h2&gt;&lt;p&gt;类是虚拟的, 统称, 对象是类的实体&lt;/p&gt;
 &lt;p&gt;猫 -&amp;gt; 种类 -&amp;gt; Class&lt;/p&gt;
 &lt;p&gt;这只猫 -&amp;gt; 实体 -&amp;gt; Objects&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2022/5751eea2/image-20220506210930554.png&#34; alt=&#34;image-20220506210930554&#34;&gt;&lt;/p&gt;
@@ -313,7 +330,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 &lt;h1 id=&#34;基本语法&#34;&gt;&lt;a href=&#34;#基本语法&#34; class=&#34;headerlink&#34; title=&#34;基本语法&#34;&gt;&lt;/a&gt;基本语法&lt;/h1&gt;&lt;h2 id=&#34;基本语法-1&#34;&gt;&lt;a href=&#34;#基本语法-1&#34; class=&#34;headerlink&#34; title=&#34;基本语法&#34;&gt;&lt;/a&gt;基本语法&lt;/h2&gt;&lt;p&gt;基本语法和c非常类似,   ;   结尾等等&lt;/p&gt;
-&lt;h2 id=&#34;三字符组-x3D-etc&#34;&gt;&lt;a href=&#34;#三字符组-x3D-etc&#34; class=&#34;headerlink&#34; title=&#34;三字符组(??&amp;#x3D; etc.)&#34;&gt;&lt;/a&gt;三字符组(??&amp;#x3D; etc.)&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;一种古老的语法&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;三字符组-etc&#34;&gt;&lt;a href=&#34;#三字符组-etc&#34; class=&#34;headerlink&#34; title=&#34;三字符组(??&amp;#x3D; etc.)&#34;&gt;&lt;/a&gt;三字符组(??&amp;#x3D; etc.)&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;一种古老的语法&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;三字符组就是用于表示另一个字符的三个字符序列，又称为三字符序列。三字符序列总是以两个问号开头。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -456,9 +473,9 @@
 &lt;li&gt;&lt;strong&gt;C++ 引入的 string 类类型&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;C++ 标准库提供了 &lt;strong&gt;string&lt;/strong&gt; 类类型，支持上述所有的操作，另外还增加了其他更多的功能。我们将学习 C++ 标准库中的这个类，现在让我们先来看看下面这个实例：&lt;/p&gt;
-&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;main&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;    string str1 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str1&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str2 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str2&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str3 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3&amp;quot;&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 无法实现 string str3 = &amp;quot;str3&amp;quot; + &amp;quot;str3949499&amp;quot;;  两个静态的string无法相加&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 字符串可以 直接相加&lt;/span&gt;&lt;br&gt;    str3 = str1 + str2;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str3 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 字符串可以 追加&lt;/span&gt;&lt;br&gt;    str3 += str1;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str3 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 从cin中直接获取&lt;/span&gt;&lt;br&gt;    cin &amp;gt;&amp;gt; str3;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str3 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 直接get到size&lt;/span&gt;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3.size() : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str3.&lt;span class=&#34;hljs-built_in&#34;&gt;size&lt;/span&gt;() &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;main&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;    string str1 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str1&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str2 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str2&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str3 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3&amp;quot;&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 无法实现 string str3 = &amp;quot;str3&amp;quot; + &amp;quot;str3949499&amp;quot;;  两个静态的string无法相加&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 字符串可以 直接相加&lt;/span&gt;&lt;br&gt;    str3 = str1 + str2;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str3 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 字符串可以 追加&lt;/span&gt;&lt;br&gt;    str3 += str1;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str3 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 从cin中直接获取&lt;/span&gt;&lt;br&gt;    cin &amp;gt;&amp;gt; str3;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str3 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 直接get到size&lt;/span&gt;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3.size() : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str&lt;span class=&#34;hljs-number&#34;&gt;3.&lt;/span&gt;&lt;span class=&#34;hljs-built_in&#34;&gt;size&lt;/span&gt;() &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;h2 id=&#34;基本输入输出-cin-cout-cerr-clog&#34;&gt;&lt;a href=&#34;#基本输入输出-cin-cout-cerr-clog&#34; class=&#34;headerlink&#34; title=&#34;基本输入输出(cin cout cerr clog)&#34;&gt;&lt;/a&gt;基本输入输出(cin cout cerr clog)&lt;/h2&gt;&lt;h3 id=&#34;I-x2F-O-库头文件&#34;&gt;&lt;a href=&#34;#I-x2F-O-库头文件&#34; class=&#34;headerlink&#34; title=&#34;I&amp;#x2F;O 库头文件&#34;&gt;&lt;/a&gt;I&amp;#x2F;O 库头文件&lt;/h3&gt;&lt;table&gt;
+&lt;h2 id=&#34;基本输入输出-cin-cout-cerr-clog&#34;&gt;&lt;a href=&#34;#基本输入输出-cin-cout-cerr-clog&#34; class=&#34;headerlink&#34; title=&#34;基本输入输出(cin cout cerr clog)&#34;&gt;&lt;/a&gt;基本输入输出(cin cout cerr clog)&lt;/h2&gt;&lt;h3 id=&#34;I-O-库头文件&#34;&gt;&lt;a href=&#34;#I-O-库头文件&#34; class=&#34;headerlink&#34; title=&#34;I&amp;#x2F;O 库头文件&#34;&gt;&lt;/a&gt;I&amp;#x2F;O 库头文件&lt;/h3&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;头文件&lt;/th&gt;
@@ -716,7 +733,7 @@
 &lt;p&gt;&lt;code&gt;cin &amp;gt;&amp;gt; str_cin;&lt;/code&gt;&lt;/p&gt;
 &lt;h3 id=&#34;标准错误流（cerr）&#34;&gt;&lt;a href=&#34;#标准错误流（cerr）&#34; class=&#34;headerlink&#34; title=&#34;标准错误流（cerr）&#34;&gt;&lt;/a&gt;标准错误流（cerr）&lt;/h3&gt;&lt;p&gt;预定义的对象 &lt;strong&gt;cerr&lt;/strong&gt; 是 &lt;strong&gt;iostream&lt;/strong&gt; 类的一个实例。cerr 对象附属到标准输出设备，通常也是显示屏，但是 &lt;strong&gt;cerr&lt;/strong&gt; 对象是非缓冲的，且每个流插入到 cerr 都会立即输出。&lt;/p&gt;
 &lt;h3 id=&#34;标准日志流（clog）&#34;&gt;&lt;a href=&#34;#标准日志流（clog）&#34; class=&#34;headerlink&#34; title=&#34;标准日志流（clog）&#34;&gt;&lt;/a&gt;标准日志流（clog）&lt;/h3&gt;&lt;p&gt;预定义的对象 &lt;strong&gt;clog&lt;/strong&gt; 是 &lt;strong&gt;iostream&lt;/strong&gt; 类的一个实例。clog 对象附属到标准输出设备，通常也是显示屏，但是 &lt;strong&gt;clog&lt;/strong&gt; 对象是缓冲的。这意味着每个流插入到 clog 都会先存储在缓冲区，直到缓冲填满或者缓冲区刷新时才会输出。&lt;/p&gt;
-&lt;h2 id=&#34;引用-amp-注意区别于指针&#34;&gt;&lt;a href=&#34;#引用-amp-注意区别于指针&#34; class=&#34;headerlink&#34; title=&#34;引用&amp;amp; (注意区别于指针)&#34;&gt;&lt;/a&gt;引用&amp;amp; (注意区别于指针)&lt;/h2&gt;&lt;h4 id=&#34;C-引用-vs-指针&#34;&gt;&lt;a href=&#34;#C-引用-vs-指针&#34; class=&#34;headerlink&#34; title=&#34;C++ 引用 vs 指针&#34;&gt;&lt;/a&gt;C++ 引用 vs 指针&lt;/h4&gt;&lt;p&gt;引用很容易与指针混淆，它们之间有三个主要的不同：&lt;/p&gt;
+&lt;h2 id=&#34;引用-注意区别于指针&#34;&gt;&lt;a href=&#34;#引用-注意区别于指针&#34; class=&#34;headerlink&#34; title=&#34;引用&amp;amp; (注意区别于指针)&#34;&gt;&lt;/a&gt;引用&amp;amp; (注意区别于指针)&lt;/h2&gt;&lt;h4 id=&#34;C-引用-vs-指针&#34;&gt;&lt;a href=&#34;#C-引用-vs-指针&#34; class=&#34;headerlink&#34; title=&#34;C++ 引用 vs 指针&#34;&gt;&lt;/a&gt;C++ 引用 vs 指针&lt;/h4&gt;&lt;p&gt;引用很容易与指针混淆，它们之间有三个主要的不同：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;不存在空引用。引用必须连接到一块合法的内存。&lt;/li&gt;
 &lt;li&gt;一旦引用被初始化为一个对象，就不能被指向到另一个对象。指针可以在任何时候指向到另一个对象。&lt;/li&gt;
@@ -768,13 +785,13 @@
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;值捕获 与函数中的值传递类似。lambda表达式捕获的是变量的一个拷贝，因此我们如果在lambda表达式后面改变该变量值的话，不会影响捕获前的该变量值，这就是所谓的值捕获&lt;/p&gt;
-&lt;figure class=&#34;highlight perl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs perl&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;int&lt;/span&gt; a = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;;&lt;br&gt;[a]()&amp;#123;&lt;span class=&#34;hljs-keyword&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%d\n&amp;quot;&lt;/span&gt;, a;);&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight perl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs perl&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;int&lt;/span&gt; a = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;;&lt;br&gt;[a]()&amp;#123;&lt;span class=&#34;hljs-keyword&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&lt;span class=&#34;hljs-variable&#34;&gt;%d&lt;/span&gt;\n&amp;quot;&lt;/span&gt;, a;);&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;引用捕获 引用捕获和值捕获形式完全一样，只是在捕获列表中传的是变量的引用，类似于函数中的引用传递，变成下面这个样子&lt;/p&gt;
-&lt;figure class=&#34;highlight perl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs perl&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;int&lt;/span&gt; a = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;;&lt;br&gt;[&amp;amp;a]()&amp;#123;&lt;span class=&#34;hljs-keyword&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%d\n&amp;quot;&lt;/span&gt;, a;);&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight perl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs perl&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;int&lt;/span&gt; a = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;;&lt;br&gt;[&amp;amp;a]()&amp;#123;&lt;span class=&#34;hljs-keyword&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&lt;span class=&#34;hljs-variable&#34;&gt;%d&lt;/span&gt;\n&amp;quot;&lt;/span&gt;, a;);&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;隐式捕获的方式，就是捕获的列表可以用&lt;code&gt;=&lt;/code&gt;和&lt;code&gt;&amp;amp;&lt;/code&gt;代替，让编译器隐式的推断你使用的是哪个变量，然后这两个字符表示捕获的类型&lt;code&gt;=&lt;/code&gt;表示值捕获，&lt;code&gt;&amp;amp;&lt;/code&gt;是引用捕获；写出来之后就变成了如下的形式：&lt;/p&gt;
-&lt;figure class=&#34;highlight perl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs perl&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;int&lt;/span&gt; a = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;;&lt;br&gt;[=]()&amp;#123;&lt;span class=&#34;hljs-keyword&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%d\n&amp;quot;&lt;/span&gt;, a);&amp;#125;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;figure class=&#34;highlight perl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs perl&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;int&lt;/span&gt; a = &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;;&lt;br&gt;[=]()&amp;#123;&lt;span class=&#34;hljs-keyword&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&lt;span class=&#34;hljs-variable&#34;&gt;%d&lt;/span&gt;\n&amp;quot;&lt;/span&gt;, a);&amp;#125;;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c++&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 捕获&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;main&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;    string str1 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str1&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str2 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str2&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str3 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3&amp;quot;&lt;/span&gt;;&lt;br&gt;    &lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 这是传值捕获&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;auto&lt;/span&gt; fun = [str1, str2]() &amp;#123;&lt;br&gt;        cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;5 str1 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str1 &amp;lt;&amp;lt; endl;&lt;br&gt;        cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;5 str2 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str2 &amp;lt;&amp;lt; endl;&lt;br&gt;    &amp;#125;;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;1 str1 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str1 &amp;lt;&amp;lt; endl;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;1 str2 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str2 &amp;lt;&amp;lt; endl;&lt;br&gt;    str1 += str2;&lt;br&gt;    str2 += str1;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;fun&lt;/span&gt;();&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;2 str1 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str1 &amp;lt;&amp;lt; endl;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;2 str2 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str2 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;br&gt;    &lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 输出&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; str1 : str1&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; str2 : str2&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt; str1 : str1&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;5&lt;/span&gt; str2 : str2&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt; str1 : str1str2&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt; str2 : str2str1str2&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 被当成普通函数使用了&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title&#34;&gt;main&lt;/span&gt; &lt;span class=&#34;hljs-params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;br&gt;    string str1 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str1&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str2 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str2&amp;quot;&lt;/span&gt;;&lt;br&gt;    string str3 = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;str3&amp;quot;&lt;/span&gt;;&lt;br&gt;    &lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;auto&lt;/span&gt; stradd = [&amp;amp;](string&amp;amp; stra,string&amp;amp; strb) &amp;#123;&lt;br&gt;        cout &amp;lt;&amp;lt; stra &amp;lt;&amp;lt; endl;&lt;br&gt;        cout &amp;lt;&amp;lt; strb &amp;lt;&amp;lt; endl;&lt;br&gt;        stra += strb;&lt;br&gt;        strb += stra;&lt;br&gt;    &amp;#125;;&lt;br&gt;    &lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;1 str1 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str1 &amp;lt;&amp;lt; endl;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;1 str2 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str2 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;stradd&lt;/span&gt;(str1, str2);&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;2 str1 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str1 &amp;lt;&amp;lt; endl;&lt;br&gt;    cout &amp;lt;&amp;lt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;2 str2 : &amp;quot;&lt;/span&gt; &amp;lt;&amp;lt; str2 &amp;lt;&amp;lt; endl;&lt;br&gt;    &lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//输出&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; str1 : str1&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt; str2 : str2&lt;br&gt;str1&lt;br&gt;str2&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt; str1 : str1str2&lt;br&gt;&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt; str2 : str2str1str2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -906,7 +923,7 @@
 &lt;p&gt;或&lt;/p&gt;
 &lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs cpp&#34;&gt;&lt;span class=&#34;hljs-function&#34;&gt;std::ifstream &lt;span class=&#34;hljs-title&#34;&gt;in&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;some.file&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;;&lt;br&gt;std::ostringstream tmp;&lt;br&gt;tmp &amp;lt;&amp;lt; in.&lt;span class=&#34;hljs-built_in&#34;&gt;rdbuf&lt;/span&gt;();&lt;br&gt;std::string str = tmp.&lt;span class=&#34;hljs-built_in&#34;&gt;str&lt;/span&gt;();&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;h2 id=&#34;C-x2F-C-调用exe文件&#34;&gt;&lt;a href=&#34;#C-x2F-C-调用exe文件&#34; class=&#34;headerlink&#34; title=&#34;C&amp;#x2F;C++调用exe文件&#34;&gt;&lt;/a&gt;C&amp;#x2F;C++调用exe文件&lt;/h2&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// C 此为命令行控制台方法&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;* a1 = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;*)&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;hello&amp;quot;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;* a2 = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;*)&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;world&amp;quot;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;* a3 = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;*)&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;!&amp;quot;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; s[&lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;];&lt;br&gt;sprintf_s(s,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s %s %s %s &amp;quot;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;./ceshi.exe&amp;quot;&lt;/span&gt;,a1,a2,a3);&lt;br&gt;system(s);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;C-C-调用exe文件&#34;&gt;&lt;a href=&#34;#C-C-调用exe文件&#34; class=&#34;headerlink&#34; title=&#34;C&amp;#x2F;C++调用exe文件&#34;&gt;&lt;/a&gt;C&amp;#x2F;C++调用exe文件&lt;/h2&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// C 此为命令行控制台方法&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;* a1 = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;*)&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;hello&amp;quot;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;* a2 = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;*)&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;world&amp;quot;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;* a3 = (&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt;*)&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;!&amp;quot;&lt;/span&gt;;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; s[&lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;];&lt;br&gt;sprintf_s(s,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;%s %s %s %s &amp;quot;&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;./ceshi.exe&amp;quot;&lt;/span&gt;,a1,a2,a3);&lt;br&gt;system(s);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
         <category term="c/c++" />
         <category term="c++" />

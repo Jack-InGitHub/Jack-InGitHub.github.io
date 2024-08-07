@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;cmd&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2022-06-21T14:57:15.000Z</updated>
+    <category term="autosar" />
+    <category term="aes" />
+    <category term="embedded" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="sscanf" />
+    <category term="c/c++" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="license" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="md5" />
+    <category term="major" />
+    <category term="markdown" />
+    <category term="note" />
+    <category term="osi" />
+    <category term="RustDesk" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="typora" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="windows" />
+    <category term="makefile" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="words" />
+    <category term="cortexm3" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="机智云" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="ct117e-ex" />
+    <category term="apk" />
+    <category term="java" />
+    <category term="超声波" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="audio" />
+    <category term="video" />
+    <category term="cad" />
+    <category term="cat_drive" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="pve" />
+    <category term="virtual" />
+    <category term="software" />
+    <category term="摄影" />
+    <category term="synology" />
+    <category term="cmake" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
+    <category term="git" />
+    <category term="j-link" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="jlink" />
+    <category term="j-tag" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="obsidian" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="ide" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="speedtest" />
+    <category term="tools" />
+    <category term="wordpress" />
+    <category term="web" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="tmux" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="v2ray" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="usb" />
+    <category term="c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="cmd" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="pid" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="cortex-a7" />
+    <category term="cortex-m3" />
+    <category term="rtx" />
+    <category term="rtos" />
+    <category term="keil" />
+    <category term="rt-thread" />
+    <category term="ucos" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="pwm" />
+    <category term="ap" />
+    <category term="wifi" />
+    <category term="modbus" />
+    <category term="linuxapp" />
+    <category term="curl" />
+    <category term="libcurl" />
+    <category term="zlib" />
+    <category term="minizip" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2022/ddff0c71/</id>
+        <title>MS-DOS</title>
+        <link rel="alternate" href="https://www.oikiou.top/2022/ddff0c71/"/>
+        <content type="html">&lt;h1 id=&#34;MS-DOS&#34;&gt;&lt;a href=&#34;#MS-DOS&#34; class=&#34;headerlink&#34; title=&#34;MS-DOS&#34;&gt;&lt;/a&gt;MS-DOS&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;CMD(windows-commands)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands&#34;&gt;Windows Commands&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在cmd内&lt;code&gt;/?&lt;/code&gt;即可获得帮助信息&lt;/p&gt;
+&lt;h2 id=&#34;FOR&#34;&gt;&lt;a href=&#34;#FOR&#34; class=&#34;headerlink&#34; title=&#34;FOR&#34;&gt;&lt;/a&gt;FOR&lt;/h2&gt;&lt;figure class=&#34;highlight tex&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;73&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;74&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;75&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;76&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;77&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;78&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;79&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;80&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;81&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;82&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;83&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;84&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;85&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;86&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;87&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;88&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;89&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;90&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;91&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;92&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;93&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;94&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;95&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;96&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;97&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;98&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;99&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;100&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;101&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;102&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;103&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;104&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;105&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;106&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;107&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;108&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;109&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;110&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;111&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;112&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;113&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;114&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;115&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;116&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;117&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;118&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;119&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;120&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;121&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;122&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;123&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;124&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs tex&#34;&gt;对一组文件中的每一个文件执行某个特定命令。&lt;br&gt;&lt;br&gt;FOR &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;%variable  指定一个单一字母可替换的参数。&lt;/span&gt;&lt;br&gt;  (set)      指定一个或一组文件。可以使用通配符。&lt;br&gt;  command    指定对每个文件执行的命令。&lt;br&gt;  command-parameters &lt;br&gt;             为特定命令指定参数或命令行开关。&lt;br&gt;&lt;br&gt;在批处理程序中使用 FOR 命令时，指定变量请使用 &lt;span class=&#34;hljs-comment&#34;&gt;%%variable&lt;/span&gt;&lt;br&gt;而不要用 &lt;span class=&#34;hljs-comment&#34;&gt;%variable。变量名称是区分大小写的，所以 %i 不同于 %I.&lt;/span&gt;&lt;br&gt;&lt;br&gt;如果启用命令扩展，则会支持下列 FOR 命令的其他格式:&lt;br&gt;&lt;br&gt;FOR /D &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    如果集中包含通配符，则指定与目录名匹配，而不与文件名匹配。&lt;br&gt;&lt;br&gt;FOR /R [[drive:]path] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    检查以 [drive:]path 为根的目录树，指向每个目录中的 FOR 语句。&lt;br&gt;    如果在 /R 后没有指定目录规范，则使用当前目录。如果集仅为一个单点(.)字符，&lt;br&gt;    则枚举该目录树。&lt;br&gt;&lt;br&gt;FOR /L &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (start,step,end) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    该集表示以增量形式从开始到结束的一个数字序列。因此，(1,1,5)将产生序列&lt;br&gt;    1 2 3 4 5，(5,-1,1)将产生序列(5 4 3 2 1)&lt;br&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (file-set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (&amp;quot;string&amp;quot;) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (&amp;#x27;command&amp;#x27;) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    或者，如果有 usebackq 选项:&lt;br&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (file-set) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (&amp;quot;string&amp;quot;) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;FOR /F [&amp;quot;options&amp;quot;] &lt;span class=&#34;hljs-comment&#34;&gt;%variable IN (&amp;#x27;command&amp;#x27;) DO command [command-parameters]&lt;/span&gt;&lt;br&gt;&lt;br&gt;    fileset 为一个或多个文件名。继续到 fileset 中的下一个文件之前，&lt;br&gt;    每份文件都被打开、读取并经过处理。处理包括读取文件，将其分成一行行的文字，&lt;br&gt;    然后将每行解析成零或更多的符号。然后用已找到的符号字符串变量值调用 For 循环。&lt;br&gt;    以默认方式，/F 通过每个文件的每一行中分开的第一个空白符号。跳过空白行。&lt;br&gt;    你可通过指定可选 &amp;quot;options&amp;quot; 参数替代默认解析操作。这个带引号的字符串包括一个&lt;br&gt;    或多个指定不同解析选项的关键字。这些关键字为:&lt;br&gt;&lt;br&gt;        eol=c           - 指一个行注释字符的结尾(就一个)&lt;br&gt;        skip=n          - 指在文件开始时忽略的行数。&lt;br&gt;        delims=xxx      - 指分隔符集。这个替换了空格和制表符的&lt;br&gt;                          默认分隔符集。&lt;br&gt;        tokens=x,y,m-n  - 指每行的哪一个符号被传递到每个迭代&lt;br&gt;                          的 for 本身。这会导致额外变量名称的分配。m-n&lt;br&gt;                          格式为一个范围。通过 nth 符号指定 mth。如果&lt;br&gt;                          符号字符串中的最后一个字符星号，&lt;br&gt;                          那么额外的变量将在最后一个符号解析之后&lt;br&gt;                          分配并接受行的保留文本。&lt;br&gt;        usebackq        - 指定新语法已在下类情况中使用:&lt;br&gt;                          在作为命令执行一个后引号的字符串并且一个单&lt;br&gt;                          引号字符为文字字符串命令并允许在 file-set&lt;br&gt;                          中使用双引号扩起文件名称。&lt;br&gt;&lt;br&gt;    某些范例可能有助:&lt;br&gt;&lt;br&gt;FOR /F &amp;quot;eol=; tokens=2,3* delims=, &amp;quot; &lt;span class=&#34;hljs-comment&#34;&gt;%i in (myfile.txt) do @echo %i %j %k&lt;/span&gt;&lt;br&gt;&lt;br&gt;    会分析 myfile.txt 中的每一行，忽略以分号打头的那些行，将&lt;br&gt;    每行中的第二个和第三个符号传递给 for 函数体，用逗号和/或&lt;br&gt;    空格分隔符号。请注意，此 for 函数体的语句引用 &lt;span class=&#34;hljs-comment&#34;&gt;%i 来&lt;/span&gt;&lt;br&gt;    获得第二个符号，引用 &lt;span class=&#34;hljs-comment&#34;&gt;%j 来获得第三个符号，引用 %k&lt;/span&gt;&lt;br&gt;    来获得第三个符号后的所有剩余符号。对于带有空格的文件&lt;br&gt;    名，你需要用双引号将文件名括起来。为了用这种方式来使&lt;br&gt;    用双引号，还需要使用 usebackq 选项，否则，双引号会&lt;br&gt;    被理解成是用作定义某个要分析的字符串的。&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;%i 在 for 语句中显式声明，%j 和 %k 是通过&lt;/span&gt;&lt;br&gt;    tokens= 选项隐式声明的。可以通过 tokens= 一行&lt;br&gt;    指定最多 26 个符号，只要不试图声明一个高于字母 &amp;quot;z&amp;quot; 或&lt;br&gt;    &amp;quot;Z&amp;quot; 的变量。请记住，FOR 变量是单一字母、分大小写和全局的变量；&lt;br&gt;    而且，不能同时使用超过 52 个。&lt;br&gt;&lt;br&gt;    还可以在相邻字符串上使用 FOR /F 分析逻辑，方法是，&lt;br&gt;    用单引号将括号之间的 file-set 括起来。这样，该字符&lt;br&gt;    串会被当作一个文件中的一个单一输入行进行解析。&lt;br&gt;&lt;br&gt;    最后，可以用 FOR /F 命令来分析命令的输出。方法是，将&lt;br&gt;    括号之间的 file-set 变成一个反括字符串。该字符串会&lt;br&gt;    被当作命令行，传递到一个子 CMD.EXE，其输出会被捕获到&lt;br&gt;    内存中，并被当作文件分析。如以下例子所示:&lt;br&gt;&lt;br&gt;      FOR /F &amp;quot;usebackq delims==&amp;quot; &lt;span class=&#34;hljs-comment&#34;&gt;%i IN (`set`) DO @echo %i&lt;/span&gt;&lt;br&gt;&lt;br&gt;    会枚举当前环境中的环境变量名称。&lt;br&gt;&lt;br&gt;另外，FOR 变量参照的替换已被增强。你现在可以使用下列&lt;br&gt;选项语法:&lt;br&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~I          - 删除任何引号(&amp;quot;)，扩展 %I&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~fI        - 将 %I 扩展到一个完全合格的路径名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~dI        - 仅将 %I 扩展到一个驱动器号&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~pI        - 仅将 %I 扩展到一个路径&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~nI        - 仅将 %I 扩展到一个文件名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~xI        - 仅将 %I 扩展到一个文件扩展名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~sI        - 扩展的路径只含有短名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~aI        - 将 %I 扩展到文件的文件属性&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~tI        - 将 %I 扩展到文件的日期/时间&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~zI        - 将 %I 扩展到文件的大小&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~$PATH:I   - 查找列在路径环境变量的目录，并将 %I 扩展&lt;/span&gt;&lt;br&gt;                   到找到的第一个完全合格的名称。如果环境变量名&lt;br&gt;                   未被定义，或者没有找到文件，此组合键会扩展到&lt;br&gt;                   空字符串&lt;br&gt;&lt;br&gt;可以组合修饰符来得到多重结果:&lt;br&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~dpI       - 仅将 %I 扩展到一个驱动器号和路径&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~nxI       - 仅将 %I 扩展到一个文件名和扩展名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~fsI       - 仅将 %I 扩展到一个带有短名的完整路径名&lt;/span&gt;&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~dp$PATH:I - 搜索列在路径环境变量的目录，并将 %I 扩展&lt;/span&gt;&lt;br&gt;                   到找到的第一个驱动器号和路径。&lt;br&gt;     &lt;span class=&#34;hljs-comment&#34;&gt;%~ftzaI     - 将 %I 扩展到类似输出线路的 DIR&lt;/span&gt;&lt;br&gt;&lt;br&gt;在以上例子中，&lt;span class=&#34;hljs-comment&#34;&gt;%I 和 PATH 可用其他有效数值代替。%~ 语法&lt;/span&gt;&lt;br&gt;用一个有效的 FOR 变量名终止。选取类似 &lt;span class=&#34;hljs-comment&#34;&gt;%I 的大写变量名&lt;/span&gt;&lt;br&gt;比较易读，而且避免与不分大小写的组合键混淆。&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;dir&#34;&gt;&lt;a href=&#34;#dir&#34; class=&#34;headerlink&#34; title=&#34;dir&#34;&gt;&lt;/a&gt;dir&lt;/h2&gt;&lt;p&gt;列出文件&lt;/p&gt;
+&lt;h2 id=&#34;cls&#34;&gt;&lt;a href=&#34;#cls&#34; class=&#34;headerlink&#34; title=&#34;cls&#34;&gt;&lt;/a&gt;cls&lt;/h2&gt;&lt;p&gt;清屏&lt;/p&gt;
+&lt;h2 id=&#34;timeout&#34;&gt;&lt;a href=&#34;#timeout&#34; class=&#34;headerlink&#34; title=&#34;timeout&#34;&gt;&lt;/a&gt;timeout&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  keyword: cmd timeout 无效&lt;/p&gt;
+&lt;p&gt;  做一个延时执行的批处理命令，选用timeout命令来实现，但是碰到一个情况是写完后直接双击运行时，timeout 命令运行不了。&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;选择管理员权限运行就可以了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  bat命令需要查看权限，注意使用win+R进入cmd是具有管理员权限的，但是直接双击打开的bat文件是没有管理员权限的，没有对应的权限，有些对系统级别的控制，会出现奇怪的现象。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;NOTE&#34;&gt;&lt;a href=&#34;#NOTE&#34; class=&#34;headerlink&#34; title=&#34;NOTE&#34;&gt;&lt;/a&gt;NOTE&lt;/h1&gt;&lt;h2 id=&#34;mklinkC盘程序搬家&#34;&gt;&lt;a href=&#34;#mklinkC盘程序搬家&#34; class=&#34;headerlink&#34; title=&#34;mklinkC盘程序搬家&#34;&gt;&lt;/a&gt;mklinkC盘程序搬家&lt;/h2&gt;&lt;p&gt;命令参数&lt;/p&gt;
+&lt;figure class=&#34;highlight lua&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs lua&#34;&gt;mklink&lt;span class=&#34;hljs-string&#34;&gt;[[/d]|[/h]|[/j]]&lt;/span&gt;&amp;lt;Link&amp;gt;&amp;lt;Target&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h5 id=&#34;参数&#34;&gt;&lt;a href=&#34;#参数&#34; class=&#34;headerlink&#34; title=&#34;参数&#34;&gt;&lt;/a&gt;参数&lt;/h5&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;参数&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&amp;#x2F;d&lt;/td&gt;
+&lt;td&gt;创建目录符号链接。默认情况下，mklink会创建文件符号链接。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;#x2F;H&lt;/td&gt;
+&lt;td&gt;创建硬链接而不是符号链接。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;#x2F;J&lt;/td&gt;
+&lt;td&gt;创建目录连接。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;lt;链接&amp;gt;&lt;/td&gt;
+&lt;td&gt;指定正在创建的符号链接的名称。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;lt;目标&amp;gt;&lt;/td&gt;
+&lt;td&gt;指定新符号链接引用的路径（相对或绝对）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;#x2F;？&lt;/td&gt;
+&lt;td&gt;在命令提示符下显示帮助。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+</content>
+        <category term="windows" />
+        <category term="ms-dos" />
+        <category term="cmd" />
+        <updated>2022-06-21T14:57:15.000Z</updated>
+    </entry>
+</feed>

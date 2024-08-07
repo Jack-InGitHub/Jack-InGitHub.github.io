@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"hyperv\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2022/c6d84d87/",
+            "url": "https://www.oikiou.top/2022/c6d84d87/",
+            "title": "Hyper-V",
+            "date_published": "2022-08-16T05:12:15.000Z",
+            "content_html": "<h1 id=\"家庭版启用Hyper-V\"><a href=\"#家庭版启用Hyper-V\" class=\"headerlink\" title=\"家庭版启用Hyper-V\"></a>家庭版启用Hyper-V</h1><p>若要检查 Windows 版本及内部版本号，选择 Windows 徽标键 + R，然后键入“winver”，选择“确定”。更新到“设置”菜单中的<a href=\"ms-settings:windowsupdate\">最新 Windows 版本</a>。</p>\n<p>将下面代码改成<code>.bat</code>文件，管理员运行</p>\n<figure class=\"highlight shell\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br></pre></td><td class=\"code\"><pre><code class=\"hljs shell\">pushd &quot;%~dp0&quot;<br>dir /b %SystemRoot%\\servicing\\Packages\\*Hyper-V*.mum &gt;hv.txt<br>for /f %%i in (&#x27;findstr /i . hv.txt 2^&gt;nul&#x27;) do dism /online /norestart /add-package:&quot;%SystemRoot%\\servicing\\Packages\\%%i&quot;<br>del hv.txt<br>Dism /online /enable-feature /featurename:Microsoft-Hyper-V -All /LimitAccess /ALL<br>Pause<br></code></pre></td></tr></table></figure>\n\n<p>重启后在控制面板-&gt;程序和功能-&gt;启用或关闭Windows功能-&gt;勾选Hyper-V复选框</p>\n<h2 id=\"卸载-禁用\"><a href=\"#卸载-禁用\" class=\"headerlink\" title=\"卸载 &amp; 禁用\"></a>卸载 &amp; 禁用</h2><ol>\n<li><p>在控制面板中禁用 Hyper-V</p>\n<ol>\n<li>在“控制面板”中，打开“程序和功能”。</li>\n<li>选择“启用或关闭 Windows 功能”。</li>\n<li>展开 <strong>Hyper-V</strong>，展开 <strong>Hyper-V 平台</strong>，然后清除“Hyper-V 虚拟机监控程序”复选框。</li>\n</ol>\n</li>\n<li><p>在 PowerShell 中禁用 Hyper-V</p>\n<ol>\n<li><p>打开提升权限的 PowerShell 窗口。</p>\n</li>\n<li><p>运行以下命令：</p>\n<figure class=\"highlight shell\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><code class=\"hljs shell\">Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-Hypervisor<br></code></pre></td></tr></table></figure></li>\n</ol>\n</li>\n</ol>\n",
+            "tags": [
+                "hyperv"
+            ]
+        }
+    ]
+}

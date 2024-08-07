@@ -1,0 +1,94 @@
+<mxfile host="Electron" modified="2024-06-04T09:54:12.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Rb4DOdVpB63Mwd7TOK1v" version="23.1.5" type="device">
+  <diagram name="第 1 页" id="JU_yorABXUTcr0LXDNRE">
+    <mxGraphModel dx="1176" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="630" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-3" value="item 0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-4" value="item 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-5" value="item ..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="750" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-6" value="item 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-7" value="item 3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-8" value="block(最小擦除单位)&lt;br&gt;假定为 4KByte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="593" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-9" value="假定数据大小为 128Byte&lt;br&gt;&lt;br&gt;一个block可以划分成&lt;br&gt;4096/128=32&lt;br&gt;32个item" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="690" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="630" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-11" value="BitMap" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-12" value="item 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-13" value="item ..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="750" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-14" value="item 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-15" value="item 3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-16" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
+          <mxGeometry x="410" y="740" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-17" value="将第一个item作为bitmap&lt;br&gt;用于记录当前block的数据状态&lt;br&gt;&lt;br&gt;实际上bitmap使用不了这么多空间&lt;br&gt;bitmap的大小可以做一些优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="650" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-20" value="BitMap" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-21" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=-30;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="623.455" y="529.995" width="31.55" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-27" value="s1(status1)、s2(status2)&lt;br&gt;用于标识对应 item 的使用状态&lt;br&gt;&lt;br&gt;含义：&lt;br&gt;11b = 对应的item已擦除（可写入数据）&lt;br&gt;01b = 对应的item已写入（当前有数据）&lt;br&gt;00b = 对应的item已废弃（当前数据无效）&lt;br&gt;&lt;br&gt;例子：&lt;div&gt;数据A写入item1，并将bitmap内的s1改成01b。&lt;/div&gt;&lt;div&gt;数据A发生更新，变成数据B，通过在bitmap内寻找数据A的01b，&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;将01b改成00b，废弃数据A，&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;将数据B写入下一个11b内，&lt;span style=&quot;background-color: initial;&quot;&gt;并将对应的11b改成01b。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;数据即更新完成。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="370" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-28" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-34" value="..." style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-39" value="status1" style="whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="270" y="440" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-30" value="Bit7" style="whiteSpace=wrap;html=1;fontSize=8;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-31" value="Bit6" style="whiteSpace=wrap;html=1;fontSize=8;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-40" value="status2" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-32" value="Bit5" style="whiteSpace=wrap;html=1;fontSize=8;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="310" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-33" value="Bit4" style="whiteSpace=wrap;html=1;fontSize=8;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hW4XJ9roE3pnJ6QgQREa-41" value="..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="480" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

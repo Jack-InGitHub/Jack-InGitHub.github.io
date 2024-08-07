@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"autosar\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2023/2f4ac7e2/",
+            "url": "https://www.oikiou.top/2023/2f4ac7e2/",
+            "title": "AUTOSAR",
+            "date_published": "2023-07-27T11:23:05.000Z",
+            "content_html": "<h1 id=\"AUTOSAR\"><a href=\"#AUTOSAR\" class=\"headerlink\" title=\"AUTOSAR\"></a>AUTOSAR</h1><p>autosar是一个组织，是一套汽车软件开发的方法论（框架），是一个软件架构（操作系统 中间件），是一个通信接口。</p>\n<p>统一标准、分散实现、集中配置</p>\n<p>AUTOSAR分为两种，这两种是并存的，一个是Classic AUTOSAR（硬实时系统），一个是Adaptive AUTOSAR（软实时系统），</p>\n<p><img src=\"/2023/2f4ac7e2/image_9dlPD4Dlwg.png\"></p>\n<h1 id=\"Classic-AUTOSAR\"><a href=\"#Classic-AUTOSAR\" class=\"headerlink\" title=\"Classic AUTOSAR\"></a>Classic AUTOSAR</h1><p>Classic AUTOSAR，是基于<a href=\"https://en.wikipedia.org/wiki/OSEK\" title=\"OSEK的\">OSEK的</a>嵌入式实时ECU的标准。</p>\n<p>AUTOSAR 经典平台架构在最高抽象级别上区分了微控制器上运行的三个软件层：Application Layer、Runtime Environment (RTE) 和Basic Software (BSW)。</p>\n<p><img src=\"/2023/2f4ac7e2/image_T85kwaEFPS.png\"></p>\n<p>经典平台的一个基本概念是虚拟功能总线（VFB）。该虚拟总线是一组抽象的 RTE，尚未部署到特定 ECU，并将应用程序与基础设施解耦。它通过专用端口进行通信，这意味着应用软件的通信接口必须映射到这些端口。VFB 处理各个 ECU 内部以及 ECU 之间的通信。从应用程序的角度来看，不需要了解底层技术或依赖关系的详细知识。这支持独立于硬件的应用软件的开发和使用。</p>\n<h1 id=\"Adaptive-AUTOSAR\"><a href=\"#Adaptive-AUTOSAR\" class=\"headerlink\" title=\"Adaptive AUTOSAR\"></a>Adaptive AUTOSAR</h1><p>Adaptive AUTOSAR，linux等，高性能</p>\n<p><img src=\"/2023/2f4ac7e2/image_iQN8gxa-yL.png\"></p>\n",
+            "tags": [
+                "autosar"
+            ]
+        }
+    ]
+}
