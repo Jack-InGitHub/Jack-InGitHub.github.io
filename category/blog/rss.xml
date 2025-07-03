@@ -5,26 +5,47 @@
         <link>https://www.oikiou.top</link>
         <description>Blog</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 21 Jul 2024 16:23:05 +0800</pubDate>
-        <lastBuildDate>Sun, 21 Jul 2024 16:23:05 +0800</lastBuildDate>
-        <category>autosar</category>
-        <category>aes</category>
+        <pubDate>Thu, 03 Jul 2025 20:42:16 +0800</pubDate>
+        <lastBuildDate>Thu, 03 Jul 2025 20:42:16 +0800</lastBuildDate>
+        <category>c++</category>
+        <category>c/c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>cmd</category>
+        <category>pid</category>
+        <category>micropython</category>
+        <category>python</category>
         <category>embedded</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>web</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>aes</category>
+        <category>autosar</category>
         <category>cc2530</category>
         <category>zigbee</category>
         <category>hp</category>
         <category>chrome</category>
         <category>sscanf</category>
-        <category>c/c++</category>
         <category>flash</category>
         <category>hex</category>
-        <category>license</category>
-        <category>ssl</category>
-        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>license</category>
         <category>md5</category>
         <category>major</category>
         <category>markdown</category>
@@ -37,16 +58,15 @@
         <category>tags</category>
         <category>label</category>
         <category>category</category>
+        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
-        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
-        <category>windows</category>
         <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
@@ -62,34 +82,37 @@
         <category>gzip</category>
         <category>bzip</category>
         <category>tar</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
         <category>character encoding</category>
         <category>gb2312</category>
         <category>utf-8</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
         <category>words</category>
         <category>cortexm3</category>
-        <category>kms</category>
-        <category>office</category>
-        <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
         <category>机智云</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>apk</category>
+        <category>java</category>
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>ct117e-ex</category>
-        <category>apk</category>
-        <category>java</category>
         <category>超声波</category>
+        <category>ct117e-ex</category>
         <category>github</category>
         <category>hosts</category>
         <category>audio</category>
         <category>video</category>
-        <category>cad</category>
+        <category>esp32</category>
+        <category>idf</category>
+        <category>usb</category>
         <category>cat_drive</category>
+        <category>cad</category>
         <category>switch</category>
         <category>nintendo</category>
         <category>game</category>
@@ -98,14 +121,14 @@
         <category>disk</category>
         <category>pve</category>
         <category>virtual</category>
-        <category>software</category>
         <category>摄影</category>
-        <category>synology</category>
-        <category>cmake</category>
+        <category>software</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>synology</category>
+        <category>cmake</category>
         <category>docker</category>
         <category>dockerfile</category>
         <category>namespace</category>
@@ -119,26 +142,25 @@
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>j-tag</category>
+        <category>obsidian</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>obsidian</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
         <category>spacedesk</category>
         <category>投屏</category>
         <category>vscode</category>
-        <category>ide</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
+        <category>j-tag</category>
         <category>commenttranslate</category>
         <category>wsl</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>speedtest</category>
-        <category>tools</category>
         <category>wordpress</category>
-        <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -146,7 +168,8 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>v2ray</category>
+        <category>cortex-a7</category>
+        <category>cortex-m3</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -155,48 +178,52 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>usb</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>cmd</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>pid</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>css</category>
-        <category>html</category>
-        <category>js</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>cortex-a7</category>
-        <category>cortex-m3</category>
-        <category>rtx</category>
         <category>rtos</category>
-        <category>keil</category>
         <category>rt-thread</category>
-        <category>ucos</category>
+        <category>rtx</category>
+        <category>keil</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
         <category>pwm</category>
+        <category>ucos</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>modbus</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>v2ray</category>
         <category>linuxapp</category>
-        <category>curl</category>
-        <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
+        <category>modbus</category>
+        <category>curl</category>
+        <category>libcurl</category>
         <category>alpha_mini</category>
         <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2025/87426b16/</guid>
+            <title>ESP32 Develop</title>
+            <link>https://www.oikiou.top/2025/87426b16/</link>
+            <category>embedded</category>
+            <category>esp32</category>
+            <category>idf</category>
+            <pubDate>Thu, 03 Jul 2025 20:42:16 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;ESP32&#34;&gt;&lt;a href=&#34;#ESP32&#34; class=&#34;headerlink&#34; title=&#34;ESP32&#34;&gt;&lt;/a&gt;ESP32&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;idf.py set-target esp32c3&lt;br&gt;&lt;br&gt;idf.py menuconfig&lt;br&gt;&lt;br&gt;idf.py build&lt;br&gt;&lt;br&gt;idf.py -p COM12 flash moniter&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h1 id=&#34;IDF&#34;&gt;&lt;a href=&#34;#IDF&#34; class=&#34;headerlink&#34; title=&#34;IDF&#34;&gt;&lt;/a&gt;IDF&lt;/h1&gt;&lt;h2 id=&#34;组件管理器-The-ESP-Component-Registry&#34;&gt;&lt;a href=&#34;#组件管理器-The-ESP-Component-Registry&#34; class=&#34;headerlink&#34; title=&#34;组件管理器 The ESP Component Registry&#34;&gt;&lt;/a&gt;组件管理器 The ESP Component Registry&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://components.espressif.com/&#34;&gt;https://components.espressif.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;create-manifest&#34;&gt;&lt;a href=&#34;#create-manifest&#34; class=&#34;headerlink&#34; title=&#34;create-manifest&#34;&gt;&lt;/a&gt;create-manifest&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;idf.py create-manifest&lt;/code&gt; 为 main 组件创建清单文件&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;idf.py create-manifest --component=my_component&lt;/code&gt; 在 &lt;code&gt;components&lt;/code&gt; 目录下，为组件 &lt;strong&gt;my_component&lt;/strong&gt; 创建清单文件&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;idf.py create-manifest --path=&amp;quot;../../my_component&amp;quot;&lt;/code&gt; 在 &lt;code&gt;my_component&lt;/code&gt; 目录下，为组件 &lt;strong&gt;my_component&lt;/strong&gt; 创建清单文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在向项目的某个组件添加新的清单时，必须先运行 &lt;code&gt;idf.py reconfigure&lt;/code&gt;，手动重新配置项目。&lt;/p&gt;
+&lt;h3 id=&#34;add-dependency&#34;&gt;&lt;a href=&#34;#add-dependency&#34; class=&#34;headerlink&#34; title=&#34;add-dependency&#34;&gt;&lt;/a&gt;add-dependency&lt;/h3&gt;&lt;p&gt;要为 ESP-IDF 项目中的组件（如 &lt;code&gt;my_component&lt;/code&gt;）添加依赖项，可以运行命令 &lt;code&gt;idf.py add-dependency DEPENDENCY&lt;/code&gt;。&lt;br&gt;&lt;code&gt;DEPENDENCY&lt;/code&gt; 参数代表一个由 IDF 组件管理器管理的额外组件，而 &lt;code&gt;my_component&lt;/code&gt; 也依赖于这个组件。&lt;code&gt;DEPENDENCY&lt;/code&gt; 参数的格式为 &lt;code&gt;namespace/name=1.0.0&lt;/code&gt;，namespace&amp;#x2F;name 代表组件名称，&amp;#x3D;1.0.0 是组件的版本范围，详情请参阅 &lt;a href=&#34;https://docs.espressif.com/projects/idf-component-manager/en/latest/reference/versioning.html&#34;&gt;版本文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;直接编辑&#34;&gt;&lt;a href=&#34;#直接编辑&#34; class=&#34;headerlink&#34; title=&#34;直接编辑&#34;&gt;&lt;/a&gt;直接编辑&lt;/h3&gt;&lt;p&gt;通过在文本编辑器直接编辑，你可以轻松定义清单文件 &lt;code&gt;idf_component.yml&lt;/code&gt; 中的依赖项。&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2024/2f262a28/</guid>
             <title>音视频编解码</title>
@@ -3029,6 +3056,7 @@
 &lt;p&gt;4.在中国，过往的判例都没有涉及开源软件许可证本身&lt;/p&gt;
 &lt;p&gt;5.除了面临法律诉讼风险，违反许可证的行为会导致自由软件者和开源社区的排斥，某种程度上会影响违约公司的商业信誉&lt;/p&gt;
 &lt;h1 id=&#34;差异&#34;&gt;&lt;a href=&#34;#差异&#34; class=&#34;headerlink&#34; title=&#34;差异&#34;&gt;&lt;/a&gt;差异&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/2023/79891ac1/v2-3a460a2dad345fe0c2e0e79b626aacc9_720w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2023/79891ac1/file-20241216174657286.png&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -3657,60 +3685,6 @@
 
 &lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://techviewleo.com/compress-uncompress-files-tar-gzip-bzip2-xz-linux/&#34;&gt;LPIC 101 – Compress and Uncompress Files Using tar, gzip, bzip2 and xz on Linux&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_archive_formats#Comparison&#34;&gt;List of archive formats&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://www.oikiou.top/2022/45a589a3/</guid>
-            <title>MD5</title>
-            <link>https://www.oikiou.top/2022/45a589a3/</link>
-            <category>md5</category>
-            <pubDate>Wed, 14 Sep 2022 22:57:15 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;MD5&#34;&gt;&lt;a href=&#34;#MD5&#34; class=&#34;headerlink&#34; title=&#34;MD5&#34;&gt;&lt;/a&gt;MD5&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;MD5消息摘要算法&lt;/strong&gt;（英语：MD5 Message-Digest Algorithm），一种被广泛使用的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A2%BC%E9%9B%9C%E6%B9%8A%E5%87%BD%E6%95%B8&#34;&gt;密码散列函数&lt;/a&gt;，可以产生出一个128位（16个字符(BYTES)）的散列值（hash value），用于确保信息传输完整一致。将&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE&#34;&gt;数据&lt;/a&gt;（如一段文字）运算变为另一固定长度值，是散列算法的基础原理。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;参考&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/121492822&#34;&gt;MD5破解的几种方法&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MD5&#34;&gt;Wiki MD5&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;特性&#34;&gt;&lt;a href=&#34;#特性&#34; class=&#34;headerlink&#34; title=&#34;特性&#34;&gt;&lt;/a&gt;特性&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;不可逆向的&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;  我们没办法把MD5码还原对应的原文。道理很简单，任意长度的数据经过MD5处理后，所包含的信息量已经大大减少，那是不可能再次还原成为原始信息的。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;原文中作一个小变化其散列也会发生巨大的变化&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;figure class=&#34;highlight excel&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs excel&#34;&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;MD5&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;The quick brown fox jumps over the lazy dog&amp;quot;&lt;/span&gt;)&lt;br&gt;= &lt;span class=&#34;hljs-number&#34;&gt;9&lt;/span&gt;e107d9d372bb6826bd81d3542a419d6&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;  比如用c取代d, 其MD5值发生了巨大的变化&lt;/p&gt;
-  &lt;figure class=&#34;highlight excel&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs excel&#34;&gt;&lt;span class=&#34;hljs-symbol&#34;&gt;MD5&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;The quick brown fox jumps over the lazy cog&amp;quot;&lt;/span&gt;)&lt;br&gt;= &lt;span class=&#34;hljs-number&#34;&gt;1055&lt;/span&gt;d3e698d289f2af8663725127bd4b&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;已被破解&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;  通俗点讲就是，可以找到一个A和一个B，使hash（A）&amp;#x3D;hash（B），而真正有用的是给定一个A能得到B，使hash（A）&amp;#x3D;hash（B），而王小云能做到这样&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;应用&#34;&gt;&lt;a href=&#34;#应用&#34; class=&#34;headerlink&#34; title=&#34;应用&#34;&gt;&lt;/a&gt;应用&lt;/h1&gt;&lt;p&gt;MD5 摘要已在&lt;a href=&#34;https://en.wikipedia.org/wiki/Software&#34;&gt;软件&lt;/a&gt;世界中广泛使用，以确保传输的文件已完好无损地到达。例如，文件服务器通常会为文件提供预先计算的 MD5（称为&lt;a href=&#34;https://en.wikipedia.org/wiki/Md5sum&#34;&gt;md5sum&lt;/a&gt;）&lt;a href=&#34;https://en.wikipedia.org/wiki/Checksum&#34;&gt;校验和&lt;/a&gt;，以便用户可以将下载文件的校验和与其进行比较。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2022/45a589a3/350px-CPT-Hashing-File-Transmission.png&#34; alt=&#34;350px-CPT-Hashing-File-Transmission.svg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;由于很容易产生 MD5 冲突，因此创建文件的人可能会创建具有相同校验和的第二个文件，因此该技术无法防止某些形式的恶意篡改。&lt;/p&gt;
-&lt;p&gt;在某些情况下，校验和是不可信的（例如，如果它是通过与下载文件相同的渠道获得的，他人可能修改了文件后再次修改了MD5，使得MD5并不可信），在这种情况下，MD5 只能提供错误检查功能：“它会识别损坏或不完整的下载，这变成下载较大文件时更有可能。”&lt;/p&gt;
-&lt;h1 id=&#34;破解&#34;&gt;&lt;a href=&#34;#破解&#34; class=&#34;headerlink&#34; title=&#34;破解&#34;&gt;&lt;/a&gt;破解&lt;/h1&gt;&lt;h2 id=&#34;穷举法-字典法&#34;&gt;&lt;a href=&#34;#穷举法-字典法&#34; class=&#34;headerlink&#34; title=&#34;穷举法&amp;amp;字典法&#34;&gt;&lt;/a&gt;穷举法&amp;amp;字典法&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;穷举法非常简单，就是不停地尝试各种字符的排列组合，看哪一个组合的MD5码能对上。&lt;/strong&gt;可惜缺点是太耗费时间了。我们举个栗子，假设我们要破解一个6位大小写字母和数字混合的密码，那么一共有(26+26+10)&lt;sup&gt;6&lt;/sup&gt; 种组合。这个数的大小超过500亿。&lt;/p&gt;
-&lt;p&gt;既然计算如此费时，能不能考虑&lt;strong&gt;把计算结果以映射表的形式存放起来，一个萝卜一个坑&lt;/strong&gt;，一个原文对应着一个MD5码呢？可以呀！这就是传说中的“字典法”。将已知的MD5码查表，直接反查出原文。&lt;strong&gt;字典法体现了算法设计的“以空间换时间”的思想。&lt;/strong&gt;缺点是比较耗费空间。不过现在硬盘的价格变得白菜价了，空间开销不算什么。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cmd5.com/password.aspx&#34;&gt;CMD5 反查网站&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.somd5.com/&#34;&gt;SMD5 反查网站&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;哈希链表-彩虹表法&#34;&gt;&lt;a href=&#34;#哈希链表-彩虹表法&#34; class=&#34;headerlink&#34; title=&#34;哈希链表&amp;amp;彩虹表法&#34;&gt;&lt;/a&gt;哈希链表&amp;amp;彩虹表法&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;  如果说穷举法太耗费时间，字典法太耗费存储空间的话，我们能不能考虑在时间消耗和空间消耗之间折中呢？我们可以考虑用链表将一系列有意义的原文和MD5码串起来。&lt;/p&gt;
-&lt;p&gt;  要构造这样的链表，我们需要两个函数：哈希函数H(x)和衰减函数（reduction function）R(x)。哈希函数可以是MD5，也可以是其他的消息摘要算法。H(x)的值域是R(x)的定义域，R(x)的值域是H(x)的定义域。&lt;strong&gt;R(x)不是H(x)的反函数。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;  将一个原文不停地使用H(x)和R(x)交替进行运算k次，再将原文本身和运算结果以链表的形式串接起来，就可以得到结点个数为2k+1的链表。实际存放的时候只存放首端和末端两个原文即可。&lt;strong&gt;这种链表叫做“哈希链表”，体现了算法设计的“时空权衡”（Space and Time Tradeoffs）。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;  举个栗子，假设原文s&amp;#x3D;abcabc，经过2次交替运算，得到以下的链表：&lt;/p&gt;
-&lt;p&gt;  abcabc-&amp;gt;H(x)-&amp;gt;3C8B0D7A-&amp;gt;R(x)-&amp;gt;eopmca-&amp;gt;H(x)-&amp;gt;7E9F216C-&amp;gt;R(x)-&amp;gt;rapper&lt;/p&gt;
-&lt;p&gt;  以上数据均为举例编造的，仅为说明原理使用。那我们存放这个链表的时候，只需要记录abcabc和rapper两个原文即可。&lt;/p&gt;
-&lt;p&gt;  假设我们要破解的摘要值（哈希链表的H(x)不一定是MD5算法，这里用更准确的说法代替MD5码）是7E9F216C，经过R(x)运算得到rapper，说明我们要寻找的原文就在以rapper为末端的哈希链表中。从首端开始经过多次运算，我们发现eopmca的摘要值就是7E9F216C。于是就反查出7E9F216C对应的原文是eopmca。&lt;/p&gt;
-&lt;p&gt;  &lt;strong&gt;如果在生成哈希链表的时候依次使用多个不一样的R(x)，此时的哈希链表就是“彩虹表”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;  这里有已经计算好的彩虹表：&lt;a href=&#34;https://link.zhihu.com/?target=http://project-rainbowcrack.com/table.htm&#34;&gt;http://project-rainbowcrack.com&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;差分攻击&#34;&gt;&lt;a href=&#34;#差分攻击&#34; class=&#34;headerlink&#34; title=&#34;差分攻击&#34;&gt;&lt;/a&gt;差分攻击&lt;/h2&gt;&lt;p&gt;上面介绍的穷举法、字典法和彩虹表法都是暴力破解，适用于任何的消息摘要算法。&lt;/p&gt;
-&lt;p&gt;真正意义上MD5算法的破解，是2004年山东大学王小云教授提出的MD5碰撞方法。她所用到的方法正是差分攻击。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.sohu.com/a/501560600_121106869&#34;&gt;她是这样的“中国密码女神”！&lt;/a&gt; &lt;/p&gt;
  ]]></description>
         </item>
     </channel>

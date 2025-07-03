@@ -4,24 +4,45 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;note&#34; tag</title>
     <link href="https://www.oikiou.top" />
     <updated>2020-08-08T00:08:08.000Z</updated>
-    <category term="autosar" />
-    <category term="aes" />
+    <category term="c++" />
+    <category term="c/c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="windows" />
+    <category term="cmd" />
+    <category term="pid" />
+    <category term="micropython" />
+    <category term="python" />
     <category term="embedded" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="web" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="aes" />
+    <category term="autosar" />
     <category term="cc2530" />
     <category term="zigbee" />
     <category term="hp" />
     <category term="chrome" />
     <category term="sscanf" />
-    <category term="c/c++" />
     <category term="flash" />
     <category term="hex" />
-    <category term="license" />
-    <category term="ssl" />
-    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="license" />
     <category term="md5" />
     <category term="major" />
     <category term="markdown" />
@@ -34,16 +55,15 @@
     <category term="tags" />
     <category term="label" />
     <category term="category" />
+    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
-    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
-    <category term="windows" />
     <category term="makefile" />
     <category term="xip" />
     <category term="nor" />
@@ -59,34 +79,37 @@
     <category term="gzip" />
     <category term="bzip" />
     <category term="tar" />
-    <category term="zsh" />
-    <category term="shell" />
-    <category term="linux" />
     <category term="character encoding" />
     <category term="gb2312" />
     <category term="utf-8" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
     <category term="words" />
     <category term="cortexm3" />
-    <category term="kms" />
-    <category term="office" />
-    <category term="volume" />
     <category term="DS_Store" />
     <category term="rtf" />
     <category term="后缀" />
     <category term="机智云" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="apk" />
+    <category term="java" />
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="ct117e-ex" />
-    <category term="apk" />
-    <category term="java" />
     <category term="超声波" />
+    <category term="ct117e-ex" />
     <category term="github" />
     <category term="hosts" />
     <category term="audio" />
     <category term="video" />
-    <category term="cad" />
+    <category term="esp32" />
+    <category term="idf" />
+    <category term="usb" />
     <category term="cat_drive" />
+    <category term="cad" />
     <category term="switch" />
     <category term="nintendo" />
     <category term="game" />
@@ -95,14 +118,14 @@
     <category term="disk" />
     <category term="pve" />
     <category term="virtual" />
-    <category term="software" />
     <category term="摄影" />
-    <category term="synology" />
-    <category term="cmake" />
+    <category term="software" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="synology" />
+    <category term="cmake" />
     <category term="docker" />
     <category term="dockerfile" />
     <category term="namespace" />
@@ -116,26 +139,25 @@
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="j-tag" />
+    <category term="obsidian" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="obsidian" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
     <category term="spacedesk" />
     <category term="投屏" />
     <category term="vscode" />
-    <category term="ide" />
-    <category term="sourceinsigh" />
-    <category term="si" />
+    <category term="j-tag" />
     <category term="commenttranslate" />
     <category term="wsl" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="speedtest" />
-    <category term="tools" />
     <category term="wordpress" />
-    <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -143,7 +165,8 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
-    <category term="v2ray" />
+    <category term="cortex-a7" />
+    <category term="cortex-m3" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -152,46 +175,25 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
-    <category term="usb" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="cmd" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="pid" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="css" />
-    <category term="html" />
-    <category term="js" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="cortex-a7" />
-    <category term="cortex-m3" />
-    <category term="rtx" />
     <category term="rtos" />
-    <category term="keil" />
     <category term="rt-thread" />
-    <category term="ucos" />
+    <category term="rtx" />
+    <category term="keil" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="bluetooth" />
-    <category term="蓝牙" />
     <category term="pwm" />
+    <category term="ucos" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="modbus" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="v2ray" />
     <category term="linuxapp" />
-    <category term="curl" />
-    <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
+    <category term="modbus" />
+    <category term="curl" />
+    <category term="libcurl" />
     <category term="alpha_mini" />
     <category term="正点原子" />
     <entry>
@@ -242,7 +244,7 @@
 &lt;h2 id=&#34;文章内的超链接&#34;&gt;&lt;a href=&#34;#文章内的超链接&#34; class=&#34;headerlink&#34; title=&#34;文章内的超链接&#34;&gt;&lt;/a&gt;&lt;a id=&#34;文章内的超链接&#34;&gt;文章内的超链接&lt;/a&gt;&lt;/h2&gt;&lt;p&gt; &lt;a href=&#34;##%E8%A1%A8%E6%A0%BC&#34;&gt;这是一个文章内部的超链接&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt; Ctrl+左键  &lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;#HTML跳转&#34;&gt;回到-&amp;gt;HTML 跳转&lt;/a&gt; &lt;/p&gt;
-&lt;h2 id=&#34;Email-链接&#34;&gt;&lt;a href=&#34;#Email-链接&#34; class=&#34;headerlink&#34; title=&#34;Email 链接&#34;&gt;&lt;/a&gt;Email 链接&lt;/h2&gt;&lt;p&gt;作者的 Emal &lt;a href=&#34;mailto:&amp;#120;&amp;#x78;&amp;#x40;&amp;#x78;&amp;#x78;&amp;#46;&amp;#x63;&amp;#111;&amp;#x6d;&#34;&gt;&amp;#120;&amp;#x78;&amp;#x40;&amp;#x78;&amp;#x78;&amp;#46;&amp;#x63;&amp;#111;&amp;#x6d;&lt;/a&gt; 链接&lt;/p&gt;
+&lt;h2 id=&#34;Email-链接&#34;&gt;&lt;a href=&#34;#Email-链接&#34; class=&#34;headerlink&#34; title=&#34;Email 链接&#34;&gt;&lt;/a&gt;Email 链接&lt;/h2&gt;&lt;p&gt;作者的 Emal &lt;a href=&#34;mailto:&amp;#120;&amp;#x78;&amp;#x40;&amp;#x78;&amp;#120;&amp;#46;&amp;#x63;&amp;#111;&amp;#109;&#34;&gt;&amp;#120;&amp;#x78;&amp;#x40;&amp;#x78;&amp;#120;&amp;#46;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt; 链接&lt;/p&gt;
 &lt;h2 id=&#34;插入图片&#34;&gt;&lt;a href=&#34;#插入图片&#34; class=&#34;headerlink&#34; title=&#34;插入图片&#34;&gt;&lt;/a&gt;插入图片&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;内联风格&lt;/li&gt;
 &lt;/ul&gt;
@@ -962,15 +964,15 @@
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;前导零填充，会忽略-符号。&lt;/td&gt;
 &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
 &lt;tr&gt;
-&lt;td&gt;修饰符&lt;/td&gt;
-&lt;td&gt;意义&lt;/td&gt;
+&lt;th&gt;修饰符&lt;/th&gt;
+&lt;th&gt;意义&lt;/th&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;———&lt;/td&gt;
-&lt;td&gt;————————————————————&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
 &lt;td&gt;digit(s)&lt;/td&gt;
 &lt;td&gt;字段宽度的最小值。&lt;br/&gt;%4d&lt;/td&gt;
 &lt;/tr&gt;
@@ -1082,6 +1084,17 @@
 &lt;li&gt;注意节约内存，小数据全部写在前面方便对齐。&lt;/li&gt;
 &lt;li&gt;结构体内的结构体因为已经是对其了的，所以，可以建议放在最前、最后。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;C语言位域的内存存放顺序&#34;&gt;&lt;a href=&#34;#C语言位域的内存存放顺序&#34; class=&#34;headerlink&#34; title=&#34;C语言位域的内存存放顺序&#34;&gt;&lt;/a&gt;C语言位域的内存存放顺序&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;字节序的影响&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;在小端字节序（如常见的x86架构）下，位域从低地址开始存储。&lt;/li&gt;
+&lt;li&gt;在大端字节序下，位域的存储顺序可能会有所不同。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;编译器的实现差异&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;不同编译器对位域的实现可能不同。例如，GCC会尽量压缩存储，而VC&amp;#x2F;VS可能不会&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;匿名-union-struct&#34;&gt;&lt;a href=&#34;#匿名-union-struct&#34; class=&#34;headerlink&#34; title=&#34;匿名 union struct&#34;&gt;&lt;/a&gt;匿名 union struct&lt;/h2&gt;&lt;p&gt;可以在&lt;strong&gt;结构体&lt;/strong&gt;中声明某个联合体（或结构体）而不用指出它的名字，如此之后就可以像使用结构体成员一样直接使用其中联合体（或结构体）的成员。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;  Anonymous unions are a GNU extension, not part of any standard version of the C language. &lt;/p&gt;
@@ -1200,7 +1213,9 @@
 &lt;p&gt;编译器总是要为函数的每个参数制作临时副本，&lt;code&gt;void fun_p(int *p)&lt;/code&gt;函数的指针参数是&lt;code&gt;p&lt;/code&gt;，编译器为其分配的副本是&lt;code&gt;_p&lt;/code&gt;，编译器使&lt;code&gt;_p=p&lt;/code&gt;就是两者不是同一个变量但是指向相同的地址，函数里面修改了&lt;code&gt;_P&lt;/code&gt;的指向，但是并没有修改&lt;code&gt;p&lt;/code&gt;的指向，所以导致函数&lt;code&gt;void fun_p(int *p)&lt;/code&gt;并没有得到期待的运行结果。&lt;/p&gt;
 &lt;p&gt;而&lt;code&gt;void fun_p_p(int *p)&lt;/code&gt;函数是用指向&lt;code&gt;p_a&lt;/code&gt;的指针修改了&lt;code&gt;p_a&lt;/code&gt;的值。&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;修改某个变量，要用指向这个变量的指针！而修改指针要用（指向指针的指针）才行！&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;野指针&#34;&gt;&lt;a href=&#34;#野指针&#34; class=&#34;headerlink&#34; title=&#34;野指针&#34;&gt;&lt;/a&gt;野指针&lt;/h3&gt;&lt;p&gt;申请内存后的指针，被&lt;code&gt;free() &lt;/code&gt;或&lt;code&gt; delete()&lt;/code&gt;之后内存被释放，但是指针还是指向的那块内存，这个指针就叫野指针。&lt;/p&gt;
+&lt;h3 id=&#34;野指针-wild-pointer&#34;&gt;&lt;a href=&#34;#野指针-wild-pointer&#34; class=&#34;headerlink&#34; title=&#34;野指针 wild pointer&#34;&gt;&lt;/a&gt;野指针 wild pointer&lt;/h3&gt;&lt;p&gt;野指针突出一个野字，这个野就是状态未知的。它可能指向一块未知的区域。&lt;br&gt;野指针是指尚未正确初始化的指针，因此指向某个随机内存块。产生野指针是一个严重错误。&lt;/p&gt;
+&lt;h3 id=&#34;空指针&#34;&gt;&lt;a href=&#34;#空指针&#34; class=&#34;headerlink&#34; title=&#34;空指针&#34;&gt;&lt;/a&gt;空指针&lt;/h3&gt;&lt;p&gt;一般我们将等于&lt;code&gt;0&lt;/code&gt;&amp;#x2F;&lt;code&gt;NULL&lt;/code&gt;&amp;#x2F;&lt;code&gt;nullptr&lt;/code&gt;的指针称为空指针。空指针不能被解引用，但是可以对空指针取地址。&lt;br&gt;&lt;code&gt;0&lt;/code&gt;是&lt;code&gt;int&lt;/code&gt;类型，&lt;code&gt;NULL&lt;/code&gt;在g++下是一个宏定义，而&lt;code&gt;nullptr&lt;/code&gt;是有类型的；&lt;/p&gt;
+&lt;h3 id=&#34;悬空指针-dangling-pointer&#34;&gt;&lt;a href=&#34;#悬空指针-dangling-pointer&#34; class=&#34;headerlink&#34; title=&#34;悬空指针 dangling pointer&#34;&gt;&lt;/a&gt;悬空指针 dangling pointer&lt;/h3&gt;&lt;p&gt;悬空指针是指指针指向的内容已被释放，指针指向的对象的生命周期已结束。&lt;br&gt;悬垂指针是指以前指向有效地址但现在不再指向的指针。这通常是由于该内存位置被释放并且不再可用。除非您尝试访问该指针指向的内存位置，否则悬垂指针没有任何问题。最佳做法始终是不产生或留下悬垂指针。&lt;/p&gt;
 &lt;h2 id=&#34;跳的转到指定地址执行程序&#34;&gt;&lt;a href=&#34;#跳的转到指定地址执行程序&#34; class=&#34;headerlink&#34; title=&#34;跳的转到指定地址执行程序&#34;&gt;&lt;/a&gt;跳的转到指定地址执行程序&lt;/h2&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;第一种办法：&lt;span class=&#34;hljs-keyword&#34;&gt;goto&lt;/span&gt;&lt;br&gt;第二种办法：&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//解释&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; (*)(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;)				&lt;span class=&#34;hljs-comment&#34;&gt;//函数指针类型&lt;/span&gt;&lt;br&gt;(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; (*)(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;)) &lt;span class=&#34;hljs-number&#34;&gt;100&lt;/span&gt;		&lt;span class=&#34;hljs-comment&#34;&gt;//将 100 强制转换为 函数指针类型&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//函数定义&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;func&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&amp;#123;&lt;br&gt;	&lt;span class=&#34;hljs-comment&#34;&gt;//code&lt;/span&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//函数调用&lt;/span&gt;&lt;br&gt;func();&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//使用函数指针来执行&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt; (*pF)(&lt;span class=&#34;hljs-type&#34;&gt;void&lt;/span&gt;) = func;	&lt;span class=&#34;hljs-comment&#34;&gt;//使用函数指针指向func函数&lt;/span&gt;&lt;br&gt;pF();						&lt;span class=&#34;hljs-comment&#34;&gt;//利用函数指针调用函数&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
@@ -1641,6 +1656,9 @@
 &lt;p&gt;I2C从机地址有7位、8位、10位不同的地址空间，一般来说7位比较常见。&lt;/p&gt;
 &lt;p&gt;I²C的参考设计使用一个7比特长度的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BD%8D%E5%9D%80%E7%A9%BA%E9%96%93&#34;&gt;地址空间&lt;/a&gt;但保留了16个地址，所以在一组总线最多可和112个节点通信[&lt;a href=&#34;https://zh.wikipedia.org/zh-cn/I%C2%B2C#cite_note-3&#34;&gt;a]&lt;/a&gt;。在7位寻址过程中，从机地址在启动信号后的第一个字节开始传输，该字节的前7位为从机地址，第8位为读写位，其中0表示写，1表示读。&lt;/p&gt;
 &lt;p&gt;虽然最大的节点数目是被地址空间所限制住，但实际上也会被总线上的总&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AE%B9&#34;&gt;电容&lt;/a&gt;所限制住，一般而言为400 pF。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注意：&lt;br&gt;调试的时候需要注意设备地址是已经左移之后的还是未左移的！&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;img src=&#34;/2018/ef667962/I2C_data_transfer.svg&#34; alt=&#34;Data transfer sequence&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;  &lt;strong&gt;参考上面的图像我们可以看到，&lt;/strong&gt;&lt;/p&gt;
@@ -1669,6 +1687,9 @@
 &lt;p&gt;&lt;strong&gt;单向通信速度（模式）：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;5 Mbit&amp;#x2F;s：超快模式，UItra Fast-mode (UFm)。&lt;/p&gt;
 &lt;h2 id=&#34;SPI&#34;&gt;&lt;a href=&#34;#SPI&#34; class=&#34;headerlink&#34; title=&#34;SPI&#34;&gt;&lt;/a&gt;SPI&lt;/h2&gt;&lt;p&gt;串行外设接口（SPI）是一种&lt;strong&gt;同步串行&lt;/strong&gt;通信规范，主要用于嵌入式系统，用于芯片（电子设备）之间的短距离有线通信。摩托罗拉在 1980 年代中期开发了该规范，该规范已成为具有许多变体的事实标准。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;调试SPI千万要注意CPOL CPHA大部分通信异常都是出现在这里&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;SPI有四个逻辑信号&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;SCLK : Serial Clock (clock signal from main)&lt;/li&gt;
@@ -1828,7 +1849,7 @@
 &lt;h2 id=&#34;x86&#34;&gt;&lt;a href=&#34;#x86&#34; class=&#34;headerlink&#34; title=&#34;x86&#34;&gt;&lt;/a&gt;x86&lt;/h2&gt;&lt;h1 id=&#34;内建函数-builtin&#34;&gt;&lt;a href=&#34;#内建函数-builtin&#34; class=&#34;headerlink&#34; title=&#34;内建函数 builtin&#34;&gt;&lt;/a&gt;内建函数 builtin&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html&#34;&gt;Other Built-in Functions Provided by GCC&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;内建函数的函数命名，通常以 &lt;code&gt;__builtin&lt;/code&gt; 开头。这些函数主要在编译器内部使用，主要是为编译器服务的。&lt;br&gt;GCC 还提供了大量内置函数。其中一些是用于处理异常或可变长度参数列表的内部用途，这里不再赘述，因为它们可能会随时更改；我们不建议广泛使用这些函数。&lt;br&gt;其余函数是为了优化目的而提供的。&lt;/p&gt;
 &lt;h2 id=&#34;builtin-expect&#34;&gt;&lt;a href=&#34;#builtin-expect&#34; class=&#34;headerlink&#34; title=&#34;__builtin_expect&#34;&gt;&lt;/a&gt;&lt;code&gt;__builtin_expect&lt;/code&gt;&lt;/h2&gt;&lt;p&gt;您可以使用&lt;code&gt;__builtin_expect&lt;/code&gt;来为编译器提供分支预测信息。&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 表示大部分情况下 ptr 都不等于 NULL&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (__builtin_expect (ptr != &lt;span class=&#34;hljs-literal&#34;&gt;NULL&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;))&lt;br&gt;  foo (*ptr);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 表示大部分情况下 ptr 都不等于 NULL&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (__builtin_expect (ptr != &lt;span class=&#34;hljs-literal&#34;&gt;NULL&lt;/span&gt;, &lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;))&lt;br&gt;  foo (*ptr);&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// 在很多源码如Linux内核、Glib等,我们都能看到likely()和unlikely()这两个宏,通常这两个宏定义是下面这样的形式。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; likely(x)      __builtin_expect(!!(x), 1)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; unlikely(x)    __builtin_expect(!!(x), 0)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (unlikely(x == &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;)) &amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 很少执行的代码&lt;/span&gt;&lt;br&gt;&amp;#125; &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt; &amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;// 经常执行的代码&lt;/span&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 &lt;h2 id=&#34;builtin-bswap32-64&#34;&gt;&lt;a href=&#34;#builtin-bswap32-64&#34; class=&#34;headerlink&#34; title=&#34;__builtin_bswap32 64&#34;&gt;&lt;/a&gt;&lt;code&gt;__builtin_bswap32 64&lt;/code&gt;&lt;/h2&gt;&lt;p&gt;— 内置函数：int32_t &lt;strong&gt;__builtin_bswap32&lt;/strong&gt; ( int32_t x )  &lt;/p&gt;
@@ -2148,6 +2169,7 @@
 &lt;li&gt;系统异常一定要优先检查 系统各大件是否运行正常 &lt;strong&gt;SoC、Flash、晶振(主晶振、RTC晶振)、当然还有最重要的电源&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;CRC XOR 各种校验的算法一定要确认一下多项式和初值，很多时候校验对不上都是这些的问题。&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <category term="embedded" />

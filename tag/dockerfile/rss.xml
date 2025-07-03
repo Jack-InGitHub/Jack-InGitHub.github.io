@@ -5,26 +5,47 @@
         <link>https://www.oikiou.top</link>
         <description>Blog</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 21 Jul 2022 21:38:15 +0800</pubDate>
-        <lastBuildDate>Thu, 21 Jul 2022 21:38:15 +0800</lastBuildDate>
-        <category>autosar</category>
-        <category>aes</category>
+        <pubDate>Tue, 13 May 2025 13:23:05 +0800</pubDate>
+        <lastBuildDate>Tue, 13 May 2025 13:23:05 +0800</lastBuildDate>
+        <category>c++</category>
+        <category>c/c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>cmd</category>
+        <category>pid</category>
+        <category>micropython</category>
+        <category>python</category>
         <category>embedded</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>web</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>aes</category>
+        <category>autosar</category>
         <category>cc2530</category>
         <category>zigbee</category>
         <category>hp</category>
         <category>chrome</category>
         <category>sscanf</category>
-        <category>c/c++</category>
         <category>flash</category>
         <category>hex</category>
-        <category>license</category>
-        <category>ssl</category>
-        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>license</category>
         <category>md5</category>
         <category>major</category>
         <category>markdown</category>
@@ -37,16 +58,15 @@
         <category>tags</category>
         <category>label</category>
         <category>category</category>
+        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
-        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
-        <category>windows</category>
         <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
@@ -62,34 +82,37 @@
         <category>gzip</category>
         <category>bzip</category>
         <category>tar</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
         <category>character encoding</category>
         <category>gb2312</category>
         <category>utf-8</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
         <category>words</category>
         <category>cortexm3</category>
-        <category>kms</category>
-        <category>office</category>
-        <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
         <category>机智云</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>apk</category>
+        <category>java</category>
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>ct117e-ex</category>
-        <category>apk</category>
-        <category>java</category>
         <category>超声波</category>
+        <category>ct117e-ex</category>
         <category>github</category>
         <category>hosts</category>
         <category>audio</category>
         <category>video</category>
-        <category>cad</category>
+        <category>esp32</category>
+        <category>idf</category>
+        <category>usb</category>
         <category>cat_drive</category>
+        <category>cad</category>
         <category>switch</category>
         <category>nintendo</category>
         <category>game</category>
@@ -98,14 +121,14 @@
         <category>disk</category>
         <category>pve</category>
         <category>virtual</category>
-        <category>software</category>
         <category>摄影</category>
-        <category>synology</category>
-        <category>cmake</category>
+        <category>software</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>synology</category>
+        <category>cmake</category>
         <category>docker</category>
         <category>dockerfile</category>
         <category>namespace</category>
@@ -119,26 +142,25 @@
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>j-tag</category>
+        <category>obsidian</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>obsidian</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
         <category>spacedesk</category>
         <category>投屏</category>
         <category>vscode</category>
-        <category>ide</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
+        <category>j-tag</category>
         <category>commenttranslate</category>
         <category>wsl</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>speedtest</category>
-        <category>tools</category>
         <category>wordpress</category>
-        <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -146,7 +168,8 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>v2ray</category>
+        <category>cortex-a7</category>
+        <category>cortex-m3</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -155,48 +178,132 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>usb</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>cmd</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>pid</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>css</category>
-        <category>html</category>
-        <category>js</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>cortex-a7</category>
-        <category>cortex-m3</category>
-        <category>rtx</category>
         <category>rtos</category>
-        <category>keil</category>
         <category>rt-thread</category>
-        <category>ucos</category>
+        <category>rtx</category>
+        <category>keil</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
         <category>pwm</category>
+        <category>ucos</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>modbus</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>v2ray</category>
         <category>linuxapp</category>
-        <category>curl</category>
-        <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
+        <category>modbus</category>
+        <category>curl</category>
+        <category>libcurl</category>
         <category>alpha_mini</category>
         <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2025/60641507/</guid>
+            <title>Docker Compose</title>
+            <link>https://www.oikiou.top/2025/60641507/</link>
+            <category>docker</category>
+            <category>dockerfile</category>
+            <category>namespace</category>
+            <category>cgroup</category>
+            <category>dockerhub</category>
+            <pubDate>Tue, 13 May 2025 13:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;Docker-Compose&#34;&gt;&lt;a href=&#34;#Docker-Compose&#34; class=&#34;headerlink&#34; title=&#34;Docker Compose&#34;&gt;&lt;/a&gt;Docker Compose&lt;/h1&gt;&lt;h1 id=&#34;Docker-Compose是什么&#34;&gt;&lt;a href=&#34;#Docker-Compose是什么&#34; class=&#34;headerlink&#34; title=&#34;Docker Compose是什么&#34;&gt;&lt;/a&gt;Docker Compose是什么&lt;/h1&gt;&lt;p&gt;Docker Compose 是一个用于&lt;strong&gt;定义和运行多容器 Docker 应用&lt;/strong&gt;的工具。通过一个 YAML 格式的配置文件（&lt;code&gt;docker-compose.yml&lt;/code&gt;），您可以统一管理多个容器的配置（如服务依赖、网络、存储卷等），并通过简单命令一键启动或停止整个应用栈。&lt;/p&gt;
+&lt;h4 id=&#34;核心功能：&#34;&gt;&lt;a href=&#34;#核心功能：&#34; class=&#34;headerlink&#34; title=&#34;核心功能：&#34;&gt;&lt;/a&gt;&lt;strong&gt;核心功能：&lt;/strong&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;单文件配置&lt;/strong&gt;：用 YAML 文件定义所有服务、网络、卷。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;一键启停&lt;/strong&gt;：通过一条命令启动或销毁整个应用环境。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;服务依赖管理&lt;/strong&gt;：自动处理容器启动顺序（如先启动数据库再启动 Web 服务）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;环境隔离&lt;/strong&gt;：支持开发、测试、生产环境的不同配置。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;h1 id=&#34;注意&#34;&gt;&lt;a href=&#34;#注意&#34; class=&#34;headerlink&#34; title=&#34;注意&#34;&gt;&lt;/a&gt;注意&lt;/h1&gt;&lt;p&gt;由于 Docker 官方已将 Compose 集成到 CLI 中，推荐使用 &lt;code&gt;docker compose&lt;/code&gt; 替代旧的 &lt;code&gt;docker-compose&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;Docker-Compose-配置文件&#34;&gt;&lt;a href=&#34;#Docker-Compose-配置文件&#34; class=&#34;headerlink&#34; title=&#34;Docker Compose 配置文件&#34;&gt;&lt;/a&gt;Docker Compose 配置文件&lt;/h1&gt;&lt;h2 id=&#34;基础结构示例&#34;&gt;&lt;a href=&#34;#基础结构示例&#34; class=&#34;headerlink&#34; title=&#34;基础结构示例&#34;&gt;&lt;/a&gt;基础结构示例&lt;/h2&gt;&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs yaml&#34;&gt;&lt;span class=&#34;hljs-attr&#34;&gt;version:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;3.9&amp;quot;&lt;/span&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 指定 Compose 版本（需与 Docker 引擎兼容）&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;services:&lt;/span&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;# 定义所有服务容器&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;web:&lt;/span&gt;           &lt;span class=&#34;hljs-comment&#34;&gt;# 服务名称（自定义）&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;image:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;nginx:latest&lt;/span&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 使用的镜像vim &lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;ports:&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;80:80&amp;quot;&lt;/span&gt;          &lt;span class=&#34;hljs-comment&#34;&gt;# 端口映射（宿主机:容器）&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;volumes:&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;./html:/usr/share/nginx/html&lt;/span&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 挂载宿主机目录到容器&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;depends_on:&lt;/span&gt;          &lt;span class=&#34;hljs-comment&#34;&gt;# 依赖的服务&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;db&lt;/span&gt;&lt;br&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;db:&lt;/span&gt;                    &lt;span class=&#34;hljs-comment&#34;&gt;# 第二个服务（数据库）&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;image:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;mysql:8.0&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;environment:&lt;/span&gt;         &lt;span class=&#34;hljs-comment&#34;&gt;# 环境变量&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-attr&#34;&gt;MYSQL_ROOT_PASSWORD:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;example&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;volumes:&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;mysql_data:/var/lib/mysql&lt;/span&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 使用命名卷持久化数据&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;volumes:&lt;/span&gt;                 &lt;span class=&#34;hljs-comment&#34;&gt;# 定义命名卷&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;mysql_data:&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;关键配置项说明&#34;&gt;&lt;a href=&#34;#关键配置项说明&#34; class=&#34;headerlink&#34; title=&#34;关键配置项说明&#34;&gt;&lt;/a&gt;关键配置项说明&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;配置项&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;version&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;指定 Compose 文件格式版本（常用 3.x）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;services&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义所有需要运行的容器服务，每个服务需配置镜像、端口、卷等。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;image&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;指定容器使用的镜像（如 &lt;code&gt;nginx:latest&lt;/code&gt;）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;ports&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;映射宿主机端口到容器端口（格式：&lt;code&gt;&amp;quot;宿主机端口:容器端口&amp;quot;&lt;/code&gt;）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;volumes&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;挂载宿主机目录或命名卷到容器路径（如 &lt;code&gt;./data:/app/data&lt;/code&gt;）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;environment&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;设置容器内的环境变量（支持键值对或列表）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;depends_on&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义服务启动顺序（例如 Web 服务依赖数据库服务先启动）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;networks&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;自定义容器网络（默认所有服务加入同一网络，可通过服务名互相通信）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;常用命令&#34;&gt;&lt;a href=&#34;#常用命令&#34; class=&#34;headerlink&#34; title=&#34;常用命令&#34;&gt;&lt;/a&gt;常用命令&lt;/h1&gt;&lt;h3 id=&#34;1-启动服务&#34;&gt;&lt;a href=&#34;#1-启动服务&#34; class=&#34;headerlink&#34; title=&#34;1. 启动服务&#34;&gt;&lt;/a&gt;1. 启动服务&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 前台启动（调试用，Ctrl+C 停止）&lt;/span&gt;&lt;br&gt;docker-compose up&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 后台启动（-d 表示 detached 模式）&lt;/span&gt;&lt;br&gt;docker-compose up -d&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 启动时强制重新构建镜像（如果 Dockerfile 有更新）&lt;/span&gt;&lt;br&gt;docker-compose up -d --build&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;2-停止并清理&#34;&gt;&lt;a href=&#34;#2-停止并清理&#34; class=&#34;headerlink&#34; title=&#34;2. 停止并清理&#34;&gt;&lt;/a&gt;2. 停止并清理&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 停止并删除容器、网络（保留卷和数据）&lt;/span&gt;&lt;br&gt;docker-compose down&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 彻底清理（删除容器、网络、镜像、未使用的卷）&lt;/span&gt;&lt;br&gt;docker-compose down --rmi all --volumes&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;重启&#34;&gt;&lt;a href=&#34;#重启&#34; class=&#34;headerlink&#34; title=&#34;重启&#34;&gt;&lt;/a&gt;重启&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker compose restart&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;3-查看服务状态&#34;&gt;&lt;a href=&#34;#3-查看服务状态&#34; class=&#34;headerlink&#34; title=&#34;3. 查看服务状态&#34;&gt;&lt;/a&gt;3. 查看服务状态&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看运行中的服务&lt;/span&gt;&lt;br&gt;docker-compose ps&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看服务日志（-f 持续跟踪日志）&lt;/span&gt;&lt;br&gt;docker-compose logs -f web&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;4-管理单个服务&#34;&gt;&lt;a href=&#34;#4-管理单个服务&#34; class=&#34;headerlink&#34; title=&#34;4. 管理单个服务&#34;&gt;&lt;/a&gt;4. 管理单个服务&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 启动/停止/重启指定服务&lt;/span&gt;&lt;br&gt;docker-compose start web&lt;br&gt;docker-compose stop web&lt;br&gt;docker-compose restart web&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 进入容器执行命令（例如启动 Bash）&lt;/span&gt;&lt;br&gt;docker-compose &lt;span class=&#34;hljs-built_in&#34;&gt;exec&lt;/span&gt; web bash&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;5-扩展服务实例&#34;&gt;&lt;a href=&#34;#5-扩展服务实例&#34; class=&#34;headerlink&#34; title=&#34;5. 扩展服务实例&#34;&gt;&lt;/a&gt;5. 扩展服务实例&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 启动多个 Web 服务实例（需服务支持水平扩展）&lt;/span&gt;&lt;br&gt;docker-compose up -d --scale web=3&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;hr&gt;
+&lt;h1 id=&#34;高级技巧&#34;&gt;&lt;a href=&#34;#高级技巧&#34; class=&#34;headerlink&#34; title=&#34;高级技巧&#34;&gt;&lt;/a&gt;高级技巧&lt;/h1&gt;&lt;h3 id=&#34;1-多环境配置&#34;&gt;&lt;a href=&#34;#1-多环境配置&#34; class=&#34;headerlink&#34; title=&#34;1. 多环境配置&#34;&gt;&lt;/a&gt;1. 多环境配置&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;使用多个 Compose 文件（如 &lt;code&gt;docker-compose.prod.yml&lt;/code&gt;）覆盖默认配置：&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-变量替换&#34;&gt;&lt;a href=&#34;#2-变量替换&#34; class=&#34;headerlink&#34; title=&#34;2. 变量替换&#34;&gt;&lt;/a&gt;2. 变量替换&lt;/h3&gt;&lt;p&gt;在 Compose 文件中使用环境变量：&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs yaml&#34;&gt;&lt;span class=&#34;hljs-attr&#34;&gt;services:&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;web:&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;image:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;nginx:$&amp;#123;NGINX_VERSION:-latest&amp;#125;&lt;/span&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 默认使用 latest，可覆盖&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;3-健康检查&#34;&gt;&lt;a href=&#34;#3-健康检查&#34; class=&#34;headerlink&#34; title=&#34;3. 健康检查&#34;&gt;&lt;/a&gt;3. 健康检查&lt;/h3&gt;&lt;p&gt;定义服务健康检查策略：&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs yaml&#34;&gt;&lt;span class=&#34;hljs-attr&#34;&gt;services:&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;db:&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;image:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;mysql:8.0&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;healthcheck:&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-attr&#34;&gt;test:&lt;/span&gt; [&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;CMD&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;mysqladmin&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;ping&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;-h&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;localhost&amp;quot;&lt;/span&gt;]&lt;br&gt;      &lt;span class=&#34;hljs-attr&#34;&gt;interval:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;10s&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-attr&#34;&gt;timeout:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;5s&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-attr&#34;&gt;retries:&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h3 id=&#34;更新容器&#34;&gt;&lt;a href=&#34;#更新容器&#34; class=&#34;headerlink&#34; title=&#34;更新容器&#34;&gt;&lt;/a&gt;更新容器&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;修改 &lt;code&gt;docker-compose.yml&lt;/code&gt; 后，运行：&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker-compose up -d --build&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;数据持久化失败？&#34;&gt;&lt;a href=&#34;#数据持久化失败？&#34; class=&#34;headerlink&#34; title=&#34;数据持久化失败？&#34;&gt;&lt;/a&gt;数据持久化失败？&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;确保使用命名卷（如 &lt;code&gt;mysql_data:/var/lib/mysql&lt;/code&gt;）或正确挂载宿主机路径。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;服务间通信问题？&#34;&gt;&lt;a href=&#34;#服务间通信问题？&#34; class=&#34;headerlink&#34; title=&#34;服务间通信问题？&#34;&gt;&lt;/a&gt;服务间通信问题？&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;使用服务名（如 &lt;code&gt;db&lt;/code&gt;）代替 IP 地址，Compose 会自动解析服务名到容器 IP。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2022/f5f9fa9b/</guid>
             <title>Docker</title>
@@ -296,6 +403,7 @@
 &lt;li&gt;&lt;code&gt;--link=[]&lt;/code&gt;: 添加链接到另一个容器；&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;--expose=[]&lt;/code&gt;: 开放一个端口或一组端口；&lt;/li&gt;
 &lt;li&gt;☆&lt;code&gt;--volume , -v&lt;/code&gt;: 绑定一个卷, (或者称作&lt;strong&gt;映射文件夹&lt;/strong&gt;，将特定文件夹映射到特定目录)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--mount&lt;/code&gt; 类似于&lt;code&gt;-v&lt;/code&gt;有些细微差异。&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;–rm&lt;/code&gt;: 容器退出时自动删除&lt;/li&gt;
 &lt;li&gt;☆&lt;code&gt;--restart &lt;/code&gt;: 指定重启策略 容器在退出时应该或不应该如何重新启动。可选参数有&lt;code&gt;no&lt;/code&gt;、&lt;code&gt; always&lt;/code&gt;、&lt;code&gt;on-failure[:max-retries]&lt;/code&gt;、&lt;code&gt;unless-stopped&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;

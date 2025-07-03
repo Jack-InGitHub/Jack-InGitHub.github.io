@@ -7,24 +7,45 @@
         <language>zh-CN</language>
         <pubDate>Sun, 15 Aug 2021 16:23:05 +0800</pubDate>
         <lastBuildDate>Sun, 15 Aug 2021 16:23:05 +0800</lastBuildDate>
-        <category>autosar</category>
-        <category>aes</category>
+        <category>c++</category>
+        <category>c/c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>cmd</category>
+        <category>pid</category>
+        <category>micropython</category>
+        <category>python</category>
         <category>embedded</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>web</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>aes</category>
+        <category>autosar</category>
         <category>cc2530</category>
         <category>zigbee</category>
         <category>hp</category>
         <category>chrome</category>
         <category>sscanf</category>
-        <category>c/c++</category>
         <category>flash</category>
         <category>hex</category>
-        <category>license</category>
-        <category>ssl</category>
-        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>license</category>
         <category>md5</category>
         <category>major</category>
         <category>markdown</category>
@@ -37,16 +58,15 @@
         <category>tags</category>
         <category>label</category>
         <category>category</category>
+        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
-        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
-        <category>windows</category>
         <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
@@ -62,34 +82,37 @@
         <category>gzip</category>
         <category>bzip</category>
         <category>tar</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
         <category>character encoding</category>
         <category>gb2312</category>
         <category>utf-8</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
         <category>words</category>
         <category>cortexm3</category>
-        <category>kms</category>
-        <category>office</category>
-        <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
         <category>机智云</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>apk</category>
+        <category>java</category>
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>ct117e-ex</category>
-        <category>apk</category>
-        <category>java</category>
         <category>超声波</category>
+        <category>ct117e-ex</category>
         <category>github</category>
         <category>hosts</category>
         <category>audio</category>
         <category>video</category>
-        <category>cad</category>
+        <category>esp32</category>
+        <category>idf</category>
+        <category>usb</category>
         <category>cat_drive</category>
+        <category>cad</category>
         <category>switch</category>
         <category>nintendo</category>
         <category>game</category>
@@ -98,14 +121,14 @@
         <category>disk</category>
         <category>pve</category>
         <category>virtual</category>
-        <category>software</category>
         <category>摄影</category>
-        <category>synology</category>
-        <category>cmake</category>
+        <category>software</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>synology</category>
+        <category>cmake</category>
         <category>docker</category>
         <category>dockerfile</category>
         <category>namespace</category>
@@ -119,26 +142,25 @@
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>j-tag</category>
+        <category>obsidian</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>obsidian</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
         <category>spacedesk</category>
         <category>投屏</category>
         <category>vscode</category>
-        <category>ide</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
+        <category>j-tag</category>
         <category>commenttranslate</category>
         <category>wsl</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>speedtest</category>
-        <category>tools</category>
         <category>wordpress</category>
-        <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -146,7 +168,8 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>v2ray</category>
+        <category>cortex-a7</category>
+        <category>cortex-m3</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -155,46 +178,25 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>usb</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>cmd</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>pid</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>css</category>
-        <category>html</category>
-        <category>js</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>cortex-a7</category>
-        <category>cortex-m3</category>
-        <category>rtx</category>
         <category>rtos</category>
-        <category>keil</category>
         <category>rt-thread</category>
-        <category>ucos</category>
+        <category>rtx</category>
+        <category>keil</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
         <category>pwm</category>
+        <category>ucos</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>modbus</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>v2ray</category>
         <category>linuxapp</category>
-        <category>curl</category>
-        <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
+        <category>modbus</category>
+        <category>curl</category>
+        <category>libcurl</category>
         <category>alpha_mini</category>
         <category>正点原子</category>
         <item>
@@ -551,7 +553,7 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;git commit -m &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;    // 在这里直接输入回车即可&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;1、第一项改动      // 以下的这些真正的comment可以在其他文本编辑器中写好粘贴过来&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;2、第二项&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&lt;/span&gt;                // 输入这个结尾单引号后，再输入回车即可完成本次commit的提交&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 在这里直接输入回车即可&lt;/span&gt;&lt;br&gt;git commit -m &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;1、第一项改动      # 以下的这些真正的comment可以在其他文本编辑器中写好粘贴过来&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;2、第二项&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&lt;/span&gt;                &lt;span class=&#34;hljs-comment&#34;&gt;# 输入这个结尾单引号后，再输入回车即可完成本次commit的提交&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
@@ -1118,7 +1120,7 @@
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;git config --global core.excludesfile ~/.gitignore_global&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;**使用&lt;code&gt;gitignore.io&lt;/code&gt;**：&lt;br&gt;&lt;code&gt;gitignore.io&lt;/code&gt;是一个在线服务，可以根据你使用的操作系统、编程语言和IDE生成&lt;code&gt;.gitignore&lt;/code&gt;文件。访问&lt;a href=&#34;https://www.gitignore.io/&#34;&gt;gitignore.io&lt;/a&gt;，选择你需要的选项，然后下载生成的&lt;code&gt;.gitignore&lt;/code&gt;文件。&lt;/p&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;参数里面的 c windows 是两个参数，分别设定语言和环境&lt;/span&gt;&lt;br&gt;curl -sL &amp;quot;https://www.toptal.com/developers/gitignore/api/c,windows&amp;quot; &amp;gt;&amp;gt; .gitignore&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;参数里面的 c windows 是两个参数，分别设定语言和环境&lt;/span&gt;&lt;br&gt;curl -sL &amp;quot;https://www.toptal.com/developers/gitignore/api/c,windows&amp;quot; &amp;gt;&amp;gt; .gitignore&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;powershell 可以使用下面命令&lt;/span&gt;&lt;br&gt;curl &amp;quot;https://www.toptal.com/developers/gitignore/api/c,windows&amp;quot; -o .gitignore&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;  Tips: 如果你不慎&lt;strong&gt;在创建.gitignore文件之前就push了项目&lt;/strong&gt;，那么即使你在.gitignore文件中写入新的过滤规则，这些规则也不会起作用，Git仍然会对所有文件进行版本管理。&lt;/p&gt;

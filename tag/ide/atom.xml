@@ -4,24 +4,45 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;ide&#34; tag</title>
     <link href="https://www.oikiou.top" />
     <updated>2021-08-20T05:23:05.000Z</updated>
-    <category term="autosar" />
-    <category term="aes" />
+    <category term="c++" />
+    <category term="c/c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="windows" />
+    <category term="cmd" />
+    <category term="pid" />
+    <category term="micropython" />
+    <category term="python" />
     <category term="embedded" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="web" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="aes" />
+    <category term="autosar" />
     <category term="cc2530" />
     <category term="zigbee" />
     <category term="hp" />
     <category term="chrome" />
     <category term="sscanf" />
-    <category term="c/c++" />
     <category term="flash" />
     <category term="hex" />
-    <category term="license" />
-    <category term="ssl" />
-    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="license" />
     <category term="md5" />
     <category term="major" />
     <category term="markdown" />
@@ -34,16 +55,15 @@
     <category term="tags" />
     <category term="label" />
     <category term="category" />
+    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
-    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
-    <category term="windows" />
     <category term="makefile" />
     <category term="xip" />
     <category term="nor" />
@@ -59,34 +79,37 @@
     <category term="gzip" />
     <category term="bzip" />
     <category term="tar" />
-    <category term="zsh" />
-    <category term="shell" />
-    <category term="linux" />
     <category term="character encoding" />
     <category term="gb2312" />
     <category term="utf-8" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
     <category term="words" />
     <category term="cortexm3" />
-    <category term="kms" />
-    <category term="office" />
-    <category term="volume" />
     <category term="DS_Store" />
     <category term="rtf" />
     <category term="后缀" />
     <category term="机智云" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="apk" />
+    <category term="java" />
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="ct117e-ex" />
-    <category term="apk" />
-    <category term="java" />
     <category term="超声波" />
+    <category term="ct117e-ex" />
     <category term="github" />
     <category term="hosts" />
     <category term="audio" />
     <category term="video" />
-    <category term="cad" />
+    <category term="esp32" />
+    <category term="idf" />
+    <category term="usb" />
     <category term="cat_drive" />
+    <category term="cad" />
     <category term="switch" />
     <category term="nintendo" />
     <category term="game" />
@@ -95,14 +118,14 @@
     <category term="disk" />
     <category term="pve" />
     <category term="virtual" />
-    <category term="software" />
     <category term="摄影" />
-    <category term="synology" />
-    <category term="cmake" />
+    <category term="software" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="synology" />
+    <category term="cmake" />
     <category term="docker" />
     <category term="dockerfile" />
     <category term="namespace" />
@@ -116,26 +139,25 @@
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="j-tag" />
+    <category term="obsidian" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="obsidian" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
     <category term="spacedesk" />
     <category term="投屏" />
     <category term="vscode" />
-    <category term="ide" />
-    <category term="sourceinsigh" />
-    <category term="si" />
+    <category term="j-tag" />
     <category term="commenttranslate" />
     <category term="wsl" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="speedtest" />
-    <category term="tools" />
     <category term="wordpress" />
-    <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -143,7 +165,8 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
-    <category term="v2ray" />
+    <category term="cortex-a7" />
+    <category term="cortex-m3" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -152,46 +175,25 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
-    <category term="usb" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="cmd" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="pid" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="css" />
-    <category term="html" />
-    <category term="js" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="cortex-a7" />
-    <category term="cortex-m3" />
-    <category term="rtx" />
     <category term="rtos" />
-    <category term="keil" />
     <category term="rt-thread" />
-    <category term="ucos" />
+    <category term="rtx" />
+    <category term="keil" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="bluetooth" />
-    <category term="蓝牙" />
     <category term="pwm" />
+    <category term="ucos" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="modbus" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="v2ray" />
     <category term="linuxapp" />
-    <category term="curl" />
-    <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
+    <category term="modbus" />
+    <category term="curl" />
+    <category term="libcurl" />
     <category term="alpha_mini" />
     <category term="正点原子" />
     <entry>
@@ -214,7 +216,7 @@
 &lt;li&gt;&lt;code&gt;Alt+UpArrow&lt;/code&gt; &lt;code&gt;Alt+DownArrow&lt;/code&gt; 移动当前行&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;工作区配置&#34;&gt;&lt;a href=&#34;#工作区配置&#34; class=&#34;headerlink&#34; title=&#34;工作区配置&#34;&gt;&lt;/a&gt;工作区配置&lt;/h2&gt;&lt;p&gt;xx.code-workspace&lt;/p&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&amp;#123;&lt;br&gt;    &amp;quot;folders&amp;quot;: [&lt;br&gt;        &amp;#123;&lt;br&gt;            &amp;quot;path&amp;quot;: &amp;quot;..&amp;quot;,&lt;br&gt;            &amp;quot;name&amp;quot;: &amp;quot;ds300&amp;quot;&lt;br&gt;        &amp;#125;&lt;br&gt;    ],&lt;br&gt;    &amp;quot;settings&amp;quot;: &amp;#123;&lt;br&gt;        &amp;quot;files.exclude&amp;quot;: &amp;#123;&lt;br&gt;        	# 这里不要带 / 前缀&lt;br&gt;            &amp;quot;ax32_platform_demo/product/ds500/**&amp;quot;: true,&lt;br&gt;            &amp;quot;si/&amp;quot;: true&lt;br&gt;        &amp;#125;,&lt;br&gt;        &amp;quot;search.exclude&amp;quot;: &amp;#123;&lt;br&gt;            &amp;quot;**.project&amp;quot;: true,&lt;br&gt;            &amp;quot;**.lst&amp;quot;: true,&lt;br&gt;            &amp;quot;**.mk&amp;quot;: true,&lt;br&gt;            &amp;quot;**.txt&amp;quot;: true,&lt;br&gt;            &amp;quot;**.map&amp;quot;: true&lt;br&gt;        &amp;#125;,&lt;br&gt;        &amp;quot;doxdocgen.file.copyrightTag&amp;quot;: [&lt;br&gt;            &amp;quot;@copyright COPYRIGHT Depstech®&amp;quot;&lt;br&gt;        ],&lt;br&gt;        &amp;quot;C_Cpp.default.defines&amp;quot;: [&lt;br&gt;            &amp;quot;DEPSTECH_PRODUCT=2&amp;quot;&lt;br&gt;        ],&lt;br&gt;    &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&amp;#123;&lt;br&gt;    &amp;quot;folders&amp;quot;: [&lt;br&gt;        &amp;#123;&lt;br&gt;            &amp;quot;path&amp;quot;: &amp;quot;..&amp;quot;,&lt;br&gt;            &amp;quot;name&amp;quot;: &amp;quot;ds300&amp;quot;&lt;br&gt;        &amp;#125;,&lt;br&gt;        &amp;#123;&lt;br&gt;	        &amp;quot;path&amp;quot;: &amp;quot;my-folder-b&amp;quot;,&lt;br&gt;        &amp;#125;&lt;br&gt;    ],&lt;br&gt;    &amp;quot;settings&amp;quot;: &amp;#123;&lt;br&gt;        &amp;quot;files.exclude&amp;quot;: &amp;#123;&lt;br&gt;        	# 这里不要带 / 前缀&lt;br&gt;            &amp;quot;ax32_platform_demo/product/ds500/**&amp;quot;: true,&lt;br&gt;            &amp;quot;si/&amp;quot;: true&lt;br&gt;        &amp;#125;,&lt;br&gt;        &amp;quot;search.exclude&amp;quot;: &amp;#123;&lt;br&gt;            &amp;quot;**.project&amp;quot;: true,&lt;br&gt;            &amp;quot;**.lst&amp;quot;: true,&lt;br&gt;            &amp;quot;**.mk&amp;quot;: true,&lt;br&gt;            &amp;quot;**.txt&amp;quot;: true,&lt;br&gt;            &amp;quot;**.map&amp;quot;: true&lt;br&gt;        &amp;#125;,&lt;br&gt;        &amp;quot;doxdocgen.file.copyrightTag&amp;quot;: [&lt;br&gt;            &amp;quot;@copyright COPYRIGHT Depstech®&amp;quot;&lt;br&gt;        ],&lt;br&gt;        &amp;quot;C_Cpp.default.defines&amp;quot;: [&lt;br&gt;            &amp;quot;DEPSTECH_PRODUCT=2&amp;quot;&lt;br&gt;        ],&lt;br&gt;    &amp;#125;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
 
@@ -240,9 +242,16 @@
   &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;default:\&lt;br&gt;common:\&lt;br&gt;:skip=/arch/m68k/: \&lt;br&gt;:skip=/tools/:&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;这将会产生下列三个文件：&lt;code&gt;GTAGS&lt;/code&gt;, &lt;code&gt;GRTAGS&lt;/code&gt;, &lt;code&gt;GPATHS&lt;/code&gt;。 如果代码有修改，再次运行 &lt;code&gt;gtags&lt;/code&gt; 来更新这些 tag 文件。&lt;/p&gt;
+&lt;h2 id=&#34;远程开发禁用代理&#34;&gt;&lt;a href=&#34;#远程开发禁用代理&#34; class=&#34;headerlink&#34; title=&#34;远程开发禁用代理&#34;&gt;&lt;/a&gt;远程开发禁用代理&lt;/h2&gt;&lt;p&gt;&lt;code&gt;/home/user/.vscode-server/data/Machine/settings.json&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs json&#34;&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;	&lt;span class=&#34;hljs-attr&#34;&gt;&amp;quot;http.proxySupport&amp;quot;&lt;/span&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;off&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;将远程流量转发到本地&#34;&gt;&lt;a href=&#34;#将远程流量转发到本地&#34; class=&#34;headerlink&#34; title=&#34;将远程流量转发到本地&#34;&gt;&lt;/a&gt;将远程流量转发到本地&lt;/h2&gt;&lt;p&gt;打开ssh配置，路径为&lt;code&gt;C:\Users\pq_li\.ssh\config&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs apache&#34;&gt;&lt;span class=&#34;hljs-attribute&#34;&gt;Host&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;192.168.6.166&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attribute&#34;&gt;HostName&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;192.168.6.166&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attribute&#34;&gt;RemoteForward&lt;/span&gt; localhost:&lt;span class=&#34;hljs-number&#34;&gt;10883&lt;/span&gt; localhost:&lt;span class=&#34;hljs-number&#34;&gt;10882&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;设本机为 LocalA，在 Remote B 上访问 10883 上，等价于访问 LocalA 的 10882 端口。&lt;/p&gt;
 </content>
-        <category term="vscode" />
         <category term="ide" />
+        <category term="vscode" />
         <updated>2021-08-20T05:23:05.000Z</updated>
     </entry>
     <entry>
@@ -333,9 +342,9 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 </content>
-        <category term="ide" />
         <category term="sourceinsigh" />
         <category term="si" />
+        <category term="ide" />
         <updated>2020-07-21T05:23:05.000Z</updated>
     </entry>
 </feed>

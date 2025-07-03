@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Oikiou&#39;s Blog • Posts by &#34;idf&#34; tag</title>
+        <link>https://www.oikiou.top</link>
+        <description>Blog</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 03 Jul 2025 20:42:16 +0800</pubDate>
+        <lastBuildDate>Thu, 03 Jul 2025 20:42:16 +0800</lastBuildDate>
+        <category>c++</category>
+        <category>c/c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>cmd</category>
+        <category>pid</category>
+        <category>micropython</category>
+        <category>python</category>
+        <category>embedded</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>web</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>aes</category>
+        <category>autosar</category>
+        <category>cc2530</category>
+        <category>zigbee</category>
+        <category>hp</category>
+        <category>chrome</category>
+        <category>sscanf</category>
+        <category>flash</category>
+        <category>hex</category>
+        <category>jpeg</category>
+        <category>webp</category>
+        <category>jpeg2000</category>
+        <category>image</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>license</category>
+        <category>md5</category>
+        <category>major</category>
+        <category>markdown</category>
+        <category>note</category>
+        <category>osi</category>
+        <category>RustDesk</category>
+        <category>iap</category>
+        <category>bootloader</category>
+        <category>stm32</category>
+        <category>tags</category>
+        <category>label</category>
+        <category>category</category>
+        <category>typora</category>
+        <category>usart</category>
+        <category>rts</category>
+        <category>cts</category>
+        <category>dtr</category>
+        <category>dsr</category>
+        <category>ws2812</category>
+        <category>spi</category>
+        <category>dma</category>
+        <category>makefile</category>
+        <category>xip</category>
+        <category>nor</category>
+        <category>nand</category>
+        <category>android</category>
+        <category>mtp</category>
+        <category>pc</category>
+        <category>driver</category>
+        <category>ip</category>
+        <category>location</category>
+        <category>api</category>
+        <category>zip</category>
+        <category>gzip</category>
+        <category>bzip</category>
+        <category>tar</category>
+        <category>character encoding</category>
+        <category>gb2312</category>
+        <category>utf-8</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
+        <category>words</category>
+        <category>cortexm3</category>
+        <category>DS_Store</category>
+        <category>rtf</category>
+        <category>后缀</category>
+        <category>机智云</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>apk</category>
+        <category>java</category>
+        <category>蓝桥杯</category>
+        <category>国赛</category>
+        <category>ct117e</category>
+        <category>超声波</category>
+        <category>ct117e-ex</category>
+        <category>github</category>
+        <category>hosts</category>
+        <category>audio</category>
+        <category>video</category>
+        <category>esp32</category>
+        <category>idf</category>
+        <category>usb</category>
+        <category>cat_drive</category>
+        <category>cad</category>
+        <category>switch</category>
+        <category>nintendo</category>
+        <category>game</category>
+        <category>hardware</category>
+        <category>lenovo</category>
+        <category>disk</category>
+        <category>pve</category>
+        <category>virtual</category>
+        <category>摄影</category>
+        <category>software</category>
+        <category>dslogic</category>
+        <category>逻辑分析仪</category>
+        <category>pyhton</category>
+        <category>decoder</category>
+        <category>synology</category>
+        <category>cmake</category>
+        <category>docker</category>
+        <category>dockerfile</category>
+        <category>namespace</category>
+        <category>cgroup</category>
+        <category>dockerhub</category>
+        <category>frp</category>
+        <category>hyperv</category>
+        <category>git</category>
+        <category>j-link</category>
+        <category>rtt</category>
+        <category>serial</category>
+        <category>debug</category>
+        <category>jlink</category>
+        <category>obsidian</category>
+        <category>ps</category>
+        <category>powershell</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
+        <category>spacedesk</category>
+        <category>投屏</category>
+        <category>vscode</category>
+        <category>j-tag</category>
+        <category>commenttranslate</category>
+        <category>wsl</category>
+        <category>wordpress</category>
+        <category>mysql</category>
+        <category>nginx</category>
+        <category>speedtest</category>
+        <category>tools</category>
+        <category>tmux</category>
+        <category>unit</category>
+        <category>m</category>
+        <category>cm</category>
+        <category>mm</category>
+        <category>s</category>
+        <category>us</category>
+        <category>cortex-a7</category>
+        <category>cortex-m3</category>
+        <category>hexo</category>
+        <category>jekyll</category>
+        <category>fluid</category>
+        <category>cusdis</category>
+        <category>twikoo</category>
+        <category>blog</category>
+        <category>gravatar</category>
+        <category>cravatar</category>
+        <category>rtos</category>
+        <category>rt-thread</category>
+        <category>rtx</category>
+        <category>keil</category>
+        <category>raspberry</category>
+        <category>wiringpi</category>
+        <category>pwm</category>
+        <category>ucos</category>
+        <category>ap</category>
+        <category>wifi</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>v2ray</category>
+        <category>linuxapp</category>
+        <category>zlib</category>
+        <category>minizip</category>
+        <category>modbus</category>
+        <category>curl</category>
+        <category>libcurl</category>
+        <category>alpha_mini</category>
+        <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2025/87426b16/</guid>
+            <title>ESP32 Develop</title>
+            <link>https://www.oikiou.top/2025/87426b16/</link>
+            <category>embedded</category>
+            <category>esp32</category>
+            <category>idf</category>
+            <pubDate>Thu, 03 Jul 2025 20:42:16 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;ESP32&#34;&gt;&lt;a href=&#34;#ESP32&#34; class=&#34;headerlink&#34; title=&#34;ESP32&#34;&gt;&lt;/a&gt;ESP32&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;idf.py set-target esp32c3&lt;br&gt;&lt;br&gt;idf.py menuconfig&lt;br&gt;&lt;br&gt;idf.py build&lt;br&gt;&lt;br&gt;idf.py -p COM12 flash moniter&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h1 id=&#34;IDF&#34;&gt;&lt;a href=&#34;#IDF&#34; class=&#34;headerlink&#34; title=&#34;IDF&#34;&gt;&lt;/a&gt;IDF&lt;/h1&gt;&lt;h2 id=&#34;组件管理器-The-ESP-Component-Registry&#34;&gt;&lt;a href=&#34;#组件管理器-The-ESP-Component-Registry&#34; class=&#34;headerlink&#34; title=&#34;组件管理器 The ESP Component Registry&#34;&gt;&lt;/a&gt;组件管理器 The ESP Component Registry&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://components.espressif.com/&#34;&gt;https://components.espressif.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;create-manifest&#34;&gt;&lt;a href=&#34;#create-manifest&#34; class=&#34;headerlink&#34; title=&#34;create-manifest&#34;&gt;&lt;/a&gt;create-manifest&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;idf.py create-manifest&lt;/code&gt; 为 main 组件创建清单文件&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;idf.py create-manifest --component=my_component&lt;/code&gt; 在 &lt;code&gt;components&lt;/code&gt; 目录下，为组件 &lt;strong&gt;my_component&lt;/strong&gt; 创建清单文件&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;idf.py create-manifest --path=&amp;quot;../../my_component&amp;quot;&lt;/code&gt; 在 &lt;code&gt;my_component&lt;/code&gt; 目录下，为组件 &lt;strong&gt;my_component&lt;/strong&gt; 创建清单文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在向项目的某个组件添加新的清单时，必须先运行 &lt;code&gt;idf.py reconfigure&lt;/code&gt;，手动重新配置项目。&lt;/p&gt;
+&lt;h3 id=&#34;add-dependency&#34;&gt;&lt;a href=&#34;#add-dependency&#34; class=&#34;headerlink&#34; title=&#34;add-dependency&#34;&gt;&lt;/a&gt;add-dependency&lt;/h3&gt;&lt;p&gt;要为 ESP-IDF 项目中的组件（如 &lt;code&gt;my_component&lt;/code&gt;）添加依赖项，可以运行命令 &lt;code&gt;idf.py add-dependency DEPENDENCY&lt;/code&gt;。&lt;br&gt;&lt;code&gt;DEPENDENCY&lt;/code&gt; 参数代表一个由 IDF 组件管理器管理的额外组件，而 &lt;code&gt;my_component&lt;/code&gt; 也依赖于这个组件。&lt;code&gt;DEPENDENCY&lt;/code&gt; 参数的格式为 &lt;code&gt;namespace/name=1.0.0&lt;/code&gt;，namespace&amp;#x2F;name 代表组件名称，&amp;#x3D;1.0.0 是组件的版本范围，详情请参阅 &lt;a href=&#34;https://docs.espressif.com/projects/idf-component-manager/en/latest/reference/versioning.html&#34;&gt;版本文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;直接编辑&#34;&gt;&lt;a href=&#34;#直接编辑&#34; class=&#34;headerlink&#34; title=&#34;直接编辑&#34;&gt;&lt;/a&gt;直接编辑&lt;/h3&gt;&lt;p&gt;通过在文本编辑器直接编辑，你可以轻松定义清单文件 &lt;code&gt;idf_component.yml&lt;/code&gt; 中的依赖项。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.oikiou.top</id>
+    <title>Oikiou&#39;s Blog • Posts by &#34;idf&#34; tag</title>
+    <link href="https://www.oikiou.top" />
+    <updated>2025-07-03T12:42:16.256Z</updated>
+    <category term="c++" />
+    <category term="c/c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="windows" />
+    <category term="cmd" />
+    <category term="pid" />
+    <category term="micropython" />
+    <category term="python" />
+    <category term="embedded" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="web" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="aes" />
+    <category term="autosar" />
+    <category term="cc2530" />
+    <category term="zigbee" />
+    <category term="hp" />
+    <category term="chrome" />
+    <category term="sscanf" />
+    <category term="flash" />
+    <category term="hex" />
+    <category term="jpeg" />
+    <category term="webp" />
+    <category term="jpeg2000" />
+    <category term="image" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="license" />
+    <category term="md5" />
+    <category term="major" />
+    <category term="markdown" />
+    <category term="note" />
+    <category term="osi" />
+    <category term="RustDesk" />
+    <category term="iap" />
+    <category term="bootloader" />
+    <category term="stm32" />
+    <category term="tags" />
+    <category term="label" />
+    <category term="category" />
+    <category term="typora" />
+    <category term="usart" />
+    <category term="rts" />
+    <category term="cts" />
+    <category term="dtr" />
+    <category term="dsr" />
+    <category term="ws2812" />
+    <category term="spi" />
+    <category term="dma" />
+    <category term="makefile" />
+    <category term="xip" />
+    <category term="nor" />
+    <category term="nand" />
+    <category term="android" />
+    <category term="mtp" />
+    <category term="pc" />
+    <category term="driver" />
+    <category term="ip" />
+    <category term="location" />
+    <category term="api" />
+    <category term="zip" />
+    <category term="gzip" />
+    <category term="bzip" />
+    <category term="tar" />
+    <category term="character encoding" />
+    <category term="gb2312" />
+    <category term="utf-8" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
+    <category term="words" />
+    <category term="cortexm3" />
+    <category term="DS_Store" />
+    <category term="rtf" />
+    <category term="后缀" />
+    <category term="机智云" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="apk" />
+    <category term="java" />
+    <category term="蓝桥杯" />
+    <category term="国赛" />
+    <category term="ct117e" />
+    <category term="超声波" />
+    <category term="ct117e-ex" />
+    <category term="github" />
+    <category term="hosts" />
+    <category term="audio" />
+    <category term="video" />
+    <category term="esp32" />
+    <category term="idf" />
+    <category term="usb" />
+    <category term="cat_drive" />
+    <category term="cad" />
+    <category term="switch" />
+    <category term="nintendo" />
+    <category term="game" />
+    <category term="hardware" />
+    <category term="lenovo" />
+    <category term="disk" />
+    <category term="pve" />
+    <category term="virtual" />
+    <category term="摄影" />
+    <category term="software" />
+    <category term="dslogic" />
+    <category term="逻辑分析仪" />
+    <category term="pyhton" />
+    <category term="decoder" />
+    <category term="synology" />
+    <category term="cmake" />
+    <category term="docker" />
+    <category term="dockerfile" />
+    <category term="namespace" />
+    <category term="cgroup" />
+    <category term="dockerhub" />
+    <category term="frp" />
+    <category term="hyperv" />
+    <category term="git" />
+    <category term="j-link" />
+    <category term="rtt" />
+    <category term="serial" />
+    <category term="debug" />
+    <category term="jlink" />
+    <category term="obsidian" />
+    <category term="ps" />
+    <category term="powershell" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
+    <category term="spacedesk" />
+    <category term="投屏" />
+    <category term="vscode" />
+    <category term="j-tag" />
+    <category term="commenttranslate" />
+    <category term="wsl" />
+    <category term="wordpress" />
+    <category term="mysql" />
+    <category term="nginx" />
+    <category term="speedtest" />
+    <category term="tools" />
+    <category term="tmux" />
+    <category term="unit" />
+    <category term="m" />
+    <category term="cm" />
+    <category term="mm" />
+    <category term="s" />
+    <category term="us" />
+    <category term="cortex-a7" />
+    <category term="cortex-m3" />
+    <category term="hexo" />
+    <category term="jekyll" />
+    <category term="fluid" />
+    <category term="cusdis" />
+    <category term="twikoo" />
+    <category term="blog" />
+    <category term="gravatar" />
+    <category term="cravatar" />
+    <category term="rtos" />
+    <category term="rt-thread" />
+    <category term="rtx" />
+    <category term="keil" />
+    <category term="raspberry" />
+    <category term="wiringpi" />
+    <category term="pwm" />
+    <category term="ucos" />
+    <category term="ap" />
+    <category term="wifi" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="v2ray" />
+    <category term="linuxapp" />
+    <category term="zlib" />
+    <category term="minizip" />
+    <category term="modbus" />
+    <category term="curl" />
+    <category term="libcurl" />
+    <category term="alpha_mini" />
+    <category term="正点原子" />
+    <entry>
+        <id>https://www.oikiou.top/2025/87426b16/</id>
+        <title>ESP32 Develop</title>
+        <link rel="alternate" href="https://www.oikiou.top/2025/87426b16/"/>
+        <content type="html">&lt;h1 id=&#34;ESP32&#34;&gt;&lt;a href=&#34;#ESP32&#34; class=&#34;headerlink&#34; title=&#34;ESP32&#34;&gt;&lt;/a&gt;ESP32&lt;/h1&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;idf.py set-target esp32c3&lt;br&gt;&lt;br&gt;idf.py menuconfig&lt;br&gt;&lt;br&gt;idf.py build&lt;br&gt;&lt;br&gt;idf.py -p COM12 flash moniter&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;h1 id=&#34;IDF&#34;&gt;&lt;a href=&#34;#IDF&#34; class=&#34;headerlink&#34; title=&#34;IDF&#34;&gt;&lt;/a&gt;IDF&lt;/h1&gt;&lt;h2 id=&#34;组件管理器-The-ESP-Component-Registry&#34;&gt;&lt;a href=&#34;#组件管理器-The-ESP-Component-Registry&#34; class=&#34;headerlink&#34; title=&#34;组件管理器 The ESP Component Registry&#34;&gt;&lt;/a&gt;组件管理器 The ESP Component Registry&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://components.espressif.com/&#34;&gt;https://components.espressif.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;create-manifest&#34;&gt;&lt;a href=&#34;#create-manifest&#34; class=&#34;headerlink&#34; title=&#34;create-manifest&#34;&gt;&lt;/a&gt;create-manifest&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;idf.py create-manifest&lt;/code&gt; 为 main 组件创建清单文件&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;idf.py create-manifest --component=my_component&lt;/code&gt; 在 &lt;code&gt;components&lt;/code&gt; 目录下，为组件 &lt;strong&gt;my_component&lt;/strong&gt; 创建清单文件&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;idf.py create-manifest --path=&amp;quot;../../my_component&amp;quot;&lt;/code&gt; 在 &lt;code&gt;my_component&lt;/code&gt; 目录下，为组件 &lt;strong&gt;my_component&lt;/strong&gt; 创建清单文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在向项目的某个组件添加新的清单时，必须先运行 &lt;code&gt;idf.py reconfigure&lt;/code&gt;，手动重新配置项目。&lt;/p&gt;
+&lt;h3 id=&#34;add-dependency&#34;&gt;&lt;a href=&#34;#add-dependency&#34; class=&#34;headerlink&#34; title=&#34;add-dependency&#34;&gt;&lt;/a&gt;add-dependency&lt;/h3&gt;&lt;p&gt;要为 ESP-IDF 项目中的组件（如 &lt;code&gt;my_component&lt;/code&gt;）添加依赖项，可以运行命令 &lt;code&gt;idf.py add-dependency DEPENDENCY&lt;/code&gt;。&lt;br&gt;&lt;code&gt;DEPENDENCY&lt;/code&gt; 参数代表一个由 IDF 组件管理器管理的额外组件，而 &lt;code&gt;my_component&lt;/code&gt; 也依赖于这个组件。&lt;code&gt;DEPENDENCY&lt;/code&gt; 参数的格式为 &lt;code&gt;namespace/name=1.0.0&lt;/code&gt;，namespace&amp;#x2F;name 代表组件名称，&amp;#x3D;1.0.0 是组件的版本范围，详情请参阅 &lt;a href=&#34;https://docs.espressif.com/projects/idf-component-manager/en/latest/reference/versioning.html&#34;&gt;版本文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;直接编辑&#34;&gt;&lt;a href=&#34;#直接编辑&#34; class=&#34;headerlink&#34; title=&#34;直接编辑&#34;&gt;&lt;/a&gt;直接编辑&lt;/h3&gt;&lt;p&gt;通过在文本编辑器直接编辑，你可以轻松定义清单文件 &lt;code&gt;idf_component.yml&lt;/code&gt; 中的依赖项。&lt;/p&gt;
+</content>
+        <category term="embedded" />
+        <category term="esp32" />
+        <category term="idf" />
+        <updated>2025-07-03T12:42:16.256Z</updated>
+    </entry>
+</feed>

@@ -5,26 +5,47 @@
         <link>https://www.oikiou.top</link>
         <description>Blog</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 08 Mar 2024 10:23:15 +0800</pubDate>
-        <lastBuildDate>Fri, 08 Mar 2024 10:23:15 +0800</lastBuildDate>
-        <category>autosar</category>
-        <category>aes</category>
+        <pubDate>Tue, 13 May 2025 13:23:05 +0800</pubDate>
+        <lastBuildDate>Tue, 13 May 2025 13:23:05 +0800</lastBuildDate>
+        <category>c++</category>
+        <category>c/c++</category>
+        <category>c</category>
+        <category>ms-dos</category>
+        <category>windows</category>
+        <category>cmd</category>
+        <category>pid</category>
+        <category>micropython</category>
+        <category>python</category>
         <category>embedded</category>
+        <category>qt</category>
+        <category>pyqt</category>
+        <category>css</category>
+        <category>html</category>
+        <category>web</category>
+        <category>js</category>
+        <category>数据结构</category>
+        <category>堆栈</category>
+        <category>队列</category>
+        <category>链表</category>
+        <category>树</category>
+        <category>二叉树</category>
+        <category>正则表达式</category>
+        <category>aes</category>
+        <category>autosar</category>
         <category>cc2530</category>
         <category>zigbee</category>
         <category>hp</category>
         <category>chrome</category>
         <category>sscanf</category>
-        <category>c/c++</category>
         <category>flash</category>
         <category>hex</category>
-        <category>license</category>
-        <category>ssl</category>
-        <category>https</category>
         <category>jpeg</category>
         <category>webp</category>
         <category>jpeg2000</category>
         <category>image</category>
+        <category>ssl</category>
+        <category>https</category>
+        <category>license</category>
         <category>md5</category>
         <category>major</category>
         <category>markdown</category>
@@ -37,16 +58,15 @@
         <category>tags</category>
         <category>label</category>
         <category>category</category>
+        <category>typora</category>
         <category>usart</category>
         <category>rts</category>
         <category>cts</category>
         <category>dtr</category>
         <category>dsr</category>
-        <category>typora</category>
         <category>ws2812</category>
         <category>spi</category>
         <category>dma</category>
-        <category>windows</category>
         <category>makefile</category>
         <category>xip</category>
         <category>nor</category>
@@ -62,34 +82,37 @@
         <category>gzip</category>
         <category>bzip</category>
         <category>tar</category>
-        <category>zsh</category>
-        <category>shell</category>
-        <category>linux</category>
         <category>character encoding</category>
         <category>gb2312</category>
         <category>utf-8</category>
+        <category>zsh</category>
+        <category>shell</category>
+        <category>linux</category>
         <category>words</category>
         <category>cortexm3</category>
-        <category>kms</category>
-        <category>office</category>
-        <category>volume</category>
         <category>DS_Store</category>
         <category>rtf</category>
         <category>后缀</category>
         <category>机智云</category>
+        <category>kms</category>
+        <category>office</category>
+        <category>volume</category>
+        <category>apk</category>
+        <category>java</category>
         <category>蓝桥杯</category>
         <category>国赛</category>
         <category>ct117e</category>
-        <category>ct117e-ex</category>
-        <category>apk</category>
-        <category>java</category>
         <category>超声波</category>
+        <category>ct117e-ex</category>
         <category>github</category>
         <category>hosts</category>
         <category>audio</category>
         <category>video</category>
-        <category>cad</category>
+        <category>esp32</category>
+        <category>idf</category>
+        <category>usb</category>
         <category>cat_drive</category>
+        <category>cad</category>
         <category>switch</category>
         <category>nintendo</category>
         <category>game</category>
@@ -98,14 +121,14 @@
         <category>disk</category>
         <category>pve</category>
         <category>virtual</category>
-        <category>software</category>
         <category>摄影</category>
-        <category>synology</category>
-        <category>cmake</category>
+        <category>software</category>
         <category>dslogic</category>
         <category>逻辑分析仪</category>
         <category>pyhton</category>
         <category>decoder</category>
+        <category>synology</category>
+        <category>cmake</category>
         <category>docker</category>
         <category>dockerfile</category>
         <category>namespace</category>
@@ -119,26 +142,25 @@
         <category>serial</category>
         <category>debug</category>
         <category>jlink</category>
-        <category>j-tag</category>
+        <category>obsidian</category>
         <category>ps</category>
         <category>powershell</category>
-        <category>obsidian</category>
+        <category>rdpwrap</category>
+        <category>rdp</category>
+        <category>sourceinsigh</category>
+        <category>si</category>
+        <category>ide</category>
         <category>spacedesk</category>
         <category>投屏</category>
         <category>vscode</category>
-        <category>ide</category>
-        <category>sourceinsigh</category>
-        <category>si</category>
+        <category>j-tag</category>
         <category>commenttranslate</category>
         <category>wsl</category>
-        <category>rdpwrap</category>
-        <category>rdp</category>
-        <category>speedtest</category>
-        <category>tools</category>
         <category>wordpress</category>
-        <category>web</category>
         <category>mysql</category>
         <category>nginx</category>
+        <category>speedtest</category>
+        <category>tools</category>
         <category>tmux</category>
         <category>unit</category>
         <category>m</category>
@@ -146,7 +168,8 @@
         <category>mm</category>
         <category>s</category>
         <category>us</category>
-        <category>v2ray</category>
+        <category>cortex-a7</category>
+        <category>cortex-m3</category>
         <category>hexo</category>
         <category>jekyll</category>
         <category>fluid</category>
@@ -155,48 +178,132 @@
         <category>blog</category>
         <category>gravatar</category>
         <category>cravatar</category>
-        <category>usb</category>
-        <category>c++</category>
-        <category>c</category>
-        <category>ms-dos</category>
-        <category>cmd</category>
-        <category>micropython</category>
-        <category>python</category>
-        <category>pid</category>
-        <category>qt</category>
-        <category>pyqt</category>
-        <category>css</category>
-        <category>html</category>
-        <category>js</category>
-        <category>数据结构</category>
-        <category>堆栈</category>
-        <category>队列</category>
-        <category>链表</category>
-        <category>树</category>
-        <category>二叉树</category>
-        <category>正则表达式</category>
-        <category>cortex-a7</category>
-        <category>cortex-m3</category>
-        <category>rtx</category>
         <category>rtos</category>
-        <category>keil</category>
         <category>rt-thread</category>
-        <category>ucos</category>
+        <category>rtx</category>
+        <category>keil</category>
         <category>raspberry</category>
         <category>wiringpi</category>
-        <category>bluetooth</category>
-        <category>蓝牙</category>
         <category>pwm</category>
+        <category>ucos</category>
         <category>ap</category>
         <category>wifi</category>
-        <category>modbus</category>
+        <category>bluetooth</category>
+        <category>蓝牙</category>
+        <category>v2ray</category>
         <category>linuxapp</category>
-        <category>curl</category>
-        <category>libcurl</category>
         <category>zlib</category>
         <category>minizip</category>
+        <category>modbus</category>
+        <category>curl</category>
+        <category>libcurl</category>
         <category>alpha_mini</category>
         <category>正点原子</category>
+        <item>
+            <guid isPermalink="true">https://www.oikiou.top/2025/60641507/</guid>
+            <title>Docker Compose</title>
+            <link>https://www.oikiou.top/2025/60641507/</link>
+            <category>docker</category>
+            <category>dockerfile</category>
+            <category>namespace</category>
+            <category>cgroup</category>
+            <category>dockerhub</category>
+            <pubDate>Tue, 13 May 2025 13:23:05 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;Docker-Compose&#34;&gt;&lt;a href=&#34;#Docker-Compose&#34; class=&#34;headerlink&#34; title=&#34;Docker Compose&#34;&gt;&lt;/a&gt;Docker Compose&lt;/h1&gt;&lt;h1 id=&#34;Docker-Compose是什么&#34;&gt;&lt;a href=&#34;#Docker-Compose是什么&#34; class=&#34;headerlink&#34; title=&#34;Docker Compose是什么&#34;&gt;&lt;/a&gt;Docker Compose是什么&lt;/h1&gt;&lt;p&gt;Docker Compose 是一个用于&lt;strong&gt;定义和运行多容器 Docker 应用&lt;/strong&gt;的工具。通过一个 YAML 格式的配置文件（&lt;code&gt;docker-compose.yml&lt;/code&gt;），您可以统一管理多个容器的配置（如服务依赖、网络、存储卷等），并通过简单命令一键启动或停止整个应用栈。&lt;/p&gt;
+&lt;h4 id=&#34;核心功能：&#34;&gt;&lt;a href=&#34;#核心功能：&#34; class=&#34;headerlink&#34; title=&#34;核心功能：&#34;&gt;&lt;/a&gt;&lt;strong&gt;核心功能：&lt;/strong&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;单文件配置&lt;/strong&gt;：用 YAML 文件定义所有服务、网络、卷。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;一键启停&lt;/strong&gt;：通过一条命令启动或销毁整个应用环境。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;服务依赖管理&lt;/strong&gt;：自动处理容器启动顺序（如先启动数据库再启动 Web 服务）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;环境隔离&lt;/strong&gt;：支持开发、测试、生产环境的不同配置。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;h1 id=&#34;注意&#34;&gt;&lt;a href=&#34;#注意&#34; class=&#34;headerlink&#34; title=&#34;注意&#34;&gt;&lt;/a&gt;注意&lt;/h1&gt;&lt;p&gt;由于 Docker 官方已将 Compose 集成到 CLI 中，推荐使用 &lt;code&gt;docker compose&lt;/code&gt; 替代旧的 &lt;code&gt;docker-compose&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;Docker-Compose-配置文件&#34;&gt;&lt;a href=&#34;#Docker-Compose-配置文件&#34; class=&#34;headerlink&#34; title=&#34;Docker Compose 配置文件&#34;&gt;&lt;/a&gt;Docker Compose 配置文件&lt;/h1&gt;&lt;h2 id=&#34;基础结构示例&#34;&gt;&lt;a href=&#34;#基础结构示例&#34; class=&#34;headerlink&#34; title=&#34;基础结构示例&#34;&gt;&lt;/a&gt;基础结构示例&lt;/h2&gt;&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs yaml&#34;&gt;&lt;span class=&#34;hljs-attr&#34;&gt;version:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;3.9&amp;quot;&lt;/span&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 指定 Compose 版本（需与 Docker 引擎兼容）&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;services:&lt;/span&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;# 定义所有服务容器&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;web:&lt;/span&gt;           &lt;span class=&#34;hljs-comment&#34;&gt;# 服务名称（自定义）&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;image:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;nginx:latest&lt;/span&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 使用的镜像vim &lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;ports:&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;80:80&amp;quot;&lt;/span&gt;          &lt;span class=&#34;hljs-comment&#34;&gt;# 端口映射（宿主机:容器）&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;volumes:&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;./html:/usr/share/nginx/html&lt;/span&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 挂载宿主机目录到容器&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;depends_on:&lt;/span&gt;          &lt;span class=&#34;hljs-comment&#34;&gt;# 依赖的服务&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;db&lt;/span&gt;&lt;br&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;db:&lt;/span&gt;                    &lt;span class=&#34;hljs-comment&#34;&gt;# 第二个服务（数据库）&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;image:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;mysql:8.0&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;environment:&lt;/span&gt;         &lt;span class=&#34;hljs-comment&#34;&gt;# 环境变量&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-attr&#34;&gt;MYSQL_ROOT_PASSWORD:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;example&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;volumes:&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;mysql_data:/var/lib/mysql&lt;/span&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 使用命名卷持久化数据&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-attr&#34;&gt;volumes:&lt;/span&gt;                 &lt;span class=&#34;hljs-comment&#34;&gt;# 定义命名卷&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;mysql_data:&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;关键配置项说明&#34;&gt;&lt;a href=&#34;#关键配置项说明&#34; class=&#34;headerlink&#34; title=&#34;关键配置项说明&#34;&gt;&lt;/a&gt;关键配置项说明&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;配置项&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;version&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;指定 Compose 文件格式版本（常用 3.x）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;services&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义所有需要运行的容器服务，每个服务需配置镜像、端口、卷等。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;image&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;指定容器使用的镜像（如 &lt;code&gt;nginx:latest&lt;/code&gt;）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;ports&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;映射宿主机端口到容器端口（格式：&lt;code&gt;&amp;quot;宿主机端口:容器端口&amp;quot;&lt;/code&gt;）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;volumes&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;挂载宿主机目录或命名卷到容器路径（如 &lt;code&gt;./data:/app/data&lt;/code&gt;）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;environment&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;设置容器内的环境变量（支持键值对或列表）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;depends_on&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;定义服务启动顺序（例如 Web 服务依赖数据库服务先启动）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;networks&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;自定义容器网络（默认所有服务加入同一网络，可通过服务名互相通信）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;常用命令&#34;&gt;&lt;a href=&#34;#常用命令&#34; class=&#34;headerlink&#34; title=&#34;常用命令&#34;&gt;&lt;/a&gt;常用命令&lt;/h1&gt;&lt;h3 id=&#34;1-启动服务&#34;&gt;&lt;a href=&#34;#1-启动服务&#34; class=&#34;headerlink&#34; title=&#34;1. 启动服务&#34;&gt;&lt;/a&gt;1. 启动服务&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 前台启动（调试用，Ctrl+C 停止）&lt;/span&gt;&lt;br&gt;docker-compose up&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 后台启动（-d 表示 detached 模式）&lt;/span&gt;&lt;br&gt;docker-compose up -d&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 启动时强制重新构建镜像（如果 Dockerfile 有更新）&lt;/span&gt;&lt;br&gt;docker-compose up -d --build&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;2-停止并清理&#34;&gt;&lt;a href=&#34;#2-停止并清理&#34; class=&#34;headerlink&#34; title=&#34;2. 停止并清理&#34;&gt;&lt;/a&gt;2. 停止并清理&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 停止并删除容器、网络（保留卷和数据）&lt;/span&gt;&lt;br&gt;docker-compose down&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 彻底清理（删除容器、网络、镜像、未使用的卷）&lt;/span&gt;&lt;br&gt;docker-compose down --rmi all --volumes&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;重启&#34;&gt;&lt;a href=&#34;#重启&#34; class=&#34;headerlink&#34; title=&#34;重启&#34;&gt;&lt;/a&gt;重启&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker compose restart&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;3-查看服务状态&#34;&gt;&lt;a href=&#34;#3-查看服务状态&#34; class=&#34;headerlink&#34; title=&#34;3. 查看服务状态&#34;&gt;&lt;/a&gt;3. 查看服务状态&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看运行中的服务&lt;/span&gt;&lt;br&gt;docker-compose ps&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 查看服务日志（-f 持续跟踪日志）&lt;/span&gt;&lt;br&gt;docker-compose logs -f web&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;4-管理单个服务&#34;&gt;&lt;a href=&#34;#4-管理单个服务&#34; class=&#34;headerlink&#34; title=&#34;4. 管理单个服务&#34;&gt;&lt;/a&gt;4. 管理单个服务&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 启动/停止/重启指定服务&lt;/span&gt;&lt;br&gt;docker-compose start web&lt;br&gt;docker-compose stop web&lt;br&gt;docker-compose restart web&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 进入容器执行命令（例如启动 Bash）&lt;/span&gt;&lt;br&gt;docker-compose &lt;span class=&#34;hljs-built_in&#34;&gt;exec&lt;/span&gt; web bash&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;5-扩展服务实例&#34;&gt;&lt;a href=&#34;#5-扩展服务实例&#34; class=&#34;headerlink&#34; title=&#34;5. 扩展服务实例&#34;&gt;&lt;/a&gt;5. 扩展服务实例&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 启动多个 Web 服务实例（需服务支持水平扩展）&lt;/span&gt;&lt;br&gt;docker-compose up -d --scale web=3&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;hr&gt;
+&lt;h1 id=&#34;高级技巧&#34;&gt;&lt;a href=&#34;#高级技巧&#34; class=&#34;headerlink&#34; title=&#34;高级技巧&#34;&gt;&lt;/a&gt;高级技巧&lt;/h1&gt;&lt;h3 id=&#34;1-多环境配置&#34;&gt;&lt;a href=&#34;#1-多环境配置&#34; class=&#34;headerlink&#34; title=&#34;1. 多环境配置&#34;&gt;&lt;/a&gt;1. 多环境配置&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;使用多个 Compose 文件（如 &lt;code&gt;docker-compose.prod.yml&lt;/code&gt;）覆盖默认配置：&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-变量替换&#34;&gt;&lt;a href=&#34;#2-变量替换&#34; class=&#34;headerlink&#34; title=&#34;2. 变量替换&#34;&gt;&lt;/a&gt;2. 变量替换&lt;/h3&gt;&lt;p&gt;在 Compose 文件中使用环境变量：&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs yaml&#34;&gt;&lt;span class=&#34;hljs-attr&#34;&gt;services:&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;web:&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;image:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;nginx:$&amp;#123;NGINX_VERSION:-latest&amp;#125;&lt;/span&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# 默认使用 latest，可覆盖&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;3-健康检查&#34;&gt;&lt;a href=&#34;#3-健康检查&#34; class=&#34;headerlink&#34; title=&#34;3. 健康检查&#34;&gt;&lt;/a&gt;3. 健康检查&lt;/h3&gt;&lt;p&gt;定义服务健康检查策略：&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs yaml&#34;&gt;&lt;span class=&#34;hljs-attr&#34;&gt;services:&lt;/span&gt;&lt;br&gt;  &lt;span class=&#34;hljs-attr&#34;&gt;db:&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;image:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;mysql:8.0&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-attr&#34;&gt;healthcheck:&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-attr&#34;&gt;test:&lt;/span&gt; [&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;CMD&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;mysqladmin&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;ping&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;-h&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;localhost&amp;quot;&lt;/span&gt;]&lt;br&gt;      &lt;span class=&#34;hljs-attr&#34;&gt;interval:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;10s&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-attr&#34;&gt;timeout:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;5s&lt;/span&gt;&lt;br&gt;      &lt;span class=&#34;hljs-attr&#34;&gt;retries:&lt;/span&gt; &lt;span class=&#34;hljs-number&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h1 id=&#34;Note&#34;&gt;&lt;a href=&#34;#Note&#34; class=&#34;headerlink&#34; title=&#34;Note&#34;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;h3 id=&#34;更新容器&#34;&gt;&lt;a href=&#34;#更新容器&#34; class=&#34;headerlink&#34; title=&#34;更新容器&#34;&gt;&lt;/a&gt;更新容器&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;修改 &lt;code&gt;docker-compose.yml&lt;/code&gt; 后，运行：&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;docker-compose up -d --build&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;数据持久化失败？&#34;&gt;&lt;a href=&#34;#数据持久化失败？&#34; class=&#34;headerlink&#34; title=&#34;数据持久化失败？&#34;&gt;&lt;/a&gt;数据持久化失败？&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;确保使用命名卷（如 &lt;code&gt;mysql_data:/var/lib/mysql&lt;/code&gt;）或正确挂载宿主机路径。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;服务间通信问题？&#34;&gt;&lt;a href=&#34;#服务间通信问题？&#34; class=&#34;headerlink&#34; title=&#34;服务间通信问题？&#34;&gt;&lt;/a&gt;服务间通信问题？&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;使用服务名（如 &lt;code&gt;db&lt;/code&gt;）代替 IP 地址，Compose 会自动解析服务名到容器 IP。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://www.oikiou.top/2024/b58cbef5/</guid>
             <title>Obsidian</title>
@@ -339,8 +446,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;  是支持半虚拟化IO（virtio）的设备。&lt;/p&gt;
 &lt;p&gt;  如果您在虚拟机内运行的内容都支持&lt;code&gt;virtio&lt;/code&gt;，它可能会为您提供最佳性能，因为它允许虚拟机跳过大多数相关步骤模拟虚拟网卡并控制虚拟硬件，主机利用实际物理网卡的硬件功能，最大限度地提高虚拟机流量的效益。&lt;/p&gt;
-&lt;p&gt;  VirtIO windows的驱动文件可以在这里下载：&lt;a href=&#34;https://github.com/virtio-win/virtio-win-pkg-scripts&#34;&gt;https://github.com/virtio-win/virtio-win-pkg-scripts&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;  &lt;a href=&#34;https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/&#34;&gt;https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  VirtIO驱动下载&lt;br&gt;  VirtIO windows的驱动文件可以在这里下载：&lt;br&gt;  &lt;a href=&#34;https://github.com/virtio-win/virtio-win-pkg-scripts&#34;&gt;https://github.com/virtio-win/virtio-win-pkg-scripts&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/&#34;&gt;https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;硬盘接口怎么选-IDE-SATA-SCSI-VirtIO&#34;&gt;&lt;a href=&#34;#硬盘接口怎么选-IDE-SATA-SCSI-VirtIO&#34; class=&#34;headerlink&#34; title=&#34;硬盘接口怎么选 IDE SATA SCSI VirtIO&#34;&gt;&lt;/a&gt;硬盘接口怎么选 IDE SATA SCSI VirtIO&lt;/h3&gt;&lt;p&gt;IDE 速度最差，兼容性较好，比较古老的接口了&lt;/p&gt;
 &lt;p&gt;SATA 速度不错，兼容性也可以。&lt;/p&gt;
@@ -458,36 +564,42 @@
 
 
 &lt;h2 id=&#34;修改PVE的管理地址&#34;&gt;&lt;a href=&#34;#修改PVE的管理地址&#34; class=&#34;headerlink&#34; title=&#34;修改PVE的管理地址&#34;&gt;&lt;/a&gt;修改PVE的管理地址&lt;/h2&gt;&lt;h3 id=&#34;无法进入web管理界面&#34;&gt;&lt;a href=&#34;#无法进入web管理界面&#34; class=&#34;headerlink&#34; title=&#34;无法进入web管理界面&#34;&gt;&lt;/a&gt;无法进入web管理界面&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;编辑 interface 文件&lt;/p&gt;
-&lt;figure class=&#34;highlight angelscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs angelscript&#34;&gt;vi /etc/network/&lt;span class=&#34;hljs-built_in&#34;&gt;int&lt;/span&gt;erfaces&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;li&gt;编辑 interface 文件&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;vi /etc/network/interfaces&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;通过键盘上下左右移动到address这行的IP地址，按一次i进入修改状态，修改为新的IP地址，如果需要网关则修改gateway这行，修改完成确认无误后按一次ESC键输入“:wq”回车保存退出。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;修改显示&lt;/p&gt;
+&lt;p&gt; 通过键盘上下左右移动到address这行的IP地址，按一次i进入修改状态，修改为新的IP地址，如果需要网关则修改gateway这行，修改完成确认无误后按一次ESC键输入“:wq”回车保存退出。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;修改显示&lt;/li&gt;
+&lt;/ol&gt;
 &lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;vi &lt;span class=&#34;hljs-regexp&#34;&gt;/etc/i&lt;/span&gt;ssue&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;通过键盘上下左右移动到https:&amp;#x2F;&amp;#x2F;这行的IP地址，按一次i进入修改状态，修改为新的IP地址，端口8006不要改，修改完成确认无误后按一次ESC键输入“:wq”回车保存退出。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;修改 hosts 文件&lt;/p&gt;
-&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;vi &lt;span class=&#34;hljs-regexp&#34;&gt;/etc/&lt;/span&gt;hosts&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;通过键盘上下左右移动到第2行的IP地址，按一次i进入修改状态，修改为新的IP地址，修改完成确认无误后按一次ESC键输入“:wq”回车保存退出。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;reboot&lt;/strong&gt;，重启PVE！&lt;/p&gt;
-&lt;/li&gt;
+&lt;p&gt; 通过键盘上下左右移动到https:&amp;#x2F;&amp;#x2F;这行的IP地址，按一次i进入修改状态，修改为新的IP地址，端口8006不要改，修改完成确认无误后按一次ESC键输入“:wq”回车保存退出。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;修改 hosts 文件&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;vi /etc/hosts&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt; 通过键盘上下左右移动到第2行的IP地址，按一次i进入修改状态，修改为新的IP地址，修改完成确认无误后按一次ESC键输入“:wq”回车保存退出。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;reboot&lt;/strong&gt;，重启PVE！&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;可以进入web管理界面&#34;&gt;&lt;a href=&#34;#可以进入web管理界面&#34; class=&#34;headerlink&#34; title=&#34;可以进入web管理界面&#34;&gt;&lt;/a&gt;可以进入web管理界面&lt;/h3&gt;&lt;p&gt;如果是PVE版本大于等于6.1，则可以使用web管理页面的网络选项菜单中修改vmbr0的IP，修改完成后，点击应用配置生效即可。此操作无需重启服务器即可应用新IP。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2023/52f35219/2983653-20221011173336293-1137047342.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;修改显示的访问的链接地址。&lt;br&gt;重启后的提示语还是显示原来的https:&amp;#x2F;&amp;#x2F;旧IP:8006。这个要是以后忘了就容易出问题。可以更改&amp;#x2F;etc&amp;#x2F;hosts文件，也可以在web管理页面主机处修改，修改完记得保存。此操作修改完需要重启才可刷新显示提示语。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2023/52f35219/2983653-20221011173352327-326543372.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;qemu-img-img转换为qcow2&#34;&gt;&lt;a href=&#34;#qemu-img-img转换为qcow2&#34; class=&#34;headerlink&#34; title=&#34;qemu-img img转换为qcow2&#34;&gt;&lt;/a&gt;qemu-img img转换为qcow2&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;转换&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;-f&amp;#x27;&lt;/span&gt; first image format&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;[-O output_fmt]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;-c 参数可以启用镜像文件压缩&lt;/span&gt;&lt;br&gt;qemu-img convert -f raw -O qcow2 file.img tofile.qcow2&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;导入&lt;/span&gt; &lt;br&gt;qm importdisk 101 xxxfile.qcow2 local-lvm --format qcow2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
 &lt;h2 id=&#34;PVE-导入img磁盘文件-qm-importovf-qm-importovf&#34;&gt;&lt;a href=&#34;#PVE-导入img磁盘文件-qm-importovf-qm-importovf&#34; class=&#34;headerlink&#34; title=&#34;PVE 导入img磁盘文件 qm importovf qm importovf&#34;&gt;&lt;/a&gt;PVE 导入img磁盘文件 qm importovf qm importovf&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;Create a new VM using parameters &lt;span class=&#34;hljs-built_in&#34;&gt;read&lt;/span&gt; from an OVF manifest&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;An &lt;span class=&#34;hljs-built_in&#34;&gt;alias&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; qm disk import.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;          &amp;lt;虚拟机ID&amp;gt; &amp;lt;清单&amp;gt;      &amp;lt;存储&amp;gt; [选项]&lt;/span&gt;&lt;br&gt;qm importovf &amp;lt;vmid&amp;gt; &amp;lt;manifest&amp;gt; &amp;lt;storage&amp;gt; [OPTIONS]&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;示例&lt;/span&gt;&lt;br&gt;qm importdisk 102 /var/lib/vz/template/iso/openwrt.img local-lvm&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
-
-&lt;h2 id=&#34;qemu-img-img转换为qcow2&#34;&gt;&lt;a href=&#34;#qemu-img-img转换为qcow2&#34; class=&#34;headerlink&#34; title=&#34;qemu-img img转换为qcow2&#34;&gt;&lt;/a&gt;qemu-img img转换为qcow2&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;转换&lt;/span&gt;&lt;br&gt;qemu-img convert -f raw -O qcow2 file.img tofile.qcow2&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;导入&lt;/span&gt;&lt;br&gt;qm importdisk 101 xxxfile.qcow2 local-lvm&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
+&lt;h2 id=&#34;PVE-将虚拟机硬盘文件导出&#34;&gt;&lt;a href=&#34;#PVE-将虚拟机硬盘文件导出&#34; class=&#34;headerlink&#34; title=&#34;PVE 将虚拟机硬盘文件导出&#34;&gt;&lt;/a&gt;PVE 将虚拟机硬盘文件导出&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 语法：qemu-img convert -f &amp;lt;源格式&amp;gt; -O vmdk -o subformat=streamOptimized &amp;lt;源路径&amp;gt; &amp;lt;目标路径&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 示例 1：转换 LVM 硬盘&lt;/span&gt;&lt;br&gt;qemu-img convert -f raw -O vmdk -o subformat=streamOptimized /dev/pve/vm-100-disk-0 /mnt/nfs/vm-100-disk-0.vmdk&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 示例 2：转换 QCOW2 硬盘&lt;/span&gt;&lt;br&gt;qemu-img convert -f qcow2 -O vmdk -o subformat=streamOptimized /var/lib/vz/images/100/vm-100-disk-0.qcow2 /mnt/nfs/vm-100-disk-0.vmdk&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;参数说明&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-f &amp;lt;源格式&amp;gt;&lt;/code&gt;：源硬盘格式（&lt;code&gt;raw&lt;/code&gt;、&lt;code&gt;qcow2&lt;/code&gt; 等）。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-O vmdk&lt;/code&gt;：输出为 VMDK 格式。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-o subformat=streamOptimized&lt;/code&gt;：生成 ESXi 兼容的精简格式（Thin Provisioned）。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;pvetools工具安装省电后无法睿频&#34;&gt;&lt;a href=&#34;#pvetools工具安装省电后无法睿频&#34; class=&#34;headerlink&#34; title=&#34;pvetools工具安装省电后无法睿频&#34;&gt;&lt;/a&gt;pvetools工具安装省电后无法睿频&lt;/h2&gt;&lt;h2 id=&#34;自动调整运行频率&#34;&gt;&lt;a href=&#34;#自动调整运行频率&#34; class=&#34;headerlink&#34; title=&#34;自动调整运行频率&#34;&gt;&lt;/a&gt;自动调整运行频率&lt;/h2&gt;&lt;p&gt;网上有很多教程会修改&lt;code&gt;vi /etc/default/grub&lt;/code&gt;文件，将&lt;code&gt;driver&lt;/code&gt;改成&lt;code&gt;acpi-cpufreq&lt;/code&gt;。&lt;/p&gt;
 &lt;p&gt;我的CPU是J4125，在&lt;code&gt;intel_cpufreq&lt;/code&gt;下也可以使用&lt;code&gt;conservative ondemand userspace powersave performance schedutil&lt;/code&gt;这些模式。所有就没有去修改。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.51cto.com/picker/5020502&#34;&gt;参考&lt;/a&gt;&lt;/p&gt;
@@ -513,10 +625,21 @@
 
 
 &lt;h2 id=&#34;pve-合并local-lvm和local分区&#34;&gt;&lt;a href=&#34;#pve-合并local-lvm和local分区&#34; class=&#34;headerlink&#34; title=&#34;pve 合并local-lvm和local分区&#34;&gt;&lt;/a&gt;pve 合并local-lvm和local分区&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/weixin_52960369/article/details/135450871&#34;&gt;参考&lt;/a&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;lsblk 查看一下分区结构&lt;/span&gt; &lt;br&gt;lsblk&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;备份一下 虚拟机的磁盘文件。。。 这一步我没做。。。。。 悲剧了&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;删除 local-lvm 千万注意备份一下 pve/data/ 目录下的 disk 虚拟磁盘文件 PVE8.2.2我照着这么操作直接把磁盘文件给删掉了，我人都傻了。。。。。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;后面几个就是在删除磁盘文件&lt;/span&gt;&lt;br&gt;lvremove pve/data&lt;br&gt;Removing pool pve/data will remove 3 dependent volume(s). Proceed? [y/n]: y&lt;br&gt;Do you really want to remove active logical volume pve/vm-220-disk-0? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;vm-220-disk-0&amp;quot; successfully removed.&lt;br&gt;Do you really want to remove active logical volume pve/vm-300-disk-0? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;vm-300-disk-0&amp;quot; successfully removed.&lt;br&gt;Do you really want to remove active logical volume pve/vm-220-disk-1? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;vm-220-disk-1&amp;quot; successfully removed.&lt;br&gt;Do you really want to remove active logical volume pve/data? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;data&amp;quot; successfully removed.&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;扩展&lt;span class=&#34;hljs-built_in&#34;&gt;local&lt;/span&gt;&lt;/span&gt;&lt;br&gt;lvextend -l +100%FREE -r pve/root&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;查看状态&lt;/span&gt;&lt;br&gt;lsblk&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ol&gt;
+&lt;li&gt;备份虚拟机磁盘文件&lt;ol&gt;
+&lt;li&gt;web备份&lt;ol&gt;
+&lt;li&gt;数据中心-存储-local-编辑-内容-添加“容器”和“磁盘镜像”属性&lt;/li&gt;
+&lt;li&gt;虚拟机-选定某一个虚拟机-硬件-硬盘-磁盘操作-移动存储-local&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;命令迁移 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;示例：迁移 VM ID 为 100 的 scsi0 磁盘到 &lt;span class=&#34;hljs-built_in&#34;&gt;local&lt;/span&gt;&lt;/span&gt;&lt;br&gt;qm move_disk 100 scsi0 local --format qcow2&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;迁移 ISO 文件&lt;/span&gt;&lt;br&gt;mv /var/lib/vz/template/iso/* /var/lib/vz/iso/&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;迁移备份文件&lt;/span&gt;&lt;br&gt;mv /var/lib/vz/dump/* /var/lib/vz/backups/&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;lsblk 查看一下分区结构&lt;/span&gt; &lt;br&gt;lsblk&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;备份一下 虚拟机的磁盘文件。。。 这一步我没做。。。。。 悲剧了&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;删除 local-lvm 千万注意备份一下 pve/data/ 目录下的 disk 虚拟磁盘文件 PVE8.2.2我照着这么操作直接把磁盘文件给删掉了，我人都傻了。。。。。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;后面几个就是在删除磁盘文件&lt;/span&gt;&lt;br&gt;lvremove pve/data&lt;br&gt;Removing pool pve/data will remove 3 dependent volume(s). Proceed? [y/n]: y&lt;br&gt;Do you really want to remove active logical volume pve/vm-220-disk-0? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;vm-220-disk-0&amp;quot; successfully removed.&lt;br&gt;Do you really want to remove active logical volume pve/vm-300-disk-0? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;vm-300-disk-0&amp;quot; successfully removed.&lt;br&gt;Do you really want to remove active logical volume pve/vm-220-disk-1? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;vm-220-disk-1&amp;quot; successfully removed.&lt;br&gt;Do you really want to remove active logical volume pve/data? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;data&amp;quot; successfully removed.&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;扩展&lt;span class=&#34;hljs-built_in&#34;&gt;local&lt;/span&gt;&lt;/span&gt;&lt;br&gt;lvextend -l +100%FREE -r pve/root&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;查看状态&lt;/span&gt;&lt;br&gt;lsblk&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;在管理页面删除local-LVM&lt;br&gt;&lt;img src=&#34;/ProxmoxVE.assets/image-20240626174453544.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;修改 local 的属性将local-lvm的功能加上去。&lt;/p&gt;
+&lt;p&gt;在管理页面删除local-LVM（数据中心-存储）&lt;br&gt;&lt;img src=&#34;/2023/52f35219/image-20240808094958418.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;修改 local 的属性将local-lvm的功能加上去。（也可勾选所有可选项）&lt;/p&gt;
 &lt;h2 id=&#34;安装群晖&#34;&gt;&lt;a href=&#34;#安装群晖&#34; class=&#34;headerlink&#34; title=&#34;安装群晖&#34;&gt;&lt;/a&gt;安装群晖&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://post.smzdm.com/p/a2036n3n/&#34;&gt;参考&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;创建虚拟机&lt;ul&gt;
@@ -607,6 +730,24 @@
 
 &lt;p&gt;需要按照这个教程开启硬件直通功能&lt;br&gt;&lt;a href=&#34;https://foxi.buduanwang.vip/virtualization/pve/561.html/&#34;&gt;https://foxi.buduanwang.vip/virtualization/pve/561.html/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;开启后在控制面板直接添加PCI设备即可。&lt;br&gt;&lt;img src=&#34;/2023/52f35219/image-20240729150809676.png&#34;&gt;&lt;br&gt;&lt;img src=&#34;/2023/52f35219/image-20240729150802776.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Guest-Agent-的安装&#34;&gt;&lt;a href=&#34;#Guest-Agent-的安装&#34; class=&#34;headerlink&#34; title=&#34;Guest Agent 的安装&#34;&gt;&lt;/a&gt;Guest Agent 的安装&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;GuestAgent是什么&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Guest Agent 的主要作用&lt;/strong&gt;：增强管理功能（从 PVE 管理界面进行关机、重启、暂停；宿主可实时获取虚拟机的系统信息；部分场景下支持热增删 CPU、内存）；提升兼容性与性能；数据安全与备份；&lt;br&gt;&lt;strong&gt;注意&lt;/strong&gt;：Guest Agent 作为运行在虚拟机内的进程，若存在漏洞（如历史版本的 &lt;code&gt;qemu-guest-agent&lt;/code&gt; 曾被曝出远程代码执行漏洞），可能被攻击者利用，进而渗透至宿主或其他虚拟机。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;是否需要安装？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;推荐安装&lt;/strong&gt;：生产环境中的虚拟机、需要频繁管理或备份的场景，建议安装以获取完整功能。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可选场景&lt;/strong&gt;：仅运行简单任务的轻量级虚拟机（如测试环境），可根据需求决定是否安装。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;虚拟机内系统安装Guest Agent&lt;/strong&gt;&lt;br&gt;Linux&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;apt install qemu-guest-agent -y&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;Windows&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;virtio驱动光盘中找到 qemu-ga-x86_64.msi 文件进行安装&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;PVE启用Guest Agent&lt;/strong&gt;&lt;br&gt;点击虚拟机，左侧边栏里的“选项”，找到“QEMU Guest Agent”双击，在弹出的窗口中勾选“使用QEMU Guest Agent”，下方Type保持默认的VirtlO，点击OK保存即可。&lt;br&gt;&lt;img src=&#34;/2023/52f35219/file-20250523103958923.png&#34;&gt;&lt;br&gt;&lt;strong&gt;用法&lt;/strong&gt;&lt;br&gt;在PVE的shell里输入命令，即可通过QEMU Guest Agent控制客户机&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;vmid就是虚拟机的ID&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;cmd就是你要执行的的命令&lt;/span&gt;&lt;br&gt; qm agent &amp;lt;vmid&amp;gt; &amp;lt;cmd&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;常用命令：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;fsfreeze-freeze &lt;br&gt;fsfreeze-status&lt;br&gt;fsfreeze-thaw&lt;br&gt;fstrim                      #查看ssd-trim&lt;br&gt;get-fsinfo                  #查看磁盘信息&lt;br&gt;get-host-name               #查看主机名&lt;br&gt;get-memory-block-info       #查看内存块信息&lt;br&gt;get-memory-blocks           #查看内存&lt;br&gt;get-osinfo                  #查看系统信息&lt;br&gt;get-time                    #查看时间&lt;br&gt;get-timezone                #查看时区&lt;br&gt;get-users                   #用户&lt;br&gt;get-vcpus                   #查看CPU数量&lt;br&gt;info                        #查看支持的命令&lt;br&gt;network-get-interfaces      #查看网络   &lt;br&gt;shutdown                    #关机&lt;br&gt;suspend-disk                #休眠&lt;br&gt;suspend-hybrid              &lt;br&gt;suspend-ram                 &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
  ]]></description>
         </item>
         <item>
@@ -1912,7 +2053,7 @@
 &lt;/thead&gt;
 &lt;tbody&gt;&lt;tr&gt;
 &lt;td&gt;google_client_email&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;mailto:&amp;#120;&amp;#x78;&amp;#120;&amp;#64;&amp;#x78;&amp;#x78;&amp;#x78;&amp;#46;&amp;#x78;&amp;#x78;&amp;#120;&amp;#46;&amp;#x67;&amp;#115;&amp;#101;&amp;#114;&amp;#118;&amp;#x69;&amp;#99;&amp;#101;&amp;#97;&amp;#x63;&amp;#99;&amp;#111;&amp;#117;&amp;#x6e;&amp;#x74;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#x6d;&#34;&gt;&amp;#120;&amp;#x78;&amp;#120;&amp;#64;&amp;#x78;&amp;#x78;&amp;#x78;&amp;#46;&amp;#x78;&amp;#x78;&amp;#120;&amp;#46;&amp;#x67;&amp;#115;&amp;#101;&amp;#114;&amp;#118;&amp;#x69;&amp;#99;&amp;#101;&amp;#97;&amp;#x63;&amp;#99;&amp;#111;&amp;#117;&amp;#x6e;&amp;#x74;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#x6d;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:&amp;#120;&amp;#120;&amp;#120;&amp;#x40;&amp;#x78;&amp;#120;&amp;#120;&amp;#x2e;&amp;#120;&amp;#x78;&amp;#120;&amp;#46;&amp;#103;&amp;#115;&amp;#x65;&amp;#x72;&amp;#x76;&amp;#x69;&amp;#99;&amp;#x65;&amp;#97;&amp;#99;&amp;#99;&amp;#x6f;&amp;#x75;&amp;#110;&amp;#x74;&amp;#x2e;&amp;#99;&amp;#x6f;&amp;#109;&#34;&gt;&amp;#120;&amp;#120;&amp;#120;&amp;#x40;&amp;#x78;&amp;#120;&amp;#120;&amp;#x2e;&amp;#120;&amp;#x78;&amp;#120;&amp;#46;&amp;#103;&amp;#115;&amp;#x65;&amp;#x72;&amp;#x76;&amp;#x69;&amp;#99;&amp;#x65;&amp;#97;&amp;#99;&amp;#99;&amp;#x6f;&amp;#x75;&amp;#110;&amp;#x74;&amp;#x2e;&amp;#99;&amp;#x6f;&amp;#109;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;【必填】Value 输入谷歌的 client_email&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2190,6 +2331,7 @@
 &lt;li&gt;&lt;code&gt;--link=[]&lt;/code&gt;: 添加链接到另一个容器；&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;--expose=[]&lt;/code&gt;: 开放一个端口或一组端口；&lt;/li&gt;
 &lt;li&gt;☆&lt;code&gt;--volume , -v&lt;/code&gt;: 绑定一个卷, (或者称作&lt;strong&gt;映射文件夹&lt;/strong&gt;，将特定文件夹映射到特定目录)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--mount&lt;/code&gt; 类似于&lt;code&gt;-v&lt;/code&gt;有些细微差异。&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;–rm&lt;/code&gt;: 容器退出时自动删除&lt;/li&gt;
 &lt;li&gt;☆&lt;code&gt;--restart &lt;/code&gt;: 指定重启策略 容器在退出时应该或不应该如何重新启动。可选参数有&lt;code&gt;no&lt;/code&gt;、&lt;code&gt; always&lt;/code&gt;、&lt;code&gt;on-failure[:max-retries]&lt;/code&gt;、&lt;code&gt;unless-stopped&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -3101,10 +3243,10 @@
             <guid isPermalink="true">https://www.oikiou.top/2022/aa858de8/</guid>
             <title>Wordpress</title>
             <link>https://www.oikiou.top/2022/aa858de8/</link>
+            <category>web</category>
             <category>ssl</category>
             <category>https</category>
             <category>wordpress</category>
-            <category>web</category>
             <category>mysql</category>
             <category>nginx</category>
             <pubDate>Mon, 21 Feb 2022 22:57:15 +0800</pubDate>
@@ -3369,142 +3511,6 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 &lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.jianshu.com/p/d7fae221ac47&#34;&gt;工欲善其事，必先利其器：动手给JLink添加官方不支持的芯片&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://www.oikiou.top/2021/18d811b/</guid>
-            <title>J-Link RTT的使用方法</title>
-            <link>https://www.oikiou.top/2021/18d811b/</link>
-            <category>j-link</category>
-            <category>rtt</category>
-            <category>serial</category>
-            <category>debug</category>
-            <category>jlink</category>
-            <pubDate>Fri, 24 Sep 2021 20:28:40 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;J-Link-RTT-JTrace&#34;&gt;&lt;a href=&#34;#J-Link-RTT-JTrace&#34; class=&#34;headerlink&#34; title=&#34;J-Link RTT &amp;amp; JTrace&#34;&gt;&lt;/a&gt;J-Link RTT &amp;amp; JTrace&lt;/h1&gt;&lt;h2 id=&#34;序言&#34;&gt;&lt;a href=&#34;#序言&#34; class=&#34;headerlink&#34; title=&#34;序言&#34;&gt;&lt;/a&gt;序言&lt;/h2&gt;&lt;p&gt;Jlink可用直接输出调试信息，省去串口工具（配置麻烦+硬件接线乱+占用IO）&lt;/p&gt;
-&lt;p&gt;Jlink输出调试信息有两种&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Jlink的Trace&lt;/li&gt;
-&lt;li&gt;Jlink的RTT (Real Time Transfer)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;Jlink-Trace&#34;&gt;&lt;a href=&#34;#Jlink-Trace&#34; class=&#34;headerlink&#34; title=&#34;Jlink Trace&#34;&gt;&lt;/a&gt;Jlink Trace&lt;/h2&gt;&lt;hr&gt;
-&lt;p&gt;！！！待完善！！！&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;MDK 环境下：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/2021/18d811b/132307095276873.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; ITM_Port8(n)    (*((volatile unsigned char *)(0xE0000000+4*n)))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; ITM_Port16(n)   (*((volatile unsigned short*)(0xE0000000+4*n)))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; ITM_Port32(n)   (*((volatile unsigned long *)(0xE0000000+4*n)))&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; DEMCR           (*((volatile unsigned long *)(0xE000EDFC)))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; TRCENA          0x01000000&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;fputc&lt;/span&gt;&lt;span class=&#34;hljs-params&#34;&gt;(&lt;span class=&#34;hljs-type&#34;&gt;int&lt;/span&gt; ch, FILE *f)&lt;/span&gt; &lt;br&gt;&amp;#123;&lt;br&gt;  &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; (DEMCR &amp;amp; TRCENA) &amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;while&lt;/span&gt; (ITM_Port32(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;) == &lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;);&lt;br&gt;    ITM_Port8(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;) = ch;&lt;br&gt;  &amp;#125;&lt;br&gt;  &lt;span class=&#34;hljs-keyword&#34;&gt;return&lt;/span&gt;(ch);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;h2 id=&#34;RTT&#34;&gt;&lt;a href=&#34;#RTT&#34; class=&#34;headerlink&#34; title=&#34;RTT&#34;&gt;&lt;/a&gt;RTT&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.segger.com/products/debug-probes/j-link/technology/about-real-time-transfer/&#34;&gt;Jlink RTT 官网资料&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;RTT其实原理就是读取RAM上某个Buff的数据，这个Buff可以通过RTT的CB(control block)找到。&lt;/p&gt;
-&lt;h3 id=&#34;教程&#34;&gt;&lt;a href=&#34;#教程&#34; class=&#34;headerlink&#34; title=&#34;教程&#34;&gt;&lt;/a&gt;教程&lt;/h3&gt;&lt;p&gt;下载Jlink的工具后，安装后程序目录有Samples文件夹(default: C:\Program Files\SEGGER\JLink\Samples)，文件夹内就有RTT的源码。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;将源码的&lt;code&gt;RTT/&lt;/code&gt;目录下 &lt;code&gt;SEGGER_RTT_Printf.c&lt;/code&gt;  &lt;code&gt;SEGGER_RTT.c&lt;/code&gt; 两个文件添加到工程里，并解决头文件包含问题。&lt;/li&gt;
-&lt;li&gt;看 &lt;code&gt;Examples/&lt;/code&gt;目录下就有使用历程，移植到你的工程就好。可以参考&lt;code&gt;Main_RTT_InputEchoApp.c&lt;/code&gt;和&lt;code&gt;Main_RTT_PrintfTest.c&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;打开 &lt;code&gt;J-Link RTT Viewer&lt;/code&gt;软件，选择&lt;code&gt;Device&lt;/code&gt;，输入&lt;code&gt;RTT Control Block&lt;/code&gt;的地址connect即可。&lt;ol&gt;
-&lt;li&gt;&lt;code&gt;RTT Control Block&lt;/code&gt;的地址可以输入RAM的范围让&lt;code&gt;J-Link RTT Viewer&lt;/code&gt;软件自己去搜索。&lt;/li&gt;
-&lt;li&gt;也可手动输入，而RTT_V754a的&lt;code&gt;RTT Control Block&lt;/code&gt;是&lt;code&gt;_SEGGER_RTT&lt;/code&gt; 在&lt;code&gt; file:SEGGER_RTT.c line:279&lt;/code&gt;。&lt;img src=&#34;/2021/18d811b/image-20210917214218565.png&#34; alt=&#34;image-20210917214218565&#34;&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;一顿操作下来正常就可以收到数据了。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;RTT-源码&#34;&gt;&lt;a href=&#34;#RTT-源码&#34; class=&#34;headerlink&#34; title=&#34;RTT 源码&#34;&gt;&lt;/a&gt;RTT 源码&lt;/h3&gt;&lt;h4 id=&#34;Included-files&#34;&gt;&lt;a href=&#34;#Included-files&#34; class=&#34;headerlink&#34; title=&#34;Included files&#34;&gt;&lt;/a&gt;Included files&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;RTT/&lt;/code&gt;&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;SEGGER_RTT.c&lt;/code&gt;               - RTT的主要模块。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;SEGGER_RTT.h&lt;/code&gt;               - RTT的主要模块。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;SEGGER_RTT_ASM_ARMv7M.S&lt;/code&gt;    - ARMv7M 的优化实现&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;SEGGER_RTT_Printf.c&lt;/code&gt;        - (‘ SEGGER_RTT_Printf() ‘)的简单实现。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Syscalls/&lt;/code&gt;&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;SEGGER_RTT_Syscalls_*.c&lt;/code&gt;    - &lt;code&gt;printf()&lt;/code&gt; 重定向&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Config/&lt;/code&gt;&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;SEGGER_RTT_Conf.h&lt;/code&gt;          - RTT配置文件。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Examples/&lt;/code&gt;&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Main_RTT_InputEchoApp.c&lt;/code&gt;    - Example application which echoes input on Channel 0.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Main_RTT_MenuApp.c&lt;/code&gt;         - Example application to demonstrate RTT bi-directional functionality.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Main_RTT_PrintfTest.c&lt;/code&gt;      - Example application to test RTT’s simple printf implementation.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Main_RTT_SpeedTestApp.c&lt;/code&gt;    - Example application to measure RTT performance. (Requires embOS)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;API&#34;&gt;&lt;a href=&#34;#API&#34; class=&#34;headerlink&#34; title=&#34;API&#34;&gt;&lt;/a&gt;API&lt;/h4&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;函数名称&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;描述&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;SEGGER_RTT_Read()&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;从输入缓冲区读取数据。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;SEGGER_RTT_Write()&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;将数据写入输出缓冲区。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;SEGGER_RTT_WriteString()&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;将\0结尾字符串写入输出缓冲区。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;SEGGER_RTT_printf()&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;将格式化的字符串写入输出缓冲区。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;SEGGER_RTT_GetKey()&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;从输入缓冲区 0 中获取一个字符。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;SEGGER_RTT_HasKey()&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;检查输入缓冲区 0 中是否有字符可用。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;SEGGER_RTT_WaitKey()&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;等待输入缓冲区 0 中的字符可用并获取它。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;SEGGER_RTT_ConfigUpBuffer()&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;配置向上（输出）缓冲区。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;SEGGER_RTT_ConfigDownBuffer()&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;配置向下（输入）缓冲区。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;SEGGER_RTT_Init()&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;仅使用 RAM 目标时初始化 RTT 控制块结构。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;SEGGER_RTT_SetTerminal()&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;将“虚拟”终端设置为通过 Write 和 WriteString 用于通道 0 上的输出。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;SEGGER_RTT_TerminalOut()&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;通过“虚拟”终端发送以\0结尾的字符串。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;h3 id=&#34;RTT-软件&#34;&gt;&lt;a href=&#34;#RTT-软件&#34; class=&#34;headerlink&#34; title=&#34;RTT 软件&#34;&gt;&lt;/a&gt;RTT 软件&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;/2021/18d811b/image-20210918101414512.png&#34; alt=&#34;image-20210918101414512&#34;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;J-Link RTT Viewer&lt;/code&gt;软件用的比较多&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;J-Link RTT Logger&lt;/code&gt;软件可以将输出的数据保存到文件，并显示通信速率和通信数据量。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;J-Link RTT Client&lt;/code&gt;可以在调试的时候，充当客户端，输出数据。据说支持中文&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;note：&#34;&gt;&lt;a href=&#34;#note：&#34; class=&#34;headerlink&#34; title=&#34;note：&#34;&gt;&lt;/a&gt;note：&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;程序如果跑在RAM中，J-Link可能会错误地识别出init部分中的块，而不是数据部分中的实际块。为了防止这种情况，将SEGGER_RTT_IN_RAM的定义设置为1。现在，J-Link将在应用程序中调用第一个SEGGER_RTT函数之后找到正确的RTT缓冲区。建议在应用程序开始时调用SEGGER_RTT_Init()。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;不同通道输出数据&#34;&gt;&lt;a href=&#34;#不同通道输出数据&#34; class=&#34;headerlink&#34; title=&#34;不同通道输出数据&#34;&gt;&lt;/a&gt;不同通道输出数据&lt;/h4&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;SEGGER_RTT_TerminalOut(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;SEGGER_RTT_TerminalOut 0\r\n&amp;quot;&lt;/span&gt;);&lt;br&gt;SEGGER_RTT_TerminalOut(&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;SEGGER_RTT_TerminalOut 1\r\n&amp;quot;&lt;/span&gt;);&lt;br&gt;SEGGER_RTT_TerminalOut(&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;SEGGER_RTT_TerminalOut 2\r\n&amp;quot;&lt;/span&gt;);&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SEGGER_RTT_SetTerminal(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;);&lt;br&gt;SEGGER_RTT_printf(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;SEGGER_RTT_printf 0\r\n&amp;quot;&lt;/span&gt;);&lt;br&gt;SEGGER_RTT_SetTerminal(&lt;span class=&#34;hljs-number&#34;&gt;1&lt;/span&gt;);&lt;br&gt;SEGGER_RTT_printf(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;SEGGER_RTT_printf 1\r\n&amp;quot;&lt;/span&gt;);&lt;br&gt;SEGGER_RTT_SetTerminal(&lt;span class=&#34;hljs-number&#34;&gt;2&lt;/span&gt;);&lt;br&gt;SEGGER_RTT_printf(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;SEGGER_RTT_printf 2\r\n&amp;quot;&lt;/span&gt;);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;h4 id=&#34;输出带颜色的字符&#34;&gt;&lt;a href=&#34;#输出带颜色的字符&#34; class=&#34;headerlink&#34; title=&#34;输出带颜色的字符&#34;&gt;&lt;/a&gt;输出带颜色的字符&lt;/h4&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// Control sequences, based on ANSI.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;// Can be used to control color, and clear the screen&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;//&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_RESET                &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[0m&amp;quot;&lt;/span&gt;         &lt;span class=&#34;hljs-comment&#34;&gt;// Reset to default colors&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_CLEAR                &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[2J&amp;quot;&lt;/span&gt;         &lt;span class=&#34;hljs-comment&#34;&gt;// Clear screen, reposition cursor to top left&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_BLACK           &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[2;30m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_RED             &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[2;31m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_GREEN           &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[2;32m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_YELLOW          &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[2;33m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_BLUE            &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[2;34m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_MAGENTA         &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[2;35m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_CYAN            &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[2;36m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_WHITE           &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[2;37m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_BRIGHT_BLACK    &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[1;30m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_BRIGHT_RED      &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[1;31m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_BRIGHT_GREEN    &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[1;32m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_BRIGHT_YELLOW   &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[1;33m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_BRIGHT_BLUE     &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[1;34m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_BRIGHT_MAGENTA  &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[1;35m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_BRIGHT_CYAN     &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[1;36m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_TEXT_BRIGHT_WHITE    &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[1;37m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_BLACK             &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[24;40m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_RED               &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[24;41m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_GREEN             &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[24;42m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_YELLOW            &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[24;43m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_BLUE              &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[24;44m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_MAGENTA           &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[24;45m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_CYAN              &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[24;46m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_WHITE             &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[24;47m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_BRIGHT_BLACK      &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[4;40m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_BRIGHT_RED        &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[4;41m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_BRIGHT_GREEN      &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[4;42m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_BRIGHT_YELLOW     &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[4;43m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_BRIGHT_BLUE       &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[4;44m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_BRIGHT_MAGENTA    &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[4;45m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_BRIGHT_CYAN       &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[4;46m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta&#34;&gt;#&lt;span class=&#34;hljs-keyword&#34;&gt;define&lt;/span&gt; RTT_CTRL_BG_BRIGHT_WHITE      &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;\x1B[4;47m&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SEGGER_RTT_WriteString(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,RTT_CTRL_RESET&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Red: &amp;quot;&lt;/span&gt;\&lt;br&gt;                       RTT_CTRL_TEXT_RED&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;This text is red.&amp;quot;&lt;/span&gt;\&lt;br&gt;                       RTT_CTRL_BG_BRIGHT_GREEN&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;This background is green.\r\n&amp;quot;&lt;/span&gt;);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;h4 id=&#34;输入字符&#34;&gt;&lt;a href=&#34;#输入字符&#34; class=&#34;headerlink&#34; title=&#34;输入字符&#34;&gt;&lt;/a&gt;输入字符&lt;/h4&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs c&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;(SEGGER_RTT_HasKey())&lt;br&gt;&amp;#123;&lt;br&gt;    &lt;span class=&#34;hljs-type&#34;&gt;char&lt;/span&gt; r = SEGGER_RTT_GetKey();&lt;br&gt;    SEGGER_RTT_WriteString(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;input:%c\r\n&amp;quot;&lt;/span&gt;, r);&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;(SEGGER_RTT_HasKey())&lt;br&gt;&amp;#123;&lt;br&gt;    ReadNum = SEGGER_RTT_Read(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&amp;amp;acIn[&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;], &lt;span class=&#34;hljs-keyword&#34;&gt;sizeof&lt;/span&gt;(acIn));&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt;(i=&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;i&amp;lt;&lt;span class=&#34;hljs-number&#34;&gt;20&lt;/span&gt;;i++)&lt;br&gt;    &amp;#123;&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt;(&lt;span class=&#34;hljs-number&#34;&gt;0x0A&lt;/span&gt; != acIn[i])&lt;br&gt;        &amp;#123;&lt;br&gt;            ReadNum++;&lt;br&gt;        &amp;#125;&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;else&lt;/span&gt;&lt;br&gt;        &amp;#123;&lt;br&gt;            &lt;span class=&#34;hljs-keyword&#34;&gt;break&lt;/span&gt;;&lt;br&gt;        &amp;#125;&lt;br&gt;    &amp;#125;&lt;br&gt;    SEGGER_RTT_Write(&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,acIn,ReadNum);&lt;br&gt;    ReadNum=&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;;&lt;br&gt;    &lt;span class=&#34;hljs-built_in&#34;&gt;memset&lt;/span&gt;(acIn,&lt;span class=&#34;hljs-number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;hljs-keyword&#34;&gt;sizeof&lt;/span&gt;(acIn));&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
  ]]></description>
         </item>
     </channel>

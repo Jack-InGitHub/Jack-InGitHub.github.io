@@ -11,9 +11,9 @@
             "date_published": "2024-02-21T00:08:08.000Z",
             "content_html": "<h1 id=\"CSS-Cascading-Style-Sheets\"><a href=\"#CSS-Cascading-Style-Sheets\" class=\"headerlink\" title=\"CSS (Cascading Style Sheets)\"></a>CSS (Cascading Style Sheets)</h1>",
             "tags": [
-                "web",
                 "css",
-                "html"
+                "html",
+                "web"
             ]
         }
     ]

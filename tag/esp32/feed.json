@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oikiou's Blog • All posts by \"esp32\" tag",
+    "description": "Blog",
+    "home_page_url": "https://www.oikiou.top",
+    "items": [
+        {
+            "id": "https://www.oikiou.top/2025/87426b16/",
+            "url": "https://www.oikiou.top/2025/87426b16/",
+            "title": "ESP32 Develop",
+            "date_published": "2025-07-03T12:42:16.256Z",
+            "content_html": "<h1 id=\"ESP32\"><a href=\"#ESP32\" class=\"headerlink\" title=\"ESP32\"></a>ESP32</h1><figure class=\"highlight shell\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br><span class=\"line\">7</span><br></pre></td><td class=\"code\"><pre><code class=\"hljs shell\">idf.py set-target esp32c3<br><br>idf.py menuconfig<br><br>idf.py build<br><br>idf.py -p COM12 flash moniter<br></code></pre></td></tr></table></figure>\n\n\n\n\n\n<h1 id=\"IDF\"><a href=\"#IDF\" class=\"headerlink\" title=\"IDF\"></a>IDF</h1><h2 id=\"组件管理器-The-ESP-Component-Registry\"><a href=\"#组件管理器-The-ESP-Component-Registry\" class=\"headerlink\" title=\"组件管理器 The ESP Component Registry\"></a>组件管理器 The ESP Component Registry</h2><p><a href=\"https://components.espressif.com/\">https://components.espressif.com/</a></p>\n<h3 id=\"create-manifest\"><a href=\"#create-manifest\" class=\"headerlink\" title=\"create-manifest\"></a>create-manifest</h3><ul>\n<li><code>idf.py create-manifest</code> 为 main 组件创建清单文件</li>\n<li><code>idf.py create-manifest --component=my_component</code> 在 <code>components</code> 目录下，为组件 <strong>my_component</strong> 创建清单文件</li>\n<li><code>idf.py create-manifest --path=&quot;../../my_component&quot;</code> 在 <code>my_component</code> 目录下，为组件 <strong>my_component</strong> 创建清单文件</li>\n</ul>\n<p>在向项目的某个组件添加新的清单时，必须先运行 <code>idf.py reconfigure</code>，手动重新配置项目。</p>\n<h3 id=\"add-dependency\"><a href=\"#add-dependency\" class=\"headerlink\" title=\"add-dependency\"></a>add-dependency</h3><p>要为 ESP-IDF 项目中的组件（如 <code>my_component</code>）添加依赖项，可以运行命令 <code>idf.py add-dependency DEPENDENCY</code>。<br><code>DEPENDENCY</code> 参数代表一个由 IDF 组件管理器管理的额外组件，而 <code>my_component</code> 也依赖于这个组件。<code>DEPENDENCY</code> 参数的格式为 <code>namespace/name=1.0.0</code>，namespace&#x2F;name 代表组件名称，&#x3D;1.0.0 是组件的版本范围，详情请参阅 <a href=\"https://docs.espressif.com/projects/idf-component-manager/en/latest/reference/versioning.html\">版本文档</a>。</p>\n<h3 id=\"直接编辑\"><a href=\"#直接编辑\" class=\"headerlink\" title=\"直接编辑\"></a>直接编辑</h3><p>通过在文本编辑器直接编辑，你可以轻松定义清单文件 <code>idf_component.yml</code> 中的依赖项。</p>\n",
+            "tags": [
+                "embedded",
+                "esp32",
+                "idf"
+            ]
+        }
+    ]
+}

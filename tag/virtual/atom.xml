@@ -4,24 +4,45 @@
     <title>Oikiou&#39;s Blog • Posts by &#34;virtual&#34; tag</title>
     <link href="https://www.oikiou.top" />
     <updated>2023-08-24T14:57:15.000Z</updated>
-    <category term="autosar" />
-    <category term="aes" />
+    <category term="c++" />
+    <category term="c/c++" />
+    <category term="c" />
+    <category term="ms-dos" />
+    <category term="windows" />
+    <category term="cmd" />
+    <category term="pid" />
+    <category term="micropython" />
+    <category term="python" />
     <category term="embedded" />
+    <category term="qt" />
+    <category term="pyqt" />
+    <category term="css" />
+    <category term="html" />
+    <category term="web" />
+    <category term="js" />
+    <category term="数据结构" />
+    <category term="堆栈" />
+    <category term="队列" />
+    <category term="链表" />
+    <category term="树" />
+    <category term="二叉树" />
+    <category term="正则表达式" />
+    <category term="aes" />
+    <category term="autosar" />
     <category term="cc2530" />
     <category term="zigbee" />
     <category term="hp" />
     <category term="chrome" />
     <category term="sscanf" />
-    <category term="c/c++" />
     <category term="flash" />
     <category term="hex" />
-    <category term="license" />
-    <category term="ssl" />
-    <category term="https" />
     <category term="jpeg" />
     <category term="webp" />
     <category term="jpeg2000" />
     <category term="image" />
+    <category term="ssl" />
+    <category term="https" />
+    <category term="license" />
     <category term="md5" />
     <category term="major" />
     <category term="markdown" />
@@ -34,16 +55,15 @@
     <category term="tags" />
     <category term="label" />
     <category term="category" />
+    <category term="typora" />
     <category term="usart" />
     <category term="rts" />
     <category term="cts" />
     <category term="dtr" />
     <category term="dsr" />
-    <category term="typora" />
     <category term="ws2812" />
     <category term="spi" />
     <category term="dma" />
-    <category term="windows" />
     <category term="makefile" />
     <category term="xip" />
     <category term="nor" />
@@ -59,34 +79,37 @@
     <category term="gzip" />
     <category term="bzip" />
     <category term="tar" />
-    <category term="zsh" />
-    <category term="shell" />
-    <category term="linux" />
     <category term="character encoding" />
     <category term="gb2312" />
     <category term="utf-8" />
+    <category term="zsh" />
+    <category term="shell" />
+    <category term="linux" />
     <category term="words" />
     <category term="cortexm3" />
-    <category term="kms" />
-    <category term="office" />
-    <category term="volume" />
     <category term="DS_Store" />
     <category term="rtf" />
     <category term="后缀" />
     <category term="机智云" />
+    <category term="kms" />
+    <category term="office" />
+    <category term="volume" />
+    <category term="apk" />
+    <category term="java" />
     <category term="蓝桥杯" />
     <category term="国赛" />
     <category term="ct117e" />
-    <category term="ct117e-ex" />
-    <category term="apk" />
-    <category term="java" />
     <category term="超声波" />
+    <category term="ct117e-ex" />
     <category term="github" />
     <category term="hosts" />
     <category term="audio" />
     <category term="video" />
-    <category term="cad" />
+    <category term="esp32" />
+    <category term="idf" />
+    <category term="usb" />
     <category term="cat_drive" />
+    <category term="cad" />
     <category term="switch" />
     <category term="nintendo" />
     <category term="game" />
@@ -95,14 +118,14 @@
     <category term="disk" />
     <category term="pve" />
     <category term="virtual" />
-    <category term="software" />
     <category term="摄影" />
-    <category term="synology" />
-    <category term="cmake" />
+    <category term="software" />
     <category term="dslogic" />
     <category term="逻辑分析仪" />
     <category term="pyhton" />
     <category term="decoder" />
+    <category term="synology" />
+    <category term="cmake" />
     <category term="docker" />
     <category term="dockerfile" />
     <category term="namespace" />
@@ -116,26 +139,25 @@
     <category term="serial" />
     <category term="debug" />
     <category term="jlink" />
-    <category term="j-tag" />
+    <category term="obsidian" />
     <category term="ps" />
     <category term="powershell" />
-    <category term="obsidian" />
+    <category term="rdpwrap" />
+    <category term="rdp" />
+    <category term="sourceinsigh" />
+    <category term="si" />
+    <category term="ide" />
     <category term="spacedesk" />
     <category term="投屏" />
     <category term="vscode" />
-    <category term="ide" />
-    <category term="sourceinsigh" />
-    <category term="si" />
+    <category term="j-tag" />
     <category term="commenttranslate" />
     <category term="wsl" />
-    <category term="rdpwrap" />
-    <category term="rdp" />
-    <category term="speedtest" />
-    <category term="tools" />
     <category term="wordpress" />
-    <category term="web" />
     <category term="mysql" />
     <category term="nginx" />
+    <category term="speedtest" />
+    <category term="tools" />
     <category term="tmux" />
     <category term="unit" />
     <category term="m" />
@@ -143,7 +165,8 @@
     <category term="mm" />
     <category term="s" />
     <category term="us" />
-    <category term="v2ray" />
+    <category term="cortex-a7" />
+    <category term="cortex-m3" />
     <category term="hexo" />
     <category term="jekyll" />
     <category term="fluid" />
@@ -152,46 +175,25 @@
     <category term="blog" />
     <category term="gravatar" />
     <category term="cravatar" />
-    <category term="usb" />
-    <category term="c++" />
-    <category term="c" />
-    <category term="ms-dos" />
-    <category term="cmd" />
-    <category term="micropython" />
-    <category term="python" />
-    <category term="pid" />
-    <category term="qt" />
-    <category term="pyqt" />
-    <category term="css" />
-    <category term="html" />
-    <category term="js" />
-    <category term="数据结构" />
-    <category term="堆栈" />
-    <category term="队列" />
-    <category term="链表" />
-    <category term="树" />
-    <category term="二叉树" />
-    <category term="正则表达式" />
-    <category term="cortex-a7" />
-    <category term="cortex-m3" />
-    <category term="rtx" />
     <category term="rtos" />
-    <category term="keil" />
     <category term="rt-thread" />
-    <category term="ucos" />
+    <category term="rtx" />
+    <category term="keil" />
     <category term="raspberry" />
     <category term="wiringpi" />
-    <category term="bluetooth" />
-    <category term="蓝牙" />
     <category term="pwm" />
+    <category term="ucos" />
     <category term="ap" />
     <category term="wifi" />
-    <category term="modbus" />
+    <category term="bluetooth" />
+    <category term="蓝牙" />
+    <category term="v2ray" />
     <category term="linuxapp" />
-    <category term="curl" />
-    <category term="libcurl" />
     <category term="zlib" />
     <category term="minizip" />
+    <category term="modbus" />
+    <category term="curl" />
+    <category term="libcurl" />
     <category term="alpha_mini" />
     <category term="正点原子" />
     <entry>
@@ -248,8 +250,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;  是支持半虚拟化IO（virtio）的设备。&lt;/p&gt;
 &lt;p&gt;  如果您在虚拟机内运行的内容都支持&lt;code&gt;virtio&lt;/code&gt;，它可能会为您提供最佳性能，因为它允许虚拟机跳过大多数相关步骤模拟虚拟网卡并控制虚拟硬件，主机利用实际物理网卡的硬件功能，最大限度地提高虚拟机流量的效益。&lt;/p&gt;
-&lt;p&gt;  VirtIO windows的驱动文件可以在这里下载：&lt;a href=&#34;https://github.com/virtio-win/virtio-win-pkg-scripts&#34;&gt;https://github.com/virtio-win/virtio-win-pkg-scripts&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;  &lt;a href=&#34;https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/&#34;&gt;https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  VirtIO驱动下载&lt;br&gt;  VirtIO windows的驱动文件可以在这里下载：&lt;br&gt;  &lt;a href=&#34;https://github.com/virtio-win/virtio-win-pkg-scripts&#34;&gt;https://github.com/virtio-win/virtio-win-pkg-scripts&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/&#34;&gt;https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;硬盘接口怎么选-IDE-SATA-SCSI-VirtIO&#34;&gt;&lt;a href=&#34;#硬盘接口怎么选-IDE-SATA-SCSI-VirtIO&#34; class=&#34;headerlink&#34; title=&#34;硬盘接口怎么选 IDE SATA SCSI VirtIO&#34;&gt;&lt;/a&gt;硬盘接口怎么选 IDE SATA SCSI VirtIO&lt;/h3&gt;&lt;p&gt;IDE 速度最差，兼容性较好，比较古老的接口了&lt;/p&gt;
 &lt;p&gt;SATA 速度不错，兼容性也可以。&lt;/p&gt;
@@ -367,36 +368,42 @@
 
 
 &lt;h2 id=&#34;修改PVE的管理地址&#34;&gt;&lt;a href=&#34;#修改PVE的管理地址&#34; class=&#34;headerlink&#34; title=&#34;修改PVE的管理地址&#34;&gt;&lt;/a&gt;修改PVE的管理地址&lt;/h2&gt;&lt;h3 id=&#34;无法进入web管理界面&#34;&gt;&lt;a href=&#34;#无法进入web管理界面&#34; class=&#34;headerlink&#34; title=&#34;无法进入web管理界面&#34;&gt;&lt;/a&gt;无法进入web管理界面&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;编辑 interface 文件&lt;/p&gt;
-&lt;figure class=&#34;highlight angelscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs angelscript&#34;&gt;vi /etc/network/&lt;span class=&#34;hljs-built_in&#34;&gt;int&lt;/span&gt;erfaces&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;li&gt;编辑 interface 文件&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;vi /etc/network/interfaces&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;通过键盘上下左右移动到address这行的IP地址，按一次i进入修改状态，修改为新的IP地址，如果需要网关则修改gateway这行，修改完成确认无误后按一次ESC键输入“:wq”回车保存退出。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;修改显示&lt;/p&gt;
+&lt;p&gt; 通过键盘上下左右移动到address这行的IP地址，按一次i进入修改状态，修改为新的IP地址，如果需要网关则修改gateway这行，修改完成确认无误后按一次ESC键输入“:wq”回车保存退出。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;修改显示&lt;/li&gt;
+&lt;/ol&gt;
 &lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;vi &lt;span class=&#34;hljs-regexp&#34;&gt;/etc/i&lt;/span&gt;ssue&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;通过键盘上下左右移动到https:&amp;#x2F;&amp;#x2F;这行的IP地址，按一次i进入修改状态，修改为新的IP地址，端口8006不要改，修改完成确认无误后按一次ESC键输入“:wq”回车保存退出。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;修改 hosts 文件&lt;/p&gt;
-&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs awk&#34;&gt;vi &lt;span class=&#34;hljs-regexp&#34;&gt;/etc/&lt;/span&gt;hosts&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;通过键盘上下左右移动到第2行的IP地址，按一次i进入修改状态，修改为新的IP地址，修改完成确认无误后按一次ESC键输入“:wq”回车保存退出。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;reboot&lt;/strong&gt;，重启PVE！&lt;/p&gt;
-&lt;/li&gt;
+&lt;p&gt; 通过键盘上下左右移动到https:&amp;#x2F;&amp;#x2F;这行的IP地址，按一次i进入修改状态，修改为新的IP地址，端口8006不要改，修改完成确认无误后按一次ESC键输入“:wq”回车保存退出。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;修改 hosts 文件&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;vi /etc/hosts&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt; 通过键盘上下左右移动到第2行的IP地址，按一次i进入修改状态，修改为新的IP地址，修改完成确认无误后按一次ESC键输入“:wq”回车保存退出。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;reboot&lt;/strong&gt;，重启PVE！&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;可以进入web管理界面&#34;&gt;&lt;a href=&#34;#可以进入web管理界面&#34; class=&#34;headerlink&#34; title=&#34;可以进入web管理界面&#34;&gt;&lt;/a&gt;可以进入web管理界面&lt;/h3&gt;&lt;p&gt;如果是PVE版本大于等于6.1，则可以使用web管理页面的网络选项菜单中修改vmbr0的IP，修改完成后，点击应用配置生效即可。此操作无需重启服务器即可应用新IP。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2023/52f35219/2983653-20221011173336293-1137047342.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;修改显示的访问的链接地址。&lt;br&gt;重启后的提示语还是显示原来的https:&amp;#x2F;&amp;#x2F;旧IP:8006。这个要是以后忘了就容易出问题。可以更改&amp;#x2F;etc&amp;#x2F;hosts文件，也可以在web管理页面主机处修改，修改完记得保存。此操作修改完需要重启才可刷新显示提示语。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2023/52f35219/2983653-20221011173352327-326543372.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;qemu-img-img转换为qcow2&#34;&gt;&lt;a href=&#34;#qemu-img-img转换为qcow2&#34; class=&#34;headerlink&#34; title=&#34;qemu-img img转换为qcow2&#34;&gt;&lt;/a&gt;qemu-img img转换为qcow2&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;转换&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;-f&amp;#x27;&lt;/span&gt; first image format&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;[-O output_fmt]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;-c 参数可以启用镜像文件压缩&lt;/span&gt;&lt;br&gt;qemu-img convert -f raw -O qcow2 file.img tofile.qcow2&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;导入&lt;/span&gt; &lt;br&gt;qm importdisk 101 xxxfile.qcow2 local-lvm --format qcow2&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
 &lt;h2 id=&#34;PVE-导入img磁盘文件-qm-importovf-qm-importovf&#34;&gt;&lt;a href=&#34;#PVE-导入img磁盘文件-qm-importovf-qm-importovf&#34; class=&#34;headerlink&#34; title=&#34;PVE 导入img磁盘文件 qm importovf qm importovf&#34;&gt;&lt;/a&gt;PVE 导入img磁盘文件 qm importovf qm importovf&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;Create a new VM using parameters &lt;span class=&#34;hljs-built_in&#34;&gt;read&lt;/span&gt; from an OVF manifest&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;An &lt;span class=&#34;hljs-built_in&#34;&gt;alias&lt;/span&gt; &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; qm disk import.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;          &amp;lt;虚拟机ID&amp;gt; &amp;lt;清单&amp;gt;      &amp;lt;存储&amp;gt; [选项]&lt;/span&gt;&lt;br&gt;qm importovf &amp;lt;vmid&amp;gt; &amp;lt;manifest&amp;gt; &amp;lt;storage&amp;gt; [OPTIONS]&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;示例&lt;/span&gt;&lt;br&gt;qm importdisk 102 /var/lib/vz/template/iso/openwrt.img local-lvm&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 
-
-&lt;h2 id=&#34;qemu-img-img转换为qcow2&#34;&gt;&lt;a href=&#34;#qemu-img-img转换为qcow2&#34; class=&#34;headerlink&#34; title=&#34;qemu-img img转换为qcow2&#34;&gt;&lt;/a&gt;qemu-img img转换为qcow2&lt;/h2&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;转换&lt;/span&gt;&lt;br&gt;qemu-img convert -f raw -O qcow2 file.img tofile.qcow2&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;导入&lt;/span&gt;&lt;br&gt;qm importdisk 101 xxxfile.qcow2 local-lvm&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
+&lt;h2 id=&#34;PVE-将虚拟机硬盘文件导出&#34;&gt;&lt;a href=&#34;#PVE-将虚拟机硬盘文件导出&#34; class=&#34;headerlink&#34; title=&#34;PVE 将虚拟机硬盘文件导出&#34;&gt;&lt;/a&gt;PVE 将虚拟机硬盘文件导出&lt;/h2&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 语法：qemu-img convert -f &amp;lt;源格式&amp;gt; -O vmdk -o subformat=streamOptimized &amp;lt;源路径&amp;gt; &amp;lt;目标路径&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 示例 1：转换 LVM 硬盘&lt;/span&gt;&lt;br&gt;qemu-img convert -f raw -O vmdk -o subformat=streamOptimized /dev/pve/vm-100-disk-0 /mnt/nfs/vm-100-disk-0.vmdk&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 示例 2：转换 QCOW2 硬盘&lt;/span&gt;&lt;br&gt;qemu-img convert -f qcow2 -O vmdk -o subformat=streamOptimized /var/lib/vz/images/100/vm-100-disk-0.qcow2 /mnt/nfs/vm-100-disk-0.vmdk&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;参数说明&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-f &amp;lt;源格式&amp;gt;&lt;/code&gt;：源硬盘格式（&lt;code&gt;raw&lt;/code&gt;、&lt;code&gt;qcow2&lt;/code&gt; 等）。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-O vmdk&lt;/code&gt;：输出为 VMDK 格式。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-o subformat=streamOptimized&lt;/code&gt;：生成 ESXi 兼容的精简格式（Thin Provisioned）。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;pvetools工具安装省电后无法睿频&#34;&gt;&lt;a href=&#34;#pvetools工具安装省电后无法睿频&#34; class=&#34;headerlink&#34; title=&#34;pvetools工具安装省电后无法睿频&#34;&gt;&lt;/a&gt;pvetools工具安装省电后无法睿频&lt;/h2&gt;&lt;h2 id=&#34;自动调整运行频率&#34;&gt;&lt;a href=&#34;#自动调整运行频率&#34; class=&#34;headerlink&#34; title=&#34;自动调整运行频率&#34;&gt;&lt;/a&gt;自动调整运行频率&lt;/h2&gt;&lt;p&gt;网上有很多教程会修改&lt;code&gt;vi /etc/default/grub&lt;/code&gt;文件，将&lt;code&gt;driver&lt;/code&gt;改成&lt;code&gt;acpi-cpufreq&lt;/code&gt;。&lt;/p&gt;
 &lt;p&gt;我的CPU是J4125，在&lt;code&gt;intel_cpufreq&lt;/code&gt;下也可以使用&lt;code&gt;conservative ondemand userspace powersave performance schedutil&lt;/code&gt;这些模式。所有就没有去修改。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.51cto.com/picker/5020502&#34;&gt;参考&lt;/a&gt;&lt;/p&gt;
@@ -422,10 +429,21 @@
 
 
 &lt;h2 id=&#34;pve-合并local-lvm和local分区&#34;&gt;&lt;a href=&#34;#pve-合并local-lvm和local分区&#34; class=&#34;headerlink&#34; title=&#34;pve 合并local-lvm和local分区&#34;&gt;&lt;/a&gt;pve 合并local-lvm和local分区&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/weixin_52960369/article/details/135450871&#34;&gt;参考&lt;/a&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;lsblk 查看一下分区结构&lt;/span&gt; &lt;br&gt;lsblk&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;备份一下 虚拟机的磁盘文件。。。 这一步我没做。。。。。 悲剧了&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;删除 local-lvm 千万注意备份一下 pve/data/ 目录下的 disk 虚拟磁盘文件 PVE8.2.2我照着这么操作直接把磁盘文件给删掉了，我人都傻了。。。。。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;后面几个就是在删除磁盘文件&lt;/span&gt;&lt;br&gt;lvremove pve/data&lt;br&gt;Removing pool pve/data will remove 3 dependent volume(s). Proceed? [y/n]: y&lt;br&gt;Do you really want to remove active logical volume pve/vm-220-disk-0? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;vm-220-disk-0&amp;quot; successfully removed.&lt;br&gt;Do you really want to remove active logical volume pve/vm-300-disk-0? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;vm-300-disk-0&amp;quot; successfully removed.&lt;br&gt;Do you really want to remove active logical volume pve/vm-220-disk-1? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;vm-220-disk-1&amp;quot; successfully removed.&lt;br&gt;Do you really want to remove active logical volume pve/data? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;data&amp;quot; successfully removed.&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;扩展&lt;span class=&#34;hljs-built_in&#34;&gt;local&lt;/span&gt;&lt;/span&gt;&lt;br&gt;lvextend -l +100%FREE -r pve/root&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;查看状态&lt;/span&gt;&lt;br&gt;lsblk&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ol&gt;
+&lt;li&gt;备份虚拟机磁盘文件&lt;ol&gt;
+&lt;li&gt;web备份&lt;ol&gt;
+&lt;li&gt;数据中心-存储-local-编辑-内容-添加“容器”和“磁盘镜像”属性&lt;/li&gt;
+&lt;li&gt;虚拟机-选定某一个虚拟机-硬件-硬盘-磁盘操作-移动存储-local&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;命令迁移 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;示例：迁移 VM ID 为 100 的 scsi0 磁盘到 &lt;span class=&#34;hljs-built_in&#34;&gt;local&lt;/span&gt;&lt;/span&gt;&lt;br&gt;qm move_disk 100 scsi0 local --format qcow2&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;迁移 ISO 文件&lt;/span&gt;&lt;br&gt;mv /var/lib/vz/template/iso/* /var/lib/vz/iso/&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;迁移备份文件&lt;/span&gt;&lt;br&gt;mv /var/lib/vz/dump/* /var/lib/vz/backups/&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;lsblk 查看一下分区结构&lt;/span&gt; &lt;br&gt;lsblk&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;备份一下 虚拟机的磁盘文件。。。 这一步我没做。。。。。 悲剧了&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;删除 local-lvm 千万注意备份一下 pve/data/ 目录下的 disk 虚拟磁盘文件 PVE8.2.2我照着这么操作直接把磁盘文件给删掉了，我人都傻了。。。。。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;后面几个就是在删除磁盘文件&lt;/span&gt;&lt;br&gt;lvremove pve/data&lt;br&gt;Removing pool pve/data will remove 3 dependent volume(s). Proceed? [y/n]: y&lt;br&gt;Do you really want to remove active logical volume pve/vm-220-disk-0? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;vm-220-disk-0&amp;quot; successfully removed.&lt;br&gt;Do you really want to remove active logical volume pve/vm-300-disk-0? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;vm-300-disk-0&amp;quot; successfully removed.&lt;br&gt;Do you really want to remove active logical volume pve/vm-220-disk-1? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;vm-220-disk-1&amp;quot; successfully removed.&lt;br&gt;Do you really want to remove active logical volume pve/data? [y/n]: y&lt;br&gt;  Logical volume &amp;quot;data&amp;quot; successfully removed.&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;扩展&lt;span class=&#34;hljs-built_in&#34;&gt;local&lt;/span&gt;&lt;/span&gt;&lt;br&gt;lvextend -l +100%FREE -r pve/root&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;查看状态&lt;/span&gt;&lt;br&gt;lsblk&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;在管理页面删除local-LVM&lt;br&gt;&lt;img src=&#34;/ProxmoxVE.assets/image-20240626174453544.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;修改 local 的属性将local-lvm的功能加上去。&lt;/p&gt;
+&lt;p&gt;在管理页面删除local-LVM（数据中心-存储）&lt;br&gt;&lt;img src=&#34;/2023/52f35219/image-20240808094958418.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;修改 local 的属性将local-lvm的功能加上去。（也可勾选所有可选项）&lt;/p&gt;
 &lt;h2 id=&#34;安装群晖&#34;&gt;&lt;a href=&#34;#安装群晖&#34; class=&#34;headerlink&#34; title=&#34;安装群晖&#34;&gt;&lt;/a&gt;安装群晖&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://post.smzdm.com/p/a2036n3n/&#34;&gt;参考&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;创建虚拟机&lt;ul&gt;
@@ -516,6 +534,24 @@
 
 &lt;p&gt;需要按照这个教程开启硬件直通功能&lt;br&gt;&lt;a href=&#34;https://foxi.buduanwang.vip/virtualization/pve/561.html/&#34;&gt;https://foxi.buduanwang.vip/virtualization/pve/561.html/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;开启后在控制面板直接添加PCI设备即可。&lt;br&gt;&lt;img src=&#34;/2023/52f35219/image-20240729150809676.png&#34;&gt;&lt;br&gt;&lt;img src=&#34;/2023/52f35219/image-20240729150802776.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Guest-Agent-的安装&#34;&gt;&lt;a href=&#34;#Guest-Agent-的安装&#34; class=&#34;headerlink&#34; title=&#34;Guest Agent 的安装&#34;&gt;&lt;/a&gt;Guest Agent 的安装&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;GuestAgent是什么&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Guest Agent 的主要作用&lt;/strong&gt;：增强管理功能（从 PVE 管理界面进行关机、重启、暂停；宿主可实时获取虚拟机的系统信息；部分场景下支持热增删 CPU、内存）；提升兼容性与性能；数据安全与备份；&lt;br&gt;&lt;strong&gt;注意&lt;/strong&gt;：Guest Agent 作为运行在虚拟机内的进程，若存在漏洞（如历史版本的 &lt;code&gt;qemu-guest-agent&lt;/code&gt; 曾被曝出远程代码执行漏洞），可能被攻击者利用，进而渗透至宿主或其他虚拟机。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;是否需要安装？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;推荐安装&lt;/strong&gt;：生产环境中的虚拟机、需要频繁管理或备份的场景，建议安装以获取完整功能。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可选场景&lt;/strong&gt;：仅运行简单任务的轻量级虚拟机（如测试环境），可根据需求决定是否安装。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;虚拟机内系统安装Guest Agent&lt;/strong&gt;&lt;br&gt;Linux&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;apt install qemu-guest-agent -y&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;Windows&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;virtio驱动光盘中找到 qemu-ga-x86_64.msi 文件进行安装&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;PVE启用Guest Agent&lt;/strong&gt;&lt;br&gt;点击虚拟机，左侧边栏里的“选项”，找到“QEMU Guest Agent”双击，在弹出的窗口中勾选“使用QEMU Guest Agent”，下方Type保持默认的VirtlO，点击OK保存即可。&lt;br&gt;&lt;img src=&#34;/2023/52f35219/file-20250523103958923.png&#34;&gt;&lt;br&gt;&lt;strong&gt;用法&lt;/strong&gt;&lt;br&gt;在PVE的shell里输入命令，即可通过QEMU Guest Agent控制客户机&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;vmid就是虚拟机的ID&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;hljs-meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;cmd就是你要执行的的命令&lt;/span&gt;&lt;br&gt; qm agent &amp;lt;vmid&amp;gt; &amp;lt;cmd&amp;gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;常用命令：&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs shell&#34;&gt;fsfreeze-freeze &lt;br&gt;fsfreeze-status&lt;br&gt;fsfreeze-thaw&lt;br&gt;fstrim                      #查看ssd-trim&lt;br&gt;get-fsinfo                  #查看磁盘信息&lt;br&gt;get-host-name               #查看主机名&lt;br&gt;get-memory-block-info       #查看内存块信息&lt;br&gt;get-memory-blocks           #查看内存&lt;br&gt;get-osinfo                  #查看系统信息&lt;br&gt;get-time                    #查看时间&lt;br&gt;get-timezone                #查看时区&lt;br&gt;get-users                   #用户&lt;br&gt;get-vcpus                   #查看CPU数量&lt;br&gt;info                        #查看支持的命令&lt;br&gt;network-get-interfaces      #查看网络   &lt;br&gt;shutdown                    #关机&lt;br&gt;suspend-disk                #休眠&lt;br&gt;suspend-hybrid              &lt;br&gt;suspend-ram                 &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 </content>
         <category term="pve" />
         <category term="virtual" />

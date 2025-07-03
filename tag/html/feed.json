@@ -11,8 +11,8 @@
             "date_published": "2024-02-26T00:08:08.000Z",
             "content_html": "<h1 id=\"JS-JavaScript\"><a href=\"#JS-JavaScript\" class=\"headerlink\" title=\"JS (JavaScript)\"></a>JS (JavaScript)</h1><h1 id=\"JS-简介\"><a href=\"#JS-简介\" class=\"headerlink\" title=\"JS 简介\"></a>JS 简介</h1><p>JavaScript 是 web 开发人员必须学习的 3 门语言中的一门：</p>\n<ol>\n<li><strong>HTML</strong> 定义了网页的内容</li>\n<li><strong>CSS</strong> 描述了网页的布局</li>\n<li><strong>JavaScript</strong> 控制了网页的行为</li>\n</ol>\n<h2 id=\"JS-特性\"><a href=\"#JS-特性\" class=\"headerlink\" title=\"JS 特性\"></a>JS 特性</h2><ul>\n<li>JavaScript 是脚本语言</li>\n<li>JavaScript 是互联网上最流行的脚本语言，这门语言可用于 HTML 和 web，更可广泛用于服务器、PC、笔记本电脑、平板电脑和智能手机等设备。</li>\n<li>JavaScript 是一种轻量级的编程语言。</li>\n<li>JavaScript 是可插入 HTML 页面的编程代码。</li>\n<li>JavaScript 插入 HTML 页面后，可由所有的现代浏览器执行。</li>\n<li>JavaScript 很容易学习。</li>\n</ul>\n",
             "tags": [
-                "web",
                 "html",
+                "web",
                 "js"
             ]
         },
@@ -23,9 +23,9 @@
             "date_published": "2024-02-21T00:08:08.000Z",
             "content_html": "<h1 id=\"CSS-Cascading-Style-Sheets\"><a href=\"#CSS-Cascading-Style-Sheets\" class=\"headerlink\" title=\"CSS (Cascading Style Sheets)\"></a>CSS (Cascading Style Sheets)</h1>",
             "tags": [
-                "web",
                 "css",
-                "html"
+                "html",
+                "web"
             ]
         },
         {
